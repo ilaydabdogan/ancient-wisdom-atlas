@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l8225-l8274
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  XXVI. / CHAPTER    XXVI,    I-XXVII,   2.  99 / Chapter   XXVII.
+    / CHAPTER    XXVII,    I  2-24.  IO3; lines 8225-8274
+  start: '8225'
+  end: '8274'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage classifies plant products and fruits: scented plant substances
+    are called scent, plant stickiness is called gum, timber from trees is called
+    wood, and the plants are called medicinal. It lists thirty principal kinds of
+    fruit divided by whether their inside or outside is fit to eat. It also states
+    that every flower is appropriate to an angel, with a note relating these angels
+    to the thirty angelic names used for the days of the Parsi month.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Scented plant substances, including examples such as frankincense, sandalwood,
+    cardamom, camphor, and orange-scented mint, are called scent.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sticky matter that comes out from plants is called gummy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Timber proceeding from trees, whether dry or wet, is called wood.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that all these plants are called medicinal.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The principal fruits are said to be thirty kinds, grouped by whether their
+    inside and outside are fit to eat.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Every single flower is said to be appropriate to an angel.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A source note identifies the relevant beings as thirty archangels and angels
+    whose names are applied to the thirty days of the Parsi month.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: angel / ameshospend
+  description: A class of angelic beings to whom flowers are said to be appropriate;
+    the note identifies them as thirty archangels and angels associated with the days
+    of the Parsi month.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: angelic counterpart of flowers
+  assigned_to:
+  - fig:1
+  basis: The passage states that every single flower is appropriate to an angel.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: scented plants
+  literal_form: Scented plant substances such as frankincense, sandalwood, cardamom,
+    camphor, and orange-scented mint.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: plant gum
+  literal_form: Sticky matter coming out from plants, called gummy.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: trees and wood
+  literal_form: Timber proceeding from trees, whether dry or wet, called wood.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: principal fruits
+  literal_form: Thirty principal kinds of fruit divided by edible inside and outside
+    portions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: flowers
+  literal_form: Every single flower, each described as appropriate to an angel.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Classification of plant products, fruits, and flowers
+  summary: The passage presents an expository classification of scented plant materials,
+    gum, wood, medicinal plants, principal fruits, and the relationship of flowers
+    to angels.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: botanical classification by property and edibility
+  taxonomy_refs: []
+  basis: The passage classifies plant products by scent, gum, wood, medicinal status,
+    and fruit edibility categories.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an expository taxonomy rather than a narrative mythic motif.
+- id: motif:2
+  label: flower-angel correspondence
+  taxonomy_refs: []
+  basis: The passage states that every single flower is appropriate to an angel, and
+    the note links these beings to thirty archangels and angels associated with the
+    Parsi month.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not name individual flowers or individual angels within
+    the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The flower-to-angel correspondence is linked in the note to the same thirty
+    archangels and angels whose names are applied to the thirty days of the Parsi
+    month.
+  claim_level: same_function
+  target: thirty-day Parsi month angel-name sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not provide the full list or order of the angels,
+    and the relationship is given by a note rather than developed in the main passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8225-8230
+  quote_or_summary: Scented substances from plants, with examples including frankincense,
+    sandalwood, cardamom, camphor, and orange-scented mint, are called scent.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8231-8234
+  quote_or_summary: Sticky matter from plants is called gummy, and timber from trees,
+    dry or wet, is called wood.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8234-8235
+  quote_or_summary: "“Every one of all these plants which is so, they call medicinal.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 8237-8248
+  quote_or_summary: 'The principal fruits are thirty kinds: some are fit to eat inside
+    and outside, some outside but not inside, and some inside but not outside; examples
+    include fig, apple, quince, grape, date, peach, walnut, almond, pomegranate, coconut,
+    and pistachio nut.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8250-8252
+  quote_or_summary: "“Every single flower is appropriate to an angel (ameshospend).”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 8272-8274
+  quote_or_summary: A note says these are the thirty archangels and angels whose names
+    are applied to the thirty days of the Parsi month.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly classificatory and expository. The flower-angel relationship
+    is explicit, but individual correspondences are not included in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the excerpt does not support one of the supplied motif-family categories beyond a general botanical and angelic correspondence pattern.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l8225-l8274
+  passage_sha256=cb01063ccace709372202eeb6eee6e8250fda84cbac3c7fb18da03574b663583
+

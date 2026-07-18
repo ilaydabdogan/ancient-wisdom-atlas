@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0050
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.displaced-elder-people-consigned-to-an-underworld
+  motif_id: displaced_elder_people_consigned_to_an_underworld
+  label: displaced elder people consigned to an underworld
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Consignment of a group to an underworld fits underworld placement or
+    descent imagery, even if not a voluntary hero journey.
+  cautions: May be an etiological or social-order episode about displaced elders rather
+    than a reusable descent motif; review source context.
+  suggested_aliases:
+  - underworld consignment
+  - elders sent to underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disputed-heroic-burial-with-cairn-and-inscription
+  motif_id: disputed_heroic_burial_with_cairn_and_inscription
+  label: Disputed heroic burial with cairn and inscription
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on heroic burial, memorial cairn, and inscription,
+    all fitting heroic funeral and memorialization rites.
+  cautions: The disputed-burial detail may be episode-specific; preserve cairn and
+    inscription as evidence rather than a standalone canonical motif.
+  suggested_aliases:
+  - heroic burial with cairn
+  - heroic grave inscription
+  - disputed hero burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-seeing-through-a-spirit-bearing-crystal
+  motif_id: distant_seeing_through_a_spirit_bearing_crystal
+  label: distant seeing through a spirit-bearing crystal
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: Crystal-mediated distant sight suggests divination or spirit-aided visionary
+    knowledge, but the spirit-bearing object may be culturally specific.
+  cautions: Culturally sensitive and source-dependent; could fit prophecy_divination,
+    sacred_treasures, dream_and_vision, or local spirit practice. Avoid flattening
+    Aboriginal spirit concepts without evidence review.
+  suggested_aliases:
+  - crystal scrying
+  - spirit-bearing crystal vision
+  - distant sight through crystal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-token-of-beloved-helper-s-death
+  motif_id: distant_token_of_beloved_helper_s_death
+  label: Distant token of beloved helper's death
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token communicates or proves a distant death, aligning with tokens
+    that convey identity, relationship, or denied events across distance.
+  cautions: If the token is mainly an omen of death, dream_and_vision or death_by_fate
+    may be secondary; if love is central, sacred_love may also apply.
+  suggested_aliases:
+  - death token from afar
+  - token announcing beloved helper's death
+  - distant death sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distribution-of-wealth-before-death
+  motif_id: distribution_of_wealth_before_death
+  label: Distribution of wealth before death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Pre-death distribution may function as gift-giving, social obligation,
+    inheritance, or preparation for death, but the motif function is unclear.
+  cautions: Could be legal custom, heroic duty, funerary preparation, or passage-specific
+    plot detail. Do not map to sacrifice or exchange without evidence of sacred or
+    reciprocal function.
+  suggested_aliases:
+  - pre-death wealth distribution
+  - deathbed gift distribution
+  - inheritance before death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-nature-spirit-spectators-of-a-heroic-undertaking
+  motif_id: divine_and_nature_spirit_spectators_of_a_heroic_undertaking
+  label: Divine and nature-spirit spectators of a heroic undertaking
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene detail about spectators rather than a stable
+    narrative function or symbolic motif.
+  cautions: If divine spectators actively judge, intervene, or witness an oath, remap
+    to divine_judgment, divine_intervention, or cosmic_witness after source review.
+  suggested_aliases:
+  - divine spectators of heroic deed
+  - nature spirits witness hero undertaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-armour-empowers-a-hero-s-return-to-combat
+  motif_id: divine_armour_empowers_a_hero_s_return_to_combat
+  label: divine armour empowers a hero's return to combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine armour is a power object that empowers heroic action and renewed
+    combat capacity.
+  cautions: May also relate to divine_warrior or sacred_combat; choose those only
+    if the combat function is primary over the object’s empowering role.
+  suggested_aliases:
+  - divine armor empowers hero
+  - sacred armour for renewed combat
+  - god-given armor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-arrows-as-unseen-sudden-death-and-pestilence
+  motif_id: divine_arrows_as_unseen_sudden_death_and_pestilence
+  label: Divine arrows as unseen sudden death and pestilence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine arrows causing sudden death or plague fit sacred punishment and
+    pestilence as divine response.
+  cautions: If the passage emphasizes weapon symbolism or combat rather than punishment,
+    divine_warrior or sacred_combat may be secondary.
+  suggested_aliases:
+  - divine arrows of plague
+  - unseen death by divine arrows
+  - pestilence arrows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-commission-of-thoth-as-underworld-administrator
+  motif_id: divine_commission_of_thoth_as_underworld_administrator
+  label: Divine commission of Thoth as underworld administrator
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: high
+  rationale: An underworld administrator deity belongs with afterlife navigation,
+    death rites, and postmortem administration.
+  cautions: Person-specific wording should be preserved as evidence; do not create
+    a Thoth-specific motif unless recurring across passages.
+  suggested_aliases:
+  - underworld administrator deity
+  - funerary deity as death administrator
+  - divine administrator of afterlife rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-decree-over-death-recorded-in-a-book
+  motif_id: divine_decree_over_death_recorded_in_a_book
+  label: Divine decree over death recorded in a book
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine written decree over death expresses death as ordained by a supra-human
+    authority.
+  cautions: Could also relate to divine_judgment or sacred_knowledge if the book functions
+    as moral record or revealed knowledge rather than fate decree.
+  suggested_aliases:
+  - written decree of death
+  - death recorded in divine book
+  - divinely decreed death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional suggestions for review; no transmission or borrowing
+  claim is implied.
+- Several one-occurrence labels are highly contextual and should retain granular evidence
+  notes even when mapped to existing groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Batch includes death/afterlife-adjacent labels plus several object, divination,
+    and heroic-combat scene details that require source-context checks.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0050
+  input_sha256: e9eff010c182ea50050f30dc94be33b11eacc93c70d9bdc18818267526ea624b
+

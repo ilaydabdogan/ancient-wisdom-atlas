@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1056
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fearsome-weapon-bearing-ascetic-encounter
+  motif_id: fearsome_weapon_bearing_ascetic_encounter
+  label: fearsome weapon-bearing ascetic encounter
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ascetic status, weapon-bearing, and encounter/ordeal;
+    placement depends on whether the figure is a divine test, threshold guardian,
+    warrior, or contextual episode.
+  cautions: Single occurrence and culturally specific ascetic-warrior imagery; avoid
+    flattening into generic combat without passage evidence.
+  suggested_aliases:
+  - armed_ascetic_encounter
+  - fearsome_ascetic_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - threshold_guardian
+    - divine_warrior
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-before-combat
+  motif_id: feast_before_combat
+  label: feast before combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A feast before battle may be ritual preparation, heroic hospitality,
+    narrative staging, or merely an episode detail.
+  cautions: Single occurrence; map to sacred_combat only if the feast has martial,
+    oath, sacrificial, or status-confirming function.
+  suggested_aliases:
+  - pre_battle_feast
+  - warrior_feast_before_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-interrupted-by-war-news
+  motif_id: feast_interrupted_by_war_news
+  label: feast interrupted by war news
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-transition or plot incident rather than a
+    durable symbolic motif.
+  cautions: If the interruption functions as a call to arms or fate omen, reconsider
+    under hero_journey or prophecy_divination after source review.
+  suggested_aliases:
+  - war_news_interrupts_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-on-slain-monster-leaves-relics-for-later-craft
+  motif_id: feast_on_slain_monster_leaves_relics_for_later_craft
+  label: Feast on slain monster leaves relics for later craft
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This composite includes monster-slaying, feast, relics, and later craft;
+    the dominant motif cannot be determined from the label alone.
+  cautions: Could be sacred_combat, sacred_treasures, sacred_craft, or sacrifice depending
+    on whether the focus is victory, remains, crafting, or ritual consumption.
+  suggested_aliases:
+  - monster_relics_used_for_craft
+  - slain_monster_remains_as_craft_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_craft
+    - sacred_treasures
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-reception-of-visiting-war-band
+  motif_id: feast_reception_of_visiting_war_band
+  label: Feast reception of visiting war-band
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reception of a visiting war-band centers on host-guest obligations and
+    socially charged hospitality, even in a martial setting.
+  cautions: If the passage emphasizes alliance, battle preparation, or warrior retinue
+    status more than hospitality, sacred_combat may be a secondary review target.
+  suggested_aliases:
+  - war_band_hospitality
+  - feast_for_visiting_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feat-performed-on-hostile-weapons
+  motif_id: feat_performed_on_hostile_weapons
+  label: Feat performed on hostile weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic feat involving enemy weapons fits martial ordeal and ritualized
+    combat display.
+  cautions: If the weapons are sacred power objects or confer legitimacy, sacred_treasures
+    or royal_legitimacy may also be relevant.
+  suggested_aliases:
+  - weapon_feat
+  - heroic_feat_with_hostile_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feather-decoy-used-to-draw-prey-within-spear-range
+  motif_id: feather_decoy_used_to_draw_prey_within_spear_range
+  label: feather decoy used to draw prey within spear range
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a hunting tactic or decoy strategy, but the taxonomy
+    lacks a clear hunting/animal-prey motif group.
+  cautions: May be an ethnographic or episode-specific technique rather than a mythic
+    motif; review cultural context carefully.
+  suggested_aliases:
+  - hunting_decoy_draws_prey
+  - feather_decoy_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-battle-apparitions-across-battle-scenes
+  motif_id: female_battle_apparitions_across_battle_scenes
+  label: Female battle apparitions across battle scenes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: role_variant
+  confidence: medium
+  rationale: Battle apparitions are visionary manifestations associated with conflict
+    and fate, fitting dream/vision more directly than combat action itself.
+  cautions: If the apparition is a goddess actively determining battle, divine_intervention
+    or divine_warrior may be a better secondary placement.
+  suggested_aliases:
+  - battle_apparition
+  - female_war_apparition
+  - battlefield_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_warrior
+    - death_by_fate
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-host-or-public-woman-as-temptation-to-the-hero
+  motif_id: female_host_or_public_woman_as_temptation_to_the_hero
+  label: female host or public woman as temptation to the hero
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe erotic initiation, hospitality, temptation, civilizing
+    encounter, or gendered moral framing; source context is required.
+  cautions: Culturally and gender-sensitive wording; avoid creating a broad motif
+    from a possibly passage-specific or biased generated label.
+  suggested_aliases:
+  - female_host_as_heroic_temptation
+  - erotic_temptation_of_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_love
+    - hospitality_test_stranger_guest
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-lament-leading-into-retrospective-heroic-narrative
+  motif_id: female_lament_leading_into_retrospective_heroic_narrative
+  label: Female lament leading into retrospective heroic narrative
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on lament as the frame that evokes heroic memory and
+    retrospective narration.
+  cautions: If the label only describes literary structure rather than an in-world
+    lament, it may be partly a textual artifact; preserve narrative-frame detail in
+    notes.
+  suggested_aliases:
+  - lament_frames_heroic_retrospective
+  - female_lament_as_heroic_narrative_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence martial feast or scene-sequence
+  labels; human review should distinguish ritualized combat motifs from plot staging
+  and editorial artifacts.
+- Avoid treating all conflict-adjacent feasts as sacred_combat unless the passage
+  gives the feast a ritual, oath, hospitality, sacrificial, or status-confirming function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source passage review recommended for composite
+    and culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1056
+  input_sha256: db0e6cc085bba3128a27ae567bdc81f7547609c1781f9f7d9679751d5a9570a1
+

@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0685
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bride-won-through-dangerous-contests
+  motif_id: bride_won_through_dangerous_contests
+  label: bride won through dangerous contests
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: high
+  rationale: Existing sacred_love children already include bride-winning contests;
+    this is a dangerous-contest variant of courtship or marriage acquisition.
+  cautions: If the passage emphasizes heroic ordeal more than marriage, secondary
+    review under initiation or sacred_combat may be useful.
+  suggested_aliases:
+  - bride_winning_dangerous_contest
+  - dangerous_bride_contest
+  - bride_won_by_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-won-through-public-contest
+  motif_id: bride_won_through_public_contest
+  label: bride won through public contest
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: high
+  rationale: The group already contains bride_choice_assembly and bride_winning_martial_contest,
+    making public contest bride-winning a clear fit.
+  cautions: Public contest may also encode royal legitimacy or succession if the bride
+    confers rule; check source context.
+  suggested_aliases:
+  - bride_winning_public_contest
+  - public_bride_contest
+  - marriage_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bridegroom-refuses-the-feast-until-the-bride-appears
+  motif_id: bridegroom_refuses_the_feast_until_the_bride_appears
+  label: bridegroom refuses the feast until the bride appears
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mark wedding custom, marital recognition, ritual refusal,
+    or a passage-specific plot detail.
+  cautions: Do not map solely to sacred_love unless the refusal functions as courtship,
+    fidelity, or recognition rather than local feast etiquette.
+  suggested_aliases:
+  - bridegroom_refuses_feast
+  - wedding_feast_refusal_until_bride_appears
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-condition-causes-loss-of-transformed-beloved-child
+  motif_id: broken_condition_causes_loss_of_transformed_beloved_child
+  label: Broken condition causes loss of transformed beloved child
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core recurring function is a transformed child whose loss follows
+    violation of a condition, fitting enchanted transformation and unstable bodily
+    form.
+  cautions: Could also belong with sacred_love if the emotional center is loss of
+    a beloved child, or with curse_blessing_speech if the condition is a binding verbal
+    taboo.
+  suggested_aliases:
+  - broken_condition_loses_transformed_child
+  - taboo_broken_loss_of_enchanted_child
+  - lost_transformed_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-condition-ends-enchanted-marriage-and-prosperity
+  motif_id: broken_condition_ends_enchanted_marriage_and_prosperity
+  label: Broken condition ends enchanted marriage and prosperity
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on an enchanted marriage whose benefits end when a
+    condition is broken, fitting love/marriage under supernatural constraint.
+  cautions: If the condition is the main sacred speech act or taboo, curse_blessing_speech
+    or sacred_law may be a stronger secondary mapping.
+  suggested_aliases:
+  - broken_condition_ends_enchanted_marriage
+  - taboo_broken_ends_supernatural_marriage
+  - enchanted_marriage_lost_by_broken_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-verbal-condition-causes-separation-from-beloved
+  motif_id: broken_verbal_condition_causes_separation_from_beloved
+  label: Broken verbal condition causes separation from beloved
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A verbal condition binds the relationship and its breach produces separation,
+    matching performative speech, oath, taboo, or geis logic.
+  cautions: Also relevant to sacred_love when the narrative focus is the lost beloved
+    rather than the binding utterance.
+  suggested_aliases:
+  - verbal_taboo_broken_separates_beloveds
+  - broken_speech_condition_loses_beloved
+  - beloved_lost_by_broken_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-home-and-children-in-animal-address-rhyme
+  motif_id: burning_home_and_children_in_animal_address_rhyme
+  label: burning home and children in animal-address rhyme
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a rhyme formula or passage detail rather than a
+    stable narrative motif.
+  cautions: If the source narrative centers on animal speech causing family destruction,
+    remap after review to storytelling_as_power, trickster, or divine_judgment as
+    appropriate.
+  suggested_aliases:
+  - animal_address_rhyme_burning_home
+  - burning_home_children_rhyme_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.camp-fire-transmission-of-stories-to-children
+  motif_id: camp_fire_transmission_of_stories_to_children
+  label: camp-fire transmission of stories to children
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intergenerational story transmission fits narrative as cultural memory
+    and sacred or communal knowledge transfer.
+  cautions: Handle culturally specific Indigenous contexts carefully; if this is merely
+    ethnographic setting metadata, exclude from motif queries.
+  suggested_aliases:
+  - intergenerational_story_transmission
+  - campfire_storytelling_to_children
+  - oral_transmission_to_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-transformation-after-killing-a-sage-s-son
+  motif_id: cannibal_transformation_after_killing_a_sage_s_son
+  label: cannibal transformation after killing a sage’s son
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes transformation into or toward cannibal being after
+    a wrongful killing, a punishment-transformation pattern.
+  cautions: May be better under divine_judgment if moral retribution by curse is central;
+    the sage/son details are likely episode-specific.
+  suggested_aliases:
+  - cannibal_transformation_as_punishment
+  - punitive_cannibal_transformation
+  - transformation_after_killing_sage_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-child-tethered-to-water-being-and-retrieved-by-cutting-the-tether
+  motif_id: captive_child_tethered_to_water_being_and_retrieved_by_cutting_the_tether
+  label: captive child tethered to water-being and retrieved by cutting the tether
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines child abduction, water-being captivity, and rescue
+    mechanism; the main motif depends on source evidence.
+  cautions: Could map to otherworld, miraculous_child, threshold_guardian, sacred_waters,
+    or divine_intervention depending on whether the water-being, child protection,
+    or retrieval action is primary.
+  suggested_aliases:
+  - child_captive_of_water_being
+  - water_being_tethers_child
+  - child_retrieved_by_cutting_tether
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  granular wording as evidence even when mapped to broader groups.
+- Bride-winning contest labels are already well covered by sacred_love children and
+  aliases in the current normalization groups.
+- Broken-condition beloved motifs may need future cross-indexing between sacred_love,
+  curse_blessing_speech, and shapeshifter if many variants recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific or context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0685
+  input_sha256: e22af56e7f7adb6dab642480adfb6abd47c6912c8dd37e8ce2b1e2142ea3c9e8
+

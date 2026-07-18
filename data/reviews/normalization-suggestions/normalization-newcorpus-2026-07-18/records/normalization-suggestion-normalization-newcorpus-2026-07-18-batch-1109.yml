@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1109
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mercy-after-defeated-enemy-s-plea
+  motif_id: mercy_after_defeated_enemy_s_plea
+  label: mercy after defeated enemy's plea
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: Existing covenant group already contains mercy toward defeated enemies
+    and supplication-for-pardon variants.
+  cautions: Confirm the passage emphasizes mercy or restored order, not merely tactical
+    capture or battlefield procedure.
+  suggested_aliases:
+  - mercy_to_a_defeated_enemy
+  - supplication_for_pardon_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-and-healing-after-victory
+  motif_id: mercy_and_healing_after_victory
+  label: Mercy and healing after victory
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Post-victory mercy repairs social bonds and fits the existing mercy/compassion
+    cluster under covenant.
+  cautions: Healing may be a distinct restorative or divine-intervention element if
+    supernatural healing is central.
+  suggested_aliases:
+  - mercy_after_victory
+  - healing_after_victory
+  - post_victory_reconciliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-or-capture-intended-toward-enemy-champion
+  motif_id: mercy_or_capture_intended_toward_enemy_champion
+  label: mercy or capture intended toward enemy champion
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: May fit mercy toward an enemy, but the wording also allows strategic
+    capture rather than ethical mercy.
+  cautions: Review source context before indexing; if capture strategy dominates,
+    sacred_combat may be better or the label may be too specific.
+  suggested_aliases:
+  - mercy_toward_enemy_champion
+  - capture_of_enemy_champion
+  - spared_enemy_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-to-a-defeated-enemy-brings-lasting-peace
+  motif_id: mercy_to_a_defeated_enemy_brings_lasting_peace
+  label: mercy to a defeated enemy brings lasting peace
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: Mercy toward a defeated enemy producing peace is a clear repair of social
+    order and matches existing mercy aliases.
+  cautions: If the passage frames peace as political treaty rather than sacred or
+    ethical repair, royal_legitimacy or sacred_law may be secondary.
+  suggested_aliases:
+  - mercy_to_a_defeated_enemy
+  - mercy_brings_peace
+  - post_conflict_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-to-a-wounded-enemy-messenger
+  motif_id: mercy_to_a_wounded_enemy_messenger
+  label: Mercy to a wounded enemy messenger
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy to an enemy or vulnerable suppliant fits the covenant group's compassion
+    and supplication cluster.
+  cautions: Messenger status may invoke rules of war or hospitality; preserve that
+    role detail rather than creating a separate motif from one occurrence.
+  suggested_aliases:
+  - mercy_to_enemy_messenger
+  - mercy_to_wounded_enemy
+  - protection_of_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-toward-a-defeated-female-opponent
+  motif_id: mercy_toward_a_defeated_female_opponent
+  label: mercy toward a defeated female opponent
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is mercy toward a defeated foe, already represented
+    under covenant-related mercy variants.
+  cautions: Gendered role may be culturally important; review whether the source emphasizes
+    dharma, gender rule, kinship, or battlefield ethics.
+  suggested_aliases:
+  - mercy_to_a_defeated_enemy
+  - mercy_to_female_opponent
+  - spared_defeated_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-toward-a-defeated-servant
+  motif_id: mercy_toward_a_defeated_servant
+  label: mercy toward a defeated servant
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy toward a defeated subordinate fits the existing mercy/compassion
+    cluster under covenant.
+  cautions: If servant status rather than enemy status is central, this may be a household
+    hierarchy or social-order detail.
+  suggested_aliases:
+  - mercy_to_defeated_servant
+  - mercy_toward_a_defeated_enemy
+  - mercy_toward_subordinate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.message-sought-from-the-battlefield
+  motif_id: message_sought_from_the_battlefield
+  label: message sought from the battlefield
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a scene-level plot or communication detail rather than
+    a durable symbolic motif.
+  cautions: If the message is prophetic, oath-bearing, or identity-confirming, remap
+    to prophecy_divination, curse_blessing_speech, or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - battlefield_message
+  - news_from_battlefield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-as-bearer-of-warning-and-good-tidings
+  motif_id: messenger_as_bearer_of_warning_and_good_tidings
+  label: Messenger as bearer of warning and good tidings
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A messenger bearing warning and good tidings may be prophetic or angelic
+    guidance, but the label alone is too broad.
+  cautions: Do not map to divine_intervention unless the messenger has sacred, prophetic,
+    or angelic function; otherwise it may be a generic narrative role.
+  suggested_aliases:
+  - bearer_of_warning_and_good_tidings
+  - sacred_messenger
+  - prophetic_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-rewarded-for-joyful-news
+  motif_id: messenger_rewarded_for_joyful_news
+  label: messenger rewarded for joyful news
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Rewarding a messenger for good news appears to be a contextual narrative
+    detail, not a clear mythic motif group.
+  cautions: If the reward establishes sacred reciprocity, royal legitimacy, or performative
+    speech power, review for secondary mapping.
+  suggested_aliases:
+  - reward_for_good_news
+  - messenger_rewarded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are variants of the existing covenant-group mercy cluster despite
+  appearing in the conflict bucket.
+- Messenger labels need source review because they may be mundane plot mechanics,
+  prophetic roles, or divine/angelic mediation depending on evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review should verify whether
+    battlefield mercy is framed as sacred/ethical repair or simply tactical conduct.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1109
+  input_sha256: a4422124c565b3c7d0833ca4832c5e542dd924cd2de54f27eb7f4085cb0a99b3
+

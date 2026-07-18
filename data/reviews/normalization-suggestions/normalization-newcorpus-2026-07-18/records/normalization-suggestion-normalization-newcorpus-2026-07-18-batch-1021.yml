@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1021
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.borrowed-heroic-armor-as-proxy-image
+  motif_id: borrowed_heroic_armor_as_proxy_image
+  label: borrowed heroic armor as proxy image
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Borrowed armor functions as a visible identity proxy or misrecognition
+    token in a heroic conflict scene.
+  cautions: If the passage emphasizes martial honor or battle consequence more than
+    mistaken identity, divine_warrior or sacred_combat may be better secondary contexts.
+  suggested_aliases:
+  - borrowed armor as identity proxy
+  - heroic armor as mistaken identity token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-hero-who-voluntarily-remains-bound
+  motif_id: bound_hero_who_voluntarily_remains_bound
+  label: bound hero who voluntarily remains bound
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe self-restraint, vow-bound duty, captivity, ordeal,
+    or sacrificial submission depending on episode context.
+  cautions: Do not map to sacrifice or initiation without evidence that voluntary
+    binding transforms status, fulfills a vow, or functions as sacred surrender.
+  suggested_aliases:
+  - voluntary heroic bondage
+  - hero remains bound by choice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brave-warrior-contrasted-with-coward
+  motif_id: brave_warrior_contrasted_with_coward
+  label: brave warrior contrasted with coward
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The contrast centers on warrior role, martial honor, and heroic evaluation
+    within combat tradition.
+  cautions: May be an ethical or rhetorical passage detail rather than a durable motif;
+    consider exclusion if no narrative function beyond characterization.
+  suggested_aliases:
+  - warrior courage contrasted with cowardice
+  - heroic bravery versus cowardice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bridal-night-contest-of-strength
+  motif_id: bridal_night_contest_of_strength
+  label: Bridal-night contest of strength
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marital or bridal contest belongs with bride-winning and marriage-choice
+    patterns already grouped under sacred_love.
+  cautions: If the contest functions mainly as heroic ordeal, coercive violence, or
+    sovereignty testing, also review initiation, sacred_combat, or royal_legitimacy.
+  suggested_aliases:
+  - marriage strength contest
+  - bridal contest of strength
+  - bride-winning strength ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-gate-opens-battle-with-hidden-defender
+  motif_id: broken_gate_opens_battle_with_hidden_defender
+  label: Broken gate opens battle with hidden defender
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a battle-opening tactical threshold scene, best parked
+    under warfare/combat if retained.
+  cautions: Likely episode-specific; exclude from pattern queries if it is only a
+    local battle detail without recurring symbolic or ritual function.
+  suggested_aliases:
+  - gate breach battle
+  - hidden defender at broken gate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brother-s-wrongdoing-and-contested-desertion
+  motif_id: brother_s_wrongdoing_and_contested_desertion
+  label: Brother’s wrongdoing and contested desertion
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes kinship, moral blame, and abandonment without enough
+    evidence for a clear motif group.
+  cautions: Could involve sibling_pair, covenant/duty, divine_judgment, or a passage-specific
+    ethical debate; source context is required.
+  suggested_aliases:
+  - contested fraternal desertion
+  - brother wrongdoing and abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brothers-seek-vengeance-in-serial-combat
+  motif_id: brothers_seek_vengeance_in_serial_combat
+  label: Brothers seek vengeance in serial combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Serial combat motivated by vengeance fits the sacred_combat cluster,
+    especially existing vengeance and duel patterns.
+  cautions: Sibling_pair may be a secondary relation if the brothers’ kinship, complementarity,
+    or rivalry is central rather than only their combat role.
+  suggested_aliases:
+  - vengeance in serial combat
+  - brothers avenge through successive duels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-hall-battle
+  motif_id: burning_hall_battle
+  label: burning hall battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hall-burning battle is a violent conflict setting and tactic within
+    heroic or feud warfare.
+  cautions: If fire’s purifying or world-ending function is explicit, sacred_fire
+    or world_destroying_fire may be relevant; otherwise keep as combat evidence detail.
+  suggested_aliases:
+  - hall-burning battle
+  - battle in a burning hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-hall-revenge
+  motif_id: burning_hall_revenge
+  label: Burning hall revenge
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revenge enacted through hall-burning belongs with feud, vengeance, and
+    ritualized violent conflict patterns.
+  cautions: May also involve betrayal_violated_trust if the burning occurs under hospitality
+    or household protection; avoid treating all fire imagery as sacred_fire.
+  suggested_aliases:
+  - hall-burning revenge
+  - revenge by burning a hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-for-vengeance-after-a-hero-s-injury
+  motif_id: call_for_vengeance_after_a_hero_s_injury
+  label: call for vengeance after a hero’s injury
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero’s injury prompting vengeance fits warrior honor and martial proof
+    patterns under divine_warrior, with sacred_combat as a related context.
+  cautions: If the call itself is an oath, curse, or binding speech act, curse_blessing_speech
+    may be a secondary mapping.
+  suggested_aliases:
+  - vengeance call after heroic injury
+  - injured hero prompts vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence heroic combat labels; several should
+  remain granular evidence rather than become canonical taxonomy motifs.
+- For hall-burning items, distinguish fire as a battle tactic from sacred_fire or
+  world-destroying fire.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for low-confidence
+    and episode-specific combat labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1021
+  input_sha256: a4fa1d7293620ed612cb23057457426d9cdd94ba970e33b458f5b47b81d74d8f
+

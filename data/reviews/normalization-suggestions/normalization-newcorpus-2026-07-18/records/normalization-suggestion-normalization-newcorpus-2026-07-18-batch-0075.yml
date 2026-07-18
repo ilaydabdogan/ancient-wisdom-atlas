@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0075
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hell-as-pit-and-burning-fire
+  motif_id: hell_as_pit_and_burning_fire
+  label: hell as pit and burning fire
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a postmortem punitive realm with mapped imagery of
+    pit and fire, fitting afterlife geography and passage/judgment contexts.
+  cautions: If the passage only uses hellfire as moral warning rather than afterlife
+    topography, divine_judgment may be the better primary group.
+  suggested_aliases:
+  - hell_as_pit
+  - hellfire_pit
+  - punitive_afterlife_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hell-tree
+  motif_id: hell_tree
+  label: Hell tree
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label likely refers to a specific infernal tree within afterlife
+    geography, but its function is unclear from the label alone.
+  cautions: Could map to afterlife_passage if it marks a hell landmark, sacred_tree_axis
+    if cosmological/tree symbolism is central, or divine_judgment if it functions
+    as punishment. Islamic source sensitivity and passage evidence needed.
+  suggested_aliases:
+  - infernal_tree
+  - tree_of_hell
+  - zaqqum_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hellfire-and-extreme-torment
+  motif_id: hellfire_and_extreme_torment
+  label: Hellfire and extreme torment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hellfire torment is a punitive consequence of sacred moral reckoning,
+    aligning most directly with divine judgment.
+  cautions: If the passage maps stages or locations of the afterlife, afterlife_passage
+    should be a secondary or alternate mapping.
+  suggested_aliases:
+  - hellfire_torment
+  - infernal_punishment
+  - postmortem_torment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-accepts-foretold-death-for-vengeance
+  motif_id: hero_accepts_foretold_death_for_vengeance
+  label: hero accepts foretold death for vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is a hero knowingly accepting a foretold death, with
+    vengeance as the motive for embracing fate.
+  cautions: Could also relate to sacred_combat or divine_warrior when the combat setting
+    is primary; preserve vengeance detail as evidence.
+  suggested_aliases:
+  - foretold_death_accepted
+  - hero_accepts_fated_death
+  - vengeance_despite_foreknown_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-arms-from-stored-spoils-before-returning-to-combat
+  motif_id: hero_arms_from_stored_spoils_before_returning_to_combat
+  label: Hero arms from stored spoils before returning to combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific arming detail rather than a durable
+    symbolic or narrative motif.
+  cautions: If repeated as a recognition, inheritance, or power-object pattern, review
+    under sacred_treasures or divine_warrior; otherwise preserve as passage evidence
+    only.
+  suggested_aliases:
+  - arming_from_spoils
+  - hero_returns_to_combat_armed_from_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-burial-with-funeral-games
+  motif_id: hero_burial_with_funeral_games
+  label: hero burial with funeral games
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of the existing funeral_games_after_heroic_death
+    child under heroic funeral rites.
+  cautions: None beyond confirming that actual funeral games or memorial contests
+    are present in the passage.
+  suggested_aliases:
+  - funeral_games_after_heroic_death
+  - heroic_funeral_games
+  - hero_funeral_games
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-claims-ancestral-weapon
+  motif_id: hero_claims_ancestral_weapon
+  label: Hero claims ancestral weapon
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ancestral weapon functions as a power object conferring heroic authority,
+    lineage, or legitimacy.
+  cautions: If the claim primarily proves kinship or identity, recognition_tokens_hidden_identity
+    may be a better mapping; if it authorizes rule, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - ancestral_weapon
+  - inherited_weapon
+  - lineage_weapon_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-defined-by-paternal-descent
+  motif_id: hero_defined_by_paternal_descent
+  label: Hero defined by paternal descent
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate lineage-based heroic identity, but it is too abstract
+    to place confidently without source function.
+  cautions: Could fit royal_legitimacy, miraculous_child, culture_hero, or recognition
+    identity patterns depending on whether descent legitimizes rule, destiny, ancestry,
+    or simple genealogy.
+  suggested_aliases:
+  - paternal_lineage_defines_hero
+  - heroic_identity_by_father
+  - heroic_paternal_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-feared-as-death-dealer
+  motif_id: hero_feared_as_death_dealer
+  label: hero feared as death-dealer
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A hero feared as a dealer of death is a martial role image aligned with
+    sacred combat and warrior power.
+  cautions: If the phrase is merely an epithet in one passage, it may be too thin
+    for pattern queries; if moral punishment is emphasized, divine_judgment may also
+    apply.
+  suggested_aliases:
+  - death_dealing_hero
+  - terrible_warrior_as_death
+  - hero_as_death_dealer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-death-by-a-coalition-of-named-enemies
+  motif_id: hero_s_death_by_a_coalition_of_named_enemies
+  label: Hero's death by a coalition of named enemies
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a specific death-scene detail centered on named enemies
+    rather than a reusable motif structure.
+  cautions: If the important pattern is fated heroic death or ritualized combat, review
+    under death_by_fate or sacred_combat; otherwise preserve as episode evidence.
+  suggested_aliases:
+  - hero_killed_by_enemy_coalition
+  - death_by_named_enemies
+  - coalition_slays_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic death or arming details;
+  preserve granular evidence but avoid promoting episode-specific wording into canonical
+  motifs.
+- Infernal imagery should be distinguished between afterlife geography, punitive divine
+  judgment, and object/tree symbolism before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review needed especially for culturally
+    specific Islamic hell imagery and abstract lineage labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0075
+  input_sha256: e8ce0a0a98b66e2895e15772dec25e44ee376a13f5fea0e0f9d7a6524ff24cc1
+

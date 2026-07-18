@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0898
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cross-and-water-as-paired-salvific-signs
+  motif_id: cross_and_water_as_paired_salvific_signs
+  label: cross and water as paired salvific signs
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines Christian cross symbolism, water, and salvation; no
+    existing group cleanly captures this paired sacramental sign pattern.
+  cautions: Single occurrence and tradition-specific theological symbolism; could
+    fit sacred_waters, sacred_treasures, divine_intervention, or covenant depending
+    on passage evidence.
+  suggested_aliases:
+  - paired salvific signs
+  - cross and water as salvation signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_treasures
+    - covenant
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-as-four-wind-sign
+  motif_id: cross_as_four_wind_sign
+  label: cross as four-wind sign
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cross oriented to four winds likely functions as a directional world-ordering
+    sign, close to sacred center and cosmic orientation motifs.
+  cautions: Do not equate with Christian cross symbolism; verify whether the cross
+    marks cosmological directions, ritual space, or a local calendrical/weather sign.
+  suggested_aliases:
+  - four-wind cross
+  - cross as directional sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-associated-with-four-winds
+  motif_id: cross_associated_with_four_winds
+  label: cross associated with four winds
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Association of a cross with four winds suggests directional cosmology
+    and spatial ordering around a center.
+  cautions: Likely duplicate or close alias of cross_as_four_wind_sign; review local
+    evidence before merging and avoid Christianizing the symbol.
+  suggested_aliases:
+  - four winds cross
+  - cross linked to four winds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-regional-recurrence-of-tale-elements
+  motif_id: cross_regional_recurrence_of_tale_elements
+  label: cross-regional recurrence of tale elements
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative recurrence across regions rather than
+    a narrative, ritual, or symbolic motif.
+  cautions: Preserve only as review or provenance metadata; do not treat as evidence
+    of transmission in this task.
+  suggested_aliases:
+  - cross-regional tale recurrence
+  - recurrence of tale elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cycles-of-embodiment-before-access-to-light
+  motif_id: cycles_of_embodiment_before_access_to_light
+  label: Cycles of embodiment before access to Light
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated embodiment before access to Light fits a salvific interior journey
+    toward liberation and direct sacred knowledge.
+  cautions: Could also involve death_and_transformation or sacred_knowledge; Gnostic
+    terminology is culturally specific and should be checked against source context.
+  suggested_aliases:
+  - embodiment cycles before light
+  - ascent to light through embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dance-for-water-and-rabbits-triumph-title
+  motif_id: dance_for_water_and_rabbits_triumph_title
+  label: Dance for water and rabbits' triumph title
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording appears to be a tale title or composite title rather than
+    a normalized motif label.
+  cautions: If passage evidence shows ritual dancing to obtain water or trickster-rabbit
+    victory, split into meaningful motifs such as sacred_waters, sacred_exchange,
+    or trickster.
+  suggested_aliases:
+  - dance for water
+  - rabbit's triumph
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.danger-of-bathing-in-deep-water-holes
+  motif_id: danger_of_bathing_in_deep_water_holes
+  label: danger of bathing in deep water holes
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Deep water holes may be sacred, dangerous, inhabited, tabooed, or simply
+    a local hazard; the function is unclear from the label alone.
+  cautions: Culturally sensitive site and water-being associations may be present;
+    do not reduce to generic sacred_waters without source evidence.
+  suggested_aliases:
+  - dangerous deep water holes
+  - bathing taboo in deep water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_law
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.danger-revealed-by-sudden-light
+  motif_id: danger_revealed_by_sudden_light
+  label: Danger revealed by sudden light
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sudden light functions as an altered perception or revelation that discloses
+    hidden danger.
+  cautions: If the light is divine presence, theophany or sacred_fire may be secondary;
+    if it is merely a plot device, treat as over-specific evidence detail.
+  suggested_aliases:
+  - sudden light reveals danger
+  - light discloses hidden threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-allure-figured-as-fire
+  motif_id: dangerous_allure_figured_as_fire
+  label: dangerous allure figured as fire
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a metaphor of temptation or danger rather than a clear
+    sacred fire motif.
+  cautions: Could fit sacred_fire, sacred_love, pride_and_downfall, or divine_judgment
+    depending on whether fire is symbolic, erotic, punitive, or revelatory.
+  suggested_aliases:
+  - allure as fire
+  - temptation figured as fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-disposal-of-troublesome-spouse-in-water-or-pit
+  motif_id: dangerous_disposal_of_troublesome_spouse_in_water_or_pit
+  label: dangerous disposal of troublesome spouse in water or pit
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific plot action involving spouse disposal
+    rather than a broad water, pit, or descent motif.
+  cautions: If recurrent as marital murder, trickster punishment, or underworld-pit
+    disposal, review under sacred_love, divine_judgment, or descent; current wording
+    is too specific for pattern queries.
+  suggested_aliases:
+  - spouse disposed in water or pit
+  - dangerous spouse disposal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - divine_judgment
+    - descent
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use elemental wording but are not automatically nature-element
+  motifs; water, fire, light, and cross imagery require source-function review.
+- The two four-wind cross labels appear to be close duplicates and should be reviewed
+  together for possible aliasing under axis_mundi or a future directional-cosmology
+  child.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    cross, water-hole, and Gnostic-light labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0898
+  input_sha256: d94b89e12b1113ebcb0adc0b6c8f10974ceb6887b28a942d94918ec1f077a9d5
+

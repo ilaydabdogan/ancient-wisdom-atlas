@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1006
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wounding-at-a-fruit-tree-and-loss-of-a-hero-s-arm
+  motif_id: wounding_at_a_fruit_tree_and_loss_of_a_hero_s_arm
+  label: Wounding at a fruit tree and loss of a hero’s arm
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines a specific location, wound, and bodily loss; function
+    is unclear without passage evidence.
+  cautions: Could belong to heroic combat, dismemberment/death transformation, sacred
+    tree symbolism, or be episode-specific evidence only.
+  suggested_aliases:
+  - hero wounded at fruit tree
+  - loss of hero's arm
+  - heroic dismemberment at tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrath-imagined-as-destructive-fire-and-bloody-retribution
+  motif_id: wrath_imagined_as_destructive_fire_and_bloody_retribution
+  label: Wrath imagined as destructive fire and bloody retribution
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wrath expressed through fire and bloody punishment fits retributive judgment
+    more than fire as a neutral element.
+  cautions: If the passage emphasizes cosmic/world destruction, consider flood_and_renewal
+    or world_destroying_fire; if only metaphorical emotion, preserve as evidence detail.
+  suggested_aliases:
+  - fiery wrath
+  - destructive wrath as fire
+  - bloody retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrathful-warrior-figured-as-fire-and-annihilation
+  motif_id: wrathful_warrior_figured_as_fire_and_annihilation
+  label: Wrathful warrior figured as fire and annihilation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core figure is a warrior in annihilating combat, with fire imagery
+    as intensifying symbolism.
+  cautions: If the passage centers on fire as divine presence or purification rather
+    than combat rage, sacred_fire may be a secondary fit.
+  suggested_aliases:
+  - fiery warrior wrath
+  - warrior as fire
+  - annihilating battle fury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-restoring-water-in-the-monster-s-castle
+  motif_id: youth_restoring_water_in_the_monster_s_castle
+  label: Youth-restoring water in the monster's castle
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water functions as a sacred or magical restorative substance that renews
+    vitality.
+  cautions: The monster's castle is likely setting detail; if the focus is rejuvenation/immortality
+    rather than water, sacred_substance or death_and_transformation may be relevant.
+  suggested_aliases:
+  - youth-restoring water
+  - rejuvenating water
+  - water of youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-battlefield-rampage
+  motif_id: heroic_battlefield_rampage
+  label: heroic battlefield rampage
+  occurrences: 2
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero's destructive battlefield action belongs with sacred or heroic
+    combat patterns already grouped under divine_warrior.
+  cautions: If the passage is ordinary battle description without sacred, heroic,
+    or cosmic significance, it may be too generic for motif queries.
+  suggested_aliases:
+  - heroic battle fury
+  - battlefield rampage
+  - warrior rampage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-warning-before-danger
+  motif_id: ignored_warning_before_danger
+  label: ignored warning before danger
+  occurrences: 2
+  traditions:
+  - hopi
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ignoring a warning can function as prophecy, taboo violation, folly,
+    initiation failure, or plot setup depending on context.
+  cautions: Do not map automatically to prophecy_divination unless the warning is
+    sacred, prophetic, or divinatory; may be a generic narrative device.
+  suggested_aliases:
+  - warning ignored
+  - disregarded warning
+  - danger after ignored counsel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-abnormal-offspring-become-destructive-monsters
+  motif_id: abandoned_abnormal_offspring_become_destructive_monsters
+  label: Abandoned abnormal offspring become destructive monsters
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines abnormal birth, abandonment, monster origin, and later
+    destruction; no existing group captures all functions cleanly.
+  cautions: Culturally sensitive wording should be reviewed; could involve monster
+    origins, violated kinship duties, miraculous/ominous birth, or divine judgment.
+  suggested_aliases:
+  - abandoned offspring become monsters
+  - monstrous offspring origin
+  - rejected children become destructive beings
+  suggested_new_group:
+    id: monster_origin
+    label: Monster Origin and Monstrous Offspring
+    description: Origins of destructive or dangerous beings through abnormal birth,
+      abandonment, transgression, failed care, or transformation.
+    parent_group_ids:
+    - miraculous_child
+    - divine_warrior
+    related_group_ids:
+    - divine_judgment
+    - shapeshifter
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, transformation,
+      and combat, but not the origin of monsters as a recurring narrative problem.
+- suggestion_id: normalization.suggestion.abandoning-failed-ranged-weapon-for-close-combat-arms
+  motif_id: abandoning_failed_ranged_weapon_for_close_combat_arms
+  label: Abandoning failed ranged weapon for close combat arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical battle detail rather than a durable mythic motif.
+  cautions: If the weapon failure is sacred, fated, or tied to a special vulnerability,
+    review under sacred_combat or conditional_invulnerability_hidden_weakness.
+  suggested_aliases:
+  - failed ranged weapon
+  - shift to close combat
+  - weapon tactic change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-enabling-betrayal-by-a-remaining-enemy
+  motif_id: absence_enabling_betrayal_by_a_remaining_enemy
+  label: absence enabling betrayal by a remaining enemy
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative engine is betrayal or treacherous action made possible
+    by a protector or hero's absence.
+  cautions: If the emphasis is strategic ambush rather than violated trust, sacred_combat
+    may be a secondary or better fit.
+  suggested_aliases:
+  - betrayal during absence
+  - enemy betrayal in hero's absence
+  - absence permits treachery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-hero-s-armor-creates-mistaken-presence
+  motif_id: absent_hero_s_armor_creates_mistaken_presence
+  label: absent hero's armor creates mistaken presence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Armor functions as an identity token causing mistaken recognition or
+    assumed presence of the hero.
+  cautions: If the armor is treated primarily as a sacred power object or battle relic,
+    sacred_treasures or divine_warrior may be secondary mappings.
+  suggested_aliases:
+  - armor as mistaken identity token
+  - hero's armor mistaken for hero
+  - absent hero represented by armor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and battle-scene-specific; preserve
+  as evidence details unless recurrence or symbolic function is confirmed.
+- Avoid treating fire imagery as automatically world-destroying fire; distinguish
+  emotional wrath, sacred combat, divine judgment, and cosmic destruction.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; items with ambiguous monster-origin or ignored-warning
+    functions need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1006
+  input_sha256: 800c038cdb844871459d83fd3c23f5e3ccdb41c033d44e255cea9836f5aec12f
+

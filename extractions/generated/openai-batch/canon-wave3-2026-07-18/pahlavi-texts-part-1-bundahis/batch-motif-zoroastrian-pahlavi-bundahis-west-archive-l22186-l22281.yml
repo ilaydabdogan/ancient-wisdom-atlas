@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l22186-l22281
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    XX,  2-1 1.  395 / CHAPTER    XX,   I  2 -XXI,   2.  397 / Chapter    XXI
+    / CHAPTER    XXI,   3-6.  399; lines 22186-22281
+  start: '22186'
+  end: '22281'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for identifying the Auzerin or afternoon period
+    by observing the sun’s position in zodiacal signs and measuring the length of
+    a person’s shadow. It describes the shadow increasing by set amounts from Cancer
+    toward Capricornus and then decreasing as the night shortens and the day lengthens.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The text says the midday shadow is written and introduces the indication of
+    the Auzerin, or afternoon, period of the day with a wish for divine help and good
+    fortune.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the day is at a maximum, the sun reaches the head of Cancer, and a person’s
+    shadow becomes six feet and two parts; this marks the Atazerin period.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The shadow is said to increase by one foot and one-third every thirty days,
+    with the reckoning counted as half a foot about every ten days.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the sun reaches the head of Leo, the shadow is seven and a half feet.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The same treatment is applied to zodiacal constellations and months until
+    the sun reaches the head of Capricornus, where the shadow becomes fourteen feet
+    and two parts.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In Capricornus the shadow diminishes again by one foot and one-third, and
+    from that turning point it continues to diminish monthly because the night decreases
+    and the day increases.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: The celestial body whose position at the heads of Cancer, Leo, and
+    Capricornus is used to determine shadow lengths and the afternoon period.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: God (yazdan)
+  description: Divine helper invoked in the wish that the indication of the afternoon
+    period be well and fortunate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: celestial time-marker
+  assigned_to:
+  - fig:1
+  basis: The sun’s movement to named zodiacal positions determines the measured shadow
+    and the stated time period.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: invoked divine helper
+  assigned_to:
+  - fig:2
+  basis: The passage asks that the indication of the afternoon period be fortunate
+    by the help of God.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: measured shadow
+  literal_form: A person’s shadow measured in feet and parts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: zodiacal heads
+  literal_form: The heads of Cancer, Leo, and Capricornus used as solar markers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: turning point in Capricornus
+  literal_form: The point where the shadow begins to diminish as night decreases and
+    day increases.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Indication of the afternoon period
+  summary: The passage introduces the writing of the midday shadow and the Auzerin
+    or afternoon period, invoking God’s help, and states that a particular shadow
+    length at Cancer marks the Atazerin period.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Increasing shadow through the months
+  summary: The shadow increases by regular monthly and ten-day measures as the sun
+    moves through zodiacal constellations, including Leo, toward Capricornus.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Diminishing shadow after Capricornus
+  summary: At Capricornus the sequence turns back, and the shadow diminishes at the
+    same monthly rate because the night decreases and the day increases until the
+    earlier shadow length returns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: seasonal solar-shadow cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes a regular annual pattern in which solar position, zodiacal
+    months, day length, night length, and measured shadows increase and decrease in
+    a cycle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is primarily technical and calendrical rather than a narrative
+    myth; the motif is extracted as a recurring cosmological time-ordering pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XXI.3-5; lines 22186-22205
+  quote_or_summary: The text writes the midday shadow, introduces the Auzerin afternoon
+    period with a wish for God’s help, and says that at the head of Cancer a six-foot-and-two-parts
+    shadow marks the Atazerin period.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: Chapter XXI.6; lines 22232-22240
+  quote_or_summary: Every thirty days the shadow increases by one foot and one-third;
+    about every ten days the reckoning is half a foot, and at Leo the shadow is seven
+    and a half feet.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: Chapter XXI.7; lines 22240-22247
+  quote_or_summary: Each zodiacal constellation and month is treated alike until the
+    sun reaches Capricornus and the shadow becomes fourteen feet and two parts.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: Chapter XXI.8; lines 22247-22258
+  quote_or_summary: In Capricornus the shadow diminishes by one foot and one-third,
+    then continues diminishing each month because night decreases and day increases
+    until it returns to six feet and two parts.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal calendrical sequence is clear. Motif classification is limited
+    because the passage is an observational timekeeping rule, not a mythic narrative.
+    No cross-text comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction focuses on the chapter passage supplied, including its calendrical sequence of sun, zodiac, day length, night length, and measured shadow.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l22186-l22281
+  passage_sha256=3f38d46421f11b5f552f0361afed99dd708e23800675f34a3abf38d16f66eace
+

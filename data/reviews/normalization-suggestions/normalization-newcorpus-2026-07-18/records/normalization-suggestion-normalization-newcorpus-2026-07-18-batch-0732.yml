@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0732
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-as-hunger-driven-entrapment
+  motif_id: marriage_as_hunger_driven_entrapment
+  label: Marriage as hunger-driven entrapment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage, hunger, and entrapment; the dominant narrative
+    function is unclear from wording alone.
+  cautions: Could be sacred_love, betrayal/violated trust, trickster entrapment, social
+    coercion, or an over-specific episode detail. Needs passage context.
+  suggested_aliases:
+  - hunger-driven marriage trap
+  - marriage as entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-binds-outsider-to-dangerous-local-custom
+  motif_id: marriage_binds_outsider_to_dangerous_local_custom
+  label: marriage binds outsider to dangerous local custom
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern marriage as social binding, dangerous custom, or
+    outsider initiation, but the function is ambiguous.
+  cautions: May fit sacred_law if the local custom is taboo/law, initiation if marriage
+    creates an ordeal, or sacred_love if spouse relationship drives the plot. Single
+    occurrence and culturally contextual.
+  suggested_aliases:
+  - outsider bound by marriage to local custom
+  - dangerous marriage custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-chosen-to-avoid-labor
+  motif_id: marriage_chosen_to_avoid_labor
+  label: marriage chosen to avoid labor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific motivation or social detail rather
+    than a reusable mythic motif.
+  cautions: If the passage frames avoidance of labor as a moral test, trickster strategy,
+    or gendered social pattern, human review may retain it under another group.
+  suggested_aliases:
+  - marriage as avoidance of work
+  - marriage to escape labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-conditioned-on-preserving-animal-sibling-bond
+  motif_id: marriage_conditioned_on_preserving_animal_sibling_bond
+  label: marriage conditioned on preserving animal-sibling bond
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage condition, kinship bond, and animal sibling
+    transformation or identity.
+  cautions: Could belong with sacred_love, sibling_pair, shapeshifter, or miraculous_child
+    depending on whether the animal sibling is enchanted, kin, helper, or taboo object.
+    Needs source evidence.
+  suggested_aliases:
+  - marriage condition preserves animal sibling
+  - animal sibling bond as marriage condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-feast-following-disenchantment
+  motif_id: marriage_feast_following_disenchantment
+  label: Marriage feast following disenchantment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marriage feast after disenchantment functions as love/union resolving
+    an enchantment plot.
+  cautions: If the passage emphasizes transformation more than union, shapeshifter
+    or death_and_transformation may be useful secondary mappings. Feast detail may
+    be episode-specific.
+  suggested_aliases:
+  - wedding feast after disenchantment
+  - marriage after enchantment broken
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-following-rescue
+  motif_id: marriage_following_rescue
+  label: Marriage following rescue
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage as the outcome or reward after rescue fits existing sacred_love
+    marriage-choice and bride-winning patterns.
+  cautions: May be better indexed under hero_journey or sacred_combat if rescue ordeal,
+    not marriage relation, is the central pattern.
+  suggested_aliases:
+  - rescue followed by marriage
+  - marriage as rescue reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-following-revival
+  motif_id: marriage_following_revival
+  label: marriage following revival
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage after restoration to life links union with renewal and love
+    beyond death-like interruption.
+  cautions: If revival is the core event, death_and_transformation should be a secondary
+    or primary mapping. Single occurrence may be episode-specific.
+  suggested_aliases:
+  - marriage after revival
+  - wedding after restoration to life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-gift-as-reward-for-martial-service
+  motif_id: marriage_gift_as_reward_for_martial_service
+  label: marriage gift as reward for martial service
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The martial service reward function points more to heroic combat and
+    status exchange than to love itself.
+  cautions: Could also relate to sacred_love or royal_legitimacy if the marriage confers
+    bride-winning status, alliance, or succession. Preserve marriage-gift detail as
+    evidence.
+  suggested_aliases:
+  - marriage as reward for martial service
+  - bride reward for warrior service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-granted-through-repeated-family-and-bride-consent
+  motif_id: marriage_granted_through_repeated_family_and_bride_consent
+  label: Marriage granted through repeated family and bride consent
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Existing sacred_love children include bride choice and bride's own answer,
+    matching consent-centered marriage granting.
+  cautions: May also be a social-law or kinship custom rather than symbolic love motif;
+    review whether repeated consent is narratively important or merely procedural
+    detail.
+  suggested_aliases:
+  - bride and family consent to marriage
+  - repeated consent grants marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-into-royal-family-to-retain-a-court-official
+  motif_id: marriage_into_royal_family_to_retain_a_court_official
+  label: Marriage into royal family to retain a court official
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage into the royal family functions as political incorporation and
+    court-order maintenance, not primarily romance.
+  cautions: If the passage is administrative or biographical rather than mythic, it
+    may be too specific for pattern queries. Consider sacred_love only if the relationship
+    itself drives the story.
+  suggested_aliases:
+  - royal marriage to retain official
+  - marriage as court incorporation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence marriage outcomes or motivations; preserve
+  local evidence but avoid promoting a broad marriage group unless many related labels
+  recur.
+- For marriage labels, distinguish romantic union, bride-winning reward, political
+  alliance, social-law consent, and episode-specific motivation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional placements only; marriage-related labels often require source
+    context to identify narrative function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0732
+  input_sha256: 6595e807df074eaa4de2005ade664167aa3bad5967a558d1f5ca0c1a38c7fc67
+

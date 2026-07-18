@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1448
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.internal-smithing-as-coercive-action
+  motif_id: internal_smithing_as_coercive_action
+  label: internal smithing as coercive action
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is obscure; it may involve magical craft, bodily transformation,
+    coercion, or a passage-specific Kalevala-style episode.
+  cautions: Needs source evidence before mapping to sacred_craft, sacrifice, shapeshifter,
+    or divine_intervention.
+  suggested_aliases:
+  - coercive internal smithing
+  - smithing as coercion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - shapeshifter
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.interpolated-or-apocryphal-scripture-as-supporting-witness
+  motif_id: interpolated_or_apocryphal_scripture_as_supporting_witness
+  label: Interpolated or apocryphal scripture as supporting witness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual status and evidentiary use rather than a
+    narrative or symbolic motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not use as
+    motif evidence.
+  suggested_aliases:
+  - apocryphal scripture as witness
+  - interpolated scripture as supporting evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intertown-race-with-wagered-goods
+  motif_id: intertown_race_with_wagered_goods
+  label: intertown race with wagered goods
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A wagered race may be a contest, ritual competition, or local episode,
+    but no current group clearly captures non-combat competitive games.
+  cautions: May be too specific for pattern queries unless competitive contests recur
+    across sources; avoid forcing into sacred_combat without violence or ritual warfare.
+  suggested_aliases:
+  - wagered race between towns
+  - competitive race with stakes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxication-used-to-overcome-reluctance
+  motif_id: intoxication_used_to_overcome_reluctance
+  label: intoxication used to overcome reluctance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on intoxicating drink or substance altering agency
+    and enabling an action.
+  cautions: If the emphasis is betrayal, coercion, or feast deception rather than
+    the substance itself, betrayal_violated_trust or storytelling_as_power may be
+    secondary.
+  suggested_aliases:
+  - intoxicating drink overcomes reluctance
+  - drugged consent or reluctance overcome
+  - intoxication as coercion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inverted-royal-supplication-to-a-subordinate
+  motif_id: inverted_royal_supplication_to_a_subordinate
+  label: inverted royal supplication to a subordinate
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: medium
+  rationale: The label fits the existing supplication and mercy cluster under covenant,
+    with hierarchical inversion as the distinctive role pattern.
+  cautions: If the passage primarily concerns kingship status reversal, royal_legitimacy
+    may also be relevant; preserve the inversion detail as evidence.
+  suggested_aliases:
+  - royal supplication to subordinate
+  - hierarchically inverted supplication
+  - king supplicates subordinate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inverted-vapor-eating-beings-harmed-by-solid-food
+  motif_id: inverted_vapor_eating_beings_harmed_by_solid_food
+  label: Inverted vapor-eating beings harmed by solid food
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a very specific food-nature inversion among nonordinary
+    beings, but its narrative function is unclear.
+  cautions: Could involve otherworld beings, taboo food, sacred substance, or etiological
+    anthropology; source context is needed before indexing.
+  suggested_aliases:
+  - vapor-eating beings harmed by solid food
+  - spirit beings harmed by human food
+  - food inversion among otherworld beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inviolability-of-the-envoy
+  motif_id: inviolability_of_the_envoy
+  label: inviolability of the envoy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: child
+  confidence: medium
+  rationale: The envoy's protected status is a social-ethical rule governing lawful
+    conduct, fitting sacred law and social order.
+  cautions: If framed as royal diplomacy or war protocol, royal_legitimacy or sacred_combat
+    may be secondary rather than primary.
+  suggested_aliases:
+  - envoy immunity
+  - messenger inviolability
+  - protected status of the envoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisibility-granting-headgear
+  motif_id: invisibility_granting_headgear
+  label: Invisibility-granting headgear
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: high
+  rationale: A headgear object that grants invisibility is a power object conferring
+    special ability on its bearer.
+  cautions: If the narrative emphasizes concealment as identity disguise rather than
+    the object, shapeshifter or recognition_tokens_hidden_identity may be secondary.
+  suggested_aliases:
+  - cap of invisibility
+  - helmet of invisibility
+  - invisibility-giving headgear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisibility-through-control-of-perception
+  motif_id: invisibility_through_control_of_perception
+  label: Invisibility through control of perception
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The motif turns on altered perception: invisibility is produced by controlling
+    what observers can perceive.'
+  cautions: If achieved through a magical object, map to sacred_treasures; if through
+    bodily transformation or illusion, shapeshifter may be secondary.
+  suggested_aliases:
+  - perception-controlled invisibility
+  - concealment by altering perception
+  - invisibility by illusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - shapeshifter
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisible-people-who-observe-others
+  motif_id: invisible_people_who_observe_others
+  label: Invisible people who observe others
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Invisible observers may be otherworld beings, magically concealed humans,
+    witnesses, or a scene-specific device.
+  cautions: Needs passage context to distinguish otherworld presence, perception magic,
+    surveillance, or hidden identity; may be too broad as phrased.
+  suggested_aliases:
+  - invisible observers
+  - unseen people watching others
+  - hidden invisible witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - dream_and_vision
+    - shapeshifter
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; preserve
+  granular wording as evidence notes unless recurrence is shown.
+- Invisibility-related labels may eventually support a concealment/illusion group,
+  but current evidence can be handled provisionally through sacred_treasures, dream_and_vision,
+  shapeshifter, or otherworld depending on function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for obscure or over-specific
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1448
+  input_sha256: 017d68e2a678bd67d543d45da2e796d92518338d396867d356b370aad25fd9b0
+

@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0129
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.separated-spouses-and-delayed-return
+  motif_id: separated_spouses_and_delayed_return
+  label: separated spouses and delayed return
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve sacred love, return, exile, or ordinary plot
+    delay; death/afterlife relevance is not evident from the label alone.
+  cautions: Single occurrence and likely context-dependent; do not map to death/descent
+    without evidence of postmortem separation or otherworld return.
+  suggested_aliases:
+  - delayed return of separated spouses
+  - spousal separation and return delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - hero_journey
+    - return
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sepulchral-mound-with-wrapped-and-ornamented-dead
+  motif_id: sepulchral_mound_with_wrapped_and_ornamented_dead
+  label: sepulchral mound with wrapped and ornamented dead
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes burial treatment and memorial deposition of the dead,
+    fitting funeral rites and memorialization.
+  cautions: May be an archaeological or passage-specific burial detail rather than
+    a recurring symbolic motif; verify whether mound, wrapping, and ornaments carry
+    ritual meaning in the source.
+  suggested_aliases:
+  - ornamented burial in sepulchral mound
+  - wrapped and adorned dead in mound burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.service-owed-to-a-dead-ally
+  motif_id: service_owed_to_a_dead_ally
+  label: service owed to a dead ally
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: An obligation owed to a dead ally centers on binding duty that persists
+    beyond death.
+  cautions: If the passage emphasizes funerary obligation, heroic memorial service,
+    or vengeance for the dead, heroic_funeral_rites, sacred_combat, or restless_dead_haunting_vengeance
+    may be better secondary mappings.
+  suggested_aliases:
+  - obligation to dead ally
+  - posthumous duty to ally
+  - service owed after ally's death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - sacred_combat
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servitor-spirit-sent-to-seize-a-personal-spirit
+  motif_id: servitor_spirit_sent_to_seize_a_personal_spirit
+  label: Servitor spirit sent to seize a personal spirit
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spirit seizing a personal spirit matches soul capture or loss requiring
+    ritual or narrative response.
+  cautions: Culturally sensitive and source-dependent; if the key motif is containment
+    of a separable soul rather than illness or loss, external_soul may be a secondary
+    mapping.
+  suggested_aliases:
+  - spirit seizes personal spirit
+  - servitor spirit captures soul
+  - soul seizure by spirit agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-hell-architecture
+  motif_id: sevenfold_hell_architecture
+  label: Sevenfold Hell architecture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: high
+  rationale: A structured multi-level hell is part of mapped postmortem geography
+    used in afterlife navigation and judgment traditions.
+  cautions: Preserve the sevenfold architectural detail as local evidence; do not
+    generalize to descent unless a journey through the levels is described.
+  suggested_aliases:
+  - seven levels of hell
+  - seven-tier hell architecture
+  - layered hell geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-ordeal-in-death-scene
+  motif_id: sevenfold_ordeal_in_death_scene
+  label: sevenfold ordeal in death scene
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: A multi-stage ordeal around death resembles postmortem or death-threshold
+    testing and passage.
+  cautions: If the ordeal occurs before death as heroic testing rather than afterlife
+    passage, initiation or death_by_fate may fit better; source sequence is needed.
+  suggested_aliases:
+  - sevenfold death ordeal
+  - seven-stage ordeal at death
+  - death-scene sevenfold trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - death_by_fate
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-expressing-anger-after-death
+  motif_id: severed_head_expressing_anger_after_death
+  label: Severed head expressing anger after death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead severed head retaining anger suggests postmortem agency and unresolved
+    vengeance or hostility.
+  cautions: Could also be a heroic relic, trophy, or animated body-part motif; verify
+    whether the head acts as a revenant presence or merely an episode detail.
+  suggested_aliases:
+  - angry severed head after death
+  - postmortem anger of severed head
+  - speaking or expressive severed head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - death_and_transformation
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-expulsion-of-evil-spirits-from-the-sick
+  motif_id: shamanic_expulsion_of_evil_spirits_from_the_sick
+  label: shamanic expulsion of evil spirits from the sick
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The normalization already folds exorcism and spirit-affliction expulsion
+    under the ritual_expulsion complex within sacrifice.
+  cautions: Culturally specific healing practice; retain shamanic and illness context
+    as evidence and avoid reducing it to sacrifice if no offering or transfer is present.
+  suggested_aliases:
+  - exorcism of spirits from the sick
+  - spirit-affliction healing by expulsion
+  - ritual expulsion of illness spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - soul_loss_restoration
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-sacred-authority-through-distribution-of-spirit
+  motif_id: shared_sacred_authority_through_distribution_of_spirit
+  label: shared sacred authority through distribution of Spirit
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Distribution of Spirit that confers authority is direct sacred action
+    in human leadership or communal order.
+  cautions: May also concern royal legitimacy, prophetic call, or covenantal office;
+    capitalization of Spirit may be tradition-specific and should be reviewed carefully.
+  suggested_aliases:
+  - distribution of spirit confers authority
+  - shared authority by divine spirit
+  - spirit distributed among leaders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - covenant
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-burial-of-a-chief
+  motif_id: ship_burial_of_a_chief
+  label: Ship burial of a chief
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A chief's ship burial is a funerary honor and memorial rite for a high-status
+    dead figure.
+  cautions: If the ship functions as a vehicle for afterlife travel, afterlife_passage
+    may be a secondary mapping; avoid treating all boats as ark_vessel unless preservation
+    through catastrophe is present.
+  suggested_aliases:
+  - chieftain ship burial
+  - boat burial of a ruler
+  - high-status ship funeral
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review; several labels are single-occurrence
+  and depend heavily on source context.
+- The death/descent bucket appears to include ritual, legal-obligation, and authority-transfer
+  labels that should not automatically map to afterlife or descent motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: JSON-only provisional normalization suggestions generated from supplied taxonomy
+    and current normalization groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0129
+  input_sha256: 89bf1e6770856784572da610b357c501c2021364de7cb610e56776d75953e789
+

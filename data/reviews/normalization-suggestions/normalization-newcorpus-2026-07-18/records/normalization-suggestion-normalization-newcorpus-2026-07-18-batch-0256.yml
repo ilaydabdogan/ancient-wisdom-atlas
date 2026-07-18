@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0256
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.boast-against-cosmic-and-divine-powers-before-downfall
+  motif_id: boast_against_cosmic_and_divine_powers_before_downfall
+  label: boast against cosmic and divine powers before downfall
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A boast against divine or cosmic powers followed by collapse is a clear
+    hubris-downfall pattern already covered by pride_and_downfall.
+  cautions: Single occurrence; if the source emphasizes sacred combat rather than
+    moral overreach, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - boastful challenge before downfall
+  - boast against divine powers
+  - hubristic boast punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-vow-to-annihilate-named-enemies
+  motif_id: boastful_vow_to_annihilate_named_enemies
+  label: boastful vow to annihilate named enemies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow to annihilate enemies belongs to martial oath and combat escalation
+    within sacred or heroic warfare.
+  cautions: Could map to curse_blessing_speech if the vow itself is performative and
+    binding; could be over-specific if only a battle speech detail.
+  suggested_aliases:
+  - martial vow of annihilation
+  - boastful battle vow
+  - vow to destroy enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-vow-to-take-an-enemy-s-head-as-a-trophy
+  motif_id: boastful_vow_to_take_an_enemy_s_head_as_a_trophy
+  label: Boastful vow to take an enemy's head as a trophy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing divine_warrior group already includes body-part trophies
+    as proof of combat, and this label is a specific vowed trophy-taking variant.
+  cautions: If the vow as speech act is more important than the trophy, consider curse_blessing_speech
+    as a secondary relation; likely too specific for canonical promotion.
+  suggested_aliases:
+  - vow to take enemy head
+  - head trophy vow
+  - martial trophy vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-as-temple-of-god
+  motif_id: body_as_temple_of_god
+  label: Body as temple of God
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body as divine temple is an interior-sacred anthropology motif, close
+    to existing mystical body/self-knowledge variants.
+  cautions: Could also fit sacred_law if used to ground bodily purity rules, or world_center
+    if the body functions cosmologically as a sanctuary.
+  suggested_aliases:
+  - body as divine temple
+  - body as sacred dwelling
+  - body as sanctuary of God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-marks-sanctioned-by-a-named-sacred-authority
+  motif_id: body_marks_sanctioned_by_a_named_sacred_authority
+  label: Body marks sanctioned by a named sacred authority
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to initiation marks, sacred law, identity signs,
+    or culturally specific ritual practice, and source context is needed.
+  cautions: Culturally sensitive bodily marking practices should not be generalized
+    from a single label; review whether the marks are initiation, protection, authority,
+    kinship, or passage-specific evidence.
+  suggested_aliases:
+  - sacredly sanctioned body marks
+  - ritual body markings
+  - authorized sacred scarification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-union-of-head-and-members-with-god
+  motif_id: body_union_of_head_and_members_with_god
+  label: Body-union of head and members with God
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Union of bodily members with God expresses mystical or theological union
+    with sacred reality.
+  cautions: May be doctrinal ecclesiology rather than narrative motif; if the passage
+    is commentary on church/body metaphor, consider exclusion or textual note.
+  suggested_aliases:
+  - body union with God
+  - members united with divine head
+  - mystical body union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bones-carried-in-ritual-dance
+  motif_id: bones_carried_in_ritual_dance
+  label: Bones carried in ritual dance
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a mortuary or ancestor-related ritual, but the function
+    of the bones and dance is not clear from the label alone.
+  cautions: Potentially culturally sensitive ritual evidence; review whether this
+    belongs under ancestor_rites, heroic_funeral_rites, sacrifice, or sacred_time
+    before indexing.
+  suggested_aliases:
+  - ritual dance with bones
+  - bones borne in ceremony
+  - mortuary bone dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-granted-after-divine-negotiation
+  motif_id: boon_granted_after_divine_negotiation
+  label: boon granted after divine negotiation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boon gained through negotiation with divine powers fits reciprocal
+    sacred exchange and divine-human bargaining.
+  cautions: If the boon creates invulnerability with an omitted loophole, conditional_invulnerability_hidden_weakness
+    may be the better group; if it is simply divine aid, divine_intervention may be
+    secondary.
+  suggested_aliases:
+  - divine boon negotiation
+  - negotiated boon
+  - boon after bargaining with deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-monster-defeated-by-community-and-demigod
+  motif_id: bound_monster_defeated_by_community_and_demigod
+  label: bound monster defeated by community and demigod
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A demigod and community defeating a monster fits sacred combat against
+    dangerous beings, even if the monster is already bound.
+  cautions: Could instead belong to divine_intervention or conditional_invulnerability_hidden_weakness
+    if the binding or special defeat condition is central.
+  suggested_aliases:
+  - bound monster defeated
+  - demigod defeats bound monster
+  - community monster-slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-limited-sanctuary-protection
+  motif_id: boundary_limited_sanctuary_protection
+  label: Boundary-limited sanctuary protection
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protection limited by sanctuary boundaries is a sacred-law and ritual-space
+    rule governing safety and asylum.
+  cautions: Could also fit world_center or portable_sanctuary if the sanctuary is
+    a cosmic center, or threshold_guardian if protection depends on guarded boundaries.
+  suggested_aliases:
+  - sanctuary boundary protection
+  - asylum within sacred boundary
+  - bounded sacred protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence labels; preserve them as granular
+  evidence rather than promoting to canonical motif families.
+- Several labels involve ritual or culturally specific bodily/mortuary practices and
+  should receive human review before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0256
+  input_sha256: f06fce79c4ac0961d95dccb00c2659370514d43e31c1e9ad63904cbe2186ba05
+

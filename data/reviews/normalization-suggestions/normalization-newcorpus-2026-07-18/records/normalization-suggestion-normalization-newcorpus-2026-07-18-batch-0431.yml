@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0431
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-forest-hermitage-as-meeting-place
+  motif_id: sacred_forest_hermitage_as_meeting_place
+  label: sacred forest hermitage as meeting place
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_geography_pilgrimage
+  suggested_group_label: Sacred Geography and Pilgrimage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A forest hermitage functioning as a sacred meeting place fits sacred
+    landscape or pilgrimage-space logic already included under axis_mundi children.
+  cautions: The specific hermitage-meeting scene may be contextual; if no pilgrimage
+    or cosmic-center function is present, treat as a setting detail.
+  suggested_aliases:
+  - forest hermitage
+  - sacred hermitage meeting place
+  - ashram as sacred meeting place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-forest-landscape-with-mountain-river-and-hermits
+  motif_id: sacred_forest_landscape_with_mountain_river_and_hermits
+  label: sacred forest landscape with mountain, river, and hermits
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_geography_pilgrimage
+  suggested_group_label: Sacred Geography and Pilgrimage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a clustered sacred landscape of mountain, river,
+    forest, and ascetics, best handled as sacred geography rather than as separate
+    mountain or water motifs.
+  cautions: Over-specific composite label; map separately to axis_mundi or sacred_waters
+    only if the passage gives those elements distinct symbolic functions.
+  suggested_aliases:
+  - sacred forest landscape
+  - hermitage landscape
+  - mountain river hermitage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fourfold-ordering-and-repetition
+  motif_id: sacred_fourfold_ordering_and_repetition
+  label: sacred fourfold ordering and repetition
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Fourfold ritual or cosmological ordering may relate to sacred time, sacred
+    law, or cosmic order, but the function is unclear from the label alone.
+  cautions: Culturally specific Navajo ceremonial numerology should be reviewed with
+    source evidence; avoid flattening into generic duality or cosmic order.
+  suggested_aliases:
+  - fourfold sacred order
+  - ritual fourfold repetition
+  - sacred repetition by fours
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fragrance-as-sign-of-a-buddha-s-former-presence
+  motif_id: sacred_fragrance_as_sign_of_a_buddha_s_former_presence
+  label: Sacred fragrance as sign of a Buddha's former presence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A fragrance marking a Buddha's prior presence functions as a sensory
+    trace of sacred manifestation.
+  cautions: If the passage treats the scent as relic veneration or pilgrimage evidence
+    rather than manifestation, sacred_treasures or sacred_geography_pilgrimage may
+    be secondary.
+  suggested_aliases:
+  - sacred fragrance
+  - fragrance as trace of Buddha
+  - scent of sacred presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-game-of-the-solitary-hermit
+  motif_id: sacred_game_of_the_solitary_hermit
+  label: sacred game of the solitary hermit
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual play, solitary practice, or a culture-specific
+    ceremonial action, but no existing group clearly captures its function.
+  cautions: Needs source context and culturally sensitive review; may be an over-specific
+    ethnographic detail rather than a cross-source motif.
+  suggested_aliases:
+  - hermit sacred game
+  - solitary ritual game
+  - ceremonial game of hermit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-garments-protecting-against-ritual-danger
+  motif_id: sacred_garments_protecting_against_ritual_danger
+  label: sacred garments protecting against ritual danger
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Protective ritual clothing fits purity, prohibition, and apotropaic protection
+    patterns already folded under sacred_law.
+  cautions: If the garments are emphasized as power objects rather than ritual protection,
+    sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - protective sacred garments
+  - ritual garments against danger
+  - priestly garments as protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-greeting-averts-destructive-visitor
+  motif_id: sacred_greeting_averts_destructive_visitor
+  label: sacred greeting averts destructive visitor
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A greeting that averts destruction functions as a performative speech
+    act with protective force.
+  cautions: Could also involve hospitality_test_stranger_guest if the visitor tests
+    proper reception, or apotropaic sacred_law if the greeting is a ritual formula.
+  suggested_aliases:
+  - protective greeting
+  - apotropaic greeting
+  - sacred salutation averts harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-group-counted-apart-from-ordinary-inheritance
+  motif_id: sacred_group_counted_apart_from_ordinary_inheritance
+  label: Sacred group counted apart from ordinary inheritance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A consecrated group governed by exceptional inheritance rules fits sacred
+    law and social ordering.
+  cautions: May be a legal or census-detail artifact if no symbolic or ritual function
+    is present; covenant or royal_legitimacy may be relevant depending on passage
+    context.
+  suggested_aliases:
+  - consecrated group apart from inheritance
+  - sacred group excluded from ordinary inheritance
+  - ritual status and inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hair-violated-as-a-shame-inducing-stratagem
+  motif_id: sacred_hair_violated_as_a_shame_inducing_stratagem
+  label: sacred hair violated as a shame-inducing stratagem
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines bodily sanctity, violation, shame, and strategy; the
+    dominant motif depends on the source scene.
+  cautions: Review culturally specific meanings of sacred hair and shame. Could fit
+    sacred_law, sacred_combat, betrayal, or body-power motifs, but none is clear from
+    the label alone.
+  suggested_aliases:
+  - violation of sacred hair
+  - sacred hair as shame target
+  - hair violation stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hand-leading-and-reassurance
+  motif_id: sacred_hand_leading_and_reassurance
+  label: sacred hand-leading and reassurance
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred figure leading by the hand and reassuring a person is direct
+    divine guidance or intervention.
+  cautions: If the hand-leading occurs during postmortem travel, afterlife_passage
+    may be a secondary mapping; if it is a vision of presence, theophany may also
+    apply.
+  suggested_aliases:
+  - divine hand-leading
+  - sacred reassurance
+  - hand-guided divine protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and setting-specific; preserve local evidence
+  without promoting to taxonomy families.
+- Sacred forest and hermitage labels assume existing child sacred_geography_pilgrimage
+  under axis_mundi; if that child is not durable, review as broader axis_mundi or
+  exclude as setting detail.
+- Avoid treating broad sacred landscape elements as flood, mountain, or water motifs
+  unless their narrative function is explicit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual items and single-occurrence
+    ethnographic labels require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0431
+  input_sha256: 5d1cde0e48fa0b0073e25f854d5b063b3b85f3729025357d7c43ec71f38a9004
+

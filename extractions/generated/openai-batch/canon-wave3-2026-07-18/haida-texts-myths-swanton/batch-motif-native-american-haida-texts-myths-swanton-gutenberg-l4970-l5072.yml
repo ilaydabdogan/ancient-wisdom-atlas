@@ -1,0 +1,152 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l4970-l5072
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: A STORY TOLD TO ACCOMPANY BEAR SONGS / A STORY TOLD TO ACCOMPANY BEAR SONGS
+    / WAR BETWEEN THE WEST COAST HAIDA AND THE TLINGIT / WAR BETWEEN THE WEST COAST
+    HAIDA AND THE TLINGIT; lines 4970-5072
+  start: '4970'
+  end: '5072'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: WAR BETWEEN THE WEST COAST HAIDA AND THE TLINGIT
+  summary: A romanized Haida narrative headed as a war between the West Coast Haida
+    and the Tlingit. The supplied passage includes multiple direct-speech segments
+    but no English translation of the narrative body.
+  language: Haida (Skidegate dialect) with English heading
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a war between the West Coast Haida and the Tlingit.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrative body is supplied in romanized Haida rather than in English translation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Multiple direct-speech segments occur in quotation marks within the Haida
+    text.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Forms corresponding to the Tlingit name, such as “Łî′nagîts” and “Łî′nagît,”
+    recur in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A form corresponding to Haida, “Xa-idᴀg̣a-i,” appears in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: West Coast Haida
+  description: One of the two groups named in the English heading of the war narrative.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tlingit
+  description: One of the two groups named in the English heading of the war narrative;
+    related Haida forms also recur in the body text.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: opposing war party
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The heading identifies the passage as a war between the two named groups.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: War narrative between West Coast Haida and Tlingit
+  summary: The passage presents a Haida-language narrative under a heading identifying
+    a war between the West Coast Haida and the Tlingit; detailed episode sequence
+    cannot be extracted from the supplied untranslated body text.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: intergroup war narrative
+  taxonomy_refs: []
+  basis: The English heading explicitly frames the passage as a war between two named
+    peoples.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No more specific motif can be extracted from the untranslated Haida body
+    without adding information not present in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4970-4971
+  quote_or_summary: "“WAR BETWEEN THE WEST COAST HAIDA AND THE TLINGIT”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 4970-5072
+  quote_or_summary: The narrative body is romanized Haida text following the English
+    war heading.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4970-5072
+  quote_or_summary: Several passages are set off in quotation marks, indicating direct
+    speech in the Haida text.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4970-5072
+  quote_or_summary: Examples include “Łî′nagîts” and “Łî′nagît.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 4970-5072
+  quote_or_summary: 'Example form: “Xa-idᴀg̣a-i.”'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The heading supports the basic war motif and group roles, but the body text
+    is untranslated Haida, limiting reliable extraction of scenes, symbols, and detailed
+    actions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the available taxonomy does not include a general war motif, and no listed symbol is directly supported by the supplied passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l4970-l5072
+  passage_sha256=47993b2caae76a267978a1a61c3ab2b6e47e0098ef2fc6cbbcb1ca312a5a2b90
+

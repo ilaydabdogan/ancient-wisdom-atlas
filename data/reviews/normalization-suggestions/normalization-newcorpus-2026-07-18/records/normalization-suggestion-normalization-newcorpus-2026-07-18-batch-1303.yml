@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1303
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.buried-ancient-narrative-restored
+  motif_id: buried_ancient_narrative_restored
+  label: Buried ancient narrative restored
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: Restoring a buried ancient narrative fits narrative preservation and
+    recovered cultural memory.
+  cautions: Single occurrence; may be a textual discovery/commentary artifact rather
+    than a motif if it describes manuscript recovery rather than an event within the
+    narrative.
+  suggested_aliases:
+  - recovered_buried_story
+  - restored_ancient_narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buried-giant-or-force-causing-volcanic-disturbance
+  motif_id: buried_giant_or_force_causing_volcanic_disturbance
+  label: buried giant or force causing volcanic disturbance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A buried giant or force explaining volcanic activity is an etiological
+    landscape or elemental-disturbance motif.
+  cautions: Could instead fit chaos if the buried force threatens order, or divine_judgment
+    if volcanic disturbance is punishment; source context needed.
+  suggested_aliases:
+  - buried_giant_causes_volcano
+  - subterranean_force_causes_eruption
+  - etiology_of_volcanic_disturbance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-and-ash-prepare-new-fertility
+  motif_id: burning_and_ash_prepare_new_fertility
+  label: burning and ash prepare new fertility
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire and ash function as purifying or transformative agents that enable
+    renewed fertility.
+  cautions: If the passage describes world-scale destruction and renewal, flood_and_renewal
+    or world_destroying_fire may be better; if agricultural recurrence is central,
+    sacred_time may be secondary.
+  suggested_aliases:
+  - fertility_from_ashes
+  - ash_renewal
+  - burning_prepares_fertility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-bush-cross-reference
+  motif_id: burning_bush_cross_reference
+  label: burning bush cross-reference
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase says cross-reference, indicating an editorial or indexing
+    note rather than a motif label.
+  cautions: If a passage actually describes a burning bush theophany, index that evidence
+    under theophany and sacred_fire instead.
+  suggested_aliases:
+  - burning_bush_reference
+  - cross_reference_to_burning_bush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-contaminated-material
+  motif_id: burning_contaminated_material
+  label: burning contaminated material
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Destroying contaminated material by fire is a ritual purity or sacred-law
+    practice.
+  cautions: May also relate to sacrifice or sacred_fire if the burning is an offering
+    or divine medium; preserve contamination/purity function.
+  suggested_aliases:
+  - ritual_burning_of_impurity
+  - burning_impure_material
+  - destruction_of_contaminated_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-of-the-royal-stronghold-after-betrayal
+  motif_id: burning_of_the_royal_stronghold_after_betrayal
+  label: burning of the royal stronghold after betrayal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The betrayal is the narrative engine, with destruction of the royal stronghold
+    as its consequence.
+  cautions: Could fit royal_legitimacy, sacred_combat, or divine_judgment if the emphasis
+    is kingship collapse, warfare, or punishment rather than violated trust.
+  suggested_aliases:
+  - stronghold_destroyed_after_betrayal
+  - betrayal_leads_to_burning_of_fortress
+  - royal_stronghold_burned_after_treachery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-the-witch-releases-the-enchanted-landscape
+  motif_id: burning_the_witch_releases_the_enchanted_landscape
+  label: Burning the witch releases the enchanted landscape
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on release of an enchanted landscape from supernatural
+    bondage.
+  cautions: The witch-burning element is culturally sensitive and may reflect persecution
+    vocabulary; could alternatively map to sacred_fire, divine_judgment, or shapeshifter
+    depending on the source.
+  suggested_aliases:
+  - enchanted_landscape_released
+  - burning_enchanter_breaks_spell
+  - spellbound_landscape_liberated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bush-hiding-devourer-of-others-goods
+  motif_id: bush_hiding_devourer_of_others_goods
+  label: Bush-hiding devourer of others’ goods
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a hidden predatory or greedy figure, but the narrative
+    function is unclear.
+  cautions: May be an animal-trickster episode, greed/judgment exemplum, monster motif,
+    or over-specific passage detail; source evidence is needed before placement.
+  suggested_aliases:
+  - hidden_devourer_of_goods
+  - bush_hidden_predator
+  - concealed_consumer_of_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calabash-object-prepared-with-supernatural-materials
+  motif_id: calabash_object_prepared_with_supernatural_materials
+  label: calabash object prepared with supernatural materials
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A calabash prepared with supernatural materials functions as a charged
+    container or vessel.
+  cautions: If its main function is a crafted power object rather than a container,
+    sacred_craft or sacred_treasures may be better; avoid losing local calabash specificity.
+  suggested_aliases:
+  - supernatural_calabash
+  - calabash_power_object
+  - ritually_prepared_calabash
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calamity-recorded-in-calendrical-history
+  motif_id: calamity_recorded_in_calendrical_history
+  label: Calamity recorded in calendrical history
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: A calamity encoded in calendrical history ties disaster to sacred time
+    and historical ordering.
+  cautions: May be a chronicle or textual artifact if it only describes recordkeeping;
+    if the calamity is cosmic judgment or age decline, divine_judgment or world_ages_cosmic_decline
+    may be secondary.
+  suggested_aliases:
+  - calamity_in_sacred_calendar
+  - disaster_recorded_by_calendar
+  - calendrical_record_of_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid transmission claims.
+- Several labels have single occurrences and may be passage-specific; human review
+  should check whether they describe narrative events or editorial/commentary artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Batch triaged against existing canonical_motif_groups; one clear meta artifact
+    excluded and one ambiguous item left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1303
+  input_sha256: 94d192f7c5306cc671c243361b9181d6f123d63dc3a7a16782e6fbde7dd29f68
+

@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0722
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.jealous-killing-over-marriage
+  motif_id: jealous_killing_over_marriage
+  label: Jealous killing over marriage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Marriage rivalry and lethal jealousy may belong with love conflict, but
+    the label is too sparse to distinguish romance, kin feud, honor killing, or heroic
+    violence.
+  cautions: Single occurrence; may be better under sacred_combat, betrayal_violated_trust,
+    or divine_judgment depending on source function.
+  suggested_aliases:
+  - marriage jealousy killing
+  - lethal jealousy over marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-royal-mother-undermines-the-hero-s-marriage
+  motif_id: jealous_royal_mother_undermines_the_hero_s_marriage
+  label: jealous royal mother undermines the hero's marriage
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on obstruction of a marriage or beloved union by a
+    jealous family authority, fitting the sacred_love group's bride/marriage conflict
+    cluster.
+  cautions: If the mother’s royal authority or succession politics drive the episode,
+    royal_legitimacy may be a secondary or better mapping.
+  suggested_aliases:
+  - jealous mother obstructs marriage
+  - family obstruction of heroic marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-second-wife-threatens-her-predecessor-s-children
+  motif_id: jealous_second_wife_threatens_her_predecessor_s_children
+  label: Jealous second wife threatens her predecessor's children
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: alias
+  confidence: high
+  rationale: A second wife threatening earlier children is a direct variant of jealous
+    wife/stepmother harming children already covered by this group.
+  cautions: Preserve whether the threat is inheritance, succession, false accusation,
+    or demanded violence if source evidence supports it.
+  suggested_aliases:
+  - jealous second wife threatens children
+  - jealous wife harms predecessor's children
+  - stepmother threatens stepchildren
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-stepfamily-persecutes-beautiful-stepdaughter
+  motif_id: jealous_stepfamily_persecutes_beautiful_stepdaughter
+  label: jealous stepfamily persecutes beautiful stepdaughter
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: narrower_than
+  confidence: high
+  rationale: Persecution of a stepdaughter by jealous stepfamily is a clear child
+    of the jealous stepmother/persecuted child complex.
+  cautions: Beauty-driven envy may also touch pride_and_downfall or sacred_love if
+    marriage competition is central, but the household persecution function is primary.
+  suggested_aliases:
+  - jealous stepfamily persecutes stepdaughter
+  - persecuted beautiful stepdaughter
+  - wicked stepfamily persecutes child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-stepmother-murders-child-for-inheritance-advantage
+  motif_id: jealous_stepmother_murders_child_for_inheritance_advantage
+  label: Jealous stepmother murders child for inheritance advantage
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: narrower_than
+  confidence: high
+  rationale: The label is a specific variant of a jealous stepmother harming or killing
+    an innocent child within the household.
+  cautions: Inheritance motive should remain as evidence detail; if succession or
+    property law is central, royal_legitimacy or sacred_law may be secondary.
+  suggested_aliases:
+  - stepmother murders child for inheritance
+  - jealous stepmother kills stepchild
+  - inheritance-motivated stepchild murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-stepmother-persecutes-a-child
+  motif_id: jealous_stepmother_persecutes_a_child
+  label: jealous stepmother persecutes a child
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: alias
+  confidence: high
+  rationale: This is essentially the same label as the existing canonical group for
+    jealous stepmother and persecuted child.
+  cautions: None beyond preserving local episode details such as false accusation,
+    exposure, murder demand, or rescue.
+  suggested_aliases:
+  - wicked stepmother persecutes child
+  - jealous stepmother persecutes stepchild
+  - persecuted child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.karmic-root-and-fruit-of-works-across-births
+  motif_id: karmic_root_and_fruit_of_works_across_births
+  label: karmic root and fruit of works across births
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Karmic fruit of works involves moral consequence across births, broadly
+    resembling reckoning, but may require a distinct karma/rebirth category not present
+    here.
+  cautions: Do not collapse karmic causality into divine judgment if the source frames
+    it as impersonal law, rebirth doctrine, or philosophical teaching rather than
+    divine evaluation.
+  suggested_aliases:
+  - karma across births
+  - fruit of works across births
+  - karmic consequence across rebirths
+  suggested_new_group:
+    id: karma_rebirth_moral_causality
+    label: Karma, Rebirth, and Moral Causality
+    description: Actions produce moral consequences across lives, births, deaths,
+      and rebirths through karmic causality, whether framed as impersonal law, cosmic
+      order, or religious doctrine.
+    parent_group_ids:
+    - divine_judgment
+    - death_and_transformation
+    - sacred_law
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_time
+    reason_existing_groups_insufficient: Existing divine_judgment emphasizes evaluation
+      by divine authority, while death_and_transformation emphasizes transformation;
+      karmic causality across births has a distinct doctrinal and functional logic.
+- suggestion_id: normalization.suggestion.killing-the-child-to-limit-vengeance
+  motif_id: killing_the_child_to_limit_vengeance
+  label: Killing the child to limit vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests feud logic and prevention of future vengeance, but
+    the existing groups do not clearly cover kin-feud violence against children.
+  cautions: Could be an over-specific episode detail; review whether the focus is
+    feud, succession, child persecution, moral judgment, or heroic violence.
+  suggested_aliases:
+  - child killed to prevent revenge
+  - preemptive killing of avenger child
+  - feud violence against child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-endogamous-marriage-to-preserve-inheritance
+  motif_id: kin_endogamous_marriage_to_preserve_inheritance
+  label: Kin-endogamous marriage to preserve inheritance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: medium
+  rationale: A marriage rule preserving inheritance is primarily social-legal order
+    rather than romance, fitting sacred_law if presented as normative kinship law.
+  cautions: May be passage-specific legal detail rather than mythic motif; if framed
+    as covenantal lineage preservation, covenant or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - endogamous marriage preserves inheritance
+  - kin marriage for inheritance preservation
+  - inheritance-preserving kin marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-murder-of-the-beloved
+  motif_id: kin_murder_of_the_beloved
+  label: kin murder of the beloved
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The beloved is killed by kin, making familial opposition to love the
+    central narrative conflict within the sacred_love field.
+  cautions: If the narrative emphasizes feud, honor, or vengeance more than love and
+    loss, sacred_combat, betrayal_violated_trust, or lament_and_mourning may be better.
+  suggested_aliases:
+  - beloved killed by kin
+  - family murders beloved
+  - kin violence against beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence household or marriage-conflict
+  details; preserve local motives such as inheritance, jealousy, feud, or succession
+  rather than promoting them automatically.
+- The karma item may indicate a recurring doctrinal gap distinct from divine judgment
+  and should be reviewed with source evidence before adding a new group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0722
+  input_sha256: 4bf0d55c226cb12616bbc783144abe551a8bb077e05f114c04ffd3d5831401e9
+

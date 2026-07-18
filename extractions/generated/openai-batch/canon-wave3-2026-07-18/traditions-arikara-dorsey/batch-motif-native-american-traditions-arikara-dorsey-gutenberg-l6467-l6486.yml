@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l6467-l6486
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 6467-6486'
+  start: '6467'
+  end: '6486'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A note identifies the tale as told by Cut-Arm. In the tale, Coyote meets
+    Bear in the timber, threatens him, rides on his back, then dismounts and taunts
+    him from a hill. Bear becomes angry, vows to kill and follow the being who insulted
+    him, pursues Coyote, catches him on the next hill, kills him, and tears him up.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note identifies the tale as told by Cut-Arm.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Coyote travels through the timber and meets Bear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Coyote makes threats against Bear and rides on Bear's back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coyote jumps off Bear and says that each will go his own way.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Coyote goes to the top of a hill to see whether Bear is still going.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Coyote yells to Bear that Bear claims to be fierce, yet Coyote has ridden
+    on his back.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Bear becomes angry and says he will kill the being and follow him wherever
+    he goes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Bear runs up the hill, and Coyote runs when he sees Bear coming.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Bear catches Coyote on the next hill, kills him, and tears him up.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: A being who meets Bear, threatens him, rides him, taunts him from a
+    hill, flees, and is killed by Bear.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Bear
+  description: A bear whom Coyote threatens and rides; Bear becomes angry, pursues
+    Coyote, catches him, kills him, and tears him up.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: provocative rider and taunter
+  assigned_to:
+  - fig:1
+  basis: Coyote threatens Bear, rides on Bear's back, and later taunts Bear about
+    it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: threatened and ridden animal
+  assigned_to:
+  - fig:2
+  basis: Bear is threatened by Coyote and used as a mount.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: angry pursuer and killer
+  assigned_to:
+  - fig:2
+  basis: Bear becomes angry, vows to follow and kill the being, catches Coyote, kills
+    him, and tears him up.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: fleeing victim
+  assigned_to:
+  - fig:1
+  basis: Coyote runs from Bear and is caught and killed.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Encounter in the timber
+  summary: Coyote meets Bear in the timber, threatens him, and rides on his back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Separation and hilltop taunt
+  summary: Coyote jumps off Bear, declares that they will separate, climbs to the
+    top of a hill, and shouts a boast about having ridden Bear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Bear's anger and vow
+  summary: Bear hears Coyote's taunt, becomes angry, and says he will kill and follow
+    the being wherever he goes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pursuit and killing on the next hill
+  summary: Bear runs after Coyote; Coyote flees, but Bear catches him on the next
+    hill, kills him, and tears him up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Provoker overreaches and is punished
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote threatens and humiliates Bear by riding him and taunting him; Bear
+    responds with anger, pursuit, and lethal punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call Coyote a trickster or frame the episode
+    as a boundary lesson; the taxonomy reference is based on the actions described.
+- id: motif:2
+  label: Riding a dangerous animal as humiliation
+  taxonomy_refs: []
+  basis: Coyote rides on Bear's back and later boasts that he has ridden a fierce
+    animal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no additional ritual or cosmological meaning for the
+    ride.
+- id: motif:3
+  label: Taunt provokes deadly pursuit
+  taxonomy_refs: []
+  basis: Coyote's shouted taunt causes Bear to become angry, vow to kill and follow
+    him, and then pursue and kill him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader cross-textual
+    claim is made from the passage alone.
+comparison_claims:
+- id: claim:1
+  claim: The episode can be cautiously compared to a trickster-boundary motif pattern
+    in which a provocative figure humiliates a stronger being and suffers a severe
+    consequence.
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not explicitly label Coyote as a trickster
+    or state a moral boundary; the comparison rests on the described provocation,
+    boast, pursuit, and punishment.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6467-6486, note and title
+  quote_or_summary: The passage includes the note '[52] Told by Cut-Arm' and the tale
+    title 'THE COYOTE RIDES THE BEAR.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; concise excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 6467-6486, opening encounter
+  quote_or_summary: Coyote goes through the timber, meets Bear, makes threats against
+    Bear, gets on Bear's back, and rides him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6467-6486, dismount and taunt
+  quote_or_summary: Coyote jumps off, says they will each go their own way, climbs
+    to the top of a hill, and yells that Bear claims to be fierce though Coyote has
+    ridden on his back.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 6467-6486, Bear's response
+  quote_or_summary: 'Bear becomes angry and says: ''No matter where he goes, I will
+    follow him.'''
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 6467-6486, pursuit and killing
+  quote_or_summary: Bear runs up the hill; Coyote runs; Bear catches Coyote on the
+    next hill, kills him, and tears him up.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignment is more cautious
+    because the passage supplies action patterns but little explicit interpretive
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol was assigned; the hills and timber function as settings in this passage rather than clearly marked symbols.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l6467-l6486
+  passage_sha256=9b7754e6d924f13e159bb114d6f626f398986dd2f4e0835831b98859dfa6a1d9
+

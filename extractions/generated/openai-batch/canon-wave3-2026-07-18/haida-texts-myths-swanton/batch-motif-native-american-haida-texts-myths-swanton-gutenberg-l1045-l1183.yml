@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l1045-l1183
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: INTRODUCTION / ALPHABET / TEXTS WITH FREE AND INTERLINEAR TRANSLATION / MOLDY-FOREHEAD;
+    lines 1045-1183
+  start: '1045'
+  end: '1183'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A figure later identifying himself as Îłdī′nī goes fishing by canoe and
+    is blown offshore by wind. He drifts for repeated days and nights without seeing
+    land, sings from the canoe to an ocean spirit asking that the waves be calmed
+    and the sea made calm, and continues drifting through fog and weakness. He eventually
+    floats near land, but nearby people do not see him. A small male child who does
+    not speak well sees the canoe near a rock. Îłdī′nī calls to the child, identifies
+    himself, asks the child to repeat his name, and the child says it incorrectly.
+  language: Haida (Skidegate) with English interlinear translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The main figure lives in a place and goes fishing from there by canoe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An offshore wind blows, and the figure is blown away; he is unable to go ashore
+    by canoe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He is blown about on the sea through whole days and nights, repeatedly seeing
+    no land; the wind blows hard, but he does not capsize.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He stands in the canoe and sings, addressing an ocean or lake spirit and asking
+    that waves be calmed and the sea made calm.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fog occurs during the continued drifting, and he becomes unable to stand because
+    his legs are weak from being in the canoe for a long time.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: He floats at land in the morning but does not get off because his legs are
+    bent; people living very near do not see him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A small male child who does not speak well sees him or the canoe near a rock
+    while others do not see him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Îłdī′nī calls to the child because he wants others to know; the child is afraid
+    for a long time before approaching.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Îłdī′nī tells the child his name and instructs the child to say it; the child
+    repeats it incorrectly because he does not speak well.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Îłdī′nī
+  description: Figure who goes fishing, is blown about at sea in a canoe, sings to
+    the ocean spirit, reaches land unseen by nearby people, and identifies himself
+    to a child.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: small male child
+  description: A not-big male child who does not speak well; he sees the canoe or
+    man, is afraid, comes near, and repeats Îłdī′nī's name incorrectly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: nearby people
+  description: People living very near who do not see Îłdī′nī while he is at land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: ocean or lake spirit
+  description: Spirit addressed in Îłdī′nī's song and asked to make the waves calm.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: storm-driven fisherman in a canoe
+  assigned_to:
+  - fig:1
+  basis: He goes fishing, is blown offshore, cannot reach shore, and drifts at sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: singer petitioning for calm water
+  assigned_to:
+  - fig:1
+  basis: He stands in the canoe and sings to the ocean spirit to calm the waves and
+    sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: child witness and name-repeater
+  assigned_to:
+  - fig:2
+  basis: The child sees him, is called, approaches, and repeats the name Îłdī′nī incorrectly.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: unseeing nearby group
+  assigned_to:
+  - fig:3
+  basis: They live very near but do not see him; he calls the child so they may know.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: petitioned water spirit
+  assigned_to:
+  - fig:4
+  basis: The song addresses a lake or ocean spirit and asks for waves to be made calm.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: ocean or sea
+  literal_form: sea/ocean, glossed in the song as lake or ocean
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: offshore wind
+  literal_form: wind blowing offshore and blowing hard
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: song
+  literal_form: song or voice put to the song while standing in the canoe
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: calm sea as milk
+  literal_form: the sea made milk, glossed as calm
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - milk
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: fog
+  literal_form: morning and evening fog during the drifting
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: shore rock and land
+  literal_form: land reached in the morning and a rock against which the canoe floats
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fishing trip becomes sea drift
+  summary: The main figure goes fishing by canoe, an offshore wind drives him away,
+    and he cannot reach shore.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Song to the ocean spirit
+  summary: While still drifting, he stands in the canoe and sings to the ocean or
+    lake spirit, asking that the waves and sea be made calm.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fog, weakness, and unseen landfall
+  summary: After continued foggy drifting, he reaches land but cannot get off because
+    his legs are bent, and nearby people do not see him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Child sees and repeats the name
+  summary: A small male child sees him, approaches after fear, hears Îłdī′nī identify
+    himself, and repeats the name incorrectly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: involuntary departure by storm at sea
+  taxonomy_refs:
+  - departure
+  basis: An ordinary fishing trip turns into an involuntary sea journey when offshore
+    wind blows the canoe away and the figure cannot return to shore.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents the departure as
+    accidental rather than a planned quest.
+- id: motif:2
+  label: prolonged drifting sea ordeal
+  taxonomy_refs: []
+  basis: The figure drifts through repeated days and nights, sees no land, experiences
+    fog, and becomes physically weakened in the canoe.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not explicitly state the full outcome of the ordeal.
+- id: motif:3
+  label: song petition to ocean spirit for calm water
+  taxonomy_refs: []
+  basis: He sings from the canoe to an ocean or lake spirit, asking for waves to become
+    calm and the sea to become milk-like calm.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No explicit response by the spirit is shown within this passage segment.
+- id: motif:4
+  label: unseen return to land except by child witness
+  taxonomy_refs:
+  - return
+  basis: He reaches land and nearby people do not see him, but a small child sees
+    him and is addressed so others may know.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The return is not resolved in this excerpt, and it is not fully clear
+    whether the land is his original home.
+- id: motif:5
+  label: child repeats the hero's name imperfectly
+  taxonomy_refs: []
+  basis: Îłdī′nī instructs the child to say his name, and the child says it wrong
+    because he does not know how to talk well.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The narrative function of the mispronounced name is not completed within
+    the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1045-1183; opening fishing and offshore-wind episode
+  quote_or_summary: The figure goes fishing by canoe; an offshore wind blows, he starts
+    to be blown away, and he is unable to go ashore by canoe.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: lines 1045-1183; repeated days and nights at sea
+  quote_or_summary: He is blown about on the sea for whole days and nights, sees no
+    land, the wind blows hard, and he does not capsize.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+- id: ev:3
+  type: quote
+  locator: lines 1045-1183; song in the canoe
+  quote_or_summary: 'He sings: “Lake (= ocean) spirit make waves calm (for me) ...
+    make the sea milk (i.e., calm).”'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: lines 1045-1183; fog, weakness, and repeated song
+  quote_or_summary: After further drifting, morning fog appears; he floats aimlessly,
+    cannot stand because his legs are weak from long time in the canoe, and sings
+    the same song again.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+- id: ev:5
+  type: summary
+  locator: lines 1045-1183; arrival near land
+  quote_or_summary: In the morning he floats at land but remains floating; he cannot
+    get off because his legs are bent, and people living very near do not see him.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+- id: ev:6
+  type: summary
+  locator: lines 1045-1183; child sees the canoe near a rock
+  quote_or_summary: A small child who does not know how to talk well sees him; the
+    canoe floats against a rock, and others do not see him.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+- id: ev:7
+  type: summary
+  locator: lines 1045-1183; Îłdī′nī calls the child
+  quote_or_summary: Îłdī′nī calls to the child because he wants people to know; the
+    child or those addressed are afraid for a long time, then the male child comes
+    near.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+- id: ev:8
+  type: summary
+  locator: lines 1045-1183; naming exchange with the child
+  quote_or_summary: He says he is named like Îłdī′nī and tells the child to say the
+    same; the child says “Îłdī′nī” incorrectly because he does not speak very well.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; Project Gutenberg source metadata allows full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is interlinear and the supplied range ends mid-episode, so some
+    pronoun references and the later function of the child-name exchange require review.
+    No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Motif labels are candidate descriptions grounded in the excerpt; taxonomy references are limited to supplied available references.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l1045-l1183
+  passage_sha256=fb451a85c9e4d9d3f17391015cc63cfbe89703f39d07b9cd3b6be06754175745
+

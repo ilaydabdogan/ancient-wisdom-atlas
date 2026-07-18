@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0810
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.atonement-after-killing-sea-animals
+  motif_id: atonement_after_killing_sea_animals
+  label: Atonement after killing sea animals
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Atonement after killing animals is a ritual repair or expiation pattern,
+    fitting sacrifice/atonement more than animal transformation.
+  cautions: Sea-animal specificity and Inuit ritual context should be preserved; may
+    also involve sacred_law or animal-spirit reciprocity not fully captured by current
+    groups.
+  suggested_aliases:
+  - animal_killing_atonement
+  - atonement_after_killing_animals
+  - sea_animal_ritual_atonement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-animal-companion-punishes-the-killer
+  motif_id: avenging_animal_companion_punishes_the_killer
+  label: Avenging animal companion punishes the killer
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The animal companion enacts punishment for killing, functioning as moral
+    retribution or vengeance.
+  cautions: Could instead belong to animal_helpers, restless_dead_haunting_vengeance,
+    or heroic-companion vengeance depending on whether the animal is sacred, loyal,
+    or supernatural.
+  suggested_aliases:
+  - animal_companion_avenges_killing
+  - loyal_animal_punishes_killer
+  - avenging_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bad-temper-causes-permanent-animal-trait
+  motif_id: bad_temper_causes_permanent_animal_trait
+  label: bad temper causes permanent animal trait
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A character trait causing a lasting animal feature is an etiological
+    transformation into animal form or trait.
+  cautions: May be more specifically a moralized animal-etiology or punishment motif;
+    avoid treating it as voluntary shapeshifting.
+  suggested_aliases:
+  - moral_fault_causes_animal_trait
+  - permanent_animal_trait_from_bad_temper
+  - punitive_animal_trait_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banner-rally-of-wounded-animal-allies
+  motif_id: banner_rally_of_wounded_animal_allies
+  label: banner rally of wounded animal allies
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Animal allies gathering to aid or rally around a figure fits the existing
+    animal_helpers child under divine intervention.
+  cautions: The banner and wounded-allies details are highly contextual; if the scene
+    is military symbolism rather than supernatural aid, sacred_combat may be better.
+  suggested_aliases:
+  - wounded_animal_allies_rally
+  - animal_allies_rally_to_banner
+  - animal_helpers_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-animal-chooses-allegiance
+  motif_id: battle_animal_chooses_allegiance
+  label: Battle animal chooses allegiance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: An animal choosing sides in battle functions within a ritually charged
+    combat scene and marks allegiance or battle outcome.
+  cautions: If the animal is a supernatural guide or helper, divine_intervention may
+    be a secondary fit; if it is merely a battlefield detail, keep granular.
+  suggested_aliases:
+  - war_animal_chooses_side
+  - battlefield_animal_allegiance
+  - animal_allegiance_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-as-feast-for-carrion-animals
+  motif_id: battle_as_feast_for_carrion_animals
+  label: Battle as feast for carrion animals
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Carrion animals feeding on battle-dead are conventional heroic-war imagery
+    tied to warfare and death in combat.
+  cautions: Do not map to animal transformation; the animals are battlefield death
+    imagery, not necessarily agents.
+  suggested_aliases:
+  - carrion_feast_after_battle
+  - battlefield_feast_for_scavengers
+  - war_dead_as_food_for_carrion_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-foretold-through-carrion-animals-and-war-beasts
+  motif_id: battle_foretold_through_carrion_animals_and_war_beasts
+  label: Battle foretold through carrion animals and war-beasts
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Carrion animals and war-beasts serve as omens foretelling battle, aligning
+    with prophecy and omen interpretation.
+  cautions: If the emphasis is heroic battlefield imagery rather than prediction,
+    sacred_combat is the better primary group.
+  suggested_aliases:
+  - battle_omen_carrion_animals
+  - war_foretold_by_beasts
+  - carrion_birds_as_battle_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-carrion-animals-at-a-hero-s-blood
+  motif_id: battlefield_carrion_animals_at_a_hero_s_blood
+  label: Battlefield carrion animals at a hero's blood
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: high
+  rationale: Carrion animals at a fallen hero's blood are specific battlefield-death
+    imagery within heroic combat.
+  cautions: Likely too specific for a canonical motif; preserve as evidence under
+    battle carrion imagery or heroic death.
+  suggested_aliases:
+  - carrion_animals_at_hero_blood
+  - hero_blood_feeds_carrion_animals
+  - battlefield_scavengers_at_hero_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-carrion-birds-as-heroic-imagery
+  motif_id: battlefield_carrion_birds_as_heroic_imagery
+  label: battlefield carrion birds as heroic imagery
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label explicitly frames carrion birds as heroic battlefield imagery,
+    fitting sacred or heroic combat symbolism.
+  cautions: This may be a poetic-imagery label rather than a narrative motif; avoid
+    overindexing as animal agency.
+  suggested_aliases:
+  - carrion_birds_as_battle_imagery
+  - heroic_carrion_bird_imagery
+  - battlefield_birds_of_carrion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-feeding-of-carrion-birds
+  motif_id: battlefield_feeding_of_carrion_birds
+  label: battlefield feeding of carrion birds
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Feeding carrion birds with battlefield dead is a recurring war-death
+    image within heroic combat traditions.
+  cautions: May overlap with sacrifice if the text frames slain enemies as an offering,
+    but the label alone supports combat imagery.
+  suggested_aliases:
+  - feeding_carrion_birds_after_battle
+  - battle_dead_feed_carrion_birds
+  - carrion_birds_fed_on_battlefield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-labeled items are better treated as combat, omen, ritual atonement,
+  or judgment motifs rather than as animal transformation motifs.
+- The Norse carrion-animal labels appear to be near-duplicates or poetic variants;
+  reviewers may want to consolidate them under a single granular child or alias within
+  sacred_combat.
+- Animal-helper and animal-spirit reciprocity patterns may need future review if many
+  more unmapped animal-agency labels recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; cultural and source-context review recommended
+    for Inuit ritual labels and over-specific battlefield imagery.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0810
+  input_sha256: 2798942cfcbb84a5485db215dc3618444b61d56acf8f945ab05d56bdded400fa
+

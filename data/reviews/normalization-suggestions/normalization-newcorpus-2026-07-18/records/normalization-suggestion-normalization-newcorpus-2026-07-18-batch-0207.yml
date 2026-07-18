@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0207
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.moving-cliffs-or-grinding-mountains-as-perilous-passage
+  motif_id: moving_cliffs_or_grinding_mountains_as_perilous_passage
+  label: moving cliffs or grinding mountains as perilous passage
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A moving or grinding landscape blocks passage and functions like a perilous
+    threshold that must be crossed or survived.
+  cautions: Could belong under hero_journey if the passage emphasizes travel ordeal
+    rather than a guarded threshold; single occurrence is highly specific.
+  suggested_aliases:
+  - clashing rocks as perilous passage
+  - grinding mountains threshold
+  - moving cliffs threshold ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multigenerational-canoe-arrival
+  motif_id: multigenerational_canoe_arrival
+  label: multigenerational canoe arrival
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe migration, ancestry, origin arrival, or a passage-specific
+    travel detail, and existing groups do not show enough evidence from the label
+    alone.
+  cautions: Potentially culturally sensitive origin/migration material; review source
+    context before mapping to cosmic_origin, hero_journey, or a people-arrival group.
+  suggested_aliases:
+  - ancestral canoe arrival
+  - canoe migration of generations
+  - founding arrival by canoe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multinamed-deity-across-tongues-and-journeys
+  motif_id: multinamed_deity_across_tongues_and_journeys
+  label: Multinamed deity across tongues and journeys
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Multiple divine names may indicate disguise, poetic naming, travel identity,
+    or scholarly/literary comparison rather than a clear journey motif.
+  cautions: Could be a textual or onomastic artifact; source evidence is needed before
+    mapping to shapeshifter, trickster, sacred_knowledge, or excluding.
+  suggested_aliases:
+  - deity with many names
+  - divine names across languages
+  - multinamed wandering god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multipurpose-harpoon-as-winter-travel-tool
+  motif_id: multipurpose_harpoon_as_winter_travel_tool
+  label: multipurpose harpoon as winter travel tool
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a practical ethnographic object-use detail rather
+    than a recurring symbolic or narrative motif.
+  cautions: If the harpoon is supernatural, identity-confirming, or divinely given
+    in the source, reconsider under sacred_treasures; otherwise preserve as evidence
+    note only.
+  suggested_aliases:
+  - harpoon used for winter travel
+  - travel harpoon tool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-night-lodging-after-wandering
+  motif_id: mysterious_night_lodging_after_wandering
+  label: Mysterious night lodging after wandering
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Irish journey contexts, mysterious lodging after wandering often marks
+    entry into an uncanny or otherworldly hospitality space.
+  cautions: If the episode is mainly a hospitality test, map to hospitality_test_stranger_guest
+    instead; if it is ordinary shelter, treat as passage detail.
+  suggested_aliases:
+  - uncanny lodging after wandering
+  - otherworldly night lodging
+  - mysterious hostelry on journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-conflicts-and-wanderings-grouped-across-traditions
+  motif_id: mythic_conflicts_and_wanderings_grouped_across_traditions
+  label: mythic conflicts and wanderings grouped across traditions
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes a comparative grouping or scholarly classification,
+    not a narrative motif in a source passage.
+  cautions: Do not use as evidence of transmission or shared origin; preserve only
+    as review/provenance metadata if needed.
+  suggested_aliases:
+  - grouped conflicts and wanderings
+  - comparative grouping of wanderings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-source-metaphor-for-scholarship
+  motif_id: mythic_source_metaphor_for_scholarship
+  label: Mythic-source metaphor for scholarship
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is about scholarly metaphor or framing rather than a mythic
+    event, role, object, or symbolic pattern.
+  cautions: If an actual mythic source or spring confers wisdom in the passage, remap
+    to sacred_knowledge; otherwise exclude from motif queries.
+  suggested_aliases:
+  - scholarship source metaphor
+  - mythic metaphor for scholarly source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-disclosure-after-repeated-questioning
+  motif_id: name_disclosure_after_repeated_questioning
+  label: name disclosure after repeated questioning
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated questioning that elicits a name centers on obtaining hidden
+    or powerful knowledge through speech.
+  cautions: Names may be culturally sensitive; review whether disclosure is ritual,
+    identity proof, coercion, or ordinary dialogue before final mapping.
+  suggested_aliases:
+  - repeated questioning reveals name
+  - name revealed after questioning
+  - disclosure of hidden name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-exchange-and-sworn-fellowship
+  motif_id: name_exchange_and_sworn_fellowship
+  label: Name exchange and sworn fellowship
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exchanging names with an oath of fellowship creates a binding social
+    relationship, matching covenant or sworn bond logic.
+  cautions: If the main function is proving identity, recognition_tokens_hidden_identity
+    may be secondary; if purely social introduction, it may be too specific.
+  suggested_aliases:
+  - sworn fellowship by name exchange
+  - name exchange oath
+  - oath of fellowship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.navigable-water-assured-for-a-royal-journey
+  motif_id: navigable_water_assured_for_a_royal_journey
+  label: navigable water assured for a royal journey
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal journey made possible by assured waters suggests sacred support
+    for kingship and legitimate royal movement.
+  cautions: If the emphasis is divine control of water or miraculous passage, sacred_waters
+    or divine_intervention may be better secondary mappings.
+  suggested_aliases:
+  - royal journey over assured waters
+  - waterway secured for king
+  - divinely assured royal navigation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and journey-adjacent; final placement
+  should rely on passage function rather than travel wording alone.
+- Exclude labels that describe scholarly grouping or metaphor rather than source-level
+  motifs.
+- Name-disclosure motifs may require culturally sensitive review where names carry
+  ritual or restricted significance.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for low-evidence journey
+    and name-related labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0207
+  input_sha256: dc30507ab4d4e8d120043b27d3d9dc0f2d089d6f84acabca334e01ea96afee20
+

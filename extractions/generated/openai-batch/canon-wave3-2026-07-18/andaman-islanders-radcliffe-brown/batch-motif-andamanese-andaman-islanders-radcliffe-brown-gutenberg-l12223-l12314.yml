@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.andamanese-andaman-islanders-radcliffe-brown-gutenberg-l12223-l12314
+source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+passage_locator:
+  label: APPENDIX A / THE TECHNICAL CULTURE OF THE ANDAMAN ISLANDERS / HABITATIONS.
+    / HUNTING, FISHING, ETC.; lines 12223-12314
+  start: '12223'
+  end: '12314'
+  translation: 'The Andaman Islanders: A Study in Social Anthropology'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a technical description of the North Andaman bow, its
+    shape, fibre bow-string with loops at both ends, the method of half-stringing
+    and fully stringing it, and the practice of seasoning and storing the bow over
+    a constantly burning hut fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The bow is described as having two blade-shaped portions that taper to points,
+    with a waist or handle between them.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The upper blade is straight, while the lower blade is curved outward in nearly
+    every newly made or used bow of this type.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The North Andaman bow-string is made from Anadendron fibre and has a loop
+    or eye at both ends.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: To half-string the bow, one loop is slipped over the top end, the bow is laid
+    inside downward, a foot is placed on the middle, the lower end is bent upward,
+    and the other loop is slipped over the end.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the half-strung position the string passes on the outside of the bow, reversing
+    the bow and placing it under a strain that curves it outward.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A newly completed bow is strung in the reversed position and placed over a
+    fire so that the lower curved blade is immediately above the fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Smoke and heat from the fire season the lower portion of the bow, and seasoned
+    examples are blackened on the inner surface of the lower part.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A man places his bow over the fire of his own hut, which is kept constantly
+    burning day and night.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: For use, the bow is held by the handle and the string is pulled so that the
+    bow reverses from half-strung into the fully strung position.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The bow is hardly ever entirely unstrung; when not in active use it is kept
+    half-strung and hung over the fire.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: man / bow owner
+  description: A man who places his bow over the fire of his own hut and handles the
+    bow for use.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: bow owner and user
+  assigned_to:
+  - fig:1
+  basis: The passage states that a man places his bow over his hut fire and describes
+    how the bow is handled when it is to be used.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: North Andaman bow
+  literal_form: A two-bladed bow with tapering ends, a central handle, and a lower
+    blade curved outward.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: Anadendron fibre bow-string
+  literal_form: A bow-string made from Anadendron fibre with a loop or eye at both
+    ends.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fire used for seasoning the bow
+  literal_form: A hut fire whose smoke and heat season the lower curved blade of the
+    bow; the fire is kept burning day and night.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Description of bow form
+  summary: The North Andaman bow is described as two blade-shaped portions tapering
+    to points with a central handle; its upper blade is straight and its lower blade
+    curves outward.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Making the looped bow-string
+  summary: The bow-string is made from Anadendron fibre, with loops formed and served
+    with thread at both ends.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Half-stringing the bow
+  summary: One loop is placed over the top end of the bow, the bow is pressed down
+    with a foot, and the other loop is slipped over the lower end, producing a reversed
+    half-strung position.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Seasoning over the hut fire
+  summary: A completed bow is left reversed over a fire so that heat and smoke season
+    the lower curved blade while the bow remains under outward strain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Use and storage of the bow
+  summary: For active use the bow is reversed into the fully strung position; afterward
+    it is returned to the half-strung position and hung over the fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12223-12247
+  quote_or_summary: The bow is described by measurements and then summarized as consisting
+    of two blade-shaped portions tapering to points, with a central waist or handle;
+    the upper blade is straight and the lower blade curves outward.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 12253-12268
+  quote_or_summary: The North Andaman bow-string is made from Anadendron fibre; loops
+    or eyes are formed at both ends and served with thread.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 12269-12278
+  quote_or_summary: The first loop is slipped over the top of the bow; the bow is
+    laid on the ground, pressed by a foot at the middle, bent upward at the lower
+    end, and the second loop is slipped over.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 12278-12291
+  quote_or_summary: In the half-strung position the string runs on the outside, reversing
+    the bow and producing or increasing an outward curve.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 12292-12300
+  quote_or_summary: A completed bow is strung in the reversed position and placed
+    over a fire so the lower curved blade is immediately above it; smoke and heat
+    season that part and blacken its inner surface.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 12300-12304
+  quote_or_summary: A man places his bow over the fire of his own hut, which is kept
+    burning day and night, while the bow remains under a slight outward-curving strain.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 12305-12311
+  quote_or_summary: When the half-strung bow is to be used, it is held by the handle
+    and the string is pulled toward the body so the bow reverses into the fully strung
+    position.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 12312-12314
+  quote_or_summary: The bow is hardly ever entirely unstrung; after use it is returned
+    to the half-strung position and hung over the fire.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The technical material culture details are explicit. No mythological or comparative
+    motif claim is made in the passage, so motif candidates and comparison claims
+    are left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is technical ethnographic description of bow construction, seasoning, use, and storage rather than a mythic narrative.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:andamanese-andaman-islanders-radcliffe-brown-gutenberg__l12223-l12314
+  passage_sha256=dc25df3b31357deaa04cd7ffe5142de48d2c9a6f5dc52d654eae5d6ca1ba93d8
+

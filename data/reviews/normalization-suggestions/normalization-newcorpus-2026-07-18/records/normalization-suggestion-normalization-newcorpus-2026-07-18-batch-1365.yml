@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1365
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enchanted-fruit-that-harms-and-corresponding-fruit-that-heals
+  motif_id: enchanted_fruit_that_harms_and_corresponding_fruit_that_heals
+  label: Enchanted fruit that harms and corresponding fruit that heals
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on supernatural food with harmful and healing effects,
+    fitting sacred or magical substances.
+  cautions: Single occurrence; if fruit symbolism or test structure is primary, sacred_treasures,
+    divine_judgment, or initiation may be secondary.
+  suggested_aliases:
+  - enchanted_healing_and_harming_fruit
+  - magical_fruit_harm_and_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-hospitality-as-a-trap
+  motif_id: enchanted_hospitality_as_a_trap
+  label: Enchanted hospitality as a trap
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality is the operative scene, inverted from sacred test into deceptive
+    or enchanted danger.
+  cautions: Could also fit betrayal_violated_trust or threshold_guardian if the trap
+    is mainly a boundary ordeal; review passage evidence.
+  suggested_aliases:
+  - hospitality_trap
+  - deceptive_enchanted_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-immobilization-near-forbidden-castle
+  motif_id: enchanted_immobilization_near_forbidden_castle
+  label: Enchanted immobilization near forbidden castle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical immobilization near a forbidden place functions as a threshold
+    barrier preventing passage.
+  cautions: If the castle itself is an otherworld or enchanted realm, otherworld may
+    be a secondary mapping; label is episode-specific.
+  suggested_aliases:
+  - magical_immobilization_at_forbidden_threshold
+  - enchanted_barrier_at_castle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-invulnerability-of-arms-and-body
+  motif_id: enchanted_invulnerability_of_arms_and_body
+  label: enchanted invulnerability of arms and body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing group already covers invulnerable or weapon-resistant bodies
+    and their combat implications.
+  cautions: If no hidden weakness or limiting condition is present, this is broader
+    enchanted invulnerability rather than the full conditional-invulnerability pattern.
+  suggested_aliases:
+  - enchanted_invulnerable_body
+  - weapon_resistant_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-landscape-causing-loss-of-way
+  motif_id: enchanted_landscape_causing_loss_of_way
+  label: enchanted landscape causing loss of way
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An uncanny landscape that disorients travelers fits enchanted-realm boundary
+    logic.
+  cautions: Could belong under hero_journey if the emphasis is travel ordeal, or threshold_guardian
+    if a guarding agent causes the disorientation.
+  suggested_aliases:
+  - enchanted_disorientation
+  - uncanny_landscape_loss_of_way
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-music-causing-collective-sleep
+  motif_id: enchanted_music_causing_collective_sleep
+  label: Enchanted music causing collective sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: child
+  confidence: high
+  rationale: The group explicitly includes magical or enchanted music that causes
+    sleep.
+  cautions: Preserve whether sleep enables rescue, betrayal, enchantment, or threshold
+    crossing as evidence detail.
+  suggested_aliases:
+  - magical_music_causing_collective_sleep
+  - enchanted_music_that_causes_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-music-compels-dancing
+  motif_id: enchanted_music_compels_dancing
+  label: enchanted music compels dancing
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: child
+  confidence: high
+  rationale: Compulsory dancing by supernatural music is directly covered by enchanting_music
+    and its aliases.
+  cautions: If the dancing is fatal or punitive, divine_judgment or threshold_guardian
+    may be relevant secondarily.
+  suggested_aliases:
+  - compulsory_dance_by_enchanted_music
+  - enchanted_music_compels_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-music-compels-involuntary-dancing
+  motif_id: enchanted_music_compels_involuntary_dancing
+  label: enchanted music compels involuntary dancing
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: child
+  confidence: high
+  rationale: This is a close variant of compulsory dancing caused by enchanted music,
+    already in the group scope.
+  cautions: Likely mergeable with enchanted_music_compels_dancing as an alias unless
+    evidence distinguishes involuntary or fatal performance.
+  suggested_aliases:
+  - enchanted_music_compels_dancing
+  - compulsory_dance_by_enchanted_music
+  - irresistible_music_causing_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-net-traps-a-supernatural-thief
+  motif_id: enchanted_net_traps_a_supernatural_thief
+  label: Enchanted net traps a supernatural thief
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The enchanted net functions as a power object used to capture a supernatural
+    offender.
+  cautions: Could fit trickster if the thief's boundary-crossing is central, or sacred_craft
+    if the net's making is emphasized; single occurrence is object-specific.
+  suggested_aliases:
+  - magical_net_traps_thief
+  - enchanted_capture_net
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-or-uncanny-food-used-to-induce-violent-action
+  motif_id: enchanted_or_uncanny_food_used_to_induce_violent_action
+  label: enchanted or uncanny food used to induce violent action
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food acts as a supernatural substance altering behavior and provoking
+    violence.
+  cautions: If the episode is primarily betrayal through a meal or drink, betrayal_violated_trust
+    may be a better primary group; review whether the food is magical, cursed, or
+    merely narrative setup.
+  suggested_aliases:
+  - enchanted_food_induces_violence
+  - uncanny_food_causing_violent_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence enchanted-object or enchanted-action
+  details; preserve local evidence and avoid promoting them as standalone taxonomy
+  families unless recurrence increases.
+- Music-compulsion labels map cleanly to the existing enchanting_music group and may
+  be candidates for alias consolidation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage function
+    before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1365
+  input_sha256: 0c50029ee1a2ce3ed882af242a516df2acb940d90bb7feecb06eb23c4e881a87
+

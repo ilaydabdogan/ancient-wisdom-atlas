@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0366
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magical-prayer-language-and-divine-names
+  motif_id: magical_prayer_language_and_divine_names
+  label: magical prayer language and divine names
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Divine names and special prayer language function as esoteric or operative
+    sacred knowledge, close to afterlife/name-power and forbidden or hidden knowledge
+    patterns.
+  cautions: Could also involve curse_blessing_speech if the emphasis is performative
+    utterance, or ritual practice if source context centers liturgy rather than knowledge.
+  suggested_aliases:
+  - divine_names_as_power
+  - sacred_names_in_prayer
+  - esoteric_prayer_language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-vessel-and-drink-enabling-divine-manifestation
+  motif_id: magical_vessel_and_drink_enabling_divine_manifestation
+  label: magical vessel and drink enabling divine manifestation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is a ritual object and drink enabling direct manifestation
+    of divine presence.
+  cautions: Composite label also touches sacred_vessel and sacred_substance; choose
+    secondary mappings if the passage emphasizes the container or intoxicating/ritual
+    substance more than manifestation.
+  suggested_aliases:
+  - ritual_vessel_enables_theophany
+  - sacred_drink_enables_divine_manifestation
+  - vessel_and_drink_theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maintenance-of-perpetual-sacred-fires
+  motif_id: maintenance_of_perpetual_sacred_fires
+  label: Maintenance of perpetual sacred fires
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Perpetual sacred fires are a ritual maintenance form of fire as divine
+    presence, sacred medium, or cosmic principle.
+  cautions: If tied to calendrical renewal, sacred_time may be a useful secondary
+    mapping; if tied to offerings, sacrifice may also apply.
+  suggested_aliases:
+  - perpetual_sacred_fire
+  - keeping_sacred_fire
+  - ritual_maintenance_of_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.male-rites-with-bodily-alteration
+  motif_id: male_rites_with_bodily_alteration
+  label: Male rites with bodily alteration
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Bodily alteration in male rites likely marks initiation or rite-of-passage
+    transformation.
+  cautions: Culturally sensitive and too broad without source evidence; review terminology,
+    ritual context, age/status transition, and whether bodily alteration is central
+    or incidental.
+  suggested_aliases:
+  - male_initiation_rite
+  - bodily_alteration_initiation
+  - ritual_body_marking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mantled-recipient-of-divine-or-angelic-address
+  motif_id: mantled_recipient_of_divine_or_angelic_address
+  label: Mantled recipient of divine or angelic address
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine or angelic address to a human recipient fits guidance or intervention
+    by sacred agents.
+  cautions: The mantle detail may be passage-specific; if the address commissions
+    a prophet, divine_call or sacred_knowledge may be better secondary mappings.
+  suggested_aliases:
+  - angelic_address
+  - divine_address_to_recipient
+  - mantled_prophetic_recipient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-divine-names-with-singular-deity
+  motif_id: many_divine_names_with_singular_deity
+  label: Many divine names with singular deity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Multiple divine names encode theological knowledge of divine attributes
+    and sacred naming practices.
+  cautions: May be doctrinal or liturgical rather than narrative motif; if the names
+    are invoked performatively, curse_blessing_speech may be relevant.
+  suggested_aliases:
+  - many_names_of_god
+  - divine_names_and_attributes
+  - sacred_divine_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-joined-parts-forming-one-sacred-structure
+  motif_id: many_joined_parts_forming_one_sacred_structure
+  label: Many joined parts forming one sacred structure
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred structure made of many joined parts likely functions as temple,
+    sacred center, or ordered cosmic body.
+  cautions: Could be ecclesiological metaphor rather than place/axis symbolism; if
+    focus is construction craft, sacred_craft may fit better.
+  suggested_aliases:
+  - composite_sacred_structure
+  - many_parts_one_temple
+  - joined_parts_as_sacred_building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-nations-unified-into-one-sacred-building
+  motif_id: many_nations_unified_into_one_sacred_building
+  label: many nations unified into one sacred building
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Many nations becoming one sacred building expresses sacred communal bond
+    and unified divine-human order.
+  cautions: May be a theological metaphor or ecclesial image; axis_mundi/world_center
+    may be secondary if the building functions as temple or cosmic center.
+  suggested_aliases:
+  - nations_unified_as_sacred_building
+  - many_peoples_one_temple
+  - sacred_building_as_unified_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marine-divine-and-animal-dangers-in-a-liminal-sea-cave
+  motif_id: marine_divine_and_animal_dangers_in_a_liminal_sea_cave
+  label: Marine divine and animal dangers in a liminal sea-cave
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A dangerous liminal sea-cave fits cave/sea descent imagery as a threshold
+    into perilous nonordinary space.
+  cautions: Composite and highly contextual; if animal danger or marine deity is central,
+    otherworld, threshold_guardian, or divine_intervention may be better secondary
+    mappings.
+  suggested_aliases:
+  - liminal_sea_cave_danger
+  - sea_cave_threshold_peril
+  - marine_cave_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maritime-peril-prayer-and-safe-landfall
+  motif_id: maritime_peril_prayer_and_safe_landfall
+  label: Maritime peril, prayer, and safe landfall
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Prayer in sea peril followed by safe landfall centers on divine rescue
+    or guidance in human danger.
+  cautions: If the emphasis is vow, obligation, or exchange after rescue, sacred_exchange
+    or covenant may also apply; avoid treating all sea danger as flood or descent.
+  suggested_aliases:
+  - prayer_for_sea_rescue
+  - divine_rescue_at_sea
+  - safe_landfall_after_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several labels are single-occurrence composites and
+  may need secondary mappings after source review.
+- No placement implies historical transmission or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for likely normalization placement using existing canonical
+    motif groups where possible.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0366
+  input_sha256: a0c2363158a27ec9935fe38eebc6b1048f70af129dc1b438fe9eec1612a1bcfd
+

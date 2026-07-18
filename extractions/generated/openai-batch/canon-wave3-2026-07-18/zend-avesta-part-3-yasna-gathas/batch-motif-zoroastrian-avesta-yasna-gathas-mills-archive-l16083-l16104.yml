@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l16083-l16104
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA    XXXV. / YASNA   XXXV. / YASNA    XXXV.  283 / YASNA  XXXVI.; lines
+    16083-16104
+  start: '16083'
+  end: '16104'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Who brings pollutions to this (Thy flame) him wilt Thou cover with pollutions
+    (in his turn).
+  summary: The passage addresses Ahura Mazda and the Fire as primeval ones, speaks
+    of approaching them in the house or service of the holy Fire, warns that one who
+    pollutes the flame will be covered with pollutions in turn, and petitions the
+    Fire of the Lord to grant zeal, approach the worshippers, and bring friendly blessing
+    and praise.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speakers address Ahura Mazda and the Fire together as two primeval ones.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The setting is described as the house or service of Ahura Mazda's holy Fire.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: The passage states that a person who brings pollutions to the flame will be
+    covered with pollutions in turn.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speakers ask the Fire of the Lord to give them zeal and to approach them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speakers associate the Fire with friendly blessing and praise.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Addressed as Ahura Mazda and as the most bounteous Spirit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fire of the Lord / holy Fire
+  description: Addressed with Ahura Mazda as primeval and called the holy Fire and
+    Fire of the Lord.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: speakers / worshippers
+  description: The first-person plural speakers who approach Ahura and the Fire and
+    ask for zeal and blessing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: one who brings pollutions
+  description: A person described as bringing pollutions to the flame.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: addressed divine being
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda is directly addressed as most bounteous Spirit and linked with
+    judgment on pollution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sacred addressed fire
+  assigned_to:
+  - fig:2
+  basis: The Fire is directly addressed, called holy and of the Lord, and petitioned
+    to grant zeal and blessing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: petitioning worshippers
+  assigned_to:
+  - fig:3
+  basis: The speakers say they would approach Ahura and the Fire and ask the Fire
+    for zeal and approach.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: polluter of the flame
+  assigned_to:
+  - fig:4
+  basis: The passage identifies someone who brings pollutions to the flame and receives
+    pollutions in turn.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: holy fire
+  literal_form: the holy Fire / Thy flame / Fire of the Lord
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: pollutions
+  literal_form: pollutions brought to the flame and returned upon the polluter
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Approach to Ahura and the holy Fire
+  summary: The speakers approach Ahura Mazda and the Fire in the house or service
+    of the holy Fire and address them as primeval ones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Pollution of the flame and reciprocal pollution
+  summary: The passage warns that whoever brings pollution to the flame will be covered
+    with pollution in turn.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Petition to the Fire
+  summary: The speakers ask the Fire of the Lord to give zeal, approach them, and
+    act with friendly blessing and praise.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: retributive pollution for defiling a sacred flame
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that the one who brings pollutions to the flame will be
+    covered with pollutions in turn.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a brief ritual warning rather than an extended judgment
+    narrative.
+- id: motif:2
+  label: petitionary approach to sacred fire for blessing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speakers approach Ahura and the Fire and request zeal, approach, blessing,
+    and praise from the Fire of the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The exchange is implicit in devotional address and petition; no material
+    offering is described in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 16083-16089
+  quote_or_summary: "“We would approach You two, O (Ye) primeval ones in the house
+    of this Thy holy Fire, O Ahura Mazda, Thou most bounteous Spirit!”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 16089-16092
+  quote_or_summary: "“Who brings pollutions to this (Thy flame) him wilt Thou cover
+    with pollutions (in his turn).”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 16092-16097
+  quote_or_summary: The speakers ask the Fire of the Lord, described as most friendly,
+    to give zeal, approach them, and act with loving blessing and praise.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text summarized for evidence.
+- id: ev:4
+  type: note
+  locator: 16099-16104
+  quote_or_summary: The translator notes alternatives for the phrase about the Fire,
+    including “in the service of the Fire,” and notes that fire temples did not exist
+    though some shelter must have been provided.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based on the supplied passage. Motif assignments are
+    cautious because the excerpt is brief and mostly liturgical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit comparison to another corpus or tradition.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l16083-l16104
+  passage_sha256=a32a3cc294a2104364f69e4aed4b0a189088bda7083ed1878b11e202f0050461
+

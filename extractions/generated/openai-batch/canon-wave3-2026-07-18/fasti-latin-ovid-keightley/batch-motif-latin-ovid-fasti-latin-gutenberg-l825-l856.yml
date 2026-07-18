@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l825-l856
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: PREFACE / T. K. / INTRODUCTION / NOTES:; lines 825-856
+  start: '825'
+  end: '856'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: _Jana_ was the moon, and from _Dea Jana_ (pronounced _Yana_), was made Diana.
+  summary: A set of editorial notes gives Greek terminology, cites Horace and scholarly
+    authorities on calendrical cycles, describes the Latin year as solar in Ovid's
+    time, mentions the intercalary month Mercedonius, identifies Jana with the moon,
+    derives Diana from Dea Jana, and notes old Latin forms.
+  language: English with Latin and Greek terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists Greek terms connected with the extremity or edge of night.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Horace passage is cited in connection with a recurring cycle of years and
+    games.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that the Latin year was solar when Ovid wrote.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note identifies Mercedonius as an intercalary month and says its name
+    would be unknown without Plutarch's mention of it.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note identifies Jana with the moon and says Diana was made from Dea Jana.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note says endo or indu was an old form for in, visible in fragments of
+    Ennius and in Lucretius.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jana
+  description: Named in the note as the moon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Diana
+  description: Named in the note as formed from Dea Jana.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: moon-identified name or deity
+  assigned_to:
+  - fig:1
+  basis: The note states that Jana was the moon.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: derived divine name
+  assigned_to:
+  - fig:2
+  basis: The note says Diana was made from Dea Jana.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: moon
+  literal_form: Jana was the moon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: calendrical cycle and intercalation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The notes discuss recurring cycles of years and games, the solar character
+    of the Latin year, and the intercalary month Mercedonius.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: This is a scholarly calendrical note rather than a mythic seasonal narrative;
+    the taxonomy reference is approximate.
+- id: motif:2
+  label: moon-name divine identification
+  taxonomy_refs: []
+  basis: The note identifies Jana with the moon and links Diana's name to Dea Jana.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a philological identification, not a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 825-828, note [1]
+  quote_or_summary: '"[Greek: Akronyx, akronychia, to akron taes nuktos]."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 832-834, note [3]
+  quote_or_summary: Horace is quoted with language about a fixed recurring cycle of
+    years, song, and games.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 836-837, note [4]
+  quote_or_summary: The editor says he called the Latin year solar because it was
+    solar when Ovid wrote.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 842-845, note [6]
+  quote_or_summary: The note says Mercedonius was the name of the intercalary month
+    and that the name survives because Plutarch mentioned it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 847-848, note [7]
+  quote_or_summary: '"_Jana_ was the moon, and from _Dea Jana_ (pronounced _Yana_),
+    was made Diana."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 850-852, note [8]
+  quote_or_summary: The note says endo or indu was an old form for in, visible in
+    Ennius and Lucretius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is editorial notes
+    rather than a mythic narrative, so motif identification is limited and needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l825-l856
+  passage_sha256=6949a68e9e87c5dba8a95c510dfc790fe1ee8f58615b04b3325e21b6de685030
+

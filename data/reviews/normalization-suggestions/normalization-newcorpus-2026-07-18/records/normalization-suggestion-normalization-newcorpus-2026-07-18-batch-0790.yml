@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0790
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-ally-guards-and-avenges-wounded-master
+  motif_id: animal_ally_guards_and_avenges_wounded_master
+  label: Animal ally guards and avenges wounded master
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes animal helpers; this label describes an animal
+    ally acting protectively and vengefully on behalf of a human.
+  cautions: Could also belong under sacred_combat if the emphasis is battle revenge
+    rather than supernatural animal aid; single occurrence is specific.
+  suggested_aliases:
+  - animal_helper_avenges_master
+  - protective_animal_ally
+  - animal_ally_as_avenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-amulet-linked-to-posthumous-animal-manifestation
+  motif_id: animal_amulet_linked_to_posthumous_animal_manifestation
+  label: Animal amulet linked to posthumous animal manifestation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines power object, animal manifestation, and posthumous
+    transformation, and the main function is unclear without source evidence.
+  cautions: May fit sacred_treasures, death_and_transformation, shapeshifter, external_soul,
+    or culturally specific soul/amulet beliefs; review Inuit context carefully.
+  suggested_aliases:
+  - posthumous_animal_manifestation
+  - animal_amulet_after_death
+  - animal_amulet_and_dead_person_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-anatomy-altered-by-burning-coals
+  motif_id: animal_anatomy_altered_by_burning_coals
+  label: Animal anatomy altered by burning coals
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The wording suggests an etiological explanation for an animal trait caused
+    by a primordial event, which fits the creation/etiology group.
+  cautions: If the episode centers on punishment, trickster mischief, or fire symbolism
+    rather than origin of traits, secondary placement may differ; preserve the coal
+    detail as evidence.
+  suggested_aliases:
+  - animal_trait_origin_by_burning
+  - animal_anatomy_etiology
+  - animal_body_trait_explained_by_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-and-natural-force-similes-for-heroic-battle
+  motif_id: animal_and_natural_force_similes_for_heroic_battle
+  label: animal and natural-force similes for heroic battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes poetic imagery or simile technique rather than a narrative
+    or symbolic motif acted within the story world.
+  cautions: If a passage depicts actual animal transformation or divine natural forces
+    in battle, index that separate evidence under the relevant combat or transformation
+    group.
+  suggested_aliases:
+  - heroic_battle_similes
+  - animal_similes_in_battle
+  - natural_force_similes_for_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-and-plant-traits-explained-by-primordial-events
+  motif_id: animal_and_plant_traits_explained_by_primordial_events
+  label: animal and plant traits explained by primordial events
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly describes etiological explanation of natural traits
+    from primordial events, matching creation and origin motifs.
+  cautions: May require secondary mapping to shapeshifter, sacred_law, or trickster
+    if the source emphasizes transformation, taboo, or boundary-breaking agency.
+  suggested_aliases:
+  - animal_plant_trait_etiology
+  - natural_traits_from_primordial_events
+  - etiology_of_animal_and_plant_traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-announces-hidden-or-approaching-fate
+  motif_id: animal_announces_hidden_or_approaching_fate
+  label: animal announces hidden or approaching fate
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal revealing hidden or coming fate functions as omen, prophecy,
+    or divinatory messenger.
+  cautions: If the animal is a one-time supernatural helper, divine_intervention may
+    be relevant; if fate itself is the focus, death_by_fate or fate_figures_cosmic_weaving
+    may be secondary.
+  suggested_aliases:
+  - animal_omen_of_fate
+  - animal_fate_messenger
+  - animal_announces_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-army-rescues-condemned-human
+  motif_id: animal_army_rescues_condemned_human
+  label: Animal army rescues condemned human
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group already includes animal helpers, and an animal army
+    saving a condemned person is a collective rescue-aid variant.
+  cautions: Could overlap with divine_judgment if the rescue reverses wrongful condemnation,
+    or sacred_combat if the animal army engages in battle; single occurrence may be
+    too specific for a child motif.
+  suggested_aliases:
+  - animal_helpers_rescue_human
+  - animal_army_as_rescuers
+  - collective_animal_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-associated-wild-companion
+  motif_id: animal_associated_wild_companion
+  label: Animal-associated wild companion
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to tell whether it means animal helper, wild-man
+    companion, liminal identity, or heroic counterpart.
+  cautions: For Mesopotamian material this may refer to a culturally significant companion
+    figure rather than a generic animal motif; needs passage evidence before mapping
+    to divine_intervention, hero_journey, shapeshifter, or trickster.
+  suggested_aliases:
+  - wild_companion
+  - animal_linked_companion
+  - animal_associated_liminal_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-attack-followed-by-rescue-without-release-from-kanaima
+  motif_id: animal_attack_followed_by_rescue_without_release_from_kanaima
+  label: animal attack followed by rescue without release from Kanaima
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a culturally specific composite involving attack, rescue,
+    and continued spiritual danger, and cannot be safely normalized from wording alone.
+  cautions: Kanaima concepts are culturally sensitive; could involve spirit affliction,
+    vengeance, predation, or ritual danger. Avoid broad mapping without source review.
+  suggested_aliases:
+  - rescue_without_release_from_kanaima
+  - animal_attack_and_persistent_spirit_danger
+  - animal_attack_spirit_affliction_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-auditions-for-messenger-role
+  motif_id: animal_auditions_for_messenger_role
+  label: animal auditions for messenger role
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns animals competing or being selected for a messenger
+    function, which fits supernatural guidance and messenger roles.
+  cautions: If the episode is comic animal fable or trickster contest rather than
+    sacred message delivery, trickster may be a better placement; keep as provisional.
+  suggested_aliases:
+  - animal_messenger_selection
+  - animal_messenger_role_contest
+  - animals_compete_to_be_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Animal-helper motifs recur in this batch, but the current normalization taxonomy
+  lacks a dedicated animal helper group; existing divine_intervention contains animal_helpers
+  and is the best provisional parent when aid or guidance is central.
+- Several labels are single-occurrence and culturally specific; suggested mappings
+  should remain provisional until source passages confirm function rather than surface
+  animal imagery.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0790
+  input_sha256: f3e169ef4a2bb7b6c9e4a373a3b076059a64e8663be81904ebd07a415a6a3431
+

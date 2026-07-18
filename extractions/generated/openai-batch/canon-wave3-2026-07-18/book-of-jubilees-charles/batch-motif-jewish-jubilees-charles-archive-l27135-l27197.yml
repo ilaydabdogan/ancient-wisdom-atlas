@@ -1,0 +1,532 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l27135-l27197
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: INDEX I / INDEX II / NAMES AND SUBJECTS / THE BOOK OF JUBILEES; lines 27135-27197
+  start: '27135'
+  end: '27197'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment lists subjects and references including the Book of Life,
+    those to be destroyed, Cain and his death, Canaan seizing Palestine, circumcision
+    as an everlasting ordinance associated with angels, the eighth day, and Israel’s
+    neglect, covenants with Noah and Abram, creation and the Creator, waters of Dédain,
+    and demons as sons of the Watchers who tempt Noah’s sons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index lists the Book of Life and immediately includes an entry for those
+    who will be destroyed.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cain is listed, and the death of Cain is also indexed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Canaan is listed with an indexed action of seizing Palestine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Circumcision is described in the index as an everlasting ordinance.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Circumcision is said to be observed in the creation of the two highest orders
+    of angels.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists circumcision on the eighth day and its neglect by Israel.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists covenants with Noah and with Abram.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index lists a new creation and twenty-two works of creation.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index includes the title Creator of all things.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The index lists waters of Dédain.
+  category: setting
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The index includes demonology of Jubilees and demonology of the New Testament.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Demons are identified as sons of the Watchers and are said to tempt Noah’s
+    sons.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Cain
+  description: Named in the index, with a separate entry for his death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Canaan
+  description: Named in the index and associated with seizing Palestine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Noah
+  description: Named in the index in connection with a covenant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Abram
+  description: Named in the index in connection with a covenant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Two highest orders of angels
+  description: The index says circumcision was observed in the creation of the two
+    highest orders of angels.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Israel
+  description: Israel is named as neglecting circumcision.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Creator of all things
+  description: A divine title or subject heading listed in the index.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Watchers
+  description: Named as the beings whose sons are demons.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:12
+- id: fig:9
+  name_or_label: Demons
+  description: Identified as sons of the Watchers and said to tempt Noah’s sons.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:12
+- id: fig:10
+  name_or_label: Noah’s sons
+  description: Named as those tempted by demons.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+- id: fig:11
+  name_or_label: Those who will be destroyed
+  description: A group listed in connection with the Book of Life entry.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: indexed deceased figure
+  assigned_to:
+  - fig:1
+  basis: The index lists Cain and the death of Cain.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: land seizer
+  assigned_to:
+  - fig:2
+  basis: The index says Canaan seizes Palestine.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: covenant-associated figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The index lists covenants with Noah and with Abram.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: angelic orders associated with circumcision
+  assigned_to:
+  - fig:5
+  basis: Circumcision is indexed as observed in the creation of the two highest orders
+    of angels.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: ordinance-neglecting group
+  assigned_to:
+  - fig:6
+  basis: The index says circumcision was neglected by Israel.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: creator
+  assigned_to:
+  - fig:7
+  basis: The index uses the title Creator of all things.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: progenitors of demons
+  assigned_to:
+  - fig:8
+  basis: Demons are called sons of the Watchers.
+  evidence_refs:
+  - ev:12
+- id: role:8
+  label: tempters
+  assigned_to:
+  - fig:9
+  basis: The index says demons tempt Noah’s sons.
+  evidence_refs:
+  - ev:12
+- id: role:9
+  label: tempted group
+  assigned_to:
+  - fig:10
+  basis: Noah’s sons are named as those tempted by demons.
+  evidence_refs:
+  - ev:12
+- id: role:10
+  label: destroyed group
+  assigned_to:
+  - fig:11
+  basis: The index includes an entry for those who will be destroyed.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Book of Life
+  literal_form: book
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Circumcision
+  literal_form: ritual ordinance
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Eighth day
+  literal_form: ritual day or numbered time marker
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Covenant
+  literal_form: covenant relationship
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: New creation and twenty-two works
+  literal_form: creation event and numbered works
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: Waters of Dédain
+  literal_form: waters
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Book of Life and destruction entry
+  summary: The index places the Book of Life alongside an entry for those who will
+    be destroyed.
+  figure_refs:
+  - fig:11
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death of Cain indexed
+  summary: The index names Cain and separately indexes his death.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Canaan seizes Palestine
+  summary: The index records Canaan as seizing Palestine.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Circumcision ordinance
+  summary: The index describes circumcision as an everlasting ordinance, links it
+    with the creation of high angelic orders, lists eighth-day practice, and notes
+    neglect by Israel.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Covenants with Noah and Abram
+  summary: The index lists covenants with Noah and with Abram.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Creation and Creator entries
+  summary: The index lists new creation, twenty-two works of creation, and the Creator
+    of all things.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: Demons tempt Noah’s sons
+  summary: The index identifies demons as sons of the Watchers and says they tempt
+    Noah’s sons.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Book of Life and destined destruction
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index lists the Book of Life together with those who will be destroyed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The index does not narrate a judgment scene or explain how the Book of
+    Life relates to destruction.
+- id: motif:2
+  label: Covenant with ancestral figures
+  taxonomy_refs:
+  - covenant
+  basis: The index explicitly lists covenants with Noah and Abram.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: Only index references are present; covenant terms and narrative setting
+    are not included in this passage.
+- id: motif:3
+  label: Everlasting ritual ordinance with angelic association
+  taxonomy_refs: []
+  basis: Circumcision is called an everlasting ordinance, linked with the creation
+    of the two highest orders of angels, assigned to the eighth day, and said to be
+    neglected by Israel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly connect this entry to the covenant motif,
+    although the rite is indexed near covenant entries.
+- id: motif:4
+  label: New creation and ordered works of creation
+  taxonomy_refs: []
+  basis: The index lists new creation, twenty-two works of creation, and the Creator
+    of all things.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: Available taxonomy has no general creation motif family; the index gives
+    only subject references.
+- id: motif:5
+  label: Demonic tempters descended from Watchers
+  taxonomy_refs: []
+  basis: Demons are identified as sons of the Watchers and are said to tempt Noah’s
+    sons.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The passage does not describe the Watchers’ own actions or a fuller demonological
+    narrative.
+- id: motif:6
+  label: Land seizure by named ancestral figure
+  taxonomy_refs: []
+  basis: The index says Canaan seizes Palestine.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an index entry only and does not supply narrative detail or an
+    explicit mythic pattern.
+comparison_claims:
+- id: claim:1
+  claim: The index points to a comparison between the demonology of Jubilees and the
+    demonology of the New Testament.
+  claim_level: same_function
+  target: Demonology of the New Testament
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is only an index entry and gives no details about specific
+    New Testament texts, figures, or demonological functions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 27137-27139
+  quote_or_summary: "“Book of Life, xxx. 22; xxxvi. 10 / those who will be destroyed,
+    xxx. 22”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 27143-27144
+  quote_or_summary: "“Cain, iv. 1 / death of, iv. 31”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 27146-27147
+  quote_or_summary: "“Canaan ... seizes Palestine, x. 29-34”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 27165-27166
+  quote_or_summary: "“Circumcision, an everlasting ordinance”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 27167-27169
+  quote_or_summary: "“observed in the creation of the two highest orders of angels”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 27170-27171
+  quote_or_summary: "“on the eighth day ... neglected by Israel”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 27174-27175
+  quote_or_summary: "“Covenant with Noah ... with Abram”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 27177-27179
+  quote_or_summary: "“Creation, the new ... twenty-two works of”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:9
+  type: quote
+  locator: lines 27180-27181
+  quote_or_summary: "“Creator of all things”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:10
+  type: quote
+  locator: line 27187
+  quote_or_summary: "“Dédain, waters of, ix. 2”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:11
+  type: quote
+  locator: lines 27188-27190
+  quote_or_summary: "“Demonology of Jubilees ... and of the New Testament”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:12
+  type: quote
+  locator: lines 27191-27193
+  quote_or_summary: "“Demons, sons of the Watchers ... tempt Noah’s sons”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The source passage is an index segment, not a continuous narrative. Extracted
+    scenes and motifs should be read as indexed subject references rather than full
+    passage episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only provided passage text and metadata were used. No external Jubilees context was added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l27135-l27197
+  passage_sha256=5938f00701749fb7139680b3b7edefce3efa3ab75a0583f9a6af1e53b6aed72a
+

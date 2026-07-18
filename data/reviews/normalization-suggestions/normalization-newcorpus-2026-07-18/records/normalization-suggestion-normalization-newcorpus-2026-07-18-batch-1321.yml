@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1321
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.commanded-club-defeats-an-army
+  motif_id: commanded_club_defeats_an_army
+  label: commanded club defeats an army
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A commanded club is a power object whose supernatural force defeats enemies.
+  cautions: Could also fit divine_intervention or sacred_combat if the emphasis is
+    command by a helper or battle sequence rather than the object itself.
+  suggested_aliases:
+  - self-acting weapon
+  - magical club defeats army
+  - commanded weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commanded-food-producing-table
+  motif_id: commanded_food_producing_table
+  label: Commanded food-producing table
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The table functions as an inexhaustible or miraculous provision object,
+    already represented under divine_intervention aliases.
+  cautions: If the source emphasizes the object as a treasure rather than provision,
+    sacred_treasures or sacred_vessel may be secondary.
+  suggested_aliases:
+  - magic food-producing table
+  - inexhaustible food table
+  - commanded abundance table
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commander-led-slaughter-sequence
+  motif_id: commander_led_slaughter_sequence
+  label: Commander-led slaughter sequence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a battle or massacre episode but gives no clear symbolic
+    function beyond violence.
+  cautions: May be an episode-specific plot summary; review whether it expresses sacred_combat,
+    divine_warrior, divine_judgment, or should be excluded as too specific.
+  suggested_aliases:
+  - leader-directed slaughter
+  - battle slaughter sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commission-against-two-giant-marauders
+  motif_id: commission_against_two_giant_marauders
+  label: Commission against two giant marauders
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A commission to confront dangerous giant marauders is a quest assignment
+    or heroic task.
+  cautions: If the combat itself is central, sacred_combat or divine_warrior may be
+    secondary; the two-giant detail is likely over-specific.
+  suggested_aliases:
+  - commission against giants
+  - heroic task against marauders
+  - quest to defeat giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commission-to-preach-repentance
+  motif_id: commission_to_preach_repentance
+  label: Commission to preach repentance
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A sacred commission to preach repentance fits divine calling and guidance
+    of a prophetic agent.
+  cautions: Could map to divine_call/initiation if the passage emphasizes the recipient's
+    transformation, or to sacred_law/divine_judgment if repentance teaching is the
+    focus.
+  suggested_aliases:
+  - prophetic commission
+  - mission to preach repentance
+  - divine preaching mandate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commissioning-of-a-successor-to-lead-the-people-into-inheritance
+  motif_id: commissioning_of_a_successor_to_lead_the_people_into_inheritance
+  label: Commissioning of a successor to lead the people into inheritance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on authorized succession and leadership transfer under
+    sacred order.
+  cautions: May also involve covenant or hero_journey if the inheritance is a promised
+    land journey; preserve succession-specific evidence.
+  suggested_aliases:
+  - commissioning of successor
+  - sacred succession mandate
+  - appointed leader for inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-and-familial-lament-for-a-slain-youth
+  motif_id: communal_and_familial_lament_for_a_slain_youth
+  label: communal and familial lament for a slain youth
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly describes collective and family mourning for a slain
+    figure.
+  cautions: The slain-youth detail may be source-specific; if funeral rites or vengeance
+    dominate, heroic_funeral_rites or restless_dead_haunting_vengeance may be secondary.
+  suggested_aliases:
+  - lament for slain youth
+  - communal lament for the slain
+  - familial mourning for slain youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-call-and-response-storytelling-frame
+  motif_id: communal_call_and_response_storytelling_frame
+  label: communal call-and-response storytelling frame
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns communal performance structure and oral narrative
+    transmission.
+  cautions: May be a textual/performance frame rather than a narrative motif; exclude
+    if it is only an editorial description of presentation.
+  suggested_aliases:
+  - call-and-response storytelling
+  - communal storytelling frame
+  - oral performance frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-drive-hunt-over-a-precipice
+  motif_id: communal_drive_hunt_over_a_precipice
+  label: communal drive hunt over a precipice
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a specific hunting technique, but its mythic or ritual
+    function is unclear.
+  cautions: May be an ethnographic subsistence detail rather than a motif; review
+    for ritual, etiological, animal-helper, or sacred-law significance before indexing.
+  suggested_aliases:
+  - communal cliff drive hunt
+  - game driven over precipice
+  - collective precipice hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-drive-of-game-into-a-prepared-net
+  motif_id: communal_drive_of_game_into_a_prepared_net
+  label: communal drive of game into a prepared net
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be a specific communal hunting method without clear
+    symbolic placement.
+  cautions: Could be a practical/ethnographic detail; review source evidence for ritualized
+    hunt, animal relation, culture-hero teaching, or exclude as too specific.
+  suggested_aliases:
+  - communal net hunt
+  - game driven into net
+  - prepared-net hunting drive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and may be episode-specific; preserve as evidence
+  detail unless source review confirms recurring motif function.
+- For hunting labels, avoid creating a new hunting group without more recurrent ritual
+  or mythic evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous violence and hunting items require
+    source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1321
+  input_sha256: ba85476816ae20a963c4a028d7844c7e4d6f0d3c9dce530375fe1bff42590bc0
+

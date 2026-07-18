@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l7047-l7168
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER III. 30-35 29 / THE BOOK OF JUBILEES / CHAPTER IV. 1-9 31 / THE BOOK
+    OF JUBILEES; lines 7047-7168
+  start: '7047'
+  end: '7168'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The excerpt gives a brief ancestral genealogy: Adam is named with Eve
+    his wife; Seth takes his sister ’Azfira as wife, and she bears Enos. A following
+    line says that he began to call on the name of the Lord on the earth. Editorial
+    notes discuss variant traditions about Adam’s children, chronological differences
+    with Syncellus, and interpretations of Genesis iv.26, including both divine invocation
+    and later idolatry readings.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Adam is said to have known Eve, who is identified as his wife; the excerpted
+    sentence is fragmentary before its outcome.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In a dated jubilee/week framework, Seth takes ’Azfira, identified as his sister,
+    to be his wife.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: "’Azfira bears Enos to Seth in the dated sequence."
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A male subject immediately following the birth notice of Enos begins to call
+    on the name of the Lord on the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary reports variant traditions about the number and names of Adam’s
+    children in Epiphanius, the Book of Jashar, Syncellus, and Ps.-Philo.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The commentary compares Jubilees’ interpretation of Genesis iv.26 with the
+    Septuagint, Syriac, and Josephus, and contrasts it with later interpretations
+    that connect the verse with idolatry.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The commentary notes chronological differences between Jubilees and Syncellus
+    for early ancestral events such as Seth’s birth, marriage, and Enos’s birth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Adam
+  description: A male ancestor named with Eve his wife; the commentary discusses variant
+    traditions about his children.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Eve
+  description: Adam’s wife in the fragmentary opening line.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Seth
+  description: He takes ’Azfira, his sister, as wife, and Enos is born to the couple.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: "’Azfira"
+  description: Seth’s sister and wife; she bears Enos.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Enos
+  description: Child born to Seth and ’Azfira; the following sentence associates a
+    male subject with beginning to call on the Lord’s name.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: the Lord
+  description: The deity whose name is called on in the passage.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: husband of Eve
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Eve as Adam’s wife.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wife of Adam
+  assigned_to:
+  - fig:2
+  basis: The passage calls Eve Adam’s wife.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: brother-husband
+  assigned_to:
+  - fig:3
+  basis: Seth takes ’Azfira, identified as his sister, to be his wife.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sister-wife
+  assigned_to:
+  - fig:4
+  basis: "’Azfira is identified as Seth’s sister and wife."
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: father of Enos
+  assigned_to:
+  - fig:3
+  basis: The birth notice says ’Azfira bore Enos to Seth.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: mother of Enos
+  assigned_to:
+  - fig:4
+  basis: The passage states that ’Azfira bore Enos.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: child born in the genealogy
+  assigned_to:
+  - fig:5
+  basis: Enos is named as the child born to ’Azfira in the dated sequence.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: associated initiator of calling on the Lord’s name
+  assigned_to:
+  - fig:5
+  basis: The sentence immediately after Enos’s birth says, “He began to call on the
+    name of the Lord”; the antecedent should be reviewed because the excerpt is fragmentary.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: invoked deity
+  assigned_to:
+  - fig:6
+  basis: The action concerns calling on the name of the Lord.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Genealogical marriage and birth
+  summary: The passage moves from a fragment about Adam and Eve to Seth’s marriage
+    with his sister ’Azfira and the birth of Enos within a jubilee/week chronology.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Beginning of divine-name invocation
+  summary: After the birth notice for Enos, the text states that he or the immediate
+    male subject began to call on the name of the Lord on the earth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Sibling marriage in early ancestral lineage
+  taxonomy_refs:
+  - sibling_pair
+  basis: Seth takes ’Azfira, explicitly called his sister, to be his wife, and Enos
+    is born in the genealogy.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference captures the sibling relation; the passage presents
+    a terse genealogical notice rather than a developed sibling-pair narrative.
+- id: motif:2
+  label: Beginning of calling on the divine name
+  taxonomy_refs: []
+  basis: The passage says that a male subject immediately following Enos’s birth began
+    to call on the name of the Lord on the earth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The immediate antecedent appears to be Enos, but the OCR excerpt is fragmentary
+    and should be reviewed.
+- id: motif:3
+  label: Origin of idolatry as alternate Enos tradition
+  taxonomy_refs: []
+  basis: The commentary reports later interpretations in which Genesis iv.26 is associated
+    with the rise of idolatry, demonic exposure, or people forsaking God for idols
+    in the days or name-tradition of Enos.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is from the editorial commentary, not the main Jubilees narrative
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The commentary states that Jubilees, the Septuagint, Syriac, and Josephus
+    share an interpretation of Genesis iv.26 as the beginning of calling on the Lord’s
+    name.
+  claim_level: same_function
+  target: Genesis iv.26 as interpreted by the Septuagint, Syriac, and Josephus, Ant.
+    1.3.1
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: high
+  limitations: The claim is reported by the editor’s note and concerns interpretation
+    of a biblical verse; it does not by itself establish historical contact beyond
+    the cited textual comparison.
+- id: claim:2
+  claim: The commentary contrasts Jubilees’ divine-invocation reading with nearby
+    Jewish interpretive traditions that treat the same Genesis verse or Enos tradition
+    as an origin point for idolatry or corruption.
+  claim_level: same_function
+  target: Onkelos, Ps.-Jonathan, Bereshith Rabba 23, Shabbath 118, Book of Jashar,
+    and Chronicles of Jerahmeel traditions on Genesis iv.26/Enos
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  limitations: This is a contrastive comparison in the commentary; the main Jubilees
+    excerpt itself gives the divine-invocation version rather than the idolatry version.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7047-7168; main text v. 10 fragment
+  quote_or_summary: "“Adam knew Eve his wife”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 7047-7168; main text v. 11
+  quote_or_summary: "“Seth took ’Azfira his sister to be his wife” and “she bare him
+    Enos.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 7047-7168; main text v. 12
+  quote_or_summary: "“He began to call on the name of the Lord on the earth.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 7047-7168; editorial note on v. 10
+  quote_or_summary: The note reports variant traditions about Adam’s children, including
+    counts from Epiphanius, the Book of Jashar, Syncellus, and names supplied by Ps.-Philo.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7047-7168; editorial note on v. 11
+  quote_or_summary: The note compares dates in Jubilees and Syncellus for Seth, Azira/’Azfira,
+    Enos, and later early ancestors, noting differences in hundreds while tens and
+    units agree in several entries.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7047-7168; editorial note on v. 12
+  quote_or_summary: The note says the Septuagint and Syriac agree with Jubilees in
+    reading Genesis iv.26 as “began to call” on the Lord’s name, and states that Josephus
+    understood it similarly.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 7047-7168; editorial note on v. 12
+  quote_or_summary: The note reports alternative Jewish interpretations in which Genesis
+    iv.26 marks the rise of idolatry, exposure to demons in Enos’s days, or people
+    corrupting themselves and forsaking God for idols.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main text is short and partly fragmented/OCR-corrupted, and much of the
+    comparative material comes from editorial notes. The sibling-marriage and divine-invocation
+    observations are directly supported by the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No literal symbols from the provided symbol taxonomy appear in the main narrative excerpt.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l7047-l7168
+  passage_sha256=c27c80fe645ebc92245119647c0333b0e2453e3825a6069a1d5bfc542de7bb45
+

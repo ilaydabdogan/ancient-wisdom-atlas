@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l7325-l7405
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: KITSCHUW I4I / KITSCHUW 143 / RICH MAN AND POOR MAN 145 / RICH MAN AND POOR
+    MAN 147; lines 7325-7405
+  start: '7325'
+  end: '7405'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“The poor man had some milk brought in, boiled the wolf’s brain in it, and
+    gave the sick man some of the soup to drink.”"
+  summary: A poor man takes the brains of a wounded wolf, uses them boiled in milk
+    to cure an ill prince, and receives rich gifts. A rich man hears of the poor man’s
+    gains, threatens him, has one eye put out as the price of the story, and then
+    goes to the animal house where the bear, wolf, and fox report their failures and
+    missing treasures.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A shepherd shoots a wolf approaching the flock, and the wolf’s brains fall
+    out of its skull.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poor man takes the wolf’s brains and says they are a cure for certain
+    illnesses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf rubs itself on its tree, but the tree no longer cures it because
+    its magic powers have been used up on the poor man.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The poor man reaches a village belonging to a prince who is very ill.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The poor man asks to visit the prince and is admitted by the prince’s order.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The poor man greets the prince with a customary wish that the power of a living
+    man be granted to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The prince says he would give whatever was asked to someone who brought him
+    a good remedy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The poor man boils the wolf’s brain in milk and gives the sick prince some
+    soup to drink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The prince becomes well instantly and is described as strong as a stag.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The prince gives the poor man a horse, weapons, and a flock of sheep with
+    shepherds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The rich man threatens to take half the poor man’s possessions unless told
+    how he got them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The poor man requires the rich man to let him put out one of his eyes before
+    telling him, and then puts out the eye with the prince’s dagger.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: The poor man tells the rich man that he got his wealth from a hill where a
+    bear, wolf, and fox lived.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:14
+  text: The rich man goes to the house and hides among the rafters.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:15
+  text: The wolf, fox, and bear return and report that they have brought home nothing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:16
+  text: The fox cannot find his cloth of gold, and the bear finds his pit empty.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: poor man
+  description: A man who carries the wolf’s brains, cures the prince, receives rich
+    gifts, and later tells the rich man where he says the riches came from.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: shepherd
+  description: The flock guardian who shoots the wolf as it approaches the flock.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: wolf
+  description: A wolf wounded by the shepherd; its brain is taken by the poor man
+    and later used in a remedy; it also belongs to the animal household with the bear
+    and fox.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: prince
+  description: A very ill prince who is cured by the poor man and rewards him with
+    horse, weapons, and sheep.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: rich man
+  description: A man who hears of the poor man’s riches, threatens him, loses one
+    eye as the price of information, and hides in the animal house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: bear
+  description: One of the three animals living at the hill house; he asks what the
+    others have brought and later finds his pit empty.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: fox
+  description: One of the three animals living at the hill house; he reports failing
+    to get anything from hen-houses and cannot find his cloth of gold.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: remedy-maker
+  assigned_to:
+  - fig:1
+  basis: The poor man boils wolf brain in milk and gives it to the sick prince.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: recipient of reward wealth
+  assigned_to:
+  - fig:1
+  basis: The poor man receives the prince’s best horse, weapons, and a flock of sheep.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: flock guardian and shooter
+  assigned_to:
+  - fig:2
+  basis: The shepherd shoots the wolf approaching the flock.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: wounded source of remedy
+  assigned_to:
+  - fig:3
+  basis: The wolf is shot, and the poor man takes its brains for use as a cure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: sick ruler
+  assigned_to:
+  - fig:4
+  basis: The prince is very ill and is visited by many people.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: grateful reward-giver
+  assigned_to:
+  - fig:4
+  basis: After recovery, the prince gives the poor man valuable gifts.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: coercive imitator-seeker
+  assigned_to:
+  - fig:5
+  basis: The rich man threatens the poor man for the secret of his riches and then
+    seeks the animal house himself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: animal house member
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:7
+  basis: The bear, wolf, and fox live together at the hill house and return there
+    toward evening.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: spent healing tree
+  literal_form: tree with magic powers that had previously cured the wolf but no longer
+    does
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: wolf brain and milk remedy
+  literal_form: wolf’s brain boiled in milk and given as soup
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: princely reward set
+  literal_form: best horse, sabre, dagger, gun, pistol, and flock of sheep with shepherds
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cloth of gold
+  literal_form: the fox’s cloth of gold, missing when he looks for it
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: empty pit
+  literal_form: the bear’s pit, expected to contain a rouble but found empty
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: lost eye as price of knowledge
+  literal_form: one of the rich man’s eyes put out by the poor man’s dagger before
+    the secret is told
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wolf wounded and healing tree fails
+  summary: The shepherd shoots the wolf, the poor man takes its brains, and the wolf’s
+    attempt to heal itself at its tree fails because the tree’s magic has been exhausted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Poor man cures the prince
+  summary: The poor man visits the ill prince, prepares wolf brain boiled in milk,
+    and the prince instantly recovers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Prince rewards the healer
+  summary: After being cured, the prince gives the poor man valuable horse, weapon,
+    and livestock gifts.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rich man obtains the secret at a bodily cost
+  summary: The rich man threatens the poor man, consents to losing one eye, and hears
+    that the poor man’s riches came from the bear, wolf, and fox at a hill house.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Rich man hides in the animal house
+  summary: The rich man hides among the rafters while the three animals return, report
+    their failures, and discover missing or empty stores.
+  figure_refs:
+  - fig:5
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal-derived miraculous cure
+  taxonomy_refs: []
+  basis: The poor man uses wolf brain boiled in milk to heal the prince instantly.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents the cure literally; no broader medical or ritual
+    system is explained.
+- id: motif:2
+  label: exhausted magic healing tree
+  taxonomy_refs: []
+  basis: The wolf’s tree had magic healing powers, but those powers have been used
+    up and no longer heal the wolf.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the tree as a world tree or sacred axis,
+    so no motif-family taxonomy is assigned.
+- id: motif:3
+  label: healer rewarded with sudden wealth
+  taxonomy_refs: []
+  basis: The cured prince rewards the poor man with horse, weapons, and a flock of
+    sheep with shepherds.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The exchange is explicit, but the passage does not present it as sacred
+    or contractual beyond the prince’s promise.
+- id: motif:4
+  label: envious rich man follows the poor man’s path to wealth
+  taxonomy_refs: []
+  basis: After hearing of the poor man’s riches, the rich man coerces the story and
+    sets out to the animal house himself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage segment begins and ends mid-tale; the outcome of the rich
+    man’s imitation is not included here.
+- id: motif:5
+  label: bodily loss as price of a wealth secret
+  taxonomy_refs: []
+  basis: The poor man tells the rich man the story only after putting out one of his
+    eyes with the prince’s dagger.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the condition and act, but does not state a ritual or
+    symbolic reason for the eye-loss.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7325-7335
+  quote_or_summary: The shepherd shoots the wolf; the poor man takes its brains as
+    a cure; the wolf’s tree fails to heal it because its magic powers have been used
+    up on the poor man.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7336-7355
+  quote_or_summary: The poor man reaches the prince’s village, learns that the prince
+    is ill, is admitted to visit him, gives a customary greeting, and hears the prince
+    promise reward for a good remedy.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7356-7370
+  quote_or_summary: The poor man boils wolf brain in milk, gives the prince soup,
+    and the prince instantly becomes well; the prince rewards him with a horse, weapons,
+    and a flock of sheep with shepherds.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7371-7385
+  quote_or_summary: The rich man threatens the poor man for the source of his riches;
+    the poor man puts out one of the rich man’s eyes as the condition for telling
+    him, then says the riches came from the bear, wolf, and fox at a hill.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7385-7405
+  quote_or_summary: The rich man hides among the rafters of the animal house; the
+    wolf, fox, and bear return, report failures, and discover that the fox’s cloth
+    of gold is missing and the bear’s pit is empty.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear at the action level. Motif labels are descriptive and
+    based only on the supplied excerpt; no external tale-type or cross-cultural comparisons
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific comparison to another corpus or tradition.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l7325-l7405
+  passage_sha256=4f12999a38298c6a8ea24c2486f56573717bf520e41787f12ceec349a1f9a45b
+

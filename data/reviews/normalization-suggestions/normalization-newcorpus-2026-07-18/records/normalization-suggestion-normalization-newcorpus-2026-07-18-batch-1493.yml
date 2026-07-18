@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1493
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mortal-prophet-and-apostolic-continuity
+  motif_id: mortal_prophet_and_apostolic_continuity
+  label: Mortal prophet and apostolic continuity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern prophetic succession, sacred authority, or a doctrinal
+    correction about prophetic mortality; context is needed.
+  cautions: Could be theological commentary rather than a reusable motif; review Islamic
+    source evidence sensitively.
+  suggested_aliases:
+  - prophetic mortality
+  - apostolic succession
+  - prophetic continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortal-transience-and-inevitable-separation
+  motif_id: mortal_transience_and_inevitable_separation
+  label: mortal transience and inevitable separation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on grief, impermanence, and separation, which fits
+    lament and tragic recognition.
+  cautions: If the passage is primarily philosophical teaching on impermanence rather
+    than expressed grief, sacred_knowledge or mystical_quest may be secondary.
+  suggested_aliases:
+  - human transience
+  - inevitable separation
+  - impermanence and grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-contact-destruction-and-isolation
+  motif_id: mortuary_contact_destruction_and_isolation
+  label: mortuary contact destruction and isolation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mortuary contact rules involving destruction and isolation fit ritual
+    taboo, spirit-contagion, and sacred-law handling of death pollution.
+  cautions: May belong with ancestor_rites or heroic_funeral_rites if the passage
+    emphasizes care of the dead rather than protective taboo.
+  suggested_aliases:
+  - mortuary contact taboo
+  - death-contact isolation
+  - mortuary pollution precautions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mound-or-sid-beings-reclassified-as-demons
+  motif_id: mound_or_sid_beings_reclassified_as_demons
+  label: mound or Sid beings reclassified as demons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive reclassification of beings rather than
+    a narrative motif.
+  cautions: If a source passage narrates encounters with mound or sid beings, preserve
+    that evidence under otherworld instead of this meta label.
+  suggested_aliases:
+  - sid beings demonized
+  - mound beings reclassified
+  - interpretive demonization of otherworld beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourner-compared-to-fallen-celestial-body
+  motif_id: mourner_compared_to_fallen_celestial_body
+  label: mourner compared to fallen celestial body
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The main function is imagery of mourning and grief, with celestial comparison
+    as local poetic detail.
+  cautions: Likely too specific for canonical promotion; do not map to cosmic motifs
+    unless celestial fall has narrative agency.
+  suggested_aliases:
+  - celestial simile for mourning
+  - mourner as fallen star
+  - cosmic imagery of grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-an-imagined-future-misfortune
+  motif_id: mourning_an_imagined_future_misfortune
+  label: mourning an imagined future misfortune
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: uncertain
+  confidence: low
+  rationale: It resembles anticipatory lament, but may instead be a comic, cautionary,
+    or folktale logic episode.
+  cautions: Needs source context; could be a passage-specific narrative device rather
+    than a broad mythic motif.
+  suggested_aliases:
+  - anticipatory mourning
+  - mourning future misfortune
+  - imagined grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-blood-explains-redbreast-coloration
+  motif_id: mourning_blood_explains_redbreast_coloration
+  label: Mourning blood explains redbreast coloration
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological explanation for an animal feature arising
+    from a death or mourning event.
+  cautions: Cosmic_origin already holds etiological naming and origin labels, but
+    this is animal coloration rather than place or people origin; consider future
+    animal-etiology grouping if many recur.
+  suggested_aliases:
+  - etiology of redbreast coloration
+  - blood marks animal coloration
+  - mourning blood animal feature origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-fast-opposed-to-martial-feast
+  motif_id: mourning_fast_opposed_to_martial_feast
+  label: mourning fast opposed to martial feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif contrasts mourning practice with warrior feasting, centering
+    on grief ritual and social response to death.
+  cautions: May also touch sacred_combat or heroic_funeral_rites if embedded in warrior
+    funerary sequence.
+  suggested_aliases:
+  - mourning fast
+  - fasting in grief opposed to feasting
+  - martial feast contrasted with mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-for-the-fallen-champion
+  motif_id: mourning_for_the_fallen_champion
+  label: mourning for the fallen champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of collective lament for a fallen champion already
+    represented in the group aliases.
+  cautions: If the passage includes formal burial honors or games, heroic_funeral_rites
+    may be a secondary mapping.
+  suggested_aliases:
+  - collective lament for the fallen champion
+  - lament for fallen champion
+  - mourning a fallen hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-procession-to-a-shrine
+  motif_id: mourning_procession_to_a_shrine
+  label: Mourning procession to a shrine
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession to a shrine in mourning functions as memorial or funerary
+    honoring of the dead.
+  cautions: If the focus is pilgrimage to a saint or relic rather than funeral mourning,
+    sacred_treasures or axis_mundi may be secondary; if only grief expression, lament_and_mourning
+    also applies.
+  suggested_aliases:
+  - funerary procession to shrine
+  - mourning pilgrimage to shrine
+  - shrine procession for the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and grief-related; preserve poetic
+  or ritual specifics as evidence notes rather than promoting them without recurrence.
+- Avoid treating doctrinal or scholarly reclassification labels as motifs unless the
+  source passage narrates the beings or actions directly.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for theological, Inuit
+    mortuary, and culturally specific etiological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1493
+  input_sha256: 8059d5319a75afe260906bf7717d5fd8541c7582b99da59c45aaffd153c720d9
+

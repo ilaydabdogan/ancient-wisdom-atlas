@@ -1,0 +1,621 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l911-l948
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: FASTI / KALENDARES ROMANI / JANUARIUS. LIB. I. / FEBRUARIUS. LIB. II.; lines
+    911-948
+  start: '911'
+  end: '948'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Latin February calendar table from Ovid's Fasti lists dated religious
+    observances, civic commemorations, astronomical risings and settings, and seasonal
+    signs for days 1-28.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a day-by-day February calendar sequence for days 1 through
+    28.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry for the first day notes a temple of Juno Sospita, the Lucus Asyli,
+    and a bidens sacrificed to Jupiter on the Capitol.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Early February entries list settings or risings of Lyra, Leo, Delphinus, and
+    Aquarius.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fifth-day entry states that Augustus was called Pater Patriae.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ninth-day entry marks the beginning of spring.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The thirteenth-day entry lists rites of Faunus and remembrance of the Fabian
+    disaster.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The fourteenth-day entry lists Corvus, Anguis, and Crater as rising.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The fifteenth-day entry identifies Lupercalia as sacred to Faunus.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The fifteenth-day entry also notes inconstant winds for six days and the Sun
+    entering Pisces after leaving Aquarius.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The seventeenth-day entry lists rites of Quirinus, a fools' festival or day,
+    and Fornicalia.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The nineteenth-day entry identifies Feralia as the last day for placating
+    the Manes.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The nineteenth-day entry says an old woman performs rites of the goddess Muta.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The twenty-second-day entry identifies Charistia as rites of relatives or
+    kin.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Later entries list Terminalia, Regifugium, the arrival of the swallow as herald
+    of spring, and Equiria.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Juno Sospita
+  description: A deity named in connection with a temple on the first day of February.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Jupiter
+  description: A deity to whom a bidens is sacrificed on the Capitol.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Augustus
+  description: A civic figure stated to have been called Pater Patriae.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Faunus
+  description: A deity associated with rites on the thirteenth day and with Lupercalia
+    on the fifteenth day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Quirinus
+  description: A deity associated with rites on the seventeenth day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Manes
+  description: The dead or ancestral spirits named as recipients of placation at Feralia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Dea Muta
+  description: A goddess whose rites are performed by an old woman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: anus / old woman
+  description: An old woman who performs rites of the goddess Muta.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Sol / Sun
+  description: A celestial body stated to enter Pisces after leaving Aquarius.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: hirundo / swallow
+  description: A bird whose arrival is described as a herald of spring.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: deity or divine recipient of calendar observance
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: The passage names these divine figures in connection with a temple, sacrifice,
+    or rites.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: honored civic figure
+  assigned_to:
+  - fig:3
+  basis: The passage records Augustus being called Pater Patriae.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dead or ancestral spirits to be placated
+  assigned_to:
+  - fig:6
+  basis: Feralia is defined as the last day for placating the Manes.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: ritual performer
+  assigned_to:
+  - fig:8
+  basis: An old woman is said to perform rites of Dea Muta.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: celestial mover
+  assigned_to:
+  - fig:9
+  basis: The Sun is described as leaving Aquarius and entering Pisces.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: spring herald
+  assigned_to:
+  - fig:10
+  basis: The swallow is described as arriving and as a herald of spring.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: temple of Juno Sospita
+  literal_form: Templum Junoni Sospitae
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Lucus Asyli
+  literal_form: Lucus Asyli
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacrificial bidens
+  literal_form: bidens mactata to Jupiter on the Capitol
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: celestial risings and settings
+  literal_form: Lyra, Leo, Delphinus, Aquarius, Arctophylax, Corvus, Anguis, Crater,
+    and Pisces as calendar markers
+  associated_figures: []
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Anguis serpent constellation
+  literal_form: Anguis
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: beginning of spring
+  literal_form: Veris initium
+  associated_figures: []
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Sun entering Pisces
+  literal_form: Sol leaves Aquarius and enters Pisces
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Lupercalia sacred to Faunus
+  literal_form: Lupercalia Fauno sacra
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: Feralia and Manes placation
+  literal_form: Feralia, last day for placating the Manes
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: rites of Muta performed by an old woman
+  literal_form: Deae Mutae sacra facit anus
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:11
+  label: Charistia kin rites
+  literal_form: Charistia, cognatorum sacra
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:12
+  label: Terminalia
+  literal_form: Terminalia
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:13
+  label: Regifugium
+  literal_form: Regifugium
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:14
+  label: swallow as spring herald
+  literal_form: Hirundo advenit, veris praenuntia
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:10
+- id: sym:15
+  label: Equiria
+  literal_form: Equiria
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:16
+  label: rites of Quirinus
+  literal_form: Quirini sacra
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:17
+  label: Fornicalia
+  literal_form: Fornicalia
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:18
+  label: fools' festival or day
+  literal_form: Stultorum festiis dies
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: February calendar frame
+  summary: The passage frames February as a sequence of dated observances, astronomical
+    notices, and seasonal markers.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First-day temple, grove, and sacrifice
+  summary: The first February entry notes a temple to Juno Sospita, the Lucus Asyli,
+    and a bidens sacrificed to Jupiter on the Capitol.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Astronomical and seasonal markers
+  summary: The calendar tracks stellar risings and settings, the beginning of spring,
+    unstable winds, the Sun's movement into Pisces, and the swallow's arrival as a
+    spring herald.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:14
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+- id: scene:4
+  label: Faunus and Lupercalia notices
+  summary: Mid-February entries list rites of Faunus and identify Lupercalia as sacred
+    to Faunus.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Feralia, Muta, and kin observances
+  summary: The calendar identifies Feralia as the last day for placating the Manes,
+    says an old woman performs rites of Muta, and lists Charistia as kin rites.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Other February festival notices
+  summary: The passage also lists rites of Quirinus, a fools' day or festival, Fornicalia,
+    Terminalia, Regifugium, and Equiria.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:12
+  - sym:13
+  - sym:15
+  - sym:16
+  - sym:17
+  - sym:18
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: seasonal transition and spring heralds
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage marks the beginning of spring, notes unstable winds, records
+    the Sun moving from Aquarius into Pisces, and calls the arriving swallow a herald
+    of spring.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: The material is calendrical and terse rather than a narrative myth.
+- id: motif:2
+  label: ritual sacrifice to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: A bidens is said to be sacrificed to Jupiter on the Capitol.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The entry gives no extended sacrificial narrative or ritual procedure.
+- id: motif:3
+  label: appeasement of the dead
+  taxonomy_refs: []
+  basis: Feralia is described as the last day for placating the Manes.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The entry names the purpose but does not describe offerings, prayers,
+    or mythic background.
+- id: motif:4
+  label: serpent as celestial calendar marker
+  taxonomy_refs:
+  - serpent
+  basis: Anguis is listed among constellations rising on the fourteenth day.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage supplies only the constellation name; it does not narrate
+    a serpent episode or assign agency to the serpent.
+- id: motif:5
+  label: kinship ritual observance
+  taxonomy_refs: []
+  basis: Charistia is identified as rites of relatives or kin.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The notice is brief and gives no narrative action beyond identifying the
+    rite.
+- id: motif:6
+  label: ritual calendar sequence
+  taxonomy_refs: []
+  basis: The passage organizes divine rites, festivals, civic commemoration, astronomical
+    events, and seasonal signs into a dated February sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: This is a structural calendrical pattern rather than a discrete mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 911-948; heading and full February table
+  quote_or_summary: The passage is headed as February, Book II, and presents a calendar
+    list for days 1-28.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 911-948; entry 1 H. KAL.
+  quote_or_summary: '1 February: temple of Juno Sospita; Lucus Asyli; a bidens sacrificed
+    to Jupiter on the Capitol.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 911-948; entries 2-5 February
+  quote_or_summary: Entries mention Lyra and central Leo setting, Delphinus setting,
+    Augustus called Pater Patriae, and central Aquarius rising.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 911-948; entries 9-14 February
+  quote_or_summary: Entries mention the beginning of spring, Arctophylax rising, rites
+    of Faunus, memory of the Fabian disaster, and Corvus, Anguis, and Crater rising.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 911-948; entry 15 February
+  quote_or_summary: '15 February: Lupercalia sacred to Faunus; winds inconstant for
+    six days; after Aquarius the Sun enters Pisces.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 911-948; entry 17 February
+  quote_or_summary: '17 February: rites of Quirinus, a fools'' festival or day, and
+    Fornicalia are listed.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 911-948; entry 19 February
+  quote_or_summary: '19 February: Feralia is the final day for placating the Manes;
+    an old woman performs rites of Dea Muta.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 911-948; entry 22 February
+  quote_or_summary: '22 February: Charistia is listed as rites of relatives or kin.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 911-948; entry 23 February
+  quote_or_summary: '23 February: Terminalia is listed.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 911-948; entry 24 February
+  quote_or_summary: '24 February: Regifugium is listed, and the swallow arrives as
+    herald of spring.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 911-948; entry 27 February
+  quote_or_summary: '27 February: Equiria is listed.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on terse calendar notices. Literal entries are clear,
+    but motif candidates are limited because the passage provides little narrative
+    context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied Latin passage and metadata. Taxonomy references are limited to supplied available refs when directly supported.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l911-l948
+  passage_sha256=a738dcdeb942d9c204eb70f92a466a62488c6216729435409db25c5e2c5c7b26
+

@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0113
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protected-deathbed-bequest-under-divine-witness
+  motif_id: protected_deathbed_bequest_under_divine_witness
+  label: Protected deathbed bequest under divine witness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deathbed bequest under divine witness is a binding obligation or sacredly
+    witnessed transfer, closest to covenantal bond and duty.
+  cautions: Could also fit sacred_law or curse_blessing_speech if the passage centers
+    on legal inheritance, oath, or performative speech rather than bequest protection.
+  suggested_aliases:
+  - deathbed_bequest
+  - divinely_witnessed_bequest
+  - sacredly_witnessed_inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-return-of-royal-envoys
+  motif_id: protected_return_of_royal_envoys
+  label: protected return of royal envoys
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests safe return from a mission, but the death/afterlife
+    relevance and sacred function are unclear from wording alone.
+  cautions: May be a diplomatic plot detail, royal-order motif, hostage/envoy protection
+    custom, or passage artifact rather than a reusable mythic motif.
+  suggested_aliases:
+  - safe_return_of_envoys
+  - protected_envoy_return
+  - royal_envoys_return_safely
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-son-returned-to-secure-a-truce
+  motif_id: protected_son_returned_to_secure_a_truce
+  label: protected son returned to secure a truce
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Returning a protected son to secure a truce functions as restoration
+    or guarantee of a binding social agreement.
+  cautions: Single occurrence and context-specific; if the passage emphasizes kinship
+    hostage exchange, royal diplomacy, or mercy, sacred_law or covenant submapping
+    may need review.
+  suggested_aliases:
+  - kin_return_secures_truce
+  - protected_child_as_truce_guarantee
+  - returned_son_for_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-the-dead-from-animal-desecration
+  motif_id: protection_of_the_dead_from_animal_desecration
+  label: protection of the dead from animal desecration
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Guarding the corpse against animal desecration belongs with burial honor,
+    corpse protection, and funerary rites for the dead.
+  cautions: If the passage emphasizes denial of burial by enemies, use denied-burial
+    children as secondary evidence; if apotropaic animal danger is central, sacred_law
+    may be related.
+  suggested_aliases:
+  - corpse_protection_from_animals
+  - protection_from_body_desecration
+  - guarding_the_dead_from_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-ancestral-spirit-accompanies-the-hero
+  motif_id: protective_ancestral_spirit_accompanies_the_hero
+  label: protective ancestral spirit accompanies the hero
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: An ancestral spirit accompanying and protecting a hero functions as supernatural
+    guidance or tutelary intervention.
+  cautions: Could also relate to ancestor_rites if ritual care of ancestors is central,
+    or hero_journey if the focus is the hero's expedition.
+  suggested_aliases:
+  - ancestral_spirit_helper
+  - protective_ancestor_guide
+  - ancestor_accompanies_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-and-omen-poles-inhabited-or-activated-by-spirits
+  motif_id: protective_and_omen_poles_inhabited_or_activated_by_spirits
+  label: protective and omen poles inhabited or activated by spirits
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: Spirit-inhabited poles may be sacred vertical objects, protective ritual
+    objects, or omen devices, but the function is too culturally specific to place
+    confidently.
+  cautions: Review source context and terminology carefully; avoid collapsing Aboriginal
+    spirit-pole practices into generic axis mundi unless vertical cosmic connection
+    or sacred-center function is explicit.
+  suggested_aliases:
+  - spirit_inhabited_poles
+  - protective_omen_poles
+  - spirit_activated_poles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-binding-prevents-spirit-interference
+  motif_id: protective_binding_prevents_spirit_interference
+  label: protective binding prevents spirit interference
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective binding that prevents spirit interference fits apotropaic
+    ritual practice and spirit-contagion/protection logic already folded under sacred_law.
+  cautions: If the binding expels or confines a spirit rather than prevents interference,
+    sacrifice/ritual_expulsion or divine_intervention may be relevant secondary mappings.
+  suggested_aliases:
+  - apotropaic_binding
+  - binding_against_spirits
+  - protective_spirit_binding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-dead-mother-or-maternal-ancestor
+  motif_id: protective_dead_mother_or_maternal_ancestor
+  label: Protective dead mother or maternal ancestor
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A dead mother or maternal ancestor protecting the living acts as a tutelary
+    ancestral helper, fitting supernatural guidance/intervention.
+  cautions: Could also support ancestor_rites if protection depends on ritual relations
+    with the dead, or mother_goddess if the figure is explicitly divine rather than
+    ancestral.
+  suggested_aliases:
+  - protective_maternal_ancestor
+  - dead_mother_as_protector
+  - ancestral_mother_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-mortuary-magic-for-body-and-soul
+  motif_id: protective_mortuary_magic_for_body_and_soul
+  label: Protective mortuary magic for body and soul
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: high
+  rationale: Mortuary magic protecting body and soul supports the dead person's postmortem
+    passage, preservation, and safe navigation.
+  cautions: If the passage focuses on corpse rites rather than afterlife transit,
+    heroic_funeral_rites or ancestor_rites may be secondary; preserve Egyptian ritual
+    specificity.
+  suggested_aliases:
+  - protective_funerary_magic
+  - mortuary_protection_for_soul
+  - body_and_soul_afterlife_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-mother-rescues-son-from-death
+  motif_id: protective_mother_rescues_son_from_death
+  label: protective mother rescues son from death
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mother rescuing her son from death fits protective maternal power,
+    especially where maternal rescue has sacred or mythic force.
+  cautions: If the mother is not divine or archetypal, this may instead be a kinship
+    rescue episode; if the son is a destined child, miraculous_child may be a better
+    mapping.
+  suggested_aliases:
+  - maternal_rescue_from_death
+  - mother_saves_son_from_death
+  - protective_maternal_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine protection, death, kinship, and social order; mappings should
+  be checked against passage evidence before promotion.
+- Do not infer transmission or shared origin from these placements; suggestions are
+  only broad query normalization aids.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements generated from labels and current normalization groups;
+    culturally specific spirit and Aboriginal-context labels flagged for human review
+    where needed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0113
+  input_sha256: afb6e4e00ab7081e0123f15826ac40d6b8fdfdd99bf64d1f47ab83b9f72fe4d8
+

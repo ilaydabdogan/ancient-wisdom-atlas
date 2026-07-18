@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1518
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.perpetual-food-deprivation-by-supernatural-pests
+  motif_id: perpetual_food_deprivation_by_supernatural_pests
+  label: perpetual food deprivation by supernatural pests
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could reflect divine punishment, curse-like torment, or a passage-specific
+    ordeal involving supernatural agents.
+  cautions: Single occurrence and highly contextual; avoid mapping to divine_judgment
+    without evidence that deprivation is moral or sacred punishment.
+  suggested_aliases:
+  - supernatural pests deprive food
+  - perpetual food torment by pests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-memorial-feast-and-intergenerational-explanation
+  motif_id: perpetual_memorial_feast_and_intergenerational_explanation
+  label: Perpetual memorial feast and intergenerational explanation
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A recurring memorial feast that teaches later generations fits ritualized
+    sacred time and calendrical remembrance.
+  cautions: Could also involve covenant, sacred_law, or ancestor memorial depending
+    on the passage; preserve the instructional function as evidence detail.
+  suggested_aliases:
+  - memorial feast explained to descendants
+  - intergenerational ritual memorial meal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-community-granted-defensive-permission
+  motif_id: persecuted_community_granted_defensive_permission
+  label: Persecuted community granted defensive permission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Permission to defend a persecuted community is a sacred legal-ethical
+    authorization of communal action.
+  cautions: If the passage emphasizes warfare as sacred struggle rather than legal
+    permission, sacred_combat may be a secondary mapping.
+  suggested_aliases:
+  - defensive permission for persecuted community
+  - authorization of self-defense under persecution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-faithful-in-a-fiery-pit
+  motif_id: persecuted_faithful_in_a_fiery_pit
+  label: persecuted faithful in a fiery pit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The faithful persecuted by tyrants in a fiery ordeal often functions
+    as moral reckoning and vindication of righteousness.
+  cautions: Do not map to world_destroying_fire unless the fire renews or destroys
+    a world/order; if no judgment or vindication is present, treat as persecution
+    episode.
+  suggested_aliases:
+  - faithful persecuted in fire pit
+  - righteous believers cast into fiery pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-faithful-servant-seeks-mercy-and-help
+  motif_id: persecuted_faithful_servant_seeks_mercy_and_help
+  label: Persecuted faithful servant seeks mercy and help
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A faithful servant appealing for mercy and help fits supplication within
+    a sacred relational bond.
+  cautions: If the key scene is direct rescue, divine_intervention may be better;
+    if it is only emotional distress, this may be over-specific.
+  suggested_aliases:
+  - persecuted servant supplicates for mercy
+  - faithful sufferer seeks divine help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecution-by-fiery-pit
+  motif_id: persecution_by_fiery_pit
+  label: persecution by fiery pit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fiery pit used for persecution commonly frames the persecutors and
+    victims within a moral judgment scene.
+  cautions: Near-duplicate of persecuted_faithful_in_a_fiery_pit; review for consolidation.
+    Fire setting alone is not sacred_fire or world-destroying fire.
+  suggested_aliases:
+  - fiery pit persecution
+  - righteous persecuted by fire pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecution-for-sabbath-healing
+  motif_id: persecution_for_sabbath_healing
+  label: persecution for Sabbath healing
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif turns on conflict over sacred time, law, and healing practice.
+  cautions: Could also map to sacred_time because Sabbath is central; if the passage
+    stresses miraculous cure, divine_intervention may be secondary.
+  suggested_aliases:
+  - Sabbath healing controversy
+  - persecution over healing on sacred day
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecution-of-the-righteous-through-envy
+  motif_id: persecution_of_the_righteous_through_envy
+  label: persecution of the righteous through envy
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes envy as a harmful force and failed rivalry;
+    this label focuses on envy driving persecution.
+  cautions: If the source emphasizes vindication of the righteous more than envy,
+    divine_judgment may be a better or secondary placement.
+  suggested_aliases:
+  - envy-driven persecution of the righteous
+  - righteous persecuted by envy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persistent-mourning-with-a-single-faithful-comforter
+  motif_id: persistent_mourning_with_a_single_faithful_comforter
+  label: Persistent mourning with a single faithful comforter
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on sustained grief and consolation after loss, fitting
+    lament and mourning.
+  cautions: The single comforter detail may be episode-specific; preserve as evidence
+    rather than a new motif unless recurrent.
+  suggested_aliases:
+  - persistent grief with faithful comforter
+  - single comforter in prolonged mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persuasion-contrasted-with-coercive-suppression-of-heresy
+  motif_id: persuasion_contrasted_with_coercive_suppression_of_heresy
+  label: persuasion contrasted with coercive suppression of heresy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like a theological or legal-ethical argument rather than
+    a clear narrative motif.
+  cautions: Culturally and doctrinally sensitive; may be commentary artifact. Review
+    source evidence before mapping to sacred_law, wisdom, or divine_judgment.
+  suggested_aliases:
+  - persuasion versus coercion in heresy suppression
+  - noncoercive correction of heresy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - wisdom
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence persecution or legal-ethical labels; source
+  context should decide whether they are motifs or doctrinal/commentary artifacts.
+- The fiery-pit labels appear near-duplicates and should be reviewed for consolidation
+  before taxonomy changes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1518
+  input_sha256: ff313535d45c60ec263cf08ba5ff5a6bdfa05eb4a21856903038996bf004c156
+

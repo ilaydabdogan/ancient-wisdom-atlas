@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1643
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.withdrawal-and-restoration-of-fish-abundance
+  motif_id: withdrawal_and_restoration_of_fish_abundance
+  label: withdrawal and restoration of fish abundance
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The withdrawal and return of food abundance resembles supernatural control
+    or restoration of provision, already represented by miraculous or inexhaustible
+    provision under divine_intervention.
+  cautions: Could instead be sacred_exchange if abundance is restored through ritual
+    reciprocity, or sacred_law/divine_judgment if withdrawal punishes misconduct.
+  suggested_aliases:
+  - withheld_abundance_restored
+  - withdrawal_of_food_abundance
+  - restoration_of_fish_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-into-wild-refuge-while-a-smaller-force-delays
+  motif_id: withdrawal_into_wild_refuge_while_a_smaller_force_delays
+  label: withdrawal into wild refuge while a smaller force delays
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a specific tactical episode rather than a durable
+    symbolic or narrative motif.
+  cautions: If the passage frames wilderness refuge as exile, ordeal, or protected
+    retreat, hero_journey may be a secondary review target.
+  suggested_aliases:
+  - wild_refuge_with_rearguard_delay
+  - small_force_delays_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-of-magical-or-sustaining-aid-after-faithlessness
+  motif_id: withdrawal_of_magical_or_sustaining_aid_after_faithlessness
+  label: withdrawal of magical or sustaining aid after faithlessness
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aid withdrawn after faithlessness points to violation of a sacred bond
+    and loss of sustaining relationship.
+  cautions: Could map to divine_judgment if punishment is central, or divine_intervention
+    if emphasis is on supernatural provision rather than broken obligation.
+  suggested_aliases:
+  - aid_withdrawn_after_faithlessness
+  - sustaining_aid_lost_after_breach
+  - magical_aid_withdrawal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withheld-game-creates-communal-hunger
+  motif_id: withheld_game_creates_communal_hunger
+  label: withheld game creates communal hunger
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe supernatural withholding of animal abundance,
+    ritual imbalance, or a local subsistence-crisis episode.
+  cautions: Review source evidence carefully; possible placements include divine_intervention,
+    divine_judgment, sacred_exchange, or a future game-animal abundance complex.
+  suggested_aliases:
+  - game_withheld_from_community
+  - withheld_animal_abundance
+  - communal_hunger_from_withheld_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withholding-the-herd-s-gift-from-manala
+  motif_id: withholding_the_herd_s_gift_from_manala
+  label: withholding the herd's gift from Manala
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Withholding a gift from an otherworld/death-associated power is a failed
+    reciprocal offering or ritual exchange.
+  cautions: Manala-specific wording may be too contextual; if the passage centers
+    on the realm of the dead, afterlife_passage or ancestor/death rites may also be
+    relevant.
+  suggested_aliases:
+  - withheld_offering_to_manala
+  - withholding_gift_to_underworld
+  - failed_gift_to_death_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witness-number-adjudication
+  motif_id: witness_number_adjudication
+  label: Witness-number adjudication
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: Rules about required witness numbers are legal-adjudicative norms within
+    sacred social order.
+  cautions: If the passage is purely jurisprudential commentary rather than narrative
+    or symbolic motif, consider excluding from pattern queries.
+  suggested_aliases:
+  - required_witness_number
+  - witness_count_rule
+  - legal_witness_adjudication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wives-as-temporary-resting-place-before-abandonment
+  motif_id: wives_as_temporary_resting_place_before_abandonment
+  label: wives as temporary resting place before abandonment
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is ambiguous and may reflect a culturally specific kinship,
+    marriage, travel, or abandonment episode rather than a clear motif.
+  cautions: Avoid mapping to sacred_love or betrayal without source evidence; wording
+    may be an over-specific passage artifact.
+  suggested_aliases:
+  - temporary_spousal_resting_place
+  - wives_as_resting_place
+  - spousal_abandonment_after_rest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wizard-hides-in-a-minute-bodily-place
+  motif_id: wizard_hides_in_a_minute_bodily_place
+  label: wizard hides in a minute bodily place
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wizard hiding in a tiny bodily location suggests magical bodily transformation,
+    concealment, or size-shifting.
+  cautions: Could relate to external_soul if the hidden presence is a separable life-force
+    rather than the wizard's transformed body; source evidence needed.
+  suggested_aliases:
+  - magical_miniature_bodily_concealment
+  - wizard_in_tiny_body_place
+  - size_shifting_concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wizard-visits-diminutive-shore-people
+  motif_id: wizard_visits_diminutive_shore_people
+  label: wizard visits diminutive shore people
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A visit to diminutive shore people likely functions as an encounter with
+    a nonordinary neighboring people or enchanted realm.
+  cautions: If the episode is ordinary ethnographic geography rather than supernatural
+    encounter, exclude or keep as evidence detail; if the wizard's role is central,
+    divine_intervention or shamanic journey may be relevant but no exact group exists.
+  suggested_aliases:
+  - visit_to_diminutive_people
+  - encounter_with_little_shore_people
+  - diminutive_otherworld_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-as-armed-defender-of-kin
+  motif_id: woman_as_armed_defender_of_kin
+  label: Woman as armed defender of kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: The label concerns martial defense within a kinship conflict and fits
+    the broader sacred/heroic combat field as a role variant.
+  cautions: Could be too specific as a gendered role label; if the source emphasizes
+    kin duty or honor rather than combat, sacred_law, covenant, or lament/vengeance
+    contexts may matter.
+  suggested_aliases:
+  - armed_female_kin_defender
+  - woman_defends_kin_in_battle
+  - female_warrior_defender_of_family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; preserve
+  them as evidence notes unless recurrence supports canonical promotion.
+- For abundance-withdrawal motifs, human review should distinguish supernatural provision,
+  divine judgment, and failed reciprocity rather than merging all scarcity episodes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1643
+  input_sha256: 2e092f0d27298cdf0d36c3d7e66eccf7bc2f456a0259e66edbee01cd1d157ca2
+

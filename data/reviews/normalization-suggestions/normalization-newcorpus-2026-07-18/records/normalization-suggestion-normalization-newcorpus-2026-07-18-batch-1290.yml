@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1290
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.attempted-killing-of-an-unkillable-mistress
+  motif_id: attempted_killing_of_an_unkillable_mistress
+  label: Attempted killing of an unkillable mistress
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve invulnerability or hidden life, but the role of
+    mistress and reason she is unkillable are unclear.
+  cautions: Could instead be external_soul, shapeshifter, divine being, or an episode-specific
+    relationship detail; source evidence needed.
+  suggested_aliases:
+  - unkillable_mistress
+  - attempted_killing_of_invulnerable_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempted-theft-of-a-guarded-creature
+  motif_id: attempted_theft_of_a_guarded_creature
+  label: attempted theft of a guarded creature
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A guarded creature being stolen may function like a coveted power-object
+    or treasure guarded by a threshold figure.
+  cautions: If the creature is central as an animal helper, livestock raid, or bride/being
+    rather than a power-object, sacred_combat, threshold_guardian, or another group
+    may fit better.
+  suggested_aliases:
+  - theft_of_guarded_creature
+  - guarded_creature_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-and-inauspicious-bodily-omens
+  motif_id: auspicious_and_inauspicious_bodily_omens
+  label: Auspicious and inauspicious bodily omens
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bodily signs interpreted as auspicious or inauspicious are omen-reading,
+    a divinatory access to hidden or future knowledge.
+  cautions: If presented as medical, physiognomic, or ritual purity doctrine rather
+    than omen interpretation, sacred_law or human review may be better.
+  suggested_aliases:
+  - bodily_omens
+  - auspicious_bodily_signs
+  - inauspicious_bodily_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-and-inauspicious-calendar-days
+  motif_id: auspicious_and_inauspicious_calendar_days
+  label: Auspicious and inauspicious calendar days
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing sacred_time group already aliases auspicious and inauspicious
+    calendar days as sacred ordering of time.
+  cautions: May also relate to prophecy_divination if the focus is omen calculation
+    rather than ritual calendar structure.
+  suggested_aliases:
+  - auspicious_calendar_days
+  - inauspicious_calendar_days
+  - lucky_and_unlucky_days
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-and-inauspicious-days-for-work
+  motif_id: auspicious_and_inauspicious_days_for_work
+  label: auspicious and inauspicious days for work
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: Work governed by lucky or unlucky days is a practical variant of sacred
+    calendrical time.
+  cautions: Preserve work-specific detail as evidence; may overlap with sacred_law
+    if framed as a binding rule.
+  suggested_aliases:
+  - lucky_days_for_work
+  - unlucky_days_for_work
+  - auspicious_work_days
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.austerity-at-the-first-night-halt
+  motif_id: austerity_at_the_first_night_halt
+  label: Austerity at the first night halt
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Austerity can be a renunciatory offering or discipline, but the first-night-halt
+    detail is highly contextual.
+  cautions: Could be pilgrimage rule, narrative travel detail, vow, hospitality episode,
+    or passage artifact; do not broaden without source evidence.
+  suggested_aliases:
+  - first_night_austerity
+  - journey_halt_austerity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.austerity-producing-merit-and-supernatural-power
+  motif_id: austerity_producing_merit_and_supernatural_power
+  label: austerity producing merit and supernatural power
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ascetic discipline producing merit and power fits the transformative
+    spiritual path toward sacred capacity.
+  cautions: If the emphasis is exchange with deities through tapas or vow, sacred_exchange
+    or sacrifice may be relevant secondary mappings.
+  suggested_aliases:
+  - ascetic_power
+  - austerity_generates_merit
+  - tapas_producing_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-tradition-supplementing-scripture
+  motif_id: authoritative_tradition_supplementing_scripture
+  label: Authoritative tradition supplementing scripture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes authority and interpretation of textual tradition
+    rather than a narrative or symbolic motif.
+  cautions: Preserve for provenance or doctrinal-indexing if needed, but exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - tradition_supplementing_scripture
+  - scripture_and_authoritative_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authorized-recension-replacing-variant-copies
+  motif_id: authorized_recension_replacing_variant_copies
+  label: authorized recension replacing variant copies
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a textual transmission and canonization note, not a mythic motif.
+  cautions: Keep as manuscript or editorial history metadata only; avoid using in
+    symbolic pattern queries.
+  suggested_aliases:
+  - authorized_recension
+  - variant_copies_replaced
+  - canonical_recension
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenger-of-a-murdered-kinsman
+  motif_id: avenger_of_a_murdered_kinsman
+  label: avenger of a murdered kinsman
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: Kin vengeance after murder commonly drives heroic conflict and honor-bound
+    combat.
+  cautions: If framed mainly as legal duty, feud ethics, or divine retribution, sacred_law
+    or divine_judgment may be better secondary placements.
+  suggested_aliases:
+  - kinsman_avenger
+  - blood_avenger
+  - avenging_murdered_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Calendar-day labels appear to consolidate under sacred_time; preserve practical
+  or omen-specific details as aliases.
+- Textual authority and recension labels should remain outside motif pattern queries
+  unless a separate textual-history index is used.
+- Several single-occurrence labels are highly contextual and should be checked against
+  passage evidence before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-1290; low-confidence
+    items flagged where source context is needed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1290
+  input_sha256: 49acfc51f7662c7e3d5fcfaace40dbd3bbe7ae6fd6b2c9a338cfcadc220c7f68
+

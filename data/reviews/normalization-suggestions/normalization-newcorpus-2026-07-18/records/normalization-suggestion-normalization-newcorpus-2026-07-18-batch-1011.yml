@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1011
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.attempted-breach-of-fair-fight-against-an-isolated-warrior
+  motif_id: attempted_breach_of_fair_fight_against_an_isolated_warrior
+  label: Attempted breach of fair fight against an isolated warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on violation of combat norms in a heroic battle setting,
+    fitting ritualized or rule-bound warfare.
+  cautions: Single occurrence; if the passage is only a tactical detail without sacred
+    or heroic code emphasis, it may be too specific for pattern queries.
+  suggested_aliases:
+  - breach_of_fair_fight
+  - violation_of_combat_code
+  - unfair_attack_on_isolated_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempted-rescue-of-wounded-kin-thwarted-by-attack
+  motif_id: attempted_rescue_of_wounded_kin_thwarted_by_attack
+  label: attempted rescue of wounded kin thwarted by attack
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: It appears to be a battlefield rescue-and-kinship episode, but its broader
+    motif function is unclear from the label alone.
+  cautions: May be an episode-specific plot detail rather than a reusable motif; could
+    also involve kin loyalty, heroic duty, or tragic failure.
+  suggested_aliases:
+  - failed_rescue_of_wounded_kin
+  - battlefield_rescue_thwarted
+  - kin_rescue_under_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-rightward-turning
+  motif_id: auspicious_rightward_turning
+  label: Auspicious rightward turning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Rightward movement may be an auspicious ritual orientation, but no current
+    group cleanly captures ritual directionality.
+  cautions: Bucket placement under conflict may be accidental or contextual; source
+    evidence is needed to determine whether this is ritual gesture, omen, battle movement,
+    or commentary.
+  suggested_aliases:
+  - sunwise_turning
+  - rightward_circumambulation
+  - auspicious_directional_movement
+  suggested_new_group:
+    id: ritual_orientation_and_directionality
+    label: Ritual Orientation and Directionality
+    description: Auspicious or dangerous directional movement, turning, circumambulation,
+      or orientation that affects ritual, omen, or sacred action.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_time
+    - divine_judgment
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups cover ritual law and sacred
+      time broadly, but not recurring directional or circumambulatory rules as a distinct
+      ritual pattern.
+- suggestion_id: normalization.suggestion.avenger-attacks-a-slaughtering-warrior
+  motif_id: avenger_attacks_a_slaughtering_warrior
+  label: avenger attacks a slaughtering warrior
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vengeance attack in a heroic battle context fits the sacred combat
+    complex, especially where combat restores honor or order.
+  cautions: If the emphasis is moral recompense for excessive killing, divine_judgment
+    could be a secondary review mapping.
+  suggested_aliases:
+  - avenger_attacks_killer
+  - vengeance_against_slaughtering_warrior
+  - battlefield_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-an-insult-to-dwarf-figures
+  motif_id: avenging_an_insult_to_dwarf_figures
+  label: Avenging an insult to dwarf figures
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines vengeance, insult, and dwarf figures, but the key
+    motif may be offended otherworld beings, honor retaliation, or a specific episode.
+  cautions: Culturally specific being category and single occurrence require source
+    review; avoid creating a broad dwarf motif from one contextual label.
+  suggested_aliases:
+  - vengeance_for_insulting_dwarfs
+  - offended_small_otherworld_figures_avenged
+  - insult_to_dwarf_figures_punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-monster-blocks-the-rescue-route
+  motif_id: avenging_monster_blocks_the_rescue_route
+  label: Avenging monster blocks the rescue route
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A monster blocking a rescue route functions as a guardian or obstacle
+    at a passage threshold.
+  cautions: If the source emphasizes monster combat more than blocked passage, sacred_combat
+    or divine_warrior may be secondary placements.
+  suggested_aliases:
+  - monster_blocks_rescue_route
+  - avenging_monster_as_threshold_obstacle
+  - guardian_monster_blocks_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-weapon-that-pursues-the-offender
+  motif_id: avenging_weapon_that_pursues_the_offender
+  label: Avenging weapon that pursues the offender
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon with autonomous avenging power is a power object whose agency
+    enforces punishment.
+  cautions: Could also map to divine_judgment if the weapon is explicitly an instrument
+    of sacred retribution, or divine_intervention if sent by a deity.
+  suggested_aliases:
+  - self_pursuing_avenging_weapon
+  - autonomous_avenging_weapon
+  - weapon_pursues_offender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.awakening-for-the-last-battle
+  motif_id: awakening_for_the_last_battle
+  label: Awakening for the last battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: functional_variant
+  confidence: medium
+  rationale: Awakening for a final battle points to eschatological conflict within
+    a declining or ending world age.
+  cautions: If the passage emphasizes heroic combat rather than cosmic end-time, sacred_combat
+    or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - final_battle_awakening
+  - eschatological_awakening_for_battle
+  - awakening_for_last_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.axe-associated-heroic-anger
+  motif_id: axe_associated_heroic_anger
+  label: Axe-associated heroic anger
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label may connect a warrior’s weapon with heroic rage, but it is
+    unclear whether the axe is a power object, emblem, or incidental detail.
+  cautions: Likely over-specific unless the axe functions as a recurring sacred weapon
+    or the anger has a defined heroic/ritual role.
+  suggested_aliases:
+  - heroic_anger_with_axe
+  - axe_as_warrior_rage_emblem
+  - weapon_associated_heroic_fury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.axe-bearing-ascetic-warrior-against-the-warrior-caste
+  motif_id: axe_bearing_ascetic_warrior_against_the_warrior_caste
+  label: axe-bearing ascetic warrior against the warrior caste
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: An ascetic warrior opposing a warrior caste fits sacred combat where
+    religious power and martial violence enforce cosmic or social order.
+  cautions: This may refer to a highly specific cultural figure or episode; preserve
+    ascetic-warrior and caste-opposition details in evidence notes.
+  suggested_aliases:
+  - ascetic_warrior_against_warrior_caste
+  - axe_bearing_sacred_warrior
+  - religious_warrior_opposes_kshatriyas
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence heroic-combat episode labels; human review should
+  distinguish reusable motifs from plot-level battle details.
+- Where vengeance appears, do not assume divine judgment unless the passage presents
+  sacred, moral, or cosmic retribution rather than ordinary retaliation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; conflict-heavy batch contains multiple over-specific
+    labels requiring source evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1011
+  input_sha256: 4df8cc16aa713ee8f96ebc19710bb3ba718fc1f88430fb88ee9378cead9cfa62
+

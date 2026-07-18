@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1186
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-praise-through-martial-epithets
+  motif_id: warrior_praise_through_martial_epithets
+  label: warrior praise through martial epithets
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: Martial epithets relate to heroic warrior status, but the label may describe
+    poetic diction rather than a narrative motif.
+  cautions: Single occurrence; if this is only praise-language or formulaic style,
+    exclude from pattern queries or preserve as evidence detail.
+  suggested_aliases:
+  - martial_epithets
+  - heroic_praise_epithets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-preference-for-battle-over-house-burning
+  motif_id: warrior_preference_for_battle_over_house_burning
+  label: warrior preference for battle over house-burning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns warrior ethics or preferred combat conduct within
+    conflict, but is highly scene-specific.
+  cautions: May be an episode detail about honorable violence rather than a reusable
+    motif; review source context before indexing broadly.
+  suggested_aliases:
+  - warrior_prefers_open_battle
+  - honorable_battle_over_arson
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-preparation-through-skins-weapons-society-insignia-and-feathers
+  motif_id: warrior_preparation_through_skins_weapons_society_insignia_and_feathers
+  label: warrior preparation through skins, weapons, society insignia, and feathers
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritualized warrior preparation before conflict can fit sacred or ceremonial
+    combat.
+  cautions: Culturally specific regalia and society insignia should not be flattened
+    without evidence; may need local ritual context rather than a broad combat motif.
+  suggested_aliases:
+  - ritual_warrior_preparation
+  - warrior_regalia_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-repays-lordly-gifts-with-battle-service
+  motif_id: warrior_repays_lordly_gifts_with_battle_service
+  label: warrior repays lordly gifts with battle service
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Battle service repaying a lord's gifts is a reciprocity structure, even
+    though enacted in warrior society.
+  cautions: If the passage emphasizes fealty or kingship more than exchange, royal_legitimacy
+    or sacred_law may be relevant secondary groups.
+  suggested_aliases:
+  - gift_service_reciprocity
+  - warrior_reciprocity_for_lordly_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-s-crisis-before-kin-slaying
+  motif_id: warrior_s_crisis_before_kin_slaying
+  label: warrior's crisis before kin-slaying
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's crisis before killing kin centers on moral reckoning under
+    sacred duty and consequence.
+  cautions: Could also belong under sacred_law if framed as dharma instruction, or
+    sacred_combat if the emphasis is battlefield ordeal.
+  suggested_aliases:
+  - moral_crisis_before_kin_slaying
+  - warrior_duty_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-salutes-former-teacher-before-battle
+  motif_id: warrior_salutes_former_teacher_before_battle
+  label: Warrior salutes former teacher before battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The act signals respect within a social and ethical hierarchy before
+    combat, but may be a specific episode detail.
+  cautions: Review whether the salute is ritual duty, teacher-disciple reverence,
+    or narrative characterization; do not map only as combat.
+  suggested_aliases:
+  - saluting_teacher_before_battle
+  - battlefield_reverence_for_teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-seeks-a-singled-out-enemy-for-blood-vengeance
+  motif_id: warrior_seeks_a_singled_out_enemy_for_blood_vengeance
+  label: Warrior seeks a singled-out enemy for blood vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seeking a particular enemy for vengeance is a combat-driven feud or vengeance
+    pattern.
+  cautions: If vengeance is framed as moral punishment, divine_judgment may be a secondary
+    mapping; preserve the blood-vengeance specificity as evidence.
+  suggested_aliases:
+  - single_enemy_blood_vengeance
+  - vengeance_duel_target
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-seeks-to-repair-an-old-feud-through-battle-deeds
+  motif_id: warrior_seeks_to_repair_an_old_feud_through_battle_deeds
+  label: warrior seeks to repair an old feud through battle deeds
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Battle deeds are used to settle or repair feud relations, aligning with
+    ritualized heroic conflict.
+  cautions: May also involve covenant or sacred_exchange if the repair is an explicit
+    social bond or compensation structure.
+  suggested_aliases:
+  - feud_repair_through_battle
+  - battle_deeds_settle_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-sentinel-at-the-threshold-after-slaughter
+  motif_id: warrior_sentinel_at_the_threshold_after_slaughter
+  label: Warrior sentinel at the threshold after slaughter
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: low
+  rationale: A sentinel at a threshold may function as a boundary guardian after violence.
+  cautions: If the threshold detail is merely spatial staging after battle, this is
+    over-specific and should not be treated as a threshold-guardian motif.
+  suggested_aliases:
+  - warrior_threshold_sentinel
+  - post_slaughter_threshold_guard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-slays-a-destroyer-of-men
+  motif_id: warrior_slays_a_destroyer_of_men
+  label: warrior slays a destroyer of men
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior killing a destructive enemy fits the heroic or divine warrior
+    combat pattern against a threatening foe.
+  cautions: If the enemy is not cosmic, monstrous, or order-threatening, sacred_combat
+    may be a better broad group than divine_warrior.
+  suggested_aliases:
+  - warrior_slays_destroyer
+  - hero_slays_men_destroyer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence martial or heroic-ethic details;
+  several should remain provisional until source evidence shows a recurring motif
+  rather than formulaic diction or episode-specific action.
+- Avoid treating all warrior violence as divine_warrior; use sacred_combat for feud,
+  duel, battle-service, and ritualized warfare unless the passage emphasizes cosmic
+  order or sacred agency.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    ritual preparation and over-specific battlefield etiquette labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1186
+  input_sha256: 79fd87cf7171d67b01b8330b7ab4aabbc4ab72a7053719de2a327cd3b11d5c8d
+

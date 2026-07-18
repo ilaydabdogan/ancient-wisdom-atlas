@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0819
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.courtly-transformation-of-older-mythic-heroic-material
+  motif_id: courtly_transformation_of_older_mythic_heroic_material
+  label: courtly transformation of older mythic heroic material
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary reception or adaptation of older material,
+    not a narrative motif within the story world.
+  cautions: Preserve as provenance or genre-history metadata if useful; do not use
+    as evidence for transformation motifs.
+  suggested_aliases:
+  - courtly adaptation of heroic myth
+  - literary transformation of mythic material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coveting-communal-food-and-covert-approach-by-animal-allies
+  motif_id: coveting_communal_food_and_covert_approach_by_animal_allies
+  label: coveting communal food and covert approach by animal allies
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Covert approach and coveting food may fit trickster or animal-helper
+    strategy, but the label is composite and context-dependent.
+  cautions: Could be a passage-specific plot detail, food theft, animal helper episode,
+    or moral transgression; Hopi context should be reviewed carefully.
+  suggested_aliases:
+  - animal allies approach covertly for communal food
+  - food coveting with animal helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crafted-bird-becomes-living-helper
+  motif_id: crafted_bird_becomes_living_helper
+  label: crafted bird becomes living helper
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A manufactured creature becoming alive and useful fits the sacred craft/artificial
+    animation complex already present in the group.
+  cautions: If the passage emphasizes the bird's helper role more than its crafting
+    and animation, divine_intervention or animal_helpers may be a secondary mapping.
+  suggested_aliases:
+  - animated crafted bird helper
+  - made bird becomes living helper
+  - artificial bird helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.created-bird-scout-searches-the-new-land
+  motif_id: created_bird_scout_searches_the_new_land
+  label: created bird scout searches the new land
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A created animal scout functions as a supernatural guide or helper searching
+    out habitable land.
+  cautions: Could instead belong with flood/renewal or migration-origin evidence if
+    the search follows catastrophe or emergence; preserve the created-bird detail.
+  suggested_aliases:
+  - bird scout searches for new land
+  - created animal scout
+  - supernatural bird guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-game-animals-during-famine-by-magical-transformation
+  motif_id: creation_of_game_animals_during_famine_by_magical_transformation
+  label: Creation of game animals during famine by magical transformation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magically producing animals to relieve famine aligns with miraculous
+    provision and supernatural aid.
+  cautions: If the passage explains the origin of animal species, cosmic_origin may
+    be relevant; if bodily metamorphosis is central, shapeshifter may be secondary.
+  suggested_aliases:
+  - game animals created during famine
+  - magical provision of game animals
+  - animal creation as famine relief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cure-by-recovery-of-a-bodily-object-hidden-with-an-animal
+  motif_id: cure_by_recovery_of_a_bodily_object_hidden_with_an_animal
+  label: Cure by recovery of a bodily object hidden with an animal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing by recovering a hidden bodily object suggests life, health, or
+    vital force bound to an external object associated with an animal.
+  cautions: If the object is not a soul/life-token but a stolen body part or magical
+    medicine, human review may prefer soul_loss_restoration or sacred_treasures.
+  suggested_aliases:
+  - healing by recovery of hidden body object
+  - bodily life-token hidden with animal
+  - cure by retrieving animal-held body object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cutting-hand-or-fingers-releases-or-produces-sea-animals
+  motif_id: cutting_hand_or_fingers_releases_or_produces_sea_animals
+  label: Cutting hand or fingers releases or produces sea animals
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: narrower_than
+  confidence: medium
+  rationale: Animals emerging from severed body parts fits creation through bodily
+    cutting or dismemberment.
+  cautions: May be a local animal-origin etiological motif rather than cosmic dismemberment;
+    review whether the event is sacrificial, punitive, or accidental.
+  suggested_aliases:
+  - sea animals from severed fingers
+  - body parts produce sea animals
+  - animal origin from cut hand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-animal-guardian-becomes-helper
+  motif_id: dangerous_animal_guardian_becomes_helper
+  label: dangerous animal guardian becomes helper
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on a dangerous guardian whose role changes after confrontation
+    or appeasement, fitting threshold-guardian logic.
+  cautions: If the animal's helper role dominates, divine_intervention/animal_helpers
+    may also apply; source context should clarify whether a guarded boundary is present.
+  suggested_aliases:
+  - animal guardian converted to helper
+  - dangerous guardian animal aids hero
+  - guardian beast becomes ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-antagonist-killed-and-dismembered-by-animal-helpers
+  motif_id: dangerous_antagonist_killed_and_dismembered_by_animal_helpers
+  label: Dangerous antagonist killed and dismembered by animal helpers
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal helpers defeat a dangerous foe, aligning with supernatural or
+    animal assistance in human affairs.
+  cautions: Could also be sacred_combat if the combat is ritually or cosmically framed,
+    or death_and_transformation if dismemberment produces renewal; avoid over-weighting
+    dismemberment alone.
+  suggested_aliases:
+  - animal helpers dismember antagonist
+  - dangerous foe defeated by animal allies
+  - animal allies kill monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-celestial-being-carried-by-animal
+  motif_id: dangerous_celestial_being_carried_by_animal
+  label: dangerous celestial being carried by animal
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label identifies a striking scene but not a clear function: transport,
+    containment, cosmic order, animal helper, or danger from a celestial being.'
+  cautions: Needs source evidence before mapping to sacred_fire/solar power, divine_intervention,
+    cosmic_origin, or animal-helper patterns; avoid assuming the celestial being is
+    solar.
+  suggested_aliases:
+  - animal carries dangerous celestial being
+  - celestial danger borne by animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and composite; suggested placements
+  emphasize broad functional grouping while preserving granular animal details as
+  aliases or evidence notes.
+- Animal-helper patterns recur across multiple groups but do not yet have a standalone
+  canonical group except as children/aliases under divine_intervention; reviewers
+  may want to assess whether a durable animal_helper group is needed after more batches.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai-assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; culturally specific Hopi, Inuit, Zuni, and
+    Khoisan/South African materials should receive source-aware human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0819
+  input_sha256: e41729eef42ac31d92a0f2b647e4b865dfcdc27003c3ef98d6722e3790767149
+

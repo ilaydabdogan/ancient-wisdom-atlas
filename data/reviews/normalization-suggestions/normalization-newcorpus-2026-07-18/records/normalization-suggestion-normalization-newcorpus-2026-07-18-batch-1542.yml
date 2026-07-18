@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1542
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ravens-as-martial-retinue-and-avengers
+  motif_id: ravens_as_martial_retinue_and_avengers
+  label: ravens as martial retinue and avengers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Ravens associated with martial retinue and vengeance fit the war, battlefield,
+    and sacred combat field better than a general animal motif.
+  cautions: Could be a local deity attribute, omen, or battlefield scavenger image
+    rather than a reusable motif; review whether avenging agency is explicit.
+  suggested_aliases:
+  - battle ravens
+  - ravens as avengers
+  - martial ravens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.re-entry-into-the-body-through-an-extremity
+  motif_id: re_entry_into_the_body_through_an_extremity
+  label: re-entry into the body through an extremity
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: A soul or life-force re-entering the body belongs with soul restoration
+    and recall patterns.
+  cautions: The extremity detail is highly specific; if the passage concerns resurrection
+    rather than soul recall, death_and_transformation may be a secondary placement.
+  suggested_aliases:
+  - soul re-entry into body
+  - life-force re-enters body
+  - soul restoration through extremity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.realistic-village-life-vignette-embedded-in-fairy-tale
+  motif_id: realistic_village_life_vignette_embedded_in_fairy_tale
+  label: realistic village-life vignette embedded in fairy tale
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes genre composition or narrative texture rather than
+    a symbolic or narrative motif.
+  cautions: If the vignette itself contains a recurring motif, extract that separately;
+    do not index the embedding as a pattern motif.
+  suggested_aliases:
+  - realistic vignette in fairy tale
+  - village-life narrative insertion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rearguard-defense-in-hostile-land
+  motif_id: rearguard_defense_in_hostile_land
+  label: rearguard defense in hostile land
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rearguard defense in hostile territory is a combat ordeal and tactical
+    war episode.
+  cautions: May be too generic or episode-specific unless framed as heroic duty, ritual
+    warfare, or fate-bound defense; otherwise preserve as evidence detail.
+  suggested_aliases:
+  - heroic rearguard defense
+  - last stand in hostile land
+  - rear-guard combat ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellious-refusal-causing-the-fall
+  motif_id: rebellious_refusal_causing_the_fall
+  label: rebellious refusal causing the fall
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: narrower_than
+  confidence: high
+  rationale: This closely matches the existing divine_intervention child/alias concerning
+    a heavenly being's fall through refusal of commanded homage.
+  cautions: Could also index under pride_and_downfall or divine_judgment if the emphasis
+    is moral punishment rather than supernatural agency.
+  suggested_aliases:
+  - fall through refusal of command
+  - refusal of commanded homage
+  - rebellious fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellious-supernatural-adversary-and-false-patronage
+  motif_id: rebellious_supernatural_adversary_and_false_patronage
+  label: Rebellious supernatural adversary and false patronage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A rebellious supernatural adversary overlaps with the existing fall/refusal
+    material, but false patronage may involve temptation, deception, or social protection
+    claims.
+  cautions: Islamic theological context and adversary role should be reviewed carefully;
+    could fit divine_judgment, trickster, or a future adversary/temptation group depending
+    on evidence.
+  suggested_aliases:
+  - false supernatural patronage
+  - rebellious adversary as patron
+  - deceptive patronage by adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellious-tempter-granted-respite
+  motif_id: rebellious_tempter_granted_respite
+  label: rebellious tempter granted respite
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: A tempter receiving delayed punishment or respite is a divine judgment
+    and moral-order episode.
+  cautions: May deserve a more specific adversary/temptation subgroup if many Islamic
+    or comparative labels recur; avoid collapsing all tempter motifs into trickster.
+  suggested_aliases:
+  - tempter granted delay
+  - adversary granted respite
+  - deferred punishment of rebel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellious-tempter-refuses-human-superiority
+  motif_id: rebellious_tempter_refuses_human_superiority
+  label: Rebellious tempter refuses human superiority
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: narrower_than
+  confidence: high
+  rationale: The label matches the existing divine_intervention child concerning refusal
+    of homage to a created human.
+  cautions: Also related to pride_and_downfall and divine_judgment; preserve the human-superiority
+    refusal detail for theological specificity.
+  suggested_aliases:
+  - refusal of human superiority
+  - refused homage to created human
+  - tempter refuses commanded homage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recently-acquired-shepherd-identity
+  motif_id: recently_acquired_shepherd_identity
+  label: Recently acquired shepherd identity
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a contextual social identity detail rather than a
+    recurring mythic pattern.
+  cautions: Review Navajo source context before exclusion; if shepherd identity marks
+    transformation, adoption, vocation, or culture change, a different motif may be
+    extractable.
+  suggested_aliases:
+  - new shepherd identity
+  - acquired pastoral identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-aid-from-previously-aided-figures
+  motif_id: reciprocal_aid_from_previously_aided_figures
+  label: reciprocal aid from previously aided figures
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Aid returned by figures once helped is a clear reciprocity pattern, even
+    if not explicitly divine.
+  cautions: If the helpers are animals or supernatural beings, secondary links to
+    animal_helpers or divine_intervention may be useful; avoid assuming sacred exchange
+    if the passage is purely secular folktale reciprocity.
+  suggested_aliases:
+  - returned aid
+  - help repaid by former beneficiaries
+  - reciprocal helper reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic adversary labels overlap with the existing divine_intervention child/alias
+  for refusal of homage to a created human, but tempter/adversary roles may warrant
+  later review as a distinct subgroup if they recur.
+- Single-occurrence tactical or contextual labels should remain provisional unless
+  source evidence shows a reusable narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1542
+  input_sha256: 950b6adbb59ce215838261174de961abc2bfd6d52cc4ef68f765843f809b1978
+

@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1553
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-prohibition-or-censure-of-gaming
+  motif_id: religious_prohibition_or_censure_of_gaming
+  label: religious prohibition or censure of gaming
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A religiously framed prohibition of gaming fits sacred law, ethical command,
+    or ritual/legal censure.
+  cautions: Single occurrence; could be a doctrinal or commentary artifact if not
+    embedded as a narrative or ritual motif.
+  suggested_aliases:
+  - prohibition_of_gaming
+  - religious_censure_of_gambling
+  - forbidden_gaming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-propagation-through-envoys-and-rapid-regional-conversion
+  motif_id: religious_propagation_through_envoys_and_rapid_regional_conversion
+  label: Religious propagation through envoys and rapid regional conversion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes religious expansion and conversion by envoys, but
+    may be historical narration rather than a reusable motif.
+  cautions: Avoid treating conversion history as a mythic motif without passage evidence;
+    may belong in provenance or historical context rather than Pattern Explorer queries.
+  suggested_aliases:
+  - conversion_through_envoys
+  - missionary_envoys
+  - rapid_regional_conversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-transition-through-christianity-and-baptism
+  motif_id: religious_transition_through_christianity_and_baptism
+  label: Religious transition through Christianity and baptism
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe colonial-era religious transition rather than a narrative
+    motif; baptism could relate to sacred waters only if ritually foregrounded.
+  cautions: Culturally and historically sensitive; do not map to sacred_waters unless
+    the passage emphasizes water as purification or transformation rather than conversion
+    history.
+  suggested_aliases:
+  - conversion_through_baptism
+  - religious_transition_by_baptism
+  - christian_baptismal_transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-unity-divided-into-sects
+  motif_id: religious_unity_divided_into_sects
+  label: religious unity divided into sects
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns communal fragmentation of religion, but no existing
+    group cleanly captures sectarian division as a motif.
+  cautions: May be theological, historiographic, or polemical commentary rather than
+    a motif; source context is required.
+  suggested_aliases:
+  - sectarian_division
+  - unity_divided_into_sects
+  - religious_fragmentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religiously-framed-support-of-armed-forces
+  motif_id: religiously_framed_support_of_armed_forces
+  label: religiously framed support of armed forces
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may relate to sacred combat or sacred law, but the label reads
+    as contextual moral-political framing.
+  cautions: Review carefully to avoid collapsing religious exhortation, legal duty,
+    and mythic warfare into one motif; may be passage-specific commentary.
+  suggested_aliases:
+  - religious_support_for_warriors
+  - sacralized_military_support
+  - support_of_armed_forces_as_religious_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religiously-regulated-beginning-of-the-hunt
+  motif_id: religiously_regulated_beginning_of_the_hunt
+  label: religiously regulated beginning of the hunt
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A hunt begun under religious regulation fits ritual law, taboo, and proper
+    relations with animals or spirits.
+  cautions: Could also involve sacred_exchange if the rite addresses animal spirits
+    reciprocally; source context should preserve Inuit-specific hunting ethics.
+  suggested_aliases:
+  - ritual_regulation_of_hunt
+  - sacred_hunting_protocol
+  - religious_hunting_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-commissioned-speaker
+  motif_id: reluctant_commissioned_speaker
+  label: reluctant commissioned speaker
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A commissioned but reluctant speaker suggests a divine call or prophetic
+    mission under divine guidance.
+  cautions: If the emphasis is the call transforming identity, initiation or hero_journey
+    may be secondary; if it is prophecy as a role, prophecy_divination may fit.
+  suggested_aliases:
+  - reluctant_prophetic_speaker
+  - reluctant_divine_messenger
+  - reluctant_commission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-messenger-receives-a-spokesman
+  motif_id: reluctant_messenger_receives_a_spokesman
+  label: Reluctant messenger receives a spokesman
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A reluctant messenger aided by an appointed spokesman fits divine guidance
+    enabling a commissioned mission.
+  cautions: Highly specific to a calling episode; preserve as evidence detail under
+    divine_call or prophet_call_under_opposition if supported.
+  suggested_aliases:
+  - reluctant_messenger_aided_by_spokesman
+  - appointed_spokesman_for_messenger
+  - divinely_assisted_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remembered-pledge-token-linked-to-an-earlier-deed
+  motif_id: remembered_pledge_token_linked_to_an_earlier_deed
+  label: remembered pledge-token linked to an earlier deed
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A pledge-token that recalls and verifies an earlier deed fits the recognition-token
+    and identity-proof complex.
+  cautions: If the token primarily binds an oath or obligation, covenant or curse_blessing_speech
+    may be secondary mappings.
+  suggested_aliases:
+  - pledge_token
+  - remembered_token
+  - token_linked_to_past_deed
+  - deed_recognition_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remnant-foundation-from-a-wooded-place
+  motif_id: remnant_foundation_from_a_wooded_place
+  label: remnant foundation from a wooded place
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may indicate a foundation-origin remnant tied to a wooded
+    place, but its narrative function is unclear.
+  cautions: Could be place-origin, survivor remnant, sacred geography, or passage
+    artifact; do not map to cosmic_origin or axis_mundi without evidence of etiological
+    foundation or sacred center function.
+  suggested_aliases:
+  - foundation_from_wooded_place
+  - woodland_foundation_remnant
+  - remnant_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch look like historical, legal, or theological commentary
+  rather than stable narrative motifs; human review should check source passages before
+  indexing.
+- For conversion and sectarian labels, avoid implying transmission or historical causation
+  through normalization placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions only; prioritize review of historically sensitive religion-and-conversion
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1553
+  input_sha256: 0054d94c2742394b767e3b3ec8681e891448dcdf74fa187d0c586b2a81d6f9f9
+

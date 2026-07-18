@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l11748-l11765
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: SELECTIONS    OF    ZAD-SPARAM,  VII,   2-12.  I75 / Chapter  VIII. / IX,  4-
+    / SELECTIONS    OF    ZAD-SPARAM,  VIII,   I  -  IX,   2.        I  77; lines
+    11748-11765
+  start: '11748'
+  end: '11765'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: the reviver of the dead, and the immortalizer of the living.
+  summary: The passage includes textual notes on manuscript readings, then describes
+    an unnamed referent as reviving the dead and immortalizing the living. It closes
+    by identifying this as the fourth contest, concerning plants.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A manuscript note says that Bundahisn IX, 4 has a reading of “120,000,” which
+    is described as probably wrong because Bundahisn XXVII, 2 agrees with the text
+    above.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A manuscript note explains a variant reading involving “bara” and “pavan,”
+    attributing it probably to a copyist’s reading of Huzvarish in Persian.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The main passage describes an unnamed referent as “the reviver of the dead”
+    and “the immortalizer of the living.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage identifies the episode as the fourth contest and says it is about
+    the plants.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed reviver and immortalizer
+  description: An unnamed referent described as reviving the dead and immortalizing
+    the living.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: reviver of the dead
+  assigned_to:
+  - fig:1
+  basis: The passage calls the unnamed referent “the reviver of the dead.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: immortalizer of the living
+  assigned_to:
+  - fig:1
+  basis: The passage calls the unnamed referent “the immortalizer of the living.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: plants
+  literal_form: plants
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fourth contest about plants
+  summary: The passage concludes by identifying the episode as a fourth contest concerning
+    plants, after describing an unnamed referent as reviver of the dead and immortalizer
+    of the living.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Revival of the dead and immortalization of the living
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly describes a referent as reviving the dead and immortalizing
+    the living.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives no agent name, mechanism, setting, or full narrative
+    context.
+- id: motif:2
+  label: Contest concerning plants
+  taxonomy_refs: []
+  basis: The passage identifies the episode as the fourth contest and specifies that
+    it is about plants.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only a brief closing statement survives in the provided passage; participants
+    and stakes are not specified.
+comparison_claims:
+- id: claim:1
+  claim: The phrase “reviver of the dead” supports a cautious functional comparison
+    with resurrection motifs, limited to the function of restoring the dead.
+  claim_level: same_function
+  target: resurrection motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide a full resurrection narrative, named agent,
+    ritual process, or broader comparative context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11748-11752
+  quote_or_summary: A note reports that Bundahisn IX, 4 manuscripts read “120,000,”
+    probably wrongly, since Bundahisn XXVII, 2 agrees with the text above.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11753-11758
+  quote_or_summary: A note discusses the manuscript reading “bara” instead of “pavan,”
+    explaining it as probably due to a copyist’s reading of Huzvarish in Persian and
+    comparing Persian and Pazand forms.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: lines 11762-11764
+  quote_or_summary: "“the reviver of the dead, and the immortalizer of the living.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 11765
+  quote_or_summary: "“This was the fourth contest, about the plants.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on a very short passage with surrounding manuscript notes.
+    The main narrative context and the identity of the reviver/immortalizer are not
+    present in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported figures or external comparisons were added. Taxonomy reference to resurrection is based only on the explicit phrase “reviver of the dead.”
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l11748-l11765
+  passage_sha256=d58f18ebcc324ac6d73777836d8b9b9da2eb587064079b2ff0682c37256152d3
+

@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1495
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.multiplex-hereditary-totem-affiliation
+  motif_id: multiplex_hereditary_totem_affiliation
+  label: Multiplex hereditary totem affiliation
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns culturally specific totemic social affiliation, which
+    is not well represented by existing groups and needs source-sensitive review.
+  cautions: Avoid forcing into sacred_law, animal, or ancestor categories without
+    evidence; Australian Aboriginal totem classifications are culturally sensitive
+    and may be ethnographic/social structure rather than a motif.
+  suggested_aliases:
+  - hereditary totem affiliation
+  - multiple totem affiliation
+  - totemic affiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiplex-or-sub-totem-classification-of-natural-beings
+  motif_id: multiplex_or_sub_totem_classification_of_natural_beings
+  label: Multiplex or sub-totem classification of natural beings
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific classification system for natural
+    beings rather than a clear narrative motif.
+  cautions: May be an ethnographic taxonomy artifact; review with cultural context
+    before indexing under cosmic_origin, sacred_law, or any animal category.
+  suggested_aliases:
+  - sub-totem classification
+  - totemic classification of natural beings
+  - multiple totem categories
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiplication-despite-oppression
+  motif_id: multiplication_despite_oppression
+  label: multiplication despite oppression
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A people multiplying despite oppression often functions as providential
+    protection or divine fulfillment against hostile power.
+  cautions: If the passage emphasizes covenant promise, map secondarily to covenant;
+    if it is merely demographic commentary, treat as contextual detail.
+  suggested_aliases:
+  - providential multiplication under oppression
+  - growth despite persecution
+  - oppressed people multiply
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murderous-innkeeper-frames-innocent-guests
+  motif_id: murderous_innkeeper_frames_innocent_guests
+  label: murderous innkeeper frames innocent guests
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The innkeeper violates the host role and endangers guests, making hospitality
+    and guest-protection the central motif function.
+  cautions: Could also fit betrayal_violated_trust or false accusation under divine_judgment
+    if the passage centers on framing and vindication rather than host-guest violation.
+  suggested_aliases:
+  - host betrays innocent guests
+  - innkeeper violates hospitality
+  - guests falsely framed by host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-producing-transformed-perception-of-appetite
+  motif_id: music_producing_transformed_perception_of_appetite
+  label: music producing transformed perception of appetite
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music alters bodily perception and appetite, fitting the broader group
+    where sound changes consciousness, emotion, or bodily state.
+  cautions: If the passage is moral-aesthetic teaching rather than supernatural effect,
+    sacred_knowledge may be a better secondary placement.
+  suggested_aliases:
+  - music alters appetite
+  - music transforms bodily perception
+  - music affects hunger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-summons-or-compels-listeners
+  motif_id: music_summons_or_compels_listeners
+  label: music summons or compels listeners
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: alias
+  confidence: high
+  rationale: The existing enchanting_music group explicitly includes music that summons,
+    compels procession, or draws hearers.
+  cautions: If the compulsion is produced by a spoken spell rather than music, curse_blessing_speech
+    or storytelling_as_power may be relevant.
+  suggested_aliases:
+  - music compels listeners
+  - summoning music
+  - compelling music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-that-enchants-celestial-aquatic-and-human-beings
+  motif_id: music_that_enchants_celestial_aquatic_and_human_beings
+  label: music that enchants celestial, aquatic, and human beings
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: narrower_than
+  confidence: high
+  rationale: The label is a specific instance of supernatural music enchanting multiple
+    classes of beings, already covered by enchanting_music.
+  cautions: Preserve the celestial and aquatic beings as evidence detail; do not create
+    a separate group unless this exact multi-realm pattern recurs.
+  suggested_aliases:
+  - music enchants all beings
+  - supernatural music enchants beings
+  - music enchanting celestial aquatic and human beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-that-induces-deep-sleep
+  motif_id: music_that_induces_deep_sleep
+  label: Music that induces deep sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: alias
+  confidence: high
+  rationale: The existing group already includes enchanted or magical music that causes
+    sleep.
+  cautions: If sleep is caused by a drink or feast rather than music, storytelling_as_power
+    or sacred_substance may be relevant instead.
+  suggested_aliases:
+  - sleep-inducing music
+  - enchanted music causes sleep
+  - music causes deep sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-used-to-negotiate-or-distract-within-enchantment
+  motif_id: music_used_to_negotiate_or_distract_within_enchantment
+  label: music used to negotiate or distract within enchantment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music functions as an active supernatural or strategic force within an
+    enchantment scene, fitting sound power broadly.
+  cautions: The negotiation/distracting function may be episode-specific; if the main
+    pattern is clever delay or bargain, trickster or storytelling_as_power may be
+    secondary.
+  suggested_aliases:
+  - music as distraction in enchantment
+  - music used in enchanted negotiation
+  - strategic music within enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-with-sleep-inducing-power
+  motif_id: music_with_sleep_inducing_power
+  label: music with sleep-inducing power
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: alias
+  confidence: high
+  rationale: This is a direct label variant of existing children and aliases for music
+    causing sleep.
+  cautions: Likely duplicate of music_that_induces_deep_sleep; preserve local wording
+    but normalize to enchanting_music.
+  suggested_aliases:
+  - sleep-inducing music
+  - music that induces deep sleep
+  - enchanted music that causes sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several music labels are close variants of the accepted enchanting_music group and
+  may be deduplicated as aliases or children rather than promoted separately.
+- Totem-related Australian Aboriginal labels require culturally informed human review;
+  the current taxonomy lacks a clear totemic classification group and the labels may
+  describe ethnographic social classification rather than narrative motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for totemic
+    classification labels and single-occurrence contextual motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1495
+  input_sha256: f17266d55a859755e8a5982e5725244e5055dc9da6e41dfb2b59f2e77a039ff7
+

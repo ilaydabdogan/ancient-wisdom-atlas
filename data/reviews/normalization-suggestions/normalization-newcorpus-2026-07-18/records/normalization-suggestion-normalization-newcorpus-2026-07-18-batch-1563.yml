@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1563
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.retainer-s-refusal-of-divided-allegiance
+  motif_id: retainer_s_refusal_of_divided_allegiance
+  label: Retainer's refusal of divided allegiance
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on loyalty as a binding obligation and refusal to split
+    allegiance.
+  cautions: Could instead be heroic ethics, fealty, or political order; source context
+    should confirm sacred or socially binding force.
+  suggested_aliases:
+  - undivided_allegiance
+  - retainer_loyalty
+  - refusal_of_divided_loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-archer-s-vengeance
+  motif_id: retaliatory_archer_s_vengeance
+  label: retaliatory archer’s vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif is a revenge episode expressed through martial action, with
+    the archer detail likely local evidence.
+  cautions: If vengeance is moral reckoning rather than combat structure, divine_judgment
+    may be secondary; too specific for a new group.
+  suggested_aliases:
+  - archer_vengeance
+  - retaliatory_vengeance
+  - martial_revenge_by_archer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-killing-and-mutilation-of-captives
+  motif_id: retaliatory_killing_and_mutilation_of_captives
+  label: Retaliatory killing and mutilation of captives
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Retaliatory violence against captives may belong to warfare and revenge
+    cycles.
+  cautions: Culturally sensitive and potentially episode-specific; review whether
+    it is a ritualized motif, historical violence, or generated summary detail.
+  suggested_aliases:
+  - captive_mutilation_as_retaliation
+  - retaliatory_captive_killing
+  - revenge_mutilation_of_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-kin-conflict-cycle
+  motif_id: retaliatory_kin_conflict_cycle
+  label: Retaliatory kin-conflict cycle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud and Kin Retaliation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A recurring cycle of kin retaliation is not well captured by general
+    combat, covenant, or judgment groups.
+  cautions: Single occurrence; create only if vendetta, kin-revenge, or feud-cycle
+    labels recur across sources.
+  suggested_aliases:
+  - kin_revenge_cycle
+  - blood_feud_cycle
+  - retaliatory_family_conflict
+  suggested_new_group:
+    id: blood_feud_kin_retaliation
+    label: Blood Feud and Kin Retaliation
+    description: Cycles of vengeance, counter-vengeance, and obligation among kin
+      groups where injury to one member triggers retaliatory violence that perpetuates
+      social conflict.
+    parent_group_ids:
+    - sacred_combat
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - betrayal_violated_trust
+    - sacred_law
+    reason_existing_groups_insufficient: Existing combat and judgment groups cover
+      warfare or moral reckoning generally, but not the distinctive kin-obligation
+      structure and recursive feud pattern.
+- suggestion_id: normalization.suggestion.retributive-ending-framed-by-proverb
+  motif_id: retributive_ending_framed_by_proverb
+  label: Retributive ending framed by proverb
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The ending centers on retribution and moral consequence, with the proverb
+    acting as interpretive framing.
+  cautions: If the proverb itself is the main feature, storytelling_as_power or wisdom
+    may be secondary; may be a passage artifact.
+  suggested_aliases:
+  - proverbial_retribution
+  - retributive_moral_ending
+  - moral_consequence_framed_by_proverb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reunion-expressed-through-tears-embrace-kiss-and-gifts
+  motif_id: reunion_expressed_through_tears_embrace_kiss_and_gifts
+  label: Reunion expressed through tears, embrace, kiss, and gifts
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes scene gestures and emotional tokens rather than a
+    durable mythic motif.
+  cautions: If the larger passage concerns return, reconciliation, or covenant restoration,
+    map that broader function instead.
+  suggested_aliases:
+  - emotional_reunion_scene
+  - reunion_with_embrace_and_gifts
+  - tears_kiss_and_gifts_at_reunion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reuniting-multiple-cult-images-in-one-enclosure
+  motif_id: reuniting_multiple_cult_images_in_one_enclosure
+  label: Reuniting multiple cult images in one enclosure
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Cult images are sacred objects, and their ritual relocation or enclosure
+    may structure sacred power.
+  cautions: May instead involve sanctuary, temple-centered world_center, ritual repair,
+    or culturally specific cult practice; source context needed.
+  suggested_aliases:
+  - cult_images_reunited
+  - ritual_reunion_of_cult_images
+  - cult_images_in_one_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reuse-of-old-settlement-dwellings
+  motif_id: reuse_of_old_settlement_dwellings
+  label: reuse of old settlement dwellings
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe settlement practice or contextual ethnographic
+    detail rather than a symbolic motif.
+  cautions: If old dwellings are haunted, ancestral, taboo, or ritually reoccupied,
+    remap to ancestor_rites, restless_dead_haunting_vengeance, or sacred_law.
+  suggested_aliases:
+  - old_dwelling_reuse
+  - reuse_of_abandoned_dwellings
+  - settlement_reoccupation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-book-as-foundation-of-communal-faith
+  motif_id: revealed_book_as_foundation_of_communal_faith
+  label: revealed book as foundation of communal faith
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: A revealed book transmits sacred knowledge and establishes communal religious
+    identity.
+  cautions: May also support covenant or sacred_law when the book functions chiefly
+    as binding law for the community.
+  suggested_aliases:
+  - revealed_book
+  - scriptural_revelation_founds_community
+  - sacred_book_as_communal_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelatory-apparition-with-identity-pronouncement
+  motif_id: revelatory_apparition_with_identity_pronouncement
+  label: Revelatory apparition with identity pronouncement
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: An apparition that reveals identity is a direct manifestation and disclosure
+    of sacred presence or authority.
+  cautions: If the apparition is non-divine, prophetic, or dream-mediated, dream_and_vision
+    or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - identity_revealing_apparition
+  - apparition_with_self_pronouncement
+  - revelatory_self_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and make no claims about transmission
+  or common origin.
+- Several single-occurrence labels appear episode-specific; preserve local evidence
+  while mapping only the broader recurrent function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Human review recommended for culturally sensitive violence, cult-image ritual
+    handling, and possible kin-feud group creation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1563
+  input_sha256: 5c4e4f9d8e77f1379ca90601805594a1fcbc37687bb12458c080f985cdbe101e
+

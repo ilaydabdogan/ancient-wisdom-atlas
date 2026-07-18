@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l1375-l1386
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 1375-1386'
+  start: '1375'
+  end: '1386'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman disappears and an ear of corn is found where she sat. The people
+    use the corn for blessing and attach ears of corn, sometimes with hides, to bundles
+    and walls, especially for those who gave buffalo meat to the bundles. Old men
+    later claim that the old woman appeared in dreams and taught songs, buffalo-meat
+    sacrifices, and the smoke ceremony.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman disappeared, and an ear of corn lay where she had been sitting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people saw the corn and blessed themselves with the corn into which the
+    woman had turned.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other old men were sent for so they could get an ear of corn to tie upon their
+    bundles.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People tied ears of corn upon their bundles; some tied hides upon the corn
+    and hung them on the walls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tying and hanging were done for people who had given buffalo meat to the
+    bundles.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Old men in the tribe claimed the old woman came to them in dreams and taught
+    them songs, sacrifices of dried or fresh buffalo meat, and the smoke ceremony.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the woman / old woman
+  description: A woman who disappears, is said to have turned into corn, and is later
+    claimed to appear in dreams to teach ritual songs and practices.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the people
+  description: The community members who see the corn, bless themselves with it, and
+    tie ears of corn upon bundles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: old men in the tribe
+  description: Men who are sent for to obtain ears of corn for bundles and who claim
+    the old woman came to them in dreams.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: people who had given buffalo meat to the bundles
+  description: A group identified as having given buffalo meat to the bundles; the
+    corn and hides arrangement is done for them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: transformed woman
+  assigned_to:
+  - fig:1
+  basis: The passage says the woman disappeared and that the people blessed themselves
+    with the corn the woman had turned into.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream instructor of ritual practices
+  assigned_to:
+  - fig:1
+  basis: Old men claim the old woman appeared in dreams and taught songs, buffalo-meat
+    sacrifices, and the smoke ceremony.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: community ritual participants
+  assigned_to:
+  - fig:2
+  basis: The people see the corn, bless themselves, and tie ears of corn to bundles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recipients or custodians of ritual instruction
+  assigned_to:
+  - fig:3
+  basis: Old men are associated with receiving corn for bundles and with claiming
+    dream instruction from the old woman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: buffalo-meat donors to bundles
+  assigned_to:
+  - fig:4
+  basis: The passage identifies these people as having given buffalo meat to the bundles.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ear of corn
+  literal_form: ear or ears of corn
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bundles
+  literal_form: bundles to which ears of corn are tied
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hides tied upon corn
+  literal_form: hides tied upon the corn and hung on walls
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: buffalo meat
+  literal_form: dried or fresh buffalo meat offered as sacrifice and also given to
+    bundles
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: smoke ceremony
+  literal_form: smoke ceremony taught by the old woman in dreams
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Woman disappears and corn appears
+  summary: The woman disappears, and an ear of corn is found where she had been sitting;
+    the people identify the corn with the woman and bless themselves with it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Corn attached to bundles
+  summary: Old men are sent for corn, and people tie ears of corn to bundles; some
+    add hides and hang them on walls for those who had given buffalo meat to the bundles.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dream teaching of songs and ceremonies
+  summary: Old men claim the old woman appeared in dreams and taught songs, buffalo-meat
+    sacrifices, and the smoke ceremony.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: woman transforms into corn
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that the woman disappeared and that the people blessed
+    themselves with the corn the woman had turned into.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage describes a single transformation
+    into corn rather than repeated or voluntary shape-shifting.
+- id: motif:2
+  label: ritual knowledge taught through dream visitation
+  taxonomy_refs:
+  - wisdom
+  basis: Old men claim the old woman came to them in dreams and taught songs, sacrifices,
+    and the smoke ceremony.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the dream teaching as a claim by old men; the broader
+    'wisdom' category is interpretive.
+- id: motif:3
+  label: buffalo-meat sacrifice as instructed rite
+  taxonomy_refs:
+  - sacrifice
+  basis: The old woman is said to teach how to make sacrifices of dried or fresh buffalo
+    meat.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The exact recipients and procedural details of the sacrifices are not
+    specified in this passage.
+- id: motif:4
+  label: offering and blessing associated with bundles
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage links corn tied to bundles and wall-hung hides with people who
+    had given buffalo meat to the bundles.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage shows an association between gifts of buffalo meat and later
+    ritual treatment of corn and bundles, but it does not explicitly describe a formal
+    exchange relationship.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1375-1379
+  quote_or_summary: The woman disappears; an ear of corn lies where she sat; people
+    see it and bless themselves with the corn that the woman had turned into.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 1377-1383
+  quote_or_summary: Other old men are sent for ears of corn to tie to bundles; people
+    tie ears of corn to bundles, sometimes tie hides on the corn and hang them on
+    walls, for people who had given buffalo meat to the bundles.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 1384-1386
+  quote_or_summary: Old men in the tribe claim the old woman came to them in dreams
+    and taught songs, sacrifices of dried or fresh buffalo meat, and the smoke ceremony.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif assignments are
+    cautious and limited to available taxonomy references; no cross-text comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol references were assigned because the available symbol list does not include corn, bundles, buffalo meat, hides, dreams, or smoke ceremony.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l1375-l1386
+  passage_sha256=4e161a6891c132c4978ca868e1c2206d51bfd8707edc6f60efd497f11cda68ac
+

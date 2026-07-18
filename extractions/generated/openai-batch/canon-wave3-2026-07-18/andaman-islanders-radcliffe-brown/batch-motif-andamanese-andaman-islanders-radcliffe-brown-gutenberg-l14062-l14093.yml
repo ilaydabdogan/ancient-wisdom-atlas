@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.andamanese-andaman-islanders-radcliffe-brown-gutenberg-l14062-l14093
+source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+passage_locator:
+  label: PERSONAL ORNAMENT; GREAT ANDAMAN. / PERSONAL ORNAMENT; LITTLE ANDAMAN. /
+    HAIR-DRESSING, SCARIFICATION, AND BODY-PAINTING. / ORNAMENTATION.; lines 14062-14093
+  start: '14062'
+  end: '14093'
+  translation: 'The Andaman Islanders: A Study in Social Anthropology'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“the zig-zag line is associated with snakes”"
+  summary: The passage describes Andamanese ornamentation on bodies and objects, especially
+    designs based on parallel lines, dots, short strokes, and zig-zag lines. It states
+    that zig-zag lines are associated with snakes in Great Andaman and Little Andaman,
+    gives local names for such designs, and cautiously notes superficial resemblance
+    to Semang ornamentation while emphasizing uncertainty.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Andamanese paint or incise simple designs on their bodies and on many
+    objects they make and use.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many Andamanese designs are based on zig-zag lines.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In Great Andaman and Little Andaman, zig-zag lines are associated with snakes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In Little Andaman, a simple zig-zag line is called dobo kwolage, with dobo
+    glossed as snake.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In North Andaman, zig-zag designs painted on the body with white clay are
+    named after a species of large snake.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Other common designs include parallel lines of dots or short strokes.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The author says Andamanese and Semang ornamentation show superficial resemblance,
+    but that the subject is difficult because the underlying psychological processes
+    are poorly understood.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Andamanese
+  description: The people described as painting or incising designs on their bodies
+    and objects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ornament makers and users
+  assigned_to:
+  - fig:1
+  basis: The passage says the Andamanese paint or incise designs on bodies and on
+    objects they make and use.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: zig-zag line associated with snakes
+  literal_form: zig-zag line
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: snake
+  literal_form: snake
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: parallel lines of dots or short strokes
+  literal_form: parallel broken lines
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: white clay body-painting
+  literal_form: zig-zag lines painted on the body with white clay
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of Andamanese ornamentation patterns
+  summary: The passage describes designs painted or incised by the Andamanese on bodies
+    and objects, lists recurring design elements, and identifies the zig-zag line
+    as snake-associated in several Andamanese settings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Cautious comparison with Semang ornamentation
+  summary: The author notes possible connection and superficial resemblance between
+    Andamanese and Semang ornamentation, while stressing that the matter is difficult
+    and not well understood.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: serpent-associated zig-zag ornament
+  taxonomy_refs:
+  - serpent
+  basis: The passage repeatedly connects zig-zag ornamentation with snakes, including
+    local names that incorporate words or names for snakes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ornamentation pattern rather than a narrative myth episode;
+    the passage does not state a mythic story about the snake.
+comparison_claims:
+- id: claim:1
+  claim: Andamanese ornamentation is said to have a considerable degree of superficial
+    resemblance to Semang ornamentation, with only a possible, unproven real connection.
+  claim_level: visual_similarity
+  target: Semang ornamentation
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: low
+  limitations: The author explicitly cautions that the psychological processes underlying
+    ornament use are poorly understood and that the topic is difficult; no specific
+    shared motif or historical contact is demonstrated in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14062-14065
+  quote_or_summary: "“The Andamanese have simple designs which they paint or incise
+    on their bodies and on a great number of the objects that they make and use.”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 14065-14068
+  quote_or_summary: The passage says many designs are based on the zig-zag line and
+    points to examples in Fig. 42.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 14068-14070
+  quote_or_summary: "“In all parts of the Great Andaman and also in the Little Andaman
+    the zig-zag line is associated with snakes.”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: 14070-14072
+  quote_or_summary: "“in the Little Andaman the simple zig-zag line is called dobo
+    kwolage (dobo = snake).”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: 14072-14074
+  quote_or_summary: In North Andaman, zig-zag body designs painted with white clay
+    are called or-čubi t’era-bat, with or-čubi identified as a species of large snake.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 14076-14087
+  quote_or_summary: The passage lists other design elements, including parallel lines,
+    parallel lines of dots or short strokes, and zig-zag lines that can be single,
+    parallel, or opposed to form lozenges.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 14089-14093
+  quote_or_summary: The author states that a real connection between Andamanese and
+    Semang ornamentation might perhaps be shown and that there is superficial resemblance,
+    but emphasizes that the subject is difficult because the relevant psychological
+    processes are little understood.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal ornamentation data are explicit. Motif classification is limited
+    because the passage concerns decorative designs, not a myth narrative. The Semang
+    comparison is explicitly tentative in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative figures or mythic actions are present beyond the ethnographic description of ornamentation. Taxonomy use is limited to the explicitly supported serpent association.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:andamanese-andaman-islanders-radcliffe-brown-gutenberg__l14062-l14093
+  passage_sha256=bf11a608133a35e19211033df99fc12bd64659d57f26cbdffd23dfaaf759e6df
+

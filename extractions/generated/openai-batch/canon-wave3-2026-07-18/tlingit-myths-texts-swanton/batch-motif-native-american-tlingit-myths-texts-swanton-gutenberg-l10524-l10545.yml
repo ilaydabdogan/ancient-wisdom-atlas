@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.native-american-tlingit-myths-texts-swanton-gutenberg-l10524-l10545
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 10524-10545'
+  start: '10524'
+  end: '10545'
+  translation: Tlingit Myths and Texts
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed person lying on a rock hears a loud voice repeatedly. He sees
+    a nearby bird called gusǃyadūˊłî, which says it has come to bring him luck and
+    tells him to ride on its back with his face hidden in its neck feathers. The bird
+    repeatedly warns him not to look up while it flies. After stopping first on a
+    drifting seaweed pile far out at sea, the bird carries him onward until he recognizes
+    a place close to his own village.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The person lies down again with blankets over his head instead of getting
+    up.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A loud voice asks why he is lying there and what he is doing on the rock.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each time he hears the voice, a bird called gusǃyadūˊłî is sitting in the
+    same place nearby.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The bird says it has come to bring him luck and instructs him to get on its
+    back with his face buried in its neck feathers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bird flies off carrying him and repeatedly tells him not to look up.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When allowed to open his eyes, he sees that they are on a large drifting pile
+    of seaweed far out at sea.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After another interval with his eyes closed, he opens them and recognizes
+    the place as near his own village.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed human
+  description: A person referred to as lying on a rock, hearing a voice, riding on
+    the bird, and recognizing a place near his own village.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: gusǃyadūˊłî bird
+  description: A nearby bird that speaks, says it has come to bring luck, gives instructions,
+    and transports the human by flight.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: transported recipient
+  assigned_to:
+  - fig:1
+  basis: The human gets on the bird's back, follows its instructions, and is carried
+    to different locations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: speaking animal helper
+  assigned_to:
+  - fig:2
+  basis: The bird speaks to the human, says it brings luck, and directs his actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: supernatural or extraordinary carrier
+  assigned_to:
+  - fig:2
+  basis: The bird carries the human in flight from the rock to the seaweed pile and
+    then near his village.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: speaking bird
+  literal_form: gusǃyadūˊłî bird
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: rock
+  literal_form: rock where the person is lying
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sea
+  literal_form: far out at sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: drifting seaweed pile
+  literal_form: big pile of seaweed drifting around far out at sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: home village vicinity
+  literal_form: place close to his own village
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Voice on the rock
+  summary: The human remains lying under his blankets on a rock, hears a loud voice,
+    and repeatedly sees the same bird nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird offers luck and transport
+  summary: The bird reveals itself as the speaker, says it has come to bring luck,
+    and tells the human how to ride on its back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Flight under a looking prohibition
+  summary: The bird carries the human away and repeatedly warns him not to look up
+    while he keeps his face hidden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Stop at drifting seaweed
+  summary: After the bird permits him to open his eyes, the human finds they are on
+    a large drifting pile of seaweed far out at sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Return near village
+  summary: The bird has him close his eyes again, then permits him to open them when
+    they are near his own village.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: speaking animal helper brings luck
+  taxonomy_refs: []
+  basis: The bird speaks directly to the human and says it has come to bring him luck.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the bird's broader identity or the nature
+    of the luck.
+- id: motif:2
+  label: human transported by bird
+  taxonomy_refs: []
+  basis: The human rides on the bird's back while it flies with him to distant locations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No larger journey context is supplied in the passage excerpt.
+- id: motif:3
+  label: prohibition on looking during extraordinary journey
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The bird tells the human not to look up and repeats the warning during flight.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives no consequence for disobedience, so the link to a forbidden-knowledge
+    family is tentative.
+- id: motif:4
+  label: departure and return by guided flight
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The bird carries the human away from the rock to the sea and then to a place
+    close to his own village.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not establish the full narrative arc outside this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10524-10532
+  quote_or_summary: The human lies with blankets over his head on a rock, hears a
+    loud voice repeatedly, and each time sees a gusǃyadūˊłî bird sitting nearby in
+    the same place.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: lines 10532-10536
+  quote_or_summary: "“I have come to bring you luck. Get on my back and keep your
+    face buried in the feathers on the back of my neck.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 10536-10540
+  quote_or_summary: The bird flies off with him and repeatedly warns him not to look
+    up while he keeps his face concealed.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 10540-10543
+  quote_or_summary: When the bird allows him to open his eyes, he sees that they are
+    on a large pile of seaweed drifting far out at sea.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 10543-10545
+  quote_or_summary: The bird again tells him to close his eyes; when he opens them
+    at the next stop, he recognizes the place as close to his own village.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward within the excerpt. Motif taxonomy
+    links are limited because the passage is short and gives little context beyond
+    the guided bird flight and looking prohibition. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-tlingit-myths-texts-swanton-gutenberg__l10524-l10545
+  passage_sha256=21ab787646fae33cb46725692f38a927dea47bade92ac3fc58d5654c5707467a
+

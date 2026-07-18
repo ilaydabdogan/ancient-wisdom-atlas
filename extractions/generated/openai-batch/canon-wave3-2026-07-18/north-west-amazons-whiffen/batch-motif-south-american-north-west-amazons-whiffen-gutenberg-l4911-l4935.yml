@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l4911-l4935
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER VII / CHAPTER VIII / CHAPTER IX / CHAPTER X; lines 4911-4935
+  start: '4911'
+  end: '4935'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the preparation and circulation of poisons among
+    Indigenous groups of the north-west Amazon, emphasizing the rarity and demand
+    for strong poison, the Karahone reputation for superior toxicological knowledge,
+    the Menimehe’s lesser knowledge, medicine-men’s poison manufacture, and the preparation,
+    storage, and weapon use of curare from plant materials and other ingredients.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contrasts cassava flour preparation from a poisonous root with
+    more intricate processes for preparing various poisons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Natural poisons are said to abound in the forest, including a poison-tree
+    credited with deadly properties.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On the Issa and Japura, an arrow-poison is made from putrefying animal matter
+    mixed with strychnos.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Good poison is described as rare and in high demand.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Karahone are described as makers of the most potent preparation and as
+    especially knowledgeable about poisons.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Menimehe are described as having some knowledge of poisons but as less
+    skilled than the Karahone.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Most tribes are said to obtain poisons from the Karahone by barter.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Every medicine-man is said to manufacture some sort of poison.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Curare is made from two plants called ramu and pani by the Witoto, and its
+    recipe is described as a treasured hereditary possession.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Strychnos toxifera wood is pounded; its sap is mixed with water, strained,
+    and boiled with peppers, ants, and other noxious materials.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Thickened curare is placed in small pots carried around the neck and used
+    to smear palm-spine points of darts, arrows, and javelins.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Indians described in the passage
+  description: Indigenous people described as preparing cassava flour, elaborating
+    poison-making processes, and carrying small pots of curare around their necks.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:2
+  name_or_label: Karahone
+  description: A group described as having great knowledge of poisons, making the
+    most potent preparation, and supplying poisons to other tribes by barter.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Menimehe
+  description: A group described as understanding poisons to some extent but not equaling
+    the Karahone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: medicine-man
+  description: A figure described as manufacturing some sort of poison.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: most of the tribes
+  description: Unspecified tribes described as obtaining most poisons from the Karahone
+    by barter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: poison-process elaborators
+  assigned_to:
+  - fig:1
+  basis: The passage states that intricate processes for preparing various poisons
+    have been elaborated by the Indians described.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: poison manufacturers
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Karahone make the most potent preparation, and every medicine-man manufactures
+    some kind of poison.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: specialist toxicologists and barter suppliers
+  assigned_to:
+  - fig:2
+  basis: The Karahone are called the cleverest toxicologists and are the source from
+    whom most tribes obtain poisons by barter.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: lesser poison specialists
+  assigned_to:
+  - fig:3
+  basis: The Menimehe understand poisons to some extent but are not equal to the Karahone.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: curare carriers and weapon preparers
+  assigned_to:
+  - fig:1
+  basis: The passage describes these Indians carrying curare pots around their necks
+    for smearing weapon points.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: poison barter recipients
+  assigned_to:
+  - fig:5
+  basis: Most tribes are described as obtaining their poisons from the Karahone by
+    barter.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: poison-tree
+  literal_form: A tree known as the poison-tree and credited with deadly properties.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: curare
+  literal_form: A major poison made from ramu and pani plants, involving Strychnos
+    toxifera wood, water, peppers, ants, and other noxious materials.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: ramu and pani
+  literal_form: Two plants named by the Witoto as ingredients of curare.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Strychnos toxifera wood and sap
+  literal_form: Wood pounded in a mortar; sap mixed with water, strained, and boiled
+    as part of curare preparation.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: neck-carried curare pots
+  literal_form: Small pots about an inch and a half in diameter carried around the
+    neck to hold curare.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: poisoned weapon points
+  literal_form: Palm-spine points of darts, arrows, and javelins smeared with curare.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Forest poisons and regional poison knowledge
+  summary: The passage presents the forest as a source of natural poisons and describes
+    different groups and specialists as having unequal knowledge of poison preparation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Poison barter centered on the Karahone
+  summary: Good poison is rare and demanded, and most tribes obtain poisons from the
+    Karahone by barter.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Preparation and use of curare
+  summary: Curare is made from named plants and other materials by a hereditary recipe,
+    thickened, stored in small pots, carried around the neck, and applied to weapon
+    points.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:4
+  label: Arrow-poison of the Issa and Japura
+  summary: A separate arrow-poison is described as made from putrefying animal matter
+    mixed with strychnos in the Issa and Japura region.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: specialized hereditary poison knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes expert knowledge of poisons among the Karahone and
+    describes the curare recipe as a treasured hereditary possession.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is ethnographic
+    and technical rather than explicitly mythological.
+- id: motif:2
+  label: rare poison obtained through barter
+  taxonomy_refs: []
+  basis: Good poison is rare and in demand, and most tribes obtain poisons from the
+    Karahone by barter.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not present the exchange as sacred or ceremonial.
+- id: motif:3
+  label: natural substances transformed into weapon poison
+  taxonomy_refs: []
+  basis: The passage describes poisons made from plant materials, putrefying animal
+    matter, and other noxious ingredients, then applied to darts, arrows, and javelins.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a practical ethnographic pattern rather than an explicitly symbolic
+    or narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4911-4915
+  quote_or_summary: Cassava flour is prepared from a poisonous root, but this is described
+    as ordinary compared with intricate processes for preparing poisons.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 4915-4917
+  quote_or_summary: Natural poisons abound in the forest, including a poison-tree
+    credited with deadly properties.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 4917-4919
+  quote_or_summary: On the Issa and Japura, arrow-poison is made from putrefying animal
+    matter mixed with strychnos.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: 4919-4920
+  quote_or_summary: '"Good poison is very rare, and very much in demand."'
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short quotation supplied.
+- id: ev:5
+  type: summary
+  locator: 4920-4922
+  quote_or_summary: The Karahone make the most potent preparation, have great knowledge
+    of poisons, and are called the cleverest toxicologists.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 4922-4925
+  quote_or_summary: The Menimehe understand poisons to some extent but are not equal
+    to the Karahone, from whom most tribes obtain poisons by barter.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 4925-4926
+  quote_or_summary: Every medicine-man manufactures poison of some sort.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 4927-4930
+  quote_or_summary: Curare is made from two plants called ramu and pani by the Witoto,
+    and the recipe is a treasured hereditary possession.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: 4930-4933
+  quote_or_summary: Strychnos toxifera wood is pounded; the sap is mixed with water,
+    strained, and boiled with peppers, ants, and other noxious material.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:10
+  type: summary
+  locator: 4933-4935
+  quote_or_summary: When thickened, curare is placed in small neck-carried pots and
+    kept ready to smear on palm-spine points of darts, arrows, and javelins.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and supports extraction of practical poison-making
+    patterns. Motif candidates are cautious because the passage is ethnographic rather
+    than a mythic narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact or cross-tradition comparison claims were inferred.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l4911-l4935
+  passage_sha256=4f7c04a025adbc936a43341a01d1e58f38553595805e6476a302e3d525652fcd
+

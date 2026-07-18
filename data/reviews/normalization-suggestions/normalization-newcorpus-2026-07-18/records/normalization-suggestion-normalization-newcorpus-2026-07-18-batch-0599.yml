@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0599
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.funeral-games-with-ordered-heroic-contests-and-prizes
+  motif_id: funeral_games_with_ordered_heroic_contests_and_prizes
+  label: Funeral games with ordered heroic contests and prizes
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: The group already includes funeral_games_after_heroic_death; ordered
+    contests and prizes are a specific funeral-games detail.
+  cautions: Single occurrence; preserve contest order and prize details as evidence
+    rather than a separate canonical motif.
+  suggested_aliases:
+  - funeral_games_after_heroic_death
+  - funeral contests for a dead hero
+  - heroic funeral games
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-honor-for-a-slain-estranged-husband
+  motif_id: funeral_honor_for_a_slain_estranged_husband
+  label: Funeral honor for a slain estranged husband
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central action is honoring a slain dead person through funerary recognition,
+    fitting memorial rites for kin or heroic figures.
+  cautions: Estranged-husband context may be more about kinship reconciliation or
+    marital duty; verify the passage emphasizes funeral honor rather than relationship
+    drama.
+  suggested_aliases:
+  - funeral honor for slain kin
+  - funerary honor for a dead husband
+  - memorial honor for the slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-honors-for-a-fallen-hero
+  motif_id: funeral_honors_for_a_fallen_hero
+  label: funeral honors for a fallen hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: This is essentially the label-level meaning of Heroic Funeral Rites and
+    Memorialization.
+  cautions: Keep any local ritual sequence or honors as evidence notes.
+  suggested_aliases:
+  - heroic funeral honors
+  - funeral rites for a fallen hero
+  - honors for a dead hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-timber-gathering-and-mortuary-monument-honor
+  motif_id: funeral_timber_gathering_and_mortuary_monument_honor
+  label: Funeral timber gathering and mortuary monument honor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Timber gathering and monument construction are specific acts within funerary
+    rites and memorialization for the dead.
+  cautions: If the monument itself becomes an enduring sacred object or place, sacred_treasures
+    or sacred geography may be secondary, but the primary function is funeral honor.
+  suggested_aliases:
+  - funeral pyre preparation
+  - mortuary monument honor
+  - funerary body retrieval and funeral sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-fire-consuming-a-ruler-or-warrior
+  motif_id: funerary_fire_consuming_a_ruler_or_warrior
+  label: funerary fire consuming a ruler or warrior
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A cremation or pyre scene for a ruler or warrior belongs with heroic
+    funeral rites rather than general sacred fire.
+  cautions: Secondary relation to sacred_fire may apply if the passage emphasizes
+    fire as divine presence or transformation; do not map to world-destroying fire.
+  suggested_aliases:
+  - funeral pyre for a warrior
+  - cremation of a ruler
+  - funerary fire for heroic dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-praise-of-the-ideal-king
+  motif_id: funerary_praise_of_the_ideal_king
+  label: Funerary praise of the ideal king
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Funerary praise is a memorial act that honors the dead ruler and reaffirms
+    social order.
+  cautions: Could also support royal_legitimacy if the praise chiefly constructs an
+    ideal kingship model; passage context should decide secondary indexing.
+  suggested_aliases:
+  - funeral eulogy for an ideal king
+  - praise of a dead ruler
+  - royal funerary praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-reciprocity-within-the-household
+  motif_id: future_reciprocity_within_the_household
+  label: future reciprocity within the household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on expected reciprocal obligation within a household,
+    matching the broader reciprocity pattern.
+  cautions: May be a social-ethical detail rather than a sacred motif; if framed as
+    law or kinship duty, sacred_law or covenant may be more appropriate.
+  suggested_aliases:
+  - household reciprocity
+  - reciprocal household obligation
+  - future return of household care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gate-blocking-intervention
+  motif_id: gate_blocking_intervention
+  label: gate-blocking intervention
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A blocked gate may mark threshold control, divine intervention, siege
+    action, or palace/city politics depending on context.
+  cautions: Do not force into threshold_guardian unless a guardian or liminal passage
+    test is present; may be an episode-specific action.
+  suggested_aliases:
+  - blocked gate intervention
+  - intervention at the gate
+  - gate obstruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generous-patron-fulfills-social-obligations
+  motif_id: generous_patron_fulfills_social_obligations
+  label: generous patron fulfills social obligations
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Patron generosity and fulfilled obligations fit reciprocal giving and
+    social bonds maintained through exchange.
+  cautions: If the patron is a ruler whose generosity proves legitimate kingship,
+    royal_legitimacy may be an important secondary mapping.
+  suggested_aliases:
+  - patron generosity
+  - lordly generosity fulfills obligation
+  - reciprocal patronage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.glass-enclosure-containing-a-miniature-estate
+  motif_id: glass_enclosure_containing_a_miniature_estate
+  label: Glass enclosure containing a miniature estate
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A glass enclosure containing a miniature estate functions as a special
+    container holding a world-like or power-laden space.
+  cautions: Could instead be otherworld, sacred_treasures, or episode-specific marvel
+    depending on whether the estate is an enchanted realm, a power object, or a descriptive
+    artifact.
+  suggested_aliases:
+  - miniature estate in glass
+  - world in a glass enclosure
+  - enchanted enclosure containing a domain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence funerary details; most should
+  be preserved as granular evidence under heroic_funeral_rites rather than promoted.
+- Social obligation labels may need source review to distinguish sacred reciprocity,
+  ordinary household ethics, and royal legitimacy.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous threshold
+    and miniature-estate items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0599
+  input_sha256: 9acf33e236e4e98e4a73995176080fc580a899d1bc9752170082d4d3cfe21e0f
+

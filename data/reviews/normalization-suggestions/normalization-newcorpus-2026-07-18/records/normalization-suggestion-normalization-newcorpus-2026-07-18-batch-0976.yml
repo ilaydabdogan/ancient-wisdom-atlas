@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0976
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.search-for-a-missing-companion
+  motif_id: search_for_a_missing_companion
+  label: search for a missing companion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A search for a missing companion could initiate a quest, descent, rescue,
+    or simple plot action depending on context.
+  cautions: Single occurrence and bucket mismatch; do not map to hero_journey or stolen_beloved
+    without evidence of transformative quest or loss-driven ordeal.
+  suggested_aliases:
+  - companion search
+  - quest for missing companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - stolen_beloved
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-an-absent-consort-delegated-to-allies
+  motif_id: search_for_an_absent_consort_delegated_to_allies
+  label: search for an absent consort delegated to allies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The missing consort and delegated search fit a love-separation and recovery
+    pattern more than a nature/cosmos motif.
+  cautions: If the passage emphasizes heroic mission structure rather than consort
+    longing, hero_journey may be a secondary or better mapping; preserve ally delegation
+    as evidence detail.
+  suggested_aliases:
+  - search for missing consort
+  - quest for absent spouse
+  - allies search for lost beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-fire-signal-summons-or-informs-allies-at-night
+  motif_id: secret_fire_signal_summons_or_informs_allies_at_night
+  label: Secret fire signal summons or informs allies at night
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Fire is used as a signal in a tactical or communicative role, not clearly
+    as sacred fire, theophany, or cosmic light.
+  cautions: Likely an episode-specific stratagem unless fire signaling recurs as a
+    ritual or sacred communication pattern; avoid mapping to sacred_fire solely because
+    fire appears.
+  suggested_aliases:
+  - fire signal to allies
+  - night beacon summons allies
+  - secret beacon message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_combat
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seizing-a-supernatural-being-s-vulnerable-finger-during-flight
+  motif_id: seizing_a_supernatural_being_s_vulnerable_finger_during_flight
+  label: Seizing a supernatural being's vulnerable finger during flight
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on exploiting a specific vulnerable body part of a
+    supernatural being.
+  cautions: If vulnerability is incidental and the main action is aerial pursuit or
+    capture, this may be too specific; confirm that the finger functions as a weakness.
+  suggested_aliases:
+  - vulnerable finger of supernatural being
+  - seizing vulnerable body part
+  - supernatural being captured by weak point
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-consuming-fire-warrior
+  motif_id: self_consuming_fire_warrior
+  label: self-consuming fire warrior
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A warrior defined by consuming fire may belong with sacred combat if
+    fire is part of martial supernatural power.
+  cautions: Could instead be sacred_fire, world_destroying_fire, sacrifice, or a descriptive
+    monster detail; source evidence is needed to determine whether warrior role or
+    fire symbolism is primary.
+  suggested_aliases:
+  - fire warrior
+  - self-consuming fiery warrior
+  - warrior consumed by own fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacrifice
+    - world_destroying_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-destruction-by-fire-and-recoil-from-bodily-suffering
+  motif_id: self_destruction_by_fire_and_recoil_from_bodily_suffering
+  label: self-destruction by fire and recoil from bodily suffering
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines self-destruction, fire, and bodily suffering without
+    enough context to distinguish sacrifice, judgment, or tragic death.
+  cautions: Potentially culturally sensitive and over-specific; avoid treating all
+    fire-death as sacred_fire or world renewal without explicit sacred or cosmic function.
+  suggested_aliases:
+  - self-destruction by fire
+  - fire death from bodily suffering
+  - self-immolation and suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_fire
+    - death_and_transformation
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-destructive-fire-against-vessel-and-self
+  motif_id: self_destructive_fire_against_vessel_and_self
+  label: Self-destructive fire against vessel and self
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif mixes destructive fire, a vessel, and self-harm; function is
+    unclear from the label alone.
+  cautions: Could be an episode-specific action involving a sacred vessel, a destructive
+    stratagem, or self-sacrifice; do not map to sacred_vessel or sacred_fire without
+    evidence of sacred function.
+  suggested_aliases:
+  - fire against vessel and self
+  - self-destructive burning of vessel
+  - destructive fire involving vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - sacred_fire
+    - sacrifice
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-kindled-light-ending-in-sorrow
+  motif_id: self_kindled_light_ending_in_sorrow
+  label: Self-kindled light ending in sorrow
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Self-made light that ends in sorrow reads as a moral-reckoning image
+    of misguided human action and consequence.
+  cautions: If the passage is primarily poetic metaphor rather than narrative motif,
+    preserve as evidence detail; sacred_fire is only secondary if divine light/fire
+    is explicit.
+  suggested_aliases:
+  - self-kindled light
+  - false self-made illumination
+  - self-made light ending in grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_knowledge
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-renewing-or-impossible-harvest-task
+  motif_id: self_renewing_or_impossible_harvest_task
+  label: self-renewing or impossible harvest task
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: An impossible harvest task functions as an ordeal or test, with agricultural
+    self-renewal as the task's form.
+  cautions: If the focus is seasonal fertility or harvest spirit rather than testing,
+    sacred_time may be a secondary mapping; preserve the self-renewing task detail.
+  suggested_aliases:
+  - impossible harvest task
+  - self-renewing task
+  - endless harvest ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separated-sisters-restored-by-sky-dwelling-sisters
+  motif_id: separated_sisters_restored_by_sky_dwelling_sisters
+  label: separated sisters restored by sky-dwelling sisters
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sibling separation, restoration, and sky-dwelling
+    figures; placement depends on whether kinship, ascent/celestial realm, or restoration
+    is central.
+  cautions: Culturally sensitive and single-occurrence; avoid forcing into sacred_twins
+    or ascent without source evidence. Sky-dwelling sisters may be ancestral or celestial
+    beings with local meaning.
+  suggested_aliases:
+  - separated sisters restored
+  - sky sisters restore separated kin
+  - sisters restored by celestial sisters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - ascent
+    - divine_intervention
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items appear in the nature/cosmos bucket because of fire, sky, or harvest
+  imagery, but their likely functions are quest, ordeal, moral consequence, combat,
+  or kin restoration rather than elemental cosmology.
+- Single-occurrence and episode-specific labels should generally remain provisional
+  evidence details unless recurrence across sources is demonstrated.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review needed especially for
+    culturally specific Aboriginal, Egyptian, and Slavic items and for fire labels
+    whose narrative function is unclear.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0976
+  input_sha256: 36a0aac8de4e80e190f23fe926a55a76832180f8907f04c400ddff2099201046
+

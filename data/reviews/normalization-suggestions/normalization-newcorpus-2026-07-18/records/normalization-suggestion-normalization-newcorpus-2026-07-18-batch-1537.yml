@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1537
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-proof-of-fidelity-under-accusation
+  motif_id: public_proof_of_fidelity_under_accusation
+  label: public proof of fidelity under accusation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an ordeal or vindication of chastity/fidelity under
+    public accusation, but existing groups split between sacred_law, divine_judgment,
+    sacred_love, and recognition/vindication.
+  cautions: Source context is needed; may be a culturally specific chastity ordeal
+    or episode-specific public trial rather than a durable motif.
+  suggested_aliases:
+  - fidelity_vindication_under_accusation
+  - public_chastity_proof
+  - accused_fidelity_vindicated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-recognition-after-signs-and-proclamation
+  motif_id: public_recognition_after_signs_and_proclamation
+  label: Public recognition after signs and proclamation
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public recognition following validating signs and proclamation functions
+    as identity, status, or authority confirmation.
+  cautions: If the signs are primarily divine omens or the proclamation is prophetic
+    rather than identity proof, dream_and_vision or prophecy_divination may be secondary.
+  suggested_aliases:
+  - public_recognition_by_signs
+  - recognition_after_proclamation
+  - public_vindication_by_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-recognition-through-gifts-and-insignia
+  motif_id: public_recognition_through_gifts_and_insignia
+  label: public recognition through gifts and insignia
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Gifts and insignia serve as visible tokens proving identity, status,
+    kinship, or authority in public recognition.
+  cautions: If insignia confer rule rather than prove identity, royal_legitimacy or
+    sacred_treasures may also be relevant.
+  suggested_aliases:
+  - recognition_by_gifts_and_insignia
+  - public_identity_proof_by_insignia
+  - status_recognition_through_tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-reproach-following-delivered-challenge
+  motif_id: public_reproach_following_delivered_challenge
+  label: public reproach following delivered challenge
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve performative speech, honor challenge, social
+    judgment, or combat prelude, but function is unclear.
+  cautions: Likely episode-specific unless the public reproach has binding oath, curse,
+    legal, or challenge function in the source.
+  suggested_aliases:
+  - public_reproach_after_challenge
+  - challenge_reproach
+  - honor_reproach_following_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_combat
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-reversal-and-humiliation-of-a-powerful-aggressor
+  motif_id: public_reversal_and_humiliation_of_a_powerful_aggressor
+  label: Public reversal and humiliation of a powerful aggressor
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A powerful aggressor publicly humbled by reversal fits moral reckoning
+    and punishment of wrongful power.
+  cautions: If the reversal is caused by clever deception, trickster may be relevant;
+    if by pride, pride_and_downfall may be secondary.
+  suggested_aliases:
+  - aggressor_publicly_humiliated
+  - public_reversal_of_oppressor
+  - powerful_aggressor_humbled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-reversal-through-unexpected-abundance
+  motif_id: public_reversal_through_unexpected_abundance
+  label: public reversal through unexpected abundance
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unexpected abundance that reverses public standing aligns with miraculous
+    or supernatural provision already grouped under divine_intervention.
+  cautions: If abundance results from reciprocity, ritual exchange, or moral test
+    rather than direct sacred aid, sacred_exchange or divine_judgment may be secondary.
+  suggested_aliases:
+  - unexpected_abundance_reversal
+  - public_vindication_by_abundance
+  - miraculous_abundance_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.publicly-witnessed-mortuary-land-transaction
+  motif_id: publicly_witnessed_mortuary_land_transaction
+  label: Publicly witnessed mortuary land transaction
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines legal land purchase, witnesses, and burial context;
+    it may be social/legal narrative detail rather than a symbolic motif.
+  cautions: Do not map to ancestor rites or heroic funeral rites unless the passage
+    emphasizes mortuary ritual, burial obligation, or memorialization over property
+    procedure.
+  suggested_aliases:
+  - witnessed_burial_land_purchase
+  - mortuary_land_transaction
+  - public_burial_property_agreement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - ancestor_rites
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishing-second-magic-gift
+  motif_id: punishing_second_magic_gift
+  label: Punishing second magic gift
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A punitive magic gift may belong to divine judgment, trickster reversal,
+    or sacred treasures depending on who gives it and why.
+  cautions: Likely too under-specified; source evidence is needed to distinguish magical
+    object, moral punishment, or tale-type escalation.
+  suggested_aliases:
+  - punitive_magic_gift
+  - second_gift_as_punishment
+  - magic_gift_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_treasures
+    - trickster
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishing-whip-follows-failed-or-spoiled-food-magic
+  motif_id: punishing_whip_follows_failed_or_spoiled_food_magic
+  label: Punishing whip follows failed or spoiled food magic
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears to be a highly specific tale sequence involving magic
+    food and a punitive object.
+  cautions: Preserve as evidence detail unless related magic-gift punishment motifs
+    recur; possible links include sacred_treasures, divine_judgment, trickster, or
+    sacred_substance.
+  suggested_aliases:
+  - punitive_magic_whip
+  - failed_food_magic_punishment
+  - magic_food_reversal_with_whip
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_judgment
+    - trickster
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punitive-abduction-for-a-kin-group-offense
+  motif_id: punitive_abduction_for_a_kin_group_offense
+  label: Punitive abduction for a kin-group offense
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Punitive abduction for collective kin offense could be social sanction,
+    divine judgment, conflict, or kinship retaliation, but the agent and function
+    are unclear.
+  cautions: Culturally sensitive and single-occurrence; requires source review before
+    assigning to judgment, sacred law, or combat/vengeance patterns.
+  suggested_aliases:
+  - abduction_as_kin_group_punishment
+  - collective_offense_punitive_abduction
+  - kin_group_retribution_abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - sacred_combat
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are public-status or vindication scenes; avoid creating
+  a broad public recognition group unless more cross-source recurrence appears.
+- Magic-gift punishment items need source review to distinguish tale-type object reversal
+  from divine judgment or sacred exchange.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and culturally specific items
+    marked for review where function is unclear.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1537
+  input_sha256: 6a48d6b25ae734ff2c7ec28f5fb3d75c6d65bf27bc64b0d2558d88b72512aaa6
+

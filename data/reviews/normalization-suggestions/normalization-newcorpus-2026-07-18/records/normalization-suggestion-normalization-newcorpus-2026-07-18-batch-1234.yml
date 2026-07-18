@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1234
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-mark-turned-into-a-fatal-sign
+  motif_id: protective_mark_turned_into_a_fatal_sign
+  label: protective mark turned into a fatal sign
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A protective mark is already related to sacred or power objects, but
+    reversal into a fatal sign changes the function toward doom or recognition.
+  cautions: Single occurrence; may fit protective_mark, death_by_fate, recognition
+    token, or an episode-specific irony depending on evidence.
+  suggested_aliases:
+  - fatal protective mark
+  - protective sign becomes death sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-religious-actions-during-a-demonic-night-attack
+  motif_id: protective_religious_actions_during_a_demonic_night_attack
+  label: Protective religious actions during a demonic night attack
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protective ritual actions against demonic threat align with apotropaic
+    protection already folded under sacred_law.
+  cautions: If the passage emphasizes expelling the demon rather than protection,
+    sacrifice/ritual_expulsion may be a secondary fit; preserve night-attack detail
+    as evidence only.
+  suggested_aliases:
+  - apotropaic actions against demons
+  - protective rite during demonic attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-whispering-adviser-averts-lethal-deception
+  motif_id: protective_whispering_adviser_averts_lethal_deception
+  label: Protective whispering adviser averts lethal deception
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A protective adviser who prevents deadly deception may function as guidance
+    or helper intervention.
+  cautions: The adviser may be human, animal, spirit, or merely a plot device; if
+    the key is deception rather than sacred guidance, trickster or exclusion may be
+    better.
+  suggested_aliases:
+  - protective adviser averts deception
+  - whispered warning saves victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proxy-in-the-bridal-chamber
+  motif_id: proxy_in_the_bridal_chamber
+  label: Proxy in the bridal chamber
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The bridal chamber context points broadly to marriage or love plots,
+    but the proxy function is too under-specified from the label alone.
+  cautions: Could involve deception, substitution, chastity test, sacred marriage,
+    kinship legitimacy, or a passage-specific plot detail; review source before mapping.
+  suggested_aliases:
+  - bridal chamber substitution
+  - marriage-bed proxy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-court-insult-requiring-vengeance
+  motif_id: public_court_insult_requiring_vengeance
+  label: Public court insult requiring vengeance
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public insult that obligates vengeance functions as an honor-trigger
+    for conflict, close to sacred combat and feud logic.
+  cautions: If the emphasis is social hierarchy or legal obligation rather than combat,
+    sacred_law or covenant may be relevant; single occurrence may be too contextual.
+  suggested_aliases:
+  - honor insult requiring vengeance
+  - court insult as feud trigger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-penance-through-threshold-service-and-repeated-narration
+  motif_id: public_penance_through_threshold_service_and_repeated_narration
+  label: Public penance through threshold service and repeated narration
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: Repeated narration as penance may make storytelling a reparative or transformative
+    act.
+  cautions: Composite label also includes threshold service and public penance; could
+    fit initiation, sacred_exchange, covenant repair, or be too episode-specific.
+  suggested_aliases:
+  - penance by repeated narration
+  - threshold service as penance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-praise-of-the-blessed-household
+  motif_id: public_praise_of_the_blessed_household
+  label: public praise of the blessed household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a scene-level speech act or social acknowledgment
+    rather than a durable mythic motif.
+  cautions: If the passage shows performative blessing with sacred effect, reconsider
+    under curse_blessing_speech; otherwise preserve only as evidence note.
+  suggested_aliases:
+  - praise of blessed household
+  - public household praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punitive-facial-mutilation-as-visible-mark
+  motif_id: punitive_facial_mutilation_as_visible_mark
+  label: punitive facial mutilation as visible mark
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Punitive marking can function as visible judgment or social-moral consequence.
+  cautions: May be legal punishment, bodily shame, gendered violence, revenge, or
+    episode-specific injury; culturally sensitive and requires source context.
+  suggested_aliases:
+  - visible punitive mutilation
+  - facial mutilation as punishment mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuing-or-adhering-supernatural-burden
+  motif_id: pursuing_or_adhering_supernatural_burden
+  label: Pursuing or adhering supernatural burden
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: An adhering supernatural burden may be a spirit attachment, pollution,
+    curse, or apotropaic/ritual problem.
+  cautions: Ambiguous wording; could belong under sacred_law, curse_blessing_speech,
+    spirit affliction/expulsion under sacrifice, or be an over-specific passage artifact.
+  suggested_aliases:
+  - adhering supernatural burden
+  - pursuing supernatural burden
+  - spirit burden attached to person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rare-eagle-tracked-by-visual-marker
+  motif_id: rare_eagle_tracked_by_visual_marker
+  label: Rare eagle tracked by visual marker
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a specific tracking detail rather than
+    a recurring symbolic or narrative motif.
+  cautions: If the eagle is a sacred guide, omen, or power animal, review under divine_intervention
+    or prophecy_divination; visual-marker detail alone should not drive motif queries.
+  suggested_aliases:
+  - eagle tracked by marker
+  - visual marker used to track rare eagle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; source evidence should decide
+  whether they are true motifs or passage-level details.
+- Do not treat protective signs, visual marks, and recognition markers as equivalent
+  without confirming narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require source-context review
+    before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1234
+  input_sha256: 124d408f329736de56bfe904959db5944ebe84d1c03fb1069c5705170685c523
+

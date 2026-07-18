@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1528
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prohibition-before-first-hunt-after-abundance-appears
+  motif_id: prohibition_before_first_hunt_after_abundance_appears
+  label: prohibition before first hunt after abundance appears
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A hunting prohibition after abundance appears likely concerns ritual
+    law, taboo, or proper human conduct toward animals/resources.
+  cautions: Single occurrence and culturally specific; may instead be an ethnographic
+    subsistence taboo, animal reciprocity motif, or passage-specific detail.
+  suggested_aliases:
+  - first_hunt_taboo
+  - hunting_prohibition_after_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-obeyed-in-form-but-defeated-in-effect
+  motif_id: prohibition_obeyed_in_form_but_defeated_in_effect
+  label: prohibition obeyed in form but defeated in effect
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a loophole structure where a rule or condition is
+    technically met but its intended protection fails.
+  cautions: If the passage is legal casuistry or oath-breaking rather than vulnerability/condition
+    logic, sacred_law or covenant may be better.
+  suggested_aliases:
+  - loophole_defeats_prohibition
+  - condition_obeyed_but_nullified
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-of-intoxicating-drink
+  motif_id: prohibition_of_intoxicating_drink
+  label: Prohibition of intoxicating drink
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The existing sacred_law group already includes prohibitions around intoxicants
+    and ritual or ethical conduct.
+  cautions: If the passage emphasizes intoxication as sacred substance rather than
+    its prohibition, sacred_substance may be a related secondary group.
+  suggested_aliases:
+  - forbidden_intoxicants
+  - intoxicant_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-healing-ceremony-with-secret-and-public-phases
+  motif_id: prolonged_healing_ceremony_with_secret_and_public_phases
+  label: Prolonged healing ceremony with secret and public phases
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A structured healing ceremony may fit ritual order and sacred practice,
+    especially if phases regulate access and purity.
+  cautions: Culturally sensitive and highly specific; avoid reducing Navajo ceremonial
+    knowledge to a generic motif without source review. Could relate to divine_intervention,
+    sacred_knowledge, or a future healing-rite group.
+  suggested_aliases:
+  - healing_ceremony_with_secret_public_phases
+  - ritual_healing_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-siege-of-a-defended-castle-with-heavy-losses
+  motif_id: prolonged_siege_of_a_defended_castle_with_heavy_losses
+  label: prolonged siege of a defended castle with heavy losses
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A siege with heavy losses is a warfare episode and can be parked under
+    sacred_combat when the conflict has mythic or heroic significance.
+  cautions: May be only a battle-summary detail rather than a reusable motif; confirm
+    sacred, heroic, or ritual function before indexing broadly.
+  suggested_aliases:
+  - heroic_siege_with_heavy_losses
+  - prolonged_castle_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promethean-charm-of-temporary-invulnerability
+  motif_id: promethean_charm_of_temporary_invulnerability
+  label: Promethean charm of temporary invulnerability
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Temporary magical invulnerability belongs with conditional or limited
+    invulnerability patterns.
+  cautions: The 'Promethean' qualifier may be source-specific; preserve it as evidence,
+    not as a separate canonical claim.
+  suggested_aliases:
+  - temporary_invulnerability_charm
+  - limited_invulnerability_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promise-bound-deed-following-completed-vengeance
+  motif_id: promise_bound_deed_following_completed_vengeance
+  label: promise-bound deed following completed vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deed compelled by a prior promise foregrounds binding speech or oath-like
+    obligation after vengeance.
+  cautions: Could also fit sacred_combat or covenant depending on whether the emphasis
+    is vengeance, oath, or social bond.
+  suggested_aliases:
+  - oath_bound_deed_after_vengeance
+  - promise_bound_vengeance_aftermath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promise-or-threat-of-vengeance-for-a-slain-lord
+  motif_id: promise_or_threat_of_vengeance_for_a_slain_lord
+  label: promise or threat of vengeance for a slain lord
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: The divine_warrior group already includes vow_of_vengeance_for_a_fallen_king_hero
+    and related warrior duty motifs.
+  cautions: If the passage centers on speech-act obligation rather than warrior honor,
+    curse_blessing_speech may be a useful secondary mapping.
+  suggested_aliases:
+  - vow_of_vengeance_for_a_slain_lord
+  - vengeance_for_fallen_lord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-encounter-delayed-for-filial-vengeance
+  motif_id: promised_encounter_delayed_for_filial_vengeance
+  label: Promised encounter delayed for filial vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The vengeance element points toward sacred_combat, but the delayed encounter
+    structure may be an episode-specific plot detail.
+  cautions: Single occurrence and composite label; could involve filial duty, oath,
+    vengeance, or courtship/encounter sequencing depending on source context.
+  suggested_aliases:
+  - filial_vengeance_delays_encounter
+  - delayed_encounter_for_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-fertile-land
+  motif_id: promised_fertile_land
+  label: Promised fertile land
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: A promised land, especially in Jewish-Christian context, functions as
+    a covenantal promise organizing divine-human and social order.
+  cautions: If the passage emphasizes abundance or sacred geography more than promise,
+    related mappings to sacred_exchange, cosmic_origin, or axis_mundi may be considered.
+  suggested_aliases:
+  - promised_land
+  - land_promise
+  - covenantal_land_promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply transmission
+  or common origin.
+- Several one-off labels are composite or episode-specific; preserve source detail
+  even when parked under broad groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Human review recommended for culturally specific ritual/healing and over-specific
+    vengeance sequence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1528
+  input_sha256: 6a4d974306119f46bf99dc9395b092dd5eb0a70eb34ee59e801f1f4dc4a698b5
+

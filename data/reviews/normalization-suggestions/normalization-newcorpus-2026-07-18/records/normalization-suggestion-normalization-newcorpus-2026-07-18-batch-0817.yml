@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0817
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealed-baited-pit-captures-a-crop-raiding-animal
+  motif_id: concealed_baited_pit_captures_a_crop_raiding_animal
+  label: concealed baited pit captures a crop-raiding animal
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific trapping episode rather than a broad
+    recurring motif in the current taxonomy.
+  cautions: If the source frames the animal as a trickster, culture opponent, or sacred
+    animal antagonist, review for trickster or sacred combat; otherwise preserve as
+    evidence detail only.
+  suggested_aliases:
+  - baited pit trap for crop-raiding animal
+  - animal captured in concealed pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealing-fog-summoned-for-approach-to-dangerous-beast
+  motif_id: concealing_fog_summoned_for_approach_to_dangerous_beast
+  label: Concealing fog summoned for approach to dangerous beast
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be magical aid, battle stratagem, weather control, or approach
+    to a monster; the current groups do not identify the dominant function from the
+    label alone.
+  cautions: Do not map to trickster merely because concealment is present. If combat
+    with a chaos beast is central, divine_warrior or sacred_combat may fit; if supernatural
+    guidance is central, divine_intervention may fit.
+  suggested_aliases:
+  - summoned fog as concealment
+  - magical fog for approach to beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-inside-animal-or-egg-enclosure
+  motif_id: concealment_inside_animal_or_egg_enclosure
+  label: concealment inside animal or egg enclosure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is concealment within a body-like or egg-like enclosure,
+    matching container motifs that hold life, danger, or transformative power.
+  cautions: If the egg is cosmogonic, cosmic_origin or cosmic_egg is more appropriate;
+    if it is specifically a hidden life-token, external_soul should be considered.
+  suggested_aliases:
+  - concealment in animal enclosure
+  - concealment in egg enclosure
+  - body-like container concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-through-disguise-and-humble-service
+  motif_id: concealment_through_disguise_and_humble_service
+  label: concealment through disguise and humble service
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on hidden identity maintained through disguise and
+    altered social role, closely related to the hidden-identity recognition complex.
+  cautions: If the disguise is primarily a shapeshifting body change, shapeshifter
+    may be secondary; if it is part of exile or quest structure, hero_journey may
+    also apply.
+  suggested_aliases:
+  - hidden identity through humble service
+  - disguise as servant
+  - concealed identity in lowly role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.condemnation-to-wild-beasts-after-defiance
+  motif_id: condemnation_to_wild_beasts_after_defiance
+  label: Condemnation to wild beasts after defiance
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be martyrdom ordeal, judicial punishment, divine deliverance,
+    or animal miracle depending on passage evidence.
+  cautions: Animal presence alone should not place it in animals/trickster. If sacred
+    witness survives beasts, divine_intervention or initiation may fit; if state punishment
+    is central, sacred_combat or divine_judgment may not be appropriate without sacred
+    framing.
+  suggested_aliases:
+  - exposure to wild beasts after defiance
+  - beast condemnation for defiant witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.condemned-woman-exposed-to-wild-beasts-in-a-public-arena
+  motif_id: condemned_woman_exposed_to_wild_beasts_in_a_public_arena
+  label: condemned woman exposed to wild beasts in a public arena
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a specific martyrdom or punishment scene and its motif function
+    cannot be determined from the label alone.
+  cautions: May duplicate the broader 'condemnation to wild beasts after defiance'
+    item. Review for martyr ordeal, miraculous protection, gendered persecution, or
+    textual episode specificity before indexing.
+  suggested_aliases:
+  - woman exposed to beasts in arena
+  - public arena beast ordeal
+  - condemned woman and wild beasts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-between-human-people-and-animal-people
+  motif_id: conflict_between_human_people_and_animal_people
+  label: conflict between human people and animal people
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Peoples and Human-Animal Relations
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label names a broad mythic social conflict between humans and animal-person
+    communities not well covered by trickster, shapeshifter, or sacred combat.
+  cautions: Review culturally specific ontology carefully; 'animal people' may be
+    persons in the source tradition, not merely symbolic animals. If the conflict
+    is a single war episode, sacred_combat may suffice.
+  suggested_aliases:
+  - human people versus animal people
+  - war between humans and animal persons
+  - animal people conflict
+  suggested_new_group:
+    id: animal_peoples_human_animal_relations
+    label: Animal Peoples and Human-Animal Relations
+    description: Myths in which animals appear as persons, peoples, spouses, kin groups,
+      rivals, helpers, or social communities whose relations with humans establish
+      boundaries, obligations, conflict, kinship, or transformation.
+    parent_group_ids:
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - trickster
+    - sacred_law
+    - culture_hero
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover trickster behavior,
+      shapeshifting, and combat, but not animal-person societies and human-animal
+      social relations as a recurring ontological motif.
+- suggestion_id: normalization.suggestion.conjured-visible-animal-familiar
+  motif_id: conjured_visible_animal_familiar
+  label: Conjured visible animal familiar
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A conjured animal familiar functions as a supernatural helper or spirit
+    agent, aligning with divine_intervention's tutelary spirit and animal helper scope.
+  cautions: If the animal is a separable soul, totemic double, or shamanic familiar
+    rather than external aid, external_soul or a future animal-persons/spirit-helper
+    group may be better.
+  suggested_aliases:
+  - animal familiar
+  - visible animal familiar
+  - conjured spirit animal helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contagious-or-accidental-transformation-into-vampire
+  motif_id: contagious_or_accidental_transformation_into_vampire
+  label: contagious or accidental transformation into vampire
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transformation into a vampire belongs primarily to active dangerous dead
+    and haunting/vengeance complexes rather than ordinary shapeshifting.
+  cautions: If the passage emphasizes bodily metamorphosis rather than postmortem
+    activity, shapeshifter may be secondary; if ritual prevention is central, sacred_law
+    may also apply.
+  suggested_aliases:
+  - accidental vampire transformation
+  - contagious vampirism
+  - becoming vampire through contagion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-for-a-hero-s-horses-and-chariot
+  motif_id: contest_for_a_hero_s_horses_and_chariot
+  label: Contest for a hero's horses and chariot
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contest centers on possession of heroic equipment and prestige objects,
+    fitting sacred treasures and power objects more than animal motifs.
+  cautions: If the contest follows a hero's death, heroic_funeral_rites or warrior
+    honor may be secondary; if succession or authority is at stake, royal_legitimacy
+    may apply.
+  suggested_aliases:
+  - contest over heroic horses and chariot
+  - hero's chariot as prize
+  - contest for heroic war gear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were auto-bucketed under animals because animals appear
+  in the wording, but their narrative functions often point to punishment, hidden
+  identity, sacred objects, supernatural aid, or restless dead.
+- Single-occurrence, episode-specific labels should generally remain evidence details
+  unless source review shows recurrence across traditions or a clear durable motif
+  function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft provisional placements generated for taxonomy review; items involving
+    animal-person ontology, martyrdom/beast exposure, and magical fog need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0817
+  input_sha256: 4665c8e959f4445e1243318db31fd3fcc272b8e18bf74b87db8cc9820de318d9
+

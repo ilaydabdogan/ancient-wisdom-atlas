@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1309
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cattle-contribution-for-military-sustenance
+  motif_id: cattle_contribution_for_military_sustenance
+  label: Cattle contribution for military sustenance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cattle supplied for an armed expedition fits the cattle-raid and martial-economy
+    complex already grouped under sacred combat.
+  cautions: May be a logistical passage detail rather than a symbolic motif if no
+    raid, tribute, obligation, or ritualized warfare is emphasized.
+  suggested_aliases:
+  - cattle contribution for war band
+  - livestock levy for military sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-driving-frame
+  motif_id: cattle_driving_frame
+  label: Cattle-driving frame
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may refer to a cattle-driving narrative frame related to cattle
+    raids, but it could also be a structural or editorial label.
+  cautions: Review source context; if this labels a tale type or framing device rather
+    than an event motif, exclude as a meta/textual artifact.
+  suggested_aliases:
+  - cattle-driving narrative frame
+  - cattle-driving episode frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-foray-tale-grouping
+  motif_id: cattle_foray_tale_grouping
+  label: Cattle-foray tale grouping
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a tale grouping or classification category, not a
+    narrative motif within a passage.
+  cautions: If individual source passages describe a cattle foray, map those episodes
+    to sacred_combat rather than preserving the grouping label for motif queries.
+  suggested_aliases:
+  - cattle-foray tale category
+  - cattle-raid tale grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-lifting-as-martial-provocation
+  motif_id: cattle_lifting_as_martial_provocation
+  label: cattle-lifting as martial provocation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Livestock theft functioning as a trigger for combat directly matches
+    the cattle-raid catalyst complex under sacred combat.
+  cautions: Do not infer Celtic-style cattle raid structure from a Hindu occurrence;
+    map only the shared function of raid/provocation.
+  suggested_aliases:
+  - cattle lifting as war provocation
+  - livestock theft provoking battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-and-counter-ambush
+  motif_id: cattle_raid_and_counter_ambush
+  label: cattle raid and counter-ambush
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A cattle raid with counter-ambush is a specific tactical variant of the
+    established cattle-raid/sacred-combat pattern.
+  cautions: Likely too episode-specific to promote; preserve the ambush detail as
+    evidence under the broader cattle-raid complex.
+  suggested_aliases:
+  - cattle raid with counter-ambush
+  - cattle foray and ambush reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-followed-by-pursuit-and-restitution
+  motif_id: cattle_raid_followed_by_pursuit_and_restitution
+  label: Cattle raid followed by pursuit and restitution
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Raid, pursuit, and recovery/restitution are a detailed sequence within
+    the cattle-raid conflict pattern.
+  cautions: Restitution may also involve sacred law or exchange if compensation is
+    the core issue; current label mainly signals martial raiding sequence.
+  suggested_aliases:
+  - cattle raid pursuit and restitution
+  - livestock raid and recovery expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-or-cattle-tribute-demand
+  motif_id: cattle_raid_or_cattle_tribute_demand
+  label: Cattle raid or cattle tribute demand
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Both raiding and tribute demand can function as martial pressure around
+    cattle wealth, fitting the cattle-raid complex.
+  cautions: If the passage emphasizes taxation, sovereignty, or tribute hierarchy
+    more than combat, royal_legitimacy or sacred_exchange may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - cattle raid or tribute demand
+  - livestock tribute demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-resisted-by-a-cowherd
+  motif_id: cattle_raid_resisted_by_a_cowherd
+  label: Cattle raid resisted by a cowherd
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: high
+  rationale: A defender resisting a cattle raid is a role-specific variant of the
+    cattle-raid conflict pattern.
+  cautions: Cowherd role may be locally significant, but the label is likely too narrow
+    for a new group unless recurring across sources.
+  suggested_aliases:
+  - cowherd resists cattle raid
+  - herdsman defends cattle from raiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-seizure-as-compensation-in-a-hag-dispute
+  motif_id: cattle_seizure_as_compensation_in_a_hag_dispute
+  label: cattle seizure as compensation in a hag dispute
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines compensation, cattle seizure, and a hag dispute; the
+    controlling motif depends on source context.
+  cautions: Could fit sacred_combat if seizure triggers conflict, sacred_exchange/sacred_law
+    if compensation is central, or be an over-specific episode detail. Review culturally
+    loaded 'hag' wording.
+  suggested_aliases:
+  - cattle seizure as compensation
+  - livestock compensation in supernatural woman dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-tribute-for-a-royal-raid
+  motif_id: cattle_tribute_for_a_royal_raid
+  label: cattle tribute for a royal raid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cattle tribute connected to a royal raid belongs with ritually or politically
+    charged cattle warfare.
+  cautions: If tribute legitimizes kingship or hierarchy more than warfare, royal_legitimacy
+    should be considered as a secondary placement.
+  suggested_aliases:
+  - cattle tribute for raid
+  - royal cattle tribute raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch cluster around cattle raids, tribute, and livestock seizure;
+  the existing sacred_combat group already contains cattle_raid_catalyst and multiple
+  cattle-raid aliases, so new groups are not recommended from these single-occurrence
+  labels.
+- Labels that describe tale grouping, frames, or highly contextual disputes should
+  be checked for editorial/meta status before indexing as motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify whether each cattle
+    label is an in-passage motif or a scholarly/tale-type artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1309
+  input_sha256: 85be4f4ae5ca763e19d25bafd179e4dd32c9b7af07a447b3cc45f0093d496c14
+

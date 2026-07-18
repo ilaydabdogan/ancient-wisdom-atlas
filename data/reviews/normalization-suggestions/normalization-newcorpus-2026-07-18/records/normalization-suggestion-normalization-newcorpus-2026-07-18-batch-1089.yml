@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1089
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-warrior-marked-by-fixed-martial-epithet
+  motif_id: heroic_warrior_marked_by_fixed_martial_epithet
+  label: Heroic warrior marked by fixed martial epithet
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A fixed epithet is more likely a formulaic or stylistic textual feature
+    than a reusable narrative motif.
+  cautions: If the epithet confers recognized martial status or ritual identity in
+    the passage, review under divine_warrior or sacred_combat instead.
+  suggested_aliases:
+  - formulaic_martial_epithet
+  - heroic_martial_epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-watcher-with-extraordinary-sight-fails-after-momentary-sleep
+  motif_id: heroic_watcher_with_extraordinary_sight_fails_after_momentary_sleep
+  label: Heroic watcher with extraordinary sight fails after momentary sleep
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Extraordinary sight suggests altered perception, but the narrative function
+    may be failed vigilance, ordeal, or heroic combat setup.
+  cautions: Single, composite label; do not map to dream_and_vision unless the sight/perception
+    is the core motif rather than a plot detail.
+  suggested_aliases:
+  - extraordinary_sight_failed_watch
+  - failed_heroic_watch
+  - sleep_interrupts_supernatural_vigilance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-weapon-diminished-against-oversized-sleeper
+  motif_id: heroic_weapon_diminished_against_oversized_sleeper
+  label: heroic weapon diminished against oversized sleeper
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic weapon failing or becoming ineffective against an extraordinary
+    opponent fits the invulnerability/alternate-means combat complex.
+  cautions: If the focus is the weapon as a power object rather than the opponent's
+    resistance, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - weapon_ineffective_against_giant
+  - heroic_weapon_fails_against_oversized_opponent
+  - weapon_diminished_against_invulnerable_sleeper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-weapon-displays-overwhelming-strength
+  motif_id: heroic_weapon_displays_overwhelming_strength
+  label: Heroic weapon displays overwhelming strength
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon whose power is displayed functions as a heroic power object
+    conferring martial ability.
+  cautions: If the scene is only a combat feat with an ordinary weapon, sacred_combat
+    or divine_warrior may be better; preserve weapon-specific evidence.
+  suggested_aliases:
+  - overwhelming_heroic_weapon
+  - powerful_heroic_weapon
+  - weapon_as_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-weapon-forging-and-arming-of-companions
+  motif_id: heroic_weapon_forging_and_arming_of_companions
+  label: heroic weapon-forging and arming of companions
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapon forging belongs with sacred craft when making powerful objects
+    prepares heroic or cosmic action.
+  cautions: If the emphasis is the companions' battle role rather than the forging,
+    sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - heroic_weapon_forging
+  - arming_companions_with_forged_weapons
+  - forging_weapons_for_heroic_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-welcome-and-praise
+  motif_id: heroic_welcome_and_praise
+  label: heroic welcome and praise
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate return, public honor, royal reception, or just
+    a scene-level social detail.
+  cautions: Map to return only if the welcome marks homecoming after ordeal; otherwise
+    may be too generic for pattern queries.
+  suggested_aliases:
+  - heroic_reception
+  - praise_of_returning_hero
+  - public_heroic_acclaim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-wrestling-defeat-of-an-adversary
+  motif_id: heroic_wrestling_defeat_of_an_adversary
+  label: heroic wrestling defeat of an adversary
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Single combat by wrestling is a martial ordeal and defeat of an adversary
+    within the sacred combat field.
+  cautions: If no sacred or ritual significance is present, this may be a generic
+    combat episode rather than a durable motif.
+  suggested_aliases:
+  - heroic_wrestling_victory
+  - wrestling_single_combat
+  - adversary_defeated_by_wrestling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-forest-refuge-for-a-surviving-hero
+  motif_id: hidden_forest_refuge_for_a_surviving_hero
+  label: Hidden forest refuge for a surviving hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden refuge for a surviving hero fits exile, concealment, and survival
+    during the hero's journey.
+  cautions: If the refuge preserves life through catastrophe, ark_vessel may be secondary;
+    if forest enchantment dominates, otherworld may fit better.
+  suggested_aliases:
+  - hero_hidden_in_forest_refuge
+  - surviving_hero_in_concealment
+  - forest_refuge_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-heart-versus-outward-profession
+  motif_id: hidden_heart_versus_outward_profession
+  label: Hidden heart versus outward profession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: The contrast between inward truth and outward profession points to moral
+    reckoning of hidden intention.
+  cautions: Could belong under sacred_law or wisdom if used as ethical teaching rather
+    than judgment; review Islamic theological context carefully.
+  suggested_aliases:
+  - inward_intention_versus_outward_claim
+  - hidden_heart_and_public_profession
+  - judgment_of_hidden_intention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-hero-supplies-impossible-bridal-garments
+  motif_id: hidden_hero_supplies_impossible_bridal_garments
+  label: hidden hero supplies impossible bridal garments
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden hero providing impossible bridal items likely functions as concealed
+    identity proof in a marriage or recognition plot.
+  cautions: If the impossible task or bride-winning contest is central, sacred_love
+    may be a secondary mapping; garment detail may be over-specific.
+  suggested_aliases:
+  - hidden_hero_provides_bridal_tokens
+  - impossible_bridal_garments_as_identity_proof
+  - concealed_hero_fulfills_bridal_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and combat-adjacent; placements should remain
+  provisional until passage evidence confirms sacred, ritual, or narrative function.
+- Avoid treating generic heroic action as sacred combat unless the source frames the
+  contest, weapon, or reception as more than a scene detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1089
+  input_sha256: eff0178e2accacf15646a372730a779ef1dfcae4506dab7596de232555e921c5
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0611
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.katun-based-chronological-ordering
+  motif_id: katun_based_chronological_ordering
+  label: katun-based chronological ordering
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: Katun ordering is a culturally specific sacred/calendar time-structuring
+    system rather than primarily kingship or law.
+  cautions: Maya calendrical terminology is specialized; confirm passage function
+    before broad indexing.
+  suggested_aliases:
+  - katun cycle
+  - katun chronology
+  - calendar-based historical ordering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-instigated-assassination-of-a-heroic-in-law
+  motif_id: kin_instigated_assassination_of_a_heroic_in_law
+  label: kin-instigated assassination of a heroic in-law
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key structure is violence arranged within affinal kinship, making
+    violated trust the main motif function.
+  cautions: If the passage emphasizes feud politics or heroic death rather than betrayal,
+    sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - betrayal by affinal kin
+  - in-law betrayal leading to assassination
+  - kin-arranged murder of hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-mediated-restraint-on-domestic-punishment
+  motif_id: kin_mediated_restraint_on_domestic_punishment
+  label: Kin-mediated restraint on domestic punishment
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social regulation and kinship mediation, which may
+    fit sacred law or social order if ritually or normatively framed.
+  cautions: Could be an ethnographic/legal detail rather than a mythic motif; Navajo
+    kinship and justice context needs careful human review.
+  suggested_aliases:
+  - kinship restraint of punishment
+  - domestic punishment mediated by kin
+  - kin-mediated social restraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-captured-in-battle
+  motif_id: king_captured_in_battle
+  label: king captured in battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A ruler's capture is a battlefield reversal within heroic or royal combat
+    narrative.
+  cautions: Single occurrence and generic event label; only index if capture affects
+    legitimacy, fate, or sacred order rather than plot mechanics.
+  suggested_aliases:
+  - royal capture in battle
+  - captured king
+  - king taken prisoner in war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-defeats-youthful-challenger-in-wrestling-combat
+  motif_id: king_defeats_youthful_challenger_in_wrestling_combat
+  label: king defeats youthful challenger in wrestling combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A king defeating a young challenger can function as a legitimacy-maintaining
+    ordeal or contest of rule.
+  cautions: If the episode is only athletic combat, sacred_combat may be better; verify
+    that royal authority is at stake.
+  suggested_aliases:
+  - king defeats challenger
+  - royal wrestling contest
+  - ruler overcomes youthful rival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-dies-from-grief
+  motif_id: king_dies_from_grief
+  label: king dies from grief
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: Death caused by grief belongs with mourning and tragic loss rather than
+    kingship as such.
+  cautions: If the death fulfills a curse, vow, or fate, add secondary review under
+    curse_blessing_speech or death_by_fate.
+  suggested_aliases:
+  - death from grief
+  - ruler dies of sorrow
+  - grief-caused death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-enters-battle-after-subordinate-champions-fall
+  motif_id: king_enters_battle_after_subordinate_champions_fall
+  label: king enters battle after subordinate champions fall
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The ruler assumes direct warrior role after champions fail, aligning
+    with royal or heroic sacred combat.
+  cautions: Highly episode-specific; may be a battle-sequence detail unless the king's
+    intervention has sacred or cosmic significance.
+  suggested_aliases:
+  - king enters combat after champions fall
+  - ruler fights after warriors are defeated
+  - royal warrior intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-given-arms-uniquely-fit-the-young-hero
+  motif_id: king_given_arms_uniquely_fit_the_young_hero
+  label: King-given arms uniquely fit the young hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Special arms conferred by a king and uniquely fitting the hero function
+    as power objects and recognition of heroic destiny.
+  cautions: Could also support royal_legitimacy or initiation if the arming ceremony
+    marks status transformation.
+  suggested_aliases:
+  - heroic arms uniquely fit bearer
+  - king-gifted weapons fit hero
+  - weapons as proof of heroic identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-halts-endangered-hero-and-orders-healing
+  motif_id: king_halts_endangered_hero_and_orders_healing
+  label: king halts endangered hero and orders healing
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A king's protective command may express royal authority and care for
+    a heroic subordinate, but motif function is unclear.
+  cautions: May be only a narrative action detail; if healing is miraculous, divine_intervention
+    or sacred_treasures may be relevant.
+  suggested_aliases:
+  - royal command to heal hero
+  - king restrains wounded hero
+  - ruler orders healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-s-fortune-embodied-as-a-departing-woman
+  motif_id: king_s_fortune_embodied_as_a_departing_woman
+  label: king's fortune embodied as a departing woman
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The king's prosperity or mandate personified as a woman relates to sovereignty,
+    fortune, and loss of royal legitimacy.
+  cautions: May overlap with sacred_feminine or fate/fortune motifs not cleanly represented;
+    review whether the woman is a goddess, fate figure, or allegorical fortune.
+  suggested_aliases:
+  - royal fortune personified as woman
+  - departing sovereignty woman
+  - king's luck leaves in female form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence royal or battle episode details;
+  preserve as evidence unless passage context shows recurrent motif function.
+- For king-related labels, distinguish royal legitimacy from ordinary plot action
+  or combat sequence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific calendrical and kinship
+    labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0611
+  input_sha256: 536fd39b39b09f34b59f9fd739543595f1e6ae0860dbdb177699adee4b5d01c0
+

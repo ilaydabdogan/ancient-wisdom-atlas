@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0808
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animals-driven-into-enclosure
+  motif_id: animals_driven_into_enclosure
+  label: animals driven into enclosure
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an animal-management scene but does not reveal whether
+    the function is trickery, hunting, capture, ritual enclosure, or episode detail.
+  cautions: Single occurrence and too contextual to place without source evidence;
+    avoid assuming trickster or threshold function from enclosure alone.
+  suggested_aliases:
+  - animal enclosure
+  - animals herded into enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animals-gathering-against-natural-behavior-under-cosmic-terror
+  motif_id: animals_gathering_against_natural_behavior_under_cosmic_terror
+  label: animals gathering against natural behavior under cosmic terror
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animals behaving unnaturally under cosmic terror reads as an eschatological
+    or judgment portent rather than an animal-transformation motif.
+  cautions: If the passage emphasizes end-time cosmic disorder rather than judgment,
+    world_ages_cosmic_decline or dream_and_vision may be relevant secondary review
+    targets.
+  suggested_aliases:
+  - animals panic under cosmic terror
+  - unnatural animal gathering as cosmic portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animals-indicate-the-captor-s-path
+  motif_id: animals_indicate_the_captor_s_path
+  label: animals indicate the captor’s path
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals revealing a captor's route function as guides or helpers directing
+    a search or rescue.
+  cautions: If the animals act through ordinary tracking rather than supernatural
+    aid, this may be an episode detail; if part of a beloved-recovery quest, hero_journey
+    or sacred_love may be secondary.
+  suggested_aliases:
+  - animal guides reveal path
+  - animals guide pursuit
+  - animals show captor's trail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animals-mourning-a-slain-master
+  motif_id: animals_mourning_a_slain_master
+  label: Animals mourning a slain master
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: high
+  rationale: The motif centers on mourning for a slain figure, with animals serving
+    as mourners rather than as tricksters or shapeshifters.
+  cautions: Preserve the animal-mourner detail; if tied to heroic funeral honors,
+    heroic_funeral_rites may be a secondary mapping.
+  suggested_aliases:
+  - animal lament for slain master
+  - animals mourn dead master
+  - animal grief for slain hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animals-sensing-hidden-corruption
+  motif_id: animals_sensing_hidden_corruption
+  label: animals sensing hidden corruption
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals detect concealed moral or spiritual corruption, functioning as
+    witnesses to hidden wrongdoing or impurity.
+  cautions: Could instead belong under sacred_law if the corruption is ritual pollution,
+    or divine_intervention if animals are explicit divine instruments.
+  suggested_aliases:
+  - animals detect hidden corruption
+  - animal sensing of concealed impurity
+  - animals reveal hidden wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animals-sharing-human-grief
+  motif_id: animals_sharing_human_grief
+  label: animals sharing human grief
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: high
+  rationale: The motif emphasizes grief and mourning extended to animals, fitting
+    the lament complex.
+  cautions: May be an affective scene rather than a durable motif unless animal participation
+    in lament recurs across passages.
+  suggested_aliases:
+  - animal participation in mourning
+  - animals share grief
+  - animals lament with humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animate-household-objects-and-animals-retaliate
+  motif_id: animate_household_objects_and_animals_retaliate
+  label: animate household objects and animals retaliate
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animated objects and animals retaliating suggests a judgment or reversal
+    where abused beings punish offenders.
+  cautions: Also overlaps sacred_craft because objects are animated; choose divine_judgment
+    only where retaliation repairs moral order or punishes mistreatment.
+  suggested_aliases:
+  - animated objects retaliate
+  - objects and animals punish humans
+  - retaliation by household things
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animate-iron-animal-adversary
+  motif_id: animate_iron_animal_adversary
+  label: animate iron animal adversary
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animated iron animal is best treated as a crafted or manufactured
+    being functioning as an adversary.
+  cautions: If the narrative focus is combat against the adversary, sacred_combat
+    or conditional_invulnerability_hidden_weakness may be secondary; avoid creating
+    a metal-animal motif from one occurrence.
+  suggested_aliases:
+  - animated iron animal
+  - metal animal adversary
+  - crafted animal opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animated-driftwood-spouse-as-sea-animal-provider
+  motif_id: animated_driftwood_spouse_as_sea_animal_provider
+  label: Animated driftwood spouse as sea-animal provider
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animation, spouse relationship, driftwood, and animal
+    provision, making the dominant motif unclear.
+  cautions: Could fit sacred_craft, sacred_exchange, divine_intervention, sacred_love,
+    or animal-source abundance depending on the passage; culturally specific Inuit
+    context needs review.
+  suggested_aliases:
+  - animated driftwood spouse
+  - driftwood spouse provides sea animals
+  - wooden spouse as animal provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animation-of-a-formed-clay-animal
+  motif_id: animation_of_a_formed_clay_animal
+  label: Animation of a formed clay animal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: child
+  confidence: high
+  rationale: The motif is a clear instance of a fashioned clay creature being animated,
+    already represented by the sacred_craft animation cluster.
+  cautions: If the passage emphasizes divine miracle or prophetic sign more than craft,
+    divine_intervention or theophany may be relevant secondary mappings.
+  suggested_aliases:
+  - clay animal animation
+  - formed clay creature brought to life
+  - animation of clay creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels in this batch are animal-scene details but their narrative functions
+  vary: guidance, mourning, judgment, crafted animation, or episode-specific action.'
+- Do not create a broad animal motif group from these labels alone; most can be reviewed
+  under existing functional groups rather than animal taxonomy.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should confirm whether animal
+    agency is supernatural, symbolic, ritual, or merely narrative detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0808
+  input_sha256: 0c61ddfc7e36a2fc08a90c789424fd6ae60176dc5b6bb4b2739a5fdbb48b9cd4
+

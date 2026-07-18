@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1454
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kin-recognition-leading-to-alliance
+  motif_id: kin_recognition_leading_to_alliance
+  label: Kin recognition leading to alliance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition of kinship functions as proof of identity that changes social
+    relations and enables alliance.
+  cautions: If the passage emphasizes diplomacy or fosterage rather than recognition
+    mechanics, royal_legitimacy or sacred_law may be secondary fits.
+  suggested_aliases:
+  - kin recognition
+  - recognition of kinship
+  - kinship recognition alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-recognizes-transformed-relative-among-food
+  motif_id: kin_recognizes_transformed_relative_among_food
+  label: Kin recognizes transformed relative among food
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin recognition, bodily transformation, and food context;
+    the dominant function is unclear from label alone.
+  cautions: Could map to recognition_tokens_hidden_identity, shapeshifter, death_and_transformation,
+    sacred_substance, or a cannibalism/food taboo context depending on source evidence.
+  suggested_aliases:
+  - recognition of transformed kin
+  - transformed relative recognized in food
+  - kin recognition after transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-slaying-for-treasure
+  motif_id: kin_slaying_for_treasure
+  label: kin-slaying for treasure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Killing kin for treasure centers on violated familial trust motivated
+    by possession or greed.
+  cautions: May also fit divine_judgment if the passage emphasizes punishment, or
+    sacred_treasures if the treasure itself has sacred agency.
+  suggested_aliases:
+  - kinslaying for treasure
+  - kin murder for treasure
+  - familial betrayal for wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-sold-for-silver-into-a-foreign-land
+  motif_id: kin_sold_for_silver_into_a_foreign_land
+  label: kin sold for silver into a foreign land
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Selling a relative for silver is a betrayal of kinship obligations and
+    protection.
+  cautions: The label is episode-specific; if indexed for exile or providential journey,
+    hero_journey may be a secondary review path.
+  suggested_aliases:
+  - kin sold for silver
+  - relative sold into foreign land
+  - familial betrayal by sale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-vengeance-for-hogni
+  motif_id: kin_vengeance_for_hogni
+  label: Kin vengeance for Hogni
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Kin vengeance for a named fallen figure fits the vengeance-for-fallen-hero
+    combat complex already represented under sacred_combat.
+  cautions: Named-person specificity should be preserved as evidence detail, not promoted
+    as a canonical motif.
+  suggested_aliases:
+  - kin vengeance for fallen hero
+  - vengeance for Hogni
+  - avenging slain kinsman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kind-and-unkind-female-lesser-deities-grouped-as-norns
+  motif_id: kind_and_unkind_female_lesser_deities_grouped_as_norns
+  label: Kind and unkind female lesser deities grouped as Norns
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: uncertain
+  confidence: low
+  rationale: Norns are fate figures, but the label appears to describe classification
+    of female lesser deities rather than a clear narrative motif.
+  cautions: May be a scholarly grouping or interpretive artifact; map only if the
+    passage shows fate-governing female figures acting in the narrative.
+  suggested_aliases:
+  - female fate figures grouped as Norns
+  - kind and unkind Norn-like deities
+  - lesser fate goddesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kind-old-woman-helper-completes-impossible-work
+  motif_id: kind_old_woman_helper_completes_impossible_work
+  label: kind old woman helper completes impossible work
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural or elder helper completing impossible tasks is a common
+    tale function, but no current group cleanly captures helper-task motifs.
+  cautions: Could be divine_intervention, initiation ordeal, or fairy-tale helper
+    rather than a sacred motif; source context is needed before adding a group.
+  suggested_aliases:
+  - old woman helper
+  - supernatural helper completes impossible task
+  - helper performs impossible work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kindness-to-hungry-and-thirsty-creatures
+  motif_id: kindness_to_hungry_and_thirsty_creatures
+  label: kindness to hungry and thirsty creatures
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Compassionate care for vulnerable creatures fits ethical conduct and
+    sacred social obligation patterns.
+  cautions: If the creatures test the hero or later repay kindness, hospitality_test_stranger_guest
+    or sacred_exchange may be secondary fits.
+  suggested_aliases:
+  - kindness to needy creatures
+  - feeding hungry and thirsty beings
+  - compassion toward vulnerable creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinsman-protector-against-communal-hostility
+  motif_id: kinsman_protector_against_communal_hostility
+  label: kinsman protector against communal hostility
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A kinsman acting as protector reflects binding social obligation and
+    protective bond within kinship order.
+  cautions: If the passage centers on divine protection or prophetic mission, divine_intervention
+    may be a better secondary mapping.
+  suggested_aliases:
+  - kinsman protector
+  - kin protection against hostility
+  - protective kinship bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinsman-sent-as-bait-to-provoke-vengeance
+  motif_id: kinsman_sent_as_bait_to_provoke_vengeance
+  label: kinsman sent as bait to provoke vengeance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using a kinsman to trigger vengeance functions as a conflict catalyst
+    within feud or heroic combat logic.
+  cautions: Could also indicate betrayal_violated_trust if the focus is exploitation
+    of kin rather than the vengeance sequence.
+  suggested_aliases:
+  - kin used as bait for vengeance
+  - kinsman bait provokes feud
+  - vengeance provoked through kinsman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and kinship-specific; preserve local evidence
+  and avoid promoting named or episode-specific labels without recurrence.
+- Kinship betrayal, recognition, and vengeance split across existing groups by narrative
+  function rather than by shared kin terminology.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-normalization-suggester
+  reviewed_at: ''
+  notes: Provisional placements only; items with composite or classificatory wording
+    flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1454
+  input_sha256: 2771d7d24badff1c511d86303ade9eed096450f9ffdf29ae8a7955a619e3abb8
+

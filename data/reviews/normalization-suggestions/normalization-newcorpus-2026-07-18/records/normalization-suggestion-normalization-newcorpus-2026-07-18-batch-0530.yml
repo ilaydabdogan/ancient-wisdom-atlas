@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0530
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.praise-song-exchanged-for-royal-reward
+  motif_id: praise_song_exchanged_for_royal_reward
+  label: praise song exchanged for royal reward
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The label centers on reciprocal exchange: praise-song given for royal
+    reward.'
+  cautions: Could instead fit storytelling_as_power or royal_legitimacy if the song
+    authorizes rule or preserves fame rather than functioning as exchange.
+  suggested_aliases:
+  - praise_song_for_reward
+  - poetic_praise_reward_exchange
+  - royal_reward_for_praise_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-through-song-dance-and-instruments
+  motif_id: praise_through_song_dance_and_instruments
+  label: Praise through song, dance, and instruments
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Musical and bodily praise functions as an offering or devotional response
+    to the sacred.
+  cautions: If the passage emphasizes supernatural efficacy of music rather than praise,
+    enchanting_music may be a secondary fit; if it is only liturgical description,
+    keep granular.
+  suggested_aliases:
+  - ritual_praise_with_music
+  - praise_with_song_dance_and_instruments
+  - musical_praise_as_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preservation-and-erasure-of-royal-memory
+  motif_id: preservation_and_erasure_of_royal_memory
+  label: Preservation and erasure of royal memory
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Royal memory can support or attack legitimate rule and sacred kingship.
+  cautions: May be historiographic, inscriptional, or editorial commentary rather
+    than a mythic motif; source evidence is needed before indexing.
+  suggested_aliases:
+  - royal_memory_preserved_or_erased
+  - erasure_of_royal_memory
+  - royal_commemoration_and_erasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserved-archetype-of-revelation
+  motif_id: preserved_archetype_of_revelation
+  label: Preserved archetype of revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label points broadly to revelation as preserved sacred knowledge.
+  cautions: The wording sounds analytical or theological rather than a narrative motif;
+    verify whether it refers to an actual revelatory object, text, or event.
+  suggested_aliases:
+  - preserved_revelation
+  - archetypal_revelation
+  - revelation_preserved_as_model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prestige-object-transmitted-through-named-holders
+  motif_id: prestige_object_transmitted_through_named_holders
+  label: prestige object transmitted through named holders
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prestige object passed through named holders functions as a power or
+    authority object with lineage history.
+  cautions: If the list of holders is only antiquarian provenance, it may be a textual
+    artifact; if it proves identity or succession, royal_legitimacy or recognition_tokens_hidden_identity
+    may also apply.
+  suggested_aliases:
+  - prestige_object_lineage
+  - transmitted_power_object
+  - heirloom_object_with_named_holders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primordial-animal-unity-and-common-speech
+  motif_id: primordial_animal_unity_and_common_speech
+  label: primordial animal unity and common speech
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Primordial Animal-Human Unity and Common Speech
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif describes a primordial state of shared animal speech and unity
+    not well captured by existing creation or trickster groups.
+  cautions: Could be an origin-age or lost-communication motif; review culturally
+    specific context before generalizing.
+  suggested_aliases:
+  - common_speech_of_animals
+  - primordial_animal_speech
+  - lost_animal_human_communication
+  suggested_new_group:
+    id: primordial_animal_human_unity
+    label: Primordial Animal-Human Unity and Common Speech
+    description: A primordial condition in which humans, animals, or beings share
+      speech, social unity, or mutual intelligibility before later separation, differentiation,
+      or loss.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - world_ages_cosmic_decline
+    - sacred_knowledge
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin, wisdom,
+      animals, and transformation, but not the recurring structure of original animal-human
+      communicative unity and its possible loss.
+- suggestion_id: normalization.suggestion.primordial-plant-food-provision
+  motif_id: primordial_plant_food_provision
+  label: Primordial plant food provision
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Plant food provided in a primordial setting is sacred food or life-sustaining
+    substance from divine order.
+  cautions: If the passage emphasizes Edenic origin or creation order, cosmic_origin
+    or world_ages_cosmic_decline may be secondary; avoid treating all food as sacrificial
+    offering.
+  suggested_aliases:
+  - primordial_food_provision
+  - divinely_given_plant_food
+  - plant_food_in_primordial_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.progressive-enchantment-or-arrest-of-workers-by-song
+  motif_id: progressive_enchantment_or_arrest_of_workers_by_song
+  label: progressive enchantment or arrest of workers by song
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Song has supernatural coercive force, progressively halting or enchanting
+    workers.
+  cautions: Worker detail is likely passage-specific; preserve it as evidence rather
+    than a separate canonical motif.
+  suggested_aliases:
+  - song_arrests_workers
+  - enchanting_song_stops_work
+  - work_stopped_by_magical_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-dream-vision-ending-in-awakening
+  motif_id: prolonged_dream_vision_ending_in_awakening
+  label: prolonged dream vision ending in awakening
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: high
+  rationale: A sustained dream-vision resolved by awakening directly fits dream and
+    altered perception motifs.
+  cautions: If the dream includes otherworld travel or prophecy, additional mappings
+    may be warranted; awakening ending may be an episode detail.
+  suggested_aliases:
+  - extended_dream_vision
+  - dream_vision_awakening
+  - vision_ending_in_awakening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophecy-and-reward-frame-a-duel
+  motif_id: prophecy_and_reward_frame_a_duel
+  label: prophecy and reward frame a duel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core event is a duel framed by prophecy and reward, fitting sacred
+    combat more than prophecy alone.
+  cautions: Composite and episode-specific; prophecy_divination or sacred_exchange
+    may be secondary if those functions dominate the passage.
+  suggested_aliases:
+  - duel_framed_by_prophecy_and_reward
+  - prophetic_duel_with_reward
+  - reward_promised_for_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several one-occurrence labels are composite or passage-specific and should be checked
+  against source evidence before promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0530
+  input_sha256: a4e935688cdd20ca9bd6f5bbed318ba83571677ba68a7b36ab5853e0d85bdb70
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1054
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-gifts-lure-the-warrior-toward-doom
+  motif_id: fatal_gifts_lure_the_warrior_toward_doom
+  label: Fatal gifts lure the warrior toward doom
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines gift, lure, warrior death, and doom; existing groups
+    could include sacred_treasures, betrayal_violated_trust, sacred_combat, or death_by_fate
+    depending on passage function.
+  cautions: Single occurrence and highly contextual; do not map as fate or sacred
+    treasure without evidence that the gifts carry agency, betrayal, or destiny logic.
+  suggested_aliases:
+  - fatal_gift_lure
+  - doom_laden_gifts
+  - warrior_lured_by_fatal_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-heart-wound-temporarily-delayed-by-plants-and-charms
+  motif_id: fatal_heart_wound_temporarily_delayed_by_plants_and_charms
+  label: fatal heart wound temporarily delayed by plants and charms
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fatal wound delayed by healing plants or charms concerns suspended
+    death and temporary life preservation rather than ordinary combat.
+  cautions: If the passage emphasizes magical healing practice more than death-delay,
+    divine_intervention or sacred_substance may be secondary; the heart-wound detail
+    is likely over-specific.
+  suggested_aliases:
+  - delayed_fatal_wound
+  - fatal_wound_delayed_by_charms
+  - temporary_staving_off_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-meal-reversed-against-the-devouring-monster
+  motif_id: fatal_meal_reversed_against_the_devouring_monster
+  label: Fatal meal reversed against the devouring monster
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already contains predator/devouring reversal patterns where
+    a threat is defeated by a concealed or reversed consumption strategy.
+  cautions: If the episode is primarily heroic monster-slaying rather than deceptive
+    reversal, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - devouring_monster_defeated_by_reversed_meal
+  - fatal_meal_reversal
+  - predator_consumption_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-plant-weapon-used-through-instigation
+  motif_id: fatal_plant_weapon_used_through_instigation
+  label: Fatal plant weapon used through instigation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: A seemingly minor plant becomes the fatal weapon through a loophole or
+    overlooked vulnerability pattern.
+  cautions: The instigation component may involve betrayal or deception; confirm the
+    invulnerability/exception structure before final mapping.
+  suggested_aliases:
+  - fatal_overlooked_plant_weapon
+  - plant_weapon_loophole
+  - instigated_fatal_plant_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-scratches-and-enemy-perceived-as-demonic
+  motif_id: fatal_scratches_and_enemy_perceived_as_demonic
+  label: fatal scratches and enemy perceived as demonic
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe combat injury, demonization of an enemy, spirit
+    affliction, or a culturally specific interpretation of violence.
+  cautions: Culturally sensitive and source-dependent; avoid reducing enemy identification
+    to a generic monster or demon motif without passage evidence.
+  suggested_aliases:
+  - fatal_scratches_by_demonic_enemy
+  - enemy_perceived_as_demonic
+  - demonic_enemy_wounding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-treasure-after-monster-slaying
+  motif_id: fatal_treasure_after_monster_slaying
+  label: Fatal treasure after monster-slaying
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a powerful treasure acquired after monster-slaying
+    whose possession brings fatal consequences.
+  cautions: If the fatality is framed as curse, greed, or doom, divine_judgment, pride_and_downfall,
+    or death_by_fate may be secondary; preserve monster-slaying context as evidence
+    detail.
+  suggested_aliases:
+  - cursed_treasure_after_monster_slaying
+  - fatal_hoard
+  - monster_hoard_bringing_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-weapon-from-harmless-overlooked-plant
+  motif_id: fatal_weapon_from_harmless_overlooked_plant
+  label: Fatal weapon from harmless overlooked plant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: A harmless overlooked plant becoming the fatal weapon is a clear omitted-exception
+    or hidden-vulnerability structure.
+  cautions: Do not broaden to sacred plant symbolism unless the plant itself has ritual
+    or cosmic significance in the passage.
+  suggested_aliases:
+  - overlooked_plant_as_fatal_weapon
+  - harmless_plant_loophole
+  - fatal_exception_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-as-the-true-conqueror-of-an-invincible-warrior
+  motif_id: fate_as_the_true_conqueror_of_an_invincible_warrior
+  label: Fate as the true conqueror of an invincible warrior
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly frames the defeat of an otherwise invincible warrior
+    as destiny overriding martial power.
+  cautions: May also relate to conditional_invulnerability_hidden_weakness if a loophole
+    enables the death; keep fate claim tied to passage wording.
+  suggested_aliases:
+  - fate_conquers_invincible_warrior
+  - destiny_defeats_invulnerable_hero
+  - invincible_warrior_overcome_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-closes-heroic-life
+  motif_id: fate_closes_heroic_life
+  label: fate closes heroic life
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: alias
+  confidence: high
+  rationale: The motif directly names a heroic death as brought to its destined close.
+  cautions: Broad poetic wording; if merely a generic statement of death rather than
+    active destiny logic, preserve as evidence detail rather than a distinct child
+    motif.
+  suggested_aliases:
+  - fated_close_of_heroic_life
+  - destined_heroic_death
+  - heroic_life_closed_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-decreed-outcome-of-heroic-duel
+  motif_id: fate_decreed_outcome_of_heroic_duel
+  label: fate-decreed outcome of heroic duel
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: A duel whose outcome is decreed by fate fits the death-by-destiny complex,
+    especially in heroic combat contexts.
+  cautions: If the duel’s ritual or martial structure is the main motif, sacred_combat
+    may be a secondary query group.
+  suggested_aliases:
+  - fated_duel_outcome
+  - destiny_decides_heroic_duel
+  - fate_decrees_combat_result
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence heroic death details; preserve granular wording
+  as evidence notes unless recurrence supports canonical children.
+- Norse plant-weapon labels likely cluster under conditional_invulnerability_hidden_weakness,
+  but betrayal or instigation may need secondary review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: AI
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review needed for source-dependent
+    and culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1054
+  input_sha256: 59883f42a3650eb47c2f7df093a1fe7b8bbaa00e8d7017d0837f3489b62e9ec4
+

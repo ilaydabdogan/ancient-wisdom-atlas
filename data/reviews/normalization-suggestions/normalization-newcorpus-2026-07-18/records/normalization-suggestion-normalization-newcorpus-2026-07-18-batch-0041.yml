@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0041
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-of-apostate-claimant-and-communal-return
+  motif_id: death_of_apostate_claimant_and_communal_return
+  label: Death of apostate claimant and communal return
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death of an apostate claimant followed by communal return suggests
+    removal of a transgressor and restoration of moral or communal order.
+  cautions: May be a highly contextual political-religious episode; verify that sacred
+    judgment or communal repair is explicit rather than only historical narration.
+  suggested_aliases:
+  - death_of_false_claimant_restores_community
+  - transgressor_death_and_communal_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-balder
+  motif_id: death_of_balder
+  label: death of Balder
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is a named episode or character-specific event rather than a reusable
+    normalized motif label.
+  cautions: The underlying passage may support broader motifs such as death_by_fate,
+    divine_judgment, betrayal_violated_trust, or lament_and_mourning; map those from
+    evidence rather than the episode title alone.
+  suggested_aliases:
+  - Balder's death
+  - death_of_baldur
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-guest-blamed-on-host-by-poison-or-charm-prompting-revenge-vow
+  motif_id: death_of_guest_blamed_on_host_by_poison_or_charm_prompting_revenge_vow
+  label: death of guest blamed on host by poison or charm, prompting revenge vow
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The guest's death and blame assigned to the host make hospitality obligation
+    and violated host-guest trust the apparent narrative engine.
+  cautions: This composite label also involves revenge, poisoning or charm, and possible
+    false blame; sacred_combat, betrayal_violated_trust, or divine_judgment may fit
+    better depending on source context.
+  suggested_aliases:
+  - guest_death_blamed_on_host
+  - host_blamed_for_guest_death
+  - guest_death_prompts_revenge_vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-leaders-causes-invading-army-to-retreat
+  motif_id: death_of_leaders_causes_invading_army_to_retreat
+  label: death of leaders causes invading army to retreat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death of leaders changes the outcome of an invasion, fitting warfare
+    as a decisive social or ritual crisis.
+  cautions: May be a battle-plot detail rather than a sacred combat motif; if leader
+    death is framed as fate or divine punishment, death_by_fate or divine_judgment
+    may be secondary.
+  suggested_aliases:
+  - leader_death_turns_battle
+  - death_of_commanders_ends_invasion
+  - army_retreat_after_leaders_die
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-only-heirs-ends-a-household-line
+  motif_id: death_of_only_heirs_ends_a_household_line
+  label: Death of only heirs ends a household line
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Extinction of a household line through heirs' deaths often functions
+    as dynastic consequence or moral reckoning.
+  cautions: Label alone does not show divine judgment; could be lineage tragedy, fate,
+    curse, or episode-specific genealogy. Human review should inspect whether sacred
+    causality is present.
+  suggested_aliases:
+  - lineage_ended_by_heirs_death
+  - death_of_heirs_extinguishes_household
+  - dynastic_extinction_through_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-the-mortally-wounded-champion-after-battle
+  motif_id: death_of_the_mortally_wounded_champion_after_battle
+  label: Death of the mortally wounded champion after battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: high
+  rationale: A champion's delayed death after battle fits heroic warrior death, wounds,
+    honor, and martial proof already grouped under divine_warrior.
+  cautions: If the passage emphasizes funeral rites or communal grief more than combat
+    death, heroic_funeral_rites or lament_and_mourning may be relevant secondary groups.
+  suggested_aliases:
+  - mortally_wounded_champion_dies_after_battle
+  - heroic_champion_death_after_combat
+  - warrior_death_after_battle_wounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-omens-prompting-transfer-of-rule
+  motif_id: death_omens_prompting_transfer_of_rule
+  label: death omens prompting transfer of rule
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Omens of death that trigger transfer of rule concern succession and sacred
+    authorization of kingship.
+  cautions: If the focus is omen interpretation itself, prophecy_divination or dream_and_vision
+    may also be indexed; avoid treating all death omens as royal legitimacy unless
+    succession is central.
+  suggested_aliases:
+  - death_omens_and_succession
+  - omens_prompting_succession
+  - death_portents_transfer_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-omens-surrounding-a-dying-person
+  motif_id: death_omens_surrounding_a_dying_person
+  label: Death omens surrounding a dying person
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death omens are signs interpreted as foreknowledge of an approaching
+    death.
+  cautions: If the omens are spontaneous visions or altered perception, dream_and_vision
+    may fit better; if they are culturally specific mortuary signs, human review should
+    preserve local meaning.
+  suggested_aliases:
+  - omens_of_impending_death
+  - death_portents_around_dying_person
+  - signs_foretelling_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-or-burial-marked-by-a-place-name
+  motif_id: death_or_burial_marked_by_a_place_name
+  label: death or burial marked by a place-name
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The group already contains place-name etiologies from death and burial;
+    this label is a close toponymic etiology variant.
+  cautions: Despite the group label, this is local landscape naming rather than cosmic
+    creation; preserve as etiological place-name evidence and avoid overreading death
+    transformation.
+  suggested_aliases:
+  - place_name_from_death_or_burial
+  - burial_place_name_etiology
+  - death_marked_by_toponym
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-or-burial-producing-a-lake-and-place-name
+  motif_id: death_or_burial_producing_a_lake_and_place_name
+  label: death or burial producing a lake and place-name
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A death or burial that forms a lake and explains a place-name fits etiological
+    landscape formation and toponymic naming already held in cosmic_origin.
+  cautions: May also involve sacred_waters or death_and_transformation if the lake
+    has ritual or postmortem significance; label is over-specific and local.
+  suggested_aliases:
+  - lake_and_place_name_from_death
+  - burial_creates_lake_toponym
+  - death_creates_lake_place_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested mappings should
+  be treated as review placements, not taxonomy additions.
+- 'Death-centered wording often masks other functions here: succession, hospitality
+  violation, battle outcome, omen interpretation, and place-name etiology.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should verify passage evidence
+    for sacred causality versus narrative detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0041
+  input_sha256: 7dcd0f3a61744f46b6e974fcf31c436fc3411e04158241de9d687e67ae70ff2f
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0096
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mortuary-offerings-securing-rest-for-the-dead
+  motif_id: mortuary_offerings_securing_rest_for_the_dead
+  label: Mortuary offerings securing rest for the dead
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Offerings to secure rest for the dead fit ritual care and appeasement
+    of dead souls.
+  cautions: Could also support afterlife_passage if the passage emphasizes postmortem
+    travel requirements rather than ongoing care.
+  suggested_aliases:
+  - mortuary_offerings_for_the_dead
+  - offerings_securing_rest_for_the_dead
+  - funerary_offerings_for_rest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-and-child-joined-in-death
+  motif_id: mother_and_child_joined_in_death
+  label: mother and child joined in death
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe kinship tragedy, shared burial, afterlife reunion,
+    or transformation through death.
+  cautions: Culturally sensitive and too context-dependent from label alone; avoid
+    forcing into sacred_love or death_and_transformation without passage evidence.
+  suggested_aliases:
+  - mother_child_death_union
+  - mother_and_child_die_together
+  - mother_child_joined_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-counsels-death-of-her-own-sons
+  motif_id: mother_counsels_death_of_her_own_sons
+  label: mother counsels death of her own sons
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be vengeance, fate acceptance, heroic death counsel, or a passage-specific
+    family tragedy.
+  cautions: Needs source context before mapping to death_by_fate, divine_warrior,
+    sacred_combat, or sacrifice; single occurrence may be over-specific.
+  suggested_aliases:
+  - mother_urges_sons_death
+  - maternal_counsel_toward_death
+  - mother_counsels_heroic_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-dies-grieving-at-son-s-grave
+  motif_id: mother_dies_grieving_at_son_s_grave
+  label: Mother dies grieving at son's grave
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Death from grief at a grave is an intensified mourning motif already
+    covered by lament and mourning.
+  cautions: If the death creates a place-name or burial tradition, secondary etiological
+    or heroic funeral indexing may be relevant.
+  suggested_aliases:
+  - death_from_grief_at_grave
+  - mother_dies_of_grief
+  - mourning_to_death_at_son_grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mound-containing-shells-artifacts-and-human-remains
+  motif_id: mound_containing_shells_artifacts_and_human_remains
+  label: Mound containing shells, artifacts, and human remains
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an archaeological or descriptive site inventory
+    rather than a symbolic or narrative motif.
+  cautions: If the source narrates a sacred mound, burial rite, ancestor place, or
+    origin event, remap based on that evidence rather than the inventory wording.
+  suggested_aliases:
+  - burial_mound_with_artifacts
+  - mound_with_human_remains
+  - archaeological_mound_inventory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-death-and-succession-by-transferred-garments
+  motif_id: mountain_death_and_succession_by_transferred_garments
+  label: mountain death and succession by transferred garments
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transferred garments signal authorized succession and continuity of sacred
+    office or leadership.
+  cautions: The mountain setting may also support axis_mundi or cosmic_mountain, and
+    the death scene may support heroic_funeral_rites; primary mapping depends on whether
+    succession is central.
+  suggested_aliases:
+  - succession_by_transferred_garments
+  - garment_transfer_at_death
+  - sacred_succession_on_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourner-s-submission-and-forgiveness-at-the-feet-of-the-dead
+  motif_id: mourner_s_submission_and_forgiveness_at_the_feet_of_the_dead
+  label: mourner’s submission and forgiveness at the feet of the dead
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Submission and forgiveness at the feet of the dead fits restored relationship,
+    supplication, and moral repair.
+  cautions: Could belong under ancestor_rites if it is a formal rite toward the dead,
+    or lament_and_mourning if grief rather than forgiveness is central.
+  suggested_aliases:
+  - supplication_at_feet_of_dead
+  - forgiveness_before_the_dead
+  - mourner_submission_to_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourner-s-tears-become-blood-on-the-dead-beloved
+  motif_id: mourner_s_tears_become_blood_on_the_dead_beloved
+  label: mourner's tears become blood on the dead beloved
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Bloody tears on a dead beloved are a heightened image of grief and tragic
+    mourning.
+  cautions: Preserve the blood-tears detail as evidence; do not map to sacrifice unless
+    offering or ritual blood is explicit.
+  suggested_aliases:
+  - bloody_tears_for_dead_beloved
+  - tears_turn_to_blood_in_mourning
+  - mourning_tears_as_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-a-dead-beloved-by-water
+  motif_id: mourning_a_dead_beloved_by_water
+  label: Mourning a dead beloved by water
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core motif is mourning a beloved; the water setting is likely local
+    imagery unless it marks passage or transformation.
+  cautions: If water functions as boundary to the dead or otherworld, add sacred_waters
+    or descent as secondary review mappings.
+  suggested_aliases:
+  - mourning_by_water
+  - lament_for_dead_beloved_by_water
+  - waterside_mourning_for_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-and-burial-after-heroic-slaughter
+  motif_id: mourning_and_burial_after_heroic_slaughter
+  label: mourning and burial after heroic slaughter
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Mourning and burial following heroic violence fits funeral rites for
+    slain heroes or companions.
+  cautions: May also relate to lament_and_mourning or sacred_combat depending on whether
+    burial honors or battle context is emphasized.
+  suggested_aliases:
+  - heroic_burial_after_slaughter
+  - mourning_after_heroic_death
+  - funeral_after_heroic_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; preserve granular wording
+  as evidence even when mapped to a broader group.
+- Water, mountain, blood, and grave imagery should not override the main narrative
+  function unless the source passage makes the symbol structurally central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Australian Aboriginal and
+    Norse family-death labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0096
+  input_sha256: '08a9737c1c69bd4802722677aba3a09390b22a0976d2815e0061285b135356a2'
+

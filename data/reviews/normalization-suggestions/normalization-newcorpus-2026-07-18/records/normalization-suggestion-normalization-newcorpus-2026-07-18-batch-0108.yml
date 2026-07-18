@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0108
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-arising-from-battle-death
+  motif_id: place_name_arising_from_battle_death
+  label: Place-name arising from battle death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Existing group already includes place-name etiologies from violent death
+    and heroic events; this is another toponymic death-etiology variant.
+  cautions: Single occurrence; preserve battle-death specificity as evidence, not
+    a new canonical motif.
+  suggested_aliases:
+  - place_name_etiology_from_battle_death
+  - toponymic_naming_from_battle_death
+  - battle_death_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiologies-from-death-and-animal-traces
+  motif_id: place_name_etiologies_from_death_and_animal_traces
+  label: Place-name etiologies from death and animal traces
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is etiological landscape naming, already represented
+    under cosmic_origin by place-name etiology children.
+  cautions: Animal traces may be locally meaningful; if the passage centers on animal
+    transformation or pursuit rather than naming, secondary review may be needed.
+  suggested_aliases:
+  - place_name_etiology_from_death_and_animal_traces
+  - animal_trace_place_name_etiology
+  - etiological_landscape_naming_from_death_and_traces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiology-from-death-or-incident
+  motif_id: place_name_etiology_from_death_or_incident
+  label: place-name etiology from death or incident
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: This is a broad alias of existing place-name etiology labels already
+    nested in cosmic_origin.
+  cautions: Too generic for a canonical motif; retain incident details only as source
+    evidence.
+  suggested_aliases:
+  - place_name_etiology
+  - place_naming_etiology
+  - place_name_origin_from_death_or_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-explained-by-death-and-burial
+  motif_id: place_name_explained_by_death_and_burial
+  label: Place-name explained by death and burial
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: Existing cosmic_origin children include place_name_origin_from_a_death_and_burial;
+    this label is effectively the same toponymic etiology.
+  cautions: Burial may also support heroic funeral or memorialization indexing if
+    the rite, not the naming, is central.
+  suggested_aliases:
+  - place_name_origin_from_a_death_and_burial
+  - place_name_etiology_from_death_and_burial
+  - burial_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-memorialize-divine-fire-and-burial-of-the-lustful
+  motif_id: place_names_memorialize_divine_fire_and_burial_of_the_lustful
+  label: place names memorialize divine fire and burial of the lustful
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The main reusable pattern is place-name memorialization/etiology, which
+    existing cosmic_origin already groups with toponymic origin labels.
+  cautions: Composite label also invokes divine fire, burial, and moral judgment;
+    use divine_judgment or sacred_fire only if passage evidence emphasizes those functions
+    over toponymy.
+  suggested_aliases:
+  - place_name_memorializes_divine_judgment
+  - place_name_etiology_from_divine_fire_and_burial
+  - toponymic_memorialization_of_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-naming-from-deaths-in-battle
+  motif_id: place_naming_from_deaths_in_battle
+  label: place-naming from deaths in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Another toponymic naming pattern caused by violent or heroic death, already
+    covered by cosmic_origin's place-name etiology cluster.
+  cautions: Could be cross-indexed with sacred_combat only when battle itself is the
+    motif focus rather than the place-name explanation.
+  suggested_aliases:
+  - place_name_arising_from_battle_death
+  - battle_death_place_naming
+  - toponymic_naming_from_battle_deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plague-sent-in-winds-and-destined-to-return-by-curse
+  motif_id: plague_sent_in_winds_and_destined_to_return_by_curse
+  label: plague sent in winds and destined to return by curse
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines plague, wind-borne agency, destiny, and curse; placement
+    depends on whether the passage emphasizes divine judgment, sacred speech, fate,
+    or disease-spirit agency.
+  cautions: Culturally sensitive and source-dependent; avoid reducing Indigenous spirit
+    or illness concepts to generic plague or curse without evidence.
+  suggested_aliases:
+  - wind_borne_plague_by_curse
+  - plague_returning_by_curse
+  - cursed_plague_sent_in_winds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-guardian-spirit
+  motif_id: plant_guardian_spirit
+  label: plant guardian spirit
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A guardian spirit associated with a plant fits the existing tutelary/protective
+    spirit material under divine_intervention.
+  cautions: If the plant itself functions as an axis, sacred substance, or apotropaic
+    object, alternate mapping may be appropriate; review local ontology carefully.
+  suggested_aliases:
+  - plant_tutelary_spirit
+  - guardian_spirit_of_a_plant
+  - vegetal_guardian_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pledge-to-return-after-a-delay-before-execution
+  motif_id: pledge_to_return_after_a_delay_before_execution
+  label: pledge to return after a delay before execution
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reusable motif is a binding pledge or promise under threat of death,
+    aligning with covenant/vow logic.
+  cautions: May be a narrative test of trust, mercy, or honor rather than sacred covenant;
+    if the focus is pardon or ruler judgment, divine_judgment or sacred_law may be
+    secondary.
+  suggested_aliases:
+  - pledge_to_return_for_execution
+  - death_sentence_return_pledge
+  - binding_promise_before_execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poet-s-tomb-as-pilgrimage-center
+  motif_id: poet_s_tomb_as_pilgrimage_center
+  label: poet's tomb as pilgrimage center
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Existing sacred_treasures children include saint's tomb and shrine/relic
+    pilgrimage; a poet's tomb as pilgrimage center is a close memorial/relic-site
+    variant.
+  cautions: If the focus is authorship and literary immortality rather than pilgrimage
+    practice, storytelling_as_power may be a better secondary group.
+  suggested_aliases:
+  - poetic_tomb_pilgrimage
+  - author_tomb_as_pilgrimage_center
+  - poet_shrine_pilgrimage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Celtic Irish items are variants of the existing place-name/toponymic etiology
+  cluster under cosmic_origin despite being bucketed with death and afterlife; do
+  not confuse death as causal detail with death-rebirth or afterlife motifs.
+- Composite labels involving place-names plus judgment, fire, burial, battle, or animals
+  should preserve those details as evidence and only add secondary mappings when passage
+  evidence makes that function central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive spirit/illness labels and single-occurrence composite labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0108
+  input_sha256: 0ee2be08dd742c9f5e02ec9ffc4888d595d06e7aadee7471e16fe8915f0820e7
+

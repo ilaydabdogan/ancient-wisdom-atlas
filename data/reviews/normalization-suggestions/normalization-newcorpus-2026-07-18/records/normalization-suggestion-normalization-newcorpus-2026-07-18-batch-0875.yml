@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0875
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.uncatchable-horsewoman
+  motif_id: uncatchable_horsewoman
+  label: Uncatchable horsewoman
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe pursuit of an otherworld woman, magical animal-associated
+    figure, or episode-specific chase motif.
+  cautions: Single occurrence and culturally specific context; do not assume shapeshifting
+    or trickster function without passage evidence.
+  suggested_aliases:
+  - impossible pursuit of horsewoman
+  - otherworld horsewoman pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - shapeshifter
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underground-refuge-from-a-human-eating-bird
+  motif_id: underground_refuge_from_a_human_eating_bird
+  label: Underground refuge from a human-eating bird
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monstrous bird threatening humans and forcing refuge functions as a
+    perilous boundary or guardian-like danger around safe passage.
+  cautions: Could instead be an over-specific monster-escape episode if no threshold
+    or ordeal structure is present.
+  suggested_aliases:
+  - refuge from man-eating bird
+  - monster bird forces underground refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-animal-holding-woman-releases-game-animals
+  motif_id: underwater_animal_holding_woman_releases_game_animals
+  label: Underwater animal-holding woman releases game animals
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve an underwater otherworld being controlling animal
+    abundance and releasing game to humans.
+  cautions: Culturally sensitive Inuit sea/animal-master traditions need source-aware
+    review; do not flatten into generic animal transformation.
+  suggested_aliases:
+  - underwater animal mistress releases game
+  - animal master releases game animals
+  - sea woman controls game animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - sacred_exchange
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-captivity-by-dragon-princes
+  motif_id: underwater_captivity_by_dragon_princes
+  label: underwater captivity by dragon-princes
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Underwater captivity by dragon princes suggests detention in a nonordinary
+    aquatic realm rather than simple animal symbolism.
+  cautions: If the focus is serpent/dragon guardianship or descent ordeal, secondary
+    review under serpent_guardian or descent may be appropriate.
+  suggested_aliases:
+  - captivity in underwater dragon realm
+  - dragon-prince underwater abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unexpected-rescue-from-snake-by-falling-fruit
+  motif_id: unexpected_rescue_from_snake_by_falling_fruit
+  label: unexpected rescue from snake by falling fruit
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines a snake threat with a highly specific accidental rescue
+    mechanism.
+  cautions: Likely episode-specific; map only if passage shows serpent guardian, divine
+    intervention, or trickster reversal function.
+  suggested_aliases:
+  - accidental rescue from snake
+  - falling fruit saves victim from snake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - serpent_guardian
+    - divine_intervention
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unnoticed-theft-and-replacement-beneath-a-sitting-bird
+  motif_id: unnoticed_theft_and_replacement_beneath_a_sitting_bird
+  label: unnoticed theft and replacement beneath a sitting bird
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Secret theft and substitution under an animal fits deception and boundary-crossing
+    action.
+  cautions: If the stolen object is sacred or life-bearing, sacred_theft, sacred_treasures,
+    or external_soul may be relevant; bird detail may be incidental.
+  suggested_aliases:
+  - unnoticed theft and substitution
+  - stealth replacement under sitting bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.valkyrie-associated-carrion-bird-imagery
+  motif_id: valkyrie_associated_carrion_bird_imagery
+  label: Valkyrie-associated carrion bird imagery
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Valkyrie carrion-bird imagery belongs to the sacred combat and battle-death
+    field rather than a general animal motif.
+  cautions: May be poetic imagery rather than narrative action; preserve as evidence
+    detail and avoid over-reading as shapeshifting unless explicit.
+  suggested_aliases:
+  - battle carrion bird imagery
+  - valkyrie bird-of-battle imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vanishing-animal-leads-the-hero-to-a-liminal-place
+  motif_id: vanishing_animal_leads_the_hero_to_a_liminal_place
+  label: Vanishing animal leads the hero to a liminal place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: An animal guide that disappears after leading a hero to a liminal site
+    functions as a threshold guide or boundary marker.
+  cautions: If the liminal place is an enchanted realm, otherworld may be a secondary
+    mapping; if the animal is divine aid, divine_intervention may also apply.
+  suggested_aliases:
+  - animal guide to liminal place
+  - vanishing animal guide
+  - animal leads hero to threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.venomous-animal-escort-and-retaliatory-sting
+  motif_id: venomous_animal_escort_and_retaliatory_sting
+  label: Venomous animal escort and retaliatory sting
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A venomous animal escort that retaliates suggests protective or punitive
+    sacred agency acting on behalf of a figure.
+  cautions: If the passage centers on ritual protection from venom or spirit danger,
+    sacred_law may be relevant; if merely animal revenge, review context.
+  suggested_aliases:
+  - venomous escort retaliates
+  - protective scorpion or snake escort
+  - retaliatory sting by animal guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victim-identifies-with-the-threatened-execution-beast
+  motif_id: victim_identifies_with_the_threatened_execution_beast
+  label: Victim identifies with the threatened execution beast
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests moral identification with an animal facing death,
+    but the narrative function is unclear.
+  cautions: Could be ethical teaching, sacrifice/substitution, execution ordeal, or
+    passage-specific commentary; source evidence is needed.
+  suggested_aliases:
+  - identification with execution animal
+  - victim parallels threatened beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal episodes; preserve local
+  detail and avoid promoting episode-specific mechanisms without recurrence.
+- Underwater animal-control and Inuit sea-being material should receive culturally
+  informed human review before broad normalization.
+- Animal imagery should be mapped by narrative function, not by animal presence alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    or over-specific animal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0875
+  input_sha256: 53c6e27c7a555dbb2524efe4082ff76cbe9bba50c8b62d5d0014849a076b2291
+

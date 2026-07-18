@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1208
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.duty-to-raise-offspring-for-a-deceased-brother
+  motif_id: duty_to_raise_offspring_for_a_deceased_brother
+  label: duty to raise offspring for a deceased brother
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a kinship obligation framed as duty after a brother's
+    death, fitting sacred/social law more than a place or object motif.
+  cautions: Could also relate to covenant or ancestor/lineage concerns if the passage
+    emphasizes sacred promise, inheritance, or preserving the dead brother's name.
+  suggested_aliases:
+  - levirate_duty
+  - kinship_duty_to_deceased_brother
+  - raising_offspring_for_dead_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dwelling-of-evil-marked-by-human-bones
+  motif_id: dwelling_of_evil_marked_by_human_bones
+  label: Dwelling of evil marked by human bones
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A bone-marked evil dwelling may function as a perilous threshold or monster
+    lair, but the label alone does not identify the narrative function.
+  cautions: May be an over-specific setting detail, a cannibal/witch dwelling, an
+    underworld boundary, or simple horror imagery; source context is needed before
+    mapping.
+  suggested_aliases:
+  - bone_marked_evil_dwelling
+  - human_bones_mark_dangerous_house
+  - perilous_bone_lair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ekphrastic-garment-containing-multiple-mythic-scenes
+  motif_id: ekphrastic_garment_containing_multiple_mythic_scenes
+  label: ekphrastic garment containing multiple mythic scenes
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A garment bearing mythic scenes is a significant object, but its motif
+    value depends on whether it confers status, power, memory, or narrative revelation.
+  cautions: Could be primarily a literary ekphrasis or passage artifact rather than
+    a reusable motif; exclude if it only describes poetic technique.
+  suggested_aliases:
+  - mythic_scene_garment
+  - ekphrastic_sacred_garment
+  - garment_as_narrative_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elapsed-four-month-interval-marks-delayed-action
+  motif_id: elapsed_four_month_interval_marks_delayed_action
+  label: Elapsed four-month interval marks delayed action
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a passage-specific temporal marker rather than a symbolic
+    or narrative motif.
+  cautions: If the four-month interval is ritually calendrical, seasonal, or cosmologically
+    prescribed, review for sacred_time instead.
+  suggested_aliases:
+  - four_month_delay
+  - delayed_action_interval
+  - elapsed_time_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empowering-ring-gained-through-reaching-for-fruit
+  motif_id: empowering_ring_gained_through_reaching_for_fruit
+  label: empowering ring gained through reaching for fruit
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The core motif is acquisition of a ring that grants power, matching sacred
+    or magical power objects.
+  cautions: The fruit-reaching scene may be evidence detail; if the act is a test
+    or forbidden acquisition, secondary review under initiation or forbidden_knowledge
+    may apply.
+  suggested_aliases:
+  - empowering_ring
+  - power_ring_gained_by_reaching
+  - magical_ring_acquisition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empty-marvelous-palace
+  motif_id: empty_marvelous_palace
+  label: empty marvelous palace
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A marvelous empty palace often functions as an enchanted realm or threshold
+    space outside ordinary order.
+  cautions: Could be only a setting detail unless the palace enables encounter, trial,
+    enchantment, treasure, or otherworld sojourn.
+  suggested_aliases:
+  - marvelous_empty_palace
+  - enchanted_empty_palace
+  - deserted_wondrous_palace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-abundance-in-a-precious-metal-garden
+  motif_id: enchanted_abundance_in_a_precious_metal_garden
+  label: enchanted abundance in a precious-metal garden
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An enchanted garden of precious metals and abundance fits the marvelous
+    otherworld or enchanted realm complex.
+  cautions: If the focus is inexhaustible provision, divine gift, or treasure rather
+    than the realm, divine_intervention or sacred_treasures may be secondary mappings.
+  suggested_aliases:
+  - precious_metal_garden
+  - enchanted_abundant_garden
+  - marvelous_garden_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-boundary-immobilizes-intruders
+  motif_id: enchanted_boundary_immobilizes_intruders
+  label: enchanted boundary immobilizes intruders
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The enchanted boundary performs the guarding function by stopping unauthorized
+    passage, even without a personified guardian.
+  cautions: If framed as a protective spell or taboo boundary rather than passage
+    ordeal, sacred_law may be a better group.
+  suggested_aliases:
+  - immobilizing_enchanted_boundary
+  - magical_boundary_traps_intruders
+  - enchanted_threshold_blocks_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-cup-restores-strength-and-appearance
+  motif_id: enchanted_cup_restores_strength_and_appearance
+  label: enchanted cup restores strength and appearance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A cup that restores vitality and appearance is a transformative vessel,
+    closely matching sacred_vessel and healing container motifs.
+  cautions: Could also involve sacred_substance if the restorative power lies in the
+    drink rather than the cup itself.
+  suggested_aliases:
+  - restorative_enchanted_cup
+  - healing_cup_restores_vitality
+  - rejuvenating_cup
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-island-of-laughter-and-detachment
+  motif_id: enchanted_island_of_laughter_and_detachment
+  label: enchanted island of laughter and detachment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: high
+  rationale: An enchanted island producing altered emotional or social detachment
+    fits the Celtic otherworld and enchanted realm pattern.
+  cautions: If the laughter functions as a specific enchantment or compulsion, storytelling_as_power
+    or enchanting_music analogues may be relevant, but the island setting is the clearest
+    parent.
+  suggested_aliases:
+  - enchanted_laughter_island
+  - otherworld_island_of_detachment
+  - marvelous_island_of_laughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence setting or object labels; preserve
+  scene details as evidence notes and avoid promoting them without recurrence.
+- The supplied review bucket is objects/spaces/boundaries, but some labels fit sacred_law,
+  otherworld, threshold_guardian, sacred_treasures, or sacred_vessel better than a
+  literal place/object-only category.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should verify passage evidence,
+    especially for single-occurrence and potentially literary-artifact labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1208
+  input_sha256: 282724e68813c8039f84235524e8143d9a2c6b618e0a328f778956e486d60c2e
+

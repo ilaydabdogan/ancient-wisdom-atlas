@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0089
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.living-wife-reunites-with-dead-husband-in-the-burial-mound
+  motif_id: living_wife_reunites_with_dead_husband_in_the_burial_mound
+  label: living wife reunites with dead husband in the burial mound
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is reunion with a spouse across the boundary of death,
+    matching love that transcends bodily death.
+  cautions: Burial-mound setting may also indicate afterlife passage, ancestor rites,
+    or restless-dead traditions; verify whether reunion or mortuary/haunting function
+    is primary.
+  suggested_aliases:
+  - spousal reunion beyond death
+  - dead spouse reunion in burial mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.long-lived-ancestral-genealogy-with-repeated-fathering-and-death-formula
+  motif_id: long_lived_ancestral_genealogy_with_repeated_fathering_and_death_formula
+  label: Long-lived ancestral genealogy with repeated fathering and death formula
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a repeated genealogical formula and textual structure
+    rather than a symbolic narrative motif.
+  cautions: If a passage emphasizes primordial longevity, ancestry, or decline across
+    generations, a separate motif may be warranted; this wording should not be queried
+    as a motif.
+  suggested_aliases:
+  - genealogical fathering and death formula
+  - ancestral genealogy formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.longing-for-reunion-with-a-dead-spouse
+  motif_id: longing_for_reunion_with_a_dead_spouse
+  label: Longing for reunion with a dead spouse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on spousal longing that crosses death, a clear fit
+    for love beyond bodily separation.
+  cautions: If the passage mainly emphasizes mourning practice rather than reunion
+    desire, lament_and_mourning may be a secondary or better placement.
+  suggested_aliases:
+  - longing for dead beloved
+  - desire for reunion beyond death
+  - spousal longing after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-ancestral-skill-after-sickness
+  motif_id: loss_of_ancestral_skill_after_sickness
+  label: loss of ancestral skill after sickness
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern inherited knowledge, illness, soul loss, or cultural
+    memory, but the narrative function is unclear.
+  cautions: Review source evidence carefully; sickness-related loss of skill may be
+    ethnographic detail, shamanic power loss, ancestral inheritance, or soul-loss
+    restoration context.
+  suggested_aliases:
+  - ancestral skill lost through illness
+  - sickness causing loss of inherited skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-animal-as-ancestor-and-source-of-ritual-materials
+  motif_id: lost_animal_as_ancestor_and_source_of_ritual_materials
+  label: Lost animal as ancestor and source of ritual materials
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal ancestry and ritual-material origin, but no
+    existing group captures this cleanly without cultural context.
+  cautions: Culturally sensitive; do not reduce to generic ancestor rites or sacred
+    substance without evidence. May require a future animal-ancestor or totemic-origin
+    group if recurrent.
+  suggested_aliases:
+  - animal ancestor source of ritual materials
+  - lost animal ancestor
+  - ritual materials from animal ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-beloved-found-dying-in-a-hidden-cave
+  motif_id: lost_beloved_found_dying_in_a_hidden_cave
+  label: Lost beloved found dying in a hidden cave
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The lost beloved drives the scene, and death or near-death intensifies
+    a love-and-loss pattern.
+  cautions: The hidden cave may function as descent, liminal space, or death threshold;
+    if the quest into the cave is central, descent or initiation should be considered.
+  suggested_aliases:
+  - lost beloved found near death
+  - beloved dying in hidden cave
+  - search for dying beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-child-located-through-spirit-divination
+  motif_id: lost_child_located_through_spirit_divination
+  label: lost child located through spirit divination
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is locating a missing person through spirit-mediated
+    divinatory knowledge.
+  cautions: If the passage emphasizes spirit intervention or child rescue more than
+    divinatory method, divine_intervention or miraculous_child may be secondary; source
+    context needed for culturally specific spirit roles.
+  suggested_aliases:
+  - spirit divination locates lost child
+  - divinatory search for lost child
+  - lost person found by spirit divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-daughter-vanishes-in-the-wilderness-and-cannot-return
+  motif_id: lost_daughter_vanishes_in_the_wilderness_and_cannot_return
+  label: lost daughter vanishes in the wilderness and cannot return
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A wilderness disappearance could indicate death, exile, otherworld abduction,
+    transformation, or a local narrative loss motif.
+  cautions: Do not map to descent or otherworld without evidence that the wilderness
+    is an otherworld threshold or realm of the dead. May be too episode-specific.
+  suggested_aliases:
+  - daughter lost in wilderness
+  - irreversible wilderness disappearance
+  - lost daughter unable to return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-foreshadowing-the-hero-s-death
+  motif_id: love_foreshadowing_the_hero_s_death
+  label: Love foreshadowing the hero's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif links love to impending death, fitting the sacred-love field
+    where longing and mortality are intertwined.
+  cautions: If the emphasis is prophecy or omen rather than love, dream_and_vision
+    or prophecy_divination may be better; if purely narrative foreshadowing, it may
+    be a literary artifact.
+  suggested_aliases:
+  - love as omen of death
+  - beloved foreshadows hero death
+  - fatal love foreshadowing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-animal-recognizes-the-hero-s-death
+  motif_id: loyal_animal_recognizes_the_hero_s_death
+  label: loyal animal recognizes the hero's death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal's recognition of the hero's death functions as tragic awareness
+    and mourning-like acknowledgment.
+  cautions: If the animal serves as a supernatural messenger or omen, divine_intervention
+    or dream_and_vision may be relevant. The loyal-animal detail may be too specific
+    for canonical promotion.
+  suggested_aliases:
+  - animal recognizes master death
+  - loyal beast mourns hero
+  - animal awareness of hero death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and episode-specific; preserve
+  local details as evidence notes rather than promoting new canonical motifs.
+- Love across death recurs across multiple labels here and can usually be reviewed
+  under sacred_love, with lament_and_mourning or afterlife_passage as possible secondary
+  mappings depending on passage evidence.
+- Culturally specific spirit, ancestor, and animal-origin labels should receive human
+  review before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0089
+  input_sha256: 446d88e3a59b8b1863be5eba65e2c3ff63a1cd4abd59f18ac613d0408099fe66
+

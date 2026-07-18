@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1304
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.calendar-adoption-at-a-calendrical-turning-point
+  motif_id: calendar_adoption_at_a_calendrical_turning_point
+  label: calendar adoption at a calendrical turning point
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Calendar adoption at a turning point concerns the ritual or social ordering
+    of time, fitting sacred_time better than general chronology.
+  cautions: Single occurrence; verify whether this is a mythic/ritual motif rather
+    than historical calendrical reform or scholarly description.
+  suggested_aliases:
+  - calendar adoption
+  - calendrical transition
+  - calendar reform at sacred time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendar-cycle-chronology
+  motif_id: calendar_cycle_chronology
+  label: Calendar-cycle chronology
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: broader_label
+  confidence: medium
+  rationale: Calendar cycles are a direct expression of sacred or ritual time and
+    recurrence.
+  cautions: May be a descriptive calendrical metadata label rather than a narrative
+    motif; exclude if it only marks chronology in a text.
+  suggested_aliases:
+  - calendar cycle
+  - cyclical chronology
+  - ritual calendar chronology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendar-sign-fixes-propensity-to-drunkenness
+  motif_id: calendar_sign_fixes_propensity_to_drunkenness
+  label: Calendar sign fixes propensity to drunkenness
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: low
+  rationale: The label links calendrical fate to personal disposition, which partly
+    fits sacred_time but also touches fate and moral psychology.
+  cautions: Needs source review; could be divinatory astrology, fate assignment, moral
+    warning about intoxication, or an over-specific ethnographic note.
+  suggested_aliases:
+  - calendar sign determines character
+  - birth sign propensity
+  - calendrical fate and intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendrical-numerals-encoded-by-dots-and-lines
+  motif_id: calendrical_numerals_encoded_by_dots_and_lines
+  label: Calendrical numerals encoded by dots and lines
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes a notation or writing-system feature rather than a symbolic
+    or narrative motif.
+  cautions: Preserve as metadata for calendrical or epigraphic analysis if useful;
+    do not use in motif pattern queries.
+  suggested_aliases:
+  - dot-and-line numerals
+  - Maya calendrical notation
+  - calendrical numeral notation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendrical-supernatural-assault-on-a-central-place
+  motif_id: calendrical_supernatural_assault_on_a_central_place
+  label: Calendrical supernatural assault on a central place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural assault on a central place may involve a sacred center
+    under threat, with calendrical timing as a ritual-time marker.
+  cautions: Could instead fit sacred_combat, divine_judgment, sacred_time, or otherworld
+    incursion depending on the passage; too composite for confident mapping.
+  suggested_aliases:
+  - supernatural assault at calendrical feast
+  - attack on sacred center
+  - calendrical attack on central place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calling-into-being-from-nothing
+  motif_id: calling_into_being_from_nothing
+  label: Calling into being from nothing
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Creation by calling or command from nothing is a creation motif under
+    cosmic_origin.
+  cautions: If the passage concerns a localized miracle rather than cosmogenesis,
+    secondary review under divine_intervention may be needed.
+  suggested_aliases:
+  - creation from nothing
+  - creation by command
+  - calling into existence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calumniated-helper-maimed-and-abandoned
+  motif_id: calumniated_helper_maimed_and_abandoned
+  label: Calumniated helper maimed and abandoned
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A falsely accused helper who is harmed and abandoned centers on violated
+    trust and social betrayal.
+  cautions: Could also fit false accusation/vindication under divine_judgment if vindication
+    or punishment is central; source context is needed.
+  suggested_aliases:
+  - calumniated helper
+  - betrayed helper
+  - maimed faithful helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-demon-figure
+  motif_id: cannibal_demon_figure
+  label: cannibal demon figure
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a dangerous being type, but existing groups lack a general
+    monster/cannibal-devourer category.
+  cautions: Culturally sensitive and too role/type-based for automatic mapping; review
+    whether it functions as predator, demon, initiation threat, chaos being, or local
+    sacred figure.
+  suggested_aliases:
+  - cannibal demon
+  - devouring demon
+  - monstrous cannibal
+  suggested_new_group:
+    id: monstrous_predator_devourer
+    label: Monstrous Predator and Devourer
+    description: Cannibal, ogre, demon, giant, or predatory supernatural figures whose
+      threat centers on devouring, consuming, or hunting humans.
+    parent_group_ids:
+    - threshold_guardian
+    - chaos
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - initiation
+    reason_existing_groups_insufficient: Existing groups cover trickster predators
+      and threshold guardians, but not recurring cannibal or devouring monster figures
+      as a broader motif type.
+- suggestion_id: normalization.suggestion.cannibal-figure
+  motif_id: cannibal_figure
+  label: cannibal figure
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A cannibal figure may be a monster, taboo transgressor, famine figure,
+    or moral antagonist, and cannot be placed securely from the label alone.
+  cautions: Culturally sensitive; avoid flattening local beings or social contexts
+    into a generic monster category without evidence.
+  suggested_aliases:
+  - cannibal being
+  - human-eating figure
+  - devouring figure
+  suggested_new_group:
+    id: monstrous_predator_devourer
+    label: Monstrous Predator and Devourer
+    description: Cannibal, ogre, demon, giant, or predatory supernatural figures whose
+      threat centers on devouring, consuming, or hunting humans.
+    parent_group_ids:
+    - threshold_guardian
+    - chaos
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - initiation
+    reason_existing_groups_insufficient: Existing groups include predator trickster
+      episodes but do not provide a stable place for cannibal/devourer figures as
+      recurring antagonists.
+- suggestion_id: normalization.suggestion.cannibal-predator-in-an-elevated-dwelling
+  motif_id: cannibal_predator_in_an_elevated_dwelling
+  label: cannibal predator in an elevated dwelling
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The cannibal predator element may fit a devouring-monster complex, but
+    the elevated dwelling detail is highly specific.
+  cautions: Review source context before mapping; elevated dwelling may be a local
+    spatial marker, trap setting, sky/axis element, or incidental detail.
+  suggested_aliases:
+  - cannibal predator
+  - devouring predator in dwelling
+  - elevated dwelling predator
+  suggested_new_group:
+    id: monstrous_predator_devourer
+    label: Monstrous Predator and Devourer
+    description: Cannibal, ogre, demon, giant, or predatory supernatural figures whose
+      threat centers on devouring, consuming, or hunting humans.
+    parent_group_ids:
+    - threshold_guardian
+    - chaos
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - initiation
+    reason_existing_groups_insufficient: Current predator entries are mostly trickster/fable
+      reversals; they do not capture a broader cannibal predator or devouring monster
+      pattern.
+batch_notes:
+- Several calendar-related labels likely belong under sacred_time, but some may be
+  technical chronology or notation artifacts rather than motifs.
+- Cannibal/devourer labels recur as a possible gap; human review should decide whether
+  to add a broader monstrous_predator_devourer group or handle each under existing
+  threshold/chaos/trickster contexts.
+- No placement here implies transmission or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 1304; culturally
+    sensitive and over-specific items flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1304
+  input_sha256: 0a053c14118a5deea94f0f5f0be53a0bd5a6a0f37e1530e40b1352c36875242e
+

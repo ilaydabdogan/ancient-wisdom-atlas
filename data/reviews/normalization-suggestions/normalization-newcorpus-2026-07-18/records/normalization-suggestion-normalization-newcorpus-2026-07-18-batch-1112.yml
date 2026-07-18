@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1112
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monster-devours-the-hero-s-body
+  motif_id: monster_devours_the_hero_s_body
+  label: Monster devours the hero's body
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster consuming a hero's body belongs to heroic combat and violent
+    defeat by a monstrous opponent.
+  cautions: Single occurrence; if the passage centers on corpse treatment or burial
+    denial, heroic_funeral_rites may be a better secondary mapping.
+  suggested_aliases:
+  - hero devoured by monster
+  - monster consumes hero corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-escapes-when-a-line-is-cut
+  motif_id: monster_escapes_when_a_line_is_cut
+  label: monster escapes when a line is cut
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a captured or bound monster escaping through severed
+    restraint, but the narrative function is unclear.
+  cautions: Could fit threshold_guardian, trickster, sacred_combat, or external_soul
+    depending on whether the line is a bond, trap, lifeline, or ritual boundary.
+  suggested_aliases:
+  - monster escapes by cut tether
+  - severed line releases monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-figure-associated-with-a-region
+  motif_id: monster_figure_associated_with_a_region
+  label: monster figure associated with a region
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a geographic association or cataloging note rather
+    than a narrative motif.
+  cautions: If source evidence shows a regional tutelary monster or chaos opponent,
+    re-review under divine_warrior, threshold_guardian, or otherworld.
+  suggested_aliases:
+  - regional monster figure
+  - monster associated with place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-from-marginal-wet-dwelling
+  motif_id: monster_from_marginal_wet_dwelling
+  label: monster from marginal wet dwelling
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A monster emerging from a liminal wet dwelling fits boundary danger at
+    margins between human space and watery otherworld.
+  cautions: Do not map to flood_and_renewal unless catastrophic destruction and renewal
+    are present; may also relate to sacred_waters or otherworld.
+  suggested_aliases:
+  - monster from liminal waters
+  - wetland monster
+  - marginal-water monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-genealogy-from-primordial-murder
+  motif_id: monster_genealogy_from_primordial_murder
+  label: monster genealogy from primordial murder
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains monstrous lineage through an origin event involving
+    primordial violence.
+  cautions: If the murder is sacrificial dismemberment that forms the world, primordial_sacrifice
+    may be better; if only family descent is emphasized, this may be too genealogical
+    for pattern queries.
+  suggested_aliases:
+  - monsters descended from primordial murder
+  - monster lineage from first killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-heart-blood-as-cure-for-blindness
+  motif_id: monster_heart_blood_as_cure_for_blindness
+  label: monster heart-blood as cure for blindness
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster's heart-blood functions as a potent healing substance with
+    transformative bodily effect.
+  cautions: Could also relate to divine_warrior if obtained through combat, or sacred_law/sacrifice
+    if blood symbolism or ritual handling is central.
+  suggested_aliases:
+  - healing monster blood
+  - monster blood cures blindness
+  - heart-blood cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-host-interpreted-as-zodiacal-signs
+  motif_id: monster_host_interpreted_as_zodiacal_signs
+  label: monster host interpreted as zodiacal signs
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase centers on interpretation of a monster list as zodiacal signs,
+    not a narrative motif itself.
+  cautions: If the source passage directly depicts monsters as celestial beings, re-review
+    under cosmic_origin, dream_and_vision, or sacred_knowledge.
+  suggested_aliases:
+  - zodiacal interpretation of monster host
+  - monster host as zodiac signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-humiliated-by-bodily-planting-and-pursuit
+  motif_id: monster_humiliated_by_bodily_planting_and_pursuit
+  label: monster humiliated by bodily planting and pursuit
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly specific episode combining humiliation, body action,
+    and pursuit without a clear existing function.
+  cautions: Could involve trickster reversal, combat humiliation, etiological planting,
+    or transformation; culturally specific source context is needed.
+  suggested_aliases:
+  - monster humiliated through bodily planting
+  - pursued humiliated monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-kills-noble-youth
+  motif_id: monster_kills_noble_youth
+  label: Monster kills noble youth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A monster killing a noble youth belongs broadly to heroic/monstrous violence
+    and can motivate sacred combat or vengeance.
+  cautions: Very generic and episode-specific; if the youth's status, mourning, or
+    sacrifice is central, royal_legitimacy, lament_and_mourning, or sacrifice may
+    be more relevant.
+  suggested_aliases:
+  - monster slays noble youth
+  - youth killed by monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-released-from-confinement-after-a-plea-or-act-of-aid
+  motif_id: monster_released_from_confinement_after_a_plea_or_act_of_aid
+  label: Monster released from confinement after a plea or act of aid
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The release follows a plea or aid exchange, making reciprocity and obligation
+    the key narrative mechanism.
+  cautions: If the focus is the monster's dangerous confinement or escape rather than
+    reciprocal aid, threshold_guardian or trickster may be better secondary mappings.
+  suggested_aliases:
+  - monster freed after plea
+  - release of confined monster after aid
+  - dangerous being released through aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence monster episodes; preserve local evidence details
+  and avoid promoting a broad monster taxonomy without recurrence review.
+- Where monster combat is the only clear function, divine_warrior is used as the nearest
+  existing group even when the actor may be a human hero rather than a deity.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for highly specific monster
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1112
+  input_sha256: 5229bd083b68a9d2cca863ee7d80663b4a9c7548e6c4851077891ebf6a10ab97
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0219
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.regretful-journey-past-lost-royal-possessions
+  motif_id: regretful_journey_past_lost_royal_possessions
+  label: regretful journey past lost royal possessions
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label includes travel and loss, but reads like a specific episode
+    of retrospective lament rather than a durable journey motif.
+  cautions: Could fit lament_and_mourning, royal_legitimacy, exile_wandering, or be
+    only passage detail depending on source context.
+  suggested_aliases:
+  - journey past lost possessions
+  - regretful exile journey
+  - lost royal possessions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-worship-of-a-messenger
+  motif_id: rejected_worship_of_a_messenger
+  label: Rejected worship of a messenger
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A messenger refusing worship concerns the status and role of a divine
+    or angelic emissary in sacred communication.
+  cautions: If the emphasis is anti-idolatry or proper worship rather than messenger
+    agency, sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - messenger refuses worship
+  - angelic messenger rejects worship
+  - worship redirected from messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-divine-partners-through-human-ownership-analogy
+  motif_id: rejection_of_divine_partners_through_human_ownership_analogy
+  label: Rejection of divine partners through human ownership analogy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears to be a theological argument against associating partners
+    with God, framed as teaching or sacred norm.
+  cautions: May be doctrinal commentary rather than a narrative motif; review Islamic
+    theological sensitivity and source evidence before indexing.
+  suggested_aliases:
+  - rejection of divine partners
+  - anti-association analogy
+  - monotheistic worship argument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-false-worship
+  motif_id: rejection_of_false_worship
+  label: Rejection of false worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rejecting false worship functions as a sacred-law or covenantal boundary
+    around proper devotion and prohibited practice.
+  cautions: Could also involve divine_judgment if punishment follows, or sacred_knowledge
+    if framed as instruction against error.
+  suggested_aliases:
+  - rejection of idolatry
+  - prohibition of false worship
+  - exclusive proper worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-and-political-unification-enables-outward-conquest
+  motif_id: religious_and_political_unification_enables_outward_conquest
+  label: Religious and political unification enables outward conquest
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns sacred-political order enabling expansion, adjacent
+    to legitimate rule and conquest.
+  cautions: May be historical summary rather than motif; avoid indexing as transmission
+    or political history without narrative-symbolic evidence.
+  suggested_aliases:
+  - religious political unification
+  - sacred polity enables conquest
+  - unified community expands outward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-migration-creating-fictive-kinship-and-inheritance
+  motif_id: religious_migration_creating_fictive_kinship_and_inheritance
+  label: Religious migration creating fictive kinship and inheritance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Migration reorganizing kinship and inheritance describes a sacred communal
+    bond and social order created by religious allegiance.
+  cautions: If the passage centers on exile or journey itself, hero_journey may be
+    a secondary group; if it is legal detail only, sacred_law may fit better.
+  suggested_aliases:
+  - migration creates sacred kinship
+  - fictive kinship through religious migration
+  - religious allegiance replaces kinship inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-reform-replacing-older-worship
+  motif_id: religious_reform_replacing_older_worship
+  label: Religious reform replacing older worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Religious reform that displaces older worship marks a reordering of sacred
+    law, devotion, and communal practice.
+  cautions: Could be historical or doctrinal summary rather than motif; divine_judgment
+    may apply if older worship is punished or condemned narratively.
+  suggested_aliases:
+  - reform replaces old worship
+  - abolition of prior worship
+  - proper worship replaces older cult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removable-traveling-eyes
+  motif_id: removable_traveling_eyes
+  label: removable traveling eyes
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: uncertain
+  confidence: low
+  rationale: Detachable eyes that travel may involve separable body-parts, perception
+    at a distance, or externalized vital agency.
+  cautions: Could instead belong to dream_and_vision, shapeshifter, sacred_treasures,
+    or a local being-specific motif; culturally specific source context is needed.
+  suggested_aliases:
+  - detachable traveling eyes
+  - separable eyes
+  - eyes sent out to travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-of-kinship-before-divine-allegiance
+  motif_id: renunciation_of_kinship_before_divine_allegiance
+  label: Renunciation of kinship before divine allegiance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kinship is subordinated to a binding divine allegiance, matching covenantal
+    reorganization of social bonds.
+  cautions: May also fit renunciation under mystical_quest or sacred_exchange if personal
+    self-denial is central rather than communal allegiance.
+  suggested_aliases:
+  - divine allegiance over kinship
+  - renouncing kinship for faith
+  - sacred bond supersedes family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciatory-stewardship-while-governing
+  motif_id: renunciatory_stewardship_while_governing
+  label: renunciatory stewardship while governing
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Renounced or detached governance frames legitimate rule as ethical stewardship
+    rather than possessive power.
+  cautions: Could also map to mystical_quest or sacred_exchange if renunciation is
+    the main focus; review whether it is royal ideology, spiritual discipline, or
+    legal teaching.
+  suggested_aliases:
+  - detached governance
+  - renunciatory kingship
+  - stewardship without attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be doctrinal, legal, or historical summaries
+  rather than journey motifs despite the review bucket; human review should verify
+  passage evidence before broad indexing.
+- For Islamic theological labels, avoid flattening doctrinal claims into generic mythic
+  motifs without preserving local meaning and sensitivity.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and doctrinal/contextual labels
+    require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0219
+  input_sha256: 76d08d6c0092fc1987bde9e2e95f63847a7c916f304377fb4f40728c833265b6
+

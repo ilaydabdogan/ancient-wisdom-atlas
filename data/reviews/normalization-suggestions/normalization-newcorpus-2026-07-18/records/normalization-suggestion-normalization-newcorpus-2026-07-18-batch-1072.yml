@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1072
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-killed-by-concealed-engineered-trap
+  motif_id: hero_killed_by_concealed_engineered_trap
+  label: hero killed by concealed engineered trap
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A hero's death by stratagem fits combat/ordeal, but the concealed engineered
+    trap is episode-specific.
+  cautions: May be a narrative detail rather than a durable motif; review whether
+    the trap has ritual, fate, betrayal, or combat significance.
+  suggested_aliases:
+  - concealed trap kills hero
+  - hero slain by hidden device
+  - engineered ambush trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-leaves-marks-on-landscape
+  motif_id: hero_leaves_marks_on_landscape
+  label: Hero leaves marks on landscape
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroic actions that mark or form the landscape function as etiological
+    landscape formation, already present under cosmic_origin.
+  cautions: If the marks are only battle traces without origin explanation, sacred_combat
+    or a passage note may fit better.
+  suggested_aliases:
+  - heroic landscape marking
+  - etiological landscape marks by hero
+  - heroic traces in landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-minimizes-or-does-not-claim-full-battle-glory
+  motif_id: hero_minimizes_or_does_not_claim_full_battle_glory
+  label: hero minimizes or does not claim full battle glory
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: The label concerns heroic martial reputation and restraint after battle,
+    adjacent to warrior honor motifs.
+  cautions: Could be ethical humility, narrative characterization, or honor-code detail
+    rather than a mythic motif; source context is needed.
+  suggested_aliases:
+  - heroic humility after battle
+  - renounced battle glory
+  - warrior does not claim full credit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-myths-as-saga-prehistory
+  motif_id: hero_myths_as_saga_prehistory
+  label: hero-myths as saga prehistory
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary or historiographic framing of hero myths,
+    not a narrative motif.
+  cautions: Preserve as provenance or genre-context metadata if useful, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - hero myth as prehistory
+  - saga prehistory framing
+  - mythic prehistory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-overcomes-a-many-man-ambush
+  motif_id: hero_overcomes_a_many_man_ambush
+  label: Hero overcomes a many-man ambush
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero defeating an overwhelming ambush is a combat ordeal and heroic
+    victory pattern.
+  cautions: May be too specific unless similar overwhelming-odds combat labels recur;
+    avoid treating every battle success as sacred combat without context.
+  suggested_aliases:
+  - hero defeats ambush
+  - overwhelming ambush overcome
+  - single hero against many attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-overcomes-enchanted-mass
+  motif_id: hero_overcomes_enchanted_mass
+  label: Hero overcomes enchanted mass
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The hero overcoming a supernatural obstacle may be combat or ordeal,
+    but 'enchanted mass' is unclear from the label alone.
+  cautions: Review whether the mass is a monster, magical object, landscape obstacle,
+    spell, or passage artifact before final mapping.
+  suggested_aliases:
+  - hero defeats enchanted obstacle
+  - enchanted mass overcome
+  - supernatural obstruction overcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-protects-ascetics-by-defeating-malignant-beings
+  motif_id: hero_protects_ascetics_by_defeating_malignant_beings
+  label: hero protects ascetics by defeating malignant beings
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A hero defending holy practitioners by defeating hostile beings fits
+    sacred combat as protection of sacred order.
+  cautions: Could also involve divine_intervention if the hero acts as an instrument
+    of divine protection; preserve ascetic-protection detail.
+  suggested_aliases:
+  - hero defends ascetics
+  - protector hero defeats demons
+  - defense of holy practitioners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-race-destroyed-in-terrible-battles
+  motif_id: hero_race_destroyed_in_terrible_battles
+  label: hero-race destroyed in terrible battles
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Destruction of a heroic race through battle may belong to sacred combat
+    or world-age decline, depending on narrative function.
+  cautions: If the focus is extinction of an age or people, world_ages_cosmic_decline
+    or catastrophe renewal may be more appropriate; avoid mapping from warfare alone.
+  suggested_aliases:
+  - heroic race destroyed in battle
+  - extinction of hero race
+  - terrible battles destroy heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-recognized-by-bodily-wound-after-public-review
+  motif_id: hero_recognized_by_bodily_wound_after_public_review
+  label: hero recognized by bodily wound after public review
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: A bodily wound used to identify a hero is a recognition-token pattern,
+    closely matching recognition by scar or bodily mark.
+  cautions: If the wound mainly proves martial service rather than identity, divine_warrior
+    may be a secondary context.
+  suggested_aliases:
+  - recognition by wound
+  - hero identified by scar
+  - bodily wound as identity proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-recounts-solitary-battle-against-overwhelming-foes
+  motif_id: hero_recounts_solitary_battle_against_overwhelming_foes
+  label: Hero recounts solitary battle against overwhelming foes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core event is a solitary hero facing overwhelming enemies, a heroic
+    combat ordeal; recounting may add narrative framing.
+  cautions: If the emphasis is the act of recounting as proof, boasting, or transmission,
+    storytelling_as_power or warrior-honor context may be secondary.
+  suggested_aliases:
+  - single hero against overwhelming foes
+  - hero recounts lone battle
+  - solitary battle against many enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence heroic combat details; map cautiously and preserve
+  episode specificity as evidence notes.
+- Do not infer transmission or shared origin from Persian, Celtic, Hindu, Estonian,
+  Hawaiian, or Maya-Quiche placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous battle and genre-framing labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1072
+  input_sha256: 54c1ece97026ab391247fee6e4d07a71ab2a3fd48b4214d54b5e99023c005882
+

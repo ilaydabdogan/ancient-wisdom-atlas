@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1624
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.trust-betrayed-for-a-feast-drink
+  motif_id: trust_betrayed_for_a_feast_drink
+  label: trust betrayed for a feast drink
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing group explicitly covers feast or drink betrayal as a violated
+    trust pattern.
+  cautions: Single occurrence; verify that betrayal of trust, not merely drinking
+    or feasting, is the narrative engine.
+  suggested_aliases:
+  - betrayal through feast or drink
+  - feast drink betrayal
+  - hospitality or drink betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trusted-lone-official-hears-a-secret-royal-case
+  motif_id: trusted_lone_official_hears_a_secret_royal_case
+  label: trusted lone official hears a secret royal case
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve royal judgment, confidential counsel, or narrative setup,
+    but the motif function is unclear from the label alone.
+  cautions: Likely over-contextual; do not map to royal_legitimacy or divine_judgment
+    unless the passage shows sacred kingship, legal judgment, or moral reckoning.
+  suggested_aliases:
+  - trusted official hears secret case
+  - confidential royal hearing
+  - secret royal legal case
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trusted-messenger-carrying-consolation
+  motif_id: trusted_messenger_carrying_consolation
+  label: trusted messenger carrying consolation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a messenger role and emotional function, but no existing
+    group cleanly captures consolation-bearing messengers.
+  cautions: Could be a passage-specific plot function; if the message proves identity,
+    carries divine guidance, or mediates lovers, map instead to recognition_tokens_hidden_identity,
+    divine_intervention, or sacred_love as supported by evidence.
+  suggested_aliases:
+  - consoling messenger
+  - trusted envoy bearing consolation
+  - messenger of comfort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tupilak-and-wizardry-themes-in-visual-selection
+  motif_id: tupilak_and_wizardry_themes_in_visual_selection
+  label: tupilak and wizardry themes in visual selection
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes visual selection or curation themes rather than
+    a narrative motif.
+  cautions: Culturally sensitive Inuit material; preserve provenance separately if
+    the source discusses tupilak beings or ritual practice, but exclude this visual-selection
+    label from motif queries.
+  suggested_aliases:
+  - tupilak visual selection theme
+  - wizardry theme in visual selection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tupilak-made-from-bones-and-animated
+  motif_id: tupilak_made_from_bones_and_animated
+  label: Tupilak made from bones and animated
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A constructed being made from bones and animated fits the existing artificial
+    or animated creature cluster under sacred craft.
+  cautions: Review Inuit context carefully; if the emphasis is sorcery, vengeance,
+    or spirit agency rather than crafted animation, a secondary divine_intervention
+    or sacred_law placement may be needed.
+  suggested_aliases:
+  - animated bone tupilak
+  - constructed animated being from bones
+  - bone figure brought to life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.turning-from-handmade-cult-objects-to-the-maker
+  motif_id: turning_from_handmade_cult_objects_to_the_maker
+  label: Turning from handmade cult objects to the Maker
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Renouncing handmade cult objects for the creator functions as restoration
+    of covenantal allegiance.
+  cautions: Could also involve idol polemic, divine judgment, or sacred law; avoid
+    treating all idol references as forbidden knowledge without passage evidence.
+  suggested_aliases:
+  - turning from idols to the maker
+  - renunciation of handmade cult objects
+  - return from idols to creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.turning-from-sin-to-life
+  motif_id: turning_from_sin_to_life
+  label: Turning from sin to life
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label expresses moral reckoning and restoration from wrongdoing toward
+    life.
+  cautions: If the passage emphasizes covenant renewal, map secondarily to covenant;
+    if it emphasizes inner transformation or rebirth, death_and_transformation may
+    be relevant.
+  suggested_aliases:
+  - repentance leading to life
+  - turning from sin
+  - moral return to life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.twelve-cosmic-powers-and-signs
+  motif_id: twelve_cosmic_powers_and_signs
+  label: Twelve cosmic powers and signs
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to cosmic ordering, zodiacal powers, archons, or
+    revelatory signs, but the function is not clear.
+  cautions: Gnostic cosmological terminology is context-dependent; do not collapse
+    into duality, sacred_knowledge, or cosmic_origin without evidence of the passage
+    role.
+  suggested_aliases:
+  - twelve cosmic powers
+  - twelve signs and powers
+  - zodiacal cosmic powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.twelvefold-collective-dedication
+  motif_id: twelvefold_collective_dedication
+  label: twelvefold collective dedication
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Collective dedication is an offering or set-apart act that repairs or
+    establishes sacred relationship.
+  cautions: The number twelve may be symbolic of tribes or apostles; if the passage
+    emphasizes covenantal structure rather than offering, covenant may be the better
+    primary group.
+  suggested_aliases:
+  - collective dedication by twelve
+  - twelvefold offering
+  - twelve-part communal dedication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.two-romances-from-one-legend-combined
+  motif_id: two_romances_from_one_legend_combined
+  label: two romances from one legend combined
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary compilation or source-combination history
+    rather than a symbolic or narrative motif.
+  cautions: Preserve as textual provenance if needed, but exclude from motif pattern
+    queries and do not infer transmission claims here.
+  suggested_aliases:
+  - combined romance traditions
+  - two romances combined from one legend
+  - legendary source combination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission or borrowing claims.
+- Several single-occurrence labels appear over-contextual and should be checked against
+  passage evidence before durable indexing.
+- Culturally specific Inuit and Gnostic labels should receive human review for terminology
+  and source context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: JSON suggestions generated for batch 1624; human taxonomy review still required.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1624
+  input_sha256: 830c29f8df45ae0dd041257d8a00bffbb0e372bc8062a3bcc23b31ad9ba202a4
+

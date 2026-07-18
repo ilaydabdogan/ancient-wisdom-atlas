@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l1675-l1727
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: ADDENDA 300 / INTRODUCTION / THUS     THERE     RESULTS     AS    THE     PROBABLE     YEAH,    OF     THE
+    / XXXVI; lines 1675-1727
+  start: '1675'
+  end: '1727'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial introduction discussing textual-critical variants in dates and
+    numbers in the Mahavamsa and Dipavamsa, including a prophecy concerning Dutthagamani,
+    a note on Sena and Guttika, and the setup for a provisional list of the ancient
+    kings of Ceylon based on 483 B.C.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a source labelled “valiya1)” gives the number 22 and
+    relates this to the date in the Mahavamsa at the time the Thup. was composed.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage discusses alternate manuscript readings for a number in Mah. 27.6
+    in connection with a prophecy concerning Dutthagamani.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor judges the reading “140” safer than “146” and considers a round
+    number more appropriate in that context.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that Burmese manuscripts usually contain the better text,
+    while proposing that the Burmese recension may have adopted a Dipavamsa reading
+    regarding Sena and Guttika.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage proposes that a number in Mah. 27.6 may have been altered to remove
+    an error in the addition total.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage introduces a provisional list of the ancient kings of Ceylon based
+    on the date 483 B.C. and arranged according to Dip. and Mah.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The table headings include number, name, Dip., Mah., length of reign, Buddhist
+    Era, 483 B.C., Christian Era, and additional Dip. and Mah. columns.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dutthagamani
+  description: Named figure referenced as the subject of a prophecy in Mah. 27.6.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sena and Guttika
+  description: Named pair referenced in a discussion of readings in the Burmese recension
+    and the Dipavamsa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: ancient kings of Ceylon
+  description: Collective royal group introduced as the subject of a provisional list.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: subject of prophecy
+  assigned_to:
+  - fig:1
+  basis: Mah. 27.6 is described as containing a prophecy concerning Dutthagamani.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: subjects of textual-reading discussion
+  assigned_to:
+  - fig:2
+  basis: The passage discusses Sena and Guttika in relation to a possible reading
+    adopted by the Burmese recension from the Dipavamsa.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: listed royal group
+  assigned_to:
+  - fig:3
+  basis: The section introduces a list of the ancient kings of Ceylon with chronological
+    columns.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Textual-critical introduction and royal list setup
+  summary: The passage weighs manuscript readings and chronological numbers, then
+    introduces a provisional chronological list of the ancient kings of Ceylon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1679-1681
+  quote_or_summary: A source labelled “valiya1)” is said to give the number 22, and
+    the passage relates this to the date in the Mahavamsa when Thup. was composed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1683-1689
+  quote_or_summary: "“Mah. 27. 6 in the prophecy concerning Dutthagamani” is discussed
+    with readings “146” and “140”; the latter is called safer and more appropriate
+    as a round number."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:3
+  type: summary
+  locator: lines 1693-1702
+  quote_or_summary: The editor reluctantly departs from the Burmese manuscripts, says
+    they usually have the better text, and suggests that regarding Sena and Guttika
+    the Burmese recension may have adopted the Dipavamsa reading and altered a number
+    in Mah. 27.6 to correct an addition total.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1704-1705
+  quote_or_summary: "“Taking as a basis the date 483 B. c. we can provisionally draw
+    up a list of the kings according to Dip. and Mah.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 1707-1727
+  quote_or_summary: The section heading reads “List of the Ancient Kings of Ceylon,”
+    followed by table headings for number, name, Dip., Mah., length of reign, Buddhist
+    Era, 483 B.C., Christian Era, Dip., and Mah.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily editorial and chronological rather than mythic narrative.
+    It mentions a prophecy and a royal list, but the supplied excerpt does not provide
+    enough narrative content to assign a supported motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols or comparison claims were extracted because the provided passage does not contain explicit symbolic imagery or supported comparative-motif claims.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l1675-l1727
+  passage_sha256=0e56be4273b808ea467aacc89e5f4016f27133d3518f8a446ff717d9ffe23cf0
+

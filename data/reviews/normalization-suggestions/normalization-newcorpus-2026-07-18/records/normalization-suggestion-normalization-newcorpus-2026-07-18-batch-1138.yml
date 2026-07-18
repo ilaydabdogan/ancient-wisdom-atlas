@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1138
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reluctant-guide-compelled-to-accompany-the-hero
+  motif_id: reluctant_guide_compelled_to_accompany_the_hero
+  label: Reluctant guide compelled to accompany the hero
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A compelled guide serves the hero's journey through trial or passage,
+    especially where guidance enables the quest.
+  cautions: Single occurrence; if coercion or betrayal is central, sacred_exchange
+    or betrayal_violated_trust may be relevant instead.
+  suggested_aliases:
+  - compelled_guide
+  - reluctant_guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-heroes-debate-who-must-go-first
+  motif_id: reluctant_heroes_debate_who_must_go_first
+  label: reluctant heroes debate who must go first
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears to be a scene-level debate before danger rather than
+    a durable motif group.
+  cautions: Could fit sacred_combat, hero_journey, or initiation if the first-to-go
+    question marks a threshold ordeal; source context needed.
+  suggested_aliases:
+  - heroes_debate_first_entry
+  - reluctance_before_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-use-of-decisive-weapon
+  motif_id: reluctant_use_of_decisive_weapon
+  label: reluctant use of decisive weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns a decisive martial act within combat and the hesitation
+    before unleashing it.
+  cautions: If the weapon itself confers sacred authority or special power, sacred_treasures
+    may be a secondary mapping; if reluctance is ethical, sacred_law may matter.
+  suggested_aliases:
+  - hesitation_before_decisive_weapon
+  - decisive_weapon_reluctantly_used
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-warrior-at-the-battle-threshold
+  motif_id: reluctant_warrior_at_the_battle_threshold
+  label: reluctant warrior at the battle threshold
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's hesitation at the point of battle fits combat as ethical
+    or sacred ordeal.
+  cautions: In didactic contexts this may primarily be sacred_knowledge or warrior_duty_under_crisis
+    rather than combat action alone.
+  suggested_aliases:
+  - battle_threshold_reluctance
+  - warrior_hesitation_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-warrior-goaded-into-combat
+  motif_id: reluctant_warrior_goaded_into_combat
+  label: reluctant warrior goaded into combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on being provoked into battle, a recurring combat-threshold
+    function.
+  cautions: If the goading is an insult-driven speech act, curse_blessing_speech or
+    storytelling_as_power could be relevant as secondary context.
+  suggested_aliases:
+  - goaded_into_combat
+  - provoked_reluctant_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remembered-battle-against-warrior-women
+  motif_id: remembered_battle_against_warrior_women
+  label: remembered battle against warrior women
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to a remembered or referenced battle episode, not
+    a reusable symbolic or narrative motif.
+  cautions: If the passage contains a full recurring pattern of combat with warrior
+    women, human review could map it to sacred_combat instead.
+  suggested_aliases:
+  - recalled_battle_with_warrior_women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reminder-of-insult-renews-the-hero-s-resolve
+  motif_id: reminder_of_insult_renews_the_hero_s_resolve
+  label: Reminder of insult renews the hero's resolve
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An insult reviving martial resolve functions as a trigger within heroic
+    combat or ordeal.
+  cautions: May be too scene-specific; if the insult is a binding speech act, curse_blessing_speech
+    may be relevant.
+  suggested_aliases:
+  - insult_renews_resolve
+  - heroic_resolve_triggered_by_insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remnant-survivors-who-testify-among-nations
+  motif_id: remnant_survivors_who_testify_among_nations
+  label: Remnant survivors who testify among nations
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A preserved remnant bearing witness after catastrophe fits judgment,
+    punishment, and moral testimony.
+  cautions: If the emphasis is survival after world-destruction, survivor_pair or
+    flood_and_renewal may be better; if testimony is prophetic, prophecy_divination
+    may be secondary.
+  suggested_aliases:
+  - surviving_remnant_as_witness
+  - remnant_testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removal-of-heart-and-concealment-of-body-after-battle-killing
+  motif_id: removal_of_heart_and_concealment_of_body_after_battle_killing
+  label: Removal of heart and concealment of body after battle killing
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a culturally specific post-killing body treatment and may depend
+    heavily on source evidence and ritual context.
+  cautions: Could involve sacred_combat, sacrifice, external_soul, denied burial,
+    or passage-specific violence; review sensitively before indexing.
+  suggested_aliases:
+  - heart_removed_after_battle_killing
+  - body_concealed_after_combat_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-of-warrior-status-goods-through-burning
+  motif_id: renunciation_of_warrior_status_goods_through_burning
+  label: renunciation of warrior status goods through burning
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burning valued status goods to renounce warrior identity fits surrender
+    or offering of valued possessions.
+  cautions: If the focus is mystical detachment, renunciation under mystical_quest
+    may be a better secondary mapping; if funerary, heroic_funeral_rites should be
+    reviewed.
+  suggested_aliases:
+  - burning_warrior_goods
+  - renunciation_by_burning_status_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence combat-threshold scenes; preserve
+  as evidence details unless recurrence supports a finer warrior-reluctance subgroup.
+- Avoid treating reluctance before combat as automatically mystical or ethical; source
+  context should distinguish battlefield duty, initiation ordeal, and didactic teaching.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    body-treatment and over-specific battle-reference labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1138
+  input_sha256: 69b2c163fda8478cadb3ae1240ae096609269c5b071617f2492f4be8aae95259
+

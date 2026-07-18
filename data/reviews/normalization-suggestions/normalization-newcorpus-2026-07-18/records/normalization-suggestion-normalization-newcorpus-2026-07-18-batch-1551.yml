@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1551
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-messengers-and-demanded-miracles
+  motif_id: rejected_messengers_and_demanded_miracles
+  label: Rejected messengers and demanded miracles
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of divine messengers and demand for signs commonly functions
+    as human refusal of sacred warning before judgment.
+  cautions: Could also fit prophecy_divination or theophany if the passage emphasizes
+    messenger role or sign-revelation rather than moral reckoning.
+  suggested_aliases:
+  - rejected_prophetic_messengers
+  - demanded_miracles_after_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-object-exalted-as-foundation
+  motif_id: rejected_object_exalted_as_foundation
+  label: Rejected object exalted as foundation
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A rejected object becoming a foundation may be a sacred or symbolic object
+    whose status is reversed and exalted.
+  cautions: Label is abstract and could be architectural, christological, wisdom,
+    or editorial allusion; compare with rejected_stone_becomes_cornerstone before
+    final mapping.
+  suggested_aliases:
+  - rejected_foundation_object
+  - despised_object_exalted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-omen-before-assault
+  motif_id: rejected_omen_before_assault
+  label: Rejected omen before assault
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: An omen ignored before violence belongs with divinatory warning and human
+    refusal to heed it.
+  cautions: If the assault and punishment are central, divine_judgment or sacred_combat
+    may be useful secondary contexts.
+  suggested_aliases:
+  - ignored_omen_before_attack
+  - unheeded_omen_before_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-or-injured-prophetic-messenger
+  motif_id: rejected_or_injured_prophetic_messenger
+  label: Rejected or injured prophetic messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on a prophetic messenger whose warning or authority
+    is refused or harmed.
+  cautions: If the narrative emphasizes punishment for rejecting the messenger, divine_judgment
+    may be the stronger parent.
+  suggested_aliases:
+  - rejected_prophetic_messenger
+  - injured_prophetic_messenger
+  - persecuted_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-ransom-for-captive-kin
+  motif_id: rejected_ransom_for_captive_kin
+  label: rejected ransom for captive kin
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing covenant group already contains rejected ransom and supplication-refusal
+    variants; this is a kin-captive form of refused exchange or mercy.
+  cautions: Could fit sacred_exchange if the ransom transaction is central, or conflict
+    motifs if framed mainly as captivity warfare.
+  suggested_aliases:
+  - ransom_for_kin_refused
+  - supplication_ransom_for_captive_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-stone-becomes-cornerstone
+  motif_id: rejected_stone_becomes_cornerstone
+  label: Rejected stone becomes cornerstone
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The cornerstone is a foundational sacred-center image, especially when
+    rejected material becomes the organizing support of a new order.
+  cautions: May also be a christological quotation or textual allusion rather than
+    an independent motif; could relate to royal_legitimacy or sacred_treasures depending
+    on context.
+  suggested_aliases:
+  - rejected_cornerstone
+  - stone_rejected_by_builders
+  - rejected_foundation_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-wooing-of-a-loyal-woman
+  motif_id: rejected_wooing_of_a_loyal_woman
+  label: rejected wooing of a loyal woman
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns fidelity and refusal of an unwanted suitor, which
+    fits the existing love/fidelity cluster more than ritual or judgment groups.
+  cautions: May be a conventional romance episode or person-specific plot detail;
+    if loyalty is political or kinship-based, another group may be better.
+  suggested_aliases:
+  - loyal_woman_rejects_suitor
+  - faithful_woman_refuses_wooing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-and-slaying-of-prophets
+  motif_id: rejection_and_slaying_of_prophets
+  label: Rejection and slaying of prophets
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Slaying prophets after rejecting their message is a grave transgression
+    that typically motivates sacred judgment or communal moral reckoning.
+  cautions: Also belongs near prophecy_divination because the victims are prophets;
+    final placement depends on whether the passage emphasizes prophetic office or
+    punishment for rejection.
+  suggested_aliases:
+  - prophets_rejected_and_s slain
+  - slaying_of_rejected_prophets
+  - persecution_of_prophets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-adornment-demanded-by-a-male-speaker
+  motif_id: rejection_of_adornment_demanded_by_a_male_speaker
+  label: rejection of adornment demanded by a male speaker
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to determine whether it concerns gendered
+    agency, marriage refusal, ritual dress, or dialogue detail.
+  cautions: Could be a passage artifact; source evidence is needed before mapping
+    to sacred_love, sacred_law, or social-order motifs.
+  suggested_aliases:
+  - refusal_of_requested_adornment
+  - woman_refuses_adornment_demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-signs-as-sorcery-and-demand-for-miracles
+  motif_id: rejection_of_signs_as_sorcery_and_demand_for_miracles
+  label: Rejection of signs as sorcery and demand for miracles
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misreading sacred signs as sorcery and demanding further miracles functions
+    as refusal of revelation before judgment.
+  cautions: Could also index under theophany or prophecy_divination if signs and miracle
+    demands are treated as revelation/prophetic proof rather than culpable rejection.
+  suggested_aliases:
+  - signs_rejected_as_sorcery
+  - demand_for_miracles_after_signs
+  - rejection_of_miraculous_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several Islamic labels form a recurring cluster: rejection of prophetic messengers,
+  signs, and miracles. Current groups can hold them under divine_judgment or prophecy_divination,
+  but reviewers may consider a future child label for rejected prophetic warning if
+  recurrence grows.'
+- The two rejected-object/stone labels should be reviewed together; one may be an
+  over-generalized duplicate of the cornerstone motif.
+- Single-occurrence romance and adornment labels are context-sensitive and should
+  not be promoted without passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for low-confidence
+    contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1551
+  input_sha256: b3b12c1116c49bcd66d419e7d97a42a329ff634b07e15ef6bcd13fff23f15b6f
+

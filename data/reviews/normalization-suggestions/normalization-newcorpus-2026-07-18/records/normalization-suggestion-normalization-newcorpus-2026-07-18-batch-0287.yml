@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0287
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-combat-and-heroic-praise
+  motif_id: divine_combat_and_heroic_praise
+  label: Divine combat and heroic praise
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label combines divine battle with heroic celebration, fitting sacred
+    combat by a god or hero.
+  cautions: Praise may be a hymn or passage feature rather than the core motif; confirm
+    combat is narratively central.
+  suggested_aliases:
+  - divine combat
+  - heroic praise after divine combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-combat-stopped-by-a-divine-mediator
+  motif_id: divine_combat_stopped_by_a_divine_mediator
+  label: Divine combat stopped by a divine mediator
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: A divine battle interrupted by another divine figure is a specific sacred-combat
+    resolution pattern.
+  cautions: The mediator role may be important enough for secondary indexing under
+    divine_intervention if the passage centers on intervention rather than combat.
+  suggested_aliases:
+  - mediated divine combat
+  - divine mediator stops combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-establishes-sanctuary-iconography
+  motif_id: divine_command_establishes_sanctuary_iconography
+  label: Divine command establishes sanctuary iconography
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns divine instruction shaping sacred images or sanctuary
+    design, aligning with sacred construction and crafted cult forms.
+  cautions: If the focus is the sanctuary as cosmic center, axis_mundi or world_center
+    may be a secondary mapping; if only editorial description, review before indexing.
+  suggested_aliases:
+  - divinely commanded sanctuary imagery
+  - sanctuary iconography by divine command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-followed-by-collective-obedience
+  motif_id: divine_command_followed_by_collective_obedience
+  label: divine command followed by collective obedience
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Collective obedience to divine command fits a covenantal or sacred-law
+    relationship organizing communal order.
+  cautions: Label is broad and may be a passage summary; use sacred_law instead if
+    the evidence centers on law code or ritual command rather than covenantal obedience.
+  suggested_aliases:
+  - communal obedience to divine command
+  - collective obedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-over-water-in-battle
+  motif_id: divine_command_over_water_in_battle
+  label: divine command over water in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water is controlled as a battle power, so the narrative function is sacred
+    combat rather than general water symbolism.
+  cautions: Could also relate to sacred_waters or chaos if the passage emphasizes
+    mastery over waters as cosmic ordering rather than battle action.
+  suggested_aliases:
+  - battlefield command over water
+  - water commanded in divine combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-over-waters
+  motif_id: divine_command_over_waters
+  label: Divine command over waters
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on divine mastery of waters, fitting the sacred-waters
+    field without assuming flood or passage.
+  cautions: If the command separates primordial waters, cosmic_origin or chaos may
+    be better; if it enables crossing, passage_through_waters may be the narrower
+    mapping.
+  suggested_aliases:
+  - divine mastery of waters
+  - command over waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-transmitted-through-a-night-messenger
+  motif_id: divine_command_transmitted_through_a_night_messenger
+  label: divine command transmitted through a night messenger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A messenger delivering a divine command is direct sacred guidance in
+    human affairs.
+  cautions: Night setting may indicate dream or vision if the messenger appears in
+    sleep; otherwise preserve as evidence detail rather than a separate motif.
+  suggested_aliases:
+  - divine messenger command
+  - night messenger conveys divine command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-commission-to-warn-and-preach
+  motif_id: divine_commission_to_warn_and_preach
+  label: Divine commission to warn and preach
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred power commissions a human figure to deliver warning and preaching,
+    matching divine call and guidance patterns.
+  cautions: Could be secondarily indexed under prophecy_divination or sacred_knowledge
+    if the passage emphasizes prophetic speech content over the commissioning event.
+  suggested_aliases:
+  - prophetic commission
+  - divine call to warn
+  - commission to preach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-commissioning-to-warn
+  motif_id: divine_commissioning_to_warn
+  label: Divine commissioning to warn
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is a divine call or commission assigning a warning role to
+    a human messenger.
+  cautions: Near-duplicate of divine_commission_to_warn_and_preach; consider aliasing
+    or merging at review.
+  suggested_aliases:
+  - divine call to warn
+  - prophetic warning commission
+  - divine commission to warn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-composite-body-containing-gods
+  motif_id: divine_composite_body_containing_gods
+  label: divine composite body containing gods
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A composite divine body containing gods is an overwhelming manifestation
+    of sacred presence or divine totality.
+  cautions: If the passage is iconographic taxonomy rather than a witnessed manifestation,
+    sacred_craft or human review may be preferable; avoid treating all composite imagery
+    as theophany without evidence.
+  suggested_aliases:
+  - divine body containing gods
+  - composite divine manifestation
+  - many-gods-in-one body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and may be passage summaries; final placement
+  should verify whether the passage evidence describes a recurring motif rather than
+  contextual narration.
+- Divine command/commission labels cluster around divine_intervention, covenant, sacred_law,
+  and prophecy; preserve the specific function rather than merging all into generic
+  revelation.
+- Water labels should not be forced into flood_and_renewal unless destruction and
+  renewal of an old order are explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0287; human review
+    recommended for single-occurrence and iconographic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0287
+  input_sha256: 983c4aae80d517b38ed527ae6fc3c9d6ca05ab265e0e6352a5265eda30dfeb2a
+

@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0220
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-ford-or-water-crossing-place-pattern
+  motif_id: repeated_ford_or_water_crossing_place_pattern
+  label: Repeated ford or water-crossing place pattern
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ford or repeated water crossing is best treated as water as boundary
+    or passage, especially in journey contexts.
+  cautions: If the ford is mainly a duel site or uncanny encounter, sacred_combat
+    or threshold_guardian may be a secondary fit.
+  suggested_aliases:
+  - ford crossing
+  - repeated water crossing
+  - water-crossing place pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-roadside-invitation-and-refusal
+  motif_id: repeated_roadside_invitation_and_refusal
+  label: Repeated roadside invitation and refusal
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a repeated episode pattern, but the narrative function
+    of the invitation and refusal is unclear.
+  cautions: Could be hospitality test, temptation, threshold encounter, courtship
+    refusal, or passage-specific formula; source evidence is needed.
+  suggested_aliases:
+  - roadside invitation refused
+  - repeated invitation refusal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-shore-journey-to-uncanny-huts
+  motif_id: repeated_shore_journey_to_uncanny_huts
+  label: Repeated shore journey to uncanny huts
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Uncanny huts reached by shore journey suggest an encounter with an enchanted
+    or nonordinary realm alongside ordinary geography.
+  cautions: If the huts serve chiefly as ordeal stations or thresholds, initiation
+    or threshold_guardian may be better secondary mappings.
+  suggested_aliases:
+  - shore journey to uncanny dwellings
+  - uncanny huts by the shore
+  - repeated uncanny hut journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.representative-tribal-leadership
+  motif_id: representative_tribal_leadership
+  label: Representative tribal leadership
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Leadership by tribal representatives concerns authorized social order
+    and legitimate governance.
+  cautions: May be legal-administrative rather than mythic; if framed as covenantal
+    organization, covenant or sacred_law may also apply.
+  suggested_aliases:
+  - tribal representatives
+  - representative leadership
+  - authorized tribal leaders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-a-visible-or-local-god-after-deliverance
+  motif_id: request_for_a_visible_or_local_god_after_deliverance
+  label: request for a visible or local god after deliverance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve idolatry, covenant breach, divine judgment, or
+    a demand for visible theophany after rescue.
+  cautions: Culturally sensitive and source-dependent; avoid collapsing local-god
+    request into idol or theophany without passage evidence.
+  suggested_aliases:
+  - request for visible god
+  - local god requested after deliverance
+  - demand for embodied deity after rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.requested-animal-exchanged-for-non-money-payment
+  motif_id: requested_animal_exchanged_for_non_money_payment
+  label: Requested animal exchanged for non-money payment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an exchange detail, but its sacred, narrative, or
+    folkloric function is not evident.
+  cautions: Could be ordinary barter, hospitality, bargain with a helper, animal tale
+    setup, or passage artifact; do not index broadly without context.
+  suggested_aliases:
+  - animal exchanged for non-monetary payment
+  - barter for requested animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.requested-dangerous-knowledge-demonstrated-through-ordeal
+  motif_id: requested_dangerous_knowledge_demonstrated_through_ordeal
+  label: Requested dangerous knowledge demonstrated through ordeal
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: Dangerous knowledge sought or demonstrated through ordeal fits sacred
+    or forbidden knowledge acquired through testing.
+  cautions: If the ordeal primarily changes status, initiation should be a secondary
+    mapping; handle culturally specific ritual knowledge carefully.
+  suggested_aliases:
+  - dangerous knowledge ordeal
+  - ordeal demonstrating forbidden knowledge
+  - requested dangerous wisdom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-captive-sisters-as-quest-objective
+  motif_id: rescue_of_captive_sisters_as_quest_objective
+  label: Rescue of captive sisters as quest objective
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescuing captive kin as the objective supplies a quest goal within a
+    departure-trial-return structure.
+  cautions: If the sisters are abducted beloved figures, sacred_love or stolen_beloved
+    may be relevant; if demons dominate, divine_warrior may be secondary.
+  suggested_aliases:
+  - quest to rescue captive sisters
+  - captive sisters rescue quest
+  - kin rescue quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-threatened-ships-from-fire
+  motif_id: rescue_of_threatened_ships_from_fire
+  label: rescue of threatened ships from fire
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines maritime danger, fire, and rescue, but does not show
+    whether the function is divine aid, heroic action, or episode detail.
+  cautions: Could map to divine_intervention, hero_journey, sacred_fire, or be too
+    specific; source context is needed.
+  suggested_aliases:
+  - ships rescued from fire
+  - maritime fire rescue
+  - rescue of burning-threatened ships
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-quest-for-captives-held-by-demons
+  motif_id: rescue_quest_for_captives_held_by_demons
+  label: rescue quest for captives held by demons
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: A quest to free captives from demonic captors fits the heroic journey
+    as rescue objective plus ordeal.
+  cautions: If combat against demons is central, divine_warrior or sacred_combat may
+    be secondary; if captive beloved is emphasized, sacred_love may also apply.
+  suggested_aliases:
+  - demon-captive rescue quest
+  - quest to rescue captives from demons
+  - captives held by demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, episode-specific labels; preserve them as evidence
+  details unless recurrence or clear narrative function is confirmed.
+- Journey-bucket labels often require source context to distinguish literal travel
+  from initiation, otherworld passage, rescue quest, hospitality test, or ordinary
+  plot mechanics.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0220
+  input_sha256: 070c58290a3acea930cd328968e577f7cca51293c962897ee2c9a02b1171cec8
+

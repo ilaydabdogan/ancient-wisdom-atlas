@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1016
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.battlefield-dense-enough-to-bear-chariots-on-weapons
+  motif_id: battlefield_dense_enough_to_bear_chariots_on_weapons
+  label: Battlefield dense enough to bear chariots on weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes hyperbolic battlefield density in heroic combat,
+    broadly within sacred or heroic warfare.
+  cautions: Single occurrence and likely a poetic image rather than a durable motif;
+    verify ritual or narrative function before indexing.
+  suggested_aliases:
+  - battlefield density hyperbole
+  - weapons forming battlefield surface
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-devastation-after-heroic-combat
+  motif_id: battlefield_devastation_after_heroic_combat
+  label: battlefield devastation after heroic combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Battlefield devastation following heroic combat fits the aftermath of
+    ritually or cosmically charged warfare.
+  cautions: May be a generic battle aftermath description unless the passage marks
+    sacred stakes, heroic ordeal, or cosmic order.
+  suggested_aliases:
+  - devastation after heroic battle
+  - battlefield aftermath of heroic combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-identification-by-heraldic-signs
+  motif_id: battlefield_identification_by_heraldic_signs
+  label: battlefield identification by heraldic signs
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heraldic signs function as visible tokens proving identity or affiliation
+    in battle.
+  cautions: If the signs are merely descriptive military equipment, this may be too
+    contextual for motif queries.
+  suggested_aliases:
+  - recognition by heraldic signs
+  - battlefield recognition signs
+  - identity by heraldic emblem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-identity-through-emblematic-standards
+  motif_id: battlefield_identity_through_emblematic_standards
+  label: battlefield identity through emblematic standards
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Emblematic standards identify warriors or factions and act as public
+    identity proofs.
+  cautions: Could be a battle-description artifact if no recognition, mistaken identity,
+    or authority function is present.
+  suggested_aliases:
+  - identity through battle standards
+  - recognition by emblematic standards
+  - battle standard as identity token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-lament-over-fallen-heroes
+  motif_id: battlefield_lament_over_fallen_heroes
+  label: battlefield lament over fallen heroes
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: child
+  confidence: high
+  rationale: The label directly matches lamentation for fallen heroic figures after
+    battle.
+  cautions: May also relate to heroic_funeral_rites if formal burial honors or memorial
+    contests are present.
+  suggested_aliases:
+  - lament for fallen heroes
+  - battlefield mourning for heroes
+  - collective lament for fallen warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-lament-over-slain-kin
+  motif_id: battlefield_lament_over_slain_kin
+  label: battlefield lament over slain kin
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: child
+  confidence: high
+  rationale: The motif centers on grief and lament for kin killed in battle.
+  cautions: If the passage emphasizes kinship obligation, vengeance, or funeral ritual,
+    secondary mapping may be needed.
+  suggested_aliases:
+  - lament for slain kin
+  - mourning slain relatives in battle
+  - battlefield kin lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-recognition-by-emblem
+  motif_id: battlefield_recognition_by_emblem
+  label: battlefield recognition by emblem
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: An emblem used for recognition fits the existing identity-token and proof
+    group.
+  cautions: Confirm that the emblem performs recognition or proof, not only visual
+    description of arms or banners.
+  suggested_aliases:
+  - recognition by emblem
+  - emblem as identity token
+  - battle emblem recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-scavenger-omen
+  motif_id: battlefield_scavenger_omen
+  label: battlefield scavenger omen
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Scavengers on a battlefield functioning as omens fit signs that disclose
+    impending death or outcome.
+  cautions: If no interpretive omen role is present, this may be battlefield imagery
+    rather than divination; could also relate to death_by_fate.
+  suggested_aliases:
+  - scavenger birds as battle omen
+  - carrion omen
+  - battlefield death omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-terror-imposed-by-a-deity
+  motif_id: battlefield_terror_imposed_by_a_deity
+  label: battlefield terror imposed by a deity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity directly imposing terror in battle is divine action altering
+    human affairs.
+  cautions: If the terror punishes transgression or decides sacred war, divine_judgment
+    or divine_warrior may be relevant secondary groups.
+  suggested_aliases:
+  - divinely imposed battle terror
+  - god-sent panic in battle
+  - deity causes battlefield fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-trophy-of-defeated-monster
+  motif_id: battlefield_trophy_of_defeated_monster
+  label: battlefield trophy of defeated monster
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taking a trophy from a defeated monster fits heroic or divine combat
+    against monstrous threats.
+  cautions: If the trophy functions mainly as identity proof or power object, recognition_tokens_hidden_identity
+    or sacred_treasures may be better secondary mappings.
+  suggested_aliases:
+  - monster trophy after battle
+  - trophy from defeated monster
+  - body-part trophy of monster combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several battlefield-emblem labels are better treated as recognition-token functions
+  than as combat motifs when the emblem proves identity.
+- Single-occurrence poetic battle descriptions should be reviewed before broad Pattern
+  Explorer inclusion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context should confirm whether each label
+    has motif function beyond battle description.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1016
+  input_sha256: c8eb3578241d35dd98050885d14e20ede2168d7d1cca11f31478c033e63a0840
+

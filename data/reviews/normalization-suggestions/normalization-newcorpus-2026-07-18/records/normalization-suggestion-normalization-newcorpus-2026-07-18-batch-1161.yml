@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1161
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.superhuman-weapon-demonstration-before-alliance-action
+  motif_id: superhuman_weapon_demonstration_before_alliance_action
+  label: superhuman weapon demonstration before alliance action
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A superhuman weapon used to prove capacity before alliance action fits
+    power objects that confer authority or sacred ability.
+  cautions: Could instead belong under sacred_combat or divine_warrior if the passage
+    emphasizes battle order more than the weapon as object.
+  suggested_aliases:
+  - heroic weapon demonstration
+  - divine weapon display before alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.superhuman-weapon-that-only-the-chosen-hero-can-master
+  motif_id: superhuman_weapon_that_only_the_chosen_hero_can_master
+  label: Superhuman weapon that only the chosen hero can master
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine or superhuman weapon mastered only by the chosen hero is a power
+    object that proves authority and heroic fitness.
+  cautions: If mastery is framed chiefly as a rite of passage, initiation may be a
+    secondary mapping; avoid creating a weapon-only motif from one occurrence.
+  suggested_aliases:
+  - chosen hero masters divine weapon
+  - exclusive mastery of superhuman weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-abduction-of-the-sleeping-hero
+  motif_id: supernatural_abduction_of_the_sleeping_hero
+  label: Supernatural abduction of the sleeping hero
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero abducted by supernatural means can function as a forced departure
+    or ordeal within the hero-journey pattern.
+  cautions: If the abduction leads to an enchanted realm, otherworld may be better;
+    if it is merely an episode-specific capture, preserve as evidence detail.
+  suggested_aliases:
+  - forced supernatural departure of hero
+  - sleeping hero abducted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-being-incorporated-into-a-heroic-cycle
+  motif_id: supernatural_being_incorporated_into_a_heroic_cycle
+  label: supernatural being incorporated into a heroic cycle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary incorporation into a heroic cycle rather
+    than a recurring narrative motif within the story-world.
+  cautions: If the source passage depicts an actual supernatural helper, opponent,
+    or companion, remap to divine_intervention, otherworld, or sacred_combat based
+    on function.
+  suggested_aliases:
+  - supernatural figure added to heroic cycle
+  - heroic-cycle incorporation of supernatural being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-beings-accompany-battle-rage
+  motif_id: supernatural_beings_accompany_battle_rage
+  label: Supernatural beings accompany battle-rage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Supernatural beings accompanying a warrior's battle-fury frame combat
+    as more-than-human and sacralized.
+  cautions: If the beings are battle spirits or omens rather than combat agents, divine_intervention
+    or dream_and_vision may be secondary; source context needed.
+  suggested_aliases:
+  - supernatural battle-rage attendants
+  - battle spirits accompany warrior fury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-beings-heighten-dread-around-a-warrior
+  motif_id: supernatural_beings_heighten_dread_around_a_warrior
+  label: supernatural beings heighten dread around a warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Supernatural beings intensifying a warrior's dread aura support a sacred-combat
+    or divine-warrior presentation.
+  cautions: May be a descriptive battle-atmosphere detail rather than a durable motif;
+    review whether the beings act or only embellish the scene.
+  suggested_aliases:
+  - supernatural dread around warrior
+  - battle spirits magnify warrior terror
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-beings-wage-bodily-war-against-humans
+  motif_id: supernatural_beings_wage_bodily_war_against_humans
+  label: supernatural beings wage bodily war against humans
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Direct warfare between supernatural beings and humans fits combat treated
+    as mythic or ritually charged conflict.
+  cautions: Could also fit divine_warrior if a godlike champion is central, or otherworld
+    if the conflict is between human and fairy/enchanted races.
+  suggested_aliases:
+  - supernatural beings fight humans
+  - bodily war between humans and supernatural beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-companions-vanish-from-the-heroes-sight
+  motif_id: supernatural_companions_vanish_from_the_heroes_sight
+  label: Supernatural companions vanish from the heroes' sight
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural companions who appear and vanish function as guiding or
+    intervening nonhuman agents in the hero's affairs.
+  cautions: If the vanishing signals entry to an enchanted realm, otherworld may be
+    better; if it is merely scene description, treat as evidence detail.
+  suggested_aliases:
+  - vanishing supernatural companions
+  - supernatural helpers disappear from sight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-cries-magnify-a-warrior-s-battle-terror
+  motif_id: supernatural_cries_magnify_a_warrior_s_battle_terror
+  label: supernatural cries magnify a warrior's battle-terror
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural cries amplifying battle-terror contribute to a sacred-combat
+    depiction of the warrior as fearsome beyond ordinary human limits.
+  cautions: Could overlap with enchanting_music or sound power if the cries have coercive
+    supernatural effects; otherwise may be over-specific battle imagery.
+  suggested_aliases:
+  - supernatural battle cries magnify terror
+  - warrior terror heightened by supernatural cries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-freezing-agent-sent-to-immobilize-a-hero
+  motif_id: supernatural_freezing_agent_sent_to_immobilize_a_hero
+  label: Supernatural freezing agent sent to immobilize a hero
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: A supernatural force sent to immobilize the hero can function as an ordeal
+    or threshold test in a heroic sequence.
+  cautions: This is highly specific and may instead be divine_intervention, hostile
+    magic, or a passage-specific combat obstacle; human review should inspect the
+    source.
+  suggested_aliases:
+  - freezing ordeal immobilizes hero
+  - supernatural cold sent against hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Celtic Irish battle labels appear to cluster around supernatural battle-rage,
+  dread, and warlike spirits. Existing divine_warrior/sacred_combat groups can hold
+  them provisionally, but reviewers may consider whether a future battle-fury or war-spirit
+  subgroup is warranted if recurrence increases.
+- Single-occurrence weapon labels are best treated as sacred_treasures variants unless
+  source evidence emphasizes initiation, royal legitimacy, or combat function over
+  the object itself.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for over-specific
+    battle-scene artifacts and for whether supernatural agents are helpers, opponents,
+    omens, or literary commentary.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1161
+  input_sha256: 8a61be52ad6744e8bcb72f3e9332d851e6a5d9cb76b3e02262cbd90f2b9d3a14
+

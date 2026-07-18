@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1406
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.formulaic-oral-recitation-pattern
+  motif_id: formulaic_oral_recitation_pattern
+  label: formulaic oral-recitation pattern
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: Oral recitation can function as sacred narrative transmission or performative
+    speech, but the label may describe form rather than motif content.
+  cautions: Single occurrence and 'formulaic' may indicate a textual/oral-style artifact;
+    verify whether recitation itself has ritual or sacred power in the passage.
+  suggested_aliases:
+  - oral_recitation_pattern
+  - formulaic_recitation
+  - sacred_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-reciprocal-release-broken-by-one-party
+  motif_id: formulaic_reciprocal_release_broken_by_one_party
+  label: Formulaic reciprocal release broken by one party
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A reciprocal release agreement broken by one party centers on violated
+    trust and a broken social bond.
+  cautions: If the passage emphasizes binding obligation or sacred vow more than betrayal,
+    covenant or sacred_exchange may be better secondary mappings.
+  suggested_aliases:
+  - broken_reciprocal_release
+  - violated_release_agreement
+  - reciprocal_release_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-transmission-of-ancient-history
+  motif_id: formulaic_transmission_of_ancient_history
+  label: Formulaic transmission of ancient history
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: Transmission of ancient history may fit narrative as cultural memory,
+    but the label reads like a discourse or textual-form note.
+  cautions: Avoid indexing if it only describes editorial structure, source transmission,
+    or formulaic narration rather than a mythic event or power of telling.
+  suggested_aliases:
+  - ancient_history_transmission
+  - oral_history_transmission
+  - formulaic_cultural_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-visit-and-gift-sequence-with-escalating-mishaps
+  motif_id: formulaic_visit_and_gift_sequence_with_escalating_mishaps
+  label: Formulaic visit-and-gift sequence with escalating mishaps
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: A visit-and-gift sequence may involve exchange or hospitality obligations,
+    but escalating mishaps may be comic plot structure rather than sacred reciprocity.
+  cautions: Single, over-specific sequence; consider hospitality_test_stranger_guest
+    if guest-host obligations are central, or exclude if it is only narrative scaffolding.
+  suggested_aliases:
+  - visit_and_gift_sequence
+  - gift_exchange_mishaps
+  - escalating_gift_mishaps
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortification-after-withdrawal-of-a-protective-champion
+  motif_id: fortification_after_withdrawal_of_a_protective_champion
+  label: fortification after withdrawal of a protective champion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns defensive preparation in a martial crisis after a
+    champion's absence, adjacent to sacred or heroic combat.
+  cautions: May be an episode-specific military tactic rather than a reusable motif;
+    map only if the champion's protective role has mythic or sacred significance.
+  suggested_aliases:
+  - defenses_after_champion_withdrawal
+  - withdrawn_protector_fortification
+  - champion_absence_defensive_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foster-kin-mediation-averts-slaughter
+  motif_id: foster_kin_mediation_averts_slaughter
+  label: foster-kin mediation averts slaughter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foster-kinship mediation averting violence centers on a binding social
+    relationship that restrains slaughter.
+  cautions: Could also fit sacred_law, sacred_exchange, or sacred_combat depending
+    on whether kinship obligation, peacemaking, or battle crisis is primary.
+  suggested_aliases:
+  - foster_kin_peacemaking
+  - kinship_mediation_averts_slaughter
+  - fosterage_bond_restrains_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.found-golden-key-to-hidden-locked-chest
+  motif_id: found_golden_key_to_hidden_locked_chest
+  label: Found golden key to hidden locked chest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hidden locked chest is a guarded container holding concealed value
+    or power; the key is access to that vessel.
+  cautions: If the chest contains identity tokens, treasure, or forbidden knowledge,
+    secondary mapping to recognition_tokens_hidden_identity, sacred_treasures, or
+    sacred_knowledge may be needed.
+  suggested_aliases:
+  - hidden_locked_chest
+  - golden_key_to_chest
+  - key_to_hidden_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundation-of-a-new-community-after-crisis
+  motif_id: foundation_of_a_new_community_after_crisis
+  label: foundation of a new community after crisis
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community founded after crisis fits renewal of social order after catastrophe
+    or disruption.
+  cautions: Do not assume flood or cosmic catastrophe; if the crisis is political
+    rather than world-renewing, royal_legitimacy or culture_hero may be better.
+  suggested_aliases:
+  - community_foundation_after_crisis
+  - post_crisis_social_renewal
+  - new_community_after_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundation-of-cities-and-political-league
+  motif_id: foundation_of_cities_and_political_league
+  label: Foundation of cities and political league
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The founding of cities and a political league concerns establishment
+    of legitimate social and political order.
+  cautions: Could also fit culture_hero or cosmic_origin if the passage frames foundation
+    as ancestral/cosmogonic etiology rather than political legitimation.
+  suggested_aliases:
+  - city_foundation_and_league
+  - political_league_foundation
+  - foundation_of_political_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundational-cultural-epic-analogue
+  motif_id: foundational_cultural_epic_analogue
+  label: foundational cultural epic analogue
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative genre or scholarly analogy rather than
+    a narrative motif within the tradition.
+  cautions: Preserve as provenance or commentary if useful, but do not use as evidence
+    for motif-pattern queries or transmission claims.
+  suggested_aliases:
+  - cultural_epic_analogue
+  - foundational_epic_comparison
+  - epic_analogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'formulaic', suggesting oral/textual structure rather than motif
+  content; these need evidence review before pattern indexing.
+- For foundation labels, distinguish cosmogonic/social renewal from ordinary political
+  history or place-name etiology.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for formulaic and single-occurrence
+    contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1406
+  input_sha256: d839ca3290c41af4c5ed0218fdab027bdc41d14520dbb1d85d2a394bbeb3f0fe
+

@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l1580-l1587
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 1580-1587'
+  start: '1580'
+  end: '1587'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Old people say Nesaru made the people, who were bad and destroyed. Nesaru
+    made animals to take corn kernels under the ground; those kernels had formerly
+    been people and were turned into corn by Nesaru. The people lived under the earth
+    for many years, then animals brought them out, and Mother-Corn led them with the
+    consent of other gods after being sent by a god in the heavens who had a cornfield.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Old people are named as the source of the report.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nesaru made the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people were described as bad and were destroyed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Nesaru made animals to take corn kernels under the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The corn kernels had formerly been people and had been turned into corn by
+    Nesaru.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The people lived under the earth for many years.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The animals brought the people out from the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mother-Corn led the people with the consent of the other gods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Mother-Corn was sent by a god in the heavens who had a field of corn.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nesaru
+  description: A being who made the people, made animals to take corn kernels under
+    the ground, and turned former people into corn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the people
+  description: People made by Nesaru; described as bad and destroyed; also described
+    as having been turned into corn kernels and living under the earth for many years.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: animals
+  description: Animals made by Nesaru to take corn kernels under the ground; later
+    brought the people out from the ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Mother-Corn
+  description: A figure who led the people after they were brought out from the ground;
+    she was sent by a god in the heavens and acted with the consent of other gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: other gods
+  description: Gods whose consent accompanied Mother-Corn's leadership of the people.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: god in the heavens
+  description: A god in the heavens who had a field of corn and sent Mother-Corn.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: maker and transformer
+  assigned_to:
+  - fig:1
+  basis: Nesaru is said to have made the people and animals and to have turned former
+    people into corn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: destroyed and transformed people
+  assigned_to:
+  - fig:2
+  basis: The people are described as bad and destroyed, and some are identified with
+    kernels that had been people and were turned into corn.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: animal intermediaries
+  assigned_to:
+  - fig:3
+  basis: The animals carry the corn kernels under the ground and later bring the people
+    out from the ground.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: emergence leader
+  assigned_to:
+  - fig:4
+  basis: Mother-Corn leads the people after the animals bring them out from the ground.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: consenting gods
+  assigned_to:
+  - fig:5
+  basis: The passage states that Mother-Corn led with the consent of the other gods.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: heavenly sender
+  assigned_to:
+  - fig:6
+  basis: The god in the heavens sent Mother-Corn and had a field of corn.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: corn kernels
+  literal_form: kernels of corn that had formerly been people
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: under the ground / under the earth
+  literal_form: underground place where the corn kernels were taken and where the
+    people lived for many years
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Mother-Corn
+  literal_form: personified corn figure named Mother-Corn
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: heavens and cornfield
+  literal_form: a god in the heavens who had a field of corn
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Making and destruction of the people
+  summary: Old people say that Nesaru made the people, that the people were bad, and
+    that they were destroyed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Underground corn transformation
+  summary: Nesaru made animals to take corn kernels under the ground; the kernels
+    had formerly been people and had been turned into corn by Nesaru, and the people
+    lived under the earth for many years.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Emergence and leadership by Mother-Corn
+  summary: Animals brought the people out from the ground, and Mother-Corn led them
+    with the consent of other gods after being sent by a god in the heavens who had
+    a field of corn.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: creation of the people by Nesaru
+  taxonomy_refs: []
+  basis: The passage states that Nesaru made the people.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives no details of the method of creation.
+- id: motif:2
+  label: destruction following human badness
+  taxonomy_refs:
+  - divine_judgment
+  basis: The people are described as bad and then destroyed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly state the destroyer or the mechanism of
+    destruction.
+- id: motif:3
+  label: people transformed into corn and preserved underground
+  taxonomy_refs:
+  - death_rebirth
+  basis: The kernels had been people, were turned into corn by Nesaru, and the people
+    lived under the earth for many years before being brought out.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports transformation and later emergence, but does not
+    explicitly describe death and rebirth in those terms.
+- id: motif:4
+  label: emergence from under the earth
+  taxonomy_refs:
+  - ascent
+  basis: The animals brought the people out from the ground after they had lived under
+    the earth for many years.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes movement out from the ground but does not elaborate
+    on a broader ascent journey.
+- id: motif:5
+  label: divinely authorized guidance by Mother-Corn
+  taxonomy_refs: []
+  basis: Mother-Corn leads the people with the consent of other gods and after being
+    sent by a god in the heavens.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify the nature or duration of Mother-Corn's leadership
+    beyond this statement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1580-1581
+  quote_or_summary: Old people say that Nesaru made the people; the people were bad
+    and were destroyed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1581-1582
+  quote_or_summary: Nesaru made animals to take corn kernels under the ground.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1582-1584
+  quote_or_summary: The kernels had been people and were turned to corn by Nesaru;
+    the people lived under the earth for many years.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1584-1587
+  quote_or_summary: Animals brought the people out from the ground; Mother-Corn led
+    them with the consent of other gods and had been sent by a god in the heavens
+    who had a field of corn.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy alignment is cautious
+    because the passage is brief and framed as a footnote explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare this account to another text, tradition, or motif family beyond the candidate taxonomy alignment.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l1580-l1587
+  passage_sha256=216c50b9cad171a5d0011573e9965844d1f58a35c1b44c672222998ac4958021
+

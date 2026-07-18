@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1171
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.triad-of-old-heroic-clans-with-ranked-superiority
+  motif_id: triad_of_old_heroic_clans_with_ranked_superiority
+  label: Triad of old heroic clans with ranked superiority
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a cataloguing or ranking convention for
+    named heroic clans rather than a reusable narrative motif.
+  cautions: If the passage encodes sacred kingship, lineage legitimacy, or clan origin
+    myth, review under royal_legitimacy or cosmic_origin instead.
+  suggested_aliases:
+  - ranked heroic clan triad
+  - heroic clan catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-heroic-enumeration
+  motif_id: triadic_heroic_enumeration
+  label: Triadic heroic enumeration
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a rhetorical or compositional form, not a symbolic or narrative
+    motif with independent pattern value.
+  cautions: Do not exclude if source evidence shows the triad itself has ritual, cosmological,
+    or fate-related agency.
+  suggested_aliases:
+  - heroic triad enumeration
+  - triadic catalogue of heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-war-host-and-omens
+  motif_id: triadic_war_host_and_omens
+  label: Triadic war host and omens
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The meaningful motif element is omens associated with a war host, fitting
+    divinatory signs before conflict.
+  cautions: The triadic framing may be a Celtic literary form; if the focus is battle
+    itself, sacred_combat may be a secondary placement.
+  suggested_aliases:
+  - war omens
+  - omens before battle
+  - triadic battle omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-warrior-catalogue
+  motif_id: triadic_warrior_catalogue
+  label: triadic warrior catalogue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A warrior catalogue is likely a literary enumeration or passage-structure
+    artifact rather than a motif for cross-pattern queries.
+  cautions: If the catalogue confers rank, legitimacy, or ritual battle roles, review
+    under royal_legitimacy or sacred_combat.
+  suggested_aliases:
+  - warrior catalogue
+  - triadic catalogue of warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-warrior-catalogue-and-overwhelming-battle-noise
+  motif_id: triadic_warrior_catalogue_and_overwhelming_battle_noise
+  label: triadic warrior catalogue and overwhelming battle-noise
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The battle-noise element may be a combat motif, but the label is a composite
+    of catalogue form and scene detail.
+  cautions: Could be literary catalogue artifact, battle terror imagery, or sound-power
+    motif; source context is needed before mapping to sacred_combat or enchanting_music.
+  suggested_aliases:
+  - overwhelming battle noise
+  - warrior catalogue with battle din
+  - battle din
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-and-temptation-of-believers
+  motif_id: trial_and_temptation_of_believers
+  label: Trial and temptation of believers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Trial and temptation test fidelity and transform or reveal religious
+    status, matching the broader ordeal function of initiation.
+  cautions: If the emphasis is divine moral accounting rather than transformation,
+    divine_judgment or covenant may be better secondary mappings.
+  suggested_aliases:
+  - temptation as trial
+  - testing of believers
+  - ordeal of faith
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-associated-with-destructive-burning
+  motif_id: trial_associated_with_destructive_burning
+  label: trial associated with destructive burning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: A trial involving destructive burning uses fire as ordeal, purification,
+    or destructive sacred force.
+  cautions: Choose world_destroying_fire only if the burning destroys or renews a
+    world/order; choose initiation if the fire primarily transforms the tested figure.
+  suggested_aliases:
+  - fire ordeal
+  - ordeal by burning
+  - destructive fire trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-by-comparative-tasks
+  motif_id: trial_by_comparative_tasks
+  label: trial by comparative tasks
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sequence of tasks functions as an ordeal testing capacity, worthiness,
+    or status.
+  cautions: If the tasks are courtship tests, bride-winning, or contests for rule,
+    sacred_love or royal_legitimacy may be more specific.
+  suggested_aliases:
+  - task ordeal
+  - comparative task trial
+  - trial by tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-by-fasting
+  motif_id: trial_by_fasting
+  label: Trial by fasting
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fasting as a trial involves bodily renunciation and ritual self-denial,
+    fitting sacrifice or sacred offering logic.
+  cautions: If the fast leads to vision, spirit contact, or mystical insight, dream_and_vision
+    or mystical_quest may be secondary mappings.
+  suggested_aliases:
+  - fasting ordeal
+  - ritual fasting trial
+  - ascetic fasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-during-leader-s-absence-and-seduction-to-idolatry
+  motif_id: trial_during_leader_s_absence_and_seduction_to_idolatry
+  label: Trial during leader's absence and seduction to idolatry
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on communal fidelity to a sacred bond being tested
+    in the leader's absence.
+  cautions: Because idolatry is culturally and theologically sensitive, review source
+    context; divine_judgment or forbidden_knowledge may be relevant if punishment
+    or illicit cultic knowledge is emphasized.
+  suggested_aliases:
+  - leader absence fidelity test
+  - seduction to idolatry
+  - covenant trial in leader's absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several triadic Celtic labels appear to be rhetorical catalogue forms rather than
+  durable motifs; preserve only when the passage evidence gives the triad ritual,
+  cosmological, omen, or battle function.
+- Trial labels are generally better handled by existing initiation, sacrifice, covenant,
+  sacred_fire, or prophecy_divination groups rather than creating a new generic trial
+  group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    idolatry language and for distinguishing Celtic catalogue artifacts from true
+    motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1171
+  input_sha256: '086696a802b147ee91c83fdea29f57f1514daff3497d0cbed9595fcb5faa6852'
+

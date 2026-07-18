@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1038
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deceptive-contest-used-to-wound-a-hero
+  motif_id: deceptive_contest_used_to_wound_a_hero
+  label: deceptive contest used to wound a hero
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest used as a violent stratagem against a hero fits combat ordeal
+    and ritualized or heroic conflict.
+  cautions: Single occurrence; if the contest is primarily trickery rather than combat,
+    trickster may be a secondary fit.
+  suggested_aliases:
+  - deceptive_combat_contest
+  - contest_as_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-guide-leads-blind-hero-toward-fatal-fall
+  motif_id: deceptive_guide_leads_blind_hero_toward_fatal_fall
+  label: deceptive guide leads blind hero toward fatal fall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guide exploiting a vulnerable hero to cause death centers on violated
+    trust and betrayal by a helper role.
+  cautions: Could also be an over-specific death episode; verify whether guide-betrayal
+    is narratively central.
+  suggested_aliases:
+  - treacherous_guide
+  - betrayal_by_guide
+  - deceptive_guidance_to_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-host-s-attempted-killing-answered-by-revenge
+  motif_id: deceptive_host_s_attempted_killing_answered_by_revenge
+  label: Deceptive host's attempted killing answered by revenge
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A host who attempts killing reverses hospitality obligations and makes
+    guest-host trust the conflict engine.
+  cautions: If revenge is the main sacred or moral function, divine_judgment or sacred_combat
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - treacherous_host
+  - host_betrayal_answered_by_revenge
+  - violated_hospitality_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-imitation-of-the-hero-s-voice
+  motif_id: deceptive_imitation_of_the_hero_s_voice
+  label: deceptive imitation of the hero's voice
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Imitated voice is a false identity signal, fitting the recognition and
+    identity-proof complex by inversion.
+  cautions: Could also fit trickster if deception itself is central; preserve the
+    voice-imitation detail.
+  suggested_aliases:
+  - false_voice_recognition
+  - voice_imitation_deception
+  - deceptive_voice_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-inducement-to-doomed-combat
+  motif_id: deceptive_inducement_to_doomed_combat
+  label: deceptive inducement to doomed combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns manipulation into fatal combat, a heroic conflict
+    pattern already covered by sacred_combat.
+  cautions: If the passage emphasizes fate or foreknown doom more than manipulation,
+    death_by_fate may be a secondary mapping.
+  suggested_aliases:
+  - lured_to_fatal_combat
+  - deceived_into_doomed_battle
+  - fatal_combat_inducement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.decisive-combat-at-a-ford
+  motif_id: decisive_combat_at_a_ford
+  label: decisive combat at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: The existing sacred_combat group already includes ford duel and fatal
+    champion duel at a ford aliases.
+  cautions: Keep ford as a liminal-place detail; do not map to sacred_waters unless
+    water crossing or purification is central.
+  suggested_aliases:
+  - ford_duel
+  - combat_at_a_ford
+  - decisive_ford_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.decline-from-warrior-status-to-frailty
+  motif_id: decline_from_warrior_status_to_frailty
+  label: decline from warrior status to frailty
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe aging, humiliation, loss of status, or a passage-specific
+    character arc rather than a stable motif.
+  cautions: Could fit lament_and_mourning, pride_and_downfall, immortality_without_renewal,
+    or divine_warrior depending on source evidence.
+  suggested_aliases:
+  - warrior_decline
+  - loss_of_warrior_strength
+  - heroic_frailty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-enemy-becomes-vassal-through-mercy-and-restitution
+  motif_id: defeated_enemy_becomes_vassal_through_mercy_and_restitution
+  label: Defeated enemy becomes vassal through mercy and restitution
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy, restitution, and vassalage after defeat create a renewed binding
+    social order, fitting covenantal bond and mercy variants.
+  cautions: If the passage emphasizes political hierarchy rather than mercy or bond-making,
+    royal_legitimacy may be secondary.
+  suggested_aliases:
+  - defeated_enemy_made_vassal
+  - mercy_after_defeat
+  - restitution_and_vassalage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-enemy-spared-and-sent-as-messenger
+  motif_id: defeated_enemy_spared_and_sent_as_messenger
+  label: defeated enemy spared and sent as messenger
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sparing a defeated enemy expresses mercy after conflict and repairs or
+    redirects social relations through a bound messenger role.
+  cautions: May be a tactical episode rather than motif if no sacred, ethical, or
+    social-order function is present.
+  suggested_aliases:
+  - enemy_spared_as_messenger
+  - mercy_to_defeated_messenger
+  - defeated_enemy_commissioned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-enemy-spared-until-renewed-combat
+  motif_id: defeated_enemy_spared_until_renewed_combat
+  label: defeated enemy spared until renewed combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The spared enemy returns to continue combat, fitting heroic combat codes
+    and renewed duel structure.
+  cautions: If the emphasis is mercy as ethical restraint, covenant may be a secondary
+    mapping; if rule-bound warfare is central, sacred_law may also matter.
+  suggested_aliases:
+  - enemy_spared_for_renewed_combat
+  - combat_resumed_after_mercy
+  - deferred_duel_after_sparing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence heroic combat details; suggested placements
+  should remain provisional until source passages confirm narrative function.
+- Deception in combat can map to sacred_combat, trickster, betrayal_violated_trust,
+  or recognition_tokens_hidden_identity depending on whether the primary function
+  is duel structure, rule-breaking, violated trust, or identity deception.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1038
+  input_sha256: 27f78e0b703879547a46be81e81fa1132fef673942e04df6bbbfb740655ef434
+

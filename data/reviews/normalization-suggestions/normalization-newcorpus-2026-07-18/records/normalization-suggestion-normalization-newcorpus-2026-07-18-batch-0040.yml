@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0040
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-located-in-an-ordinary-threshold-object
+  motif_id: death_located_in_an_ordinary_threshold_object
+  label: death located in an ordinary threshold object
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: A life or death condition located in an external object fits the external-soul/life-token
+    complex, especially if damaging or finding the object controls death.
+  cautions: Threshold-object symbolism may also matter; verify the source describes
+    externalized life/death rather than a mere omen or passage detail.
+  suggested_aliases:
+  - death hidden in threshold object
+  - external death object
+  - life-token in threshold object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-message-triggering-ritualized-heroic-mourning
+  motif_id: death_message_triggering_ritualized_heroic_mourning
+  label: death message triggering ritualized heroic mourning
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The core action is formal mourning in response to news of heroic death,
+    matching lament and mourning patterns.
+  cautions: If the passage emphasizes funeral honors or games rather than lament,
+    heroic_funeral_rites may be a secondary placement.
+  suggested_aliases:
+  - heroic death message and mourning
+  - ritualized mourning for hero
+  - death news prompts lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-messages-interrupting-a-martial-journey
+  motif_id: death_messages_interrupting_a_martial_journey
+  label: death messages interrupting a martial journey
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: low
+  rationale: Death messages interrupting a warrior journey may function as doom-signs
+    or fate warnings before martial death.
+  cautions: Could instead be a journey episode, messenger motif, or plot-specific
+    interruption; needs source context before firm mapping.
+  suggested_aliases:
+  - death tidings interrupt martial journey
+  - doom message during warrior journey
+  - death warning on martial journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-messengers-ignored-during-a-martial-journey
+  motif_id: death_messengers_ignored_during_a_martial_journey
+  label: Death messengers ignored during a martial journey
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring death messengers during a warrior journey resembles disregarded
+    doom or foreknown fatality under fate.
+  cautions: If messengers are literal supernatural figures, divine_intervention or
+    prophecy_divination may also apply; avoid assuming fate without evidence of unavoidable
+    doom.
+  suggested_aliases:
+  - ignored death messengers
+  - doom messengers ignored
+  - warrior ignores death warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-companion-prompts-revenge-appeal
+  motif_id: death_of_a_companion_prompts_revenge_appeal
+  label: Death of a companion prompts revenge appeal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A companion's death calling for revenge aligns with existing sacred-combat
+    aliases such as avenging a slain companion.
+  cautions: If the emphasis is grief rather than vengeance, lament_and_mourning may
+    be a secondary mapping.
+  suggested_aliases:
+  - avenging a slain companion
+  - companion death prompts vengeance
+  - revenge appeal after companion death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-filial-water-carrier-imperils-dependent-parents
+  motif_id: death_of_a_filial_water_carrier_imperils_dependent_parents
+  label: Death of a filial water-carrier imperils dependent parents
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly contextual death consequence involving one social
+    role and dependency relation rather than a durable motif.
+  cautions: If the passage centers on filial duty as sacred obligation, it could be
+    reviewed under sacred_law; preserve as evidence detail.
+  suggested_aliases:
+  - death of filial caregiver
+  - dependent parents imperiled by child's death
+  - filial water-carrier death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-great-doctor-marked-by-celestial-and-thunder-signs
+  motif_id: death_of_a_great_doctor_marked_by_celestial_and_thunder_signs
+  label: death of a great doctor marked by celestial and thunder signs
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Celestial and thunder signs marking a death are omen-like manifestations,
+    fitting the dream/vision and omen field.
+  cautions: Culturally sensitive source context matters; if signs indicate sacred
+    status or divine manifestation, theophany or divine_intervention may also be relevant.
+  suggested_aliases:
+  - cosmic signs at death
+  - celestial omens at death
+  - thunder signs marking death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-king-exposes-the-people-to-renewed-feud
+  motif_id: death_of_a_king_exposes_the_people_to_renewed_feud
+  label: Death of a king exposes the people to renewed feud
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The king's death destabilizes social order and succession, fitting sacred
+    kingship and legitimacy concerns.
+  cautions: If the passage emphasizes feud violence over kingship order, sacred_combat
+    may be a secondary placement.
+  suggested_aliases:
+  - king's death destabilizes order
+  - ruler death renews feud
+  - death of king and social disorder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-named-figure
+  motif_id: death_of_a_named_figure
+  label: Death of a named figure
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is too generic and person-specific to function as a reusable motif
+    without narrative function or symbolic role.
+  cautions: If the named figure's death causes transformation, origin, vengeance,
+    or ritual obligation, remap based on that function.
+  suggested_aliases:
+  - named figure dies
+  - death notice of named person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-threatening-animal-followed-by-communal-rejoicing
+  motif_id: death_of_a_threatening_animal_followed_by_communal_rejoicing
+  label: Death of a threatening animal followed by communal rejoicing
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Killing a dangerous animal and communal celebration resembles monster-slaying
+    or combat restoring public safety.
+  cautions: If the animal is ordinary rather than monstrous or sacredly charged, this
+    may be an over-specific episode detail; sacred_combat may also fit if framed as
+    heroic warfare.
+  suggested_aliases:
+  - threatening animal slain and community rejoices
+  - monster death prompts communal rejoicing
+  - communal rejoicing after beast-slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-heavy; recommendations favor broad
+  existing groups only where narrative function is clear.
+- Death-related wording alone was not treated as sufficient for death_and_transformation
+  unless return, renewal, soul movement, or transformation is present.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check source passages for
+    function, especially martial death messages and culturally specific omen material.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0040
+  input_sha256: 28c5134ed82c5bc7e49d14170604bc565148400965b3920aa457e1ceeb00e7c4
+

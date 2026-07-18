@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0416
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-preparation-and-katcina-dance-with-food-distribution
+  motif_id: ritual_preparation_and_katcina_dance_with_food_distribution
+  label: ritual preparation and Katcina dance with food distribution
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a culturally specific ceremonial complex with dance
+    and food distribution; possible links include sacred_exchange, sacred_time, or
+    divine_intervention, but context is needed.
+  cautions: Katcina/Kachina ceremonial material is culturally sensitive and too specific
+    to flatten without source review.
+  suggested_aliases:
+  - katcina_dance_food_distribution
+  - ritual_dance_with_food_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_time
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-preparation-involving-a-captured-creature-and-repeated-feeding
+  motif_id: ritual_preparation_involving_a_captured_creature_and_repeated_feeding
+  label: Ritual preparation involving a captured creature and repeated feeding
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Repeated feeding of a captured creature may be ritual care, exchange,
+    sacrifice preparation, or animal-spirit relation, but the function is unclear
+    from the label alone.
+  cautions: Culturally specific ritual evidence should not be generalized to sacrifice
+    unless an offering or transfer function is explicit.
+  suggested_aliases:
+  - ritual_feeding_of_captured_creature
+  - captured_creature_ritual_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacrifice
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-preparation-with-greenery-covered-arbor-and-altar
+  motif_id: ritual_preparation_with_greenery_covered_arbor_and_altar
+  label: Ritual preparation with greenery-covered arbor and altar
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be a ritual-preparatory arrangement of sacred space,
+    best parked with ritual order/propriety unless evidence shows sacrifice or sacred-center
+    function.
+  cautions: Greenery, arbor, and altar details may be passage-specific; consider axis_mundi
+    or sacrifice only if the space functions cosmologically or as an offering site.
+  suggested_aliases:
+  - greenery_arbor_altar_preparation
+  - ritual_preparation_of_altar_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - axis_mundi
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procession-to-an-exposed-ancient-mound
+  motif_id: ritual_procession_to_an_exposed_ancient_mound
+  label: Ritual procession to an exposed ancient mound
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: A procession to an ancient mound could mark sacred geography, ancestor
+    contact, or ritual center, but the mound's role is not specified.
+  cautions: Do not map to axis_mundi, ancestor_rites, or sacred_time without evidence
+    for center, dead/ancestral presence, or calendrical rite.
+  suggested_aliases:
+  - procession_to_ancient_mound
+  - ritual_mound_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - ancestor_rites
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procurement-and-transformation-of-animal-skin-for-masks
+  motif_id: ritual_procurement_and_transformation_of_animal_skin_for_masks
+  label: Ritual procurement and transformation of animal skin for masks
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Animal skin made into ritual masks points to embodied transformation
+    or role-taking through animal form.
+  cautions: If the focus is ritual object manufacture rather than transformation,
+    sacred_craft or sacred_treasures may be better secondary placements; review cultural
+    specificity carefully.
+  suggested_aliases:
+  - animal_skin_mask_transformation
+  - ritual_animal_mask_making
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_treasures
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procurement-of-eagle-feathers-from-a-nesting-place
+  motif_id: ritual_procurement_of_eagle_feathers_from_a_nesting_place
+  label: Ritual procurement of eagle feathers from a nesting place
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritually obtained feathers function as sacred power objects or ceremonial
+    materials.
+  cautions: The nesting-place procurement may encode culturally specific rules; avoid
+    reducing the motif to a generic object unless ritual function is confirmed.
+  suggested_aliases:
+  - ritual_eagle_feather_procurement
+  - sacred_feather_procurement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-propriety-before-divine-presence
+  motif_id: ritual_propriety_before_divine_presence
+  label: ritual propriety before divine presence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Proper conduct before divine presence fits sacred law, ritual prohibition,
+    and ordered devotional behavior.
+  cautions: Could also relate to theophany if a direct divine manifestation is central,
+    but the label emphasizes propriety rather than vision.
+  suggested_aliases:
+  - proper_conduct_before_divine_presence
+  - ritual_etiquette_before_the_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-prostration-in-prayer
+  motif_id: ritual_prostration_in_prayer
+  label: ritual prostration in prayer
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer prostration is a bodily devotional act that establishes or expresses
+    relationship with sacred authority.
+  cautions: May be better indexed under sacred_law if the passage emphasizes prescribed
+    obligation, or under covenant if submission to a binding sacred order is central.
+  suggested_aliases:
+  - prostration_in_prayer
+  - devotional_prostration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-protection-rule-at-a-martial-game-boundary
+  motif_id: ritual_protection_rule_at_a_martial_game_boundary
+  label: ritual protection rule at a martial game boundary
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protection rule governing a bounded martial game fits sacred law as
+    ritualized boundary and safety prohibition.
+  cautions: If the boundary itself is a test or guarded threshold, threshold_guardian
+    or sacred_combat may be relevant secondary mappings.
+  suggested_aliases:
+  - martial_game_boundary_protection
+  - ritual_boundary_rule_in_combat_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - threshold_guardian
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-before-combat
+  motif_id: ritual_purification_before_combat
+  label: ritual purification before combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification before battle frames combat as ritually regulated and sacredly
+    consequential.
+  cautions: If the passage emphasizes purity law more than warfare, sacred_law may
+    be a secondary or alternate placement.
+  suggested_aliases:
+  - pre_combat_purification
+  - purification_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_warrior
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels describe culturally specific ritual procedures with single occurrences;
+  human review should verify whether they are recurring motifs or passage-level ethnographic
+  details.
+- Avoid treating ritual preparation automatically as sacrifice unless an offering,
+  transfer, surrender, or consecration function is explicit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Hopi, Zuni, Navajo, Hawaiian,
+    Guiana Amerindian, Islamic, Celtic Irish, and Hindu ritual contexts need source-sensitive
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0416
+  input_sha256: b722e55bed93461ca5764894a2a650fa14ebf15f41c28186a1944ae985ebdc0c
+

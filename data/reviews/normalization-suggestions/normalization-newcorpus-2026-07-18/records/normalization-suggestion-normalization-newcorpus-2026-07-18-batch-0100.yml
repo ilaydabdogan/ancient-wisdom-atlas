@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0100
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-spirit-and-devil-beings
+  motif_id: named_spirit_and_devil_beings
+  label: Named spirit and devil beings
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a class of beings but gives no narrative function such
+    as possession, haunting, protection, or judgment.
+  cautions: May be a catalog/entity label rather than a motif; culturally sensitive
+    spirit categories need source review before grouping.
+  suggested_aliases:
+  - named_spirits
+  - named_devil_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - restless_dead_haunting_vengeance
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.names-transferred-from-the-dead-to-children
+  motif_id: names_transferred_from_the_dead_to_children
+  label: Names transferred from the dead to children
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transfer of names from dead to children suggests ritual or kinship continuity
+    between living and dead ancestors.
+  cautions: Could involve reincarnation, naming taboo, or social identity rather than
+    ancestor feeding; Inuit-specific name-soul concepts should be reviewed carefully.
+  suggested_aliases:
+  - dead-to-child name transfer
+  - ancestral name transfer
+  - name inheritance from the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-portents-after-a-decisive-death
+  motif_id: natural_portents_after_a_decisive_death
+  label: Natural portents after a decisive death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Portents are signs that reveal cosmic or sacred significance after a
+    death.
+  cautions: If the portents mark moral reckoning, divine_judgment may be secondary;
+    if merely atmospheric episode detail, avoid over-indexing.
+  suggested_aliases:
+  - death portents
+  - omens after death
+  - natural omens following death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.near-death-threshold-and-recall-of-the-spirit
+  motif_id: near_death_threshold_and_recall_of_the_spirit
+  label: near-death threshold and recall of the spirit
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on a spirit at the edge of death being recalled or
+    restored.
+  cautions: Could also support death_and_transformation if revival is emphasized;
+    confirm whether it is a ritual healing, narrative rescue, or metaphor.
+  suggested_aliases:
+  - calling back the soul
+  - spirit recall at death threshold
+  - near-death soul recall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.near-invulnerability-with-a-non-iron-means-of-death
+  motif_id: near_invulnerability_with_a_non_iron_means_of_death
+  label: near-invulnerability with a non-iron means of death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: Near-invulnerability limited by a special non-iron death condition matches
+    the hidden weakness or exception pattern.
+  cautions: Preserve the non-iron detail as evidence; do not generalize into external
+    soul unless life is stored outside the body.
+  suggested_aliases:
+  - non-iron vulnerability
+  - invulnerability exception by material
+  - near-invulnerable being killed by non-iron means
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.necromantic-explanation-of-death
+  motif_id: necromantic_explanation_of_death
+  label: necromantic explanation of death
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too compressed to tell whether necromancy causes, reveals,
+    or explains a death.
+  cautions: May be source commentary or a culturally specific death-causation belief;
+    review evidence before mapping to sacred_knowledge, prophecy_divination, or divine_judgment.
+  suggested_aliases:
+  - death explained by necromancy
+  - necromantic death causation
+  - necromantic diagnosis of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.negotiated-exorcism-and-ritualized-departure-of-a-possessing-spirit
+  motif_id: negotiated_exorcism_and_ritualized_departure_of_a_possessing_spirit
+  label: negotiated exorcism and ritualized departure of a possessing spirit
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Existing sacrifice group already contains exorcism and ritual expulsion
+    variants for removing harmful spirits.
+  cautions: If negotiation or spirit possession becomes a recurring distinct pattern,
+    a dedicated possession/exorcism subgroup may be warranted.
+  suggested_aliases:
+  - negotiated exorcism
+  - ritual departure of possessing spirit
+  - possessing spirit expelled by ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.net-of-sea-death-capture
+  motif_id: net_of_sea_death_capture
+  label: Net of sea-death capture
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe death by sea, a capture device, fate imagery,
+    or an underworld boundary.
+  cautions: Too terse and metaphorical for confident placement; review whether the
+    net is literal, supernatural, fatal, or poetic.
+  suggested_aliases:
+  - sea-death net
+  - net of death at sea
+  - death capture by net
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_waters
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-death-witch-attacks-through-a-window-and-is-disabled-by-severing-a-limb
+  motif_id: night_death_witch_attacks_through_a_window_and_is_disabled_by_severing_a_limb
+  label: night-death witch attacks through a window and is disabled by severing a
+    limb
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a highly episode-specific attack-and-defense sequence rather
+    than a broad reusable motif label.
+  cautions: If similar witch or night-spirit attacks recur, consider a future harmful-spirit
+    or liminal-intrusion group; for now preserve as evidence detail.
+  suggested_aliases:
+  - night witch attack through window
+  - death-witch disabled by severed limb
+  - liminal night-spirit attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-raid-returns-with-enemy-horses-and-spoils
+  motif_id: night_raid_returns_with_enemy_horses_and_spoils
+  label: night raid returns with enemy horses and spoils
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A raid returning with enemy horses and spoils fits the existing warfare
+    and raiding complex.
+  cautions: May be ordinary martial plot detail unless the passage frames the raid
+    as heroic, ritual, sacred, or fate-bearing.
+  suggested_aliases:
+  - night raid with spoils
+  - enemy horses seized in raid
+  - return from raid with spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; human
+  review should check whether they are narrative motifs, ethnographic beliefs, or
+  source/commentary artifacts.
+- Do not treat death_bucket placement as decisive; some items fit combat, divination,
+  sacred law, or ritual expulsion better than afterlife/descent.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0100.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0100
+  input_sha256: c9f8104b1f7ffdcccef427be80bef55542837e3411cba2364732ab2c2b2f7cbe
+

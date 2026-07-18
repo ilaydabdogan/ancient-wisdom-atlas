@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l6515-l6597
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTERS II. 309-111 4 21 / CHAPTER III. 5-9 / CHAPTER III. 10-16 25 / CHAPTER
+    III. 17-29 27; lines 6515-6597
+  start: '6515'
+  end: '6597'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage recounts the aftermath of eating from the forbidden tree:
+    the woman is sentenced to sorrow in childbearing and subordination to her husband;
+    Adam is sentenced to toil on cursed ground and eventual return to earth. The pair
+    are clothed in coats of skin and sent from Eden. Adam offers a fragrant morning
+    offering. The speech of animals is then closed, although they had formerly spoken
+    with one language.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman hearkened to the voice of the serpent and ate.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The divine speaker tells the woman that her sorrow and pains will be multiplied,
+    that she will bring forth children in sorrow, that her return will be to her husband,
+    and that he will rule over her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Adam is told that he listened to his wife and ate from the tree that had been
+    forbidden to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ground is cursed for Adam's sake; it will bring forth thorns and thistles,
+    and Adam will eat bread in the sweat of his face until he returns to the earth
+    from which he was taken.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Coats of skin are made for the pair; they are clothed and sent forth from
+    the Garden of Eden.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the day Adam left the Garden, he offered a sweet-smelling offering of frankincense,
+    galbanum, stacte, and spices in the morning at sunrise.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The mouths of beasts, cattle, birds, and moving creatures are closed so that
+    they can no longer speak; previously they had spoken with one lip and one tongue.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the serpent
+  description: The serpent is identified through its voice, which the woman heard
+    before eating.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the woman / Adam's wife
+  description: She heard the serpent's voice, ate, is addressed with a sentence concerning
+    sorrow, childbearing, return to her husband, and his rule over her.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Adam
+  description: Adam listened to his wife, ate from the forbidden tree, receives a
+    sentence of toil and return to earth, is clothed and sent from Eden, and offers
+    a fragrant morning offering.
+  role_refs:
+  - role:2
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: the divine speaker / He
+  description: The figure named only as “He” speaks judgments, makes coats of skin,
+    clothes the pair, and sends them from the Garden.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: beasts, cattle, birds, and moving creatures
+  description: A collective group whose mouths are closed so that they can no longer
+    speak, after having formerly spoken with one language.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine judge and expeller
+  assigned_to:
+  - fig:4
+  basis: The figure speaks sentences to the woman and Adam, makes garments, clothes
+    them, and sends them forth from Eden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: participant in forbidden-tree eating
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The serpent's voice is linked to the woman's eating; Adam and the woman are
+    both associated with eating from the tree that was commanded not to be eaten.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: woman under childbirth sorrow and marital rule
+  assigned_to:
+  - fig:2
+  basis: The speech addressed to her specifies sorrow and pains, childbirth in sorrow,
+    return to her husband, and his rule over her.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: human sentenced to agricultural toil and return to earth
+  assigned_to:
+  - fig:3
+  basis: Adam is told that the ground is cursed for his sake and that he will eat
+    bread by sweat until returning to earth.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: speaking animal or formerly speaking animal
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The serpent has a voice, and the passage states that animals once spoke with
+    one lip and one tongue before their mouths were closed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: offerer of fragrant sacrifice
+  assigned_to:
+  - fig:3
+  basis: Adam offers a sweet-savour offering of incense and spices in the morning
+    after leaving the Garden.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: the voice of the serpent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forbidden tree
+  literal_form: the tree from which Adam had been commanded not to eat
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ground and earth
+  literal_form: cursed ground, thorns and thistles, and the earth to which Adam returns
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: coats of skin
+  literal_form: coats of skin made and used to clothe the pair
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Garden of Eden
+  literal_form: the Garden of Eden from which Adam and the woman are sent forth
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: fragrant offering
+  literal_form: frankincense, galbanum, stacte, and spices offered as a sweet savour
+    at sunrise
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: closed animal mouths
+  literal_form: the mouths of animals closed so that they can no longer speak
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The woman eats and receives sentence
+  summary: After hearing the serpent's voice and eating, the woman is told of multiplied
+    sorrow, painful childbirth, return to her husband, and his rule over her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adam receives sentence of toil and return to earth
+  summary: Adam is told that because he listened to his wife and ate from the forbidden
+    tree, the ground is cursed and he will labor for bread until returning to earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Clothing and expulsion from Eden
+  summary: Coats of skin are made for Adam and the woman; they are clothed and sent
+    forth from the Garden of Eden.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Adam's sunrise offering
+  summary: On the day he leaves the Garden, Adam offers a fragrant morning offering
+    of incense and spices.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Closure of animal speech
+  summary: The mouths of animals are closed so that they can no longer speak, though
+    they previously spoke with one lip and one tongue.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: forbidden tree eating after serpent speech
+  taxonomy_refs:
+  - forbidden_knowledge
+  - serpent
+  basis: The passage states that the woman listened to the serpent's voice and ate,
+    and that Adam ate from the tree that had been forbidden to him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage names a forbidden tree and serpent speech, but this excerpt
+    does not explicitly mention knowledge.
+- id: motif:2
+  label: divine judgment after transgression
+  taxonomy_refs:
+  - divine_judgment
+  basis: The divine speaker imposes consequences on the woman, Adam, and the ground
+    after the eating from the tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The classification is based on explicit speech of punishment and curse
+    in this passage.
+- id: motif:3
+  label: expulsion or departure from the Garden
+  taxonomy_refs:
+  - departure
+  basis: The pair are clothed and sent forth from the Garden of Eden.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames the movement as being sent forth; broader interpretation
+    of exile should be reviewed against surrounding context.
+- id: motif:4
+  label: first fragrant offering after leaving sacred place
+  taxonomy_refs:
+  - sacrifice
+  basis: Adam offers frankincense, galbanum, stacte, and spices as a sweet-savour
+    offering in the morning after going forth from the Garden.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The offering is explicit, but its ritual status beyond the passage should
+    not be inferred without wider context.
+- id: motif:5
+  label: loss of primordial animal speech
+  taxonomy_refs: []
+  basis: The passage says the mouths of animals were closed so that they could no
+    longer speak, after formerly speaking with one lip and one tongue.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches this motif family.
+- id: motif:6
+  label: mortality as return to earth
+  taxonomy_refs:
+  - death_rebirth
+  basis: 'Adam is told that he will return to the earth from which he was taken: earth
+    he is, and to earth he will return.'
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage supports mortality and return to earth, but it does not describe
+    rebirth; the taxonomy reference is only a partial fit.
+comparison_claims:
+- id: claim:1
+  claim: The sentence on the woman is explicitly aligned in the notes with Genesis
+    iii.16.
+  claim_level: linguistic_similarity
+  target: Genesis iii.16
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim rests on the supplied editorial note; the compared Genesis
+    text is not included in this passage excerpt.
+- id: claim:2
+  claim: The sentence on Adam, the clothing with skins, and the sending forth from
+    Eden are explicitly aligned in the notes with Genesis iii.17-19, 21, and 24.
+  claim_level: same_motif
+  target: Genesis iii.17-19, 21, 24
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the cross-reference supplied in the notes and
+    does not compare the full wording of Genesis.
+- id: claim:3
+  claim: The note compares Adam's incense offering with the incense-offering of Exodus
+    xxx.34 and cautiously suggests priestly nakedness-covering passages in Exodus
+    xx.26 and xxviii.42 may be relevant.
+  claim_level: same_function
+  target: Exodus xxx.34; Exodus xx.26; Exodus xxviii.42
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note itself marks the nakedness-covering link as possible rather
+    than certain.
+- id: claim:4
+  claim: The note presents the loss of animal speech as a belief also attested in
+    Josephus and the Book of Adam and Eve.
+  claim_level: same_motif
+  target: Josephus, Antiquities i.1.4; Book of Adam and Eve i.18
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the supplied note, and the cited comparison passages
+    are not provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter III.24; lines 6515-6521
+  quote_or_summary: The woman listens to the serpent's voice and eats; she is told
+    of multiplied sorrow, painful childbirth, return to her husband, and his rule
+    over her.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter III.25; lines 6521-6531
+  quote_or_summary: Adam is told that because he listened to his wife and ate from
+    the forbidden tree, the ground is cursed, will produce thorns and thistles, and
+    he will eat by sweat until returning to earth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: Chapter III.26; lines 6531-6533
+  quote_or_summary: Coats of skin are made for the pair, they are clothed, and they
+    are sent forth from the Garden of Eden.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter III.27; lines 6533-6538
+  quote_or_summary: On the day Adam leaves the Garden, he offers frankincense, galbanum,
+    stacte, and spices as a sweet-savour offering at sunrise.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter III.28; lines 6538-6544
+  quote_or_summary: The mouths of animals are closed so they can no longer speak;
+    previously all had spoken with one lip and one tongue.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: note
+  locator: Notes to Chapter III.24-26; lines 6545-6570
+  quote_or_summary: The notes identify III.24 with Genesis iii.16 and III.25-26 with
+    Genesis iii.17-19, 21, and 24, with comments on variant readings.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: note
+  locator: Note to Chapter III.27; lines 6571-6588
+  quote_or_summary: The note says the writer antedates the incense-offering mentioned
+    in Exodus xxx.34 and suggests Exodus xx.26 and xxviii.42 may have been in mind
+    for covering nakedness at the altar.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: note
+  locator: Note to Chapter III.28; lines 6589-6597
+  quote_or_summary: The note describes animal speech as a current Jewish belief, citing
+    Josephus, Antiquities i.1.4, and the Book of Adam and Eve i.18.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the provided excerpt. Motif labels are mostly
+    direct, except where available taxonomy does not exactly match the observed pattern.
+    Comparison claims rely on the supplied editorial notes rather than full comparison
+    passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Figures named by pronoun are labeled descriptively rather than identified beyond the excerpt.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l6515-l6597
+  passage_sha256=66c2eacf96197bcfec25563cd6671457e273d18fd4f650374798ce8ec33bbd0e
+

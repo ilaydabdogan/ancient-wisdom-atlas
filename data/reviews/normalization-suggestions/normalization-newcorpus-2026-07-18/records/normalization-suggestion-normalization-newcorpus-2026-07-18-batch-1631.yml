@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1631
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unseen-supernatural-confidante-gathers-intelligence
+  motif_id: unseen_supernatural_confidante_gathers_intelligence
+  label: Unseen supernatural confidante gathers intelligence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests supernatural assistance or spying, but the function
+    could be divine intervention, hidden identity, counsel, or plot device.
+  cautions: Single occurrence; source context needed to distinguish a recurring supernatural-helper
+    motif from an episode-specific intelligence-gathering detail.
+  suggested_aliases:
+  - supernatural_confidante
+  - unseen_helper_gathers_information
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsettled-vengeance-beneath-sworn-reconciliation
+  motif_id: unsettled_vengeance_beneath_sworn_reconciliation
+  label: Unsettled vengeance beneath sworn reconciliation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sworn reconciliation that masks continuing vengeance centers on a violated
+    or unstable social bond.
+  cautions: May also fit curse/blessing/oath speech or sacred law if the oath itself
+    is the primary motif; verify whether vengeance drives the episode.
+  suggested_aliases:
+  - false_reconciliation_with_hidden_vengeance
+  - vengeance_under_truce
+  - unsettled_feud_after_oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsubdued-people-preserving-ancient-liberty
+  motif_id: unsubdued_people_preserving_ancient_liberty
+  label: unsubdued people preserving ancient liberty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as political ethnographic description rather than a clear
+    mythic narrative function.
+  cautions: Could be a passage-specific historical, geographic, or ideological note;
+    map only if source frames liberty as sacred law, kingship resistance, or heroic
+    social order.
+  suggested_aliases:
+  - free_unconquered_people
+  - ancient_liberty_preserved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuccessful-imitation-of-magical-acquisition
+  motif_id: unsuccessful_imitation_of_magical_acquisition
+  label: unsuccessful imitation of magical acquisition
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed imitation of a magical gain matches existing envy/imitation failure
+    patterns under pride and downfall.
+  cautions: If the emphasis is theft of a sacred object or trickster acquisition,
+    secondary mapping to sacred_treasures or trickster may be needed.
+  suggested_aliases:
+  - failed_magical_imitation
+  - failed_imitation_of_wonder_acquisition
+  - imitation_of_magic_fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuccessful-wooing
+  motif_id: unsuccessful_wooing
+  label: unsuccessful wooing
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Wooing failure is too broad; it may involve bride choice, ordeal, rivalry,
+    trickery, or simple plot outcome.
+  cautions: Do not map to sacred_love unless the passage frames love, longing, marriage
+    choice, or bridal contest as the central motif.
+  suggested_aliases:
+  - failed_wooing
+  - rejected_suitor
+  - unsuccessful_courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.untamable-creatures-beyond-human-mastery
+  motif_id: untamable_creatures_beyond_human_mastery
+  label: Untamable creatures beyond human mastery
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may express chaos creatures, divine sovereignty, or human limitation
+    before creation, but the label alone is broad.
+  cautions: Biblical context may involve Behemoth/Leviathan-like imagery; avoid mapping
+    to serpent or chaos unless monster/chaos function is explicit.
+  suggested_aliases:
+  - creatures_beyond_human_control
+  - untamable_cosmic_beasts
+  - human_mastery_denied
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - chaos
+    - divine_judgment
+    - supreme_ruler
+    - serpent_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unused-or-interpolated-delay-from-another-story-form
+  motif_id: unused_or_interpolated_delay_from_another_story_form
+  label: unused or interpolated delay from another story form
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpolation or story-form analysis rather than
+    a narrative motif in the source world.
+  cautions: Preserve as textual/provenance note if useful, but exclude from motif
+    pattern queries.
+  suggested_aliases:
+  - interpolated_delay
+  - unused_story_form_delay
+  - textual_interpolation_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwitting-cannibal-meal-of-the-wrong-victim
+  motif_id: unwitting_cannibal_meal_of_the_wrong_victim
+  label: unwitting cannibal meal of the wrong victim
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mistaken identity, cannibal horror, and victim substitution;
+    no current group cleanly captures the pattern.
+  cautions: Could involve divine judgment, trickster deception, taboo violation, or
+    over-specific tale detail. Human review should assess recurrence and cultural
+    sensitivity.
+  suggested_aliases:
+  - unwitting_cannibalism
+  - mistaken_victim_cannibal_meal
+  - cannibal_meal_by_misrecognition
+  suggested_new_group:
+    id: taboo_consumption_cannibal_meal
+    label: Taboo Consumption and Cannibal Meal
+    description: A being unknowingly or transgressively consumes forbidden human flesh,
+      kin, or the wrong victim, often producing horror, recognition, punishment, or
+      reversal.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - trickster
+    - recognition_tokens_hidden_identity
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover sacred food, law, deception,
+      or judgment, but not the recurring tale function of taboo cannibal consumption
+      and mistaken victim recognition.
+- suggestion_id: normalization.suggestion.unwitting-co-builders-of-a-shared-dwelling
+  motif_id: unwitting_co_builders_of_a_shared_dwelling
+  label: unwitting co-builders of a shared dwelling
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific social or trickster situation, not clearly a
+    sacred construction motif.
+  cautions: Map to sacred_craft only if the dwelling or building act has sacred, etiological,
+    or supernatural significance; otherwise treat as episode detail.
+  suggested_aliases:
+  - unknowing_shared_house_builders
+  - unwitting_joint_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - trickster
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.useful-simple-tool-replaces-destructive-or-inefficient-technique
+  motif_id: useful_simple_tool_replaces_destructive_or_inefficient_technique
+  label: useful simple tool replaces destructive or inefficient technique
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: Improved tool use that replaces a harmful technique fits culture-hero/civilizing
+    innovation when framed as a learned or introduced practice.
+  cautions: If the passage is merely practical anecdote or comic problem-solving,
+    it may be too specific for motif queries; sacred_craft may fit if making the tool
+    is central.
+  suggested_aliases:
+  - simple_tool_innovation
+  - tool_replaces_destructive_method
+  - civilizing_practical_tool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; human
+  review should verify whether they are narrative motifs rather than episode summaries
+  or scholarly artifacts.
+- Avoid inferring transmission or cultural borrowing from any suggested placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for unmapped batch 1631.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1631
+  input_sha256: 6f14dc46738fc89c6783f5f9b33ccbfc02329b419682f957b0adc929b1a512cc
+

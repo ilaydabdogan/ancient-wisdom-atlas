@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l13294-l13503
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: WATERTON, CHARLES. / WESTERMARCK, EDWARD. / WOODROFFE, JOSEPH F. / INDEX;
+    lines 13294-13503
+  start: '13294'
+  end: '13503'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Alphabetical index excerpt listing Amazonian peoples, places, and topics
+    with page references. It includes entries for many tribes, references to beliefs,
+    folk-tales, dances, medicine-men, war, vampires, and a Witoto entry noting a tree
+    venerated by them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index excerpt that lists tribal names and topical subentries
+    with page references rather than narrating a mythic episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Witoto entry includes a subentry stating that a tree is venerated by them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contains a standalone index entry for vampires with a page reference.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The war entry lists related subtopics including blood feuds, war dance, preparations
+    for war, prisoners, and strategy.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Several tribal entries refer to beliefs, folk-tales, dances, or medicine-men,
+    but the excerpt gives only page references and no narrative details.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Witoto
+  description: Tribal group listed in the index; the entry includes many subtopics
+    and a reference to a tree venerated by them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Vampires
+  description: Supernatural beings or topic named in a standalone index entry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: indexed group associated with a venerated tree
+  assigned_to:
+  - fig:1
+  basis: The Witoto index entry includes the subentry 'tree venerated by'.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: indexed supernatural beings or topic
+  assigned_to:
+  - fig:2
+  basis: The index includes a standalone entry for vampires.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: venerated tree
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: venerated tree reference
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The index notes a tree venerated by the Witoto.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is only an index entry. It supports a sacred or venerated
+    tree reference, but gives no narrative, cosmological axis, or world-center details.
+- id: motif:2
+  label: vampire beings reference
+  taxonomy_refs: []
+  basis: The index contains a standalone entry for vampires.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: No description, action, or narrative context is present in this excerpt.
+- id: motif:3
+  label: war dance and blood-feud topic
+  taxonomy_refs: []
+  basis: The war entry lists blood feuds and a war dance among related topics.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is an ethnographic index topic, not a mythic narrative in the supplied
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13294-13503, index excerpt overall
+  quote_or_summary: The excerpt lists many tribes and topical subentries with page
+    references, including appearance, country, dress, language, ornaments, statistics,
+    beliefs, folk-tales, dances, medicine-men, and other headings.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13294-13503, Witoto entry
+  quote_or_summary: "“Witoto ... tree venerated by, 233”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 13294-13503, Vampires entry
+  quote_or_summary: "“Vampires, 51-2”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 13294-13503, War entry
+  quote_or_summary: The war entry gives page references for war, blood feuds, causes,
+    dance, defensive war, dress, preparations, prisoners, and strategy.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13294-13503, selected tribal entries
+  quote_or_summary: Selected tribal entries include references to beliefs, folk-tales,
+    dances, and medicine-men, but only as index page references.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited because the supplied passage is an index excerpt. The
+    venerated-tree and vampire references are literal, but motif assignment is tentative
+    without the indexed pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support historical, functional, or cross-tradition comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l13294-l13503
+  passage_sha256=0219bd0b7f6a91e4c07674564383139ad237de3b23bd220b756967d35e035162
+

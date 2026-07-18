@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1515
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pastoral-community-under-a-shepherd-s-account
+  motif_id: pastoral_community_under_a_shepherd_s_account
+  label: pastoral community under a shepherd’s account
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe pastoral leadership, moral accounting, or a literal
+    shepherding scene; existing groups do not resolve the function from the label
+    alone.
+  cautions: Could be a Christian pastoral metaphor, passage-specific social detail,
+    or judgment/accountability image; source evidence needed.
+  suggested_aliases:
+  - shepherd_accountability
+  - pastoral_flock_under_shepherd
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-herd-threatened-by-wild-predators
+  motif_id: pastoral_herd_threatened_by_wild_predators
+  label: Pastoral herd threatened by wild predators
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A threatened herd could be literal pastoral danger, heroic ordeal, animal-predator
+    episode, or symbolic disorder.
+  cautions: Single occurrence and may be a narrative setting rather than a motif;
+    do not map to trickster or sacred combat without evidence of deception, ordeal,
+    or ritual function.
+  suggested_aliases:
+  - herd_threatened_by_predators
+  - pastoral_predator_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-protection-charm-before-sending-herds-into-wild-pasture
+  motif_id: pastoral_protection_charm_before_sending_herds_into_wild_pasture
+  label: pastoral protection charm before sending herds into wild pasture
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective charm for herds functions as an apotropaic ritual practice,
+    already folded under sacred_law in the normalization groups.
+  cautions: If the passage emphasizes exchange with spirits or forest powers, sacred_exchange
+    or divine_intervention may be relevant secondary context.
+  suggested_aliases:
+  - pastoral_protection_charm
+  - herd_protection_charm
+  - apotropaic_charm_for_livestock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paternal-tokens-as-proof-of-lineage
+  motif_id: paternal_tokens_as_proof_of_lineage
+  label: paternal tokens as proof of lineage
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Tokens proving paternal lineage fit the existing recognition-token group
+    for identity, kinship, and authority proofs.
+  cautions: May also support royal_legitimacy if the lineage proof authorizes succession
+    or rule.
+  suggested_aliases:
+  - lineage_proof_tokens
+  - paternal_recognition_tokens
+  - tokens_proving_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patient-righteous-exemplars-led-into-mercy
+  motif_id: patient_righteous_exemplars_led_into_mercy
+  label: Patient righteous exemplars led into mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Righteous exemplars receiving mercy after patient endurance fits moral
+    reckoning and divine response to virtue.
+  cautions: If the passage is primarily ethical instruction rather than narrative
+    judgment, sacred_law or sacred_knowledge may be better secondary mappings.
+  suggested_aliases:
+  - righteous_patience_rewarded_with_mercy
+  - patient_exemplars_receive_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patron-secures-champion-to-counter-a-rival
+  motif_id: patron_secures_champion_to_counter_a_rival
+  label: patron secures champion to counter a rival
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: The label concerns recruitment of a champion to resolve rivalry through
+    combat or contest, fitting the sacred combat complex better than general kingship.
+  cautions: If the episode is political patronage without ritual or mythic combat
+    significance, it may be an over-specific plot detail.
+  suggested_aliases:
+  - champion_secured_against_rival
+  - patron_recruits_champion
+  - champion_proxy_in_rivalry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patronage-gifts-restore-loyalty
+  motif_id: patronage_gifts_restore_loyalty
+  label: patronage gifts restore loyalty
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gift-giving that repairs loyalty is a reciprocity pattern centered on
+    restoring a social bond.
+  cautions: If the passage emphasizes royal authority or legal obligation rather than
+    reciprocal repair, royal_legitimacy or covenant may be secondary.
+  suggested_aliases:
+  - gifts_restore_loyalty
+  - patronage_exchange_repairs_bond
+  - loyalty_restored_by_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-after-destructive-conflict
+  motif_id: peace_after_destructive_conflict
+  label: peace after destructive conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Peace following destruction may be narrative closure, covenant repair,
+    judgment aftermath, or renewal after conflict.
+  cautions: Too broad to place confidently without evidence that peace is ritually
+    established, divinely sanctioned, or socially transformative.
+  suggested_aliases:
+  - peace_after_conflict
+  - postwar_peace
+  - restoration_after_destructive_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-and-land-allotment-to-a-defeated-remnant
+  motif_id: peace_and_land_allotment_to_a_defeated_remnant
+  label: peace and land allotment to a defeated remnant
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peace settlement granting land to a defeated remnant establishes a
+    binding social order after conflict.
+  cautions: Could also belong under royal_legitimacy if land allotment authorizes
+    rule, or divine_judgment if framed as sacred recompense.
+  suggested_aliases:
+  - land_allotment_to_defeated_remnant
+  - peace_settlement_with_remnant
+  - defeated_remnant_granted_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-message-carried-to-former-enemies
+  motif_id: peace_message_carried_to_former_enemies
+  label: Peace message carried to former enemies
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A message of peace to former enemies functions as repair of hostile relations
+    and formation or renewal of a bond.
+  cautions: If the carrier’s role or speech act is the main focus, curse_blessing_speech
+    or storytelling_as_power may be relevant secondary context.
+  suggested_aliases:
+  - peace_message_to_enemies
+  - envoy_carries_peace
+  - reconciliation_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several pastoral and peace-settlement labels are single-occurrence and may be contextual
+  social details; verify whether they recur as motifs before promotion.
+- For peace-after-conflict items, distinguish covenantal settlement, royal land distribution,
+  divine judgment aftermath, and ordinary plot resolution.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items need passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1515
+  input_sha256: dd614c4062f46acca2de00c30e5b802380b6ddb72b3247ad07927c31b88ccbe6
+

@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l13008-l13250
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: WATERTON, CHARLES. / WESTERMARCK, EDWARD. / WOODROFFE, JOSEPH F. / INDEX;
+    lines 13008-13250
+  start: '13008'
+  end: '13250'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment lists topics and page references, including implements,
+    initiation, Jurupari, language, marriage, medicine-men, music, names, ornaments,
+    poisons, reptiles, rivers, spirits, spines, and stone objects.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section rather than a continuous narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes implements such as earthenware household items, human-bone
+    implements, knives, pestles and mortars, tools, and troughs.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Initiation is listed as an index topic, with a subentry for initiation dances.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jurupari is listed as an index topic and is cross-referenced to dances; it
+    is also listed under music.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:5
+  text: The medicine-man entry lists dress, functions, influence, magic powers, poison
+    made by him, and succession.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: The music entry lists instruments including drums, signal drums, flutes, pan-pipes,
+    rattles, trumpets, whistles, and Jurupari.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: The names entry includes boys’ and girls’ names and names not mentioned.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: The reptiles entry lists anaconda, boa-constrictor, lizard, snakes, and fear
+    of snakes.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:9
+  text: The rivers entry lists many named rivers and notes black-water and white-water
+    streams.
+  category: setting
+  evidence_refs:
+  - ev:12
+- id: obs:10
+  text: The spirits entry distinguishes evil spirits and good spirits and also lists
+    appearances to humans, land of spirits, return of spirits, and transmigratory
+    spirits.
+  category: relationship
+  evidence_refs:
+  - ev:13
+- id: obs:11
+  text: The stone entry includes stone axes and magic stones.
+  category: object
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Medicine-man
+  description: Index topic associated with dress, functions, influence, magic powers,
+    poison made by him, and succession.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Good spirits
+  description: Index subentry under spirits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:13
+- id: fig:3
+  name_or_label: Evil spirits
+  description: Index subentry under spirits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:13
+- id: fig:4
+  name_or_label: Spirits generally
+  description: Index topic including appearances to humans, land of spirits, return
+    of spirits, and transmigratory spirits.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: ritual specialist with magical and medicinal functions
+  assigned_to:
+  - fig:1
+  basis: The medicine-man entry lists functions, influence, magic powers, poison made
+    by him, and succession.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: beneficial spirit category
+  assigned_to:
+  - fig:2
+  basis: The spirits entry includes a subentry for Good spirits.
+  evidence_refs:
+  - ev:13
+- id: role:3
+  label: harmful spirit category
+  assigned_to:
+  - fig:3
+  basis: The spirits entry includes a subentry for evil spirits.
+  evidence_refs:
+  - ev:13
+- id: role:4
+  label: returning or transmigratory spirit category
+  assigned_to:
+  - fig:4
+  basis: The spirits entry lists return of spirits and transmigratory spirits.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: serpent and large reptile
+  literal_form: Anaconda, boa-constrictor, snakes, and fear of snakes are listed under
+    reptiles.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:11
+- id: sym:2
+  label: rivers and water streams
+  literal_form: Named rivers and black-water and white-water streams are listed.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+- id: sym:3
+  label: ritual music instruments
+  literal_form: Drums, signal drums, flutes, pan-pipes, rattles, trumpets, whistles,
+    and Jurupari are listed under music.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: magic stones
+  literal_form: Magic stones are listed under the stone entry.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+- id: sym:5
+  label: unmentioned names
+  literal_form: Names are listed with a subentry for names not mentioned.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: initiation with associated dances
+  taxonomy_refs:
+  - initiation
+  basis: The index explicitly lists initiation and initiation dances.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage provides index references only and does not describe the ritual
+    sequence.
+- id: motif:2
+  label: good and evil spirits
+  taxonomy_refs:
+  - duality
+  basis: The spirits entry separately lists evil spirits and Good spirits.
+  evidence_refs:
+  - ev:13
+  confidence: medium
+  cautions: The passage does not narrate interactions between the spirit categories.
+- id: motif:3
+  label: returning and transmigratory spirits
+  taxonomy_refs:
+  - return
+  basis: The spirits entry lists return of spirits and transmigratory spirits.
+  evidence_refs:
+  - ev:13
+  confidence: medium
+  cautions: The passage does not describe an afterlife journey or a specific return
+    narrative.
+- id: motif:4
+  label: medicine-man as magical specialist
+  taxonomy_refs: []
+  basis: The medicine-man entry lists magic powers, functions, influence, poison made
+    by him, and succession.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The index does not give a narrative episode or detailed practice.
+- id: motif:5
+  label: serpent or snake fear motif
+  taxonomy_refs:
+  - serpent
+  basis: The reptiles entry lists anaconda and snakes and notes fear of snakes.
+  evidence_refs:
+  - ev:11
+  confidence: low
+  cautions: The passage only indexes reptile topics and does not assign a mythic action
+    to serpents.
+- id: motif:6
+  label: name avoidance or non-mentioning of names
+  taxonomy_refs: []
+  basis: The names entry includes a subentry for names not mentioned.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The passage does not explain the reason or context for not mentioning
+    names.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: note
+  locator: lines 13008-13250
+  quote_or_summary: The supplied text is an alphabetic index segment with topic headings
+    and page references.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 13008-13250; index entry 'Implements'
+  quote_or_summary: Implements include household earthenware, human bone, knives,
+    pestle and mortar, tools, and troughs.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 13008-13250; index entry 'Initiation'
+  quote_or_summary: "“Initiation, 157-8, 165; dances, 197-9”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 13008-13250; index entry 'Jurupari'
+  quote_or_summary: "“Jurupari, 229, 231. See also Dances”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 13008-13250; index entry 'Language'
+  quote_or_summary: Language is indexed with drum language, gesture, and language
+    groups.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 13008-13250; index entry 'Marriage'
+  quote_or_summary: Marriage is indexed with arrangement, betrothal, ceremonies, and
+    fidelity.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 13008-13250; index entry 'Medicine-man'
+  quote_or_summary: Medicine-man is indexed with dress, functions, influence, magic
+    powers, poison made by him, and succession.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 13008-13250; index entry 'Music'
+  quote_or_summary: Music is indexed with instruments including drums, signal drums,
+    flutes, pan-pipes, rattles, trumpets, whistles, and Jurupari.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 13008-13250; index entry 'Names'
+  quote_or_summary: Names are indexed with boys’ and girls’ names and names not mentioned.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 13008-13250; index entry 'Poisons'
+  quote_or_summary: Poisons are indexed with preparation of poisons.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:11
+  type: summary
+  locator: lines 13008-13250; index entry 'Reptiles'
+  quote_or_summary: Reptiles are indexed with anaconda, boa-constrictor, frogs, iguana,
+    lizard, snakes, and fear of snakes.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:12
+  type: summary
+  locator: lines 13008-13250; index entry 'Rivers'
+  quote_or_summary: Rivers are indexed with many named waterways and notes on black-water
+    and white-water streams.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:13
+  type: summary
+  locator: lines 13008-13250; index entry 'Spirits'
+  quote_or_summary: Spirits are indexed as evil, Good, appearing to man, associated
+    with a land of spirits, returning, and transmigratory.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:14
+  type: summary
+  locator: lines 13008-13250; index entry 'Stone'
+  quote_or_summary: Stone is indexed with absence of stone, stone found at Chorrera,
+    stone axes, and magic stones.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an index, so literal topic extraction is straightforward,
+    but motif identification is limited because no narrative episodes or ritual descriptions
+    are included. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All entries are based only on the supplied index passage and source metadata.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l13008-l13250
+  passage_sha256=e8f54b0b919de17d6937cb7b3e22e009264be62fe306d5baec98351db1c7ef72
+

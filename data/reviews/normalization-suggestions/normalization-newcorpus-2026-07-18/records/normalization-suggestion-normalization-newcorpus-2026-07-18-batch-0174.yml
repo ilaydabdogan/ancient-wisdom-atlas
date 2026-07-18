@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0174
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divination-at-a-crossroads-before-warfare
+  motif_id: divination_at_a_crossroads_before_warfare
+  label: Divination at a crossroads before warfare
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: The core action is divination before a major decision; crossroads and
+    warfare are contextual setting and occasion.
+  cautions: May also relate to sacred_combat if the passage emphasizes warfare rather
+    than divinatory method.
+  suggested_aliases:
+  - battlefield_divination
+  - pre_battle_divination
+  - crossroads_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-arrival-announced-by-repeated-calls
+  motif_id: divine_arrival_announced_by_repeated_calls
+  label: divine arrival announced by repeated calls
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated calls announcing divine arrival function as a sign of approaching
+    sacred manifestation.
+  cautions: If the calls are ritual speech or messenger formula rather than manifestation,
+    curse_blessing_speech or divine_intervention may be secondary.
+  suggested_aliases:
+  - announced_divine_arrival
+  - repeated_call_theophany
+  - arrival_call_of_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-authorship-of-sacred-funerary-text
+  motif_id: divine_authorship_of_sacred_funerary_text
+  label: divine authorship of sacred funerary text
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sacred funerary text of divine origin likely provides postmortem guidance
+    or authority for afterlife passage.
+  cautions: If the passage emphasizes authorship or textual transmission rather than
+    afterlife function, storytelling_as_power or _meta_textual may be preferable.
+  suggested_aliases:
+  - divinely_authored_funerary_text
+  - sacred_funerary_text_of_divine_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-blessing-overriding-a-requested-curse
+  motif_id: divine_blessing_overriding_a_requested_curse
+  label: divine blessing overriding a requested curse
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on competing performative speech acts, with divine
+    blessing nullifying a curse.
+  cautions: May also index divine_intervention or divine_judgment if the emphasis
+    is divine protection or moral reversal.
+  suggested_aliases:
+  - blessing_overrides_curse
+  - curse_reversed_into_blessing
+  - divine_reversal_of_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-chariot-journey-to-a-named-sacred-place
+  motif_id: divine_chariot_journey_to_a_named_sacred_place
+  label: Divine chariot journey to a named sacred place
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is primarily a journey to a sacred destination, but the divine
+    chariot and named place are episode-specific details.
+  cautions: Could fit sacred_treasures if the chariot is a power object, axis_mundi
+    if the place is a world center, or be excluded if merely itinerary detail.
+  suggested_aliases:
+  - sacred_chariot_journey
+  - journey_to_named_sacred_place
+  - divine_vehicle_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-cloak-enabling-enchanted-travel
+  motif_id: divine_cloak_enabling_enchanted_travel
+  label: Divine cloak enabling enchanted travel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine cloak that grants travel ability is a power object conferring
+    supernatural capability.
+  cautions: If the enchanted travel leads to an otherworld, otherworld may be an additional
+    mapping; avoid reducing the motif to generic journey.
+  suggested_aliases:
+  - magic_cloak_travel
+  - enchanted_travel_cloak
+  - divine_cloak_as_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-co-kingship-hierarchy-in-the-realm-of-light
+  motif_id: divine_co_kingship_hierarchy_in_the_realm_of_light
+  label: Divine co-kingship hierarchy in the realm of Light
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns sacred sovereignty and hierarchy, but the gnostic
+    realm-of-Light context may be cosmological doctrine rather than a narrative motif.
+  cautions: Review source evidence; could belong to supreme_ruler, duality, cosmic_origin,
+    or be treated as doctrinal/contextual rather than a reusable motif.
+  suggested_aliases:
+  - divine_co_kingship
+  - heavenly_kingship_hierarchy
+  - realm_of_light_hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-confidence-before-a-dangerous-quest
+  motif_id: divine_confidence_before_a_dangerous_quest
+  label: Divine confidence before a dangerous quest
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: Confidence before a dangerous quest functions as a quest-stage characterization
+    within the hero journey pattern.
+  cautions: May be too abstract or psychological unless the passage marks a clear
+    quest ordeal; consider ethics_psychology evidence notes if isolated.
+  suggested_aliases:
+  - confidence_before_quest
+  - divinely_confident_quester
+  - assurance_before_dangerous_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-deliverer-requested-for-the-oppressed
+  motif_id: divine_deliverer_requested_for_the_oppressed
+  label: Divine deliverer requested for the oppressed
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The oppressed appeal for a divinely provided agent of rescue, fitting
+    direct sacred intervention in human affairs.
+  cautions: If the deliverer establishes rule or law, royal_legitimacy or covenant
+    may be secondary.
+  suggested_aliases:
+  - requested_divine_deliverer
+  - deliverer_for_the_oppressed
+  - prayer_for_sacred_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-footprint-as-arrival-sign
+  motif_id: divine_footprint_as_arrival_sign
+  label: Divine footprint as arrival sign
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A divine footprint functions as a physical sign or trace of sacred presence
+    and arrival.
+  cautions: Could fit theophany if the focus is manifestation, or sacred_geography/axis_mundi
+    if the footprint consecrates a place; review local context carefully.
+  suggested_aliases:
+  - sacred_footprint
+  - divine_trace_as_arrival_sign
+  - footprint_of_the_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and journey-bucketed, but their
+  stronger placement is often divination, theophany, sacred speech, or power-object
+  function rather than generic journey.
+- Avoid treating named places, vehicles, or arrival signs as evidence of transmission;
+  these are provisional semantic placements only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions generated from labels and current normalization groups;
+    source passages should be checked for episode-specific or doctrinal artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0174
+  input_sha256: 102147816db82bf7470cd59516b4b1a5c829574cc316cf5e53874871e67af611
+

@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1179
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.victory-attributed-to-favor-of-heaven
+  motif_id: victory_attributed_to_favor_of_heaven
+  label: Victory attributed to favor of Heaven
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Victory is explained as sacred approval or heavenly judgment in conflict.
+  cautions: Could also fit divine_warrior or royal_legitimacy if the passage emphasizes
+    combat role or kingly mandate rather than moral reckoning.
+  suggested_aliases:
+  - heavenly_favor_in_victory
+  - victory_by_divine_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-boast-over-the-fallen-enemy
+  motif_id: victory_boast_over_the_fallen_enemy
+  label: victory boast over the fallen enemy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A boast over a fallen enemy is a heroic combat aftermath detail.
+  cautions: Single occurrence and may be an episode-specific speech act; if the utterance
+    binds, curses, or transforms, curse_blessing_speech may be relevant.
+  suggested_aliases:
+  - boast_over_fallen_enemy
+  - victory_taunt_after_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-dance-with-enemy-scalp
+  motif_id: victory_dance_with_enemy_scalp
+  label: victory dance with enemy scalp
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a ritualized victory performance after combat.
+  cautions: Culturally sensitive and very specific; source context is needed before
+    indexing under warfare, trophy-taking, mourning, or ritual performance.
+  suggested_aliases:
+  - ritual_victory_dance
+  - enemy_scalp_victory_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-exchanged-for-restoration-rather-than-plunder
+  motif_id: victory_exchanged_for_restoration_rather_than_plunder
+  label: victory exchanged for restoration rather than plunder
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Renouncing plunder in favor of restoration frames victory as repair of
+    social or sacred order.
+  cautions: Could fit sacred_law, sacred_exchange, or divine_judgment depending on
+    whether the passage emphasizes ethical rule, reciprocity, or moral reckoning.
+  suggested_aliases:
+  - restorative_victory
+  - victory_as_restoration_not_plunder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-heroic-era-warfare-and-captivity
+  motif_id: violent_heroic_era_warfare_and_captivity
+  label: violent heroic-era warfare and captivity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as broad historical or contextual characterization rather
+    than a discrete motif.
+  cautions: If a passage centers on captive-taking, ransom, or heroic combat ritual,
+    extract a narrower motif instead of using this broad label.
+  suggested_aliases:
+  - heroic_age_warfare_context
+  - warfare_and_captivity_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtue-confirmed-by-promised-reward-among-the-good
+  motif_id: virtue_confirmed_by_promised_reward_among_the_good
+  label: virtue confirmed by promised reward among the good
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Virtue rewarded among the good fits moral accounting and sacred evaluation
+    of conduct.
+  cautions: If the reward is specifically postmortem, afterlife_passage may be a secondary
+    placement; if it is ethical instruction, sacred_law or sacred_knowledge may fit.
+  suggested_aliases:
+  - virtue_rewarded_among_the_good
+  - reward_for_virtue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtue-pursued-without-supernatural-reward
+  motif_id: virtue_pursued_without_supernatural_reward
+  label: virtue pursued without supernatural reward
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on ethical conduct as an obligation independent of
+    supernatural compensation.
+  cautions: May be philosophical teaching rather than narrative motif; if passage
+    is discursive ethics only, consider excluding from pattern queries or mapping
+    to sacred_knowledge.
+  suggested_aliases:
+  - virtue_without_reward
+  - ethical_action_without_supernatural_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtue-test-with-false-bodily-proof
+  motif_id: virtue_test_with_false_bodily_proof
+  label: virtue test with false bodily proof
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false bodily proof used in a virtue test aligns with accusation, testing,
+    and eventual moral reckoning.
+  cautions: Could also fit recognition_tokens_hidden_identity if the bodily proof
+    functions as an identity token, or sacred_law if the test is legal rather than
+    sacred.
+  suggested_aliases:
+  - false_bodily_proof_in_virtue_test
+  - virtue_test_by_false_evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-warlike-nobility-judged-from-appearance
+  motif_id: visible_warlike_nobility_judged_from_appearance
+  label: visible warlike nobility judged from appearance
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Visible noble or warlike bearing may function as recognition of legitimate
+    elite status.
+  cautions: Could be a descriptive character detail rather than motif; if appearance
+    proves identity, recognition_tokens_hidden_identity may be better.
+  suggested_aliases:
+  - warlike_nobility_recognized_by_appearance
+  - noble_bearing_as_status_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wager-with-dwarfs
+  motif_id: wager_with_dwarfs
+  label: wager with dwarfs
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: A wager with supernatural smith-like beings may involve trickery, contest,
+    or sacred craft, but the function is unclear.
+  cautions: Source context is needed to decide between trickster, sacred_craft, sacred_exchange,
+    sacred_treasures, or an over-specific episode label.
+  suggested_aliases:
+  - supernatural_wager_with_dwarfs
+  - wager_with_supernatural_craftsmen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict-bucket labels are ethical or contextual rather than combat motifs;
+  avoid mapping them solely from the review bucket.
+- Single-occurrence victory and warfare labels should remain provisional unless source
+  evidence shows recurring ritual, legal, or sacred-combat function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    or over-specific warfare labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1179
+  input_sha256: 4c71e0569c0ec222cf55d2e9341912492f199db62fea95196a4e49c3dad8c989
+

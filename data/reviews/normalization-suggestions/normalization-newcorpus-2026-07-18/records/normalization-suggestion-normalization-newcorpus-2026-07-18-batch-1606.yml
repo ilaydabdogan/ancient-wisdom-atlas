@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1606
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.surviving-lineage-after-catastrophe
+  motif_id: surviving_lineage_after_catastrophe
+  label: surviving lineage after catastrophe
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lineage surviving catastrophe fits the renewal/remnant function of
+    catastrophe narratives, close to survivor_pair.
+  cautions: If the passage emphasizes genealogy only, map secondarily to cosmic_origin
+    or treat as contextual lineage detail.
+  suggested_aliases:
+  - surviving remnant after catastrophe
+  - surviving lineage after destruction
+  - post-catastrophe lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.surviving-remnant-after-catastrophe
+  motif_id: surviving_remnant_after_catastrophe
+  label: Surviving remnant after catastrophe
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: high
+  rationale: A remnant preserved after destruction is a core catastrophe-and-renewal
+    pattern, broader than but related to survivor_pair.
+  cautions: Do not assume a flood unless water destruction is explicit; may be any
+    world-ending or communal catastrophe.
+  suggested_aliases:
+  - surviving lineage after catastrophe
+  - surviving remnant after destruction
+  - post-catastrophe survivors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-messenger-reports-a-slaughter
+  motif_id: survivor_messenger_reports_a_slaughter
+  label: Survivor messenger reports a slaughter
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a narrative reporting device after violence rather
+    than a stable symbolic motif.
+  cautions: Could fit sacred_combat, lament_and_mourning, or storytelling_as_power
+    depending on whether the report triggers revenge, mourning, or transmission of
+    knowledge.
+  suggested_aliases:
+  - survivor reports slaughter
+  - escaped witness reports massacre
+  - messenger survivor of slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-reports-to-maternal-figure
+  motif_id: survivor_reports_to_maternal_figure
+  label: Survivor reports to maternal figure
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a highly specific plot-reporting detail rather than
+    a reusable mythic motif.
+  cautions: If the maternal figure has ritual, ancestral, or divine authority, human
+    review may instead map to mother_goddess, lament_and_mourning, or sacred_exchange.
+  suggested_aliases:
+  - survivor reports to mother
+  - survivor message to maternal figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-witness-after-catastrophic-defeat
+  motif_id: survivor_witness_after_catastrophic_defeat
+  label: survivor witness after catastrophic defeat
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone or remnant witness after catastrophic defeat fits aftermath of
+    combat when the defeat is the central event.
+  cautions: If the catastrophe is cosmic rather than military, flood_and_renewal may
+    be better; if the focus is testimony or grief, consider storytelling_as_power
+    or lament_and_mourning.
+  suggested_aliases:
+  - survivor witness after defeat
+  - survivor after catastrophic battle
+  - witness of defeated community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-assist-vengeance-at-bodily-cost
+  motif_id: survivors_assist_vengeance_at_bodily_cost
+  label: Survivors assist vengeance at bodily cost
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: Helping vengeance through bodily cost frames the body as a costly offering
+    or self-surrender for a retaliatory aim.
+  cautions: If vengeance and combat dominate, sacred_combat or divine_warrior may
+    be better; if body loss is magical transformation, consider death_and_transformation.
+  suggested_aliases:
+  - bodily cost for vengeance
+  - self-injury assisting vengeance
+  - survivors aid revenge through sacrifice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-report-slaughter-and-trigger-a-relief-expedition
+  motif_id: survivors_report_slaughter_and_trigger_a_relief_expedition
+  label: Survivors report slaughter and trigger a relief expedition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: The report functions as a call that initiates a rescue or relief expedition,
+    fitting journey departure logic.
+  cautions: Very episode-specific; if the focus is battle retaliation rather than
+    journey initiation, sacred_combat is a better mapping.
+  suggested_aliases:
+  - survivor report triggers expedition
+  - slaughter report prompts rescue
+  - messenger survivors initiate relief journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swallowed-living-creature-remains-active-inside-the-body
+  motif_id: swallowed_living_creature_remains_active_inside_the_body
+  label: swallowed living creature remains active inside the body
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve ingestion, internal survival, monstrous swallowing,
+    or bodily transformation, but the function is unclear.
+  cautions: Could map to death_and_transformation, trickster, shapeshifter, or a future
+    swallowing/inside-monster group depending on source evidence.
+  suggested_aliases:
+  - living being remains active after swallowing
+  - active swallowed creature
+  - survival inside the body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swallowed-small-object-enabling-survival-of-excess
+  motif_id: swallowed_small_object_enabling_survival_of_excess
+  label: Swallowed small object enabling survival of excess
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A small ingested object confers protective or enabling power, fitting
+    power-object logic despite its unusual bodily use.
+  cautions: If the key meaning is ritual ingestion or sacred food, sacred_substance
+    may be better; if it is a trick escape, consider trickster.
+  suggested_aliases:
+  - swallowed protective object
+  - ingested survival token
+  - small object enables survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swallowed-victims-released-unharmed
+  motif_id: swallowed_victims_released_unharmed
+  label: swallowed victims released unharmed
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Swallowing and release unharmed resembles symbolic death, enclosure,
+    and return to life.
+  cautions: Do not equate with resurrection unless death is explicit; may instead
+    belong to trickster or monster-escape narratives if the swallowed victims escape
+    by cunning.
+  suggested_aliases:
+  - released from swallowing unharmed
+  - victims emerge unharmed from devourer
+  - swallowed and returned alive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several survivor/report labels are single-occurrence and may be plot mechanics rather
+  than reusable motifs; verify source function before final indexing.
+- For catastrophe-survival labels, distinguish cosmic renewal from battlefield survival,
+  messenger testimony, and genealogical detail.
+- Swallowing labels may indicate a recurring ingestion/enclosure-return complex, but
+  this batch alone does not justify a new group without more evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1606
+  input_sha256: 9d87577c918e2822f13a99dd0bc672d159e80dde81c67bb064cc03d6e1598cd6
+

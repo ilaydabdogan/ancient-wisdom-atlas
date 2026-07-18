@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1182
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warning-against-a-dangerous-quarter
+  motif_id: warning_against_a_dangerous_quarter
+  label: Warning against a dangerous quarter
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A warned-against direction or quarter may be a spatial taboo, danger
+    boundary, or passage-specific travel instruction.
+  cautions: Single occurrence; needs source context before mapping to sacred_law,
+    threshold_guardian, hero_journey, or excluding as itinerary detail.
+  suggested_aliases:
+  - dangerous_direction_warning
+  - spatial_warning_before_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-against-cutting-pine-bark
+  motif_id: warning_against_cutting_pine_bark
+  label: warning against cutting pine bark
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition against damaging pine bark reads as a taboo or sacred rule
+    governing human action toward a natural object.
+  cautions: Could be an over-specific local ecological or ritual prohibition; preserve
+    the pine-bark detail and verify whether supernatural sanction is present.
+  suggested_aliases:
+  - tree_cutting_taboo
+  - warning_against_tree_damage
+  - ritual_prohibition_against_cutting_bark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-against-repetition-ignored-by-the-community
+  motif_id: warning_against_repetition_ignored_by_the_community
+  label: warning against repetition ignored by the community
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ignored counsel leading to communal danger, but the
+    nature of the warning and consequence is unclear.
+  cautions: May be moral instruction, taboo violation, prophecy ignored, or a passage
+    artifact; do not map solely from the word warning.
+  suggested_aliases:
+  - ignored_communal_warning
+  - community_ignores_warning
+  - warning_repeated_but_unheeded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-attendant-ignored-before-fatal-or-dangerous-encounter
+  motif_id: warning_attendant_ignored_before_fatal_or_dangerous_encounter
+  label: Warning attendant ignored before fatal or dangerous encounter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: An ignored warning before fatal danger can function as a moralized consequence
+    or reckoning for disregarded counsel.
+  cautions: If the warning is prophetic or a geis/taboo, prophecy_divination, curse_blessing_speech,
+    or sacred_law may be better; source context is needed.
+  suggested_aliases:
+  - ignored_warning_before_fatal_encounter
+  - disregarded_attendant_warning
+  - unheeded_warning_before_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-before-single-combat
+  motif_id: warning_before_single_combat
+  label: warning before single combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a combat-scene convention attached to single combat, which
+    is already covered by sacred_combat.
+  cautions: Likely too granular for a standalone motif unless warnings before duels
+    recur across sources; preserve as episode detail.
+  suggested_aliases:
+  - pre_duel_warning
+  - warning_before_duel
+  - combat_warning_before_single_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-companion-speaks-despite-imposed-silence
+  motif_id: warning_companion_speaks_despite_imposed_silence
+  label: Warning companion speaks despite imposed silence
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: The imposed silence and warning speech point to binding or tabooed speech
+    rather than ordinary combat.
+  cautions: Could instead be a narrative loyalty motif, taboo violation, or over-specific
+    plot detail; confirm whether the silence has sacred force.
+  suggested_aliases:
+  - warning_breaks_imposed_silence
+  - tabooed_silence_broken_by_warning
+  - companion_warning_despite_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-display-of-failed-suitors-heads
+  motif_id: warning_display_of_failed_suitors_heads
+  label: warning display of failed suitors' heads
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: Failed suitors' heads appear within a bride-winning or dangerous courtship
+    contest, already represented under sacred_love variants.
+  cautions: If the emphasis is trophy violence or ordeal rather than courtship, sacred_combat
+    or divine_warrior may be better; likely too episode-specific for broad queries.
+  suggested_aliases:
+  - failed_suitors_heads_as_warning
+  - bride_contest_warning_display
+  - suitor_death_warning_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-and-encounter-with-enemy-spies
+  motif_id: warning_ignored_and_encounter_with_enemy_spies
+  label: warning ignored and encounter with enemy spies
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly specific plot sequence combining ignored warning
+    with enemy spies rather than a durable symbolic motif.
+  cautions: If additional passages show a recurring unheeded-warning structure with
+    sacred consequences, reconsider under divine_judgment or a future warning/omen
+    group.
+  suggested_aliases:
+  - ignored_warning_before_spy_encounter
+  - unheeded_warning_enemy_spies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-before-supernatural-danger
+  motif_id: warning_ignored_before_supernatural_danger
+  label: warning ignored before supernatural danger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring a warning before supernatural danger commonly functions as transgression
+    followed by consequence or reckoning.
+  cautions: Could map to sacred_law if the warning is a taboo, or threshold_guardian
+    if danger occurs at a boundary; verify source evidence.
+  suggested_aliases:
+  - ignored_warning_before_supernatural_peril
+  - unheeded_warning_supernatural_danger
+  - warning_disregarded_before_spirit_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-or-ineffective-before-loss
+  motif_id: warning_ignored_or_ineffective_before_loss
+  label: Warning ignored or ineffective before loss
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether the loss results from taboo
+    violation, fate, failed counsel, or plot necessity.
+  cautions: Single occurrence and abstract wording; review passage context before
+    mapping to divine_judgment, death_by_fate, sacred_law, or excluding as narrative
+    summary.
+  suggested_aliases:
+  - unheeded_warning_before_loss
+  - ineffective_warning_before_loss
+  - failed_warning_before_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe warning scenes rather than stable symbolic
+  motifs; most require source context to distinguish taboo, prophecy, moral consequence,
+  combat convention, and plot artifact.
+- Consider whether recurring unheeded-warning labels across future batches justify
+  a review alias or group, but this batch alone is insufficient to propose a new canonical
+  group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; warning motifs are context-dependent and often
+    over-specific.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1182
+  input_sha256: a20654f7066a13779ec130bc83c36159ddc901db7094061b666e04e050529ef4
+

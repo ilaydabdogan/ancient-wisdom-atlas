@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.ethiopian-kebra-nagast-budge-archive-l12888-l12920
+source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+passage_locator:
+  label: ISRAEL / L    2  163 / AARON / M    2  I79; lines 12888-12920
+  start: '12888'
+  end: '12920'
+  translation: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: He was the Refuge, He was the Feeder, He was the Director ... abased Himself.
+  summary: The passage describes an exalted figure who abases himself, is portrayed
+    through sayings attributed to Isaiah and David, is praised for beauty, gracious
+    speech, and righteous rule, and is contrasted with opponents who reject and hate
+    him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A figure is called the Refuge, the Feeder, and the Director.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same figure is described as having a domain above all and as abasing himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Isaiah is quoted as saying that the figure was humble, rejected in appearance,
+    like a root hidden in parched ground, and came in the flesh while being the sustainer
+    and saviour of the universe.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: David is quoted as attributing beauty, goodly form, gracious lips, and righteous
+    rule to the figure.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Opponents of the King are described with sharp arrows in their hearts and
+    as being brought before him and pierced.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Statements attributed to Isaiah and David say that the figure sought, called,
+    and loved people who did not answer, hated him, and returned evil for good.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed exalted figure addressed as King
+  description: A figure described as Refuge, Feeder, Director, sustainer and saviour
+    of the universe, humble and incarnate, beautiful, gracious in speech, and ruling
+    through righteousness, justice, and sincerity.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Isaiah
+  description: A prophetic speaker cited as describing the figure's humility, rejection,
+    incarnation, and rejection by those he sought and loved.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: David
+  description: A cited speaker who ascribes beauty, graciousness, righteous rule,
+    and suffering of evil for good to the figure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Jews / enemies of the truth / haters of the King
+  description: A group described in the passage as enemies of the truth, haters of
+    the King, unwilling for him to be King, and as responding to love with hatred.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Refuge, Feeder, and Director
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly applies these three titles to the figure.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exalted yet self-abased sustainer and saviour
+  assigned_to:
+  - fig:1
+  basis: The figure's domain is above all, yet he abases himself and is described
+    as coming in the flesh while sustaining and saving the universe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: righteous King
+  assigned_to:
+  - fig:1
+  basis: The passage quotes language of reigning through righteousness, justice, and
+    sincerity, and refers to opponents as haters of the King.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: scriptural witness
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Isaiah and David are repeatedly introduced as speakers whose sayings interpret
+    the figure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: opponents who reject the King
+  assigned_to:
+  - fig:4
+  basis: The group is described as enemies, haters, non-respondents, and those returning
+    hatred or evil for love and good.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: root in parched ground
+  literal_form: A root hidden in parched ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sharp arrows in hearts
+  literal_form: Sharp and strong arrows in the hearts of the haters of the King.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: gracious lips
+  literal_form: Graciousness poured forth from the figure's lips.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: exalted figure abases himself
+  summary: The passage presents an exalted figure whose domain is above all, yet who
+    abases himself and is described through Isaiah's words as humble, rejected, and
+    incarnate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Davidic praise of royal beauty and rule
+  summary: David is quoted as praising the figure's beauty, form, gracious lips, and
+    reign through righteousness, justice, and sincerity.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: rejection of the King and judgment imagery
+  summary: The passage describes opponents who hate the King, refuse his kingship,
+    and respond to his love with hatred; sharp arrows and piercing are used as images
+    against them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: exalted saviour self-abases and assumes flesh
+  taxonomy_refs: []
+  basis: The figure is above all, abases himself, and is described as coming in the
+    flesh while sustaining and saving the universe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt gives theological description rather than a full narrative
+    of birth, descent, or journey.
+- id: motif:2
+  label: righteous king rejected by hostile subjects
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_judgment
+  basis: The figure is associated with righteous rule and kingship, while opponents
+    are described as haters who did not wish him to be King and are subject to violent
+    judgment imagery.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage cites scriptural speech and imagery; it does not narrate a
+    complete enthronement or judicial episode.
+- id: motif:3
+  label: love and good repaid with hatred and evil
+  taxonomy_refs: []
+  basis: The figure says he sought, called, and loved the people, but they did not
+    answer and hated him; David is quoted as saying evil was returned for good and
+    hatred for love.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a relational pattern in quoted speech, not an extended plot sequence
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames its portrait of the exalted figure through
+    sayings attributed to Isaiah and David, supporting a direct literary relationship
+    with biblical prophetic and psalmic traditions as cited in the excerpt.
+  claim_level: linguistic_similarity
+  target: Biblical prophetic and psalmic material attributed here to Isaiah and David
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to the passage's explicit citations and footnotes;
+    it does not infer independent historical contact or broader transmission beyond
+    the excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12888-12892
+  quote_or_summary: "“He was the Refuge, He was the Feeder, He was the Director”;
+    his domain was above all, and he “abased Himself.”"
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12892-12898
+  quote_or_summary: Isaiah is cited as saying that the figure was humble and rejected,
+    like a root hidden in parched ground, and that he came in the flesh while being
+    sustainer and saviour of the universe.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12898-12906
+  quote_or_summary: David is cited as praising the figure's beauty, goodly form, gracious
+    lips, and reign through righteousness, justice, and sincerity.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12906-12913
+  quote_or_summary: The passage speaks of the Jews as enemies of the truth and haters
+    of the King; sharp arrows are in their hearts, and those who did not want him
+    as King are brought before him and pierced.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 12913-12920
+  quote_or_summary: Isaiah and David are cited as saying that the figure sought, called,
+    and loved the people, but they did not answer, hated him, and returned evil for
+    good and hatred for love.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: citation
+  locator: footnote block within lines 12888-12920
+  quote_or_summary: The passage's footnotes identify cited biblical locations including
+    Luke xxiii, Isaiah liii, Psalm xlv, and Psalm cix.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source metadata; citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal roles and images are explicit. Motif classification is more tentative
+    because the excerpt is theological and citational rather than a complete narrative
+    episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to the supplied list and left empty where no exact supported match was available.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:ethiopian-kebra-nagast-budge-archive__l12888-l12920
+  passage_sha256=8a5505c1d627d93cc82a4024f80b8b5a222b8b46651ee2d61c260c9951d6d160
+

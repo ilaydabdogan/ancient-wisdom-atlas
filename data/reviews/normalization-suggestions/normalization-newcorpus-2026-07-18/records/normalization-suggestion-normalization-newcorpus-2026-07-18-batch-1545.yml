@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1545
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recognition-through-familiar-domestic-work
+  motif_id: recognition_through_familiar_domestic_work
+  label: recognition through familiar domestic work
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition by a characteristic action or skill functions as identity
+    proof, even without a physical token.
+  cautions: Single occurrence; verify that the domestic work identifies a hidden or
+    separated person rather than serving as ordinary plot detail.
+  suggested_aliases:
+  - recognition_by_familiar_work
+  - identity_recognition_by_domestic_skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-token-and-clothing
+  motif_id: recognition_through_token_and_clothing
+  label: Recognition through token and clothing
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly describes identity recognition through tokens and
+    clothing as proofs.
+  cautions: Preserve clothing specificity as evidence detail; may overlap with royal
+    legitimacy or sacred love depending on whose identity is proven.
+  suggested_aliases:
+  - recognition_by_clothing
+  - recognition_by_token_and_garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-token-concealed-in-food
+  motif_id: recognition_token_concealed_in_food
+  label: Recognition token concealed in food
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: A concealed token used for recognition is a direct child-like variant
+    of recognition-token motifs.
+  cautions: Food concealment is granular evidence; do not promote separately unless
+    it recurs across sources.
+  suggested_aliases:
+  - recognition_token_hidden_in_food
+  - identity_token_concealed_in_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-token-exposes-concealed-bridal-deception
+  motif_id: recognition_token_exposes_concealed_bridal_deception
+  label: recognition token exposes concealed bridal deception
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The token proves identity and reveals deception, matching the recognition-token
+    group function.
+  cautions: Also related to sacred_love or marriage-choice plots, but the primary
+    mechanism is identity proof.
+  suggested_aliases:
+  - recognition_token_reveals_bridal_deception
+  - bridal_deception_exposed_by_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-token-hidden-in-milk
+  motif_id: recognition_token_hidden_in_milk
+  label: recognition token hidden in milk
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: This is an over-specific form of a recognition token concealed in a substance.
+  cautions: Milk detail should remain evidence-level unless repeated; check whether
+    nourishment symbolism is important in the passage.
+  suggested_aliases:
+  - recognition_token_concealed_in_milk
+  - identity_token_hidden_in_milk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-token-proves-hidden-lineage
+  motif_id: recognition_token_proves_hidden_lineage
+  label: recognition token proves hidden lineage
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A token proving lineage is a clear identity-proof use within the recognition-token
+    complex.
+  cautions: May also support royal_legitimacy if lineage authorizes rule or succession.
+  suggested_aliases:
+  - lineage_proved_by_recognition_token
+  - recognition_token_as_lineage_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-token-sent-by-an-envoy
+  motif_id: recognition_token_sent_by_an_envoy
+  label: recognition token sent by an envoy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: alias
+  confidence: high
+  rationale: The current group already includes recognition_token_sent_by_envoy as
+    a child-level recognition-token form.
+  cautions: None beyond preserving envoy-mediated delivery as evidence detail.
+  suggested_aliases:
+  - recognition_token_sent_through_a_messenger
+  - recognition_token_sent_by_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-tokens-taken-from-a-sleeping-royal-woman
+  motif_id: recognition_tokens_taken_from_a_sleeping_royal_woman
+  label: Recognition tokens taken from a sleeping royal woman
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Tokens taken from a sleeping royal woman likely function later as proof
+    of encounter or identity.
+  cautions: Could involve sacred_love, consent-sensitive abduction/deception, or royal
+    legitimacy; source context should be reviewed.
+  suggested_aliases:
+  - recognition_tokens_from_sleeping_beloved
+  - tokens_taken_from_sleeping_royal_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognizable-token-left-on-the-path
+  motif_id: recognizable_token_left_on_the_path
+  label: Recognizable token left on the path
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A recognizable object left on a path functions as a sign or proof for
+    recognition or tracking.
+  cautions: If the token only marks a route rather than proving identity, hero_journey
+    or passage evidence may be more relevant.
+  suggested_aliases:
+  - recognition_token_left_on_path
+  - path_token_as_identity_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognized-kin-before-an-unrecognized-kinsman
+  motif_id: recognized_kin_before_an_unrecognized_kinsman
+  label: Recognized kin before an unrecognized kinsman
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns asymmetrical kin recognition and hidden identity,
+    fitting the recognition/identity-proof group broadly.
+  cautions: No token is specified; review whether this is a recurring recognition
+    scene or a passage-specific family interaction.
+  suggested_aliases:
+  - kin_recognition_before_unrecognized_kin
+  - asymmetrical_kin_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters strongly under recognition_tokens_hidden_identity; most items
+  are granular variants of recognition by token, object, clothing, or kin-identifying
+  action.
+- Several labels have single occurrences and should remain evidence-level children
+  or aliases rather than new taxonomy families.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for non-token recognition and culturally specific context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1545
+  input_sha256: 14cf195e67947e4f87957587edae65d35ebfb1ea2a35b266ec06b6b4ccea686c
+

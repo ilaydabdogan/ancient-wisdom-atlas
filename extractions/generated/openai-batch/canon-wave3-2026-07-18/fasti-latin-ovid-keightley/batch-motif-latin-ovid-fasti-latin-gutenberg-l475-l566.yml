@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l475-l566
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: THOMAS KEIGHTLEY, / PREFACE / T. K. / INTRODUCTION; lines 475-566
+  start: '475'
+  end: '566'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains Roman calendrical reckoning: the Kalends, Nones,
+    and Ides as principal days; pontifical proclamation of the Nones at new moon;
+    comparison with the Attic three-part month; Roman date formulas and inclusive
+    counting; the division of days into fasti, nefasti, and intercisi; sacrificial
+    timing affecting legal permissibility; and the count of 38 dies fasti in the Julian
+    Calendar.'
+  language: English with Latin terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The Roman month is described as having three named reference days: Kalends,
+    Nones, and Ides.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Kalends are identified as the first day of the month; the Nones as the
+    ninth day before the Ides by inclusive reckoning; and the Ides as falling near
+    the middle of the month.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On the day of new moon, the pontiff proclaimed a formula five or seven times
+    to indicate the day of the Nones to the people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Roman month is said to be divided into three portions like the Attic month,
+    but with a more complex system based on relation to the three principal days.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Roman calendar expressions used grammatical case forms and prepositions to
+    state dates in relation to Kalends, Nones, or Ides.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Because Romans reckoned inclusively, the passage gives a conversion rule for
+    assigning Roman dates to modern day numbers.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The days of the Roman year were divided into fasti, nefasti, and endotercisi
+    or intercisi, marked in calendars by F, N, and EN.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: On dies fasti, courts sat and the Praetor gave judgment by speaking three
+    legal words; on dies nefasti, courts did not sit; on dies intercisi, justice could
+    be administered only during part of the day.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: Some holidays are described as nefasti during the killing of the victim, fasti
+    between the cutting and offering of the entrails, and nefasti again while the
+    victim was consumed on the altar.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Manutius is said to have counted exactly 38 dies fasti in the Julian Calendar;
+    the passage presents this as supporting a cyclic year of 38 weeks and as an example
+    of Romans retaining old forms and names.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: pontiff
+  description: A Roman religious official who proclaimed the new moon formula to indicate
+    the Nones.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the people
+  description: The audience for whom the pontiff's proclamation indicated the day
+    of the Nones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Romans
+  description: The calendar users whose month, dating expressions, inclusive reckoning,
+    and retention of old calendrical forms are described.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Praetor
+  description: The official who gave judgment on dies fasti by speaking three legal
+    words.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: courts
+  description: Judicial institutions that sat on dies fasti and did not sit on dies
+    nefasti.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: sacrificial victim
+  description: A victim killed during a holiday and later consumed on the altar in
+    the example of changing day-status.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Manutius
+  description: The scholar said to have counted the dies fasti in the Julian Calendar.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Hortensius
+  description: The consul to whom the making of market days fasti is attributed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: calendar announcer
+  assigned_to:
+  - fig:1
+  basis: The pontiff cried the new moon formula aloud five or seven times to indicate
+    the day of the Nones.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: calendar audience
+  assigned_to:
+  - fig:2
+  basis: The proclamation was sufficient information for the people.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: calendar users and preservers of forms
+  assigned_to:
+  - fig:3
+  basis: The Romans are described as using inclusive reckoning and retaining old calendar
+    forms and names.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: judicial speaker
+  assigned_to:
+  - fig:4
+  basis: On dies fasti, the Praetor gave judgment by speaking legal words.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: judicial institution
+  assigned_to:
+  - fig:5
+  basis: Courts sat on fasti days and did not sit on nefasti days.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: ritual victim
+  assigned_to:
+  - fig:6
+  basis: The victim is killed, associated with entrails being offered, and consumed
+    on the altar.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: calendar counter
+  assigned_to:
+  - fig:7
+  basis: Manutius counted the number of dies fasti in the Julian Calendar.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: market-day reformer
+  assigned_to:
+  - fig:8
+  basis: The passage reports that making market days fasti was the act of the consul
+    Hortensius.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: three principal days
+  literal_form: Kalends, Nones, and Ides as named reference days of the Roman month
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: new moon proclamation
+  literal_form: The spoken formula Calo Jana novella, repeated five or seven times
+    at new moon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tripartite month
+  literal_form: The month divided into three portions and counted in relation to three
+    great days
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: calendar day-status letters
+  literal_form: F, N, and EN marking fasti, nefasti, and endotercisi or intercisi
+    days
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Praetor's legal words
+  literal_form: Do, Dico, and Addico as the three legal words spoken in judgment
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sacrificial timing
+  literal_form: Victim killed, entrails cut and offered, and victim consumed on the
+    altar during changing legal day-status
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: number thirty-eight
+  literal_form: 38 dies fasti and the cyclic year divided into 38 weeks
+  associated_figures:
+  - fig:7
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Named days and new moon announcement
+  summary: The Roman month is organized around Kalends, Nones, and Ides; at new moon
+    the pontiff announces the Nones to the people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tripartite calendar reckoning
+  summary: The passage explains that Roman days are counted in relation to three principal
+    days and contrasts this with the simpler Attic division into three decades.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Date formulas and inclusive conversion
+  summary: Roman dates are expressed through grammatical formulas and inclusive counting,
+    requiring adjustment for modern reckoning.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Legal and sacrificial status of days
+  summary: The year is divided into fasti, nefasti, and intercisi days; court activity
+    and Praetorian speech depend on day-status, and sacrificial actions can change
+    the status within a holiday.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Counting fasti and preserving old forms
+  summary: Manutius counts 38 dies fasti, which the passage links to a 38-week cyclic
+    year and to the Roman retention of old calendrical forms; Hortensius is credited
+    with making market days fasti.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: calendar cycle structured by named boundary days
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes the month and year as recurring calendrical cycles
+    organized by Kalends, Nones, Ides, and numbered intervals.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a technical calendrical pattern rather than a myth narrative;
+    the taxonomy reference is limited to cyclical time-structure.
+- id: motif:2
+  label: authorized proclamation establishes civic time
+  taxonomy_refs: []
+  basis: At new moon, the pontiff's repeated proclamation identifies the Nones for
+    the people.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a calendrical procedure, not a mythic episode.
+- id: motif:3
+  label: permitted and forbidden days
+  taxonomy_refs: []
+  basis: The days are divided into fasti, nefasti, and intercisi, regulating when
+    courts and justice can operate.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a ritual-legal classification; no direct mythic narrative is supplied.
+- id: motif:4
+  label: sacrifice interrupts and structures lawful time
+  taxonomy_refs:
+  - sacrifice
+  basis: Some holidays change from nefasti to fasti and back again around the killing,
+    offering, and altar-consumption of a victim.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives a sacrificial timing example only; it does not narrate
+    a specific sacrificial myth.
+- id: motif:5
+  label: old sacred or civic forms retained after reform
+  taxonomy_refs: []
+  basis: The passage states that Romans retained old forms and names even after they
+    were no longer applicable, illustrated by the 38 dies fasti and later added days.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is an institutional continuity pattern rather than a mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The Roman and Attic months are presented as sharing the same functional tripartite
+    division of the month, though the Roman system is more complex and counts days
+    relative to principal days rather than by decades.
+  claim_level: same_function
+  target: Attic month divided into three decades
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: high
+  limitations: The passage supports only a functional calendrical comparison, not
+    historical contact, common inheritance, or mythic equivalence.
+- id: claim:2
+  claim: The count of 38 dies fasti is presented as corresponding to, and confirming,
+    a cyclic year divided into 38 weeks.
+  claim_level: same_function
+  target: cyclic year divided into 38 weeks
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is reported within the passage as an argument; no external corroborating
+    evidence is included in the supplied extract.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 475-493
+  quote_or_summary: The passage defines Kalends, Nones, and Ides, gives their positions
+    in the month, and explains variations in month length and intervals.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:2
+  type: quote
+  locator: lines 493-496
+  quote_or_summary: "“on the day of new moon, the pontiff cried aloud Calo Jana novella
+    five times or seven times” to indicate the Nones."
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 498-509
+  quote_or_summary: The Roman month is compared to the Attic month as divided into
+    three portions, but described as more complex because days are counted relative
+    to three principal days.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 511-528
+  quote_or_summary: The passage explains technical Roman date phrases using ablative,
+    genitive, prepositions, and forms such as pridie and ante diem.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 530-539
+  quote_or_summary: Because Romans reckoned inclusively, the passage instructs that
+    the Roman number minus one should be subtracted to obtain the modern day of the
+    month.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 541-547
+  quote_or_summary: The Roman year’s days are classified as fasti, nefasti, and endotercisi
+    or intercisi, marked F, N, and EN; on dies fasti courts sat and the Praetor spoke
+    three legal words.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 548-553
+  quote_or_summary: Dies nefasti are festivals or days when courts did not sit; intercisi
+    permit justice during part of a day; some holidays shift status around the killing,
+    offering, and altar-consumption of a victim.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 555-563
+  quote_or_summary: Manutius counted 38 dies fasti in the Julian Calendar; the passage
+    says this confirms a 38-week cyclic year and illustrates Roman retention of old
+    forms, and attributes making market days fasti to Hortensius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely antiquarian and technical rather than myth-narrative.
+    Calendrical, ritual-legal, and sacrificial patterns are explicit, but motif-family
+    mapping is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported figures, symbols, or external comparisons were added. Available taxonomy refs were used only where directly supported by the passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l475-l566
+  passage_sha256=709770e7443eecb23b48b2e87e32731572a37a617fdcd76c27d091406cdf4137
+

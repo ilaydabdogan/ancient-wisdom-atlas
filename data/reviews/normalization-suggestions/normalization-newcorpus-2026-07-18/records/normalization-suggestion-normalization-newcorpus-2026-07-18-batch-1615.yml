@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1615
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threefold-peace-invocation
+  motif_id: threefold_peace_invocation
+  label: threefold peace invocation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A repeated peace invocation is a performative sacred speech act used
+    ritually to establish or request sacred order.
+  cautions: Single occurrence; if it is merely liturgical formula metadata rather
+    than motif evidence, consider excluding from pattern queries.
+  suggested_aliases:
+  - threefold invocation of peace
+  - ritual peace formula
+  - performative peace invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-pursuit-with-escalating-response
+  motif_id: threefold_pursuit_with_escalating_response
+  label: threefold pursuit with escalating response
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a narrative sequence pattern, but the function could
+    be combat, chase, ordeal, or formulaic repetition.
+  cautions: Needs passage evidence before mapping; the threefold structure alone is
+    not a symbolic motif and may be a plot-shape artifact.
+  suggested_aliases:
+  - triple pursuit with escalation
+  - escalating threefold chase
+  - three-stage pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-refusal-followed-by-compelled-gift
+  motif_id: threefold_refusal_followed_by_compelled_gift
+  label: Threefold refusal followed by compelled gift
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is refusal and eventual compelled giving, fitting exchange,
+    obligation, and gift-transfer logic.
+  cautions: If the gift is compelled by magic, threat, or trickery, secondary review
+    under trickster or curse_blessing_speech may be warranted.
+  suggested_aliases:
+  - triple refusal before gift
+  - compelled gift after repeated refusal
+  - ritualized refusal and gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-repetition-before-recognition
+  motif_id: threefold_repetition_before_recognition
+  label: threefold repetition before recognition
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The repeated sequence culminates in recognition, making identity disclosure
+    the primary narrative function.
+  cautions: If the label only marks formulaic triple repetition without hidden identity
+    or proof, it may be a narrative-structure artifact.
+  suggested_aliases:
+  - triple repetition leading to recognition
+  - three attempts before recognition
+  - delayed recognition through repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-repetition-in-threats-and-recovery
+  motif_id: threefold_repetition_in_threats_and_recovery
+  label: Threefold repetition in threats and recovery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Threats and recovery could indicate healing, ordeal, combat, curse, or
+    narrative escalation depending on context.
+  cautions: Do not map solely because of threefold repetition; source evidence is
+    needed for whether recovery is bodily healing, soul restoration, victory, or plot
+    resolution.
+  suggested_aliases:
+  - triple threats and recovery
+  - threefold threat-recovery sequence
+  - repeated threat and restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-repetition-with-escalating-disclosure
+  motif_id: threefold_repetition_with_escalating_disclosure
+  label: threefold repetition with escalating disclosure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function appears to be staged revelation or increasing
+    disclosure of hidden knowledge.
+  cautions: If the disclosure proves identity, recognition_tokens_hidden_identity
+    may be a better placement; if it is only formulaic structure, exclude or review
+    as an artifact.
+  suggested_aliases:
+  - triple escalating revelation
+  - staged disclosure through repetition
+  - threefold disclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-share-reveals-hidden-eater
+  motif_id: threefold_share_reveals_hidden_eater
+  label: Threefold share reveals hidden eater
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines food-sharing, repetition, concealment, and revelation,
+    but the primary function is unclear from the label alone.
+  cautions: Could fit sacred_exchange if sharing obligations matter, recognition if
+    it reveals identity, or trickster if deception is central; needs passage review.
+  suggested_aliases:
+  - triple portion reveals concealed eater
+  - three shares expose hidden consumer
+  - hidden eater revealed by sharing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-vital-blood-loss-from-longing
+  motif_id: threefold_vital_blood_loss_from_longing
+  label: threefold vital blood loss from longing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on longing causing bodily depletion, aligning with
+    love as affliction and dangerous desire.
+  cautions: If blood symbolism or sacrificial life-force is the focus, sacred_law
+    or sacrifice may be secondary; highly specific single occurrence should remain
+    granular evidence.
+  suggested_aliases:
+  - blood loss from longing
+  - love-longing as bodily depletion
+  - threefold wasting from desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tide-dependent-treasure-container
+  motif_id: tide_dependent_treasure_container
+  label: tide-dependent treasure container
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A container holding treasure or power fits the sacred vessel/container
+    complex, with tide-dependence as local access condition.
+  cautions: If the object primarily confers authority or protection, sacred_treasures
+    may be better; if tide-bound retrieval is the focus, preserve the condition as
+    evidence detail.
+  suggested_aliases:
+  - tide-bound treasure vessel
+  - treasure container accessible by tide
+  - tidal treasure container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.time-limited-magical-illusion
+  motif_id: time_limited_magical_illusion
+  label: time-limited magical illusion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A magical illusion constrained by time often marks enchanted otherworldly
+    perception or unstable reality.
+  cautions: If the illusion is caused by a trickster, deception, or formal magic rather
+    than an enchanted realm, trickster or dream_and_vision may be better; source context
+    needed.
+  suggested_aliases:
+  - temporary magical illusion
+  - time-bound enchantment
+  - vanishing illusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are threefold narrative-sequence labels. Treat threefold
+  repetition as structural evidence only; map by narrative function, not by number
+  alone.
+- Single-occurrence composite labels should usually remain granular evidence under
+  an existing group unless further recurrence supports a dedicated formulaic-repetition
+  group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require passage-level review
+    to distinguish motif function from formulaic or editorial structure.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1615
+  input_sha256: 0535ebcdfd2a8b2a6350f0296508f820fef5e24bda8e1e14ef0dc74be08813a7
+

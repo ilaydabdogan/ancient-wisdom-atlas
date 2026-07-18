@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1096
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.inner-virtue-over-outward-performance
+  motif_id: inner_virtue_over_outward_performance
+  label: Inner virtue over outward performance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label expresses an ethical norm about inward moral quality over external
+    performance, fitting sacred/social moral order more than combat ordeal.
+  cautions: Could also fit sacred_knowledge or ethics/psychology if the passage is
+    pedagogical rather than legal-social; single occurrence and bucket mismatch warrant
+    review.
+  suggested_aliases:
+  - inner_moral_virtue_over_outward_display
+  - sincerity_over_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.innocent-blood-warning-before-violence
+  motif_id: innocent_blood_warning_before_violence
+  label: innocent blood warning before violence
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning against shedding innocent blood frames violence as moral transgression
+    subject to judgment or reckoning.
+  cautions: If the passage is primarily a legal prohibition, sacred_law may be a secondary
+    fit; if it is only dialogue before a fight, it may be over-specific evidence detail.
+  suggested_aliases:
+  - warning_against_shedding_innocent_blood
+  - innocent_blood_as_moral_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inscribed-warning-sign-halts-an-army
+  motif_id: inscribed_warning_sign_halts_an_army
+  label: Inscribed warning sign halts an army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive feature is an inscribed warning whose words bind or stop
+    armed action, aligning with performative sacred speech.
+  cautions: Could map to sacred_combat if the military delay is central, or sacred_treasures
+    if the sign is treated as a power object; verify whether the inscription has supernatural
+    or binding force.
+  suggested_aliases:
+  - written_warning_halts_army
+  - inscribed_prohibition_stops_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inscribed-weapon-grants-victory-over-opponents
+  motif_id: inscribed_weapon_grants_victory_over_opponents
+  label: Inscribed weapon grants victory over opponents
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A marked weapon conferring victory is a power object that grants martial
+    ability or success.
+  cautions: If the inscription itself is a spell or rune, curse_blessing_speech may
+    be an important secondary relation; if the focus is battle order, sacred_combat
+    also relates.
+  suggested_aliases:
+  - victory_granting_inscribed_weapon
+  - rune_marked_weapon_of_victory
+  - inscribed_power_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inseparable-warrior-companions
+  motif_id: inseparable_warrior_companions
+  label: Inseparable warrior companions
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: low
+  rationale: Warrior companionship is most likely a role pattern within heroic combat
+    narratives.
+  cautions: Existing groups do not cleanly cover sworn comradeship or heroic companion
+    pairs; may deserve future grouping if recurrent across sources, but one occurrence
+    is insufficient.
+  suggested_aliases:
+  - sworn_warrior_companions
+  - heroic_comrades_in_arms
+  - inseparable_battle_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inside-helper-opens-the-enemy-fort
+  motif_id: inside_helper_opens_the_enemy_fort
+  label: inside helper opens the enemy fort
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An internal helper enabling entry to an enemy fort is a warfare stratagem
+    within combat narrative.
+  cautions: If the emphasis is betrayal of trust rather than military success, betrayal_violated_trust
+    may be a better or secondary mapping; may be too tactical and episode-specific.
+  suggested_aliases:
+  - inside_helper_opens_enemy_stronghold
+  - betrayal_opens_enemy_fort
+  - fort_opened_from_within
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insincere-followers-excluded-from-reward-or-spoil
+  motif_id: insincere_followers_excluded_from_reward_or_spoil
+  label: insincere followers excluded from reward or spoil
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Excluding insincere followers from reward frames sincerity and conduct
+    as judged and recompensed.
+  cautions: Could fit sacred_law if tied to communal rules for spoils, or sacred_exchange
+    if reward distribution is reciprocal; avoid treating battle-spoil context alone
+    as sacred combat.
+  suggested_aliases:
+  - insincere_followers_denied_reward
+  - hypocrites_excluded_from_spoils
+  - sincerity_test_before_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insult-report-provokes-combat
+  motif_id: insult_report_provokes_combat
+  label: Insult report provokes combat
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A reported insult functioning as the trigger for fighting belongs to
+    combat-catalyst patterns.
+  cautions: If the speech act itself has binding or curse-like force, curse_blessing_speech
+    may be relevant; otherwise this may be an over-specific plot catalyst.
+  suggested_aliases:
+  - insult_as_combat_trigger
+  - reported_insult_starts_fight
+  - honor_insult_provokes_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insult-to-a-tribal-mah-punished-without-open-war
+  motif_id: insult_to_a_tribal_mah_punished_without_open_war
+  label: insult to a tribal mah punished without open war
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a culturally specific social role or term, insult,
+    and non-war punishment; placement depends on source context.
+  cautions: Culturally sensitive and unclear terminology; could involve sacred_law,
+    divine_judgment, curse/speech, or conflict custom. Human review should verify
+    meaning of 'mah' and whether this is a motif or local ethnographic detail.
+  suggested_aliases:
+  - insult_to_tribal_figure_punished_without_war
+  - nonwar_punishment_for_ritual_or_social_insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invading-host-delayed-before-battle
+  motif_id: invading_host_delayed_before_battle
+  label: Invading host delayed before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is a pre-battle delay of an invading force, fitting warfare
+    sequence and combat ordeal patterns.
+  cautions: If the delay is caused by magic, taboo, inscription, or divine intervention,
+    a more specific secondary mapping may be needed; otherwise it may be a tactical
+    plot detail.
+  suggested_aliases:
+  - army_delayed_before_battle
+  - invading_force_delayed
+  - prebattle_delay_of_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence tactical or honor-conflict details; preserve
+  them as evidence details unless recurrence supports narrower combat subgroups.
+- The review bucket is conflict-oriented, but some labels center on ethical sincerity,
+  performative speech, or sacred objects rather than combat itself.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific and over-specific labels
+    flagged for review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1096
+  input_sha256: b008c1d6d07d2925dcd04c0960dce7c9e298ae6232c41a309bdb05df4a4ee127
+

@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1051
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-rowing-trials-followed-by-magical-helper-s-success
+  motif_id: failed_rowing_trials_followed_by_magical_helper_s_success
+  label: Failed rowing trials followed by magical helper's success
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed trial overcome by a magical helper fits supernatural aid or
+    guidance in human affairs.
+  cautions: Single occurrence; if rowing is a formal ordeal or bride-winning contest,
+    initiation or sacred_love may be secondary.
+  suggested_aliases:
+  - magical_helper_succeeds_after_failed_trials
+  - supernatural_helper_completes_impossible_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-stripping-of-a-fallen-warrior-s-arms
+  motif_id: failed_stripping_of_a_fallen_warrior_s_arms
+  label: Failed stripping of a fallen warrior's arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The attempted removal of a dead warrior's arms concerns treatment, honor,
+    and contested handling of a heroic corpse.
+  cautions: Could also index under divine_warrior or sacred_combat if the episode
+    centers on battlefield prowess rather than funerary honor.
+  suggested_aliases:
+  - contest_over_fallen_warrior_arms
+  - failed_spoliation_of_heroic_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-weapons-attributed-to-sorcery
+  motif_id: failed_weapons_attributed_to_sorcery
+  label: failed weapons attributed to sorcery
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapons failing against a target suggests weapon resistance or conditional
+    invulnerability, with sorcery explaining the protection.
+  cautions: If the focus is magical causation rather than invulnerability, sacred_knowledge
+    or divine_intervention may fit better; source context needed.
+  suggested_aliases:
+  - weapons_fail_against_sorcerous_protection
+  - magically_protected_body_resists_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fairy-plants-and-charm-as-battlefield-medicine
+  motif_id: fairy_plants_and_charm_as_battlefield_medicine
+  label: fairy plants and charm as battlefield medicine
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing plants and charms used as medicine fit sacred substances and
+    ritual healing powers.
+  cautions: The fairy source may also connect to otherworld or divine_intervention;
+    battlefield setting alone should not force sacred_combat.
+  suggested_aliases:
+  - enchanted_plants_as_medicine
+  - magical_battlefield_healing_charm
+  - fairy_healing_plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-of-the-heroic-youth-before-elders
+  motif_id: fall_of_the_heroic_youth_before_elders
+  label: fall of the heroic youth before elders
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean battlefield death, humiliation, moral fall, or submission
+    within hierarchy.
+  cautions: Needs source evidence before mapping to lament_and_mourning, divine_warrior,
+    sacred_law, or initiation.
+  suggested_aliases:
+  - heroic_youth_falls_before_elders
+  - young_hero_defeated_before_seniors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-warrior-stripped-of-arms
+  motif_id: fallen_warrior_stripped_of_arms
+  label: fallen warrior stripped of arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: medium
+  rationale: Stripping a fallen warrior's arms is a battlefield-corpse and heroic
+    honor motif tied to memorial and burial order.
+  cautions: If the arms function mainly as trophies or proof of combat, divine_warrior
+    may be a secondary mapping.
+  suggested_aliases:
+  - spoliation_of_fallen_warrior
+  - fallen_hero_arms_taken
+  - warrior_corpse_stripped_of_arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-warrior-thought-finished-but-unwounded
+  motif_id: fallen_warrior_thought_finished_but_unwounded
+  label: fallen warrior thought finished but unwounded
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior presumed defeated yet unwounded aligns with weapon resistance
+    or apparent invulnerability in combat.
+  cautions: Could instead be feigned death, stunned survival, or battle misrecognition;
+    verify whether invulnerability is actually implied.
+  suggested_aliases:
+  - unwounded_fallen_warrior
+  - apparently_defeated_warrior_unharmed
+  - fallen_but_unwounded_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-youths-who-aid-the-hero-during-his-absence
+  motif_id: fallen_youths_who_aid_the_hero_during_his_absence
+  label: fallen youths who aid the hero during his absence
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: low
+  rationale: Dead youths continuing to act after death fit active dead intervening
+    in unresolved human affairs.
+  cautions: If 'fallen' means defeated rather than dead, or if they are living substitutes,
+    this placement is wrong; source review needed.
+  suggested_aliases:
+  - dead_youths_aid_absent_hero
+  - fallen_helpers_aid_hero
+  - posthumous_youth_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-attribution-of-a-heroic-killing-detected-by-the-true-actor-s-trace
+  motif_id: false_attribution_of_a_heroic_killing_detected_by_the_true_actor_s_trace
+  label: False attribution of a heroic killing detected by the true actor’s trace
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A trace proving the true killer functions as an identity proof that corrects
+    a false claim.
+  cautions: Also relates to heroic combat, but the distinctive structure is recognition
+    by evidence rather than the killing itself.
+  suggested_aliases:
+  - true_actor_identified_by_trace
+  - heroic_killing_proved_by_trace
+  - false_claim_refuted_by_identity_trace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-boasts-provoke-jealous-violence-against-a-betrothed-woman
+  motif_id: false_boasts_provoke_jealous_violence_against_a_betrothed_woman
+  label: False boasts provoke jealous violence against a betrothed woman
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: False boasting triggers destructive consequences, matching the pride/boast-and-punishment
+    pattern.
+  cautions: Because the victim is a betrothed woman, sacred_love or betrayal/violated
+    trust may be relevant if relationship violation is central.
+  suggested_aliases:
+  - false_boast_provokes_jealous_violence
+  - boastful_claim_triggers_jealous_attack
+  - jealous_violence_after_false_boasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence and several are episode-specific battlefield details;
+  preserve local wording as evidence notes even when mapped to a broader group.
+- For fallen-warrior arms motifs, consider whether future review needs a dedicated
+  subcluster for heroic corpse spoliation, armor trophies, and burial honor within
+  heroic_funeral_rites or divine_warrior.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous combat and posthumous-helper labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1051
+  input_sha256: b022d292214e6e1ad2eab1edcfd67ceb679956c440115ff80749ff0879bb90a1
+

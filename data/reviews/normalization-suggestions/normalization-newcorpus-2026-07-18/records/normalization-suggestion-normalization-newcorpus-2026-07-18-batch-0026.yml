@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0026
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.corpse-threatened-with-scavenger-birds
+  motif_id: corpse_threatened_with_scavenger_birds
+  label: Corpse threatened with scavenger birds
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Threat to a corpse by scavengers is a denial or imperiling of proper
+    burial and postmortem honor.
+  cautions: If the passage is only a battle insult or threat without funerary stakes,
+    preserve as evidence detail under combat or exclude as too episode-specific.
+  suggested_aliases:
+  - corpse exposed to scavenger birds
+  - threatened corpse exposure
+  - denial of burial by scavengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-transferred-to-shift-blame
+  motif_id: corpse_transferred_to_shift_blame
+  label: corpse transferred to shift blame
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a comic or juridical plot device involving a corpse
+    rather than a clear death, afterlife, or ritual motif.
+  cautions: May fit trickster/deception, false accusation, or legal blame-shifting
+    depending on source context; single occurrence may be too episode-specific.
+  suggested_aliases:
+  - corpse moved to transfer blame
+  - dead body used to shift blame
+  - blame-shifting corpse trick
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-and-earthly-portents-at-a-sacred-death
+  motif_id: cosmic_and_earthly_portents_at_a_sacred_death
+  label: cosmic and earthly portents at a sacred death
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Portents are signs that reveal the cosmic meaning of a sacred death,
+    aligning with omens and visionary signs.
+  cautions: If the emphasis is the death's transformative or salvific function, death_and_transformation
+    may be a secondary mapping; avoid treating portents as resurrection unless raising
+    is explicit.
+  suggested_aliases:
+  - portents at sacred death
+  - omens at holy death
+  - cosmic signs at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-completion-after-the-number-of-perfect-souls-is-fulfilled
+  motif_id: cosmic_completion_after_the_number_of_perfect_souls_is_fulfilled
+  label: Cosmic completion after the number of perfect souls is fulfilled
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specialized eschatological doctrine about souls and cosmic
+    fulfillment not cleanly covered by existing groups.
+  cautions: Could relate to sacred_time, death_and_transformation, divine_judgment,
+    or Gnostic cosmology; source evidence is needed before adding a new eschatology
+    group.
+  suggested_aliases:
+  - completion when perfect souls are fulfilled
+  - fulfilled number of perfect souls
+  - cosmic fulfillment by perfected souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-descent-and-distribution-of-power-through-intermediaries
+  motif_id: cosmic_descent_and_distribution_of_power_through_intermediaries
+  label: Cosmic descent and distribution of power through intermediaries
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sacred power descending and being mediated through
+    intermediary agents in the cosmos.
+  cautions: Do not map to underworld descent unless the passage involves entry into
+    a lower death realm; Gnostic emanation language may be doctrinal rather than narrative.
+  suggested_aliases:
+  - descent of power through intermediaries
+  - mediated distribution of divine power
+  - cosmic power through intermediaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-disturbance-at-unjust-death
+  motif_id: cosmic_disturbance_at_unjust_death
+  label: cosmic disturbance at unjust death
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wrongful death provoking cosmic disturbance frames the death as a moral
+    disorder registered by sacred order.
+  cautions: If the disturbance is primarily an omen rather than judgment, dream_and_vision
+    may be a better group; verify that injustice is central.
+  suggested_aliases:
+  - cosmic disorder after unjust death
+  - portents at wrongful death
+  - cosmic reaction to innocent death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-explanation-of-aurora-by-play-of-the-dead
+  motif_id: cosmic_explanation_of_aurora_by_play_of_the_dead
+  label: cosmic explanation of aurora by play of the dead
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological explanation of a celestial phenomenon through
+    activity of the dead.
+  cautions: Could also relate to afterlife beliefs or ancestors; review cultural context
+    carefully and do not reduce it to generic ancestor rites unless ritual care is
+    present.
+  suggested_aliases:
+  - aurora explained by the dead
+  - celestial etiology from the dead
+  - dead playing as aurora origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-manufacture-of-souls-from-mixed-emanations-and-light-dregs
+  motif_id: cosmic_manufacture_of_souls_from_mixed_emanations_and_light_dregs
+  label: Cosmic manufacture of souls from mixed emanations and light-dregs
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a highly tradition-specific cosmological anthropology about soul
+    production and emanations.
+  cautions: Could be cosmic_origin, sacred_knowledge, or soul anthropology; likely
+    too doctrinal and specific for broad pattern queries without more recurring evidence.
+  suggested_aliases:
+  - manufacture of souls from emanations
+  - souls made from light dregs
+  - cosmic production of souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-scale-of-divine-sovereignty-at-resurrection
+  motif_id: cosmic_scale_of_divine_sovereignty_at_resurrection
+  label: Cosmic scale of divine sovereignty at resurrection
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: resurrection
+  suggested_group_label: Resurrection
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label explicitly concerns resurrection, with divine sovereignty expressed
+    at cosmic scale.
+  cautions: May also support supreme_ruler or divine_judgment as secondary facets
+    if the passage emphasizes kingship or final reckoning.
+  suggested_aliases:
+  - divine sovereignty at resurrection
+  - cosmic sovereignty in resurrection
+  - resurrection as display of divine rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counter-magic-by-replacement-of-a-vital-spiritual-affiliation
+  motif_id: counter_magic_by_replacement_of_a_vital_spiritual_affiliation
+  label: Counter-magic by replacement of a vital spiritual affiliation
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves culturally specific counter-magic and vital affiliation,
+    but the exact soul, healing, or ritual function is unclear.
+  cautions: Handle culturally specific ritual concepts carefully; may fit soul_loss_restoration,
+    sacred_law, divine_intervention, or external_soul depending on evidence.
+  suggested_aliases:
+  - counter-magic by spiritual replacement
+  - replacement of vital spiritual tie
+  - restoring life by changing spiritual affiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Gnostic labels are doctrinal cosmology or anthropology rather than portable
+  narrative motifs; human review should decide whether a broader eschatology/soul-cosmology
+  group is warranted after recurrence checks.
+- Do not interpret every use of 'descent' in cosmological emanation language as underworld
+  descent; distinguish vertical metaphysics from death-realm journey.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and tradition-specific labels
+    need source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0026
+  input_sha256: a192534e5ddce473c2fdb905d0f899e6314541a45fd1c2c5f4f123395083e2ef
+

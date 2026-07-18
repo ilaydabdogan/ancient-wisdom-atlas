@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l4805-l4832
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  IX. / CHAPTER    VIII,    3-X,    I.  31 / Chapter  X. / Chapter  XI.;
+    lines 4805-4832
+  start: '4805'
+  end: '4832'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage states that revelation describes thirty-three kinds of land.
+    It then describes a day when Tt^''tar produced rain, seas arose from it, and the
+    whole place, half covered by water, was divided into seven portions: one middle
+    portion and six surrounding portions. A note explains uncertainty in the reference
+    to Khvaniras or to one portion.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Revelation is cited as the authority for the statement that there are thirty-three
+    kinds of land.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A manuscript note reports a variant reading of thirty-two kinds of land in
+    K20b.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:3
+  text: On the described day, Tt^'tar produced rain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Seas arose from the rain.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The whole place, half occupied by water, was converted into seven portions.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One portion is described as the middle and as much as one-half, while six
+    portions are around it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The six surrounding portions together are said to be as much as Khvaniras.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A note says the phrase translated as 'this portion' may refer to Khvaniras,
+    or may mean 'one portion.'
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tt^'tar
+  description: Named being who produced the rain in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: producer of rain
+  assigned_to:
+  - fig:1
+  basis: The passage states that Tt^'tar produced the rain.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water from rain and seas
+  literal_form: rain, seas, and water occupying half of the whole place
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: seven portions of land
+  literal_form: the whole place converted into seven portions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: middle portion
+  literal_form: one middle portion, as much as one-half, with six portions around
+    it
+  associated_figures: []
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Khvaniras
+  literal_form: Khvaniras, named in relation to the combined size of the six surrounding
+    portions; note gives uncertainty about the reference
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Revelation on kinds of land
+  summary: The passage reports that revelation says there are thirty-three kinds of
+    land, with a manuscript note giving a thirty-two variant.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Rain, seas, and sevenfold division
+  summary: Tt^'tar produces rain; seas arise from it; the half-water-covered whole
+    place is divided into a middle portion and six surrounding portions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cosmic rain generating seas
+  taxonomy_refs: []
+  basis: Rain produced by Tt^'tar is followed by the arising of seas.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the sequence but does not elaborate a broader mythic
+    episode beyond this cosmographic description.
+- id: motif:2
+  label: sevenfold division of the inhabited world
+  taxonomy_refs: []
+  basis: The whole place is described as converted into seven portions, with one middle
+    portion and six surrounding portions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a cosmographic arrangement but does not assign moral
+    or ritual meanings to the seven portions here.
+- id: motif:3
+  label: central land with surrounding regions
+  taxonomy_refs:
+  - world_center
+  basis: The passage identifies a middle portion with six portions around it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is based on spatial centrality only; the passage
+    does not explicitly call the middle portion sacred or a world axis.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XI.1 / lines 4805-4808
+  quote_or_summary: Revelation says that, in the nature of the earth, there are thirty-three
+    kinds of land.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: quote
+  locator: Chapter XI.2 / lines 4808-4810
+  quote_or_summary: "“On the day when Tt^'tar produced the rain, when its seas arose
+    therefrom”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: Chapter XI.2 / lines 4810-4817
+  quote_or_summary: 'The whole place, half taken up by water, was converted into seven
+    portions: a middle portion as much as one-half, with six portions around it; the
+    six together are as much as Khvaniras.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:4
+  type: note
+  locator: Footnote to Chapter XI.1 / line range within 4805-4832
+  quote_or_summary: A note reports that K20b has “thirty-two kinds” instead of thirty-three.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; brief note summary used.
+- id: ev:5
+  type: note
+  locator: Footnote to Chapter XI.2 / line range within 4805-4832
+  quote_or_summary: A note says “this portion” is Khvaniras, or may mean “one portion,”
+    because the Pazind form of both words is the same.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; brief note summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif identifications are
+    cautious because the passage is primarily cosmographic and gives little narrative
+    elaboration. No comparison claims were made because the passage itself does not
+    compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Unrelated footnote material about oxen in the provided excerpt was not used for motif extraction because it does not appear to describe Chapter XI’s land-and-water passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l4805-l4832
+  passage_sha256=d63cf20640b30058cb9412425e0165b50fd90f0284bed7ccb68db0d9767440b7
+

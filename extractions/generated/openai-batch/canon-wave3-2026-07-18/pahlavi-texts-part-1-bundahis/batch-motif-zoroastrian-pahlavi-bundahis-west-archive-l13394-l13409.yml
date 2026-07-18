@@ -1,0 +1,162 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l13394-l13409
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    II,    42-49.  209 / CHAPTER    II,    50-57.  211 / CHAPTER    II,    58-62.  513
+    / XII,  2,  17).; lines 13394-13409
+  start: '13394'
+  end: '13409'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“both those males and those females we reverence.”"
+  summary: A note identifies the section as a Pahlavi version of an Avesta formula
+    used to close many Yasna chapters. The translated formula states that the males
+    and females of the existences whom Ahuramazda knows better through righteousness
+    in worship are reverenced.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The section is described as a Pahlavi version of an Avesta formula appended
+    to nearly two-thirds of the Yasna chapters.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The formula is said to indicate the close of the chapter at this point.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The translation refers to males and females among the existences.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ahuramazda is described as being better cognizant of those males and females
+    through righteousness in worship.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The translated formula states that both the males and the females are reverenced.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Ahuramazda
+  description: Named divine figure described as knowing or being cognizant of certain
+    male and female existences through righteousness in worship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: male existences
+  description: Collective category of males among the existences mentioned in the
+    formula.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: female existences
+  description: Collective category of females mentioned in the formula.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine knower
+  assigned_to:
+  - fig:1
+  basis: Ahuramazda is said to be better cognizant of the referenced males and females.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reverenced existences
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The formula says that both those males and those females are reverenced.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: chapter-closing reverence formula
+  summary: A Pahlavi version of an Avesta formula closes the chapter by reverencing
+    the male and female existences known by Ahuramazda through righteousness in worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: reverence of male and female existences known by the deity
+  taxonomy_refs:
+  - wisdom
+  basis: The formula links Ahuramazda’s cognizance with the reverence of male and
+    female existences; the available taxonomy item 'wisdom' is only loosely applicable
+    because the passage emphasizes divine cognizance rather than a developed wisdom
+    narrative.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is a liturgical formula and does not narrate a mythic episode;
+    the taxonomy reference is approximate.
+- id: motif:2
+  label: paired male and female categories in worship
+  taxonomy_refs:
+  - duality
+  basis: The translated formula explicitly names male and female categories and reverences
+    both.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a liturgical pairing, not necessarily a mythic dualism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13394-13402
+  quote_or_summary: The note says this section is a Pahlavi version of an Avesta formula
+    appended to nearly two-thirds of the Yasna chapters and marks the close of the
+    chapter.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 13403-13409
+  quote_or_summary: "“Of whatever male of the existences, therefore, Ahuramazda was
+    better cognizant, through righteousness in worship, and of whatever females, both
+    those males and those females we reverence.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; short passage quotation used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif classification is limited because
+    the passage is a brief liturgical formula rather than a narrative myth passage;
+    no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in the passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l13394-l13409
+  passage_sha256=3f39baf815899c08065d3fdc33bda50083a0dbf018654fd3d3906baa2a9785a5
+

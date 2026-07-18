@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1190
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weapon-theft-from-sleeping-guard-followed-by-restitution-gift
+  motif_id: weapon_theft_from_sleeping_guard_followed_by_restitution_gift
+  label: weapon theft from sleeping guard followed by restitution gift
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A stolen weapon may function as a power object, but the restitution gift
+    also suggests exchange, honor, or episode-specific plot logic.
+  cautions: Single occurrence and highly specific; verify whether the weapon has sacred/identity
+    function or is only a narrative incident.
+  suggested_aliases:
+  - weapon theft and restitution
+  - stolen weapon returned with gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weaponized-chariot-assault
+  motif_id: weaponized_chariot_assault
+  label: weaponized chariot assault
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a martial assault scene and fits broad combat/warfare
+    indexing.
+  cautions: Likely too equipment-specific for canonical promotion unless weaponized
+    vehicles recur as a distinct pattern.
+  suggested_aliases:
+  - chariot assault
+  - armed chariot attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weaponized-or-scythed-chariot
+  motif_id: weaponized_or_scythed_chariot
+  label: weaponized or scythed chariot
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A scythed or weaponized chariot is best treated as a specific instrument
+    within battle motifs.
+  cautions: Preserve the chariot detail as evidence; do not create a separate motif
+    without broader recurrence.
+  suggested_aliases:
+  - scythed chariot
+  - weaponized chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weaponless-refusal-to-retaliate
+  motif_id: weaponless_refusal_to_retaliate
+  label: weaponless refusal to retaliate
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal to retaliate while weaponless expresses an ethical discipline
+    or sacred duty more than combat prowess.
+  cautions: Could instead fit sacrifice if framed as self-surrender, or divine_judgment
+    if refusal leads to moral vindication.
+  suggested_aliases:
+  - refusal to retaliate
+  - non-retaliation under threat
+  - weaponless restraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-as-tokens-of-recognition-and-doom
+  motif_id: weapons_as_tokens_of_recognition_and_doom
+  label: weapons as tokens of recognition and doom
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The weapons function as identity or recognition tokens, with doom as
+    an added narrative consequence.
+  cautions: If the weapon itself confers power, secondary indexing under sacred_treasures
+    may be useful.
+  suggested_aliases:
+  - weapon recognition tokens
+  - weapons as doom tokens
+  - weapons as identity proofs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-left-away-from-surprised-warriors
+  motif_id: weapons_left_away_from_surprised_warriors
+  label: weapons left away from surprised warriors
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical scene detail about warriors being surprised
+    without weapons.
+  cautions: Review source context; if repeated as a vulnerability or taboo structure,
+    it could map to sacred_combat or conditional_invulnerability_hidden_weakness.
+  suggested_aliases:
+  - warriors surprised away from weapons
+  - unarmed warriors surprised
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weighing-of-heroic-fates
+  motif_id: weighing_of_heroic_fates
+  label: Weighing of heroic fates
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The weighing of fates concerns destined heroic outcomes, often death
+    or survival in combat.
+  cautions: If personified fate figures or cosmic scales are central, related indexing
+    under fate_figures_cosmic_weaving or divine_judgment may be useful.
+  suggested_aliases:
+  - weighing fates
+  - weighing of destinies
+  - heroic fate weighing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wise-consort-s-ignored-warning
+  motif_id: wise_consort_s_ignored_warning
+  label: wise consort’s ignored warning
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on wise counsel or warning that is disregarded before
+    conflict or disaster.
+  cautions: May fit pride_and_downfall if the ignored warning highlights hubris; source
+    context should determine final placement.
+  suggested_aliases:
+  - ignored wise warning
+  - ignored counsel of consort
+  - wise spouse warning ignored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withheld-performance-despite-reward
+  motif_id: withheld_performance_despite_reward
+  label: withheld performance despite reward
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is ambiguous: performance may mean combat, music, ritual action,
+    service, or storytelling.'
+  cautions: Do not map until the withheld act and reward context are known; could
+    be sacred_exchange, enchanting_music, storytelling_as_power, or a passage artifact.
+  suggested_aliases:
+  - refusal to perform despite reward
+  - withheld service despite reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witness-or-judge-destroyed-by-the-combat-he-observes
+  motif_id: witness_or_judge_destroyed_by_the_combat_he_observes
+  label: Witness or judge destroyed by the combat he observes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The destruction of an observer or judge is a specific consequence of
+    overwhelming heroic combat.
+  cautions: Could also involve divine_judgment if the judge is morally punished, or
+    death_and_transformation if witnessing combat itself is fatal in a ritualized
+    way.
+  suggested_aliases:
+  - combat destroys witness
+  - combat destroys judge
+  - observer killed by combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence martial scene details; prefer broad
+  group placement or exclusion rather than new taxonomy promotion.
+- Several labels need source context to distinguish tactical plot detail from sacred
+  combat, ethical restraint, fate, or recognition-token function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous single-occurrence conflict labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1190
+  input_sha256: c9abea8eb31a0e7e49b82345a8c6aeb60907aeb130db195d1006a098b6b6fc46
+

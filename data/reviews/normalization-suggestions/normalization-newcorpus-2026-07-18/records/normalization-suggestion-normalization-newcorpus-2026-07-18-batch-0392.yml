@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0392
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-curse-against-the-hero
+  motif_id: prophetic_curse_against_the_hero
+  label: Prophetic curse against the hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A prophetic curse is a performative sacred speech act that binds or threatens
+    the hero's fate.
+  cautions: May also involve prophecy_divination or death_by_fate if the passage emphasizes
+    foreknowledge rather than the curse act.
+  suggested_aliases:
+  - prophetic curse
+  - curse against the hero
+  - fateful prophetic curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-dream-fulfilled-in-secure-sanctuary-entry
+  motif_id: prophetic_dream_fulfilled_in_secure_sanctuary_entry
+  label: Prophetic dream fulfilled in secure sanctuary entry
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: over_specific_label
+  confidence: high
+  rationale: The core motif is a dream that reveals future sacred events and is later
+    fulfilled.
+  cautions: The sanctuary-entry detail is episode-specific; secondary mapping to sacred_law
+    or sacred_geography would require stronger evidence.
+  suggested_aliases:
+  - prophetic dream fulfilled
+  - dream prophecy fulfilled
+  - sanctuary entry dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-opposition-and-divine-counterplot
+  motif_id: prophetic_opposition_and_divine_counterplot
+  label: Prophetic opposition and divine counterplot
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine action countering opposition to a prophet
+    or prophetic mission.
+  cautions: Could belong under divine_judgment if the counterplot is punitive, or
+    under hero_journey if framed as opposition during a mission.
+  suggested_aliases:
+  - divine counterplot
+  - opposition to prophet overcome by divine action
+  - prophetic mission protected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-scripture-as-explanation-of-a-present-sacred-drama
+  motif_id: prophetic_scripture_as_explanation_of_a_present_sacred_drama
+  label: Prophetic scripture as explanation of a present sacred drama
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Scripture functions as revealed knowledge interpreting the sacred meaning
+    of present events.
+  cautions: May be a theological or textual-commentary artifact if it only describes
+    exegesis rather than a narrative motif.
+  suggested_aliases:
+  - scripture interprets sacred drama
+  - prophetic scripture as revelation
+  - revealed text explains present events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-style-linked-to-divine-authority
+  motif_id: prophetic_style_linked_to_divine_authority
+  label: prophetic style linked to divine authority
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes rhetorical or stylistic authority rather than a clear
+    narrative, ritual, or symbolic motif.
+  cautions: If the passage depicts revelation as recitation or divine speech event,
+    sacred_knowledge or curse_blessing_speech may be appropriate instead.
+  suggested_aliases:
+  - prophetic style as authority
+  - divine authority of prophetic style
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-veneration-through-blessing-and-salutation
+  motif_id: prophetic_veneration_through_blessing_and_salutation
+  label: Prophetic veneration through blessing and salutation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Blessing and salutation are ritualized sacred speech acts directed toward
+    a prophet.
+  cautions: Could also be devotional practice rather than narrative motif; source
+    context should confirm recurring ritual significance.
+  suggested_aliases:
+  - blessing and salutation of the prophet
+  - prophetic salutation
+  - ritual blessing of prophet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-warnings-with-taboo-disclosure-and-petrification
+  motif_id: prophetic_warnings_with_taboo_disclosure_and_petrification
+  label: prophetic warnings with taboo disclosure and petrification
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines prophecy, taboo disclosure, punishment, and petrification,
+    making the dominant motif unclear.
+  cautions: Could map to prophecy_divination, sacred_law, divine_judgment, or shapeshifter
+    depending on whether warning, taboo violation, punishment, or bodily transformation
+    is central.
+  suggested_aliases:
+  - taboo disclosure punished by petrification
+  - prophetic warning and petrification
+  - forbidden disclosure causes petrification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiation-after-killing-divine-offspring
+  motif_id: propitiation_after_killing_divine_offspring
+  label: propitiation after killing divine offspring
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Propitiation repairs relationship with sacred powers after a transgressive
+    or dangerous killing.
+  cautions: May involve sacrifice, taboo, or animal-master relations; review culturally
+    specific context before flattening divine offspring into general offering logic.
+  suggested_aliases:
+  - propitiation after sacred killing
+  - appeasement after killing divine offspring
+  - ritual repair after killing sacred being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-and-adversity-as-divine-trial
+  motif_id: prosperity_and_adversity_as_divine_trial
+  label: Prosperity and adversity as divine trial
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Good and bad fortune function as divine testing and moral evaluation
+    of human response.
+  cautions: If the passage emphasizes inner discipline rather than judgment, initiation
+    or sacred_knowledge may be useful secondary mappings.
+  suggested_aliases:
+  - fortune as divine test
+  - adversity as divine trial
+  - prosperity as test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-as-sign-of-divine-favor
+  motif_id: prosperity_as_sign_of_divine_favor
+  label: prosperity as sign of divine favor
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Prosperity is treated as evidence of active sacred favor or blessing
+    in human affairs.
+  cautions: Could alternatively support royal_legitimacy, covenant, or divine_judgment
+    if prosperity validates rule, bond, or moral standing.
+  suggested_aliases:
+  - divine favor shown by prosperity
+  - prosperity as blessing
+  - wealth as sign of sacred favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch combine prophecy with speech, dreams, or divine intervention;
+  placement should follow the dominant function in passage evidence, not the word
+  'prophetic' alone.
+- Single-occurrence and episode-specific labels should preserve local details as evidence
+  notes unless recurrence supports finer taxonomy.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0392.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0392
+  input_sha256: 3c170fd3716192afb988f2016a7826afb9fbaf9d480de285be2013d6106b81d9
+

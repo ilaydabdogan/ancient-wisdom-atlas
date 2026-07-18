@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0093
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.maternal-lament-and-petition-for-a-dying-child
+  motif_id: maternal_lament_and_petition_for_a_dying_child
+  label: maternal lament and petition for a dying child
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on grief and petition at an impending child death,
+    fitting lament and mourning more than afterlife passage.
+  cautions: If the petition produces healing, resurrection, or divine intervention,
+    secondary mapping may be needed.
+  suggested_aliases:
+  - maternal_lament_for_dying_child
+  - petition_for_dying_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-rescue-of-a-dying-or-wounded-son
+  motif_id: maternal_rescue_of_a_dying_or_wounded_son
+  label: maternal rescue of a dying or wounded son
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve healing, resurrection, maternal protection, heroic
+    rescue, or kinship action; function is unclear without source evidence.
+  cautions: Do not map to death_and_transformation unless actual restoration from
+    death or near-death is central; cultural context should be reviewed.
+  suggested_aliases:
+  - mother_rescues_wounded_son
+  - maternal_rescue_from_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.matrilineal-identity-and-return-to-mother-s-people
+  motif_id: matrilineal_identity_and_return_to_mother_s_people
+  label: Matrilineal identity and return to mother’s people
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as kinship, identity, and social return rather than a clear
+    death or afterlife motif.
+  cautions: May be a culturally specific social-organization motif; review carefully
+    before forcing into hero_journey, ancestor_rites, or sacred_law.
+  suggested_aliases:
+  - return_to_mothers_people
+  - matrilineal_identity_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.matrilineal-naming-and-exogamy-anchored-in-ancestral-figures
+  motif_id: matrilineal_naming_and_exogamy_anchored_in_ancestral_figures
+  label: Matrilineal naming and exogamy anchored in ancestral figures
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns kinship rules, naming, exogamy, and ancestral legitimation,
+    which no existing group captures cleanly.
+  cautions: Could be sacred_law, ancestor-related social order, or ethnographic commentary;
+    source evidence is needed and cultural sensitivity is high.
+  suggested_aliases:
+  - ancestral_exogamy_rules
+  - matrilineal_naming_by_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measured-mourning-and-remembrance-of-mortality
+  motif_id: measured_mourning_and_remembrance_of_mortality
+  label: Measured mourning and remembrance of mortality
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif is about regulated grief and awareness of mortality, fitting
+    the mourning and tragic recognition group.
+  cautions: If the passage is primarily ethical instruction rather than lament practice,
+    sacred_law or wisdom may be secondary.
+  suggested_aliases:
+  - measured_mourning
+  - remembrance_of_mortality
+  - mourning_with_mortality_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediator-standing-between-the-dead-and-the-living
+  motif_id: mediator_standing_between_the_dead_and_the_living
+  label: Mediator standing between the dead and the living
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A mediator between living and dead may be a psychopomp, intercessor,
+    ritual specialist, ancestor, or theological role; existing groups only partly
+    cover it.
+  cautions: Could map to afterlife_passage, ancestor_rites, divine_intervention, or
+    prophecy_divination depending on the mediator’s function.
+  suggested_aliases:
+  - mediator_between_living_and_dead
+  - intercessor_between_dead_and_living
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medium-preserves-spirit-contact-by-avoiding-hot-liquids
+  motif_id: medium_preserves_spirit_contact_by_avoiding_hot_liquids
+  label: Medium preserves spirit contact by avoiding hot liquids
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual specialist maintains spirit contact through a behavioral prohibition,
+    fitting ritual taboo and sacred law.
+  cautions: The hot-liquids detail is highly specific and should remain evidence detail;
+    review cultural terms and context carefully.
+  suggested_aliases:
+  - medium_taboo_preserves_spirit_contact
+  - avoidance_to_maintain_spirit_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-announces-the-hero-king-s-death
+  motif_id: messenger_announces_the_hero_king_s_death
+  label: Messenger announces the hero-king's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a plot communication event around a specific death
+    rather than a durable symbolic motif.
+  cautions: If the announcement triggers public lament, succession, or ritual memorialization,
+    index those functions instead.
+  suggested_aliases:
+  - death_announcement_by_messenger
+  - messenger_reports_hero_king_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.midnight-watching-over-corpses
+  motif_id: midnight_watching_over_corpses
+  label: midnight watching over corpses
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Corpse-watching is a mortuary practice regulating relations with the
+    dead, closest to ancestor and death rites.
+  cautions: If the corpse becomes dangerous or returns, restless_dead_haunting_vengeance
+    may be a secondary mapping; midnight may be local evidence detail.
+  suggested_aliases:
+  - corpse_watch
+  - watching_over_the_dead
+  - mortuary_vigil_over_corpses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miniature-shelter-found-in-animal-shell
+  motif_id: miniature_shelter_found_in_animal_shell
+  label: Miniature shelter found in animal shell
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too enigmatic to distinguish sacred vessel, otherworld miniature
+    dwelling, animal transformation, or passage artifact.
+  cautions: Do not map based only on container imagery; source context is needed to
+    know whether the shell functions as shelter, vessel, otherworld space, or marvel.
+  suggested_aliases:
+  - shelter_inside_animal_shell
+  - miniature_dwelling_in_shell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; proposed
+  placements should remain provisional until passage evidence is reviewed.
+- Kinship and exogamy labels may require a future social-kinship or ancestral social
+  order group, but current evidence is insufficient for a new group candidate.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for ambiguous kinship, spirit-medium,
+    and miniature-shell items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0093
+  input_sha256: a8c0c7da5946b2d03bb86f4b5d78bb30913b21c796b92f07b6abdcd3b7253f7c
+

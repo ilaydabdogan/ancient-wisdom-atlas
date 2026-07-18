@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0838
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-as-predatory-beast-and-weapon-of-battle
+  motif_id: hero_as_predatory_beast_and_weapon_of_battle
+  label: hero as predatory beast and weapon of battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label uses animal and weapon imagery to characterize a battle-hero's
+    martial force, fitting sacred/heroic combat more than actual shapeshifting.
+  cautions: If the passage describes literal animal transformation, shapeshifter may
+    be a secondary mapping; if it is only poetic simile, preserve as evidence detail.
+  suggested_aliases:
+  - hero as battle beast
+  - hero as weapon of battle
+  - predatory beast warrior imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-as-slayer-of-serpents-and-shadow-beings
+  motif_id: hero_as_slayer_of_serpents_and_shadow_beings
+  label: Hero as slayer of serpents and shadow beings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Slaying serpents and dark beings is a combat role in which the hero defeats
+    chaotic or dangerous powers.
+  cautions: Could also relate to serpent_guardian if the serpent specifically guards
+    a threshold or treasure; avoid assuming cosmic order unless present in evidence.
+  suggested_aliases:
+  - serpent-slaying hero
+  - hero slays shadow beings
+  - dragon-slaying hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-becomes-shepherd-or-guardian-after-transformation
+  motif_id: hero_becomes_shepherd_or_guardian_after_transformation
+  label: Hero becomes shepherd or guardian after transformation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines transformed status with a guardian/shepherd role,
+    but the function could be kingship, apotheosis, protective spirit, or moral transformation.
+  cautions: Source context is needed to know whether this belongs under shapeshifter,
+    royal_legitimacy, divine_intervention, or death_and_transformation.
+  suggested_aliases:
+  - transformed hero as guardian
+  - hero as shepherd after transformation
+  - guardian role after transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-compared-to-a-predatory-lion
+  motif_id: hero_compared_to_a_predatory_lion
+  label: hero compared to a predatory lion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a poetic animal simile for heroic violence rather
+    than a distinct narrative motif.
+  cautions: If lion imagery recurs as a stable identity, emblem, or transformation,
+    reconsider under divine_warrior or shapeshifter; otherwise keep as passage evidence.
+  suggested_aliases:
+  - lion-like hero
+  - hero as lion simile
+  - predatory lion comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-compared-to-hunted-wild-animal
+  motif_id: hero_compared_to_hunted_wild_animal
+  label: hero compared to hunted wild animal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a contextual simile of vulnerability or pursuit, not
+    a reusable mythic pattern by itself.
+  cautions: If the passage centers on ritual hunting, animal transformation, or heroic
+    ordeal, human review may map it elsewhere; label alone is too literary.
+  suggested_aliases:
+  - hero as hunted animal
+  - hunted wild animal comparison
+  - hunted beast simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-counters-animal-form-attacks
+  motif_id: hero_counters_animal_form_attacks
+  label: Hero counters animal-form attacks
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal-form attacks imply adversaries using transformed or animal bodies,
+    fitting the shapeshifter/transformation complex.
+  cautions: If the focus is combat victory rather than transformation, divine_warrior
+    or sacred_combat may be a better primary group.
+  suggested_aliases:
+  - animal-form adversaries
+  - attacks in animal form
+  - hero defeats animal-form attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-facing-human-druidic-and-animal-adversaries
+  motif_id: hero_facing_human_druidic_and_animal_adversaries
+  label: hero facing human, druidic, and animal adversaries
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label lists episode-specific opponent categories rather than a coherent
+    symbolic or narrative motif.
+  cautions: If druidic magic or animal transformation is central in the passage, split
+    evidence may map to sacred_knowledge, shapeshifter, or sacred_combat.
+  suggested_aliases:
+  - mixed human and animal adversaries
+  - hero faces druidic adversaries
+  - hero faces animal adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-localized-by-home-household-and-horse
+  motif_id: hero_localized_by_home_household_and_horse
+  label: Hero localized by home, household, and horse
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe contextual localization or identifying details
+    around a hero, not a motif pattern.
+  cautions: If household or horse functions as a recognition token, power object,
+    or animal helper in the passage, map that narrower evidence separately.
+  suggested_aliases:
+  - hero localized by household
+  - hero associated with home and horse
+  - household and horse localization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-rewards-animal-companions-after-victory
+  motif_id: hero_rewards_animal_companions_after_victory
+  label: hero rewards animal companions after victory
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing divine_intervention group already includes animal_helpers,
+    and rewarding animal companions follows their aid in the hero's success.
+  cautions: If the focus is reciprocity with animal persons rather than divine guidance,
+    sacred_exchange may be a relevant secondary mapping; review culturally specific
+    animal agency carefully.
+  suggested_aliases:
+  - animal helpers rewarded
+  - rewarding animal companions
+  - hero rewards animal helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-vengeance-for-a-slain-horse
+  motif_id: hero_s_vengeance_for_a_slain_horse
+  label: hero's vengeance for a slain horse
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance for a slain companion animal functions as a combat catalyst,
+    close to revenge for a fallen companion in heroic warfare.
+  cautions: If the horse is a sacred helper, power object, or identity marker, divine_intervention
+    or sacred_treasures may be secondary; single occurrence may remain granular evidence.
+  suggested_aliases:
+  - vengeance for slain horse
+  - avenging a horse companion
+  - slain horse as vengeance trigger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are animal similes or episode-specific opponent lists;
+  these should not be promoted without recurring evidence across sources.
+- Where animal agency is culturally significant, avoid reducing animal companions
+  to mere objects or plot devices during human review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_normalizer
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    animal language is literal transformation, helper agency, poetic simile, or combat
+    characterization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0838
+  input_sha256: 33997628d272534a241d6a6185d44dd66b01561ebd72a49667274095c37a3ce0
+

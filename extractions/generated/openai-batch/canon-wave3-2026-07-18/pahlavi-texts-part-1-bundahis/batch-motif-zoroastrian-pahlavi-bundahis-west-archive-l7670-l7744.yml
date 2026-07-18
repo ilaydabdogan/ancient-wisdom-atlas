@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l7670-l7744
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  XXIV. / CHAPTER    XXIV,   I-I  7.  89 / CHAPTER    XXIV,    I  8
+    -XXV,   3.  9  I / Chapter    XXV.; lines 7670-7744
+  start: '7670'
+  end: '7744'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: The creatures of the world were created by me complete in three hundred and
+    sixty-five days
+  summary: A revelatory statement says the world's creatures were created complete
+    in 365 days. The text identifies this span with the six Gahanbar periods completed
+    in a year, prescribes counting day before night, and begins to locate dates between
+    named seasonal festivals.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A first-person speaker in revelation says the creatures of the world were
+    created complete in 365 days.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The 365-day completion is explained as the six periods of the Gahanbars completed
+    in a year.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The text says to count day before night because day departs before night comes
+    on.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage begins a calendrical interval from the season of Medok-shem, on
+    day Khur of month Tir, to the season of Mediyarem.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A translator's note identifies Medok-shem with Avestan maidhyo-shema and describes
+    it as the second season-festival, formerly approximately midsummer.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A translator's note says Jewish and Muhammadan practice is contrary to the
+    day-before-night reckoning stated in the passage.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person creator in revelation
+  description: The unidentified first-person speaker says the creatures of the world
+    were created by “me.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: creatures of the world
+  description: The creatures are said to have been created complete in 365 days.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: The speaker says the creatures of the world were created by “me.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: created beings
+  assigned_to:
+  - fig:2
+  basis: The creatures of the world are the entities said to be created complete in
+    365 days.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: 365-day year
+  literal_form: three hundred and sixty-five days; a year
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: six Gahanbar periods
+  literal_form: six periods of the Gahanbars completed in a year
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: day before night
+  literal_form: day counted first, night afterward
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Creation completed within the calendrical year
+  summary: The passage presents creation of the world's creatures as completed in
+    365 days and equates that span with six Gahanbar periods in a year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rule for counting day and night
+  summary: The text instructs that the day should be counted before the night because
+    the day passes away before night comes.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Season-festival dating
+  summary: The passage begins to define a calendrical interval using named seasonal
+    festivals and dates; the translator's note identifies Medok-shem as a midsummer
+    season-festival and mentions a later association with creation of water.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Creation mapped onto the ritual year
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage says the world's creatures were created complete in 365 days
+    and explains this as the six Gahanbar periods completed in a year, with additional
+    rules for day-night reckoning and seasonal festival dating.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is primarily calendrical and theological; it does not narrate
+    individual acts of creation.
+- id: motif:2
+  label: Day-night temporal ordering
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly orders the paired temporal units day and night, requiring
+    the day to be counted first and the night afterward.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The broader duality label is cautious because the passage gives a calendrical
+    rule rather than a developed symbolic opposition.
+comparison_claims:
+- id: claim:1
+  claim: The passage's rule that day is counted before night is explicitly contrasted
+    in a translator's note with Jewish and Muhammadan practice, which is said to be
+    opposite; this supports only a same-function comparison of calendrical reckoning.
+  claim_level: same_function
+  target: Jewish and Muhammadan day-night calendrical reckoning practices
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison comes from translator commentary and gives no details
+    about the other practices; it does not establish historical contact or mythic
+    equivalence.
+- id: claim:2
+  claim: The translator's note identifies the named season Medok-shem with Avestan
+    maidhyo-shema in nearby liturgical sources, supporting a cautious linguistic and
+    ritual-calendar comparison.
+  claim_level: linguistic_similarity
+  target: Avestan maidhyo-shema in Yasna, Visperad, and Afringan Gahanbar references
+    named in the note
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the translator's note rather than the main passage
+    narrative, and the excerpt does not provide the cited Avestan passages.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7670-7674; Chapter XXV.1
+  quote_or_summary: "“The creatures of the world were created by me complete in three
+    hundred and sixty-five days.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; quotation allowed by supplied metadata.
+- id: ev:2
+  type: quote
+  locator: lines 7674-7676; Chapter XXV.1
+  quote_or_summary: "“that is, the six periods of the Gahanbars which are completed
+    in a year.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; quotation allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 7676-7679; Chapter XXV.2
+  quote_or_summary: The text says it is necessary first to count the day and afterward
+    the night, because day goes off before night comes on.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary based on public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 7679-7744; Chapter XXV.3
+  quote_or_summary: The passage begins dating from the season of Medok-shem, on day
+    Khur of month Tir, to the season of Mediyarem.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary based on public domain text.
+- id: ev:5
+  type: note
+  locator: translator note to Chapter XXV.2
+  quote_or_summary: A note states that Jewish and Muhammadan practice is “just the
+    contrary” to the day-before-night reckoning.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; brief quotation from translator note allowed.
+- id: ev:6
+  type: note
+  locator: translator note to Chapter XXV.3, Medok-shem
+  quote_or_summary: A note identifies Medok-shem with Avestan maidhyo-shema, describes
+    it as the second season-festival ending with the 105th day of the Parsi year and
+    formerly approximately midsummer, and says later writings connect it with creation
+    of water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary based on public domain translator note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main passage is clear on calendrical creation, Gahanbar periods, and
+    day-night ordering, but the excerpt is interleaved with translator notes and ends
+    during a calendrical interval. Claims based on notes should be verified by a human
+    reviewer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. No named deity is inferred for the first-person creator because the excerpt does not name one.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l7670-l7744
+  passage_sha256=71fee9e2e1f9462ed936639954b19f4b58553a1696a661161a8f9d37dd84781c
+

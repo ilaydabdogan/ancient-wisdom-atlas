@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l4895-l5064
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER II. 10-17 5 / CHAPTER I. 18-26 7 / CHAPTER I. 27-29 9 / CHAPTER II.
+    1-2 II; lines 4895-5064
+  start: '4895'
+  end: '5064'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“in six days the Lord God finished all His works ... and kept Sabbath on
+    the seventh day”"
+  summary: The passage presents the creation as completed by the Lord God in six days,
+    with the seventh day kept and hallowed as Sabbath and appointed as a sign. The
+    accompanying notes discuss a vision of Moses, the first-day creations, the creation
+    of ministering spirits or angels, and comparisons with Midrash Tadshe, Philo,
+    and later Jewish traditions.
+  language: English, with Greek and Hebrew excerpts in editorial notes
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Lord God is said to have finished all His works in six days and to have
+    kept and hallowed Sabbath on the seventh day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sabbath is described as appointed as a sign for all God’s works.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A scholion cited in the notes says Moses, after forty days, was deemed worthy
+    to see by visions how God made heaven, earth, and everything in them in the order
+    of each day, and was commanded to write it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The notes enumerate seven creations of the first day: heaven, earth, waters,
+    spirits, abysses, darkness, and light.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The spirits are described as serving before God and are identified in the
+    notes with angelic groups including angels of the presence, glory, winds, clouds,
+    snow, hail, frost, voices, thunder, lightning, cold, heat, and seasons.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Midrash Tadshe passage cited in the notes gives twenty-two created kinds
+    over seven days and states that the first day had seven creations.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The notes state that Jubilees gives angels where Midrash Tadshe gives wind,
+    and explain this divergence by later Jewish views that angels were created on
+    the second or fifth day rather than the first.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The notes state that Philo mentions seven objects of creation and interprets
+    the first-day creation as ideal rather than actual.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Lord God
+  description: Divine creator who finishes His works in six days and hallows the seventh
+    day as Sabbath.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Moses
+  description: In the cited scholion, Moses sees the ordered creation in visions after
+    forty days and is commanded to write it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ministering spirits or angels
+  description: Created spirits serving before God, including angels of the presence,
+    glory, and natural phenomena.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Creator
+  assigned_to:
+  - fig:1
+  basis: The passage and notes attribute the making of heaven, earth, waters, spirits,
+    abysses, darkness, light, and all works to God.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Sabbath sanctifier
+  assigned_to:
+  - fig:1
+  basis: God keeps and hallows the seventh day and appoints it as a sign.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Visionary scribe
+  assigned_to:
+  - fig:2
+  basis: The scholion says Moses saw the order of creation in visions and was commanded
+    to write it.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Ministering beings
+  assigned_to:
+  - fig:3
+  basis: The spirits are described as serving before God and as angelic groups connected
+    with divine presence and natural phenomena.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sabbath as sign
+  literal_form: The seventh day kept, hallowed, and appointed as a sign for all God’s
+    works.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Waters
+  literal_form: Waters listed among the creations of the first day.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Abyss, darkness, and light
+  literal_form: Abysses, darkness, and light listed among the first-day creations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Number seven
+  literal_form: Seven-day creation structure and seven works of the first day.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: Number twenty-two
+  literal_form: Twenty-two kinds of creatures, corresponding in the cited Midrash
+    Tadshe note to twenty-two alphabet letters and twenty-two generations from Adam
+    to Jacob.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Creation completed and Sabbath hallowed
+  summary: God completes His works in six days, keeps Sabbath on the seventh day,
+    hallows it, and appoints it as a sign.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First-day creation list
+  summary: The first day is described as including the creation of heaven, earth,
+    waters, spirits or angels, abysses, darkness, and light.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Moses receives a visionary creation account
+  summary: In the cited scholion, Moses sees the ordered creation through visions
+    after forty days and is commanded to write it down.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Ordered six-day creation with sanctified seventh day
+  taxonomy_refs: []
+  basis: The passage says God finished all works in six days and hallowed the seventh
+    day as Sabbath and sign.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader covenantal interpretation is stated in this passage, although
+    Sabbath is called a sign.
+- id: motif:2
+  label: Seven first-day primordial creations
+  taxonomy_refs:
+  - chaos
+  basis: 'The notes identify seven first-day creations: heaven, earth, waters, spirits,
+    abysses, darkness, and light.'
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference captures only the abyss/darkness aspect; the whole
+    seven-item creation list is more specific than the available taxonomy.
+- id: motif:3
+  label: Created angelic ministers of natural phenomena
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The spirits serving before God include angels associated with clouds, snow,
+    hail, thunder, lightning, cold, heat, winter, spring, summer, and other phenomena.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The seasonal taxonomy applies only to part of the angelic catalogue.
+- id: motif:4
+  label: Numerological correspondence of creation, alphabet, and generations
+  taxonomy_refs: []
+  basis: The cited Midrash Tadshe note links twenty-two created kinds with the twenty-two
+    alphabet letters and twenty-two generations from Adam to Jacob.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This motif is in the comparative note, not in the main Jubilees wording
+    quoted here.
+comparison_claims:
+- id: claim:1
+  claim: Jubilees and the cited Midrash Tadshe share an ordered seven-day creation
+    enumeration with seven first-day items, but differ over whether the relevant first-day
+    item is angels or wind.
+  claim_level: same_function
+  target: Midrash Tadshe vi creation enumeration
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The passage gives the comparison through an editor’s note, and the
+    exact Hebrew tradition is represented only by excerpts and summary.
+- id: claim:2
+  claim: The cited Philo passage has a comparable seven-object first-day cosmology,
+    including heaven, earth, darkness, abyss, water, spirit, and light, but interprets
+    these as ideal rather than actual creations.
+  claim_level: same_function
+  target: Philo, De Mundi Opificio, first-day creation list
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The comparison is limited to the enumerated cosmological pattern; Philo’s
+    interpretation is explicitly described as different.
+- id: claim:3
+  claim: Later rabbinic traditions mentioned in the notes also arrange creation by
+    days, but they relocate the creation of angels to the second or fifth day instead
+    of the first.
+  claim_level: same_function
+  target: Later Jewish angel-creation traditions cited in Bereshit Rabbah and related
+    sources
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  limitations: The passage summarizes these traditions through secondary notes and
+    does not present full primary contexts.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4895-4900
+  quote_or_summary: "“in six days the Lord God finished all His works ... and kept
+    Sabbath on the seventh day and hallowed it ... and appointed it as a sign”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4902-4912
+  quote_or_summary: Cited scholion on Exodus states that Moses, after forty days,
+    saw through visions how God made heaven, earth, and all within them in the order
+    of each day, and was commanded to write.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4914-4950, 5009-5013
+  quote_or_summary: Editorial note and main text enumerate first-day creations as
+    heaven, earth, waters, spirits, abysses, darkness, and light.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4923-4943, 5011-5013
+  quote_or_summary: The spirits serving before God are identified with angels of presence
+    and glory and with angels of winds, clouds, snow, hail, frost, voices, thunder,
+    lightning, cold, heat, winter, spring, summer, and other created spirits.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4955-4982
+  quote_or_summary: The cited Midrash Tadshe says twenty-two kinds of creatures were
+    created over seven days; first day seven, second day one, third day four, fourth
+    day three, fifth day three, sixth day four, corresponding to the alphabet and
+    generations from Adam to Jacob.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4984-5008
+  quote_or_summary: The note says Jubilees gives angels where Midrash Tadshe gives
+    wind, and connects this divergence with rabbinic views that angels were created
+    on the second or fifth day, not the first.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 5009-5029
+  quote_or_summary: The note says Philo lists seven objects of creation—heaven, earth,
+    darkness, abyss, water, spirit, and light—and idealizes the first-day creation
+    as non-actual or intelligible.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage combines canonical Jubilees text, Greek and Hebrew excerpts,
+    OCR artifacts, and Charles’s editorial notes. Main narrative extraction is relatively
+    secure; comparison claims rely on the notes included in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, symbols, or taxonomy references were added beyond what the supplied passage directly supports.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l4895-l5064
+  passage_sha256=032cb5a3d3edad5ad6a6dba30d1a75a75792e5a35087baa7e2e36902c855ab9a
+

@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0748
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personified-natural-element
+  motif_id: personified_natural_element
+  label: personified natural element
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is too broad: a personified element could function as deity,
+    natural force, cosmic principle, lover, helper, or obstacle.'
+  cautions: Single occurrence and bucket assignment seem unreliable; source context
+    needed before mapping to sacred_waters, sacred_fire, divine_intervention, or cosmic_origin.
+  suggested_aliases:
+  - personified element
+  - personified natural force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    - sacred_waters
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-natural-forces-in-an-action-chain
+  motif_id: personified_natural_forces_in_an_action_chain
+  label: personified natural forces in an action chain
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An action chain of personified forces may be etiological, comic, ritual,
+    or narrative sequence rather than a stable motif group.
+  cautions: Likely depends heavily on passage evidence; avoid creating a broad personification
+    group from one occurrence.
+  suggested_aliases:
+  - chain of personified forces
+  - personified forces sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-nature-forces-as-mythic-heroes
+  motif_id: personified_nature_forces_as_mythic_heroes
+  label: Personified nature forces as mythic heroes
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: medium
+  rationale: If nature forces act as mythic heroes, the functional role is heroic
+    or culture-hero agency rather than the element alone.
+  cautions: Confirm they found, aid, order, or transform human/cosmic life; if merely
+    natural powers personified, needs human review.
+  suggested_aliases:
+  - personified nature heroes
+  - natural forces as heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-ocean-responding-to-massive-construction
+  motif_id: personified_ocean_responding_to_massive_construction
+  label: Personified ocean responding to massive construction
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The ocean is a sacred water power acting as an agent in response to human
+    or divine construction.
+  cautions: If the construction itself is central, sacred_craft may be a stronger
+    secondary mapping; if the ocean grants passage, divine_intervention may apply.
+  suggested_aliases:
+  - personified ocean
+  - ocean as responding agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - divine_intervention
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-old-age-defeats-the-hero
+  motif_id: personified_old_age_defeats_the_hero
+  label: Personified old age defeats the hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Old age as an unbeatable personified opponent marks mortality or fate
+    overcoming heroic strength.
+  cautions: Could also fit pride/downfall or heroic ordeal depending on whether the
+    episode is comic contest, destiny, or humbling of overconfidence.
+  suggested_aliases:
+  - old age defeats hero
+  - personified age as victor
+  - mortality defeats hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - pride_and_downfall
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-personal-fortune-and-misfortune
+  motif_id: personified_personal_fortune_and_misfortune
+  label: personified personal Fortune and Misfortune
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Personified fortune and misfortune may express fate, divine judgment,
+    moral consequence, or folktale luck rather than one clear existing group.
+  cautions: Consider death_by_fate only if destiny governs outcome; consider divine_judgment
+    only if moral reckoning is explicit.
+  suggested_aliases:
+  - personified fortune
+  - personified misfortune
+  - luck and ill luck personified
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - divine_judgment
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-poverty
+  motif_id: personified_poverty
+  label: personified poverty
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Poverty personified could be social condition, harmful spirit, moral
+    test, or folktale antagonist; no single existing group is clearly indicated.
+  cautions: If poverty is expelled as a harm, map related variants to sacrifice/ritual
+    expulsion; if it tests generosity, hospitality or sacred_exchange may fit.
+  suggested_aliases:
+  - poverty as personified being
+  - poverty spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-poverty-expelled-into-water
+  motif_id: personified_poverty_expelled_into_water
+  label: personified Poverty expelled into water
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The functional pattern is expulsion of a harmful personified condition,
+    aligning with ritual expulsion and misfortune removal under sacrifice.
+  cautions: Water detail should be preserved as evidence; if no ritual or communal
+    removal is present, this may be a folktale episode needing review.
+  suggested_aliases:
+  - poverty expelled
+  - expulsion of poverty
+  - misfortune expelled into water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-powers-as-summoned-servants
+  motif_id: personified_powers_as_summoned_servants
+  label: Personified powers as summoned servants
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Summoned personified powers acting as servants are supernatural agents
+    directly intervening in events.
+  cautions: If summoning is ritual coercion, sacred_exchange may be relevant; if powers
+    are magical objects or mantras, sacred_knowledge may fit better.
+  suggested_aliases:
+  - summoned personified powers
+  - personified powers as servants
+  - supernatural servants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_knowledge
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-river-as-desiring-pursuer
+  motif_id: personified_river_as_desiring_pursuer
+  label: Personified river as desiring pursuer
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A river personified as an active pursuer belongs first to sacred waters
+    as agentive boundary, danger, or transformative water power.
+  cautions: Because desire and pursuit are central, sacred_love or perilous_lure may
+    be secondary if the passage emphasizes erotic pursuit over water symbolism.
+  suggested_aliases:
+  - personified river pursuer
+  - desiring river
+  - river as pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - threshold_guardian
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels appear mis-bucketed under love_family_gender_body because they use
+  personification language; most require functional review rather than body/family
+  placement.
+- Do not create a broad 'personified forces' group from this batch alone; recurrence
+  and source evidence should determine whether personification is a motif function
+  or only descriptive wording.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; personification labels are semantically broad
+    and often need passage-level evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0748
+  input_sha256: '029b5043c69213ffe43f2024b269008fce74a27d46f1f90510148e5b9268f692'
+

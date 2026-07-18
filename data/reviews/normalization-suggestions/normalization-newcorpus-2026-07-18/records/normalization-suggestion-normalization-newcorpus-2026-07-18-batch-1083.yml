@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1083
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-fame-followed-by-withdrawal-into-domestic-ease
+  motif_id: heroic_fame_followed_by_withdrawal_into_domestic_ease
+  label: Heroic fame followed by withdrawal into domestic ease
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines heroic reputation with post-ordeal retirement, but
+    no current group clearly centers heroic fame or withdrawal from action.
+  cautions: Single occurrence and culturally contextual; may be narrative closure
+    rather than a reusable motif.
+  suggested_aliases:
+  - heroic fame and retirement
+  - post-heroic withdrawal
+  - hero withdraws into domestic ease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-fame-preserved-by-bards-after-combat
+  motif_id: heroic_fame_preserved_by_bards_after_combat
+  label: heroic fame preserved by bards after combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bardic preservation of fame makes poetic narration the mechanism by which
+    heroic memory survives after combat.
+  cautions: If the passage emphasizes funeral honor rather than bardic speech, heroic_funeral_rites
+    or lament_and_mourning may be better secondary mappings.
+  suggested_aliases:
+  - bardic preservation of heroic fame
+  - heroic fame preserved in song
+  - poetic memorialization after combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-fame-preserved-in-remembrance
+  motif_id: heroic_fame_preserved_in_remembrance
+  label: Heroic fame preserved in remembrance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Remembrance of a hero after death or combat fits memorialization and
+    grief-adjacent preservation of heroic value.
+  cautions: If remembrance is specifically produced by poetry or public storytelling,
+    storytelling_as_power may be the better group.
+  suggested_aliases:
+  - heroic remembrance
+  - fame preserved by memory
+  - posthumous heroic fame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-feast-and-public-fame
+  motif_id: heroic_feast_and_public_fame
+  label: heroic feast and public fame
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe feast hall reputation, heroic reward, hospitality,
+    or social status rather than a clear existing motif.
+  cautions: Single occurrence; needs source context to distinguish hospitality, heroic
+    honor, royal retinue culture, or a passage-specific social scene.
+  suggested_aliases:
+  - public heroic fame at feast
+  - feast hall fame
+  - heroic renown in feasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    - royal_legitimacy
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-force-disturbing-an-animate-landscape
+  motif_id: heroic_force_disturbing_an_animate_landscape
+  label: Heroic force disturbing an animate landscape
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animate landscape disturbance could indicate heroic excess, divine power,
+    sacred geography, or cosmic disruption.
+  cautions: Needs passage evidence; do not map to divine_warrior or axis_mundi unless
+    combat or sacred-center function is explicit.
+  suggested_aliases:
+  - heroic strength disturbs landscape
+  - animate landscape disturbed by hero
+  - cosmic disturbance by heroic force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - axis_mundi
+    - cosmic_origin
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-funeral-conveyance-with-weapons
+  motif_id: heroic_funeral_conveyance_with_weapons
+  label: heroic funeral conveyance with weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A funeral conveyance accompanied by weapons is a specific heroic burial
+    or memorial rite.
+  cautions: Preserve the weapon-conveyance detail as evidence; do not broaden to sacred_combat
+    unless combat remains central in the passage.
+  suggested_aliases:
+  - weaponed funeral conveyance
+  - hero conveyed with weapons
+  - martial funeral procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-funeral-pyre-and-memorial-barrow
+  motif_id: heroic_funeral_pyre_and_memorial_barrow
+  label: Heroic funeral pyre and memorial barrow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Pyre and barrow are concrete heroic funerary and memorial practices already
+    covered by heroic_funeral_rites.
+  cautions: If the barrow functions as a sacred center or haunting site, secondary
+    mappings may be needed.
+  suggested_aliases:
+  - heroic pyre and barrow
+  - memorial barrow after heroic death
+  - funeral pyre and mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-guest-arrives-as-defender-of-a-threatened-community
+  motif_id: heroic_guest_arrives_as_defender_of_a_threatened_community
+  label: Heroic guest arrives as defender of a threatened community
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: A hero arriving from outside to defend a community fits the arrival/call-and-trial
+    arc of the hero journey.
+  cautions: Could also involve hospitality if the guest role is central, or divine_warrior/sacred_combat
+    if sacred combat dominates.
+  suggested_aliases:
+  - heroic guest defender
+  - arriving hero defends community
+  - stranger hero protects threatened community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-hoard-winning-and-dominion-over-defeated-retainers
+  motif_id: heroic_hoard_winning_and_dominion_over_defeated_retainers
+  label: heroic hoard-winning and dominion over defeated retainers
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes treasure acquisition, victory, and rule over retainers,
+    which could point to sacred combat, treasures, or royal legitimacy.
+  cautions: Single composite label; source context needed to decide whether hoard,
+    dominion, or defeat is the motif core.
+  suggested_aliases:
+  - hero wins hoard and dominion
+  - hoard-winning after victory
+  - dominion over defeated retainers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-kneeling-image
+  motif_id: heroic_kneeling_image
+  label: Heroic kneeling image
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an iconographic description rather than a narrative
+    or symbolic motif with clear function.
+  cautions: If the source evidence shows ritual submission, royal legitimation, or
+    theophany, remap based on that function rather than the image label alone.
+  suggested_aliases:
+  - kneeling hero image
+  - iconographic heroic kneeling
+  - hero in kneeling posture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern heroic fame, honor, and memorialization; existing
+  groups cover funerary rites, lament, and storytelling, but there is no distinct
+  canonical group for heroic renown or fame economy.
+- Single-occurrence composite labels should remain provisional until passage evidence
+  clarifies whether the core function is combat, memorialization, rulership, hospitality,
+  or narrative closure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for heroic
+    fame and composite victory/status labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1083
+  input_sha256: 63bc09527949696ce1a0c62bc41ed9a27e0d0d76b332712ac506bcf5c408b80c
+

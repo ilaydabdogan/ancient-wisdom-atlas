@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l11932-l12022
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'LIBER V. / NOTES: / LIBER VI. / NOTES:; lines 11932-12022'
+  start: '11932'
+  end: '12022'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss plant and animal remedies or charms, calendrical
+    star-risings with rain, and Roman temples and rituals associated with Bellona,
+    including a battlefield temple vow and the later spear-casting ceremony used to
+    declare war.
+  language: English editorial notes with Latin and Greek citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says arbutus is not otherwise read of as being used for the stated
+    purpose and suggests its evergreen quality may explain the use by analogy with
+    laurel.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cited Diogenes Laertius passage is introduced as involving Bion when sick
+    and includes ramnus and a laurel branch placed above a door.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Garlic is said to have been thought efficacious for the same unspecified purpose.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says an eye taken from a live hyaena could be fastened to each arm
+    of a child.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aquila is said to rise in the evening, and the Hyades to rise heliacally accompanied
+    by rain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The temple of Bellona is said to have been vowed by Appius Claudius in the
+    midst of a battle in the Etruscan war and later dedicated.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Before the temple of Bellona stood an open area and a celebrated war pillar.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The senate is said to have used Bellona's temple to give audience to foreign
+    ambassadors not admitted into the city and to receive generals returned from war.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Bellona is explicitly glossed as a goddess of wars.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A spear was thrown at or over the Bellona pillar when war was declared; the
+    note contrasts this with an earlier practice in which the Fetial cast the spear
+    into enemy territory.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bion
+  description: A sick person in the Diogenes Laertius anecdote cited by the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: child
+  description: A generic child to whose arms the remedy involving a hyaena eye could
+    be fastened.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: live hyaena
+  description: The animal from which an eye is said to be taken for the child-related
+    remedy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Appius Claudius
+  description: The person said to have vowed the temple of Bellona in battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Bellona
+  description: A goddess of wars associated with a temple, an open area, and a war-declaration
+    pillar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Fetial
+  description: The ritual official who formerly cast a spear into enemy territory
+    when war was declared.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Roman senate
+  description: The body said to have given audience in Bellona's temple to certain
+    foreign ambassadors and returned generals.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: foreign ambassadors
+  description: Ambassadors whom the senate would not admit into the city and who were
+    received at Bellona's temple.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: generals returned from war
+  description: Returned military commanders received at Bellona's temple.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sick person in cited anecdote
+  assigned_to:
+  - fig:1
+  basis: The note says Diogenes Laertius describes events when Bion was sick.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of arm-fastened remedy
+  assigned_to:
+  - fig:2
+  basis: The child is the one to whose arms the hyaena-eye remedy is fastened.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: animal source for remedy
+  assigned_to:
+  - fig:3
+  basis: The hyaena is the living animal from which the eye is taken.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: battlefield temple-vower
+  assigned_to:
+  - fig:4
+  basis: Appius Claudius is said to have vowed Bellona's temple in the midst of battle.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: war goddess and temple dedicatee
+  assigned_to:
+  - fig:5
+  basis: Bellona is glossed as a goddess of wars and is the deity of the temple under
+    discussion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: war-declaration ritual official
+  assigned_to:
+  - fig:6
+  basis: The Fetial is described as casting the spear into enemy country in the earlier
+    war-declaration practice.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: civic audience-giver
+  assigned_to:
+  - fig:7
+  basis: The senate is said to have received foreign ambassadors and returned generals
+    at Bellona's temple.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: external or war-related audience at Bellona temple
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: Foreign ambassadors not admitted into the city and generals returned from
+    war are both described as being received there.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: arbutus as evergreen plant
+  literal_form: Arbutus used for an unspecified purpose, possibly because evergreen
+    like laurel
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ramnus and laurel above a door
+  literal_form: ramnus and laurel branch placed over a doorway
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: garlic remedy
+  literal_form: garlic thought efficacious for the stated purpose
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hyaena eye remedy
+  literal_form: eye taken from a live hyaena and fastened to each arm of a child
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: star risings
+  literal_form: Aquila evening rising and Hyades heliacal rising
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: rain accompanying Hyades
+  literal_form: rain accompanying the heliacal rising of the Hyades
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Bellona war pillar
+  literal_form: pillar before the temple of Bellona associated with declaring war
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: war-declaration spear
+  literal_form: spear thrown when war was declared
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: temple of Bellona
+  literal_form: temple of Bellona outside the civic center, used for war-related and
+    diplomatic functions
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Plant charm in sickness note
+  summary: The note compares an otherwise unattested arbutus use with a cited anecdote
+    in which, while Bion was sick, ramnus and laurel were placed over a door.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Child remedy with garlic and hyaena eye
+  summary: Garlic is named as efficacious for the same unspecified purpose, and a
+    hyaena eye is described as fastened to each arm of a child.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Star-rising and rain calendar note
+  summary: The notes mark Aquila's evening rising and the Hyades' heliacal rising
+    with rain.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bellona temple vowed in battle
+  summary: Appius Claudius is said to have vowed a temple to Bellona during a battle
+    in the Etruscan war, and the temple was later dedicated.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: War declaration at Bellona's pillar
+  summary: A spear was thrown at or over the Bellona pillar to declare war; the note
+    contrasts this later practice with the earlier Fetial spear-cast into enemy territory.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Bellona temple as liminal civic reception site
+  summary: The senate received foreign ambassadors not admitted into the city and
+    generals returned from war at Bellona's temple.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Plant-based doorway charm or remedy
+  taxonomy_refs: []
+  basis: The arbutus note invokes evergreen plant use and compares it with ramnus
+    and laurel placed above a door when Bion was sick.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The exact function referred to as 'this purpose' is not specified within
+    the excerpt.
+- id: motif:2
+  label: Animal-part remedy for a child
+  taxonomy_refs: []
+  basis: The note describes fastening an eye from a live hyaena to each arm of a child
+    as a remedy or efficacious practice.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not supply the broader ritual context or the precise
+    ailment or danger addressed.
+- id: motif:3
+  label: Calendar marked by star rising and rain
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links specific calendar dates or notes to Aquila's evening rising
+    and the Hyades' heliacal rising accompanied by rain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an astronomical-calendar note rather than a narrative myth
+    scene.
+- id: motif:4
+  label: Battlefield vow resulting in a temple to a war deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The temple of Bellona is said to have been vowed by Appius Claudius in the
+    midst of battle and later dedicated.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt reports the vow and dedication but does not state the terms,
+    request, or fulfillment of the vow.
+- id: motif:5
+  label: Ritual declaration of war by spear-casting at a sacred marker
+  taxonomy_refs: []
+  basis: The note states that a spear was cast when war was declared, first into enemy
+    territory by the Fetial and later over Bellona's pillar.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The description is antiquarian commentary and not a narrative episode
+    from the poem itself.
+- id: motif:6
+  label: Boundary reception of foreign and war-related persons at a temple
+  taxonomy_refs: []
+  basis: Bellona's temple is described as the place where the senate received foreign
+    ambassadors not admitted into the city and generals returned from war.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a civic-religious spatial pattern; the excerpt does not frame
+    it as mythic.
+comparison_claims:
+- id: claim:1
+  claim: The note supports a same-function comparison between arbutus use and a Diogenes
+    Laertius anecdote involving ramnus and laurel placed over a doorway during Bion's
+    sickness.
+  claim_level: same_function
+  target: Diogenes Laertius anecdote about Bion with ramnus and laurel over a door
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not define the exact purpose of the arbutus practice,
+    so the comparison should remain at the level of plant-based doorway remedy or
+    charm.
+- id: claim:2
+  claim: The note supports a same-function comparison within Roman practice between
+    the original Fetial spear-cast into enemy territory and the later spear-cast over
+    Bellona's pillar when declaring war.
+  claim_level: same_function
+  target: Roman Fetial war-declaration spear-casting and later Bellona-pillar substitution
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based on the editor's antiquarian summary and citation
+    rather than a full primary narrative reproduced in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11932-11937; note 155
+  quote_or_summary: Arbutus is said not to be otherwise attested for this purpose;
+    the note suggests evergreen similarity to laurel and cites Diogenes Laertius on
+    Bion's sickness with ramnus and a laurel branch over a door.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: 11939-11942; note 167
+  quote_or_summary: Garlic was thought efficacious for the same purpose; another remedy
+    fastened an eye taken from a live hyaena to each arm of a child.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: summary
+  locator: 11968-11971; notes 196-197
+  quote_or_summary: Aquila rises in the evening; on the IV Nones the Hyades rise heliacally,
+    accompanied by rain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: 11972-11980; note 199
+  quote_or_summary: The temple of Bellona was vowed by Appius Claudius in the midst
+    of a battle in the Etruscan war and was dedicated on the III Nones of June.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: summary
+  locator: 11993-12013; note 205
+  quote_or_summary: Before Bellona's temple were an open area and war pillar; the
+    senate received certain ambassadors and returned generals there; a spear was cast
+    when war was declared, originally into enemy country by the Fetial and later over
+    Bellona's pillar.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is mostly editorial commentary rather than a narrative
+    passage. Several practices are only briefly glossed, and the phrase 'this purpose'
+    depends on context outside the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only motifs and symbols supported by the supplied passage were extracted; many philological and bibliographic notes in the range were not treated as motif-bearing.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l11932-l12022
+  passage_sha256=ddb1dbc890eba4d8ce8d9599ce75160e4d5b0f39064fe69de58fa879093591d7
+

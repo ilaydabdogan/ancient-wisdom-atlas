@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0097
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-elder-receives-death-news
+  motif_id: mourning_elder_receives_death_news
+  label: mourning elder receives death-news
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on grief triggered by news of death, fitting the existing
+    mourning/lament group.
+  cautions: Single occurrence and role-specific elder detail may be passage-specific;
+    verify whether lament or ritual mourning is actually present.
+  suggested_aliases:
+  - death-news mourning
+  - elder receives death news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-lament-for-dead-lovers
+  motif_id: mourning_lament_for_dead_lovers
+  label: mourning lament for dead lovers
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A lament for dead lovers is directly within grief, mourning song, and
+    tragic recognition.
+  cautions: If the passage emphasizes love beyond death more than lament, sacred_love
+    may be a secondary mapping.
+  suggested_aliases:
+  - lament for dead lovers
+  - mourning dead lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-released-by-viewing-the-dead-beloved
+  motif_id: mourning_released_by_viewing_the_dead_beloved
+  label: mourning released by viewing the dead beloved
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes grief resolved through direct recognition or viewing
+    of the dead beloved.
+  cautions: Could also relate to sacred_love or death_and_transformation if the viewing
+    changes the mourner or the dead; source context needed.
+  suggested_aliases:
+  - grief released by seeing the dead beloved
+  - mourning resolved by viewing the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-sister-wife-beside-the-beloved-dead
+  motif_id: mourning_sister_wife_beside_the_beloved_dead
+  label: Mourning sister-wife beside the beloved dead
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is mourning beside a beloved dead figure, which fits
+    lament and mourning.
+  cautions: The sister-wife role is culturally and narratively specific; preserve
+    as evidence detail and avoid broad kinship assumptions without source review.
+  suggested_aliases:
+  - mourning beside beloved dead
+  - kin-spouse mourning beside the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-son-seeks-the-dead-father-s-last-words
+  motif_id: mourning_son_seeks_the_dead_father_s_last_words
+  label: mourning son seeks the dead father’s last words
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bereaved son seeking final words centers on mourning, loss, and last
+    recognition of the dead.
+  cautions: If the last words function as instruction, blessing, or sacred speech,
+    curse_blessing_speech or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - seeking dead father’s last words
+  - bereaved son seeks final words
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-spouse-attempts-to-replace-a-dead-wife
+  motif_id: mourning_spouse_attempts_to_replace_a_dead_wife
+  label: Mourning spouse attempts to replace a dead wife
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on bereaved love and an attempt to restore or substitute
+    the lost beloved.
+  cautions: Could fit lament_and_mourning if grief is primary, or death_and_transformation
+    if replacement involves magical animation or resurrection; review passage evidence.
+  suggested_aliases:
+  - replacement of dead wife
+  - bereaved spouse seeks substitute beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-tears-burden-or-affect-the-dead
+  motif_id: mourning_tears_burden_or_affect_the_dead
+  label: mourning tears burden or affect the dead
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns mourning behavior whose emotional expression affects
+    the dead.
+  cautions: May also involve ancestor rites or afterlife passage if tears impede the
+    dead person’s postmortem condition; source context is important.
+  suggested_aliases:
+  - tears burden the dead
+  - mourning affects the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-the-living-hero-as-already-dead
+  motif_id: mourning_the_living_hero_as_already_dead
+  label: mourning the living hero as already dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Premature mourning treats the hero’s fate as tragically recognized before
+    actual death.
+  cautions: Could belong with death_by_fate if the emphasis is unavoidable doom, or
+    divine_warrior if tied to heroic battle death.
+  suggested_aliases:
+  - premature mourning for living hero
+  - living hero mourned as dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-vigil-at-the-grave-of-a-dead-beloved
+  motif_id: mourning_vigil_at_the_grave_of_a_dead_beloved
+  label: mourning vigil at the grave of a dead beloved
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: A grave vigil for a dead beloved is a mourning practice centered on grief
+    and memorial presence.
+  cautions: If the vigil is a formal funerary rite or care for the dead, heroic_funeral_rites
+    or ancestor_rites may be secondary depending on context.
+  suggested_aliases:
+  - grave vigil for dead beloved
+  - mourning vigil at grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-vigil-keeps-scavengers-from-the-dead
+  motif_id: mourning_vigil_keeps_scavengers_from_the_dead
+  label: mourning vigil keeps scavengers from the dead
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Guarding the corpse from scavengers is a funerary care and memorial duty
+    toward the dead body.
+  cautions: If emphasis is grief rather than mortuary protection, lament_and_mourning
+    may be primary; not necessarily heroic unless the dead figure is a hero or socially
+    honored dead.
+  suggested_aliases:
+  - corpse vigil against scavengers
+  - mourning vigil protects the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence mourning variants; preserve kinship,
+  beloved, and ritual-action details as evidence notes rather than promoting new canonical
+  motifs.
+- Consider secondary mappings case-by-case where mourning overlaps with sacred_love,
+  ancestor_rites, afterlife_passage, death_by_fate, or funerary rites.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should confirm whether each
+    item is lament, funerary rite, love-beyond-death, or episode-specific detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0097
+  input_sha256: abfe424cae1f4bf7a1b7d7a759e45ba7ee4be5dc9ebf2f5277bf4c66690c68aa
+

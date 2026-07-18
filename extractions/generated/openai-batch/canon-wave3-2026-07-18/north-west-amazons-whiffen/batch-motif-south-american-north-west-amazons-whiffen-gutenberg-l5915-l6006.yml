@@ -1,0 +1,540 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l5915-l6006
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER XI / CHAPTER XII / CHAPTER XIII / CHAPTER XIV; lines 5915-6006
+  start: '5915'
+  end: '6006'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the medicine-man of Witoto, Boro, and related South
+    American groups as a shamanic doctor-wizard rather than a priest. It lists his
+    guarded knowledge of poisons and remedies, explains sickness as caused by an evil
+    spirit sent by an enemy, and describes healing by breath, massage, suction, and
+    producing an object said to be the extracted spirit. It also notes payment for
+    cures and blame of rival magic-workers when cures fail.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The medicine-man is described as a shaman, a doctor, and a wizard rather than
+    a priest.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The medicine-man claims to deal with spirits by magical processes such as
+    exorcising, outwitting, and circumventing them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The medicine-man is described as the tribe's poison-maker and as possessing
+    knowledge of curative and lethal drugs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The curare poison recipe is described as a guarded secret of the medicine-men
+    and the preparation is made with ceremony and privacy.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The medicine-man may use bark from a magic-bag for headaches or wounds, and
+    a lichen or moss as a mild blistering agent.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pain, sickness, and death are said to be caused by an evil spirit sent by
+    an enemy.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The medicine-man combats magic-worked harm with counter-magic and also uses
+    purges, narcotics, and herbal remedies.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The medicine-man's breath is described as a power that can make food or drink
+    healthy, remove pain, and promote recovery.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: An old woman may breathe over forbidden food or over a sickly child in a similar
+    healing or protective procedure.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: In healing, the medicine-man breathes or blows over the patient, breathes
+    on his hand, massages the affected part, and may suck the affected place.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: During suction the medicine-man may spit out black liquid and produce a small
+    object from his mouth, such as a stick, thorn, or fishbone.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The medicine-man tells the patient and friends that the produced object is
+    the material form of the evil spirit drawn from the sick person's flesh.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The medicine-man receives presents for successful cures.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: If a cure fails, the medicine-man blames a rival who he says has outmanoeuvred
+    him and goes to the bush to work magic against that rival.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: medicine-man / shaman
+  description: The tribal medicine-man, described as a shaman, doctor, wizard, poison-maker,
+    healer, and magic-worker.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: patient / sick person
+  description: The person suffering pain, sickness, wound, or other affliction treated
+    by the medicine-man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: evil spirit
+  description: The cause of pain, sickness, and death in the described Indian opinion;
+    said to be expelled or drawn out by the medicine-man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: enemy
+  description: The enemy who is said to send the evil spirit that causes harm.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: old woman
+  description: A person who may breathe over forbidden food or a sickly child to confer
+    lesser protective or healing value.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: rival magic-worker
+  description: The rival whom the medicine-man may blame for a failed cure and against
+    whom he may work magic.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: shamanic doctor-wizard
+  assigned_to:
+  - fig:1
+  basis: The passage says the medicine-man is a shaman, a doctor, and a wizard, not
+    a priest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: poison-maker and drug specialist
+  assigned_to:
+  - fig:1
+  basis: The passage states that he is the poison-maker and knows curative and lethal
+    drugs, including guarded curare preparation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: healer and exorcist
+  assigned_to:
+  - fig:1
+  basis: He counters magic-worked sickness, expels evil spirits, breathes, massages,
+    sucks, and produces an extracted object.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: afflicted patient
+  assigned_to:
+  - fig:2
+  basis: The patient is the sufferer from headache, wound, pain, sickness, or spirit-caused
+    trouble.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: afflicting spirit
+  assigned_to:
+  - fig:3
+  basis: Pain, sickness, and death are attributed to an evil spirit, and the extracted
+    object is identified as its material form.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: hostile sender
+  assigned_to:
+  - fig:4
+  basis: The evil spirit is said to be sent by an enemy.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: auxiliary breath-provider
+  assigned_to:
+  - fig:5
+  basis: An old woman may breathe over forbidden food or a sickly child.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: blamed rival magician
+  assigned_to:
+  - fig:6
+  basis: When a cure fails, the medicine-man says a rival has outmanoeuvred him and
+    works magic against that rival.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: breath as healing power
+  literal_form: Breathing or blowing over food, drink, a sore place, the sick person,
+    or the healer's hand.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: magic-bag bark remedy
+  literal_form: A special kind of dried bark carried in the medicine-man's magic-bag
+    and rubbed on the head, wound, or skin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: guarded curare poison
+  literal_form: Curare poison prepared secretly and ceremonially by medicine-men.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: extracted illness object
+  literal_form: A small object produced from the mouth, such as a bit of stick, thorn,
+    or fishbone, said to be the evil spirit's material form.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: black liquid from suction
+  literal_form: Black liquid spit out by the medicine-man during sucking, explained
+    by the passage as tobacco juice.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Identification of the medicine-man
+  summary: The passage identifies the medicine-man as a shamanic doctor-wizard who
+    deals with spirits by magical processes rather than as a priest of a deity.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Secret poisons and practical remedies
+  summary: The medicine-man guards the curare recipe, prepares poison privately and
+    ceremonially, and uses substances such as ointment, tobacco juice, coca, snuff,
+    bark, and lichen or moss in treatment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Spirit-caused illness and counter-magic
+  summary: Pain, sickness, and death are attributed to an evil spirit sent by an enemy;
+    the medicine-man uses counter-magic and remedies to expel the trouble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Breath, massage, suction, and extraction
+  summary: The medicine-man breathes or blows over the patient, may use his breath-charged
+    hand to massage, sucks at the afflicted place, spits black liquid, and produces
+    a small object said to be the extracted evil spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Payment and failed cure
+  summary: The medicine-man receives presents for successful cures; if he fails, he
+    blames a rival and goes to the bush to work magic against that rival.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Shamanic healer as doctor-wizard rather than priest
+  taxonomy_refs: []
+  basis: The medicine-man is explicitly described as a shaman, doctor, and wizard
+    who deals with spirits by magical processes, not as a priest.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic description by the author, not a mythic narrative
+    episode.
+- id: motif:2
+  label: Illness caused by an enemy-sent evil spirit
+  taxonomy_refs: []
+  basis: The passage says pain, sickness, and death are caused by an evil spirit sent
+    by an enemy.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports a stated belief system rather than a single narrative
+    event.
+- id: motif:3
+  label: Magic countered by magic in healing
+  taxonomy_refs: []
+  basis: The medicine-man is required to combat magic-worked harm with counter-magic,
+    while also using medicines.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific named mythic episode is given.
+- id: motif:4
+  label: Healing power of breath
+  taxonomy_refs: []
+  basis: Breath is described as the medicine-man's virtue and as able to make food
+    or drink healthy, remove pain, and promote recovery; similar lesser use is attributed
+    to others.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Breath is described as ritual efficacy in practice, not tied to an available
+    taxonomy symbol.
+- id: motif:5
+  label: Sucking out illness or spirit and displaying a material object
+  taxonomy_refs: []
+  basis: The healer sucks the afflicted place, spits black liquid, produces a small
+    object, and identifies it as the material form of the extracted evil spirit.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The author presents part of the act as charlatanism; the extraction record
+    should preserve both the reported ritual claim and the author's description separately.
+- id: motif:6
+  label: Guarded secret knowledge of poison and remedies
+  taxonomy_refs: []
+  basis: The medicine-men guard the curare recipe, make the preparation privately
+    and ceremonially, and possess knowledge of curative and lethal drugs.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage concerns practical and ritual knowledge rather than a narrative
+    of forbidden or stolen knowledge.
+- id: motif:7
+  label: Failed healer blames rival magician
+  taxonomy_refs: []
+  basis: When a cure fails, the medicine-man says a rival has outmanoeuvred him and
+    then works magic against that rival.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is described as social practice and blame-shifting, not as a developed
+    mythic plot.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the methods and procedure of Witoto, Boro, and
+    related medicine-men to those of Siberian shamans, saying they tally point for
+    point.
+  claim_level: same_function
+  target: Siberian shamanic methods and procedure
+  evidence_refs:
+  - ev:9
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the author's comparative assertion within the passage; it does
+    not by itself establish historical contact or common inheritance.
+- id: claim:2
+  claim: The passage presents the production of a material object from the healer's
+    mouth as part of a broader shamanic extraction pattern.
+  claim_level: same_motif
+  target: Broader shamanic motif of extracting and displaying a materialized illness
+    object
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the author's generalization that this is a usual
+    accompaniment of shamanic rites; no separate comparative examples are provided
+    in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5915-5939
+  quote_or_summary: 'The medicine-man is described as a shaman: a doctor and wizard,
+    not a priest, who deals with spirits by magical processes such as exorcising or
+    outwitting.'
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5939-5950
+  quote_or_summary: The medicine-man is the tribe's poison-maker; he knows curative
+    and lethal drugs, guards the curare recipe, and prepares the poison ceremonially
+    and privately; tobacco juice, coca, and snuff are also mentioned.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5950-5960
+  quote_or_summary: For headache or wounds he may rub the sufferer with dried bark
+    from his magic-bag; a sage-green lichen or moss from tree roots is used as a mild
+    blistering counter-irritant.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5961-5970
+  quote_or_summary: Pain, sickness, and death are attributed to an evil spirit sent
+    by an enemy; the medicine-man counters this magic with magic and also relies on
+    medicines, purges, narcotics, and herbs.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5971-5984
+  quote_or_summary: The medicine-man's breath is called his virtue; breathing over
+    food, drink, sores, or the sick promotes health, while an old woman may breathe
+    over forbidden food or a sick child. Breathing and blowing are prominent in his
+    performances.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5984-5994
+  quote_or_summary: The medicine-man may breathe on his hand, massage the affected
+    part, suck the place, spit out black liquid, then produce a stick, thorn, fishbone,
+    or similar object and say it is the evil spirit drawn from the flesh.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5994-5999
+  quote_or_summary: The passage states that this extraction object is a usual accompaniment
+    of shamanic rites and that the medicine-man receives presents for cures he effects.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5999-6006
+  quote_or_summary: If the medicine-man fails, he blames another rival who has outmanoeuvred
+    him and goes to the bush to work magic against that rival; the passage notes this
+    can repay personal injury or slight.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5926-5934
+  quote_or_summary: The author says that the methods and procedure of the Witoto,
+    Boro, and related tribes tally point for point with those of Siberian shamans.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit and descriptive. Motif candidates are primarily ritual-practice
+    patterns rather than narrative myth episodes. Comparison claims are limited to
+    comparisons made by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Available taxonomy refs were not applied because the passage's specific motifs do not clearly match the supplied motif-family or symbol lists.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l5915-l6006
+  passage_sha256=c9bc4a6444983615e3f64003e8bc0cc806bd3fc10d1e7b2a44d26714aff2ab09
+

@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0818
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contest-shifting-from-craft-to-strength
+  motif_id: contest_shifting_from_craft_to_strength
+  label: Contest shifting from craft to strength
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a contest structure but does not show whether the
+    function is trickery, heroic ordeal, craft rivalry, or simple plot escalation.
+  cautions: Single occurrence and context-dependent; avoid mapping to trickster or
+    sacred_combat without evidence of deception, sacred stakes, or transformative
+    ordeal.
+  suggested_aliases:
+  - craft_to_strength_contest
+  - contest_escalation_from_skill_to_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-victory-through-supernatural-and-animal-helpers
+  motif_id: contest_victory_through_supernatural_and_animal_helpers
+  label: Contest victory through supernatural and animal helpers
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Victory depends on nonhuman helpers, fitting divine or supernatural intervention;
+    animal_helpers already sits under divine_intervention.
+  cautions: If the animal helpers are ordinary fable agents or trickster accomplices
+    rather than sacred powers, trickster or a future animal-helper group may fit better.
+  suggested_aliases:
+  - contest_victory_by_animal_helpers
+  - supernatural_helpers_win_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-won-through-hidden-animal-assistance
+  motif_id: contest_won_through_hidden_animal_assistance
+  label: Contest won through hidden animal assistance
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden animal assistance in winning a contest aligns with the existing
+    animal_helpers child under divine_intervention.
+  cautions: The hiddenness may imply deception or trickster strategy; review passage
+    evidence before treating the helpers as sacred intervention.
+  suggested_aliases:
+  - hidden_animal_helpers_win_contest
+  - contest_victory_by_hidden_animal_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-animal-messenger-summons-rescuing-kin
+  motif_id: contested_animal_messenger_summons_rescuing_kin
+  label: contested animal messenger summons rescuing kin
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: An animal messenger that brings rescue resembles animal helper or supernatural
+    guidance functions.
+  cautions: The word 'contested' and the kin-rescue context may be passage-specific;
+    could instead be a family rescue detail or messenger motif not currently represented.
+  suggested_aliases:
+  - animal_messenger_summons_rescue
+  - animal_helper_calls_rescuing_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-exceptional-bull-as-object-of-conflict
+  motif_id: contested_exceptional_bull_as_object_of_conflict
+  label: contested exceptional bull as object of conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: An exceptional bull as the object of conflict matches the cattle-raid
+    and livestock-conflict complex already grouped under sacred_combat.
+  cautions: If the bull is primarily a sacred animal, sovereignty symbol, or transformed
+    being, secondary review under sacred_treasures, royal_legitimacy, or shapeshifter
+    may be needed.
+  suggested_aliases:
+  - contested_bull
+  - exceptional_bull_conflict
+  - bull_as_object_of_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_treasures
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrasting-food-worlds-of-bird-peoples
+  motif_id: contrasting_food_worlds_of_bird_peoples
+  label: contrasting food worlds of bird peoples
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to determine whether it concerns animal peoples,
+    otherworld contrast, food taboo, or social difference.
+  cautions: May be an ethnographic or episode-specific detail; culturally specific
+    food-world contrasts should be reviewed with source evidence before broad indexing.
+  suggested_aliases:
+  - bird_peoples_food_contrast
+  - contrasting_food_realms_of_bird_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-start-of-an-animal-drawn-sledge
+  motif_id: coordinated_start_of_an_animal_drawn_sledge
+  label: Coordinated start of an animal-drawn sledge
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a mundane action detail rather than a recurring symbolic
+    or narrative motif.
+  cautions: If the sledge journey is an ordeal, animal-helper episode, or ritual transport
+    scene, preserve that broader function instead of this operational detail.
+  suggested_aliases:
+  - animal_drawn_sledge_start
+  - sledge_team_start_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-animal-bearer-and-supported-sky
+  motif_id: cosmic_animal_bearer_and_supported_sky
+  label: cosmic animal bearer and supported sky
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An animal bearing or supporting the sky functions as a cosmic support
+    connecting and ordering levels of the cosmos.
+  cautions: If the passage emphasizes creation of the sky or a specific deity's iconography
+    rather than world support, cosmic_origin or theophany may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - sky_supporting_cosmic_animal
+  - cosmic_animal_supports_sky
+  - animal_as_cosmic_support
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-bird-barred-from-entry
+  motif_id: cosmic_bird_barred_from_entry
+  label: Cosmic bird barred from entry
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A cosmic bird denied entry could involve threshold guardianship, cosmic
+    origin, or an episode-specific exclusion depending on what realm is entered.
+  cautions: Do not infer axis mundi or creation function from 'cosmic bird' alone;
+    source context is needed to identify the boundary and narrative stakes.
+  suggested_aliases:
+  - barred_cosmic_bird
+  - cosmic_bird_denied_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - cosmic_origin
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counter-trick-induces-self-implication
+  motif_id: counter_trick_induces_self_implication
+  label: Counter-trick induces self-implication
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: A counter-trick causing the deceiver or opponent to implicate themselves
+    is a clear deception-and-reversal strategy within trickster logic.
+  cautions: If the passage centers on formal legal judgment rather than trickster
+    reversal, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - self_implication_by_counter_trick
+  - deceiver_trapped_by_counter_trick
+  - counter_deception_self_exposure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-related labels appear to describe animal helpers, but the current
+  taxonomy folds animal_helpers under divine_intervention rather than maintaining
+  a separate animal-helper group.
+- Single-occurrence contest labels are especially context-dependent; human review
+  should distinguish trickster strategy, heroic ordeal, sacred combat, and mundane
+  competition.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission or origin claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0818
+  input_sha256: 6e79a5d306fa5470bf4a82ea0a79808d04090ab0c383544ecb41d3b825562316
+

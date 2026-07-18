@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1053
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-plea-delays-killing-while-monster-hardens
+  motif_id: false_plea_delays_killing_while_monster_hardens
+  label: false plea delays killing while monster hardens
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The delay enables the monster to become harder to kill, aligning with
+    combat advantage through altered invulnerability or resistance.
+  cautions: Single occurrence; if the key function is deception rather than hardening/invulnerability,
+    trickster or sacred_combat may be better.
+  suggested_aliases:
+  - deceptive delay before monster hardens
+  - monster hardening through delayed killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-sign-of-mistreatment-incites-kin-warfare
+  motif_id: false_sign_of_mistreatment_incites_kin_warfare
+  label: False sign of mistreatment incites kin warfare
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fabricated sign violates trust and triggers violence among kin, making
+    deception within relationship bonds the narrative engine.
+  cautions: Could also fit sacred_combat if warfare is primary, or divine_judgment
+    if false accusation and vindication are central.
+  suggested_aliases:
+  - false evidence incites kin conflict
+  - fabricated mistreatment sign causes warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falsified-warning-message
+  motif_id: falsified_warning_message
+  label: Falsified warning message
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A falsified warning is a deceptive communication that may violate trust
+    and redirect action toward danger or conflict.
+  cautions: Label is very broad and context-poor; if it is only a plot device or message
+    detail, it may be too granular for pattern queries.
+  suggested_aliases:
+  - forged warning message
+  - deceptive warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famed-champion-disables-enemy-chieftain
+  motif_id: famed_champion_disables_enemy_chieftain
+  label: famed champion disables enemy chieftain
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a champion’s martial feat against an enemy leader,
+    fitting the broad heroic combat field.
+  cautions: Likely an episode-specific combat detail; use only if the passage frames
+    the champion’s action as ritually, cosmically, or socially significant.
+  suggested_aliases:
+  - champion disables enemy leader
+  - heroic champion defeats chieftain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-driven-struggle-for-hidden-or-concealed-food
+  motif_id: famine_driven_struggle_for_hidden_or_concealed_food
+  label: famine-driven struggle for hidden or concealed food
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve scarcity, concealed abundance, theft, social
+    conflict, or miraculous provision, and no existing group clearly captures the
+    function.
+  cautions: Source context is needed to decide between sacred_exchange, divine_intervention,
+    trickster, sacred_substance, or exclusion as a famine episode detail.
+  suggested_aliases:
+  - hidden food during famine
+  - concealed food struggle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.farewell-warning-before-peril
+  motif_id: farewell_warning_before_peril
+  label: farewell warning before peril
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A farewell warning before danger can mark departure into ordeal within
+    a journey or heroic trial sequence.
+  cautions: May be a generic narrative beat rather than a motif; if warning is prophetic,
+    prophecy_divination may be a better secondary placement.
+  suggested_aliases:
+  - parting warning before danger
+  - farewell counsel before peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fasting-contest-with-secret-feeding-or-privileged-station
+  motif_id: fasting_contest_with_secret_feeding_or_privileged_station
+  label: fasting contest with secret feeding or privileged station
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest undermined by secret feeding or unfair advantage fits deception,
+    rule-bending, and competitive trickster logic.
+  cautions: If framed as ritual fasting, ascetic discipline, or moral testing rather
+    than trickery, sacred_exchange, sacrifice, or divine_judgment may be relevant.
+  suggested_aliases:
+  - fasting contest with secret cheating
+  - deceptive fasting contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-barbed-weapon-in-single-combat
+  motif_id: fatal_barbed_weapon_in_single_combat
+  label: Fatal barbed weapon in single combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Single combat with a distinctive fatal weapon fits the existing combat
+    and duel cluster.
+  cautions: The barbed weapon detail is probably evidence-level unless it recurs or
+    carries ritual/sacred significance.
+  suggested_aliases:
+  - fatal weapon in single combat
+  - barbed weapon duel death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-combat-between-closely-linked-warriors
+  motif_id: fatal_combat_between_closely_linked_warriors
+  label: fatal combat between closely linked warriors
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fatal duel between bonded or closely linked warriors fits heroic combat
+    where social bonds intensify the ordeal.
+  cautions: If the relationship is kinship or doubled identity, sacred_twins or sibling_pair
+    may be relevant; if tragic recognition dominates, lament_and_mourning may be secondary.
+  suggested_aliases:
+  - fatal duel between bonded warriors
+  - combat between linked champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-contest-over-heroic-armour
+  motif_id: fatal_contest_over_heroic_armour
+  label: fatal contest over heroic armour
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is a shortened variant of the already indexed heroic arms contest
+    leading to warrior death under the divine_warrior combat-death cluster.
+  cautions: Likely too episode-specific for promotion; preserve as evidence under
+    warrior honor, arms, and fatal contest motifs.
+  suggested_aliases:
+  - contest over heroic arms
+  - fatal contest for hero's armour
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence conflict labels; several should remain
+  evidence-level unless recurrence or ritual/sacred framing is confirmed.
+- Avoid treating generic combat details as sacred_combat unless the passage shows
+  ritual, heroic, social-order, or cosmic significance.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; several low-confidence labels need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1053
+  input_sha256: 606a87596e3ed493139000363369e39ba0632a263b04065efbeae979d007ac03
+

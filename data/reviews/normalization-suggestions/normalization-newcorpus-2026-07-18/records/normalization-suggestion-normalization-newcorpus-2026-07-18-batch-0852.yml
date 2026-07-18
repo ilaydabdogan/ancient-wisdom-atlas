@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0852
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.misfortune-carried-into-animal-behavior
+  motif_id: misfortune_carried_into_animal_behavior
+  label: misfortune carried into animal behavior
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe omen, contagion, animal behavior, or transferred
+    misfortune, but function is unclear from wording alone.
+  cautions: Single occurrence; could fit sacred_law/spirit contagion, prophecy_divination,
+    shapeshifter, or be an ethnographic detail depending on source evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misidentification-of-an-animal-as-a-human-with-weapons
+  motif_id: misidentification_of_an_animal_as_a_human_with_weapons
+  label: misidentification of an animal as a human with weapons
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a specific scene of mistaken perception rather than a reusable
+    symbolic or narrative motif.
+  cautions: If the passage involves deliberate disguise or animal-human transformation,
+    review for shapeshifter or trickster instead.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misrecognized-animal-defenders-as-monstrous-or-judicial-figures
+  motif_id: misrecognized_animal_defenders_as_monstrous_or_judicial_figures
+  label: Misrecognized animal defenders as monstrous or judicial figures
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal helpers, misrecognition, monsters, and judgment
+    roles without a clear primary function.
+  cautions: Could fit divine_intervention if animals protect, divine_judgment if they
+    judge, threshold_guardian if they block passage, or be too contextual.
+  suggested_aliases:
+  - animal defenders misrecognized
+  - animal helpers mistaken for monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-animal-prey-revealed-as-human-people
+  motif_id: mistaken_animal_prey_revealed_as_human_people
+  label: mistaken animal prey revealed as human people
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal prey revealed as human may involve transformation, ancestral beings,
+    taboo, or misrecognition, requiring culturally specific evidence.
+  cautions: Culturally sensitive; avoid flattening Aboriginal human-animal ontology
+    into generic shapeshifting without passage context.
+  suggested_aliases:
+  - animal prey revealed as people
+  - human identity hidden in animal prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-animal-departs-from-a-neglectful-owner
+  motif_id: mistreated_animal_departs_from_a_neglectful_owner
+  label: Mistreated animal departs from a neglectful owner
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests moralized treatment of animals but no existing group
+    cleanly covers animal loyalty, departure, or animal moral agency.
+  cautions: Could fit sacred_law if animal care is an ethical command, divine_judgment
+    if neglect is punished, or be a fable detail.
+  suggested_aliases:
+  - neglected animal leaves owner
+  - mistreated animal abandons human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monkey-men-or-animal-human-beings
+  motif_id: monkey_men_or_animal_human_beings
+  label: monkey-men or animal-human beings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animal-human hybrid beings belong near transformation and species-boundary
+    instability.
+  cautions: If these are a distinct race rather than transformed beings, divine_race
+    or another being-type group may be more appropriate; single occurrence is broad
+    and descriptive.
+  suggested_aliases:
+  - animal-human beings
+  - monkey-men
+  - human-animal hybrids
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-animal-marked-spouse-or-opponent
+  motif_id: monstrous_animal_marked_spouse_or_opponent
+  label: monstrous animal-marked spouse or opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal-marked spouse or opponent could indicate transformation, hidden
+    identity, otherworld marriage, or combat antagonist.
+  cautions: Composite and context-dependent; map to shapeshifter, sacred_love, recognition_tokens_hidden_identity,
+    or sacred_combat only with passage evidence.
+  suggested_aliases:
+  - animal-marked spouse
+  - animal-marked opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-dragon-and-basilisk-imagery
+  motif_id: monstrous_dragon_and_basilisk_imagery
+  label: Monstrous dragon and basilisk imagery
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Dragon and basilisk imagery fits the serpent/dragon symbolic complex
+    of danger, hidden power, and monstrous guardianship.
+  cautions: If merely decorative or polemical imagery rather than an acting figure,
+    preserve as evidence detail; if cosmic opposition is central, chaos may be a secondary
+    fit.
+  suggested_aliases:
+  - dragon and basilisk imagery
+  - monstrous serpent imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-dragon-threat-to-a-princess
+  motif_id: monstrous_dragon_threat_to_a_princess
+  label: monstrous dragon threat to a princess
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dragon threatening a princess commonly functions as the antagonist
+    in heroic or sacred combat.
+  cautions: The princess-rescue detail is over-specific; if the focus is the endangered
+    beloved or marriage quest, sacred_love or hero_journey may also be relevant.
+  suggested_aliases:
+  - dragon threat to princess
+  - dragon threatens maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-guardian-who-controls-wild-animals-and-gives-the-way
+  motif_id: monstrous_guardian_who_controls_wild_animals_and_gives_the_way
+  label: Monstrous guardian who controls wild animals and gives the way
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The figure controls access and grants passage, matching a guardian at
+    a boundary or route threshold.
+  cautions: Wild-animal mastery should be preserved as local evidence; if the figure
+    primarily guides rather than tests, divine_intervention or animal_helpers may
+    be secondary.
+  suggested_aliases:
+  - animal-master threshold guardian
+  - monstrous way-giving guardian
+  - guardian controlling wild animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-focused labels are single-occurrence composites; source evidence
+  is needed before creating a broad animal-helper, animal-ancestor, or animal-human
+  ontology group.
+- Avoid treating all animal-human ambiguity as shapeshifting; some traditions may
+  encode kinship, spirit, ancestral, or ontological categories rather than transformation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; many items require passage context due to over-specific
+    animal/misrecognition wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0852
+  input_sha256: 9e3b2782c9d6baa42afabbec50f373807fc84d55aae2b35560f31b50a24b70a3
+

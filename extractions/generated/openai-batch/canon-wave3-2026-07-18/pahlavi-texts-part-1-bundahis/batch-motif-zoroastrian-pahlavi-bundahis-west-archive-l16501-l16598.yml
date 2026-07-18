@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l16501-l16598
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  III. / CHAPTER    II,    I23-III,  6.  277 / CHAPTER    III,    7-14.  279
+    / CHAPTER    III,    15-22.  281; lines 16501-16598
+  start: '16501'
+  end: '16598'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for menstruation-related impurity, washing, distance
+    from sacred or ritual objects, pregnancy or miscarriage cases, contact and sexual
+    intercourse penalties, and escalating sins when a menstruous woman sees, approaches,
+    or touches fire, ashes, or a water goblet. Editorial notes compare some rules
+    with Hebrew law and Avesta/Vendidad passages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After a second menstruation, the woman is described as not in cleanliness
+    for nine days and nights, which are days and nights for watching, and is then
+    to be washed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Leucorrhoea that has changed colour, whether before or after menstruation,
+    is said to have pollution like that of menstruation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the woman is completely clean from menstruation so that washing may be
+    as usual, she does not pollute the sacred twigs or other things when beyond three
+    steps.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Because of severe cold, she may sit out toward the fire; while washing, a
+    prayer is to be taken inwardly, and washing the hands except with bull's urine
+    is not proper until then.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After her hands are washed, she is to destroy two hundred noxious creatures
+    as atonement for sin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A woman whose pregnancy is certain and who sees she is polluted after the
+    menstruation period is to be washed with bull's urine and water unless miscarriage
+    is evident; if pregnancy is not certain she is considered menstruous, and additional
+    opinions are reported for miscarriage doubt.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Anyone who contacts a menstruous woman, or a person who must be washed with
+    water and bull's urine, incurs the root of a sin of sixty stirs.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A person who knowingly has sexual intercourse with a menstruous woman incurs
+    the root of a sin of fifteen Tanapuhars and sixty stirs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: For a menstruous woman, seeing fire, going within three steps of it, and putting
+    a hand on the fire itself are assigned escalating sins; the same pattern is stated
+    for ashes and a water goblet.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Menstruous woman
+  description: A woman subject to rules of menstruation-related impurity, washing,
+    distance, contact, and restrictions around fire, ashes, and a water goblet.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Woman with certain or uncertain pregnancy after the menstruation
+    period
+  description: A woman who has gone beyond the menstruation period and later sees
+    pollution, with rules varying according to pregnancy or miscarriage certainty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Person who contacts a menstruous woman or person requiring washing
+  description: A person who comes into contact with a menstruous woman or with someone
+    who must be washed with water and bull's urine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Person knowingly having intercourse with a menstruous woman
+  description: A person who knowingly has sexual intercourse with a menstruous woman
+    and is assigned a severe sin measure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Ritually restricted menstruating person
+  assigned_to:
+  - fig:1
+  basis: The passage describes the menstruous woman as unclean or polluted and prescribes
+    watching, washing, distance, and restrictions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: Purification subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage prescribes washing, including washing with bull's urine and water
+    in specified cases.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Person liable through prohibited contact or intercourse
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage assigns sin measures to contact and to knowing sexual intercourse
+    with a menstruous woman.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Transgressor near sacred or ritual elements
+  assigned_to:
+  - fig:1
+  basis: The passage assigns sins for seeing, approaching within three steps of, or
+    touching fire, and applies the same pattern to ashes and a water goblet.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Fire toward which the woman may sit in cold and which she may sinfully
+    see, approach, or touch while menstruous.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: sym:2
+  label: Water
+  literal_form: Water used in washing and appearing as a water goblet subject to the
+    same restriction pattern as fire and ashes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: Bull's urine
+  literal_form: Bull's urine used for washing hands and for washing a woman in certain
+    pollution, pregnancy, or miscarriage cases.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Sacred twigs
+  literal_form: Sacred twigs, or baresom, which are not polluted by the woman when
+    she is clean and beyond three steps.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Three steps
+  literal_form: A distance boundary used to define when pollution or a graded sin
+    applies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:6
+  label: Ashes
+  literal_form: Ashes named with fire and water goblet in the graded restriction;
+    a note glosses ashes as the clothing of the fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:7
+  label: Two hundred noxious creatures
+  literal_form: Two hundred noxious creatures to be destroyed as atonement for sin
+    after washing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Nine-day impurity and washing
+  summary: The text prescribes nine days and nights of uncleanness and watching after
+    a second menstruation, followed by washing, and classifies certain leucorrhoea
+    as menstrual pollution.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Clean state and distance from ritual objects
+  summary: Once completely clean, the woman does not pollute sacred twigs or other
+    things when beyond three steps.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cold, fire, washing, and atonement
+  summary: In severe cold the woman may sit out toward the fire; during washing a
+    prayer is taken inwardly, bull's urine is specified for hand washing, and destruction
+    of two hundred noxious creatures is required as atonement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pregnancy or miscarriage pollution rule
+  summary: A woman beyond the menstruation period who later sees pollution is treated
+    according to whether pregnancy or miscarriage is certain, with washing by bull's
+    urine and water in specified cases.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Contact and intercourse penalties
+  summary: The passage assigns sin measures to contact with a menstruous woman or
+    a person requiring washing and to knowing intercourse with a menstruous woman.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Escalating sins around fire, ashes, and water goblet
+  summary: Seeing fire, going within three steps of it, and touching it are assigned
+    escalating sins for a menstruous woman, with the same rule pattern applied to
+    ashes and a water goblet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Menstrual impurity, watching, and ritual washing
+  taxonomy_refs: []
+  basis: The passage prescribes a period of uncleanness and watching after menstruation,
+    washing afterward, and analogous pollution for certain discharges.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a ritual-legal pattern rather than a narrative mythic episode.
+- id: motif:2
+  label: Sacred element avoidance during pollution
+  taxonomy_refs: []
+  basis: The passage regulates the menstruous woman's position relative to fire and
+    assigns escalating sins for seeing, approaching, or touching fire, with similar
+    treatment of ashes and a water goblet.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly call fire or water divine; the motif is
+    inferred only as ritual restriction around named elements.
+- id: motif:3
+  label: Atonement by destruction of noxious creatures
+  taxonomy_refs: []
+  basis: After washing, the woman is to destroy two hundred noxious creatures as atonement
+    for sin.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only one brief prescription is present; the passage gives no narrative
+    explanation for the creatures or number.
+- id: motif:4
+  label: Graded sin measures for pollution contact and sexual intercourse
+  taxonomy_refs: []
+  basis: The passage assigns quantified sins to contact with a menstruous woman or
+    person needing washing and a more severe measure for knowing sexual intercourse.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a legal-penitential pattern; no mythic narrative frame appears
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note cautiously links the abnormal-discharge rule to Hebrew
+    law, where Leviticus 15:25-28 is said to prescribe seven days' seclusion after
+    recovery.
+  claim_level: same_function
+  target: Hebrew law, Leviticus 15:25-28
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The comparison is supplied by the translator's note; the passage's
+    own rule mentions nine days and nights for the menstruation case, while the note
+    describes a seven-day seclusion for Hebrew law.
+- id: claim:2
+  claim: An editorial note compares the rule on intercourse with a menstruous woman
+    to Hebrew law, where Leviticus 15:24 is said to make the man unclean for seven
+    days.
+  claim_level: same_function
+  target: Hebrew law, Leviticus 15:24
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: 'The legal consequences differ: this passage assigns quantified sin
+    penalties, while the note reports temporary uncleanness in the Hebrew rule.'
+- id: claim:3
+  claim: An editorial note connects the intercourse penalty with the Avesta Vendidad,
+    stating that the Avesta rule makes the man a peshotanu, glossed in Pahlavi as
+    tanapuhar.
+  claim_level: same_function
+  target: Avesta, Vendidad XV, 23-24
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the translator's citation and gloss; no extended
+    Avesta passage is quoted here.
+- id: claim:4
+  claim: An editorial note states that the sinfulness of a menstruous woman looking
+    at fire also appears in Avesta times in Vendidad XVI, 8.
+  claim_level: same_function
+  target: Avesta, Vendidad XVI, 8
+  evidence_refs:
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note provides a citation but not the full comparative text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter III, §§18-19 within lines 16501-16598
+  quote_or_summary: After the second menstruation she is not in cleanliness for nine
+    days and nights, then is washed; changed-colour leucorrhoea before or after menstruation
+    has pollution like menstruation.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter III, §20 within lines 16501-16598
+  quote_or_summary: When completely clean and washing may be as usual, she does not
+    pollute the sacred twigs or other things when beyond three steps.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: Chapter III, §21 within lines 16501-16598
+  quote_or_summary: Because of severe cold she may sit toward the fire; during washing
+    a prayer is taken inwardly; hand washing except with bull's urine is not proper
+    until then; after washing she destroys two hundred noxious creatures as atonement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter III, §§22-24 within lines 16501-16598
+  quote_or_summary: A woman beyond the menstruation period who later sees pollution
+    is washed with bull's urine and water if pregnancy is certain unless miscarriage
+    is evident; if pregnancy is uncertain she is considered menstruous; variant opinions
+    address miscarriage certainty or doubt.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter III, §§25-26 within lines 16501-16598
+  quote_or_summary: Contact with a menstruous woman or one needing washing with water
+    and bull's urine is the root of a sin of sixty stirs; knowing intercourse with
+    a menstruous woman is the root of a sin of fifteen Tanapuhars and sixty stirs.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: Chapter III, §27 within lines 16501-16598
+  quote_or_summary: For a menstruous woman, seeing fire is one Farman; going within
+    three steps is one Tanapuhar; putting a hand on the fire itself is fifteen Tanapuhars;
+    the same applies to ashes and the water goblet.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: note
+  locator: Footnotes to Chapter III, §§22 and 26 within lines 16501-16598
+  quote_or_summary: Translator notes compare abnormal cases and intercourse with menstruous
+    woman to Hebrew law, citing Leviticus 15:25-28 and 15:24.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized editorial notes.
+- id: ev:8
+  type: note
+  locator: Footnotes to Chapter III, §§26-27 within lines 16501-16598
+  quote_or_summary: Translator notes cite Avesta Vendidad XV, 23-24 on peshotanu/tanapuhar
+    for intercourse and Vendidad XVI, 8 for sinfulness of looking at fire.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized editorial notes.
+- id: ev:9
+  type: note
+  locator: Footnotes to Chapter III, §27 within lines 16501-16598
+  quote_or_summary: Translator notes gloss touching fire as touching the 'body of
+    the fire' and explains ashes metaphorically as the clothing of the fire.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized editorial notes.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is prescriptive and explicit.
+    Motif labels are cautious because the excerpt is ritual law rather than narrative
+    mythology. Comparison claims are limited to translator/editorial notes present
+    in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact claims were made.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l16501-l16598
+  passage_sha256=99362db15b04b563983556eb95f39ee27d5c8600751f6be16144ab317be7d723
+

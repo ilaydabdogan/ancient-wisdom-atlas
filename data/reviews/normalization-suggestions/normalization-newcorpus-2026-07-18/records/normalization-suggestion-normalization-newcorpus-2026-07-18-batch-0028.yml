@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0028
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cycle-of-kin-vengeance-after-heroic-death
+  motif_id: cycle_of_kin_vengeance_after_heroic_death
+  label: Cycle of kin vengeance after heroic death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance after heroic death fits the combat-honor complex already
+    containing vows of vengeance, heroic death, and warrior burial.
+  cautions: Could also index under lament_and_mourning or heroic_funeral_rites if
+    grief or burial rather than retaliation is central; single occurrence is quite
+    specific.
+  suggested_aliases:
+  - vengeance_after_heroic_death
+  - kin_vengeance_cycle
+  - avenging_heroic_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.danger-returned-to-confinement
+  motif_id: danger_returned_to_confinement
+  label: danger returned to confinement
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests containment of a harmful force, but does not identify
+    whether the danger is a spirit, monster, disease, soul, or social threat.
+  cautions: May belong under ritual expulsion, sacred_vessel, divine_judgment, threshold
+    guarding, or a local episode detail depending on source evidence.
+  suggested_aliases:
+  - harmful_force_reconfined
+  - contained_danger
+  - return_of_danger_to_confinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-descent-into-refuge-chamber
+  motif_id: dangerous_descent_into_refuge_chamber
+  label: dangerous descent into refuge chamber
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous downward movement into an enclosed chamber fits descent as
+    liminal passage, cave, hidden chamber, or underworld-like refuge.
+  cautions: If the chamber chiefly preserves life through catastrophe, sacred_vessel
+    or ark_vessel/flood_and_renewal may be a better secondary mapping.
+  suggested_aliases:
+  - descent_into_refuge_chamber
+  - chamber_descent
+  - dangerous_descent_to_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-encounter-with-an-invisible-house-spirit
+  motif_id: dangerous_encounter_with_an_invisible_house_spirit
+  label: dangerous encounter with an invisible house spirit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: An invisible house spirit acting dangerously is best parked with spirit
+    agency and tutelary/ambivalent spirits under divine_intervention.
+  cautions: May be too specific; if the spirit guards a domestic threshold, threshold_guardian
+    may fit, while if it haunts the dead it may fit restless_dead_haunting_vengeance.
+  suggested_aliases:
+  - invisible_house_spirit
+  - dangerous_house_spirit
+  - domestic_spirit_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-extraction-from-a-tree-resource-causes-mutilation-and-death
+  motif_id: dangerous_extraction_from_a_tree_resource_causes_mutilation_and_death
+  label: dangerous extraction from a tree resource causes mutilation and death
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines tree resource use, bodily mutilation, and death, but
+    the mythic function is unclear from wording alone.
+  cautions: Could involve sacred tree taboo, punishment for transgression, etiological
+    death, or a passage-specific accident; culturally specific source evidence is
+    needed.
+  suggested_aliases:
+  - dangerous_tree_resource_extraction
+  - tree_resource_mutilation_death
+  - fatal_extraction_from_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-liminal-dead-before-rest
+  motif_id: dangerous_liminal_dead_before_rest
+  label: dangerous liminal dead before rest
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: high
+  rationale: Dead who remain dangerous before being properly at rest align with the
+    unresolved, active, or restless dead complex.
+  cautions: If the passage centers on rites that settle the dead, ancestor_rites or
+    afterlife_passage may be useful secondary mappings.
+  suggested_aliases:
+  - liminal_dead_before_rest
+  - dangerous_unsettled_dead
+  - unrested_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-night-vigil-over-a-dead-body
+  motif_id: dangerous_night_vigil_over_a_dead_body
+  label: Dangerous night vigil over a dead body
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vigil over a corpse is a mortuary rite maintaining proper relations
+    with the dead, especially when danger surrounds the body before burial or rest.
+  cautions: If the corpse rises, attacks, or haunts, restless_dead_haunting_vengeance
+    may be primary; if the focus is heroic commemoration, heroic_funeral_rites may
+    fit.
+  suggested_aliases:
+  - night_vigil_over_dead_body
+  - corpse_vigil_danger
+  - dangerous_wake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-play-with-storm-powers-causing-flood-and-death
+  motif_id: dangerous_play_with_storm_powers_causing_flood_and_death
+  label: dangerous play with storm powers causing flood and death
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: narrower_than
+  confidence: medium
+  rationale: Storm powers causing a destructive flood and death fits the flood/catastrophe
+    side of the flood_and_renewal complex.
+  cautions: Do not infer world renewal unless present; if the point is misuse of sacred
+    power or moral punishment, divine_judgment may be secondary.
+  suggested_aliases:
+  - storm_powers_cause_flood
+  - dangerous_play_with_storms
+  - flood_from_misused_storm_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-return-versus-death-in-strange-land
+  motif_id: dangerous_return_versus_death_in_strange_land
+  label: Dangerous return versus death in strange land
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: The contrast between perilous return and death away from home belongs
+    broadly with journey, return, exile, and homecoming patterns.
+  cautions: May be a contextual travel dilemma rather than a stable motif; if death
+    or burial away from home is central, heroic_funeral_rites or death_by_fate may
+    be more relevant.
+  suggested_aliases:
+  - dangerous_homecoming_or_death_abroad
+  - perilous_return_vs_death_away
+  - death_in_strange_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-spirit-beings-with-harmful-objects
+  motif_id: dangerous_spirit_beings_with_harmful_objects
+  label: dangerous spirit beings with harmful objects
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Dangerous spirit beings acting through objects can be parked under broad
+    spirit agency in divine_intervention.
+  cautions: If the harmful objects themselves are central, sacred_treasures may fit;
+    if the beings guard a boundary or inflict ritual danger, threshold_guardian or
+    sacred_law may be better.
+  suggested_aliases:
+  - harmful_spirit_objects
+  - dangerous_spirits_with_objects
+  - spirit_beings_bearing_harmful_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  should be treated as parking decisions pending passage review.
+- For culturally specific spirit, mortuary, and Australian Aboriginal materials, avoid
+  over-normalizing local ritual meaning into generic death or spirit categories without
+  source evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft suggestions only; multiple low-confidence items need source-context
+    verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0028
+  input_sha256: 15569fde635b26d33ac4321fcaa58f0e53c5e75909cd9e40a07c5a16cdae13a1
+

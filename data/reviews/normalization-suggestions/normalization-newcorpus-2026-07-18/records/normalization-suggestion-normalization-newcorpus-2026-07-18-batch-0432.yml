@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0432
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-hermitage-as-divine-precinct
+  motif_id: sacred_hermitage_as_divine_precinct
+  label: sacred hermitage as divine precinct
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hermitage functioning as a divine precinct is a sacred center or ritualized
+    contact place.
+  cautions: Single occurrence; if the passage emphasizes ascetic practice rather than
+    sacred geography, mystical_quest may be secondary.
+  suggested_aliases:
+  - sacred_hermitage
+  - hermitage_as_sacred_precinct
+  - ascetic_hermitage_as_sacred_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hermitage-at-river-confluence
+  motif_id: sacred_hermitage_at_river_confluence
+  label: Sacred hermitage at river confluence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A river confluence marks sacred water and liminal geography around a
+    ritual hermitage.
+  cautions: Could also fit axis_mundi if the confluence functions as a sacred center
+    rather than water symbolism; preserve locality as evidence detail.
+  suggested_aliases:
+  - sacred_river_confluence
+  - hermitage_at_sacred_waters
+  - tirtha_hermitage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hermitage-recognized-by-natural-and-ritual-signs
+  motif_id: sacred_hermitage_recognized_by_natural_and_ritual_signs
+  label: Sacred hermitage recognized by natural and ritual signs
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate recognition of a sacred precinct through signs,
+    but the core motif is unclear.
+  cautions: Could be sacred geography, omen recognition, ritual purity, or a passage-specific
+    descriptive detail; review source evidence before indexing.
+  suggested_aliases:
+  - recognition_of_sacred_hermitage_by_signs
+  - natural_signs_of_sacred_precinct
+  - ritual_signs_of_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hermitage-violated-by-fiery-weapons
+  motif_id: sacred_hermitage_violated_by_fiery_weapons
+  label: Sacred hermitage violated by fiery weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on martial violation of a sacred precinct by fiery
+    weapons.
+  cautions: If the emphasis is sacrilege and punishment rather than combat, divine_judgment
+    or sacred_law may be relevant; if fire is divine presence, sacred_fire may be
+    secondary.
+  suggested_aliases:
+  - violation_of_sacred_precinct_by_weapons
+  - fiery_weapons_violate_hermitage
+  - sacrilegious_attack_on_hermitage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hospitality-for-strangers-and-fugitives
+  motif_id: sacred_hospitality_for_strangers_and_fugitives
+  label: sacred hospitality for strangers and fugitives
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: Sacred care for strangers and fugitives belongs with hospitality obligations
+    around vulnerable guests or suppliants.
+  cautions: If focused on asylum law rather than testing the host, sacred_law or covenant
+    may be useful secondary mappings.
+  suggested_aliases:
+  - sacred_hospitality_for_fugitives
+  - hospitality_for_strangers
+  - asylum_for_fugitives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-house-established-in-a-pleasant-land
+  motif_id: sacred_house_established_in_a_pleasant_land
+  label: sacred house established in a pleasant land
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred house established in a chosen land functions as a sanctified
+    center or cultic dwelling.
+  cautions: Could be too contextual if it only describes settlement geography; covenant
+    may be secondary if tied to promised land or sacred bond.
+  suggested_aliases:
+  - sacred_house_in_chosen_land
+  - sanctuary_established_in_pleasant_land
+  - cultic_house_as_sacred_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-house-with-black-stone
+  motif_id: sacred_house_with_black_stone
+  label: sacred house with black stone
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred house with a venerated stone may be a world-center sanctuary
+    with a sacred object.
+  cautions: Culturally sensitive and highly tradition-specific; review whether to
+    index under axis_mundi, sacred_treasures, pilgrimage/sacred geography, or preserve
+    as local evidence only.
+  suggested_aliases:
+  - sacred_house_and_black_stone
+  - black_stone_in_sacred_house
+  - venerated_stone_at_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-images-transformed-into-living-animal-helpers
+  motif_id: sacred_images_transformed_into_living_animal_helpers
+  label: Sacred images transformed into living animal helpers
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animated sacred images becoming helpers fits the existing animated cult
+    image and artificial-life craft complex.
+  cautions: Animal-helper function may also relate to divine_intervention; review
+    culturally specific image traditions carefully.
+  suggested_aliases:
+  - animated_sacred_images_as_animal_helpers
+  - cult_images_become_living_animals
+  - sacred_images_animated_as_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-implement-draws-water-from-the-ground-during-migration
+  motif_id: sacred_implement_draws_water_from_the_ground_during_migration
+  label: Sacred implement draws water from the ground during migration
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred object producing water during migration is miraculous provision
+    and guidance in a journey context.
+  cautions: Could also index under sacred_treasures for the implement or sacred_waters
+    for the water; avoid reducing it to flood or creation without evidence.
+  suggested_aliases:
+  - sacred_object_produces_water
+  - miraculous_water_from_sacred_implement
+  - water_drawn_by_sacred_implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-instruments-as-identity-markers
+  motif_id: sacred_instruments_as_identity_markers
+  label: Sacred instruments as identity markers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred instruments functioning as identity markers align with tokens
+    or objects that prove identity or authority.
+  cautions: If instruments are primarily ritual or power objects rather than identity
+    proofs, sacred_treasures may be a better placement.
+  suggested_aliases:
+  - sacred_instruments_as_identity_tokens
+  - ritual_instruments_as_identity_markers
+  - sacred_objects_as_identity_proofs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several hermitage and sacred-house labels may reflect sacred geography or sanctuary
+  descriptions rather than durable motifs; source context should decide whether to
+  keep as evidence detail.
+- No transmission or borrowing claim is implied by mapping sacred places or objects
+  across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; items with culturally specific sanctuaries or
+    ambiguous sign-recognition were marked for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0432
+  input_sha256: afd70c284b5170a1a8cc9b4cabe701cd0786f65748535e6583627abc5a644806
+

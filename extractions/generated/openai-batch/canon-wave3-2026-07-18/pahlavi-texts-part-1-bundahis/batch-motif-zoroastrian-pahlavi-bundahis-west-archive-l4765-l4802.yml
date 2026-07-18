@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l4765-l4802
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  VIII. / Chapter  IX. / CHAPTER    VIII,    3-X,    I.  31 / Chapter  X.;
+    lines 4765-4802
+  start: '4765'
+  end: '4802'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Thence arose two oxen, one male and one female
+  summary: The passage describes the death of the primeval ox. From its limbs comes
+    a vegetable principle that produces grains and medicinal plants on earth. Its
+    seed is taken to the moon station, purified by moonlight, and gives rise to life,
+    including a male and female ox and many species. The passage also states that
+    birds dwell in the air and fish in water.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is introduced as concerning a conflict waged with the primeval
+    ox.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the ox passed away, a vegetable principle proceeded from every limb of
+    the ox.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fifty-five species of grain and twelve species of medicinal plants grew from
+    the earth.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The splendour and strength of the plants are identified as the seminal energy
+    of the ox.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The seed was delivered to the moon station and purified by the light of the
+    moon.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After purification, the seed produced life in a body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Two oxen, one male and one female, arose from the process.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Two hundred and eighty-two species of each kind became manifest on earth afterward.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Birds are said to dwell in the air, and fish are said to be in the midst of
+    the water.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: primeval ox
+  description: An ox involved in a conflict; after it passes away, plants and later
+    animal life arise from its body and seed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: male ox
+  description: One of two oxen, specified as male, that arises after the seed is purified
+    by moonlight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: female ox
+  description: One of two oxen, specified as female, that arises after the seed is
+    purified by moonlight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: birds
+  description: Creatures whose dwelling is said to be in the air.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: fish
+  description: Creatures said to be in the midst of the water.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: being in conflict
+  assigned_to:
+  - fig:1
+  basis: The chapter heading states that there is a conflict waged with the primeval
+    ox.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source of plants and life-producing seed
+  assigned_to:
+  - fig:1
+  basis: The ox's limbs yield a vegetable principle, and its seminal energy or seed
+    is connected with later life production.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: first paired oxen
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that two oxen, one male and one female, arose.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: air-dwelling creatures
+  assigned_to:
+  - fig:4
+  basis: The passage states that the dwelling of birds is in the air.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: water-dwelling creatures
+  assigned_to:
+  - fig:5
+  basis: The passage states that fish are in the midst of the water.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: primeval ox body
+  literal_form: body and limbs of the ox
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ox seed
+  literal_form: seed or seminal energy of the ox
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: moon station and moonlight
+  literal_form: moon station; light of the moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: plants from the earth
+  literal_form: grain and medicinal plants growing from the earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: water
+  literal_form: water
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vegetation arises from the passing ox
+  summary: After the primeval ox passes away, a vegetable principle from its limbs
+    causes grains and medicinal plants to grow from the earth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Seed purified at the moon station
+  summary: The ox's seed is delivered to the moon station, purified by moonlight,
+    and prepared to produce embodied life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Animal life manifests
+  summary: A male and female ox arise, and afterward many species become manifest
+    on earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Habitats of birds and fish
+  summary: Birds are located in the air, while fish are located in water.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: life generated from the death of a primeval being
+  taxonomy_refs:
+  - death_rebirth
+  basis: The ox passes away, and from its limbs and seed come plants, paired oxen,
+    and many species.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage uses the ox's death and life-production directly, but it does
+    not describe a return of the same ox to life.
+- id: motif:2
+  label: cosmic animal as source of earthly species
+  taxonomy_refs: []
+  basis: The primeval ox's body and seed are presented as the source of grains, medicinal
+    plants, paired oxen, and many species on earth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No explicit taxonomy reference among the supplied motif families exactly
+    names this motif.
+- id: motif:3
+  label: male-female pair as progenitors of animal kinds
+  taxonomy_refs: []
+  basis: Two oxen, one male and one female, arise before many species become manifest
+    on earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states sequence but does not explicitly call the pair ancestors
+    or progenitors of all later species.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4765-4767
+  quote_or_summary: "“On the conflict waged with the primeval ox.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4769-4774
+  quote_or_summary: As the ox passed away, a vegetable principle from every limb produced
+    fifty-five species of grain and twelve species of medicinal plants from the earth.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4788-4789
+  quote_or_summary: The splendour and strength of the plants are described as the
+    seminal energy of the ox.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4789-4793
+  quote_or_summary: The seed is delivered to the moon station, purified by moonlight,
+    prepared in every way, and produces life in a body.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4793-4797
+  quote_or_summary: "“Thence arose two oxen, one male and one female,” followed by
+    two hundred and eighty-two species of each kind manifesting on earth."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4797-4802
+  quote_or_summary: Birds dwell in the air, and fish are in the midst of the water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct from the passage. Motif labels are cautious
+    because the supplied taxonomy only partly matches the passage's specific cosmogonic
+    animal-source pattern. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote cross-references were not used to expand the record beyond this passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l4765-l4802
+  passage_sha256=7fd7232cead002e15e6013469e046e77aeac6de8a3ecbd6749ae4206af346eb6
+

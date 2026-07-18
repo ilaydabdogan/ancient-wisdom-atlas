@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l5811-l5827
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: EPIC  SONGS  OF  RUSSIA.  139 / EPIC  SONGS   OF  RUSSIA.  141 / EPIC  SONGS   OF  RUSSIA.  145
+    / EPIC  SONGS   OF  RUSSIA.  147; lines 5811-5827
+  start: '5811'
+  end: '5827'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Vladimir, seeing that misfortune has come upon him, dismisses Churilo Plenkovich
+    from his palace, telling him either to dwell in a cell or return to his own house.
+    Churilo bows reverently, leaves the palace and Kief, goes to the Piichai river,
+    and resumes living in mirth and pleasure.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vladimir perceives that misfortune has come upon him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vladimir tells Churilo Plenkovich that he no longer needs him in the palace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Vladimir tells Churilo either to dwell in a cell or to depart to his own house.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Churilo bows low in reverence before leaving.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Churilo leaves the palace and Kief town.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Churilo comes to the Piichai river and begins again to dwell in mirth and
+    pleasure.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Vladimir
+  description: A ruler or palace authority who dismisses Churilo from his palace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Churilo Plenkovich
+  description: The person addressed by Vladimir; he bows, leaves the palace and Kief,
+    and goes to the Piichai river.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: dismissing palace authority
+  assigned_to:
+  - fig:1
+  basis: Vladimir says he no longer needs Churilo in his palace and orders him to
+    dwell in a cell or depart.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dismissed court figure
+  assigned_to:
+  - fig:2
+  basis: Churilo is addressed by Vladimir, bows in reverence, and leaves the palace
+    and Kief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: palace
+  literal_form: Vladimir's palace
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cell
+  literal_form: cell proposed as a dwelling place
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Piichai river
+  literal_form: river
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: reverential bow
+  literal_form: low bow in reverence
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Vladimir dismisses Churilo
+  summary: Vladimir perceives misfortune and tells Churilo that he no longer needs
+    him in the palace, offering either a cell or departure to his own house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Churilo departs to the river
+  summary: Churilo bows reverently, leaves the palace and Kief town, comes to the
+    Piichai river, and resumes living in mirth and pleasure.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: dismissal followed by departure from court
+  taxonomy_refs:
+  - departure
+  basis: Vladimir dismisses Churilo from the palace, and Churilo then leaves the palace
+    and Kief town.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a concrete departure after dismissal, but does not frame
+    it as the start of a larger quest within this excerpt.
+- id: motif:2
+  label: 'withdrawal alternative: cell or home'
+  taxonomy_refs: []
+  basis: Vladimir tells Churilo either to dwell in a cell or depart to his own house.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as an order or option, but Churilo's actual
+    subsequent destination is the Piichai river rather than a cell or explicitly his
+    house.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5811-5818
+  quote_or_summary: 'Vladimir perceives misfortune and tells Churilo: “Dwell thou
+    in a cell... or depart now to thine own house,” because he no longer needs him
+    in the palace.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5819-5827
+  quote_or_summary: Churilo bows low in reverence, leaves the palace and Kief town,
+    comes to the Piichai river, and begins again to dwell in mirth and pleasure.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal actions and figures are clear. Motif classification is limited
+    because the excerpt is brief and lacks broader narrative context. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l5811-l5827
+  passage_sha256=503a1ed39aa63e99e0b503a4b7384e11e2c04208850c634ee8920bd479c213c7
+

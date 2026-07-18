@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0128
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sectarian-accusation-about-denial-of-afterlife-rewards-and-punishments
+  motif_id: sectarian_accusation_about_denial_of_afterlife_rewards_and_punishments
+  label: sectarian accusation about denial of afterlife rewards and punishments
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a polemical or doctrinal accusation about afterlife
+    belief rather than a narrative afterlife motif.
+  cautions: If the passage actually depicts afterlife rewards and punishments, map
+    that evidence separately to afterlife_passage or divine_judgment.
+  suggested_aliases:
+  - sectarian denial of afterlife judgment
+  - doctrinal dispute over afterlife rewards and punishments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seditious-opposition-ending-in-grave-punishment
+  motif_id: seditious_opposition_ending_in_grave_punishment
+  label: seditious opposition ending in grave punishment
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Opposition followed by severe punishment fits judgment or moral reckoning
+    if the punishment is sacredly authorized.
+  cautions: Could be political plot resolution rather than divine judgment; confirm
+    whether sacred authority, sin, or moral reckoning is explicit.
+  suggested_aliases:
+  - rebellion punished
+  - seditious opposition punished
+  - grave punishment for opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seeming-death-followed-by-renewed-strength
+  motif_id: seeming_death_followed_by_renewed_strength
+  label: Seeming death followed by renewed strength
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Apparent death followed by restoration of strength is a clear death-renewal
+    transformation pattern.
+  cautions: Do not map to resurrection unless the figure is actually dead and restored;
+    label suggests apparent death only.
+  suggested_aliases:
+  - apparent death and renewal
+  - seeming death with restored strength
+  - near-death renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-chosen-death-by-leap-onto-rocks
+  motif_id: self_chosen_death_by_leap_onto_rocks
+  label: self-chosen death by leap onto rocks
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific death method; its motif function could be sacrifice,
+    honor death, despair, or episode detail.
+  cautions: Avoid treating the physical method as a motif without evidence of ritual,
+    heroic, or moral function.
+  suggested_aliases:
+  - self-chosen death by leaping
+  - suicidal leap onto rocks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-condemning-speech-followed-by-chariot-journey-to-hell
+  motif_id: self_condemning_speech_followed_by_chariot_journey_to_hell
+  label: Self-condemning speech followed by chariot journey to hell
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A journey to hell after self-condemnation fits mapped postmortem passage
+    with judgment consequences.
+  cautions: May also involve curse/blessing speech or divine judgment; confirm whether
+    the chariot journey is literal afterlife transit rather than metaphor.
+  suggested_aliases:
+  - chariot journey to hell
+  - self-condemnation before hell journey
+  - postmortem journey to hell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-death-by-one-s-own-sword
+  motif_id: self_death_by_one_s_own_sword
+  label: self-death by one's own sword
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only gives a death mechanism and lacks enough evidence for
+    broader motif placement.
+  cautions: Could fit heroic honor death, fate, sacrifice, or narrative accident depending
+    on context; do not index by weapon alone.
+  suggested_aliases:
+  - death by one's own sword
+  - self-inflicted sword death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-renunciation-or-self-destruction-rather-than-disastrous-return
+  motif_id: self_renunciation_or_self_destruction_rather_than_disastrous_return
+  label: Self-renunciation or self-destruction rather than disastrous return
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Self-renunciation in place of a destructive return fits the contemplative
+    path of surrender and transformed identity.
+  cautions: If the emphasis is literal death as offering, sacrifice may be a better
+    placement; if it is only plot avoidance, review as over-specific.
+  suggested_aliases:
+  - self-renunciation instead of return
+  - self-destruction avoiding disastrous return
+  - renunciatory refusal of return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sensual-garden-shadowed-by-mortality
+  motif_id: sensual_garden_shadowed_by_mortality
+  label: sensual garden shadowed by mortality
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A beautiful sensual garden shadowed by death matches the paradox of beauty
+    intertwined with suffering or mortality.
+  cautions: Could be a poetic image rather than a narrative motif; if the garden is
+    an afterlife or otherworld locale, otherworld may be relevant.
+  suggested_aliases:
+  - garden beauty shadowed by death
+  - sensual beauty and mortality
+  - mortal shadow over garden pleasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separated-captives-denied-mutual-sight-until-death-token-appears
+  motif_id: separated_captives_denied_mutual_sight_until_death_token_appears
+  label: Separated captives denied mutual sight until death-token appears
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death-token functions as a sign that communicates identity, fate,
+    or proof across enforced separation.
+  cautions: If the focus is love beyond death, captivity, or mourning rather than
+    the token's recognitive function, sacred_love or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - death-token recognition
+  - death token appears to separated captives
+  - token signaling death across separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separated-child-witness-returns-with-report
+  motif_id: separated_child_witness_returns_with_report
+  label: Separated child witness returns with report
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A returning child witness could indicate return from danger, otherworld,
+    death, or simply narrative testimony.
+  cautions: Needs passage context; map to hero_journey, otherworld, afterlife_passage,
+    or miraculous_child only if the witnessed realm or transformation is explicit.
+  suggested_aliases:
+  - child witness returns
+  - separated child returns with report
+  - returning child messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence death-method or episode-specific
+  labels; human review should verify whether they express recurring motifs or merely
+  passage details.
+- Avoid treating doctrinal accusation or sectarian polemic as direct evidence for
+  afterlife motifs unless the source passage depicts the afterlife structure itself.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed for low-confidence death-method
+    and witness-return items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0128
+  input_sha256: edb9180887fcba8abac7563f54ed34793ac7b1f9fc9bfb225b74dfc4f15db980
+

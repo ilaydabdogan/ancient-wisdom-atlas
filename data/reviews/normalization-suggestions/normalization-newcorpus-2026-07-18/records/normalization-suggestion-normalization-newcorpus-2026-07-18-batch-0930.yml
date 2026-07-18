@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0930
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-encounters-a-mountain-hoard-and-is-asked-to-divide-treasure
+  motif_id: hero_encounters_a_mountain_hoard_and_is_asked_to_divide_treasure
+  label: hero encounters a mountain-hoard and is asked to divide treasure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mountain setting, treasure encounter, and division
+    request; narrative function is unclear from wording alone.
+  cautions: May fit sacred_treasures, sacred_exchange, trickster, or heroic ordeal
+    depending on whether the hoard tests greed, sharing, or authority. Single occurrence
+    may be episode-specific.
+  suggested_aliases:
+  - mountain_hoard_division_test
+  - treasure_division_request
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_exchange
+    - hero_journey
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-escapes-missile-storm-while-allies-are-crushed
+  motif_id: hero_escapes_missile_storm_while_allies_are_crushed
+  label: hero escapes missile storm while allies are crushed
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene centers on exceptional survival in battle amid destructive
+    force, fitting sacred combat/warrior ordeal better than nature symbolism.
+  cautions: If survival depends on a boon, armor, or loophole, conditional_invulnerability_hidden_weakness
+    may be a secondary fit. Label is highly episode-specific.
+  suggested_aliases:
+  - hero_survives_missile_storm
+  - warrior_survives_battlefield_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - conditional_invulnerability_hidden_weakness
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-immobilized-by-sunken-chariot-wheel-at-fatal-moment
+  motif_id: hero_immobilized_by_sunken_chariot_wheel_at_fatal_moment
+  label: Hero immobilized by sunken chariot wheel at fatal moment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a specific fatal battle circumstance rather than
+    a clear reusable motif group.
+  cautions: May involve fate, divine judgment, violated warrior code, or sacred combat
+    depending on passage evidence. Preserve as evidence detail unless parallel labels
+    recur.
+  suggested_aliases:
+  - fatal_chariot_immobilization
+  - sunken_chariot_wheel_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - sacred_combat
+    - divine_warrior
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-protected-by-special-weapons-and-auspicious-nature
+  motif_id: hero_protected_by_special_weapons_and_auspicious_nature
+  label: hero protected by special weapons and auspicious nature
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection by special weapons aligns with power objects that confer protection
+    or sacred ability.
+  cautions: Auspicious nature may indicate omen or divine favor; if the main function
+    is divine assistance rather than objects, divine_intervention may be secondary.
+  suggested_aliases:
+  - protective_special_weapons
+  - auspicious_protection_of_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_warrior
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-receives-celestial-equipment-and-companions-before-earthly-mission
+  motif_id: hero_receives_celestial_equipment_and_companions_before_earthly_mission
+  label: Hero receives celestial equipment and companions before earthly mission
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Celestial provision of equipment and companions for a mission is direct
+    supernatural aid in human affairs.
+  cautions: If the equipment itself is the focus, sacred_treasures may be secondary;
+    if the mission legitimizes rule, royal_legitimacy may also apply.
+  suggested_aliases:
+  - celestial_equipment_for_mission
+  - divine_aid_before_earthly_mission
+  - celestial_companions_for_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - hero_journey
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-act-alters-the-sea
+  motif_id: hero_s_act_alters_the_sea
+  label: Hero’s act alters the sea
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates a landscape or sea alteration by heroic action, but
+    not whether it is etiological, cosmic, combat-related, or miraculous.
+  cautions: Could fit cosmic_origin if it explains the sea’s form, sacred_waters if
+    water transformation is central, or divine_warrior if caused by combat. Source
+    context needed.
+  suggested_aliases:
+  - hero_alters_the_sea
+  - etiological_sea_alteration_by_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_waters
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-uses-an-uprooted-tree-as-weapon
+  motif_id: hero_uses_an_uprooted_tree_as_weapon
+  label: hero uses an uprooted tree as weapon
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is extraordinary combat using an improvised natural
+    weapon, fitting sacred warrior combat more than sacred tree symbolism.
+  cautions: Do not map to axis_mundi or sacred_tree_axis unless the tree has cosmological
+    or sacred-center function. Likely too specific for canonical promotion.
+  suggested_aliases:
+  - uprooted_tree_as_weapon
+  - improvised_tree_weapon_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-with-supernatural-steed-defeats-fire-breathing-monster
+  motif_id: hero_with_supernatural_steed_defeats_fire_breathing_monster
+  label: hero with supernatural steed defeats fire-breathing monster
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero defeating a monstrous opponent is a clear sacred combat pattern;
+    the steed is auxiliary supernatural aid.
+  cautions: Fire-breathing detail should not force sacred_fire unless fire mediates
+    divine presence or ritual power. Supernatural steed may also support divine_intervention
+    or magical_animal_mount as secondary evidence.
+  suggested_aliases:
+  - hero_defeats_fire_breathing_monster
+  - supernatural_steed_aids_monster_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - shapeshifter
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-action-misread-as-cowardly-flight
+  motif_id: heroic_action_misread_as_cowardly_flight
+  label: Heroic action misread as cowardly flight
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns social misrecognition of heroic conduct, not a clear
+    nature/cosmos motif or existing canonical group.
+  cautions: Could belong with heroic honor, recognition/identity, or narrative reversal
+    if recurring; current groups do not cleanly capture reputational misreading. Single
+    occurrence may be plot detail.
+  suggested_aliases:
+  - heroic_deed_misread_as_cowardice
+  - misrecognized_heroic_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - recognition_tokens_hidden_identity
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-army-crosses-water-by-constructed-bridge
+  motif_id: heroic_army_crosses_water_by_constructed_bridge
+  label: heroic army crosses water by constructed bridge
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The constructed bridge enabling a heroic army’s passage fits sacred or
+    heroic construction more specifically than generic water crossing.
+  cautions: If the water crossing marks transformation or liberation, sacred_waters
+    may be secondary; if divine aid in construction is absent, placement should be
+    reviewed.
+  suggested_aliases:
+  - constructed_bridge_water_crossing
+  - heroic_bridge_over_water
+  - army_crosses_water_by_bridge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items appear misbucketed under nature/cosmos because they mention sea, mountain,
+  tree, or water, but their narrative functions are often combat, treasure, divine
+  aid, or construction.
+- Single-occurrence, episode-specific combat labels should generally be preserved
+  as evidence details unless broader recurrence is found.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for over-specific heroic
+    battle and landscape-alteration labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0930
+  input_sha256: a5d6ffe7866647bc5ec28f5e56884e6190f3c58763fd4a6054b0228f4a0afe45
+

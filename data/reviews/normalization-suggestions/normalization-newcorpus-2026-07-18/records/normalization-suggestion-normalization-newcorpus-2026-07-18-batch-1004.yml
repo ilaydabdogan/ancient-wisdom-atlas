@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1004
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.world-creation-and-final-destruction
+  motif_id: world_creation_and_final_destruction
+  label: world creation and final destruction
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label links cosmogony with eschatological destruction, fitting cyclical
+    world-age decline and ending more than simple creation alone.
+  cautions: Could also relate to cosmic_origin or flood_and_renewal depending on whether
+    the passage emphasizes creation, Ragnarök destruction, or renewal after catastrophe.
+  suggested_aliases:
+  - cosmic_creation_and_destruction
+  - world_cycle_creation_and_end
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-divided-into-three-regions-by-waters
+  motif_id: world_divided_into_three_regions_by_waters
+  label: World divided into three regions by waters
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cosmic partition by waters describes the ordering of primordial space
+    and belongs with creation and elemental separation motifs.
+  cautions: Do not treat as flood unless destructive inundation is present; if the
+    waters function mainly as boundary passage, sacred_waters may be a secondary fit.
+  suggested_aliases:
+  - cosmic_regions_divided_by_waters
+  - world_partition_by_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-ending-weapon-imagery-applied-to-a-hero-s-arrow
+  motif_id: world_ending_weapon_imagery_applied_to_a_hero_s_arrow
+  label: world-ending weapon imagery applied to a hero's arrow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label applies cosmic-destruction imagery to a heroic weapon in combat,
+    fitting sacred warrior imagery better than an actual world-ending event.
+  cautions: Likely a poetic or passage-specific image; map to flood_and_renewal or
+    world_destroying_fire only if the weapon literally destroys or renews the world.
+  suggested_aliases:
+  - cosmic_weapon_imagery
+  - world-ending heroic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-fashioned-from-a-primordial-being-s-body
+  motif_id: world_fashioned_from_a_primordial_being_s_body
+  label: world fashioned from a primordial being's body
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: alias
+  confidence: high
+  rationale: The cosmos made from a primordial being's body is the core pattern of
+    primordial body-as-world creation.
+  cautions: If no death, slaying, or dismemberment is present, cosmic_origin may be
+    the broader parent, but this wording strongly supports primordial_sacrifice.
+  suggested_aliases:
+  - world made from primordial being
+  - cosmos fashioned from primordial body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-fashioned-from-a-primordial-body
+  motif_id: world_fashioned_from_a_primordial_body
+  label: world fashioned from a primordial body
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: alias
+  confidence: high
+  rationale: The label is a direct variant of world creation from a primordial body,
+    already covered by primordial_sacrifice and body_as_landscape_shaper.
+  cautions: Preserve whether the source specifies a giant, god, ancestor, or other
+    primordial being.
+  suggested_aliases:
+  - world from primordial body
+  - cosmos from primordial body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-fashioned-from-body-of-slain-primordial-giant
+  motif_id: world_fashioned_from_body_of_slain_primordial_giant
+  label: World fashioned from body of slain primordial giant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: narrower_than
+  confidence: high
+  rationale: A slain primordial giant whose body becomes the world is a specific instance
+    of primordial sacrifice and dismemberment.
+  cautions: The giant-specific detail should be retained as evidence but need not
+    become a separate canonical group unless it recurs across traditions.
+  suggested_aliases:
+  - slain primordial giant as world body
+  - world from giant's body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-founded-upon-waters
+  motif_id: world_founded_upon_waters
+  label: World founded upon waters
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The earth established over or upon waters fits creation-ordering and
+    primordial-water cosmology.
+  cautions: Do not conflate with flood_and_renewal unless waters destroy an old order;
+    sacred_waters may be a related symbolic group.
+  suggested_aliases:
+  - earth founded on waters
+  - world established upon primordial waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-inside-a-monster-s-stomach
+  motif_id: world_inside_a_monster_s_stomach
+  label: world inside a monster's stomach
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe enclosed-world cosmology, monster-belly passage,
+    emergence myth, or a contextual episode not clearly covered by existing groups.
+  cautions: Culturally specific Hopi context should be reviewed carefully; avoid forcing
+    into descent, cosmic_origin, or sacred_vessel without passage evidence.
+  suggested_aliases:
+  - enclosed world in monster belly
+  - monster stomach as world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-overrunning-flood-during-the-end-time-crisis
+  motif_id: world_overrunning_flood_during_the_end_time_crisis
+  label: world-overrunning flood during the end-time crisis
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: high
+  rationale: A flood overrunning the world during an eschatological crisis fits catastrophic
+    destruction and possible renewal by flood.
+  cautions: If the passage emphasizes end-time omens without renewal, world_ages_cosmic_decline
+    or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - eschatological flood
+  - end-time world flood
+  - world-overrunning flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-stabilized-by-mountains-and-enlivened-by-heavenly-rain
+  motif_id: world_stabilized_by_mountains_and_enlivened_by_heavenly_rain
+  label: world stabilized by mountains and enlivened by heavenly rain
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mountains stabilizing the earth and rain giving life describe cosmological
+    ordering and sustaining creation.
+  cautions: Could also relate to cosmic_mountain or sacred_waters if the passage emphasizes
+    mountain-axis symbolism or rain as sacred water rather than world-ordering.
+  suggested_aliases:
+  - mountains stabilize the world
+  - heavenly rain enlivens the world
+  - cosmic stabilization by mountains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine creation with eschatology; reviewers should distinguish cosmic_origin,
+  world_ages_cosmic_decline, and flood_and_renewal by narrative function.
+- The three Norse primordial-body labels appear duplicative and likely belong under
+  the existing primordial_sacrifice group rather than separate groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    or over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1004
+  input_sha256: ab888305eb4b2b25207e0e53e3e5178af920624d9c209c83c771602ec28926ab
+

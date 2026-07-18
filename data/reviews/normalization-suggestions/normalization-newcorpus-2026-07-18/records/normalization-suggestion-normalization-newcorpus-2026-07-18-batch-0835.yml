@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0835
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forged-magical-animal-helper-rescues-the-hero-from-a-water-monster
+  motif_id: forged_magical_animal_helper_rescues_the_hero_from_a_water_monster
+  label: Forged magical animal helper rescues the hero from a water monster
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forged magical helper centers on crafted power used in a heroic rescue,
+    fitting sacred craft and artificial/magical construction.
+  cautions: Also overlaps animal_helpers, magical_animal_mount, and divine_warrior
+    if combat with the water monster is the main function; single occurrence is highly
+    specific.
+  suggested_aliases:
+  - forged_animal_helper
+  - magical_animal_helper_rescue
+  - crafted_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortress-defeat-followed-by-disguised-escape
+  motif_id: fortress_defeat_followed_by_disguised_escape
+  label: fortress defeat followed by disguised escape
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Escape after defeat can function as a journey ordeal or reversal in a
+    hero narrative.
+  cautions: The label may be an episode-specific plot summary rather than a reusable
+    motif; if disguise or deception is central, trickster may be secondary.
+  suggested_aliases:
+  - disguised_escape_after_defeat
+  - escape_in_disguise
+  - defeat_and_disguised_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-directional-chamber-of-animal-domains
+  motif_id: four_directional_chamber_of_animal_domains
+  label: four-directional chamber of animal domains
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A four-directional chamber may encode sacred space or cosmic ordering,
+    but the animal-domain function is unclear from the label alone.
+  cautions: Culturally specific Navajo cosmological material needs careful source
+    review; could fit axis_mundi, cosmic_origin, otherworld, or a local sacred geography
+    pattern.
+  suggested_aliases:
+  - four_direction_animal_chamber
+  - animal_domains_of_the_four_directions
+  - fourfold_animal_cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.free-intercourse-between-humans-and-animals
+  motif_id: free_intercourse_between_humans_and_animals
+  label: Free intercourse between humans and animals
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean easy communication, social relations, or sexual
+    relations between humans and animals, leading to different placements.
+  cautions: Ambiguous wording and potential sensitivity require human review; possible
+    mappings include shapeshifter, sacred_love, animal-ancestor origin, or a primordial
+    harmony theme not currently present.
+  suggested_aliases:
+  - human_animal_intercourse
+  - human_animal_relations
+  - free_communication_between_humans_and_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frightened-witness-misidentifies-ordinary-animals-as-dangerous-tools-or-attackers
+  motif_id: frightened_witness_misidentifies_ordinary_animals_as_dangerous_tools_or_attackers
+  label: Frightened witness misidentifies ordinary animals as dangerous tools or attackers
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif turns on distorted perception and misrecognition under fear
+    rather than animal symbolism itself.
+  cautions: May be a comic tale detail or trickster episode rather than sacred vision;
+    verify whether altered perception has narrative significance beyond a single joke.
+  suggested_aliases:
+  - fearful_misrecognition_of_animals
+  - frightened_misidentification
+  - ordinary_animals_seen_as_attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitive-animal-denied-shelter-and-killed-by-storm
+  motif_id: fugitive_animal_denied_shelter_and_killed_by_storm
+  label: Fugitive animal denied shelter and killed by storm
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: low
+  rationale: The denial of shelter to a vulnerable fugitive resembles a failed hospitality
+    or refuge obligation, with lethal consequence.
+  cautions: Animal identity and storm death may shift the meaning toward animal fable,
+    divine judgment, or weather-spirit punishment; source context is needed.
+  suggested_aliases:
+  - denied_shelter_to_fugitive_animal
+  - refusal_of_shelter_leads_to_death
+  - animal_fugitive_denied_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-chief-signaled-by-animals-at-first-kayak-trial
+  motif_id: future_chief_signaled_by_animals_at_first_kayak_trial
+  label: future chief signaled by animals at first kayak trial
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal signs identify a future leader during a formative trial, supporting
+    sacred or omen-based legitimacy.
+  cautions: If the focus is childhood ordeal rather than chiefly destiny, initiation
+    or miraculous_child may be better secondary mappings.
+  suggested_aliases:
+  - animal_omens_of_future_chief
+  - future_leader_signaled_by_animals
+  - leadership_destiny_revealed_by_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gambling-animal-people-lose-protective-household-goods
+  motif_id: gambling_animal_people_lose_protective_household_goods
+  label: Gambling animal people lose protective household goods
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Loss of protective goods through gambling suggests a moral or social-order
+    violation with protective consequences.
+  cautions: Could be a trickster or animal-people fable, a gambling taboo, or an origin
+    of household protection; label is too specific for confident placement.
+  suggested_aliases:
+  - gambling_loss_of_protective_goods
+  - animal_people_gambling_loss
+  - protective_household_goods_lost_by_gambling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-animal-helper-and-mount
+  motif_id: giant_animal_helper_and_mount
+  label: giant animal helper and mount
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A giant animal helper or mount functions as supernatural aid and guidance
+    for a human figure.
+  cautions: If transformation or species-boundary crossing is emphasized, shapeshifter
+    may be secondary; if mainly a mount in ordeal travel, hero_journey may also apply.
+  suggested_aliases:
+  - giant_animal_helper
+  - supernatural_animal_mount
+  - animal_helper_and_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-bird-egg-encounter
+  motif_id: giant_bird_egg_encounter
+  label: giant bird egg encounter
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names an encounter object/creature but does not specify its
+    narrative function.
+  cautions: Could be an episode-specific marvel, otherworld encounter, cosmic egg
+    variant, giant bird adventure, or sacred birth symbol; avoid mapping to cosmic_egg
+    unless creation or birth from the egg is explicit.
+  suggested_aliases:
+  - giant_bird_egg
+  - encounter_with_giant_bird_egg
+  - roc_egg_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-tale or adventure-episode
+  summaries; preserve as evidence details unless recurrence or clear function is confirmed.
+- For animal helper labels, distinguish supernatural aid from transformation, sacred
+  craft, and mere animal presence.
+- Do not infer transmission or shared origin from any placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; ambiguous and culturally specific items
+    require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0835
+  input_sha256: e0a8d1b142869dc854de6aa3c7a2be9343efb62a0c764f875f0e9d06b880b1ab
+

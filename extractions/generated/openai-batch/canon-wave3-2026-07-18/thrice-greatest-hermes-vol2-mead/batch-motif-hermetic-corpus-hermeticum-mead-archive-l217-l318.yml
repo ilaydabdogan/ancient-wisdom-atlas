@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l217-l318
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CONTENTS / CORP. HERM. IL (HI.) / CORP. HERM. III. (IV.) / THE SACRED SERMON;
+    lines 217-318
+  start: '217'
+  end: '318'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A contents-page passage lists Corpus Hermeticum entries and commentary
+    headings, including an entry to Asclepius, headings on gnosis and deity, The Sacred
+    Sermon with topics such as Trinity and Flood, and The Cup or Monad with topics
+    such as Baptism of the Mind, Holy Grail, Gnosis, and Ancient Path.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents page listing Corpus Hermeticum entries and commentary
+    topics with page numbers.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:2
+  text: One listed Corpus Hermeticum entry is titled as addressed to Asclepius.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Commentary headings for the Asclepius entry include an introduction to gnosis
+    of the nature of all things, space as a plenum, the spouse of deity, spirit, and
+    wife.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The passage lists a Corpus Hermeticum entry titled The Sacred Sermon and gives
+    commentary topics including Trinity, Nicolaitans, Books of the Chaldseans, and
+    Flood.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists a Corpus Hermeticum entry titled The Cup or Monad and gives
+    commentary topics including Baptism of the Mind, Holy Grail, Hating of the Body,
+    Gnosis and its Blessings, and Ancient Path.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Asclepius
+  description: Named as the addressee in a listed section title.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Deity
+  description: Named in the commentary heading The Spouse of Deity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: addressee
+  assigned_to:
+  - fig:1
+  basis: The contents heading reads To Asclepius.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine referent in relational heading
+  assigned_to:
+  - fig:2
+  basis: The commentary heading names Deity in relation to a spouse.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Cup or Monad
+  literal_form: cup; monad
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Holy Grail
+  literal_form: Holy Grail
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Flood
+  literal_form: flood
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Baptism of the Mind
+  literal_form: baptism of the mind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Trinity
+  literal_form: trinity; triad
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Gnosis or wisdom knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The contents include headings on gnosis of the nature of all things and on
+    gnosis and its blessings.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage is only a contents list; it does not provide the underlying
+    doctrinal exposition.
+- id: motif:2
+  label: Mental baptism or initiation
+  taxonomy_refs:
+  - initiation
+  basis: The Cup or Monad section includes the commentary heading Baptism of the Mind,
+    with nearby headings on the Ancient Path and Gnosis.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The heading suggests an initiatory topic, but no ritual sequence is present
+    in this passage.
+- id: motif:3
+  label: Flood theme
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The Sacred Sermon commentary topics include The Flood.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only the word Flood is present; renewal or survival details are not given
+    in this passage.
+- id: motif:4
+  label: Sacred spouse or marriage language around deity
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The commentary headings include The Spouse of Deity and He who is without
+    a Wife is Half a Man.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives headings only and does not narrate a marriage or union.
+- id: motif:5
+  label: Sacred cup or vessel
+  taxonomy_refs: []
+  basis: The section title The Cup or Monad is followed by a commentary heading The
+    Holy Grail.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No exact available taxonomy reference for a generic cup or Grail vessel
+    is supplied; the passage is a contents list.
+comparison_claims:
+- id: claim:1
+  claim: The contents place The Holy Grail as a commentary topic under The Cup or
+    Monad, supporting only a cautious editorial comparison between a Hermetic cup/monad
+    topic and a Grail or sacred-vessel pattern.
+  claim_level: same_motif
+  target: Holy Grail / sacred vessel motif
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only a table-of-contents heading; it does not
+    state the nature, history, or extent of the comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 217-245
+  quote_or_summary: The contents list Corpus Hermeticum entries including The General
+    Sermon and a section titled To Asclepius.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 246-261
+  quote_or_summary: '"An Introduction to the Gnosis of the Nature of All Things"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 262-283
+  quote_or_summary: '"The Spouse of Deity"; "Cod is Cause that Spirit is"; "He who
+    is without a Wife is Half a Man"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 284-303
+  quote_or_summary: Under Corp. Herm. III. (IV.), The Sacred Sermon, commentary topics
+    include Text and Title, The Trinity, the Nicolaitans, the Books of the Chaldseans,
+    and The Flood.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 304-318
+  quote_or_summary: Under Corp. Herm. IV. (V.), The Cup or Monad, commentary topics
+    include Baptism of the Mind, The Holy Grail, Hating of the Body, Gnosis and its
+    Blessings, and the Ancient Path.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Extraction is limited because the supplied passage is a table of contents
+    rather than a narrative or doctrinal passage. Several motif candidates are based
+    on commentary headings only and require human review against the full sections.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes were extracted because the passage is a contents page. OCR-like spellings in the supplied passage were preserved where quoted.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l217-l318
+  passage_sha256=a3a5480283fe851fecb904005ec3a6bf44e1d5f171712681cf9dac0f2d6c7ce2
+

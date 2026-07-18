@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0478
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.burning-bush-vision
+  motif_id: burning_bush_vision
+  label: Burning bush vision
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A burning bush vision is a direct manifestation of sacred presence and
+    revelation to a witness.
+  cautions: May also index secondarily under sacred_fire or sacred_knowledge depending
+    on passage emphasis.
+  suggested_aliases:
+  - burning bush theophany
+  - sacred fire vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-of-named-places-and-trees-by-a-named-agent
+  motif_id: burning_of_named_places_and_trees_by_a_named_agent
+  label: burning of named places and trees by a named agent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to be an episode-specific catalogue of named places,
+    trees, and an agent rather than a reusable symbolic motif.
+  cautions: If the burning functions as sacred judgment, destructive fire, or etiological
+    landscape formation, remap after source review.
+  suggested_aliases:
+  - named-place burning episode
+  - burned places and trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendar-period-personified-as-a-named-ruler
+  motif_id: calendar_period_personified_as_a_named_ruler
+  label: calendar period personified as a named ruler
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Personifying a calendar period as a ruler treats time as a sacred or
+    agentive order.
+  cautions: Maya calendrical concepts are culturally specific; verify whether this
+    is a mythic motif, calendrical office, deity name, or scholarly description.
+  suggested_aliases:
+  - personified calendar period
+  - calendar ruler
+  - sacred time personified
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-or-summons-to-named-persons
+  motif_id: call_or_summons_to_named_persons
+  label: call or summons to named persons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A call or summons to named persons is too generic and episode-specific
+    without evidence of divine call, ritual summons, or transformative function.
+  cautions: If the call initiates a quest or divine vocation, map to hero_journey
+    or initiation with divine_call as alias.
+  suggested_aliases:
+  - summons to named persons
+  - named-person call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-to-a-named-recipient
+  motif_id: call_to_a_named_recipient
+  label: call to a named recipient
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label records a generic speech event directed to a named figure rather
+    than a clear motif.
+  cautions: If the source shows a sacred summons, prophetic call, or call to adventure,
+    remap to initiation or hero_journey.
+  suggested_aliases:
+  - named recipient call
+  - address to named recipient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-named-rock-formation
+  motif_id: canoe_named_rock_formation
+  label: canoe-named rock formation
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label fits the existing etiological landscape/place-naming cluster
+    under cosmic origin.
+  cautions: If it only notes a place name without an origin story or supernatural
+    formation, exclude as a toponymic artifact.
+  suggested_aliases:
+  - canoe rock place-name etiology
+  - rock formation named for canoe
+  - etiological landscape naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-woman-threatened-but-spared-by-counsel
+  motif_id: captive_woman_threatened_but_spared_by_counsel
+  label: captive woman threatened but spared by counsel
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve mercy, counsel, captivity, gendered violence,
+    or plot resolution, but the motif function is unclear.
+  cautions: Review source context carefully; avoid flattening a culturally and gender-sensitive
+    episode into generic mercy or wisdom without evidence.
+  suggested_aliases:
+  - captive spared by counsel
+  - threatened captive woman spared
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.casting-off-ornaments-as-refusal
+  motif_id: casting_off_ornaments_as_refusal
+  label: Casting off ornaments as refusal
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Casting off ornaments may signify refusal of marriage, status, wealth,
+    or social obligation; the target motif depends on context.
+  cautions: Could fit sacred_love, sacred_exchange, renunciation, or a passage-specific
+    gesture; source evidence is needed.
+  suggested_aliases:
+  - ornaments cast off in refusal
+  - discarding ornaments as rejection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogued-named-rings-and-weapon
+  motif_id: catalogued_named_rings_and_weapon
+  label: catalogued named rings and weapon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to a catalogue of named objects rather than the objects'
+    narrative or sacred function.
+  cautions: If the rings or weapon confer authority, protection, fate, or recognition,
+    remap to sacred_treasures or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - catalogue of named rings and weapon
+  - named treasure catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catastrophe-remembered-through-place-name-and-proverb
+  motif_id: catastrophe_remembered_through_place_name_and_proverb
+  label: catastrophe remembered through place-name and proverb
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A catastrophe preserved in a place-name fits the existing etiological
+    place-naming and landscape-memory cluster.
+  cautions: If the catastrophe is world-destroying or renewal-producing, flood_and_renewal
+    may be a better primary mapping; if only proverbial memory, consider excluding
+    as textual artifact.
+  suggested_aliases:
+  - catastrophe place-name etiology
+  - disaster remembered in proverb
+  - place-name catastrophe memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be generated from named-episode or catalogue
+  wording; final placement should check whether the source evidence contains a reusable
+  motif function.
+- Do not infer transmission or borrowing from shared placement; suggestions are only
+  normalization aids.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional batch suggestions; human review recommended for culturally specific
+    calendrical, Hawaiian place-name, and gendered captivity/refusal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0478
+  input_sha256: 873c263e8e4a552386e69c861aafa73502df40cceb1099515f1298c22f15ee6b
+

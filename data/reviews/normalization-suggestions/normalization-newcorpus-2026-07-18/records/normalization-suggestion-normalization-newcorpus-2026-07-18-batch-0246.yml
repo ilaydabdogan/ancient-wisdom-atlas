@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0246
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.angels-as-subordinate-servants-not-divine-offspring
+  motif_id: angels_as_subordinate_servants_not_divine_offspring
+  label: Angels as subordinate servants, not divine offspring
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Angels as servants can fit messenger or agent roles under divine intervention,
+    but the label mainly states theological classification.
+  cautions: May be doctrinal polemic or commentary rather than a narrative motif;
+    verify passage evidence before indexing.
+  suggested_aliases:
+  - angelic_servants
+  - angels_as_divine_agents
+  - subordinate_angelic_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-ally-vows-to-guard-the-hero-s-beloved
+  motif_id: animal_ally_vows_to_guard_the_hero_s_beloved
+  label: animal ally vows to guard the hero's beloved
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes animal helpers; the animal ally provides
+    protective aid to the hero's beloved.
+  cautions: If the vow or beloved relationship is more central than supernatural aid,
+    sacred_exchange or sacred_love may be secondary.
+  suggested_aliases:
+  - animal_helper_guards_beloved
+  - protective_animal_ally
+  - animal_guardian_of_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-behavior-explained-by-search-for-lost-sacred-object
+  motif_id: animal_behavior_explained_by_search_for_lost_sacred_object
+  label: animal behavior explained by search for lost sacred object
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: low
+  rationale: A lost sacred object fits sacred treasures, but the label is etiological
+    and focused on explaining animal behavior.
+  cautions: Could be an animal etiological tale rather than a sacred-object motif;
+    source context needed before mapping.
+  suggested_aliases:
+  - lost_sacred_object_search_explains_animal_behavior
+  - animal_etiology_from_lost_sacred_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-companion-at-a-sacred-or-fearful-threshold
+  motif_id: animal_companion_at_a_sacred_or_fearful_threshold
+  label: Animal companion at a sacred or fearful threshold
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: The animal is positioned at a liminal sacred or fearful boundary, aligning
+    with threshold figures and passage scenes.
+  cautions: If the animal aids rather than guards or tests passage, divine_intervention/animal_helpers
+    may be a better secondary mapping.
+  suggested_aliases:
+  - animal_at_threshold
+  - animal_companion_at_liminal_boundary
+  - threshold_animal_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-consecration-through-release-and-restricted-use
+  motif_id: animal_consecration_through_release_and_restricted_use
+  label: animal consecration through release and restricted use
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Consecrating an animal by release and restrictions is a ritual/legal
+    prohibition pattern.
+  cautions: May also relate to sacrifice if the consecrated animal is offered, or
+    covenant if framed as divine ordinance.
+  suggested_aliases:
+  - consecrated_animal_restriction
+  - released_sacred_animal
+  - ritual_restriction_on_consecrated_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-cursed-by-sun
+  motif_id: animal_cursed_by_sun
+  label: animal cursed by Sun
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a curse pronounced or effected by a sacred celestial
+    power.
+  cautions: If the curse explains animal form or behavior, shapeshifter or etiological-origin
+    indexing may be secondary; Sun specificity should remain evidence detail.
+  suggested_aliases:
+  - solar_curse_on_animal
+  - sun_curses_animal
+  - animal_under_celestial_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-deity-commands-temple-foundation
+  motif_id: animal_deity_commands_temple_foundation
+  label: Animal deity commands temple foundation
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine command establishes a temple foundation, fitting sacred construction
+    directed by sacred agency.
+  cautions: Could also map to theophany or divine_intervention if the manifestation/command
+    is the main motif rather than the temple foundation.
+  suggested_aliases:
+  - divine_command_to_found_temple
+  - animal_deity_directs_temple_building
+  - temple_foundation_by_divine_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-drawn-cart-determines-the-sacred-building-site
+  motif_id: animal_drawn_cart_determines_the_sacred_building_site
+  label: animal-drawn cart determines the sacred building site
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The cart divines or designates where a sacred structure should be built,
+    a site-selection variant of sacred construction.
+  cautions: If the focus is omen/divination rather than building, prophecy_divination
+    may be a better secondary group.
+  suggested_aliases:
+  - sacred_site_chosen_by_animal_cart
+  - animal_drawn_site_selection
+  - ritual_cart_selects_temple_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-drawn-vehicle-of-a-goddess
+  motif_id: animal_drawn_vehicle_of_a_goddess
+  label: Animal-drawn vehicle of a goddess
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: over_specific_label
+  confidence: low
+  rationale: A goddess's animal-drawn vehicle is an attribute of a divine feminine
+    figure, but may be descriptive iconography only.
+  cautions: Likely too specific as a motif unless the vehicle performs a narrative
+    or ritual function; preserve as evidence detail if needed.
+  suggested_aliases:
+  - goddess_vehicle_drawn_by_animals
+  - animal_drawn_divine_vehicle
+  - goddess_chariot_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-familiar-grants-strength-with-reciprocal-vulnerability-and-food-taboo
+  motif_id: animal_familiar_grants_strength_with_reciprocal_vulnerability_and_food_taboo
+  label: Animal familiar grants strength with reciprocal vulnerability and food taboo
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reciprocal vulnerability with an animal familiar resembles life, strength,
+    or safety bound to an external animal counterpart.
+  cautions: Food taboo and familiar relationship may also involve sacred_law or divine_intervention;
+    handle culturally specific totemic evidence carefully.
+  suggested_aliases:
+  - animal_familiar_strength_and_vulnerability
+  - strength_bound_to_animal_familiar
+  - reciprocal_animal_life_token_with_food_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involve animals as divine agents, familiars, or ritual indicators;
+  avoid creating a broad animal-symbol group unless recurrence shows stable narrative
+  functions beyond local details.
+- Single-occurrence, highly specific labels should generally remain granular evidence
+  under existing groups or receive human review before promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; verify source passages for ritual, narrative,
+    or commentary function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0246
+  input_sha256: ed05ef76cfc3b031c846bed9985cbee44e05b3974274edc7e19b0d20ded98894
+

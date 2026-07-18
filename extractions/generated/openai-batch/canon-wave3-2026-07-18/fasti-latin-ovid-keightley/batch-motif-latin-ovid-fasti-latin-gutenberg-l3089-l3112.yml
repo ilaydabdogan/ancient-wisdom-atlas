@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l3089-l3112
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: JUNIUS. LIB. VI. / P. OVIDII NASONIS FASTORUM / LIBER I. / LIBER II.; lines
+    3089-3112
+  start: '3089'
+  end: '3112'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains why the constellations Corvus, Anguis, and Crater
+    are grouped together. Phoebus, preparing a solemn feast for Jove, sends his bird
+    to bring spring water in a golden bowl. The bird delays under a fig tree until
+    the fruit ripens, then returns with a water-snake and falsely blames it for blocking
+    the water. Phoebus exposes the lie, imposes a punishment connected with denial
+    of spring water, and the bird, snake, and bowl shine together as enduring stars.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three celestial forms named Corvus, Anguis, and Crater are described as adjacent,
+    with the Crater between the other two.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator states an intention to explain why the three are associated.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Phoebus is preparing a solemn festival for Jove.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Phoebus orders his bird to bring water from living springs so that the sacred
+    rites are not delayed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bird carries a golden crater with its curved feet and flies through the
+    air.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The bird finds a fig tree with hard, unready fruit and remains beneath the
+    tree until the fruit becomes sweet.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After eating, the bird seizes a long water-snake and returns to its master
+    with a fabricated explanation.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The bird claims that the seized creature blocked the living waters and prevented
+    the bird’s task.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Phoebus says the bird adds lies to its fault and has tried to deceive a prophetic
+    god.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Phoebus declares that while the milky fig clings to the tree, the bird will
+    not drink cold water from any spring.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The snake, bird, and crater are described as shining together as enduring
+    memorials of an ancient deed.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Phoebus
+  description: A god who prepares rites for Jove, commands the bird, identifies its
+    lie, and pronounces the punishment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Jove
+  description: The divine recipient for whom Phoebus is preparing a solemn festival.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Corvus / Avis
+  description: Phoebus’s bird, sent for spring water with a golden crater; it delays
+    for figs, lies about the delay, and is included among the joined stars.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Anguis / Hydrus
+  description: A long water-snake seized by the bird and falsely blamed as the obstacle
+    to the springs; it is included among the joined stars.
+  role_refs:
+  - role:7
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: divine commander
+  assigned_to:
+  - fig:1
+  basis: Phoebus orders his bird to bring water from living springs for the sacred
+    rites.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: divine judge of deceit
+  assigned_to:
+  - fig:1
+  basis: Phoebus recognizes the falsehood and declares the bird’s punishment.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: festival recipient
+  assigned_to:
+  - fig:2
+  basis: The solemn festival is prepared for Jove.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sent messenger
+  assigned_to:
+  - fig:3
+  basis: The bird is sent to fetch water and carries the golden crater through the
+    air.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: negligent and deceptive servant
+  assigned_to:
+  - fig:3
+  basis: The bird forgets the command, waits for figs, and later offers fabricated
+    words to its master.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: celestial memorial figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The bird and snake are among the forms described as shining together as memorial
+    stars.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: false scapegoat
+  assigned_to:
+  - fig:4
+  basis: The bird claims the water-snake blocked the springs and prevented the errand.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: joined celestial trio
+  literal_form: Corvus, Anguis, and Crater as adjacent stars or constellations
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:2
+  label: golden crater
+  literal_form: inauratum cratera, a golden bowl or mixing-vessel carried by the bird
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: living spring water
+  literal_form: water from living springs and cold spring water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: fig tree and ripening figs
+  literal_form: a dense fig tree with hard fruit that slowly becomes sweet; later
+    a milky fig clinging to the tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: water-snake
+  literal_form: long hydrus / Anguis seized by the bird
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Celestial association introduced
+  summary: The passage names Corvus, Anguis, and Crater as a grouped celestial trio
+    and announces an explanation for their association.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Phoebus sends the bird for ritual water
+  summary: Phoebus prepares a solemn festival for Jove and sends his bird to fetch
+    water from living springs in a golden crater.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Delay beneath the fig tree
+  summary: The bird encounters unripe figs, neglects its command, and waits under
+    the tree until the fruit becomes sweet.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: False explanation with the snake
+  summary: After eating, the bird seizes a water-snake, returns to Phoebus, and falsely
+    claims the snake blocked the springs and delayed the task.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Punishment and celestial memorial
+  summary: Phoebus denounces the lie, imposes a punishment denying the bird spring
+    water during the time of the milky fig, and the bird, snake, and crater shine
+    together as lasting memorial stars.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: etiology of associated constellations
+  taxonomy_refs: []
+  basis: The passage asks why Corvus, Anguis, and Crater are associated and concludes
+    that the bird, snake, and crater shine together as enduring memorials of the deed.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: The supplied taxonomy list does not include a specific catasterism or
+    constellation-etiology category.
+- id: motif:2
+  label: failed divine errand through appetite and delay
+  taxonomy_refs: []
+  basis: Phoebus sends the bird to fetch spring water, but it waits under a fig tree
+    until the fruit ripens.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif label rather than a supplied taxonomy reference.
+- id: motif:3
+  label: deceptive excuse using a captured creature
+  taxonomy_refs: []
+  basis: The bird returns with a water-snake and falsely states that the snake blocked
+    the living waters and prevented the errand.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage supports deception and scapegoating, but does not explicitly
+    frame the bird as a trickster type.
+- id: motif:4
+  label: divine judgment punishing deceit
+  taxonomy_refs:
+  - divine_judgment
+  basis: Phoebus identifies the lie as an added fault and pronounces a punishment
+    denying the bird spring water for a stated period.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The punishment is specific to the bird and tied to the fig-tree condition;
+    broader theological implications are not inferred.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3089-3092
+  quote_or_summary: Corvus, Anguis, and Crater are described as three adjacent stars
+    or constellations; the narrator says he will explain why the three are associated.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3093-3094
+  quote_or_summary: Phoebus is preparing a solemn festival for Jove.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3095-3096
+  quote_or_summary: Phoebus tells his bird to go, avoid delaying the pious rites,
+    and bring water from living springs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3097-3098
+  quote_or_summary: Corvus takes up a golden crater with curved feet and flies high
+    through the air.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3099-3102
+  quote_or_summary: A dense fig tree still has hard fruit; the bird tests it, finds
+    it not ready, forgets the order, and waits beneath the tree until the fruit becomes
+    sweet.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3103-3106
+  quote_or_summary: When full, the bird seizes a long water-snake, returns to its
+    master, and reports fabricated words claiming that this creature blocked the living
+    waters and the bird’s duty.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3107-3110
+  quote_or_summary: Phoebus asks whether the bird adds lies to its fault and dares
+    deceive a prophetic god; he declares that while the milky fig clings to the tree,
+    the bird will drink no cold spring water.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3111-3112
+  quote_or_summary: After Phoebus speaks, the snake, bird, and crater are said to
+    shine as joined stars, lasting memorials of the ancient deed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the passage. Motif labels are passage-level
+    and mostly not tied to supplied taxonomy except for divine_judgment. No comparison
+    claims were made because the passage does not itself compare this story to another
+    text, tradition, or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All fields are based only on the supplied Latin passage and metadata.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l3089-l3112
+  passage_sha256=0cfff9dd28e5478171d13236c6ee2fd12c0b1adcfef8c7c399cfcd1225e7ebe3
+

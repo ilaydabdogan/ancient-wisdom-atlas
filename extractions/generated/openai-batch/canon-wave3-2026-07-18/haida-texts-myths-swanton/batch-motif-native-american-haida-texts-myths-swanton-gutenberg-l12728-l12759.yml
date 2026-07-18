@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l12728-l12759
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: THE STORY OF HIM WHOSE SISTER BROUGHT HIM FOOD FROM THE LAND OTTERS / HOW
+    SOMETHING PULLED A ROW OF EAGLES INTO THE WATER / THE STORY ABOUT HIM WHO DESTROYED
+    HIS NINE NEPHEWS / THE STORY OF ONE WHO SAW AN EAGLE TOWN; lines 12728-12759
+  start: '12728'
+  end: '12759'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed man loses his property and his clansmen's property through gambling,
+    leaves in shame, goes into the woods, climbs a mountain, and comes to a town of
+    eagles. He lives with the eagles, observes their fishing and whale-killing, receives
+    a warning about how much of a net to put into the sea, and later descends home,
+    gambles successfully, and repays his debts. A note says the story was originally
+    probably longer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man begins gambling, loses his own property, then bids and loses much
+    of his clansmen's property, and becomes ashamed to enter the house.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: He goes to the end of town, enters the woods, and climbs a mountain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Eagles are wheeling on the mountain before him, and he comes to a big town.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Eagles sit on something like a pole in front of the town and look into the
+    sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: He begins living with the eagles, and one eagle wipes something common out
+    of his eyes with the feather at the tip of its wing.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The eagles say they are going fishing and kill one whale every evening.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When he fishes with a net, the eagles tell him not to put the whole net into
+    the sea; he lets out two meshes, and something caught in it carries it away.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the fishing incident he descends home, gambles again, wins, and pays
+    all his debts.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The printed text notes that the story must originally have been considerably
+    longer.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed gambler who visits the eagle town
+  description: A man who loses property through gambling, leaves town, climbs a mountain,
+    lives among eagles, returns home, wins at gambling, and repays his debts.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: eagles of the eagle town
+  description: Eagles associated with a big town on a mountain; they sit by the town,
+    look into the sea, host the man, fish, and kill whales.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: eagle who wipes the man's eyes
+  description: One of the eagles who uses a feather at the very tip of its wing to
+    wipe something common out of the man's eyes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: whale killed each evening
+  description: A whale killed by the eagles each evening when they go fishing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: gambler and debtor
+  assigned_to:
+  - fig:1
+  basis: He loses property through gambling, later wins, and pays his debts.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: visitor to eagle town
+  assigned_to:
+  - fig:1
+  basis: He leaves town, climbs the mountain, reaches the big town, and lives with
+    the eagles.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: eagle hosts and whale fishers
+  assigned_to:
+  - fig:2
+  basis: The eagles allow him to live with them, go fishing, and kill a whale every
+    evening.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: eye-wiping eagle
+  assigned_to:
+  - fig:3
+  basis: One eagle wipes something common out of the man's eyes with its wingtip feather.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: prey or catch
+  assigned_to:
+  - fig:4
+  basis: The whales are killed by the eagles during their fishing.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: returning winner
+  assigned_to:
+  - fig:1
+  basis: After descending home, he gambles again, wins, and repays his debts.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: the mountain climbed by the man, where eagles wheel and a big town
+    is found
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sea or water
+  literal_form: the sea into which the eagles look and into which the fishing net
+    is partly put
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: pole-like perch
+  literal_form: something like a pole in front of the eagle town on which eagles sit
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wingtip feather
+  literal_form: the feather on the very tip of an eagle's wing used to wipe something
+    from the man's eyes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fishing net and two meshes
+  literal_form: a net used by the man, of which he lets two meshes into the sea after
+    being told not to put in the whole net
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gambling loss and shame
+  summary: The man gambles, loses his own property and much of his clansmen's property,
+    and is ashamed to enter the house.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Departure and ascent to eagle town
+  summary: He leaves the town, enters the woods, climbs a mountain, sees eagles, and
+    comes to a big town.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Life among eagle fishers
+  summary: At the eagle town, eagles sit by the town looking into the sea; the man
+    lives with them, one eagle wipes his eyes, and the eagles kill a whale every evening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Net fishing, descent, and repayment
+  summary: The man fishes with a net under a restriction, loses what he catches when
+    it carries the net away, then descends home, wins at gambling, and pays his debts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: departure after gambling loss and shame
+  taxonomy_refs:
+  - departure
+  basis: The man loses property through gambling, becomes ashamed, and leaves town
+    for the woods and mountain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a literal departure
+    but does not frame it as a formal quest.
+- id: motif:2
+  label: mountain ascent to a nonhuman town
+  taxonomy_refs:
+  - ascent
+  basis: The man climbs a mountain where eagles are wheeling and comes to a big town
+    associated with them.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The text does not explicitly identify the town as supernatural, only as
+    a town where eagles are present and active.
+- id: motif:3
+  label: residence among eagle hosts
+  taxonomy_refs: []
+  basis: The man begins to live with the eagles, who fish and kill whales every evening.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No transformation of the man or eagles is stated in the passage.
+- id: motif:4
+  label: eye-clearing by an eagle's feather
+  taxonomy_refs: []
+  basis: One eagle wipes something common out of the man's eyes with a feather at
+    the tip of its wing.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The effect of the eye-wiping is not explained in the surviving passage.
+- id: motif:5
+  label: restricted use of a fishing net
+  taxonomy_refs:
+  - initiation
+  basis: When the man fishes with the eagles, they tell him not to put the whole net
+    into the sea; he lets out two meshes, and something caught carries it away.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The initiation taxonomy is only a cautious candidate because the text
+    gives an instruction or restriction but does not explicitly name a rite or initiation.
+- id: motif:6
+  label: return with restored success
+  taxonomy_refs:
+  - return
+  basis: After living with the eagles and fishing, the man descends home, wins at
+    gambling, and pays all his debts.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The causal link between the eagle-town episode and the later gambling
+    success is implied only by sequence, not explained.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 12728-12731
+  quote_or_summary: Title and transmission note identify the story as 'The Story of
+    One Who Saw an Eagle Town,' told by Abraham from a Ninstints source.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12733-12736
+  quote_or_summary: The man gambles, loses his property, then loses much property
+    of his clansmen and is ashamed to enter the house.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 12738-12741
+  quote_or_summary: He goes to the end of town, enters the woods, climbs a mountain,
+    sees eagles wheeling, and reaches a big town.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12743-12748
+  quote_or_summary: Eagles sit on a pole-like object before the town and look into
+    the sea; he lives with them; one eagle wipes something from his eyes with a wingtip
+    feather; the eagles fish and kill a whale every evening.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12750-12755
+  quote_or_summary: He fishes with a net, is told not to put the whole net into the
+    sea, lets out two meshes, and something caught carries it away; later he descends
+    home, wins at gambling, and repays his debts.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: line 12759
+  quote_or_summary: '"Originally this story must have been considerably longer."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and explicitly notes that the story was probably once
+    longer; literal sequence is clear, but interpretation of the eye-wiping, the net
+    restriction, and the relation between the eagle-town visit and later gambling
+    success requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this account with another tradition or motif family beyond the extracted candidate motifs.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l12728-l12759
+  passage_sha256=07ef6a505684edaed974f0ac2fb1647f6843f05da4e5275ba4b11c97ccddf813
+

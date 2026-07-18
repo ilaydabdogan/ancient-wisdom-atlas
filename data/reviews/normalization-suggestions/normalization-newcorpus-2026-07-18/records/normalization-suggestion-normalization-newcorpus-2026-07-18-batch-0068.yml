@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0068
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foretold-death-by-sword
+  motif_id: foretold_death_by_sword
+  label: foretold death by sword
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: A foretold death by a specific means fits the broader death-by-destiny
+    pattern.
+  cautions: Could also involve prophecy_divination if the emphasis is on the prediction
+    method rather than unavoidable death.
+  suggested_aliases:
+  - foretold death by weapon
+  - predicted death by sword
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-death-fulfilled-by-the-named-agent-despite-precautions
+  motif_id: foretold_death_fulfilled_by_the_named_agent_despite_precautions
+  label: Foretold death fulfilled by the named agent despite precautions
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on unavoidable foretold death fulfilled despite attempts
+    to prevent it.
+  cautions: Named-agent detail should be preserved as evidence; avoid treating the
+    prediction itself as transmission evidence.
+  suggested_aliases:
+  - fate fulfilled despite precautions
+  - foretold death by named agent
+  - inescapable predicted death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-fixed-death-date
+  motif_id: foretold_fixed_death_date
+  label: foretold fixed death date
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: high
+  rationale: A fixed, foretold death date is a clear form of death governed by destiny.
+  cautions: If the passage focuses on astrology, oracle procedure, or calendrical
+    calculation, prophecy_divination may be a secondary fit.
+  suggested_aliases:
+  - appointed death date
+  - fixed time of death
+  - foreknown death date
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-non-return-and-distant-burial
+  motif_id: foretold_non_return_and_distant_burial
+  label: foretold non-return and distant burial
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The non-return and burial away from home appear as foretold death-destiny
+    outcomes.
+  cautions: Could also index under heroic_funeral_rites if the burial location or
+    memorialization is the main motif.
+  suggested_aliases:
+  - foretold death away from home
+  - predicted distant burial
+  - foretold failure to return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-royal-death-at-named-place
+  motif_id: foretold_royal_death_at_named_place
+  label: foretold royal death at named place
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: A ruler's death foretold at a fixed place fits inescapable death by destiny.
+  cautions: Royal status may also matter for royal_legitimacy if the death affects
+    succession or sacred kingship.
+  suggested_aliases:
+  - foretold death at appointed place
+  - royal death prophecy
+  - predicted kingly death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-visitation-before-passage-to-deathless-worlds
+  motif_id: foretold_visitation_before_passage_to_deathless_worlds
+  label: Foretold visitation before passage to deathless worlds
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The passage to deathless worlds suggests a postmortem or death-transcending
+    journey to another realm.
+  cautions: Foretold visitation may involve prophecy or divine intervention; review
+    whether this is afterlife navigation, liberation, or a living otherworld visit.
+  suggested_aliases:
+  - passage to deathless worlds
+  - foretold otherworld visitation
+  - predicted transition to immortal realms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forewarning-of-the-young-warrior-s-death
+  motif_id: forewarning_of_the_young_warrior_s_death
+  label: forewarning of the young warrior's death
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning of a warrior's impending death fits the foreknown-doom aspect
+    of death by fate.
+  cautions: If the narrative emphasizes heroic duty, battlefield honor, or lament,
+    divine_warrior or lament_and_mourning may be secondary mappings.
+  suggested_aliases:
+  - forewarned warrior death
+  - young warrior's foretold doom
+  - warrior death omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formation-of-gentes-through-adoption-captivity-and-descent
+  motif_id: formation_of_gentes_through_adoption_captivity_and_descent
+  label: Formation of gentes through adoption, captivity, and descent
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social-group origins through kinship, captivity, and
+    descent, not clearly death or afterlife.
+  cautions: Culturally sensitive and likely source-dependent; may fit people-origin
+    etiologies under cosmic_origin, but adoption/captivity details require human review.
+  suggested_aliases:
+  - formation of clans through adoption and descent
+  - origin of gentes through captivity and descent
+  - social group formation by descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.former-terror-reversed-into-shame-among-the-dead
+  motif_id: former_terror_reversed_into_shame_among_the_dead
+  label: Former terror reversed into shame among the dead
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A feared figure becoming shamed among the dead suggests postmortem moral
+    reversal or judgment.
+  cautions: If the passage mainly describes underworld status rather than moral reckoning,
+    afterlife_passage may be a better secondary group.
+  suggested_aliases:
+  - postmortem reversal of power
+  - shame among the dead
+  - terror humbled in death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fragility-and-mortality-of-the-body
+  motif_id: fragility_and_mortality_of_the_body
+  label: fragility and mortality of the body
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a contemplative or doctrinal theme about impermanence rather
+    than a clear narrative motif.
+  cautions: May belong under sacred_knowledge, mystical_quest, or a future impermanence/mortality-contemplation
+    group depending on passage evidence.
+  suggested_aliases:
+  - bodily impermanence
+  - mortality of the body
+  - contemplation of bodily fragility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are prophecy-of-death variants; death_by_fate is preferred
+  when the label emphasizes unavoidable death rather than the technique of prediction.
+- Single-occurrence, culturally specific labels should preserve local evidence details
+  and receive human review before any taxonomy promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; verify against source passages, especially for
+    Navajo social-formation and Buddhist mortality labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0068
+  input_sha256: e033d9f7934affa32573f958afb2bfa08830cb143c43ae20f8f9191b67f6bf4a
+

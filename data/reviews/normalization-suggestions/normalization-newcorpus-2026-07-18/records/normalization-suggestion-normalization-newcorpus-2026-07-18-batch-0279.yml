@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0279
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.directional-ritual-circle-with-eastern-opening
+  motif_id: directional_ritual_circle_with_eastern_opening
+  label: Directional ritual circle with eastern opening
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a structured ritual boundary and directional rule,
+    which may fit ritual law or apotropaic protection.
+  cautions: Single occurrence and culturally specific Navajo ritual geometry require
+    source-sensitive review; do not collapse into generic circle or axis symbolism
+    without evidence.
+  suggested_aliases:
+  - ritual_circle_with_eastern_opening
+  - directional_ritual_boundary
+  - east_opening_ritual_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.discipline-of-prayer-under-opposition
+  motif_id: discipline_of_prayer_under_opposition
+  label: Discipline of prayer under opposition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Persistent prayer under resistance functions as disciplined spiritual
+    practice on an interior or devotional path.
+  cautions: If the passage emphasizes legal duty or communal norm rather than interior
+    discipline, sacred_law or covenant may be better secondary placements.
+  suggested_aliases:
+  - steadfast_prayer_under_opposition
+  - persevering_prayer
+  - devotional_discipline_under_pressure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disenchantment-attempted-through-ritual-circle-and-sacred-writing
+  motif_id: disenchantment_attempted_through_ritual_circle_and_sacred_writing
+  label: Disenchantment attempted through ritual circle and sacred writing
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual circle and sacred writing used to undo enchantment fits protective
+    or apotropaic ritual practice already folded under sacred_law.
+  cautions: Could also involve sacred_knowledge or curse_blessing_speech if the written
+    words themselves perform the disenchantment; preserve the ritual mechanics as
+    evidence detail.
+  suggested_aliases:
+  - ritual_disenchantment_by_sacred_writing
+  - protective_circle_and_sacred_text
+  - apotropaic_writing_against_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dismemberment-of-a-monstrous-enemy-by-divine-weapons
+  motif_id: dismemberment_of_a_monstrous_enemy_by_divine_weapons
+  label: dismemberment of a monstrous enemy by divine weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A monstrous enemy destroyed by divine weapons is a sacred combat pattern
+    centered on divine or heroic victory over a threat.
+  cautions: Do not map to primordial_sacrifice unless the enemy’s dismembered body
+    creates or renews the cosmos; here the label emphasizes combat, not creation.
+  suggested_aliases:
+  - monster_dismembered_by_divine_weapons
+  - divine_weapon_slaying_of_monster
+  - sacred_combat_with_monstrous_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distinct-communal-sacred-day
+  motif_id: distinct_communal_sacred_day
+  label: Distinct communal sacred day
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A marked communal sacred day belongs with ritual ordering of time and
+    recurring sacred observance.
+  cautions: If the passage centers on legal obligation rather than calendrical sacred
+    time, sacred_law or covenant may be useful secondary mappings.
+  suggested_aliases:
+  - communal_sacred_day
+  - marked_ritual_day
+  - sacred_day_of_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distortion-of-sacred-words-and-deceptive-speech
+  motif_id: distortion_of_sacred_words_and_deceptive_speech
+  label: distortion of sacred words and deceptive speech
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sacred speech being altered or misused, making speech
+    acts and their moral power the key function.
+  cautions: Could also fit divine_judgment if the passage emphasizes punishment for
+    deceptive distortion, or sacred_knowledge if it concerns corrupted revelation
+    transmission.
+  suggested_aliases:
+  - corruption_of_sacred_words
+  - deceptive_sacred_speech
+  - misuse_of_revealed_words
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distressed-figure-in-a-fish-delivered-by-divine-favor
+  motif_id: distressed_figure_in_a_fish_delivered_by_divine_favor
+  label: Distressed figure in a fish delivered by divine favor
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes rescue from distress by divine favor, with the fish
+    as the enclosing ordeal setting.
+  cautions: If the narrative stresses descent into the depths, repentance, or return
+    from a death-like enclosure, descent or death_and_transformation may be secondary
+    mappings.
+  suggested_aliases:
+  - deliverance_from_fish_by_divine_favor
+  - divine_rescue_from_enclosure_in_fish
+  - distressed_figure_delivered_from_fish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diverting-tale-opposed-to-sacred-guidance
+  motif_id: diverting_tale_opposed_to_sacred_guidance
+  label: diverting tale opposed to sacred guidance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tale that diverts listeners from sacred guidance treats narrative as
+    a powerful force shaping attention and conduct.
+  cautions: May instead be an ethical or polemical passage artifact if the focus is
+    condemnation of entertainment rather than recurring narrative power.
+  suggested_aliases:
+  - distracting_tale_against_guidance
+  - misleading_story_opposes_revelation
+  - diversionary_storytelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-by-arrows-or-lots-for-divine-approval
+  motif_id: divination_by_arrows_or_lots_for_divine_approval
+  label: divination by arrows or lots for divine approval
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  rationale: Use of arrows or lots to determine divine approval is a systematic divinatory
+    method.
+  cautions: If the passage condemns the practice as forbidden rather than describes
+    its function, sacred_law or divine_judgment may be relevant secondary contexts.
+  suggested_aliases:
+  - lot_divination_for_divine_approval
+  - arrow_divination
+  - divination_by_lots
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-adjudication-becomes-standing-ordinance
+  motif_id: divine_adjudication_becomes_standing_ordinance
+  label: divine adjudication becomes standing ordinance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine decision becoming a lasting ordinance fits the sacral origin
+    and authority of law.
+  cautions: Could also map to divine_judgment when the adjudication itself is the
+    primary event; here the durable ordinance is the key feature.
+  suggested_aliases:
+  - divine_judgment_establishes_law
+  - adjudication_as_sacred_ordinance
+  - divine_decision_becomes_ordinance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several one-off ritual labels may be over-specific evidence notes rather than durable
+  motifs, especially where source context is not included.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit normalization groups with cautions for culturally
+    specific ritual and legal contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0279
+  input_sha256: cfb3966dde3e092d3ac33b8e86341cd928fe973a72b85668630bd50952ccb644
+

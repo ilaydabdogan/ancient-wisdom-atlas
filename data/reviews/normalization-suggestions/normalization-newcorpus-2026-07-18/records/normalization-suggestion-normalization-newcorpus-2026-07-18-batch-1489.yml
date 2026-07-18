@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1489
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.miraculous-signs-as-proof-of-prophetic-mission
+  motif_id: miraculous_signs_as_proof_of_prophetic_mission
+  label: miraculous signs as proof of prophetic mission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculous signs function as divine action validating a prophetic role
+    or mission.
+  cautions: Could also index under theophany or prophecy_divination if the passage
+    emphasizes manifestation or prophetic office rather than intervention.
+  suggested_aliases:
+  - prophetic signs
+  - miracle as prophetic proof
+  - signs validating prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-sustenance
+  motif_id: miraculous_sustenance
+  label: Miraculous sustenance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: alias
+  confidence: high
+  rationale: The existing divine_intervention group already aliases miraculous provision
+    and includes inexhaustible food/material supply.
+  cautions: If the passage centers on ritual food, sacred intoxication, or offering,
+    sacred_substance or sacred_exchange may be secondary.
+  suggested_aliases:
+  - miraculous provision
+  - divinely provided sustenance
+  - supernatural food supply
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-vindication-of-a-slandered-prophet
+  motif_id: miraculous_vindication_of_a_slandered_prophet
+  label: miraculous vindication of a slandered prophet
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vindication after slander is a moral reckoning pattern, especially when
+    divine action reveals innocence.
+  cautions: Could overlap with divine_intervention or false_accusation_vindication;
+    prophet-specific wording may be over-specific evidence detail.
+  suggested_aliases:
+  - divine vindication of the slandered
+  - false accusation vindicated by miracle
+  - prophetic vindication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misappropriation-of-shared-hunt-meat
+  motif_id: misappropriation_of_shared_hunt_meat
+  label: misappropriation of shared hunt meat
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Taking shared hunt meat violates reciprocal distribution and communal
+    obligation around food.
+  cautions: May be a local social-conflict or trickster detail rather than a sacred
+    exchange motif; needs source context.
+  suggested_aliases:
+  - misappropriation of shared food
+  - theft of communal hunt meat
+  - violation of hunting reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misappropriation-of-shared-hunt-spoils
+  motif_id: misappropriation_of_shared_hunt_spoils
+  label: Misappropriation of shared hunt spoils
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Misuse of shared spoils concerns broken reciprocity and improper distribution
+    of communal goods.
+  cautions: Could instead belong with betrayal_violated_trust, trickster, or ordinary
+    social conflict depending on narrative role.
+  suggested_aliases:
+  - theft of shared spoils
+  - misuse of communal hunt spoils
+  - violation of shared spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misdirecting-demonic-companion
+  motif_id: misdirecting_demonic_companion
+  label: Misdirecting demonic companion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misdirection of a demonic companion is a deception strategy against a
+    liminal or supernatural figure.
+  cautions: If the demon primarily tempts or obstructs a seeker, threshold_guardian
+    or divine_judgment may be more appropriate.
+  suggested_aliases:
+  - deceiving a demon companion
+  - outwitting a demonic companion
+  - supernatural companion misdirected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miser-or-skinflint-as-target-of-folk-tale-hostility
+  motif_id: miser_or_skinflint_as_target_of_folk_tale_hostility
+  label: Miser or skinflint as target of folk-tale hostility
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: low
+  rationale: The taxonomy already groups greed and temperance reversals under divine_judgment,
+    but this label is framed as a tale-type attitude.
+  cautions: May be commentary about folklore hostility rather than a passage motif;
+    exclude if no narrative punishment or moral reckoning is present.
+  suggested_aliases:
+  - miser punished
+  - greedy skinflint targeted
+  - greed condemned in folktale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misleading-supernatural-companions-beautify-error
+  motif_id: misleading_supernatural_companions_beautify_error
+  label: misleading supernatural companions beautify error
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Supernatural companions who make error attractive fit moral testing and
+    misguidance leading to reckoning.
+  cautions: Could also fit temptation, demonic influence, or sacred_knowledge if the
+    focus is false perception; source evidence is needed.
+  suggested_aliases:
+  - supernatural misguidance
+  - error beautified by companions
+  - demonic beautification of wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misplaced-supplication-to-lifeless-idols
+  motif_id: misplaced_supplication_to_lifeless_idols
+  label: misplaced supplication to lifeless idols
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns prohibited or misdirected worship, which may fit sacred
+    law or covenant violation.
+  cautions: Idol labels are marked for human review in the normalization policy; avoid
+    collapsing culturally polemical wording into a broad motif without evidence.
+  suggested_aliases:
+  - idolatrous supplication
+  - supplication to idols
+  - misdirected worship of lifeless images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missed-encounter-through-sleep-and-lookalike-substitute
+  motif_id: missed_encounter_through_sleep_and_lookalike_substitute
+  label: missed encounter through sleep and lookalike substitute
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific plot mechanism combining sleep, substitution,
+    and missed recognition.
+  cautions: Could relate to sacred_love, recognition_tokens_hidden_identity, otherworld
+    deception, or enchantment depending on the episode; do not promote without recurrence.
+  suggested_aliases:
+  - missed encounter by enchanted sleep
+  - lookalike substitute prevents meeting
+  - sleep and substitute deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence labels are over-specific and should be checked against
+  passage evidence before becoming durable children.
+- Do not infer transmission or shared origin from these suggested placements.
+- Idol-related generated wording should receive human review because it may encode
+  polemical or theological framing rather than a neutral motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions only; human review needed for low-confidence and culturally
+    sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1489
+  input_sha256: dd48a66fb7c20e7c451060c3bcf2d56fa8af6d05434bf5fec2a0b2c92de2caa0
+

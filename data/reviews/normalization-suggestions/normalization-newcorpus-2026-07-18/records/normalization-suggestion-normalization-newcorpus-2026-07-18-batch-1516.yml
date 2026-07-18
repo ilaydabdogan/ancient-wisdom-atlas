@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1516
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.peaceable-remnant
+  motif_id: peaceable_remnant
+  label: peaceable remnant
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could refer to a preserved righteous group, eschatological survivor remnant,
+    or social-ethical ideal, but the label alone is too broad.
+  cautions: May fit survivor_pair, covenant, divine_judgment, sacred_law, or apocalyptic
+    renewal depending on passage context; do not infer flood or catastrophe without
+    evidence.
+  suggested_aliases:
+  - righteous remnant
+  - surviving faithful remnant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-night-ending-at-dawn
+  motif_id: peaceful_night_ending_at_dawn
+  label: peaceful night ending at dawn
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reads like a scene-setting or temporal passage detail rather than a reusable
+    mythic motif.
+  cautions: If dawn marks ritual deliverance, revelation, or reprieve, review under
+    sacred_time, dream_and_vision, or storytelling_as_power; otherwise exclude from
+    pattern queries.
+  suggested_aliases:
+  - night ending at dawn
+  - peaceful dawn transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.penitential-cleansing-and-renewed-heart
+  motif_id: penitential_cleansing_and_renewed_heart
+  label: Penitential cleansing and renewed heart
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Penitential cleansing and inner renewal fit purity, repentance, and sacred
+    ethical transformation.
+  cautions: If the passage emphasizes offering or atonement rite, sacrifice may be
+    a secondary mapping; if mystical interior rebirth dominates, mystical_quest or
+    death_and_transformation may be relevant.
+  suggested_aliases:
+  - penitential purification
+  - renewed heart through repentance
+  - cleansing and repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.people-transformed-into-smoke-and-bottled
+  motif_id: people_transformed_into_smoke_and_bottled
+  label: People transformed into smoke and bottled
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transformation into smoke combined with confinement in a bottle centers
+    on containment of beings or life-force in a vessel.
+  cautions: Could also map to shapeshifter if bodily transformation is primary, or
+    external_soul if the bottle controls life; verify whether this is an episode-specific
+    magic detail.
+  suggested_aliases:
+  - bottled transformed people
+  - smoke transformation in vessel
+  - confinement in bottle after transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.performative-funerary-recitation
+  motif_id: performative_funerary_recitation
+  label: performative funerary recitation
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: high
+  rationale: Funerary recitation that performs an effect for the dead fits afterlife
+    passage instructions and ritual speech enabling postmortem navigation.
+  cautions: If the focus is the power of the utterance itself, curse_blessing_speech
+    or storytelling_as_power may be secondary; preserve Egyptian ritual specificity.
+  suggested_aliases:
+  - funerary recitation
+  - mortuary recitation
+  - ritual recitation for the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.performed-drunkenness-with-command-to-tiger
+  motif_id: performed_drunkenness_with_command_to_tiger
+  label: Performed drunkenness with command to Tiger
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines performance, intoxication, animal command, and possibly
+    trickster behavior without enough context to identify the motif function.
+  cautions: May be a ritual performance detail, trickster strategy, sacred_substance
+    motif, animal-helper command, or passage artifact; culturally specific performance
+    context should be reviewed carefully.
+  suggested_aliases:
+  - ritual performed drunkenness
+  - command to tiger during performance
+  - performed intoxication and animal command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.performed-oral-storytelling-before-a-group
+  motif_id: performed_oral_storytelling_before_a_group
+  label: Performed oral storytelling before a group
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A performed oral tale before a group belongs with storytelling as communal
+    transmission and narrative power.
+  cautions: If this is merely documentation of performance setting rather than a motif
+    inside the tale, it may be a metadata artifact; review source framing.
+  suggested_aliases:
+  - communal oral storytelling
+  - oral tale performance
+  - group storytelling performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.performed-tale-with-role-playing-improvisation-and-communal-dance
+  motif_id: performed_tale_with_role_playing_improvisation_and_communal_dance
+  label: performed tale with role-playing, improvisation, and communal dance
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes embodied communal narrative performance, a variant
+    of storytelling as social and sacred power.
+  cautions: May be performance metadata rather than a narrative motif; if the dance
+    itself has ritual efficacy, sacred_exchange or sacred_time may need review.
+  suggested_aliases:
+  - embodied tale performance
+  - improvised communal storytelling
+  - storytelling with dance and role-play
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peril-sincere-supplication-rescue-and-forgetfulness
+  motif_id: peril_sincere_supplication_rescue_and_forgetfulness
+  label: Peril, sincere supplication, rescue, and forgetfulness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence centers on appeal to the divine in danger, rescue, and failure
+    of fidelity or remembrance, fitting sacred bond and obligation.
+  cautions: Could also fit divine_intervention if rescue is the focus, or divine_judgment
+    if forgetfulness leads to punishment; preserve the full sequence in evidence notes.
+  suggested_aliases:
+  - supplication in peril followed by forgetfulness
+  - rescue after prayer and forgotten obligation
+  - peril prayer rescue ingratitude
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-forest-with-vanishing-hunters
+  motif_id: perilous_forest_with_vanishing_hunters
+  label: perilous forest with vanishing hunters
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A dangerous forest where hunters vanish suggests an enchanted liminal
+    realm that removes entrants from ordinary space.
+  cautions: If the forest functions mainly as an ordeal setting, initiation or hero_journey
+    may fit; if a guardian or lure causes disappearance, threshold_guardian may be
+    secondary.
+  suggested_aliases:
+  - enchanted forest where hunters vanish
+  - perilous vanishing forest
+  - hunters lost in supernatural forest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and based on labels only; several single-occurrence
+  items may be performance metadata or scene details rather than durable motifs.
+- For Afro-Caribbean performance labels, review whether the generated label describes
+  the tale content or the documented storytelling event before indexing in motif queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended for ambiguous remnant, performed drunkenness/tiger,
+    and performance-context labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1516
+  input_sha256: fe0ef97b6ef1813ff51c8966a029a8790f0f2e79a457c768985399ddec052c11
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1636
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.verbal-sign-or-miracle-proclamation
+  motif_id: verbal_sign_or_miracle_proclamation
+  label: verbal sign or miracle proclamation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: A verbal sign or miracle proclamation may function as prophetic proof,
+    sacred speech, or divine intervention, but the label does not show which function
+    dominates.
+  cautions: Single occurrence; review source evidence before choosing prophecy_divination,
+    curse_blessing_speech, theophany, or divine_intervention.
+  suggested_aliases:
+  - miracle proclamation
+  - verbal sign
+  - proclamation of a sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victim-of-persecution-becomes-captor-of-persecutor
+  motif_id: victim_of_persecution_becomes_captor_of_persecutor
+  label: victim of persecution becomes captor of persecutor
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reversal in which a persecuted victim gains power over the persecutor
+    fits moral reckoning and reversal of wrongdoing.
+  cautions: If the episode is mainly political captivity or plot reversal without
+    sacred/moral framing, it may be too specific for pattern queries.
+  suggested_aliases:
+  - persecuted victim captures persecutor
+  - reversal of persecution
+  - victim becomes captor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vigesimal-escalation-of-quantity
+  motif_id: vigesimal_escalation_of_quantity
+  label: Vigesimal escalation of quantity
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: uncertain
+  confidence: low
+  rationale: Vigesimal numerical escalation may be part of calendrical or cosmological
+    ordering, but the label alone reads like a counting-structure artifact.
+  cautions: Culturally specific Maya numerical systems require source review; exclude
+    if it is only a textual/mathematical description rather than a motif.
+  suggested_aliases:
+  - base-twenty escalation
+  - vigesimal quantity increase
+  - twentyfold quantity progression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vigesimal-long-cycle-time-reckoning
+  motif_id: vigesimal_long_cycle_time_reckoning
+  label: vigesimal long-cycle time reckoning
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: Long-cycle time reckoning fits sacred ordering of time and calendrical
+    cycles.
+  cautions: Review whether this is mythic/ritual time symbolism or merely a calendrical
+    notation; may need exclusion if purely technical metadata.
+  suggested_aliases:
+  - long-cycle time reckoning
+  - vigesimal calendrical reckoning
+  - Maya long-cycle time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.village-assault-by-disabling-kiva-access
+  motif_id: village_assault_by_disabling_kiva_access
+  label: Village assault by disabling kiva access
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an attack strategy in a ritually significant village
+    space, possibly fitting sacred combat or boundary violation.
+  cautions: Kiva context is culturally specific and may involve ceremonial space rather
+    than generic warfare; source review needed before indexing.
+  suggested_aliases:
+  - assault by blocking kiva access
+  - ritual-space access disabled in attack
+  - village attack through kiva access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vindicated-victim-intercedes-for-accuser
+  motif_id: vindicated_victim_intercedes_for_accuser
+  label: Vindicated victim intercedes for accuser
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines vindication with mercy toward an accuser, matching
+    existing mercy and pardon variants under covenant.
+  cautions: Could also index under divine_judgment if vindication is the main function;
+    preserve intercession/mercy detail.
+  suggested_aliases:
+  - vindicated victim shows mercy
+  - intercession for accuser
+  - pardoning the false accuser
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vindication-by-lifting-and-hurling-a-huge-stone
+  motif_id: vindication_by_lifting_and_hurling_a_huge_stone
+  label: vindication by lifting and hurling a huge stone
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: A feat of strength that proves or vindicates a figure fits heroic martial
+    proof more than a distinct canonical motif.
+  cautions: Highly episode-specific; if the stone is a sacred object, landscape-forming
+    object, or ordeal token, another group may be better.
+  suggested_aliases:
+  - vindication by strength feat
+  - hurling a huge stone as proof
+  - stone-lifting vindication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violated-safeguard-followed-by-regret
+  motif_id: violated_safeguard_followed_by_regret
+  label: Violated safeguard followed by regret
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breaking a protective prohibition or safeguard with regret fits taboo,
+    sacred law, and moral consequence patterns.
+  cautions: If the safeguard is a geis, oath, or spoken ban, curse_blessing_speech
+    may be a stronger secondary mapping.
+  suggested_aliases:
+  - broken safeguard regretted
+  - violated protection taboo
+  - regret after breaking prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-answer-to-false-taunting
+  motif_id: violent_answer_to_false_taunting
+  label: violent answer to false taunting
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A violent response to taunting is a combat or feud-trigger detail rather
+    than a broad mythic pattern.
+  cautions: May belong under curse_blessing_speech if taunting is performative speech,
+    or pride_and_downfall if boast/rebuke drives the consequence.
+  suggested_aliases:
+  - taunt answered with violence
+  - false taunting provokes attack
+  - violent response to insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-attack-produces-an-avenger-against-the-attackers
+  motif_id: violent_attack_produces_an_avenger_against_the_attackers
+  label: violent attack produces an avenger against the attackers
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An attack generating an avenger fits vengeance cycles and combat as a
+    mythic engine.
+  cautions: If the avenger is born miraculously or created from the victim, miraculous_child
+    or death_and_transformation may be relevant secondary mappings.
+  suggested_aliases:
+  - attack creates avenger
+  - violence begets avenger
+  - avenger raised against attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; suggested placements
+  should be treated as provisional evidence parking, not taxonomy expansion.
+- Maya calendrical/numerical labels and Hopi kiva-related labels need culturally informed
+  source review before broad motif indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from labels and current canonical
+    motif groups only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1636
+  input_sha256: 714e64b046a4e5c260545fb903bd062624591f52042ee21c73a9133229b27304
+

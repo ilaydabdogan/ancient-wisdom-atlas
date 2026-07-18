@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0467
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.withdrawal-of-righteousness-and-peace-after-abandoning-divine-fear
+  motif_id: withdrawal_of_righteousness_and_peace_after_abandoning_divine_fear
+  label: withdrawal of righteousness and peace after abandoning divine fear
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of righteousness and peace after abandoning divine fear reads as
+    moral consequence under sacred reckoning.
+  cautions: Could be ethical exhortation rather than a narrative motif; verify that
+    a consequential withdrawal is present in the passage.
+  suggested_aliases:
+  - righteousness_and_peace_withdrawn_after_impiety
+  - moral_consequence_of_abandoning_divine_fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-identified-sacred-place-slayer
+  motif_id: wolf_identified_sacred_place_slayer
+  label: Wolf-identified sacred-place slayer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to determine whether it concerns animal identity,
+    sacred place violation, killing, or an epithet.
+  cautions: Likely episode-specific; review source evidence before mapping to sacred_combat,
+    divine_warrior, shapeshifter, or sacred geography.
+  suggested_aliases:
+  - wolf_identified_slayer_at_sacred_place
+  - wolf_associated_slayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-warrior-defies-a-god-in-choosing-the-outcome-of-battle
+  motif_id: woman_warrior_defies_a_god_in_choosing_the_outcome_of_battle
+  label: Woman warrior defies a god in choosing the outcome of battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action concerns battle outcome contested against divine authority,
+    fitting sacred combat or warfare governed by sacred powers.
+  cautions: If the emphasis is a divine female battle-chooser role, a valkyrie/fate
+    subtype may be more precise; single occurrence is highly contextual.
+  suggested_aliases:
+  - warrior_defies_divine_choice_of_battle_outcome
+  - battle_outcome_chosen_against_a_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wonder-interpreted-as-sorcery-and-later-as-divine-miracle
+  motif_id: wonder_interpreted_as_sorcery_and_later_as_divine_miracle
+  label: Wonder interpreted as sorcery and later as divine miracle
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A wonder reinterpreted as a divine miracle belongs with divine action
+    in human affairs.
+  cautions: The label may describe reception or interpretation rather than the miracle
+    event itself; preserve the sorcery/miracle contrast as evidence detail.
+  suggested_aliases:
+  - miracle_misread_as_sorcery
+  - wonder_reinterpreted_as_divine_miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.words-of-power-and-ritual-formulae
+  motif_id: words_of_power_and_ritual_formulae
+  label: Words of power and ritual formulae
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual formulae and words of power are performative sacred speech that
+    effects passage, binding, protection, or transformation.
+  cautions: If the formulae are primarily afterlife passwords or names, secondary
+    mapping to afterlife_passage or sacred_knowledge may be appropriate.
+  suggested_aliases:
+  - ritual_words_of_power
+  - sacred_formulae
+  - performative_ritual_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-encompassing-divine-stride
+  motif_id: world_encompassing_divine_stride
+  label: world-encompassing divine stride
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: alias
+  confidence: high
+  rationale: The normalization already lists cosmic measurement by three strides as
+    an alias under supreme cosmic sovereignty.
+  cautions: Do not treat the stride as generic ascent unless the passage emphasizes
+    upward movement rather than cosmic measurement and rule.
+  suggested_aliases:
+  - cosmic_measurement_by_three_strides
+  - three_divine_strides
+  - world_measuring_divine_stride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-unable-to-endure-unveiled-divine-light
+  motif_id: world_unable_to_endure_unveiled_divine_light
+  label: world unable to endure unveiled divine light
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Unveiled divine light overwhelming the world is an encounter with manifest
+    sacred presence.
+  cautions: Could also map to sacred_fire if light imagery is the main symbolic field,
+    or divine_judgment if the light destroys or judges.
+  suggested_aliases:
+  - unendurable_divine_light
+  - overwhelming_unveiled_divine_presence
+  - world_overwhelmed_by_divine_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-attachments-diverting-from-divine-remembrance
+  motif_id: worldly_attachments_diverting_from_divine_remembrance
+  label: worldly attachments diverting from divine remembrance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The contrast between worldly attachment and remembrance fits the interior
+    discipline of the mystical or devotional path.
+  cautions: May be a doctrinal or ethical teaching rather than a narrative motif;
+    if purely exhortative, index lightly or treat as evidence detail.
+  suggested_aliases:
+  - worldly_attachment_obstructs_remembrance
+  - distraction_from_divine_remembrance
+  - attachment_as_obstacle_to_devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-diversion-from-sacred-preaching
+  motif_id: worldly_diversion_from_sacred_preaching
+  label: Worldly diversion from sacred preaching
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Turning away from sacred preaching concerns reception or rejection of
+    transmitted sacred teaching.
+  cautions: Could be an episode-specific moral warning; if the passage emphasizes
+    social disobedience or judgment, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - diversion_from_sacred_teaching
+  - worldly_distraction_from_revelation
+  - turning_from_preaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-fortune-not-proof-of-divine-favor
+  motif_id: worldly_fortune_not_proof_of_divine_favor
+  label: Worldly fortune not proof of divine favor
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif distinguishes apparent prosperity from true divine evaluation,
+    fitting moral reckoning and sacred judgment.
+  cautions: May be a wisdom maxim rather than a narrative pattern; consider sacred_knowledge
+    if the passage is primarily didactic.
+  suggested_aliases:
+  - prosperity_not_divine_favor
+  - worldly_success_not_moral_vindication
+  - fortune_not_proof_of_righteousness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence doctrinal or episode-specific labels; suggested
+  placements should be treated as provisional evidence indexing, not taxonomy changes.
+- For Islamic ethical labels, distinguish narrative motifs from general preaching
+  or commentary before promoting them in pattern queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from label-level evidence
+    only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0467
+  input_sha256: 8b7153251c6eaec6e1878786f7520dc6690da7e9d49ecd6bcadf8d855dd3d973
+

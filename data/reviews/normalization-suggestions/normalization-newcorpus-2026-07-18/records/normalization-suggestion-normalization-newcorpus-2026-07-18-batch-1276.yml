@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1276
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abduction-of-people-lost-in-fog
+  motif_id: abduction_of_people_lost_in_fog
+  label: abduction of people lost in fog
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Fog-lost abduction may indicate removal into an enchanted or spirit realm,
+    but the agent and function are unclear.
+  cautions: Single occurrence; could be spirit abduction, environmental peril, death,
+    or passage-specific plot detail.
+  suggested_aliases:
+  - fog abduction
+  - people lost in fog abducted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abduction-or-rape-episode
+  motif_id: abduction_or_rape_episode
+  label: abduction or rape episode
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and sensitive; placement depends on whether the passage
+    emphasizes sexual violence, marriage capture, divine assault, origin story, or
+    quest trigger.
+  cautions: Do not normalize sexual violence into generic romance or abduction without
+    human review and source context.
+  suggested_aliases:
+  - abduction episode
+  - rape episode
+  - sexual violence episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abnormal-eating-as-sign-of-concealed-activity
+  motif_id: abnormal_eating_as_sign_of_concealed_activity
+  label: abnormal eating as sign of concealed activity
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Abnormal eating functions as a clue to hidden behavior, but no existing
+    group clearly covers diagnostic everyday signs or concealed activity.
+  cautions: May be a plot clue or comic/folkloric detail rather than a durable mythic
+    motif.
+  suggested_aliases:
+  - strange appetite reveals secret
+  - abnormal eating as clue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abolition-of-coercive-widow-claiming-custom
+  motif_id: abolition_of_coercive_widow_claiming_custom
+  label: abolition of coercive widow-claiming custom
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A religious or ethical reform abolishing a coercive marital custom fits
+    sacred law and social order.
+  cautions: If the passage is legal commentary rather than narrative motif, consider
+    excluding from pattern queries or preserving as contextual evidence.
+  suggested_aliases:
+  - abolition of widow claiming
+  - reform of coercive widow custom
+  - protection of widows by sacred law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abrahamic-non-idolatrous-exemplar
+  motif_id: abrahamic_non_idolatrous_exemplar
+  label: Abrahamic non-idolatrous exemplar
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: A named exemplar of non-idolatry functions as a model of correct sacred
+    order and prohibition of idolatry.
+  cautions: May be too tradition-specific or person-centered; if it only identifies
+    Abraham, preserve as evidence rather than a reusable motif.
+  suggested_aliases:
+  - non-idolatrous exemplar
+  - monotheistic exemplar
+  - anti-idolatry exemplar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-auspicious-signs
+  motif_id: absent_auspicious_signs
+  label: Absent auspicious signs
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The absence of expected signs may function as negative omen or failed
+    confirmation of sacred legitimacy.
+  cautions: Could also be political commentary, ritual propriety, or textual evaluation;
+    source evidence needed before treating as omen motif.
+  suggested_aliases:
+  - missing auspicious omens
+  - absence of auspicious signs
+  - negative omen by absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-champion-regretted
+  motif_id: absent_champion_regretted
+  label: absent champion regretted
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Regret for an absent champion expresses communal or martial loss and
+    tragic recognition.
+  cautions: If the emphasis is tactical failure in battle rather than mourning or
+    recognition, sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - regret for absent champion
+  - missing champion lamented
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-guardian-enables-transgressive-encounter
+  motif_id: absent_guardian_enables_transgressive_encounter
+  label: Absent guardian enables transgressive encounter
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns a lapse in guardianship enabling taboo or transgressive
+    contact, but the transgression type is not specified.
+  cautions: Could involve gender control, sexual violence, boundary crossing, deception,
+    or ritual impurity; culturally sensitive and context-dependent.
+  suggested_aliases:
+  - guardian absence permits transgression
+  - unwatched encounter violates boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-helper-in-crisis
+  motif_id: absent_helper_in_crisis
+  label: Absent helper in crisis
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: An absent helper may be a failed or delayed intervention pattern, but
+    the helper's identity and role are unclear.
+  cautions: May be a narrative lack rather than a motif; in gnostic context could
+    involve salvation, emanation, or cosmological mediation requiring specialist review.
+  suggested_aliases:
+  - missing helper in crisis
+  - failed helper intervention
+  - helper absent at danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-mediator-between-mortal-and-deity
+  motif_id: absent_mediator_between_mortal_and_deity
+  label: absent mediator between mortal and deity
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A missing mediator affects divine-human communication or intercession,
+    related to guidance and intervention but not clearly covered by existing groups.
+  cautions: Could be theological commentary, covenantal crisis, prophetic absence,
+    or legal mediation; avoid creating a mediator motif from one contextual label.
+  suggested_aliases:
+  - lack of divine-human mediator
+  - absent intercessor
+  - missing mediator with deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence and context-dependent; several should
+  remain provisional until source passages are reviewed.
+- Sensitive labels involving coercion, widowhood, or sexual violence should not be
+  collapsed into broad love or abduction motifs without human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1276
+  input_sha256: 62170f6fa1f6b3f32aa97a5ff75f0600f8f67cef72297334cc73d6303a062504
+

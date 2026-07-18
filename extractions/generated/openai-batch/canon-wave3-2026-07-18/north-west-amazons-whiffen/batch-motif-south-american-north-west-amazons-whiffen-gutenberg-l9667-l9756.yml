@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l9667-l9756
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: ESSENTIAL MEASUREMENTS / APPENDIX V / APPENDIX VI / NAMES OF DEITIES; lines
+    9667-9756
+  start: '9667'
+  end: '9756'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: words expressive of some idea of a superior, non-human being, good or bad
+  summary: Appendix VI introduces and tabulates names used by various Amazonian and
+    nearby groups for beings classified in the table as Good Spirit or Bad Spirit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that many writers have stated that Upper Amazon forest Indians
+    have no words in their languages to express a Supreme Being.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author states that he is listing words that express some idea of a superior,
+    non-human being, whether good or bad.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The table is organized by tribe, with separate columns headed Good Spirit
+    and Bad Spirit.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several rows give terms in both Good Spirit and Bad Spirit columns, including
+    Atabayoo/Inivida, Baniwa, Baré, Boro, Puru, Siusi, Tariana, Ticuna, Tupi-Guarani,
+    Witoto, and Zaparo.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Some rows give only a Bad Spirit entry, including Amazon proper, Bororo, Casiquiari,
+    Equatorial Andes, Guayana, Hypurina, Karutana, Katapolitani, Uarekena, Yukuna,
+    and some Zaparo bad-spirit names.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: obs:6
+  text: The Boro row gives Neva as Good Spirit and Navena as Bad Spirit.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Witoto row gives Usiyamoi and Husinaimui as Good Spirit terms, and Taifeno,
+    Taifa, Taegfeno, and Foremo as Bad Spirit, spirit, or phantom terms.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Baré row glosses Diose as Spanish Dios.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Superior non-human being
+  description: 'The author''s umbrella description for the beings whose names are
+    being listed: superior, non-human, good or bad.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Good Spirit
+  description: A table category for named beings or terms classified as good spirits
+    across listed tribes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Bad Spirit
+  description: A table category for named beings or terms classified as bad spirits
+    across listed tribes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Neva
+  description: Boro term listed under Good Spirit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Navena
+  description: Boro term listed under Bad Spirit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Usiyamoi and Husinaimui
+  description: Witoto terms listed under Good Spirit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Taifeno, Taifa, Taegfeno, and Foremo
+  description: Witoto terms listed under Bad Spirit; Taegfeno is parenthetically glossed
+    as spirit and Foremo as phantom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: superior non-human being
+  assigned_to:
+  - fig:1
+  basis: The author describes the list as words for superior, non-human beings, good
+    or bad.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: good spirit category
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  basis: The table has a Good Spirit column and places these terms under it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: bad spirit category
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:7
+  basis: The table has a Bad Spirit column and places these terms under it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: good spirit
+  literal_form: Good Spirit column/category
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: bad spirit
+  literal_form: Bad Spirit column/category
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: superior non-human being
+  literal_form: superior, non-human being, good or bad
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Tabular compilation of deity and spirit names
+  summary: The author introduces a list of words for superior non-human beings and
+    presents a tribe-by-tribe table divided into Good Spirit and Bad Spirit entries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: good and bad spirit contrast
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly divides the listed superior non-human beings into
+    Good Spirit and Bad Spirit categories.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a lexical and classificatory table, not a narrative myth episode.
+- id: motif:2
+  label: named superior non-human beings across tribes
+  taxonomy_refs: []
+  basis: The appendix compiles named terms from multiple tribes for beings described
+    as superior and non-human.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage records names and source citations; it does not describe myths,
+    cult practice, attributes, or narratives for most names.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares many Amazonian and nearby tribal terms by assigning
+    them to the same functional headings, Good Spirit and Bad Spirit.
+  claim_level: same_function
+  target: good-spirit and bad-spirit terminology across the listed tribes
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is lexical and classificatory only; the passage does
+    not establish historical contact, common inheritance, or equivalence of individual
+    named beings.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9667-9676
+  quote_or_summary: The author notes claims that Upper Amazon forest Indians lack
+    words for a Supreme Being, then says it is worthwhile to list words for “a superior,
+    non-human being, good or bad.”
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 9678-9702
+  quote_or_summary: The table headings are Tribe, Good Spirit, and Bad Spirit. Early
+    rows include Amazon proper with Curupira and Diabo do mato as bad-spirit terms;
+    Atabayoo/Inivida with Cachimana and Iolokiamo; Baniwa with Diotso and Yenauepena/Ienahabapen;
+    Baré with Diose/Oayaba and Iyehe; and Boro with Neva and Navena.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9703-9729
+  quote_or_summary: Rows list bad-spirit terms for Bororo, Casiquiari, Equatorial
+    Andes, Guayana, Hypurina, Karutana, and Katapolitani; Puru has Ara and Carimade
+    as good-spirit terms and Arabuny, Camery, and Mendy as bad-spirit terms.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9730-9743
+  quote_or_summary: Rows include Quichua Apunchi-yaya as a good-spirit term; Siusi
+    Yaperikuli and Iyeimi; Tamanac Amulivaca as a good-spirit term; and Tariana Yaperikuli/Iapiricure
+    with Iyei/Inhat as bad-spirit terms.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9744-9756
+  quote_or_summary: Rows include Ticuna Nanuloa and Locazy; Tupi-Guarani Tupan and
+    Ananga; Uaupes Tupanau; Uarekena Kue; Witoto Usiyamoi and Husinaimui with Taifeno,
+    Taifa, Taegfeno, and Foremo; Yagua Tupana; Yukuna Hiya; and Zaparo Piatzo with
+    Mungia, Zamaro, and Samaro.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a non-narrative lexical appendix. Classification into
+    good and bad spirit categories is explicit, but broader motif interpretation is
+    limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative.twitter contact, inheritance, or diffusion claims were inferred. Available symbol taxonomy items such as serpent, tree, water, fire, cave, milk, and mountain are not present in this passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l9667-l9756
+  passage_sha256=8787dc80ba4ef2065472a63574165d4ec56692f9139275d324dc6a2dd6a5b13b
+

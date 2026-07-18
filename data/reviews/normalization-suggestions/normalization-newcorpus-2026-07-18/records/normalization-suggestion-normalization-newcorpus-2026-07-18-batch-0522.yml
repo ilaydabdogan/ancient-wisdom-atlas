@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0522
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ominous-children-s-riddle
+  motif_id: ominous_children_s_riddle
+  label: ominous children’s riddle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: A riddle is speech with possible revelatory or ominous function, but
+    the label does not show whether it operates as prophecy, test, curse, or plot
+    detail.
+  cautions: Single occurrence; source context needed before mapping to storytelling_as_power,
+    sacred_knowledge, prophecy_divination, or curse_blessing_speech.
+  suggested_aliases:
+  - ominous_riddle
+  - riddle_as_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-dream-announcing-a-threatened-birth-and-later-guilt-dreams
+  motif_id: ominous_dream_announcing_a_threatened_birth_and_later_guilt_dreams
+  label: Ominous dream announcing a threatened birth and later guilt dreams
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is ominous dream revelation, with birth-threat and guilt
+    elements as contextual details.
+  cautions: Could also relate to miraculous_child if the threatened birth is central,
+    or divine_judgment if guilt dreams function as moral reckoning.
+  suggested_aliases:
+  - ominous_birth_dream
+  - guilt_dreams
+  - dream_announcing_threatened_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-dream-interpretation
+  motif_id: ominous_dream_interpretation
+  label: Ominous dream interpretation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Dream interpretation of ominous content fits dreams and altered perception
+    as sources of hidden or future knowledge.
+  cautions: If the interpretation is performed by an institutional seer or divinatory
+    specialist, prophecy_divination may be a secondary fit.
+  suggested_aliases:
+  - interpreted_ominous_dream
+  - dream_omen_interpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-dream-of-fiery-destruction
+  motif_id: ominous_dream_of_fiery_destruction
+  label: Ominous dream of fiery destruction
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The immediate motif is a dream or vision revealing destruction, not necessarily
+    the destruction event itself.
+  cautions: Map secondarily to sacred_fire or flood_and_renewal only if the passage
+    emphasizes actual cosmic or world-order destruction by fire.
+  suggested_aliases:
+  - fiery_destruction_dream
+  - dream_of_fire_catastrophe
+  - apocalyptic_fire_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-dreams-interpreted-away
+  motif_id: ominous_dreams_interpreted_away
+  label: Ominous dreams interpreted away
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns ominous dreams and their reception, fitting dream
+    revelation even when the warning is dismissed or neutralized.
+  cautions: May be an episode-specific narrative response rather than a durable motif;
+    review whether misinterpretation has plot consequence.
+  suggested_aliases:
+  - dismissed_ominous_dreams
+  - ominous_dreams_explained_away
+  - misread_dream_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-dreams-rationalized-by-the-hearer
+  motif_id: ominous_dreams_rationalized_by_the_hearer
+  label: ominous dreams rationalized by the hearer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ominous dreams remain the central revelatory form, with rationalization
+    as the narrative handling of the warning.
+  cautions: Could overlap with prophecy ignored or doom disregarded if the dream explicitly
+    foretells fate; preserve the hearer-rationalization detail as evidence.
+  suggested_aliases:
+  - rationalized_ominous_dreams
+  - dismissed_dream_warning
+  - dream_warning_rationalized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-signs-and-speech-before-combat
+  motif_id: ominous_signs_and_speech_before_combat
+  label: Ominous signs and speech before combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is anchored in pre-combat omen and speech within a martial
+    crisis, fitting sacred combat more than general wisdom alone.
+  cautions: If signs are formal omens or prophetic utterances, prophecy_divination
+    or curse_blessing_speech may be secondary mappings.
+  suggested_aliases:
+  - precombat_omens
+  - ominous_speech_before_battle
+  - combat_omen_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-eyed-named-beings
+  motif_id: one_eyed_named_beings
+  label: one-eyed named beings
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a being type by physical trait and naming, but not
+    its narrative function or symbolic role.
+  cautions: May be monster, deity, fate figure, spirit, or catalog artifact; do not
+    map from one-eyed imagery alone without source evidence.
+  suggested_aliases:
+  - one_eyed_beings
+  - one_eyed_named_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opening-dream
+  motif_id: opening_dream
+  label: opening dream
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: medium
+  rationale: An opening dream is a narrative placement of a dream or vision that may
+    frame later revelation or omen.
+  cautions: If 'opening' only describes text structure and the dream has no symbolic
+    or prophetic function, treat as passage-specific evidence rather than a motif.
+  suggested_aliases:
+  - initial_dream
+  - prologue_dream
+  - dream_at_opening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-bardic-preservation-by-trained-memory
+  motif_id: oral_bardic_preservation_by_trained_memory
+  label: oral bardic preservation by trained memory
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes oral transmission and preservation practice rather
+    than a narrative or symbolic motif within a passage.
+  cautions: Preserve as provenance or performance-context metadata if relevant; only
+    map to storytelling_as_power if a source narrative presents memory itself as sacred
+    power.
+  suggested_aliases:
+  - bardic_memory_preservation
+  - oral_trained_memory
+  - oral_bardic_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence dream or omen labels; map to dream_and_vision
+  when the dream itself is the motif, but preserve combat, birth, guilt, or fire details
+  as evidence rather than separate canonical motifs.
+- Do not infer world destruction, sacred birth, or prophecy-divination solely from
+  ominous dream wording unless the passage evidence supports those functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0522; human review
+    recommended for ambiguous being-type and riddle labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0522
+  input_sha256: 47b5b1fc46d237873f7b7b32797aa51bff28cb12b9ebc6353a2a4b11b9b89167
+

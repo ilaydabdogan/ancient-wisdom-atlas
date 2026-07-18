@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1317
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cleansing-and-healing-vapor-bath
+  motif_id: cleansing_and_healing_vapor_bath
+  label: cleansing and healing vapor-bath
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vapor bath used for cleansing and healing is a ritual purification/protection
+    practice, fitting the sacred_law cluster that already holds apotropaic and purity
+    variants.
+  cautions: If the passage emphasizes medical healing, sauna custom, or local ethnographic
+    practice without sacred prohibition or purification logic, it may be too contextual
+    for motif queries.
+  suggested_aliases:
+  - ritual_cleansing_bath
+  - healing_vapor_bath
+  - purifying_steam_bath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansing-by-washing-clothes-after-favorable-verdict
+  motif_id: cleansing_by_washing_clothes_after_favorable_verdict
+  label: Cleansing by washing clothes after favorable verdict
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The favorable verdict plus cleansing action aligns with judgment followed
+    by purification or vindication.
+  cautions: The washing of clothes may be an over-specific ritual detail; if the verdict
+    is legal rather than sacred or moral, consider sacred_law or exclusion as contextual
+    evidence.
+  suggested_aliases:
+  - cleansing_after_vindication
+  - purification_after_judgment
+  - washing_clothes_after_acquittal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansing-from-defects-and-sins
+  motif_id: cleansing_from_defects_and_sins
+  label: Cleansing from defects and sins
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Cleansing from impurity or sin fits ritual purity, moral repair, and
+    sacred-law purification patterns.
+  cautions: Could map secondarily to divine_judgment if the cleansing follows moral
+    reckoning, or to sacrifice if mediated by an offering or atonement rite.
+  suggested_aliases:
+  - purification_from_sin
+  - cleansing_from_impurity
+  - ritual_cleansing_from_defect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansing-from-idolatry-and-transgression
+  motif_id: cleansing_from_idolatry_and_transgression
+  label: cleansing from idolatry and transgression
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Idolatry and transgression are covenant violations; cleansing marks repair
+    or restoration of the sacred bond.
+  cautions: If the passage stresses punishment for idolatry, divine_judgment may be
+    primary; if it stresses purity rules, sacred_law may be primary.
+  suggested_aliases:
+  - purification_from_idolatry
+  - cleansing_after_transgression
+  - covenant_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-spouse-devises-rescue-ruse
+  motif_id: clever_spouse_devises_rescue_ruse
+  label: clever spouse devises rescue ruse
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rescue achieved through deception or a ruse fits the trickster/deceptive-strategy
+    cluster even when the actor is a spouse rather than a canonical trickster.
+  cautions: May be a folktale plot detail rather than a mythic motif; if the emphasis
+    is marital loyalty or love, sacred_love may be relevant.
+  suggested_aliases:
+  - rescue_by_ruse
+  - spousal_rescue_trick
+  - clever_rescue_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-thief-completes-imposed-task-and-wins-wager
+  motif_id: clever_thief_completes_imposed_task_and_wins_wager
+  label: clever thief completes imposed task and wins wager
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: A clever thief succeeding through an imposed challenge and wager is a
+    classic trickster-boundary and deceptive-skill pattern.
+  cautions: The wager/task sequence may be too specific for canonical promotion unless
+    it recurs; preserve as granular evidence under trickster.
+  suggested_aliases:
+  - clever_thief_wins_wager
+  - thief_completes_impossible_task
+  - trickster_thief_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-youngest-sister-succeeds-where-elder-sisters-fail
+  motif_id: clever_youngest_sister_succeeds_where_elder_sisters_fail
+  label: Clever youngest sister succeeds where elder sisters fail
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sibling order, cleverness, and successful trial, but
+    no current group cleanly captures youngest-sibling success without more passage
+    context.
+  cautions: Could fit initiation, sibling_pair, trickster, or a folktale-family-role
+    motif; avoid mapping solely from birth order unless the trial function is clear.
+  suggested_aliases:
+  - youngest_sibling_succeeds
+  - youngest_sister_wins_trial
+  - clever_younger_sibling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.closing-benediction-and-doxology
+  motif_id: closing_benediction_and_doxology
+  label: Closing benediction and doxology
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a formal textual or liturgical closing marker rather than a narrative
+    or symbolic motif.
+  cautions: If the passage contains a performative blessing with plot effects, map
+    that specific speech act to curse_blessing_speech instead.
+  suggested_aliases:
+  - closing_doxology
+  - final_benediction
+  - textual_closing_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.closure-of-a-disturbed-mound-or-cutting-after-human-remains-are-found
+  motif_id: closure_of_a_disturbed_mound_or_cutting_after_human_remains_are_found
+  label: closure of a disturbed mound or cutting after human remains are found
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Closing a disturbed burial place after finding remains suggests ritual
+    care for the dead and restoration of proper relations with ancestors or human
+    remains.
+  cautions: If the focus is spatial boundary sealing or averting danger rather than
+    care for the dead, sacred_law or sacrifice/ritual_expulsion may be better; source
+    context is important.
+  suggested_aliases:
+  - resealing_disturbed_burial
+  - closure_of_disturbed_grave
+  - ritual_reclosure_after_human_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clothing-as-concealment-of-nakedness-and-piety
+  motif_id: clothing_as_concealment_of_nakedness_and_piety
+  label: Clothing as concealment of nakedness and piety
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Clothing linked to modesty, piety, and concealment of nakedness fits
+    sacred law as ethical and bodily regulation within a sacred order.
+  cautions: Could be a broad moral teaching rather than a motif; if the passage centers
+    on divine provision of clothing, divine_intervention or sacred_treasures may be
+    secondary.
+  suggested_aliases:
+  - modest_clothing_as_piety
+  - clothing_covers_nakedness
+  - garment_as_pious_concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several cleansing labels may require secondary mappings among sacred_law, covenant,
+  sacrifice, and divine_judgment depending on whether passage evidence emphasizes
+  purity rule, covenant repair, offering/atonement, or verdict/punishment.
+- Single-occurrence folktale-like cleverness labels should remain granular evidence
+  under trickster or human review unless recurrence supports a more specific family-role
+  or clever-sibling group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1317
+  input_sha256: c0c56556a9e908309cd6d2be5988d113c5175a756706011bf0bf69519495e5e7
+

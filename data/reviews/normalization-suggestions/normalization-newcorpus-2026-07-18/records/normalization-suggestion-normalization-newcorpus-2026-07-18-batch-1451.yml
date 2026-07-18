@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1451
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.jealous-brothers-betray-the-youngest-rescuer
+  motif_id: jealous_brothers_betray_the_youngest_rescuer
+  label: jealous brothers betray the youngest rescuer
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is kin betrayal of a rescuer, making violated trust the
+    main narrative engine.
+  cautions: Could also fit sibling rivalry or heroic ordeal if the source emphasizes
+    youngest-child status more than betrayal.
+  suggested_aliases:
+  - sibling_betrayal_of_rescuer
+  - jealous_kin_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-elder-sisters-murder-youngest-sister
+  motif_id: jealous_elder_sisters_murder_youngest_sister
+  label: jealous elder sisters murder youngest sister
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sibling jealousy, intra-family murder, and possible
+    persecuted youngest-child structure without enough context.
+  cautions: No existing sibling-jealousy group cleanly covers this; review whether
+    it is a household persecution motif, betrayal, murder detail, or tale-type artifact.
+  suggested_aliases:
+  - jealous_sisters_murder_youngest
+  - sibling_jealousy_leads_to_murder
+  suggested_new_group:
+    id: sibling_jealousy_persecution
+    label: Sibling Jealousy and Persecution
+    description: Jealous siblings plot against, betray, endanger, or kill a favored,
+      elevated, or youngest sibling, often driving exile, rescue, recognition, or
+      moral reversal.
+    parent_group_ids:
+    - betrayal_violated_trust
+    - sibling_pair
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - divine_judgment
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups cover sibling pairs and jealous
+      stepmothers, but not recurring sibling envy and persecution as the central conflict.
+- suggestion_id: normalization.suggestion.jealous-elder-sisters-plot-against-elevated-youngest-sister
+  motif_id: jealous_elder_sisters_plot_against_elevated_youngest_sister
+  label: Jealous elder sisters plot against elevated youngest sister
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be sibling-envy persecution of a favored youngest sister,
+    but current taxonomy lacks a stable group for that pattern.
+  cautions: Could be an over-specific tale episode; if many similar labels recur,
+    consider a sibling-jealousy group rather than forcing into jealous_stepmother_persecuted_child.
+  suggested_aliases:
+  - jealous_sisters_plot_against_youngest
+  - sibling_envy_against_elevated_youngest
+  suggested_new_group:
+    id: sibling_jealousy_persecution
+    label: Sibling Jealousy and Persecution
+    description: Jealous siblings plot against, betray, endanger, or kill a favored,
+      elevated, or youngest sibling, often driving exile, rescue, recognition, or
+      moral reversal.
+    parent_group_ids:
+    - betrayal_violated_trust
+    - sibling_pair
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - divine_judgment
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Jealous_stepmother_persecuted_child is household
+      persecution by a caretaker, while this label centers sibling rivalry and envy.
+- suggestion_id: normalization.suggestion.jealous-relative-s-murder-plot-reversed-through-exchanged-clothing
+  motif_id: jealous_relative_s_murder_plot_reversed_through_exchanged_clothing
+  label: Jealous relative's murder plot reversed through exchanged clothing
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The salient structure is a wrongful murder plot reversed onto the plotter
+    or wrong target, producing moral reversal.
+  cautions: If the clothing exchange is the key recurring device, recognition_tokens_hidden_identity
+    or disguise-related review may be relevant; label is episode-specific.
+  suggested_aliases:
+  - murder_plot_reversed_by_clothing_exchange
+  - jealous_kin_plot_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-siblings-plot-against-a-favored-brother
+  motif_id: jealous_siblings_plot_against_a_favored_brother
+  label: jealous siblings plot against a favored brother
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif clearly concerns sibling jealousy against a favored sibling,
+    but no existing group captures this without distortion.
+  cautions: Could map secondarily to betrayal_violated_trust, divine_judgment, or
+    recognition_tokens_hidden_identity depending on the episode sequence.
+  suggested_aliases:
+  - jealous_siblings_plot_against_favored_child
+  - sibling_envy_against_favored_brother
+  suggested_new_group:
+    id: sibling_jealousy_persecution
+    label: Sibling Jealousy and Persecution
+    description: Jealous siblings plot against, betray, endanger, or kill a favored,
+      elevated, or youngest sibling, often driving exile, rescue, recognition, or
+      moral reversal.
+    parent_group_ids:
+    - betrayal_violated_trust
+    - sibling_pair
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - divine_judgment
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Sibling_pair is too broad and jealous_stepmother_persecuted_child
+      names a different household role; the repeated function is sibling envy and
+      persecution.
+- suggestion_id: normalization.suggestion.joy-turning-into-sorrow
+  motif_id: joy_turning_into_sorrow
+  label: joy turning into sorrow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase reads as a broad emotional or rhetorical turn rather than
+    a distinctive motif.
+  cautions: If tied to a ritual lament, tragic recognition, or fate omen in the passage,
+    remap to lament_and_mourning or death_by_fate.
+  suggested_aliases:
+  - reversal_from_joy_to_sorrow
+  - joy_sorrow_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.joyful-quetzal-place
+  motif_id: joyful_quetzal_place
+  label: Joyful quetzal place
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may name a culturally specific sacred or paradisal place, but
+    the function is unclear from wording alone.
+  cautions: Could be a place-name, poetic epithet, otherworld location, or passage
+    artifact; review Nahua source context before grouping.
+  suggested_aliases:
+  - quetzal_place_of_joy
+  - joyous_quetzal_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.joyful-reception-with-explicit-foreshadowing-of-sorrow
+  motif_id: joyful_reception_with_explicit_foreshadowing_of_sorrow
+  label: joyful reception with explicit foreshadowing of sorrow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes narrative foreshadowing and emotional tone rather than
+    a reusable symbolic motif.
+  cautions: If the reception is a ritual hospitality test or omen-bearing welcome,
+    remap based on source evidence.
+  suggested_aliases:
+  - joyful_welcome_foreshadows_sorrow
+  - foreshadowed_sorrow_at_reception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.joyless-bridal-feast
+  motif_id: joyless_bridal_feast
+  label: joyless bridal feast
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A failed or joyless wedding feast belongs near marriage-choice and troubled
+    union patterns already grouped under sacred_love.
+  cautions: May be only an atmospheric detail; if the feast involves betrayal, coercion,
+    or fatal hospitality, other groups may fit better.
+  suggested_aliases:
+  - unhappy_wedding_feast
+  - sorrowful_bridal_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.joyous-greeting-shadowed-by-foreboding-disaster
+  motif_id: joyous_greeting_shadowed_by_foreboding_disaster
+  label: joyous greeting shadowed by foreboding disaster
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label records foreshadowing and mood contrast, not a stable mythic
+    action or symbolic motif.
+  cautions: If foreboding is delivered by omen, prophecy, or fate speech, map that
+    evidence to prophecy_divination, dream_and_vision, or curse_blessing_speech instead.
+  suggested_aliases:
+  - joyful_greeting_with_foreboding
+  - greeting_foreshadows_disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items point to a possible recurring sibling-jealousy/persecution group;
+  human review should decide whether to add it or continue mapping individual cases
+  to betrayal_violated_trust or divine_judgment.
+- Mood-contrast and foreshadowing labels should generally be excluded unless source
+  evidence shows a ritual, omen, prophecy, or hospitality-test function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence labels and culturally specific
+    place imagery require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1451
+  input_sha256: 200110d9dd082f2ed2755d8f043384ec32222ef82349be3b2044ee395f092c6c
+

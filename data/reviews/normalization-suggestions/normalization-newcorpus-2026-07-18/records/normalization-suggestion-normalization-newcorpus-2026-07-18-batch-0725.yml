@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0725
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.life-for-life-satisfaction-redirected-onto-the-killer-s-child
+  motif_id: life_for_life_satisfaction_redirected_onto_the_killer_s_child
+  label: life-for-life satisfaction redirected onto the killer's child
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests kin-based compensation or retaliatory substitution,
+    but the function is unclear from wording alone.
+  cautions: Could belong to sacred_law, divine_judgment, sacrifice, kinship conflict,
+    or be an episode-specific legal detail; source context is needed.
+  suggested_aliases:
+  - life for life compensation
+  - substitutionary kin vengeance
+  - child substituted for killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lineage-enumeration-of-twelve-sons
+  motif_id: lineage_enumeration_of_twelve_sons
+  label: Lineage enumeration of twelve sons
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as genealogical enumeration rather than a narrative or
+    symbolic motif.
+  cautions: If the twelve sons function as eponymous ancestors or people-origin figures,
+    cosmic_origin may be relevant; otherwise preserve as textual/genealogical evidence
+    only.
+  suggested_aliases:
+  - genealogical enumeration of sons
+  - twelve sons lineage list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liver-as-seat-of-love
+  motif_id: liver_as_seat_of_love
+  label: liver as seat of love
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The liver functions as a culturally specific bodily image for love, longing,
+    or affect.
+  cautions: May be poetic physiology rather than a plot motif; if the passage centers
+    on pain and paradox, beauty_and_paradox may be a secondary fit.
+  suggested_aliases:
+  - liver as seat of longing
+  - heart-liver love imagery
+  - bodily seat of love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-children-with-persistent-wailing
+  motif_id: lost_children_with_persistent_wailing
+  label: lost children with persistent wailing
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Lost children and wailing may signal mourning, abduction, transformation,
+    or an etiological sound motif, but the label is not specific enough.
+  cautions: Culturally sensitive context should be reviewed; avoid forcing into miraculous_child
+    or lament_and_mourning without evidence of sacred birth, death, or ritual lament.
+  suggested_aliases:
+  - lost children wailing
+  - wailing lost children
+  - children lost and crying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-daughter-speaks-from-underwater-dwelling
+  motif_id: lost_daughter_speaks_from_underwater_dwelling
+  label: lost daughter speaks from underwater dwelling
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lost daughter communicating from an underwater dwelling suggests residence
+    in an enchanted or nonordinary realm alongside the human world.
+  cautions: If the underwater place is explicitly the realm of the dead, descent or
+    afterlife_passage may be better; if the focus is family loss, treat as evidence
+    detail.
+  suggested_aliases:
+  - underwater dwelling of lost daughter
+  - lost child speaks from underwater realm
+  - underwater otherworld communication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-as-demonic-frenzy
+  motif_id: love_as_demonic_frenzy
+  label: love as demonic frenzy
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames love as an overpowering affliction or possession-like
+    force, fitting the sacred_love cluster of perilous longing.
+  cautions: If actual demonic agency or exorcistic treatment is central, divine_intervention,
+    sacrifice/ritual_expulsion, or sacred_law may need review.
+  suggested_aliases:
+  - love frenzy
+  - demonic love affliction
+  - love as possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-as-wound-and-grief
+  motif_id: love_as_wound_and_grief
+  label: love as wound and grief
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Love figured as wounding and grief closely matches the beauty-pain paradox
+    already represented in the taxonomy.
+  cautions: Also relates to sacred_love when longing drives the quest or devotion;
+    preserve poetic specificity as evidence detail.
+  suggested_aliases:
+  - wounded love
+  - love wound and sorrow
+  - love as grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-at-first-sight-between-royal-figures
+  motif_id: love_at_first_sight_between_royal_figures
+  label: love at first sight between royal figures
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Love at first sight is a conventional onset of powerful longing or union,
+    here with royal social status as added detail.
+  cautions: If royal marriage establishes sovereignty or succession, sacred_marriage
+    or royal_legitimacy may be secondary; single occurrence may be too romance-specific
+    for canonical promotion.
+  suggested_aliases:
+  - instant love between royals
+  - royal love at first sight
+  - first-sight royal romance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-at-first-sight-for-a-sleeping-stranger
+  motif_id: love_at_first_sight_for_a_sleeping_stranger
+  label: Love at first sight for a sleeping stranger
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on sudden love and longing; the sleeping stranger is
+    a scene-specific trigger.
+  cautions: Could relate to recognition_tokens_hidden_identity or otherworld if the
+    stranger's identity or enchanted sleep matters; do not overgeneralize from one
+    romance scene.
+  suggested_aliases:
+  - instant love for sleeping stranger
+  - first-sight love while beloved sleeps
+  - sleeping beloved love at first sight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-at-first-sight-of-a-veiled-royal-woman
+  motif_id: love_at_first_sight_of_a_veiled_royal_woman
+  label: Love at first sight of a veiled royal woman
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sudden love at the sight of a veiled royal woman fits the broader sacred_love
+    and longing group, with veil and royalty as local details.
+  cautions: If the veil functions as concealment or identity proof, recognition_tokens_hidden_identity
+    may be relevant; if marriage confers rule, consider royal_legitimacy.
+  suggested_aliases:
+  - instant love for veiled princess
+  - veiled royal beloved
+  - first-sight love of veiled woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several love-at-first-sight labels appear romance-scene specific; map provisionally
+  to sacred_love while preserving local triggers as evidence details.
+- Kin-compensation and lost-child labels need source review before stable placement
+  because their narrative function is not recoverable from the generated label alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0725
+  input_sha256: 605a1ddd20769d4face6ce57735d080fbe4e913830bbd375f8d0670303f55c6a
+

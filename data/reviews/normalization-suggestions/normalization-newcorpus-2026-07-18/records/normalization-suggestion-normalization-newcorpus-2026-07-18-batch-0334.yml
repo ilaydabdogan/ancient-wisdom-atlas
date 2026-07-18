@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0334
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fasting-and-ritual-alteration-of-ordinary-routine
+  motif_id: fasting_and_ritual_alteration_of_ordinary_routine
+  label: Fasting and ritual alteration of ordinary routine
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fasting and altered routine function as ritual self-discipline or offering
+    that reorders relation to sacred or social obligations.
+  cautions: Single occurrence; if primarily ethical self-cultivation rather than sacred
+    reciprocity, sacred_law or wisdom may be better.
+  suggested_aliases:
+  - ritual_fasting
+  - fasting_as_ritual_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fasting-supplication-on-sacred-grass
+  motif_id: fasting_supplication_on_sacred_grass
+  label: fasting supplication on sacred grass
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fasting combined with supplication is a ritualized appeal and offering-like
+    practice addressed to sacred powers.
+  cautions: The sacred grass detail may be important local ritual evidence; do not
+    reduce to general fasting if the grass marks a specific rite.
+  suggested_aliases:
+  - fasting_supplication
+  - ritual_supplication_with_fasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fasting-vow-as-ritual-silence
+  motif_id: fasting_vow_as_ritual_silence
+  label: fasting vow as ritual silence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fasting vow and ritual silence are acts of renunciation that mark a
+    sacred obligation or exchange.
+  cautions: Could also map to covenant if the vow itself is the central binding act,
+    or mystical_quest if interior discipline is emphasized.
+  suggested_aliases:
+  - ritual_silence
+  - vowed_fasting
+  - fasting_as_renunciation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-as-power-over-gods-and-mortals
+  motif_id: fate_as_power_over_gods_and_mortals
+  label: Fate as power over gods and mortals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: broader_label
+  confidence: medium
+  rationale: The motif treats fate as a transpersonal cosmic power governing divine
+    and human action, fitting the existing fate complex.
+  cautions: If no personified fate figures or woven destiny are present, this may
+    be a broader fate principle rather than the group’s narrower imagery.
+  suggested_aliases:
+  - fate_over_gods_and_mortals
+  - cosmic_fate_over_divine_and_human_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-bearing-divine-tablet
+  motif_id: fate_bearing_divine_tablet
+  label: fate-bearing divine tablet
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine tablet that bears or confers fate functions as a sacred power
+    object tied to authority and cosmic order.
+  cautions: Could also relate to sacred_knowledge or fate_figures_cosmic_weaving;
+    preserve the object-specific role rather than treating it only as abstract fate.
+  suggested_aliases:
+  - tablet_of_fates
+  - divine_tablet_of_destiny
+  - fate_tablet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-expressed-as-divine-words-or-decrees
+  motif_id: fate_expressed_as_divine_words_or_decrees
+  label: fate expressed as divine words or decrees
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fate articulated through divine words or decrees emphasizes performative
+    sacred speech that binds future events.
+  cautions: If the passage centers on destiny itself rather than the uttered decree,
+    fate_figures_cosmic_weaving or death_by_fate may be secondary.
+  suggested_aliases:
+  - divine_decree_as_fate
+  - fate_by_sacred_speech
+  - performative_fate_decree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-opposed-by-a-high-god-yet-fulfilled
+  motif_id: fate_opposed_by_a_high_god_yet_fulfilled
+  label: fate opposed by a high god yet fulfilled
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The structure matches destiny that cannot be overturned, even by divine
+    resistance.
+  cautions: Use death_by_fate only if the fulfilled fate concerns death or doom; otherwise
+    fate_figures_cosmic_weaving may be the better broad group.
+  suggested_aliases:
+  - fate_delayed_but_not_overturned
+  - fate_over_high_god
+  - inevitable_fate_despite_divine_opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-s-future-oriented-blessings-over-sons-or-tribes
+  motif_id: father_s_future_oriented_blessings_over_sons_or_tribes
+  label: Father's future-oriented blessings over sons or tribes
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A paternal blessing over descendants or tribes is a performative sacred
+    speech act shaping future destiny.
+  cautions: May also support covenant or royal_legitimacy if the blessing establishes
+    lineage, land, or succession rights.
+  suggested_aliases:
+  - patriarchal_blessing
+  - future_oriented_blessing
+  - ancestral_blessing_over_descendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-taboo-in-a-treasure-attempt
+  motif_id: fear_taboo_in_a_treasure_attempt
+  label: Fear taboo in a treasure attempt
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines taboo, fear, and treasure-seeking but does not identify
+    whether the main function is ordeal, sacred object, prohibition, or failed quest.
+  cautions: Likely over-specific and context-dependent; review whether fear breaks
+    a magical condition, violates a taboo, or is merely an episode detail.
+  suggested_aliases:
+  - treasure_taboo
+  - fear_breaks_treasure_condition
+  - taboo_in_treasure_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-disciples-reassured-by-divine-speaker
+  motif_id: fearful_disciples_reassured_by_divine_speaker
+  label: fearful disciples reassured by divine speaker
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fear followed by reassurance from a divine speaker commonly marks an
+    encounter with overwhelming sacred presence.
+  cautions: Could be a passage-specific teaching scene; if the focus is instruction
+    rather than manifestation, sacred_knowledge may be secondary.
+  suggested_aliases:
+  - divine_reassurance_after_fear
+  - fear_not_theophany
+  - disciples_reassured_by_revealer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ritual or fate labels; suggested
+  placements should be checked against passage evidence before adding aliases.
+- Fate labels split between fate_figures_cosmic_weaving, death_by_fate, sacred_treasures,
+  and curse_blessing_speech depending on whether the evidence emphasizes cosmic destiny,
+  fatal doom, an object, or performative decree.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0334
+  input_sha256: ad376105804e26b73ba26cfe9f643e5ad0ab00ff49f782ed5e0a42bec5bb7388
+

@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0754
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.princess-falls-in-love-at-first-sight-and-sends-a-messenger
+  motif_id: princess_falls_in_love_at_first_sight_and_sends_a_messenger
+  label: princess falls in love at first sight and sends a messenger
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on love initiating action and messenger-mediated courtship,
+    fitting the broad love/longing group.
+  cautions: May be a romance plot detail rather than sacred love; if no sacred or
+    transformative function is present, keep as granular evidence only.
+  suggested_aliases:
+  - love at first sight messenger
+  - messenger-mediated courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.princess-humiliated-into-lowly-service-after-refusing-forced-marriage
+  motif_id: princess_humiliated_into_lowly_service_after_refusing_forced_marriage
+  label: Princess humiliated into lowly service after refusing forced marriage
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines coerced marriage, humiliation, class reversal, and
+    service; no existing group cleanly captures the full function.
+  cautions: Could belong with sacred_love, divine_judgment, royal_legitimacy, or a
+    future forced-marriage/persecuted-bride group depending on source context; single
+    occurrence is highly episode-specific.
+  suggested_aliases:
+  - refusal of forced marriage punished by humiliation
+  - princess reduced to service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.progenitor-mother-of-titanic-beings
+  motif_id: progenitor_mother_of_titanic_beings
+  label: progenitor mother of titanic beings
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: role_variant
+  confidence: medium
+  rationale: A maternal progenitor of powerful beings fits the sacred feminine as
+    cosmic or lineage-generating mother.
+  cautions: If the figure is primarily an eponymous ancestor or species origin rather
+    than divine feminine power, cosmic_origin may be a secondary fit.
+  suggested_aliases:
+  - mother of titanic beings
+  - progenitor mother
+  - cosmic mother of powerful beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-on-boiling-offspring-in-mother-s-milk
+  motif_id: prohibition_on_boiling_offspring_in_mother_s_milk
+  label: Prohibition on boiling offspring in mother’s milk
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a specific ritual or dietary prohibition, fitting sacred law
+    and holiness regulation.
+  cautions: Preserve the mother/offspring and milk imagery as evidence detail; do
+    not generalize to mother_goddess unless the passage makes maternal symbolism central.
+  suggested_aliases:
+  - dietary prohibition on kid in mother's milk
+  - maternal milk food taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-threatened-by-desire-for-guarded-fruit
+  motif_id: prohibition_threatened_by_desire_for_guarded_fruit
+  label: prohibition threatened by desire for guarded fruit
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is a prohibition under pressure from desire, matching
+    sacred law, taboo, and transgression boundaries.
+  cautions: If the emphasis is on hidden or dangerous fruit knowledge, forbidden_knowledge
+    or sacred_treasures may be relevant; if it is only a plot temptation, keep granular.
+  suggested_aliases:
+  - desire for guarded fruit threatens taboo
+  - taboo fruit temptation
+  - guarded fruit prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promise-of-wealthy-bride-as-deception
+  motif_id: promise_of_wealthy_bride_as_deception
+  label: Promise of wealthy bride as deception
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A promised bride used as a lure or false offer is primarily a deception
+    strategy rather than a love motif.
+  cautions: Could also map to sacred_love if courtship consequences dominate, or betrayal_violated_trust
+    if the promise breaks an established bond.
+  suggested_aliases:
+  - deceptive marriage promise
+  - bride promise as lure
+  - false promise of wealthy bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-marriage-to-a-found-child-after-foster-rearing
+  motif_id: promised_marriage_to_a_found_child_after_foster_rearing
+  label: Promised marriage to a found child after foster-rearing
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines found-child fosterage and later marriage promise;
+    placement depends on whether the child has sacred destiny, kinship function, or
+    romance plot function.
+  cautions: Potentially culturally sensitive kinship/marriage pattern; avoid forcing
+    into miraculous_child or sacred_love without passage evidence.
+  suggested_aliases:
+  - found child fostered for promised marriage
+  - foster-reared found child marriage promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-marriage-to-the-helper-or-companion
+  motif_id: promised_marriage_to_the_helper_or_companion
+  label: promised marriage to the helper or companion
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage as reward or bond with a helper/companion fits broad courtship
+    and union patterns under sacred love.
+  cautions: If the helper role, bargain, or quest reward is more important than love,
+    hero_journey or sacred_exchange may be better secondary mappings.
+  suggested_aliases:
+  - marriage reward to helper
+  - helper promised as marriage partner
+  - companion marriage promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-claimants-linked-by-marriage
+  motif_id: prophetic_claimants_linked_by_marriage
+  label: prophetic claimants linked by marriage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe historical, sectarian, or genealogical linkage
+    rather than a reusable mythic motif.
+  cautions: Could be a person-network or commentary artifact; if narrative evidence
+    shows marriage legitimizing authority, royal_legitimacy or covenant may fit.
+  suggested_aliases:
+  - marriage linking prophetic claimants
+  - prophetic authority through marriage alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-mother-young-animal-pair
+  motif_id: protection_of_mother_young_animal_pair
+  label: Protection of mother-young animal pair
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Protection of a mother-young animal pair is an ethical or ritual command
+    governing human treatment of living creatures.
+  cautions: If framed as compassion proof or moral discipline, covenant/divine_judgment
+    may be relevant; preserve animal-pair specificity as evidence detail.
+  suggested_aliases:
+  - mother-young animal protection law
+  - protection of dam and offspring
+  - ethical protection of animal mother and young
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence courtship or marriage-plot labels;
+  map cautiously and preserve granular evidence rather than promoting new groups.
+- Where marriage functions as deception, reward, alliance, kinship rule, or sacred
+  union, source context should determine final placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific marriage, kinship, and prophetic-claimant labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0754
+  input_sha256: fc0abbc29f86140edcb53e20287b2ae54f1759b31bff99da2e947d51e2c69a36
+

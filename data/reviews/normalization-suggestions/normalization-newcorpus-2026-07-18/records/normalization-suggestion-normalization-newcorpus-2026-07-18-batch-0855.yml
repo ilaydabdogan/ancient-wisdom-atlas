@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0855
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.noise-and-armor-used-to-repel-dangerous-birds
+  motif_id: noise_and_armor_used_to_repel_dangerous_birds
+  label: Noise and armor used to repel dangerous birds
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a very specific episode involving animal danger and protective
+    technique, but no existing group cleanly covers dangerous birds or defensive noisemaking.
+  cautions: May be an over-specific passage detail from a heroic ordeal; could relate
+    to apotropaic protection, sacred_combat, or monster encounter depending on source
+    context.
+  suggested_aliases:
+  - repelling_dangerous_birds
+  - noisemaking_against_dangerous_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.object-transformation-into-conveyance
+  motif_id: object_transformation_into_conveyance
+  label: Object transformation into conveyance
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is transformation of form and function, even though
+    the transformed entity is an object rather than a person or animal.
+  cautions: If the emphasis is magical crafting or a power object rather than metamorphosis,
+    sacred_craft or sacred_treasures may be better secondary mappings.
+  suggested_aliases:
+  - object_becomes_conveyance
+  - transformed_object_as_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offended-animal-remembers-and-attacks-its-master
+  motif_id: offended_animal_remembers_and_attacks_its_master
+  label: offended animal remembers and attacks its master
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests animal memory and revenge, but its mythic function
+    is unclear from wording alone.
+  cautions: Could be a fable moral, violated human-animal bond, divine judgment through
+    animal agency, or a passage-specific anecdote; review source evidence before grouping.
+  suggested_aliases:
+  - animal_revenge_against_master
+  - offended_animal_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offer-of-horses
+  motif_id: offer_of_horses
+  label: offer of horses
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A simple offer of horses is too generic to function as a motif without
+    evidence of ritual exchange, sovereignty, tribute, or transformation.
+  cautions: If the passage makes horses part of a sacred exchange, royal gift, or
+    bride-winning/warrior economy, remap with that context preserved.
+  suggested_aliases:
+  - horses_offered
+  - gift_of_horses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - royal_legitimacy
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-animal-growing-younger
+  motif_id: old_animal_growing_younger
+  label: old animal growing younger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Rejuvenation of an old animal fits renewal and transformation of life
+    state.
+  cautions: If the animal is a shapeshifted being, enchanted guide, or seasonal symbol,
+    shapeshifter, otherworld, or sacred_time may also be relevant.
+  suggested_aliases:
+  - animal_rejuvenation
+  - rejuvenated_old_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omens-from-bird-flight-as-signs-of-fortune
+  motif_id: omens_from_bird_flight_as_signs_of_fortune
+  label: omens from bird flight as signs of fortune
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: Reading fortune from bird flight is a divinatory omen practice rather
+    than primarily an animal-transformation motif.
+  cautions: Review culturally specific terminology and whether the passage endorses,
+    rejects, or critiques the practice.
+  suggested_aliases:
+  - bird_flight_omens
+  - augury_by_bird_flight
+  - bird_omens_of_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-animal-cries-and-left-side-movement
+  motif_id: ominous_animal_cries_and_left_side_movement
+  label: Ominous animal cries and left-side movement
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: Animal cries and directional movement interpreted as ominous signs belong
+    with omen reading and divination.
+  cautions: The left-side detail may be culturally specific and should remain evidence
+    detail rather than a separate canonical motif.
+  suggested_aliases:
+  - animal_omens
+  - ominous_animal_cries
+  - directional_animal_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-preservation-and-transformation-of-heroic-saga
+  motif_id: oral_preservation_and_transformation_of_heroic_saga
+  label: Oral preservation and transformation of heroic saga
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission and preservation of a saga tradition
+    rather than a narrative motif inside the tradition.
+  cautions: Preserve as provenance or reception metadata; do not use as evidence for
+    motif pattern queries or transmission claims in normalization.
+  suggested_aliases:
+  - oral_transmission_of_heroic_saga
+  - heroic_saga_preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordinary-animal-or-tool-becomes-a-wonder-among-people-who-lack-it
+  motif_id: ordinary_animal_or_tool_becomes_a_wonder_among_people_who_lack_it
+  label: ordinary animal or tool becomes a wonder among people who lack it
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns relative cultural unfamiliarity with an animal or
+    tool, but its narrative function is unclear.
+  cautions: Could be culture-hero technology, comic estrangement, ethnographic commentary,
+    or an over-specific episode; avoid mapping without passage evidence.
+  suggested_aliases:
+  - ordinary_object_as_wonder
+  - unfamiliar_tool_or_animal_as_marvel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - sacred_craft
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordinary-seeming-animal-proposed-as-strength-test
+  motif_id: ordinary_seeming_animal_proposed_as_strength_test
+  label: Ordinary-seeming animal proposed as strength test
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive or ordinary-seeming animal used to test strength functions
+    as an ordeal or trial of capacity.
+  cautions: If the animal is actually a disguised cosmic being or illusion, shapeshifter,
+    trickster, or divine_intervention may be relevant secondary mappings.
+  suggested_aliases:
+  - animal_strength_test
+  - deceptive_animal_trial
+  - ordinary_animal_as_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence animal labels that may be episode
+  details rather than durable motifs; source review is recommended before adding new
+  animal-specific groups.
+- Bird and animal omen labels are better handled under prophecy_divination than under
+  the animal/transformation bucket when the function is sign interpretation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0855
+  input_sha256: 7fae003d66a38dc3f780ac561853530fb26f41aad93fc54295d45efb20eb59ac
+

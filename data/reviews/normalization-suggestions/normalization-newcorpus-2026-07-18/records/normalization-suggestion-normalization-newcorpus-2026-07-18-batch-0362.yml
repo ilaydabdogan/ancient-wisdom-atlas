@@ -1,0 +1,326 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0362
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kin-murder-over-inherited-treasure
+  motif_id: kin_murder_over_inherited_treasure
+  label: kin-murder over inherited treasure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin-slaying, inheritance conflict, and treasure motive;
+    no existing group cleanly captures this without source context.
+  cautions: May fit betrayal_violated_trust, sacred_law, divine_judgment, sacred_treasures,
+    or a feud/kin-slaying motif; single occurrence and culturally contextual.
+  suggested_aliases:
+  - kin-slaying over treasure
+  - inheritance murder
+  - treasure-driven kin murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_law
+    - divine_judgment
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-slayer-cursed-through-oaths-and-failed-instruments
+  motif_id: kin_slayer_cursed_through_oaths_and_failed_instruments
+  label: kin-slayer cursed through oaths and failed instruments
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on curses and oaths as binding speech acts directed
+    at a kin-slayer.
+  cautions: Failed instruments and kin-slaying may also indicate divine_judgment or
+    sacred_combat depending on the episode; preserve specifics as evidence.
+  suggested_aliases:
+  - curse on kin-slayer
+  - oath-bound curse
+  - failed weapons under curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-placed-among-gods-in-the-other-world
+  motif_id: king_placed_among_gods_in_the_other_world
+  label: King placed among gods in the Other World
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead king's placement among gods supports sacred kingship and divine
+    royal status.
+  cautions: If the passage maps the king's postmortem route, afterlife_passage is
+    a strong secondary mapping; if apotheosis is central, a future deification group
+    may be needed.
+  suggested_aliases:
+  - royal apotheosis in otherworld
+  - king among gods
+  - postmortem divine kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - otherworld
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kneeling-as-prayer-submission-and-visionary-posture
+  motif_id: kneeling_as_prayer_submission_and_visionary_posture
+  label: kneeling as prayer, submission, and visionary posture
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a ritual or bodily posture rather than a clear narrative
+    motif, and its function may vary by context.
+  cautions: Could belong with sacred_exchange if prayer/offering is central, theophany
+    or dream_and_vision if visionary encounter is central, or be excluded as an over-specific
+    posture note.
+  suggested_aliases:
+  - kneeling prayer posture
+  - submission posture
+  - visionary kneeling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - theophany
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knot-blowing-as-harmful-ritual-action
+  motif_id: knot_blowing_as_harmful_ritual_action
+  label: Knot-blowing as harmful ritual action
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a harmful ritual act, but the taxonomy lacks a clear
+    magic/witchcraft harm group.
+  cautions: Culturally sensitive and source-dependent; may fit curse_blessing_speech
+    if spoken/blown formula is central, sacred_law if prohibition is central, or apotropaic
+    protection only as its opposed threat.
+  suggested_aliases:
+  - blowing on knots
+  - harmful knot ritual
+  - malefic knot magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-leading-to-vengeance-vow
+  motif_id: lament_leading_to_vengeance_vow
+  label: Lament leading to vengeance vow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence begins with lament and grief that transforms into a vow
+    of vengeance.
+  cautions: If the vow itself is the key sacred speech act, curse_blessing_speech
+    may be secondary; if combat retaliation is central, sacred_combat may be relevant.
+  suggested_aliases:
+  - mourning prompts vengeance vow
+  - grief-to-vengeance vow
+  - lament and revenge oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.land-as-witness-and-cursed-fertility
+  motif_id: land_as_witness_and_cursed_fertility
+  label: land as witness and cursed fertility
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on curse language affecting fertility, with land functioning
+    as witness to wrongdoing or covenant breach.
+  cautions: Could also belong under covenant or divine_judgment if the passage emphasizes
+    sacred law and punishment rather than the curse act itself.
+  suggested_aliases:
+  - cursed land fertility
+  - land as witness
+  - fertility curse on land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.land-inheritance-apportioned-by-divine-command-and-lot
+  motif_id: land_inheritance_apportioned_by_divine_command_and_lot
+  label: Land inheritance apportioned by divine command and lot
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divinely commanded land inheritance belongs to covenantal social order
+    and sacred allocation.
+  cautions: Lot-casting may also support prophecy_divination; if focused on legal
+    land tenure rather than divine-human promise, sacred_law may be secondary.
+  suggested_aliases:
+  - divine land allotment
+  - inheritance by sacred lot
+  - land apportioned by command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - prophecy_divination
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-times-destruction-of-a-holy-sanctuary-without-rebuilding
+  motif_id: last_times_destruction_of_a_holy_sanctuary_without_rebuilding
+  label: Last-times destruction of a holy sanctuary without rebuilding
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: End-time destruction of a sanctuary signals sacred judgment and eschatological
+    reckoning.
+  cautions: If the emphasis is cosmic catastrophe and renewal, flood_and_renewal may
+    be secondary; if it is only a specific prophecy about a place, it may be too contextual.
+  suggested_aliases:
+  - eschatological sanctuary destruction
+  - last-days holy place destroyed
+  - unrebuilt sanctuary at the end time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - flood_and_renewal
+    - sacred_time
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leader-vows-life-for-life-opposition-to-destructive-adversary
+  motif_id: leader_vows_life_for_life_opposition_to_destructive_adversary
+  label: Leader vows life-for-life opposition to destructive adversary
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: A leader pledging life-for-life frames self-risk or life exchange as
+    an offering against destructive force.
+  cautions: If the focus is a binding vow, curse_blessing_speech should be secondary;
+    if combat with an adversary dominates, sacred_combat or divine_warrior may fit
+    better.
+  suggested_aliases:
+  - life-for-life vow
+  - leader self-sacrificial vow
+  - vowed opposition to destroyer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and combine legal, ritual, martial,
+  and narrative functions; source passage review is recommended before final mapping.
+- Do not infer transmission or shared origin from these provisional placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions only; multiple items require source context or may
+    be over-specific evidence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0362
+  input_sha256: 9cf20079d7c54d514c8dd5e613a2ac477cc63783a58726808f6167499ff2ee42
+

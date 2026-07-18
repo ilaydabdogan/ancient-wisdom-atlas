@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l19429-l19562
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTERS XXVI. 32-XXVII. 6 165 / CHAPTER XXVII. 7-24 167 / CHAPTERS XXVII.
+    25-XXVIII. 8 169 / CHAPTER XXVIII. 9-11; lines 19429-19562
+  start: '19429'
+  end: '19562'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: she conceived and bare Jacob a son, and he called his name Reuben
+  summary: The passage fragment reports Leah conceiving and bearing Jacob a son named
+    Reuben and dates the birth. The surrounding notes present calendrical lists and
+    variant traditions for the births and ages of Jacob's sons.
+  language: English; some Greek appears in editorial apparatus
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Leah conceives and bears a son to Jacob.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jacob calls the son Reuben.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Reuben's birth is dated to the fourteenth day of the ninth month, in the first
+    year of the third week.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An editorial table lists named sons of Jacob with birth days and months.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The notes compare or contrast the Jubilees chronological list with Syncellus,
+    Midrash Tadshe, the Book of Jashar, and the Testaments of the Twelve Patriarchs.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Leah
+  description: Woman whose womb is mentioned and who conceives and bears Jacob a son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jacob
+  description: Father to whom Leah bears a son; he names the child Reuben.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Reuben
+  description: Son born to Leah and Jacob and named by Jacob; his birth date is supplied.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Jacob's sons in the calendrical list
+  description: Collective list including Reuben, Simeon, Levi, Judah, Dan, Naphtali,
+    Gad, Asher, Issachar, Zebulon, Joseph, and Benjamin with stated birth dates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mother and birth-giver
+  assigned_to:
+  - fig:1
+  basis: The passage says Leah conceives and bears Jacob a son.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father and namer
+  assigned_to:
+  - fig:2
+  basis: The passage says Leah bears Jacob a son and that he calls the son's name
+    Reuben.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: newborn named son
+  assigned_to:
+  - fig:3
+  basis: Reuben is the son born and named in the passage fragment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: subjects of patriarchal birth chronology
+  assigned_to:
+  - fig:4
+  basis: The editorial table enumerates Jacob's sons with birth dates.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: womb of Leah
+  literal_form: womb
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dated birth day
+  literal_form: fourteenth day of the ninth month, first year of the third week
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: patriarchal birth calendar
+  literal_form: tabular days, months, and years assigned to Jacob's sons
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Birth and naming of Reuben
+  summary: Leah bears Jacob a son; Jacob names him Reuben; the birth is placed on
+    a specific calendrical date.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Calendrical list of Jacob's sons
+  summary: The notes present a sequence of Jacob's sons with birth dates and discuss
+    chronological variants in related lists.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: birth and naming of a lineage ancestor
+  taxonomy_refs: []
+  basis: The passage reports the birth of Reuben to Leah and Jacob and his naming
+    by Jacob.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The supplied fragment does not include an explicit divine announcement
+    or miraculous birth element.
+- id: motif:2
+  label: calendrical genealogy of patriarchal births
+  taxonomy_refs: []
+  basis: The passage and notes assign specific days, months, and year positions to
+    Jacob's sons and compare variant chronological lists.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Much of the material is editorial apparatus rather than continuous narrative.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note presents the Jubilees birth-order/date tradition as comparable
+    to a list found in Syncellus and to birth-date material in Midrash Tadshe.
+  claim_level: same_function
+  target: Syncellus and Midrash Tadshe patriarchal birth-date lists
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage reports both agreements and differences; the comparison
+    is supplied by editorial notes, not by the narrative itself.
+- id: claim:2
+  claim: The notes relate patriarchal ages and dates in the passage to the Book of
+    Jashar and the Testaments of the Twelve Patriarchs, suggesting a shared chronological
+    cataloguing pattern across nearby Jewish traditions.
+  claim_level: same_function
+  target: Book of Jashar and Testaments of the Twelve Patriarchs chronological traditions
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The notes explicitly mention disagreements and variant dates, so this
+    should not be treated as proof of identical tradition or direct dependence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19429-19434
+  quote_or_summary: '"womb of Leah, and she conceived and bare Jacob a son, and he
+    called his name Reuben"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 19431-19434 and 19562
+  quote_or_summary: The fragment dates Reuben's birth to the fourteenth day of the
+    ninth month, in the first year of the third week.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 19447-19472
+  quote_or_summary: A tabular note lists Reuben, Simeon, Levi, Judah, Dan, Naphtali,
+    Gad, Asher, Issachar, Zebulon, Joseph, and Benjamin with birth days and months.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 19435-19561
+  quote_or_summary: The notes discuss proposed corrections and compare the Jubilees
+    list with Syncellus, Midrash Tadshe, the Book of Jashar, and the Testaments of
+    the Twelve Patriarchs, noting both agreements and disagreements in dates or ages.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied text is an OCR/page-column fragment with editorial apparatus
+    interleaved. Birth and calendrical-list observations are clear, but motif interpretation
+    should be reviewed against the canonical line order.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the supplied fragment records a patriarchal birth and calendrical genealogy but does not explicitly support a more specific available taxonomy category such as sacred_birth or covenant.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l19429-l19562
+  passage_sha256=0e2595b8380f59fef5b47f98d7f1f6eb876aedfe0e5cf3cd6380391da80a1060
+

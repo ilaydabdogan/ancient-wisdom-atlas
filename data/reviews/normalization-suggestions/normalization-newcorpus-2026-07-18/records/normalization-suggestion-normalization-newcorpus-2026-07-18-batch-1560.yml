@@ -1,0 +1,334 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1560
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rescue-of-abducted-captive-sisters
+  motif_id: rescue_of_abducted_captive_sisters
+  label: Rescue of abducted captive sisters
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rescue of Captives and Abducted Kin
+  relationship: child
+  confidence: medium
+  rationale: Captive-kin rescue is a recurring quest/rescue function not cleanly covered
+    by existing hero_journey or sacred_love groups.
+  cautions: Single occurrence here; verify whether emphasis is rescue quest, abduction
+    of beloved, sibling loyalty, or combat aftermath.
+  suggested_aliases:
+  - captive rescue
+  - rescue of abducted kin
+  - rescue of captive sisters
+  suggested_new_group:
+    id: captive_rescue
+    label: Rescue of Captives and Abducted Kin
+    description: A hero or group rescues captives, abducted relatives, prisoners,
+      or enslaved figures from raiders, monsters, enemies, or enchantment; the focus
+      is liberation from captivity rather than the abduction alone.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - sacred_twins
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups cover journey, combat, and
+      lost beloved, but not the rescue-of-captives function that recurs across kinship
+      and raid contexts.
+- suggestion_id: normalization.suggestion.rescue-of-captive-sisters
+  motif_id: rescue_of_captive_sisters
+  label: rescue of captive sisters
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rescue of Captives and Abducted Kin
+  relationship: child
+  confidence: medium
+  rationale: This is a close variant of captive-kin rescue, centered on freeing sisters
+    from captivity.
+  cautions: Confirm whether the sisters are beloved figures, sibling-pair actors,
+    or generic captives before final indexing.
+  suggested_aliases:
+  - rescue of captive kin
+  - sister rescue
+  - captive sisters rescued
+  suggested_new_group:
+    id: captive_rescue
+    label: Rescue of Captives and Abducted Kin
+    description: A hero or group rescues captives, abducted relatives, prisoners,
+      or enslaved figures from raiders, monsters, enemies, or enchantment; the focus
+      is liberation from captivity rather than the abduction alone.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - sacred_twins
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups cover journey, combat, and
+      lost beloved, but not the rescue-of-captives function that recurs across kinship
+      and raid contexts.
+- suggestion_id: normalization.suggestion.rescue-of-captives-after-a-raid
+  motif_id: rescue_of_captives_after_a_raid
+  label: rescue of captives after a raid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rescue of Captives and Abducted Kin
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue after a raid combines captive rescue with the raid/combat setting
+    already represented by sacred_combat.
+  cautions: If the source emphasizes the raid itself rather than liberation, sacred_combat
+    may be the primary placement.
+  suggested_aliases:
+  - rescue after raid
+  - recovery of raided captives
+  - liberation of captives after raid
+  suggested_new_group:
+    id: captive_rescue
+    label: Rescue of Captives and Abducted Kin
+    description: A hero or group rescues captives, abducted relatives, prisoners,
+      or enslaved figures from raiders, monsters, enemies, or enchantment; the focus
+      is liberation from captivity rather than the abduction alone.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - sacred_twins
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups cover journey, combat, and
+      lost beloved, but not the rescue-of-captives function that recurs across kinship
+      and raid contexts.
+- suggestion_id: normalization.suggestion.rescue-of-enchanted-siblings-through-imposed-labor
+  motif_id: rescue_of_enchanted_siblings_through_imposed_labor
+  label: rescue of enchanted siblings through imposed labor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sibling rescue, enchantment, and imposed labor; the
+    dominant motif cannot be determined from wording alone.
+  cautions: Could map to captive_rescue, shapeshifter, sacred_twins/sibling_pair,
+    or initiation depending on whether labor, enchantment-breaking, or kin rescue
+    is central.
+  suggested_aliases:
+  - rescue of enchanted siblings
+  - labor task to free siblings
+  - enchantment broken through labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-hostile-captive
+  motif_id: rescue_of_hostile_captive
+  label: Rescue of hostile captive
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A hostile captive being rescued may concern mercy, dharma, strategic
+    release, or rescue narrative, and source context is needed.
+  cautions: Could fit covenant/mercy, sacred_law, captive_rescue, or sacred_combat;
+    do not assume altruistic rescue without passage evidence.
+  suggested_aliases:
+  - rescue of enemy captive
+  - release of hostile prisoner
+  - saving an enemy prisoner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-oral-tradition-from-imminent-loss
+  motif_id: rescue_of_oral_tradition_from_imminent_loss
+  label: rescue of oral tradition from imminent loss
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on preserving oral narrative tradition as a form of
+    cultural memory and survival.
+  cautions: If this is an editorial or folkloristic note about collection history
+    rather than a motif inside the tradition, exclude under _meta_textual.
+  suggested_aliases:
+  - preservation of oral tradition
+  - rescue of endangered tradition
+  - saving stories from loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-summoned-by-a-signal-blast
+  motif_id: rescue_summoned_by_a_signal_blast
+  label: rescue summoned by a signal blast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A signal blast summoning rescue is a guidance or intervention mechanism,
+    though not necessarily divine.
+  cautions: May be a mundane battle tactic or episode detail; if no supernatural or
+    sacred function is present, consider excluding or treating as over-specific.
+  suggested_aliases:
+  - signal blast summons aid
+  - horn call for rescue
+  - summoned rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-turning-into-renewed-captivity
+  motif_id: rescue_turning_into_renewed_captivity
+  label: rescue turning into renewed captivity
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rescue of Captives and Abducted Kin
+  relationship: symbolic_variant
+  confidence: low
+  rationale: This is an ironic reversal of the captive-rescue pattern, where liberation
+    fails and captivity returns.
+  cautions: Could instead belong to trickster, betrayal, or fate/downfall if the renewed
+    captivity is caused by deception or destiny.
+  suggested_aliases:
+  - failed rescue into captivity
+  - rescue reversal
+  - liberation becomes captivity
+  suggested_new_group:
+    id: captive_rescue
+    label: Rescue of Captives and Abducted Kin
+    description: A hero or group rescues captives, abducted relatives, prisoners,
+      or enslaved figures from raiders, monsters, enemies, or enchantment; the focus
+      is liberation from captivity rather than the abduction alone, including failed
+      or reversed rescue when that structure is central.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - betrayal_violated_trust
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover journey, combat, and
+      lost beloved, but not the rescue-of-captives function or its narrative reversals.
+- suggestion_id: normalization.suggestion.reserved-share-from-spoils
+  motif_id: reserved_share_from_spoils
+  label: reserved share from spoils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A reserved share of spoils may be legal, ritual, political, or purely
+    administrative depending on context.
+  cautions: Could fit sacred_law, covenant, sacred_combat, sacred_exchange, or be
+    too specific to a legal passage; review source evidence before mapping.
+  suggested_aliases:
+  - reserved portion of spoils
+  - sacred share of booty
+  - allocated war spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reserved-trophy-consumed-and-hidden
+  motif_id: reserved_trophy_consumed_and_hidden
+  label: Reserved trophy consumed and hidden
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes trophy-taking, consumption, concealment, and possible
+    taboo violation; dominant function is unclear.
+  cautions: Could involve sacred_combat, sacred_law/taboo, sacred_substance, trickster
+    deception, or an over-specific episode detail.
+  suggested_aliases:
+  - hidden consumption of reserved trophy
+  - forbidden trophy consumption
+  - concealed trophy eating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several rescue/captive labels suggest a possible new captive_rescue group, but each
+  occurrence is single-count and should be reviewed against passage evidence before
+  taxonomy promotion.
+- Do not treat rescue motifs as evidence of transmission; suggested grouping is functional
+  only.
+- Labels involving legal shares, trophies, or hostile captives are too context-dependent
+  for confident placement without source passages.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for proposed captive_rescue
+    group and all low-confidence context-dependent labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1560
+  input_sha256: a7c803e85e7556cefd9c4d2e931838bf8f87fde672e25181fd37defa5c371d00
+

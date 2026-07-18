@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0768
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.severed-heads-sent-to-the-royal-father
+  motif_id: severed_heads_sent_to_the_royal_father
+  label: Severed heads sent to the royal father
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Sending severed heads as proof or trophy after combat fits the existing
+    combat/trophy evidence cluster.
+  cautions: Single occurrence and highly episode-specific; if the focus is filial
+    shock or royal grief rather than combat proof, review under lament or royal order.
+  suggested_aliases:
+  - body_part_trophies_as_proof_of_combat
+  - severed_head_trophy_sent_to_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sex-selective-saving-of-sons-and-killing-of-daughters
+  motif_id: sex_selective_saving_of_sons_and_killing_of_daughters
+  label: Sex-selective saving of sons and killing of daughters
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes gendered violence and social valuation, but its narrative
+    function is unclear from the motif alone.
+  cautions: Culturally sensitive and possibly legal, polemical, or commentary-specific;
+    do not normalize without passage evidence about whether it functions as judgment,
+    social law, or family violence motif.
+  suggested_aliases:
+  - gendered_infanticide
+  - sons_spared_daughters_killed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-bride-among-brothers-by-binding-command
+  motif_id: shared_bride_among_brothers_by_binding_command
+  label: shared bride among brothers by binding command
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marital arrangement imposed by a binding command is best treated as
+    social order and sacred obligation rather than romance alone.
+  cautions: Could also involve sacred marriage, royal lineage, or family duty depending
+    on source context; preserve polyandrous specificity as evidence detail.
+  suggested_aliases:
+  - polyandrous_marriage_by_command
+  - binding_command_establishes_shared_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sheltering-the-beloved-in-a-cave-while-preparing-for-attack
+  motif_id: sheltering_the_beloved_in_a_cave_while_preparing_for_attack
+  label: Sheltering the beloved in a cave while preparing for attack
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The central action appears to be protecting a beloved during danger,
+    fitting love under threat.
+  cautions: The cave and attack may instead make this a journey, combat, or refuge
+    episode; too specific for a canonical motif without recurrence.
+  suggested_aliases:
+  - beloved_sheltered_before_battle
+  - protective_refuge_for_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shield-maiden-or-valkyrja-appearance-at-battle
+  motif_id: shield_maiden_or_valkyrja_appearance_at_battle
+  label: shield-maiden or Valkyrja appearance at battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A Valkyrja or shield-maiden appearing at battle functions as a martial
+    sacred figure tied to combat and fate of warriors.
+  cautions: If the source emphasizes choosing the slain or fate rather than fighting,
+    death_by_fate or prophecy/divination may be relevant secondary mappings.
+  suggested_aliases:
+  - valkyrie_battle_appearance
+  - female_martial_supernatural_figure_at_battle
+  - shield_maiden_at_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sidhe-bride-sought-but-not-obtained
+  motif_id: sidhe_bride_sought_but_not_obtained
+  label: Sidhe bride sought but not obtained
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sought but unattained otherworld bride fits longing, failed union,
+    and love across human/enchanted boundaries.
+  cautions: Because the bride is Sidhe, otherworld should be considered as a secondary
+    placement if the enchanted realm is more central than love pursuit.
+  suggested_aliases:
+  - unobtained_otherworld_bride
+  - fairy_bride_sought_but_lost
+  - sidhe_bride_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silent-bride-falsely-accused-and-condemned
+  motif_id: silent_bride_falsely_accused_and_condemned
+  label: Silent bride falsely accused and condemned
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: False accusation and condemnation align with the existing false-accusation/vindication
+    cluster under moral reckoning.
+  cautions: If the bride's silence is a vow, curse, or taboo speech condition, curse_blessing_speech
+    or sacred_law may be relevant; verify whether vindication occurs.
+  suggested_aliases:
+  - falsely_accused_bride
+  - condemned_silent_bride
+  - innocent_bride_false_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silent-maiden-as-covert-guide-or-potential-helper
+  motif_id: silent_maiden_as_covert_guide_or_potential_helper
+  label: Silent maiden as covert guide or potential helper
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A covert helper or guide can fit the broader group for guidance and intervention
+    in human affairs.
+  cautions: The maiden may be human, enchanted, bride figure, or threshold helper;
+    source evidence is needed before treating her as divine or supernatural.
+  suggested_aliases:
+  - covert_maiden_helper
+  - silent_female_guide
+  - maiden_as_hidden_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skillful-preparation-of-skin-through-specialized-tools-and-seasonal-drying
+  motif_id: skillful_preparation_of_skin_through_specialized_tools_and_seasonal_drying
+  label: Skillful preparation of skin through specialized tools and seasonal drying
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a technical ethnographic or subsistence-process detail
+    rather than a symbolic narrative motif.
+  cautions: If the passage frames skin preparation as sacred craft, transformation,
+    taboo, or ritual obligation, it should be re-reviewed rather than excluded.
+  suggested_aliases:
+  - technical_skin_preparation
+  - seasonal_skin_drying_with_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sky-birth-at-the-water-horizon
+  motif_id: sky_birth_at_the_water_horizon
+  label: sky birth at the water horizon
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A birth at the meeting of sky and water suggests cosmogonic emergence
+    from elemental boundaries.
+  cautions: Could instead be sacred_birth if tied to a specific divine child rather
+    than cosmic emergence; Maya source context should guide final placement.
+  suggested_aliases:
+  - birth_at_sky_water_horizon
+  - cosmic_birth_from_horizon_waters
+  - horizon_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  them as evidence details even when mapped to broad groups.
+- Love/family bucket placement is not always decisive here; several items function
+  more clearly as combat, law, judgment, or cosmogony motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive gendered violence and ambiguous helper/refuge items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0768
+  input_sha256: 71d3dc1b247e08c384edb5df5c0dddeeb8dc0f86f985420d545d939066548455
+

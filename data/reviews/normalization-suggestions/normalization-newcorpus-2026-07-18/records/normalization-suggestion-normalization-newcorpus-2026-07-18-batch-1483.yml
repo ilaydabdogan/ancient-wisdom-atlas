@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1483
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.measured-restitution-for-theft-damage-and-custody-loss
+  motif_id: measured_restitution_for_theft_damage_and_custody_loss
+  label: Measured restitution for theft, damage, and custody loss
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes legal restitution rules regulating property, custody,
+    and social obligation under sacred law.
+  cautions: May be a passage-level legal detail rather than a reusable motif; if covenantal
+    obligation is emphasized, covenant may be a secondary mapping.
+  suggested_aliases:
+  - property_restitution_law
+  - restitution_for_theft_and_damage
+  - custody_loss_restitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measured-retaliation-tempered-by-mercy
+  motif_id: measured_retaliation_tempered_by_mercy
+  label: measured retaliation tempered by mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing sacred_law aliases already include forgiveness preferred
+    over proportionate retaliation, matching this legal-ethical pattern.
+  cautions: Could also index under covenant or divine_judgment if the passage frames
+    mercy as sacred bond or moral reckoning rather than legal norm.
+  suggested_aliases:
+  - forgiveness_preferred_over_proportionate_retaliation
+  - retaliation_tempered_by_mercy
+  - measured_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-exchange-network
+  motif_id: mediated_exchange_network
+  label: Mediated exchange network
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests reciprocal exchange mediated through agents or relations,
+    but does not show whether the exchange is sacred, social, economic, or narrative.
+  cautions: Needs source context; may be ethnographic/social description rather than
+    motif. Avoid mapping to sacred_exchange unless ritual, obligation, or sacred reciprocity
+    is explicit.
+  suggested_aliases:
+  - mediated_reciprocity_network
+  - exchange_through_intermediaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-voice-of-the-original-poet
+  motif_id: mediated_voice_of_the_original_poet
+  label: Mediated voice of the original poet
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a literary/transmission or interpretive claim about
+    poetic voice rather than a narrative motif.
+  cautions: If the passage portrays inspired recitation or sacred speech within the
+    text, review for storytelling_as_power or sacred_knowledge instead.
+  suggested_aliases:
+  - poetic_voice_mediation
+  - mediated_authorial_voice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meeting-place-outside-the-camp-with-descending-cloud
+  motif_id: meeting_place_outside_the_camp_with_descending_cloud
+  label: meeting place outside the camp with descending cloud
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: A descending cloud at a designated meeting place marks direct divine
+    manifestation to human witnesses.
+  cautions: Could also relate to portable_sanctuary or world_center if the emphasis
+    is on sacred meeting space rather than manifestation.
+  suggested_aliases:
+  - descending_cloud_theophany
+  - cloud_at_meeting_place
+  - divine_cloud_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.melody-organized-around-a-tonic-chord
+  motif_id: melody_organized_around_a_tonic_chord
+  label: melody organized around a tonic chord
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a musicological formal observation, not a symbolic or narrative
+    motif.
+  cautions: If the melody has ritual efficacy or supernatural force, preserve that
+    evidence separately under enchanting_music; the tonic-chord detail itself should
+    not drive motif queries.
+  suggested_aliases:
+  - tonic_chord_melody
+  - melodic_structure_tonic_chord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-deposit-before-the-deity
+  motif_id: memorial_deposit_before_the_deity
+  label: memorial deposit before the deity
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A deposit placed before a deity functions as an offering or memorial
+    act that maintains sacred relation.
+  cautions: If the deposit is chiefly an object of power, sacred_treasures may be
+    secondary; if it is sacrificial, sacrifice may be stronger.
+  suggested_aliases:
+  - memorial_offering_before_deity
+  - memorial_token_before_god
+  - ritual_memorial_deposit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-mound-with-standing-stone-and-ogham-inscription
+  motif_id: memorial_mound_with_standing_stone_and_ogham_inscription
+  label: Memorial mound with standing-stone and Ogham inscription
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on memorialization of the dead through mound, stone,
+    and inscription, matching funeral memorial practices.
+  cautions: Ogham and standing-stone details are culturally specific evidence; do
+    not overgeneralize into axis_mundi unless the stone functions cosmologically.
+  suggested_aliases:
+  - inscribed_memorial_stone
+  - memorial_mound_and_standing_stone
+  - heroic_memorial_inscription
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.menehunes-as-brownies-and-heiau-builders
+  motif_id: menehunes_as_brownies_and_heiau_builders
+  label: Menehunes as Brownies and heiau builders
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: The building of heiau may fit sacred construction, but the label includes
+    a cross-cultural comparison to brownies and a named people/being category.
+  cautions: Culturally sensitive and possibly comparative commentary; review Hawaiian
+    source evidence before mapping. Avoid preserving the 'as Brownies' comparison
+    as a motif claim.
+  suggested_aliases:
+  - menehune_temple_builders
+  - supernatural_heiau_builders
+  - small_spirit_builders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mentor-fosterling-loyalty-amid-conflict
+  motif_id: mentor_fosterling_loyalty_amid_conflict
+  label: mentor-fosterling loyalty amid conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a social loyalty conflict not clearly covered by
+    existing sacred law, covenant, combat, or hero-journey groups.
+  cautions: Could fit covenant, sacred_law, sacred_combat, or betrayal/violated trust
+    depending on whether the passage emphasizes fosterage obligation, battle conflict,
+    or broken loyalty.
+  suggested_aliases:
+  - fosterage_loyalty_conflict
+  - mentor_fosterling_bond_under_conflict
+  - loyalty_to_foster_parent_or_mentor
+  suggested_new_group:
+    id: fosterage_kinship_loyalty
+    label: Fosterage, Mentorship, and Kinship Loyalty
+    description: Obligations between foster-kin, mentors, pupils, or sworn companions
+      create loyalty conflicts, protection duties, or tragic dilemmas during social
+      or martial crisis.
+    parent_group_ids:
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - sacred_combat
+    - betrayal_violated_trust
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups cover sacred law, covenant,
+      combat, and betrayal, but none specifically captures fosterage or mentorship
+      bonds as the central social motif.
+batch_notes:
+- Several items are single-occurrence legal, ritual, or commentary-like labels; final
+  mapping should check whether they recur as motifs or only annotate a passage.
+- Culturally specific labels involving Inuit exchange and Hawaiian Menehune should
+  receive human review before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1483
+  input_sha256: 38a27917ff913dcfb917052597095d53d840f319736eeed8e685b5fd17d708c2
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1524
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.predator-destroyed-by-overleaping-prey
+  motif_id: predator_destroyed_by_overleaping_prey
+  label: predator destroyed by overleaping prey
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fits the existing predator-deception and fable-reversal cluster under
+    trickster, where prey escape or reversal destroys the predator.
+  cautions: Single occurrence; confirm that the episode involves wit, reversal, or
+    boundary-crossing rather than ordinary animal combat.
+  suggested_aliases:
+  - predator defeated by prey reversal
+  - prey escape destroys predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-hunger-diverted-to-wilderness-foods
+  motif_id: predator_hunger_diverted_to_wilderness_foods
+  label: Predator hunger diverted to wilderness foods
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe appeasement, diversion, animal behavior, or a
+    passage-specific detail rather than a clear existing motif.
+  cautions: Needs source context; could fit trickster if prey deceives the predator,
+    sacred_exchange if ritual feeding/appeasement is central, or be excluded if merely
+    descriptive.
+  suggested_aliases:
+  - predator appetite diverted
+  - diverting predator hunger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-intimidated-by-unfamiliar-intended-prey
+  motif_id: predator_intimidated_by_unfamiliar_intended_prey
+  label: predator intimidated by unfamiliar intended prey
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator's expected role is reversed when intended prey becomes strange
+    or intimidating, matching the predator-reversal fable cluster under trickster.
+  cautions: Confirm whether the intimidation is caused by deception or comic role
+    reversal; otherwise it may be a simple animal encounter detail.
+  suggested_aliases:
+  - predator frightened by prey
+  - intended prey intimidates predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-nest-with-human-victims-and-retaliatory-killing
+  motif_id: predator_nest_with_human_victims_and_retaliatory_killing
+  label: Predator nest with human victims and retaliatory killing
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster/predator lair, human victims, and revenge
+    killing, but no current group cleanly captures this whole sequence.
+  cautions: May fit sacred_combat or divine_warrior if predator-slaying is heroic
+    or cosmological; may fit trickster if the killing is a fable reversal. Culturally
+    specific evidence should guide placement.
+  suggested_aliases:
+  - predator lair with victims
+  - retaliatory killing of man-eating predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-prey-image-for-helpless-observers
+  motif_id: predator_prey_image_for_helpless_observers
+  label: Predator-prey image for helpless observers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as an interpretive image or simile applied to observers
+    rather than a narrative motif.
+  cautions: If the passage contains an omen, dream, or actual animal attack, remap
+    to dream_and_vision or relevant predator/fable grouping; otherwise preserve only
+    as literary evidence.
+  suggested_aliases:
+  - predator-prey simile
+  - helpless observers as prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-punished-by-stones-placed-in-its-body
+  motif_id: predator_punished_by_stones_placed_in_its_body
+  label: Predator punished by stones placed in its body
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Closely matches the existing child motif where a predator is destroyed
+    after swallowing an indigestible concealed object.
+  cautions: Preserve the stones-in-body detail as evidence; if the scene lacks deception
+    or revenge reversal, human review may adjust placement.
+  suggested_aliases:
+  - predator destroyed by stones in body
+  - indigestible stones kill predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-gambler-with-trophies-of-slain-opponents
+  motif_id: predatory_gambler_with_trophies_of_slain_opponents
+  label: Predatory gambler with trophies of slain opponents
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be a dangerous contest antagonist, a monster figure, or
+    an ordeal, but existing groups do not clearly cover ritualized gambling as lethal
+    contest.
+  cautions: Could map to initiation if the gambler is an ordeal opponent, sacred_combat
+    if the trophies mark combat victory, or trickster if gambling/deception is central.
+  suggested_aliases:
+  - lethal gambler with trophies
+  - gambler slays opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-meat-before-murder
+  motif_id: predatory_meat_before_murder
+  label: predatory meat before murder
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is too compressed to determine whether it concerns omen, cannibalism,
+    ritual meal, betrayal, or foreshadowing.
+  cautions: May fit betrayal_violated_trust if meat/feast enables murder, divine_judgment
+    if predatory consumption marks moral consequence, or be excluded if it is a passage-specific
+    image.
+  suggested_aliases:
+  - meat as murder foreshadowing
+  - predatory meal before killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predetermined-cosmic-and-historical-course
+  motif_id: predetermined_cosmic_and_historical_course
+  label: Predetermined cosmic and historical course
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: broader_label
+  confidence: medium
+  rationale: Predetermined cosmic history fits the broader destiny/time-order complex
+    even without explicit personified fate figures.
+  cautions: If the passage emphasizes apocalyptic decline rather than destiny structure,
+    world_ages_cosmic_decline may be a better or secondary group.
+  suggested_aliases:
+  - predetermined history
+  - cosmic course of fate
+  - decreed cosmic history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predicted-recurrence-of-false-prophets
+  motif_id: predicted_recurrence_of_false_prophets
+  label: predicted recurrence of false prophets
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns a prophetic claim about recurring false prophetic
+    figures, fitting prophecy and future knowledge.
+  cautions: If the passage functions mainly as moral warning or communal boundary
+    policing, sacred_law or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - prophecy of false prophets
+  - recurring false prophets foretold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several predator labels appear to belong to an existing trickster/fable-reversal
+  cluster, but single occurrences and compressed wording require source-context checks.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous predator and compressed narrative-detail labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1524
+  input_sha256: 822eb60062ef599bfbcf69c1093d79d684b14f934c3e96c174ce2903fde1e345
+

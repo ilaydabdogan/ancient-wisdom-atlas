@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0321
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divinely-arranged-single-combat
+  motif_id: divinely_arranged_single_combat
+  label: Divinely arranged single combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Single combat is already a key pattern under sacred_combat; divine arrangement
+    gives it sacred or providential framing.
+  cautions: May alternatively fit divine_intervention if the passage emphasizes divine
+    orchestration more than combat structure.
+  suggested_aliases:
+  - divinely arranged duel
+  - sacredly ordained single combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-assigned-land-inheritance
+  motif_id: divinely_assigned_land_inheritance
+  label: divinely assigned land inheritance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divinely assigned inheritance of land is a sacred promise/order organizing
+    divine-human and social relationship.
+  cautions: If the focus is territorial law or social allocation rather than covenant
+    promise, sacred_law or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - divine land grant
+  - promised land inheritance
+  - sacred land allotment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-attributed-war-spoil
+  motif_id: divinely_attributed_war_spoil
+  label: Divinely attributed war spoil
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: War spoil attributed to divine agency belongs with warfare framed as
+    sacred or ritually governed.
+  cautions: Could also fit sacred_exchange or sacred_law if the passage centers on
+    lawful entitlement or redistribution rather than battle outcome.
+  suggested_aliases:
+  - divinely granted spoils
+  - sacred war booty
+  - war spoils attributed to God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-authorized-distribution-of-war-spoils
+  motif_id: divinely_authorized_distribution_of_war_spoils
+  label: divinely authorized distribution of war spoils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on divinely authorized rules for distributing goods,
+    a sacred-law and social-order function.
+  cautions: May also relate to sacred_combat because the goods are war spoils; avoid
+    treating it as sacrifice unless offering or consecration is explicit.
+  suggested_aliases:
+  - divine law for spoils distribution
+  - sacred distribution of war booty
+  - authorized allocation of spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-authorized-healing-through-medicine
+  motif_id: divinely_authorized_healing_through_medicine
+  label: Divinely authorized healing through medicine
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing enabled or authorized by divine will fits divine intervention
+    in human affliction and restoration.
+  cautions: If the passage emphasizes medical practice as wisdom rather than miracle
+    or authorization, sacred_knowledge may be a better secondary mapping.
+  suggested_aliases:
+  - divinely sanctioned medicine
+  - sacred authorization of healing
+  - healing through divinely approved medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-authorized-redistribution-of-spoils
+  motif_id: divinely_authorized_redistribution_of_spoils
+  label: divinely authorized redistribution of spoils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Redistribution under divine authorization is primarily a sacred legal
+    and social-order motif.
+  cautions: Very close to divinely_authorized_distribution_of_war_spoils; consider
+    aliasing together if passage evidence does not distinguish initial distribution
+    from redistribution.
+  suggested_aliases:
+  - divine redistribution of spoils
+  - sacred redistribution of war booty
+  - authorized redistribution of booty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-averted-combat-through-restrained-hands
+  motif_id: divinely_averted_combat_through_restrained_hands
+  label: divinely averted combat through restrained hands
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Combat is prevented by direct divine restraint, matching divine intervention
+    in human affairs.
+  cautions: If the passage emphasizes mercy, peace obligation, or covenantal restraint,
+    covenant or sacred_law may be relevant secondary groups.
+  suggested_aliases:
+  - divine restraint prevents combat
+  - God restrains hands from battle
+  - divinely prevented violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-bestowed-tribal-emblems-as-substitutes-for-institutions
+  motif_id: divinely_bestowed_tribal_emblems_as_substitutes_for_institutions
+  label: Divinely bestowed tribal emblems as substitutes for institutions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine bestowal, tribal identity markers, and institutional
+    substitution in a context-dependent way.
+  cautions: May be an over-specific historical or commentary artifact; could fit sacred_treasures,
+    sacred_law, royal_legitimacy, or divine_intervention depending on source evidence.
+  suggested_aliases:
+  - divinely bestowed tribal emblems
+  - sacred tribal emblems
+  - emblems replacing institutions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-chosen-sacred-lineage
+  motif_id: divinely_chosen_sacred_lineage
+  label: Divinely chosen sacred lineage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Divine selection of a lineage legitimizes sacred authority, succession,
+    or communal leadership.
+  cautions: If the lineage is prophetic or ancestral rather than royal/political,
+    miraculous_child or cosmic_origin may be secondary; source context should decide.
+  suggested_aliases:
+  - divinely elected lineage
+  - sacred chosen lineage
+  - chosen prophetic lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-commanded-allocation-of-priestly-cities
+  motif_id: divinely_commanded_allocation_of_priestly_cities
+  label: Divinely commanded allocation of priestly cities
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Divine command governing priestly urban allocation is a sacred legal
+    ordering of ritual and social space.
+  cautions: May also fit covenant or world_center if the cities function as sacred
+    centers rather than administrative allocations.
+  suggested_aliases:
+  - priestly cities allocated by divine command
+  - divine allocation of sacred cities
+  - sacred allotment of priestly cities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence legal or combat-administrative
+  details; preserve passage context and avoid promoting them to new taxonomy families
+  without recurrence.
+- War-spoil labels likely form an alias cluster, but source evidence should distinguish
+  sacred combat outcome from sacred-law distribution.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for context-sensitive
+    Islamic legal/tribal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0321
+  input_sha256: bfca5f551e3f9c60dc037328f90e7882a0f5cf72fac576b3f8688f18a103e737
+

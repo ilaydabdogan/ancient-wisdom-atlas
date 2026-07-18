@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1603
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.supernatural-recovery-and-restoration-of-swallowed-goods
+  motif_id: supernatural_recovery_and_restoration_of_swallowed_goods
+  label: Supernatural recovery and restoration of swallowed goods
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Swallowed goods could involve trickster recovery, monster defeat, restitution,
+    or magical restoration; the label alone does not identify the narrative function.
+  cautions: Single occurrence and culturally specific context; avoid mapping to sacred_vessel
+    or death/transformation unless the passage shows containment or restoration of
+    life.
+  suggested_aliases:
+  - recovery_of_swallowed_objects
+  - restoration_of_swallowed_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-restitution-with-golden-body-substitute
+  motif_id: supernatural_restitution_with_golden_body_substitute
+  label: Supernatural restitution with golden body-substitute
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restitution by a supernatural substitute centers on compensatory exchange
+    or repair after loss or injury.
+  cautions: If the golden body-substitute is primarily a crafted power object, sacred_craft
+    or sacred_treasures may be better secondary mappings; preserve the body-substitute
+    detail.
+  suggested_aliases:
+  - supernatural_compensation_with_substitute
+  - golden_substitute_as_restitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-restoration-for-violated-hair
+  motif_id: supernatural_restoration_for_violated_hair
+  label: Supernatural restoration for violated hair
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern bodily honor, magical repair, restitution, gendered
+    violation, or power in hair; source context is needed.
+  cautions: Do not collapse into external_soul unless hair functions as a life-token;
+    do not map to sacred_law unless the violation is a taboo breach.
+  suggested_aliases:
+  - magical_restoration_of_hair
+  - reparation_for_violated_hair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - external_soul
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-restoration-of-a-missing-heart
+  motif_id: supernatural_restoration_of_a_missing_heart
+  label: supernatural restoration of a missing heart
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoring a missing heart suggests restoration of life or bodily integrity
+    after a death-like loss.
+  cautions: If the heart is an external life-token, external_soul may be the stronger
+    placement; if the episode is healing rather than death reversal, divine_intervention
+    may be secondary.
+  suggested_aliases:
+  - magical_heart_restoration
+  - restoration_of_missing_vital_organ
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-retaliation-for-capture-of-a-fairy-dwelling
+  motif_id: supernatural_retaliation_for_capture_of_a_fairy_dwelling
+  label: Supernatural retaliation for capture of a fairy dwelling
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The fairy dwelling points to an otherworldly domain whose seizure provokes
+    supernatural response.
+  cautions: If the emphasis is moral punishment for trespass, divine_judgment may
+    be a secondary mapping; if the dwelling itself is a sacred boundary, threshold_guardian
+    may be relevant.
+  suggested_aliases:
+  - fairy_dwelling_retaliation
+  - retaliation_for_seizing_otherworld_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-retribution-against-an-oppressive-treasure-hoarder
+  motif_id: supernatural_retribution_against_an_oppressive_treasure_hoarder
+  label: supernatural retribution against an oppressive treasure-hoarder
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Supernatural punishment of an oppressive hoarder is a moral-reckoning
+    pattern against greed and abuse of wealth.
+  cautions: Treasure details may also support sacred_treasures if the hoard has supernatural
+    agency, but the main function is retribution.
+  suggested_aliases:
+  - treasure_hoarder_punished
+  - supernatural_punishment_of_greed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-sickness-and-fairy-healing
+  motif_id: supernatural_sickness_and_fairy_healing
+  label: supernatural sickness and fairy healing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural agent causes or cures sickness, matching ambivalent spirit
+    injury-healing under divine intervention.
+  cautions: Because the agents are fairies, otherworld may be a secondary mapping;
+    review whether this is folk healing, spirit affliction, or a passage-specific
+    episode.
+  suggested_aliases:
+  - fairy_sickness_and_healing
+  - ambivalent_fairy_injury_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - soul_loss_restoration
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-threat-disclosed-through-church-encounter
+  motif_id: supernatural_threat_disclosed_through_church_encounter
+  label: Supernatural threat disclosed through church encounter
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines revelation, sacred space, and danger, but does not
+    show whether the function is omen, theophany, haunting, or threshold encounter.
+  cautions: May be an over-specific episode tied to Christian sacred space; avoid
+    mapping to theophany unless divine manifestation is explicit.
+  suggested_aliases:
+  - church_encounter_reveals_supernatural_threat
+  - sacred_space_disclosure_of_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - theophany
+    - threshold_guardian
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-transport-by-genii
+  motif_id: supernatural_transport_by_genii
+  label: supernatural transport by genii
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural being directly transports a human or object, fitting intervention
+    and guidance in human affairs.
+  cautions: If transport carries the figure to an enchanted realm, otherworld or hero_journey
+    may be secondary; retain genii as culturally specific agent detail.
+  suggested_aliases:
+  - magical_transport_by_spirits
+  - genii_transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-treasure-redirected-to-church-use
+  motif_id: supernatural_treasure_redirected_to_church_use
+  label: Supernatural treasure redirected to church use
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Treasure is transferred or repurposed toward sacred institutional use,
+    emphasizing restitution or sacred redirection of wealth.
+  cautions: Could also fit sacred_treasures if the treasure itself is a power object,
+    or sacred_law/divine_judgment if framed as correction of misuse.
+  suggested_aliases:
+  - treasure_consecrated_to_church
+  - supernatural_redirection_of_treasure_to_sacred_use
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly episode-specific; preserve local
+  details as evidence notes unless they recur across sources.
+- For supernatural restoration labels, verify whether the passage concerns healing,
+  restitution, life-token recovery, or death reversal before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for ambiguous
+    restoration and church-encounter items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1603
+  input_sha256: 61f814eed8d5a8a67c3ae8049a96afe0181ed3079ad64183d53d793968ef24a1
+

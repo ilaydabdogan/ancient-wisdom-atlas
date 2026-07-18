@@ -1,0 +1,319 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1237
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.representative-suffering-of-the-household-head
+  motif_id: representative_suffering_of_the_household_head
+  label: Representative suffering of the household head
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe vicarious or representative suffering, but the
+    narrative function is unclear from wording alone.
+  cautions: Could fit sacrifice, divine_judgment, covenant, or a passage-specific
+    theological theme; source evidence is needed before mapping.
+  suggested_aliases:
+  - vicarious_suffering_of_household_head
+  - representative_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-from-devouring-and-monstrous-threats
+  motif_id: rescue_from_devouring_and_monstrous_threats
+  label: Rescue from devouring and monstrous threats
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Rescue from a monster or devouring threat may belong to combat, threshold
+    danger, or initiation depending on the episode.
+  cautions: Do not force into divine_warrior or threshold_guardian without evidence
+    that the monster is a cosmic opponent or liminal guardian; may be an over-broad
+    episode summary.
+  suggested_aliases:
+  - rescue_from_devouring_monster
+  - rescue_from_monstrous_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - threshold_guardian
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-sight-by-a-garment-token
+  motif_id: restoration_of_sight_by_a_garment_token
+  label: Restoration of sight by a garment token
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A garment token functions as a power object whose contact restores sight.
+  cautions: If the passage emphasizes recognition or proof rather than healing, recognition_tokens_hidden_identity
+    may be a secondary or better mapping.
+  suggested_aliases:
+  - healing_garment_token
+  - sight_restored_by_token
+  - garment_as_healing_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restorative-enchanted-vessel
+  motif_id: restorative_enchanted_vessel
+  label: restorative enchanted vessel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: An enchanted vessel that restores or heals fits the sacred container
+    holding transformative power.
+  cautions: If the vessel specifically revives the dead, death_and_transformation
+    may be an important secondary mapping.
+  suggested_aliases:
+  - healing_vessel
+  - restorative_vessel
+  - enchanted_restoration_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliation-for-stolen-food-against-the-thief-s-household
+  motif_id: retaliation_for_stolen_food_against_the_thief_s_household
+  label: retaliation for stolen food against the thief's household
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Punishment for theft can function as moral reckoning or restoration of
+    violated order.
+  cautions: The household-wide retaliation may instead be local feud logic, social
+    law, or an episode-specific detail; confirm sacred or moral framing before indexing
+    broadly.
+  suggested_aliases:
+  - punishment_for_food_theft
+  - retaliation_for_theft_against_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retinue-perishing-during-sleep-at-a-liminal-place
+  motif_id: retinue_perishing_during_sleep_at_a_liminal_place
+  label: Retinue perishing during sleep at a liminal place
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines death, sleep, companions, and liminal location but
+    does not reveal the governing motif.
+  cautions: May fit threshold_guardian, enchanted_music/sleep, divine_judgment, or
+    death_by_fate depending on cause; likely too episode-specific without recurrence.
+  suggested_aliases:
+  - death_during_sleep_at_liminal_place
+  - sleeping_retinue_perishes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - death_by_fate
+    - divine_judgment
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reverential-circuit-before-entering-royal-audience
+  motif_id: reverential_circuit_before_entering_royal_audience
+  label: reverential circuit before entering royal audience
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal circumambulation or circuit before a ruler frames royal presence
+    through ritualized hierarchy and legitimacy.
+  cautions: If the circuit is primarily devotional or temple-oriented rather than
+    royal, axis_mundi or sacred_law may be relevant; preserve courtly ritual detail.
+  suggested_aliases:
+  - circumambulation_before_royal_audience
+  - ritual_circuit_before_ruler
+  - reverential_entry_to_royal_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - axis_mundi
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rich-garment-preparation-as-courtly-hospitality
+  motif_id: rich_garment_preparation_as_courtly_hospitality
+  label: rich garment preparation as courtly hospitality
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparing rich garments for a guest fits hospitality obligations expressed
+    through courtly provisioning.
+  cautions: If no test, stranger, or obligation is present, this may be a courtly
+    detail rather than a motif; could also relate to royal_legitimacy or sacred_exchange.
+  suggested_aliases:
+  - garment_gift_as_hospitality
+  - courtly_hospitality_garments
+  - clothing_preparation_for_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.righteous-resistance-to-communal-sin-and-murmuring
+  motif_id: righteous_resistance_to_communal_sin_and_murmuring
+  label: Righteous resistance to communal sin and murmuring
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resistance to communal transgression and murmuring fits defense of covenantal
+    order against collective violation.
+  cautions: If the passage emphasizes punishment rather than fidelity, divine_judgment
+    may be a stronger mapping; if it is only moral exhortation, sacred_law may apply.
+  suggested_aliases:
+  - righteous_resistance_to_communal_sin
+  - opposition_to_communal_murmuring
+  - covenantal_resistance_to_transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - ethical_command
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ring-as-proof-of-an-otherwise-disputed-encounter
+  motif_id: ring_as_proof_of_an_otherwise_disputed_encounter
+  label: ring as proof of an otherwise disputed encounter
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: child
+  confidence: high
+  rationale: A ring used to prove a denied or disputed encounter is a clear recognition
+    token or identity proof.
+  cautions: If the ring also confers authority or magic power, sacred_treasures may
+    be a secondary mapping; primary function here is evidentiary proof.
+  suggested_aliases:
+  - ring_as_recognition_token
+  - ring_as_proof_token
+  - ring_proves_disputed_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and based on motif labels only; several single-occurrence
+  items need passage evidence before durable indexing.
+- The review bucket is objects/spaces/boundaries, but several labels function better
+  as ritual, ethical, recognition-token, or sacred-object motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Suggested best-fit normalization groups where label function was clear; ambiguous
+    or composite labels were left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1237
+  input_sha256: 74ca29f71d99c56cdc3cb4d9b0a2eae9e2e39ffba70f63b41dc53445ba1211cc
+

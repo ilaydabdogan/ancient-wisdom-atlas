@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0705
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fated-lovers-separated-by-foretold-marriage-to-another
+  motif_id: fated_lovers_separated_by_foretold_marriage_to_another
+  label: fated lovers separated by foretold marriage to another
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on lovers separated by fate and a foretold rival marriage,
+    fitting tragic or obstructed love within sacred_love.
+  cautions: Single occurrence; if prophecy or destiny drives the episode more than
+    love, prophecy_divination or death_by_fate may be relevant secondary review paths.
+  suggested_aliases:
+  - fated lovers separated
+  - foretold marriage separates lovers
+  - tragic destined lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-sorrow-of-the-lover
+  motif_id: fated_sorrow_of_the_lover
+  label: fated sorrow of the lover
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Love experienced as destined sorrow aligns with sacred_love, especially
+    its longing and pain-transcending dimensions.
+  cautions: Very abstract label; could be literary mood rather than a narrative motif.
+    If fate is the operative structure, review with death_by_fate or fate_figures_cosmic_weaving.
+  suggested_aliases:
+  - destined sorrow in love
+  - fated lover's grief
+  - love sorrow ordained by fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-as-earthly-deity
+  motif_id: father_as_earthly_deity
+  label: father as earthly deity
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: The father treated as an earthly deity likely reflects sacralized kinship
+    duty and social-religious hierarchy.
+  cautions: Could be a doctrinal or ethical statement rather than a motif; if the
+    father legitimizes sacred birth or rule, miraculous_child or royal_legitimacy
+    may be better.
+  suggested_aliases:
+  - father revered as deity
+  - paternal divinity in household order
+  - father as sacred authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-attempts-to-reclaim-married-daughter
+  motif_id: father_attempts_to_reclaim_married_daughter
+  label: father attempts to reclaim married daughter
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a family-conflict plot action, but its mythic function
+    is unclear from wording alone.
+  cautions: May involve marriage rights, kinship law, abduction, honor conflict, or
+    a passage-specific episode. Avoid mapping to sacred_love without evidence that
+    love or sacred union is central.
+  suggested_aliases:
+  - paternal reclamation of married daughter
+  - father reclaims daughter after marriage
+  - kinship conflict over married daughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-protection-or-recognition-sought-amid-battle-danger
+  motif_id: father_protection_or_recognition_sought_amid_battle_danger
+  label: Father-protection or recognition sought amid battle danger
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: Seeking paternal recognition amid danger suggests identity proof or kinship
+    recognition in a crisis setting.
+  cautions: Composite label with battle, protection, and recognition. If no token
+    or hidden identity is present, sacred_combat or divine_warrior may be more appropriate,
+    or it may be an over-specific episode detail.
+  suggested_aliases:
+  - paternal recognition in battle
+  - father protection sought in combat
+  - kin recognition amid battle danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-s-attempted-murder-of-son-over-the-son-s-wife
+  motif_id: father_s_attempted_murder_of_son_over_the_son_s_wife
+  label: father's attempted murder of son over the son's wife
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin violence, sexual rivalry, and attempted murder,
+    but no existing group cleanly captures the function.
+  cautions: Culturally sensitive family-violence motif; may be episode-specific. Could
+    relate to betrayal_violated_trust, sacred_love, or divine_judgment depending on
+    narrative framing.
+  suggested_aliases:
+  - father-son rivalry over wife
+  - paternal attempted filicide over son's wife
+  - kinship violence over spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-s-forbidden-desire-to-marry-daughter-as-maternal-double
+  motif_id: father_s_forbidden_desire_to_marry_daughter_as_maternal_double
+  label: Father's forbidden desire to marry daughter as maternal double
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a culturally sensitive incest-taboo and kinship-desire motif
+    not represented clearly by existing groups.
+  cautions: Requires source review; could be forbidden marriage, taboo violation,
+    succession crisis, or tale-type detail. Do not fold into sacred_love without evidence
+    of sacred or transformative love.
+  suggested_aliases:
+  - forbidden paternal desire for daughter
+  - daughter as maternal double
+  - incestuous marriage desire by father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-s-grief-at-yielding-the-hero-child
+  motif_id: father_s_grief_at_yielding_the_hero_child
+  label: father’s grief at yielding the hero-child
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: The grief is tied to surrendering a hero-child, fitting the extraordinary
+    child whose destiny requires separation or protection.
+  cautions: If the passage emphasizes parental sorrow rather than the child's sacred
+    destiny, lament_and_mourning may be a better secondary group.
+  suggested_aliases:
+  - parent yields hero child
+  - father grieves surrendering destined child
+  - hero-child given up by father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-s-grief-over-endangered-beloved-son
+  motif_id: father_s_grief_over_endangered_beloved_son
+  label: father's grief over endangered beloved son
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label focuses on grief over a threatened loved one, fitting lament
+    and tragic recognition more than birth or descent.
+  cautions: If the endangered son is a sacred or destined child, miraculous_child
+    may be an important secondary mapping.
+  suggested_aliases:
+  - paternal grief for endangered son
+  - grief over threatened beloved son
+  - father laments son in danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.father-s-grief-turns-into-revenge-battle
+  motif_id: father_s_grief_turns_into_revenge_battle
+  label: father's grief turns into revenge battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Grief becoming vengeance and battle aligns with the combat complex where
+    loss triggers martial retaliation.
+  cautions: Could also index under lament_and_mourning if grief remains central, or
+    divine_warrior if the father acts in a heroic-sacred warrior role.
+  suggested_aliases:
+  - grief transformed into vengeance
+  - paternal revenge battle
+  - mourning becomes martial vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence family or love-conflict motifs;
+  several should remain provisional until passage evidence clarifies whether they
+  are recurring motifs or episode-specific plot details.
+- No transmission or borrowing claims are implied by these suggested placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Several kinship and forbidden-desire labels are culturally sensitive or context-dependent
+    and should be checked against source passages before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0705
+  input_sha256: 13c53e4fb2212d6acd1ee33b297fb05e2262d8d4fd928fd54c7bc34218779320
+

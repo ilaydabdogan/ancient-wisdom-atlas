@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1308
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.castaway-survival-by-clinging-to-floating-debris
+  motif_id: castaway_survival_by_clinging_to_floating_debris
+  label: Castaway survival by clinging to floating debris
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A castaway survival episode may be an ordeal, water passage, providential
+    rescue, or passage-specific adventure detail.
+  cautions: Single occurrence; do not map to flood_and_renewal unless world-destruction
+    and renewal are present, or to sacred_waters unless transformation or ritual boundary
+    function is explicit.
+  suggested_aliases:
+  - castaway survival
+  - survival on floating debris
+  - shipwreck survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.castaway-threatened-by-a-hostile-shore-community
+  motif_id: castaway_threatened_by_a_hostile_shore_community
+  label: castaway threatened by a hostile shore community
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mark an ordeal after sea travel, a hostile threshold,
+    or a local adventure scene.
+  cautions: Needs source context; hostile shore people alone are not a sacred threshold
+    or otherworld motif without further evidence.
+  suggested_aliases:
+  - castaway threatened on shore
+  - hostile shore community
+  - shipwreck survivor threatened by locals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.castle-producing-bag-and-instant-fortification
+  motif_id: castle_producing_bag_and_instant_fortification
+  label: Castle-producing bag and instant fortification
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical bag that produces a castle functions as a power object granting
+    protection or supernatural capability.
+  cautions: If the emphasis is craft or miraculous construction rather than portable
+    object power, sacred_craft may be a secondary fit.
+  suggested_aliases:
+  - magic bag producing castle
+  - instant fortification object
+  - fortress-producing magical object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cat-sold-for-treasure-in-a-land-without-cats
+  motif_id: cat_sold_for_treasure_in_a_land_without_cats
+  label: Cat sold for treasure in a land without cats
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a folktale trade/profit episode involving unusual animal value,
+    not clearly covered by existing sacred motif groups.
+  cautions: May be too tale-type specific for Pattern Explorer unless related mercantile
+    trickster or animal-helper motifs recur.
+  suggested_aliases:
+  - cat valued in catless land
+  - animal sold for treasure abroad
+  - profitable cat in land without cats
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalog-of-exemplary-or-notable-officers
+  motif_id: catalog_of_exemplary_or_notable_officers
+  label: Catalog of exemplary or notable officers
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A catalog of officers is a textual or historiographic list rather than
+    a symbolic narrative motif.
+  cautions: If individual officers function as moral exemplars in a narrative, those
+    episodes should be indexed separately under sacred_law, royal_legitimacy, or divine_judgment
+    as appropriate.
+  suggested_aliases:
+  - list of notable officers
+  - catalogue of officials
+  - exemplary officers catalog
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-marvelous-arthurian-retainers
+  motif_id: catalogue_of_marvelous_arthurian_retainers
+  label: Catalogue of marvelous Arthurian retainers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a catalog/list structure rather than a discrete motif,
+    though the listed retainers may contain supernatural abilities.
+  cautions: If specific retainers perform recurring marvels, index those abilities
+    separately; do not treat the catalogue form itself as a motif unless catalogic
+    marvel-lists are being studied.
+  suggested_aliases:
+  - Arthurian retainer catalogue
+  - list of marvelous retainers
+  - catalogue of supernatural companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-mythic-geography
+  motif_id: catalogue_of_mythic_geography
+  label: catalogue of mythic geography
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue of mythic places may be a textual list, but it may also preserve
+    cosmological geography relevant to world center, otherworld, or cosmic origin
+    motifs.
+  cautions: Review source evidence before excluding; map individual places by function
+    rather than using the catalogue label as a motif.
+  suggested_aliases:
+  - mythic geography catalogue
+  - list of mythic places
+  - cosmological geography list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-supernatural-geography
+  motif_id: catalogue_of_supernatural_geography
+  label: catalogue of supernatural geography
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The catalogue form is likely textual, but the geographic content could
+    support otherworld, axis_mundi, or cosmic_origin mappings.
+  cautions: Do not promote the list as a motif without evidence that cataloguing itself
+    has narrative or ritual function; index component places separately where possible.
+  suggested_aliases:
+  - supernatural geography catalogue
+  - list of supernatural places
+  - otherworld geography list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catastrophe-heightened-by-cheerful-or-irrelevant-matter
+  motif_id: catastrophe_heightened_by_cheerful_or_irrelevant_matter
+  label: catastrophe heightened by cheerful or irrelevant matter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a literary effect or tonal contrast rather than a
+    mythic motif or narrative function.
+  cautions: If the cheerful matter is an omen, ironic ritual, or performative speech
+    act, index that concrete element separately.
+  suggested_aliases:
+  - tonal contrast in catastrophe
+  - irrelevant matter heightens disaster
+  - cheerful detail amid catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catastrophic-close-with-collective-lament
+  motif_id: catastrophic_close_with_collective_lament
+  label: Catastrophic close with collective lament
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: A communal lament after catastrophe fits the existing mourning and tragic
+    recognition group.
+  cautions: The 'catastrophic close' phrasing is partly literary; preserve the collective
+    lament as the motif and avoid treating narrative closure as canonical.
+  suggested_aliases:
+  - collective lament after catastrophe
+  - communal lament at tragic close
+  - catastrophe ending in lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'catalogue' appear to describe textual organization
+  rather than motifs; review individual listed contents separately where meaningful.
+- Castaway labels are adventure-scene motifs with insufficient evidence for sacred_waters,
+  hero_journey, or threshold_guardian placement from label alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1308
+  input_sha256: e37d89ec6939ea42d64182ec0f0a2074e0dbe8830f13d325983f6221d6fcb9c4
+

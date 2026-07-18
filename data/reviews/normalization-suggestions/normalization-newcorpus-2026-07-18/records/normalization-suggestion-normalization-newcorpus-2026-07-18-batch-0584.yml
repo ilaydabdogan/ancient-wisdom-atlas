@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0584
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.denial-of-refuge-to-a-defeated-king-under-threat
+  motif_id: denial_of_refuge_to_a_defeated_king_under_threat
+  label: denial of refuge to a defeated king under threat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: Refusal of refuge may involve violated obligation, supplication, mercy
+    refusal, or political prudence; the existing covenant group already contains supplication
+    and mercy-refusal variants.
+  cautions: Single occurrence and highly contextual; verify whether this is a sacred
+    hospitality/suppliance norm, royal-political episode, or plot detail.
+  suggested_aliases:
+  - refuge_denied_to_defeated_ruler
+  - supplication_for_refuge_refused
+  - defeated_king_denied_asylum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denunciation-of-a-religious-teacher-to-civic-authority
+  motif_id: denunciation_of_a_religious_teacher_to_civic_authority
+  label: Denunciation of a religious teacher to civic authority
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: Denouncing a teacher to authorities may function as betrayal of a sacred/social
+    bond or persecution of a holy figure.
+  cautions: Could instead be civic prosecution, martyrdom setup, anti-teacher polemic,
+    or passage-specific narrative detail; source evidence is needed.
+  suggested_aliases:
+  - religious_teacher_denounced_to_authority
+  - holy_teacher_betrayed_to_civic_power
+  - teacher_persecution_by_denunciation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despised-outcast-becomes-honored-bridegroom
+  motif_id: despised_outcast_becomes_honored_bridegroom
+  label: despised outcast becomes honored bridegroom
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on marriage-status reversal, matching bridegroom/bride-choice
+    and love-marriage patterns already collected under sacred_love.
+  cautions: If the episode emphasizes social rank reversal more than marriage, a future
+    status-reversal group might fit better; preserve outcast-to-honor detail.
+  suggested_aliases:
+  - outcast_elevated_through_marriage
+  - lowly_bridegroom_honored
+  - despised_suitor_becomes_bridegroom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despised-younger-heroine-elevated-to-honor
+  motif_id: despised_younger_heroine_elevated_to_honor
+  label: Despised younger heroine elevated to honor
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a broad status-reversal pattern, but the supplied taxonomy has
+    no clear canonical group for lowly/persecuted heroine elevation unless household
+    persecution or marriage is present.
+  cautions: Could map to jealous_stepmother_persecuted_child, sacred_love, royal_legitimacy,
+    or divine_judgment depending on why she is despised and how she is honored.
+  suggested_aliases:
+  - lowly_heroine_elevated
+  - despised_youngest_daughter_honored
+  - persecuted_heroine_raised_to_honor
+  suggested_new_group:
+    id: status_reversal_and_elevation
+    label: Status Reversal and Elevation
+    description: A despised, lowly, outcast, youngest, or underestimated figure is
+      vindicated and raised to honor, marriage, rule, or recognized worth.
+    parent_group_ids:
+    - divine_judgment
+    - royal_legitimacy
+    - sacred_love
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups cover some causes or outcomes,
+      such as marriage, rule, or household persecution, but not the general recurring
+      reversal from despised status to honor.
+- suggestion_id: normalization.suggestion.destruction-of-enemy-city-by-fire-after-heroic-victory
+  motif_id: destruction_of_enemy_city_by_fire_after_heroic_victory
+  label: destruction of enemy city by fire after heroic victory
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core event is martial victory followed by destruction of an enemy
+    city, fitting sacred/heroic combat more than cosmic fire renewal.
+  cautions: Do not map to world-destroying fire unless the fire destroys or renews
+    a cosmic order; may be an over-specific battle episode.
+  suggested_aliases:
+  - enemy_city_burned_after_victory
+  - city_destroyed_by_fire_after_heroic_combat
+  - post_victory_burning_of_enemy_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-local-idols-under-religious-authority
+  motif_id: destruction_of_local_idols_under_religious_authority
+  label: destruction of local idols under religious authority
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: low
+  rationale: Idol destruction under sacred authority may function as enforcement of
+    divine order against prohibited worship.
+  cautions: Culturally sensitive and context-dependent; could be sacred law, covenant
+    purification, conquest narrative, or polemical historiography. Existing idol alias
+    is already marked needs_human_review.
+  suggested_aliases:
+  - idols_destroyed_by_religious_authority
+  - iconoclasm_under_sacred_authority
+  - local_cult_images_destroyed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-waters-covering-a-city
+  motif_id: destructive_waters_covering_a_city
+  label: Destructive waters covering a city
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: narrower_than
+  confidence: medium
+  rationale: Destructive waters overwhelming a city are a local flood/catastrophe
+    pattern within the broader flood-and-renewal complex.
+  cautions: Only use flood_and_renewal if the passage presents divine judgment, catastrophe,
+    or renewal; otherwise this may be a local destruction image without renewal.
+  suggested_aliases:
+  - city_overwhelmed_by_waters
+  - flooded_city_destruction
+  - waters_cover_the_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detecting-a-hidden-enemy-by-making-the-hiding-place-speak
+  motif_id: detecting_a_hidden_enemy_by_making_the_hiding_place_speak
+  label: detecting a hidden enemy by making the hiding-place speak
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: The tactic of making a hiding place speak suggests cunning detection
+    or trickster-style outwitting of a hidden opponent.
+  cautions: Could be magic, divination, talking-object motif, or folktale trick; source
+    context is needed before grouping under trickster or sacred knowledge.
+  suggested_aliases:
+  - hidden_enemy_exposed_by_speaking_hiding_place
+  - hiding_place_made_to_speak
+  - cunning_detection_of_hidden_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devastated-plain-marked-by-ashes
+  motif_id: devastated_plain_marked_by_ashes
+  label: devastated plain marked by ashes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a landscape aftermath detail rather than a reusable
+    narrative motif on its own.
+  cautions: If the passage explains the ashes etiologically or as the trace of sacred/world-destroying
+    fire, remap to cosmic_origin, sacred_fire, or flood_and_renewal after review.
+  suggested_aliases:
+  - ash_marked_devastated_plain
+  - plain_marked_by_ashes_after_destruction
+  - ashes_as_landscape_trace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotion-to-an-animal-companion-against-social-duty
+  motif_id: devotion_to_an_animal_companion_against_social_duty
+  label: devotion to an animal companion against social duty
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The label contrasts loyalty to an animal companion with social obligation,
+    suggesting competing bonds or reciprocity duties.
+  cautions: No existing group cleanly covers animal-companion loyalty; could involve
+    animal helpers, social law, taboo, or personal devotion depending on evidence.
+  suggested_aliases:
+  - animal_companion_loyalty_over_social_duty
+  - devotion_to_animal_helper_against_obligation
+  - conflict_between_companion_loyalty_and_social_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, plot-specific, or depend strongly
+  on source context; human review should verify whether they recur as motifs before
+  promotion.
+- Status-reversal labels may warrant a future group if more lowly/despised figure
+  elevated-to-honor variants recur across traditions.
+- Avoid treating local water or fire destruction as flood/world-fire renewal unless
+  the passage includes catastrophe-and-renewal or divine judgment structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0584
+  input_sha256: 33aef0f64af93cc9a6951b376472b3d2d58b27eab90c186bbbc7997b12ef58d1
+

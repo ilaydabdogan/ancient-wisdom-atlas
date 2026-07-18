@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0774
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tar-baby-and-caught-anansi-comparison
+  motif_id: tar_baby_and_caught_anansi_comparison
+  label: tar-baby and caught-Anansi comparison
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is explicitly a comparison between tale types or episodes rather
+    than a motif in the source passage.
+  cautions: If the source itself narrates Anansi being trapped by a sticky figure,
+    index the narrative under trickster instead of excluding.
+  suggested_aliases:
+  - caught Anansi comparison
+  - tar-baby comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tartarus-as-punitive-abyss-and-prison
+  motif_id: tartarus_as_punitive_abyss_and_prison
+  label: Tartarus as punitive abyss and prison
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Tartarus as a punitive underworld prison fits postmortem or chthonic
+    geography with punishment and confinement.
+  cautions: If the passage emphasizes descent into the abyss rather than afterlife
+    administration, descent may be a secondary mapping; if it emphasizes moral punishment,
+    divine_judgment is also relevant.
+  suggested_aliases:
+  - punitive underworld prison
+  - Tartarus as abyss
+  - underworld prison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-of-royal-children-and-treasure
+  motif_id: theft_of_royal_children_and_treasure
+  label: Theft of royal children and treasure
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines abduction of royal children with treasure theft, which
+    could imply threatened children, sacred treasures, royal legitimacy, or a quest
+    trigger.
+  cautions: Single occurrence and composite wording; source context is needed to decide
+    whether the main function is kidnapping, dynastic threat, theft, or recovery quest.
+  suggested_aliases:
+  - royal children abducted with treasure
+  - theft of royal children
+  - stolen royal children and treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-child-spared-by-a-test-that-explains-later-impairment
+  motif_id: threatened_child_spared_by_a_test_that_explains_later_impairment
+  label: Threatened child spared by a test that explains later impairment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A threatened child who survives a test fits the protected or endangered-child
+    complex, with later bodily mark as evidence detail.
+  cautions: If the impairment etiology is the main point rather than the child's destiny
+    or protection, this may be too specific for pattern queries.
+  suggested_aliases:
+  - threatened child spared by test
+  - child spared through test
+  - surviving child marked by impairment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-maiden-and-impossible-token-demand
+  motif_id: threatened_maiden_and_impossible_token_demand
+  label: Threatened maiden and impossible token demand
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A threatened maiden and impossible demand resembles bride-winning or
+    love-quest ordeal patterns already grouped under sacred_love.
+  cautions: If the token functions mainly as identity proof, recognition_tokens_hidden_identity
+    may be relevant; if the demand is a heroic task, hero_journey may be secondary.
+  suggested_aliases:
+  - impossible token demand for maiden
+  - threatened bride and impossible task
+  - maiden threatened by token demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-maiden-appeals-to-favored-champion
+  motif_id: threatened_maiden_appeals_to_favored_champion
+  label: Threatened maiden appeals to favored champion
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The threatened beloved or maiden appealing to a champion fits romantic
+    rescue and bride-protection patterns in sacred_love.
+  cautions: Could instead be ordinary heroic rescue or social conflict if love, marriage,
+    or beloved status is not central in the passage.
+  suggested_aliases:
+  - maiden appeals to champion
+  - threatened beloved seeks champion
+  - favored champion rescues maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-self-harm-to-resist-forced-marriage
+  motif_id: threatened_self_harm_to_resist_forced_marriage
+  label: Threatened self-harm to resist forced marriage
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resistance to forced marriage belongs with marriage-choice and perilous
+    love patterns already present in sacred_love.
+  cautions: Handle carefully because self-harm and forced marriage are culturally
+    and ethically sensitive; if the passage centers legal coercion or bodily autonomy
+    rather than love, human review may refine placement.
+  suggested_aliases:
+  - forced marriage resisted by self-harm threat
+  - threatened suicide to avoid marriage
+  - bride resists forced marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-suitor-warned-away-by-beloved-through-animal-helper
+  motif_id: threatened_suitor_warned_away_by_beloved_through_animal_helper
+  label: threatened suitor warned away by beloved through animal helper
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core scene is a beloved protecting or warning a suitor within a courtship-danger
+    plot, fitting sacred_love.
+  cautions: Animal helper is significant but secondary; if the animal's agency drives
+    the episode, divine_intervention or a future animal-helper grouping may be relevant.
+  suggested_aliases:
+  - beloved warns suitor through animal helper
+  - animal helper warns threatened suitor
+  - courtship warning by animal messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-unborn-avenger-child
+  motif_id: threatened_unborn_avenger_child
+  label: threatened unborn avenger child
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: An unborn child threatened because of future destiny fits the endangered
+    miraculous child pattern.
+  cautions: The avenger role may also connect to sacred_combat or divine_judgment
+    after birth; do not assume sacred birth unless the source marks destiny or protection.
+  suggested_aliases:
+  - threatened unborn child
+  - unborn avenger child
+  - child threatened before birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-wife-attacked-by-rival-suitor
+  motif_id: threatened_wife_attacked_by_rival_suitor
+  label: threatened wife attacked by rival suitor
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rival suitor attacking a wife fits threatened beloved, marital fidelity,
+    and courtship-conflict patterns in sacred_love.
+  cautions: If the episode is mainly combat, abduction, or honor vengeance, sacred_combat
+    or divine_warrior may be secondary mappings.
+  suggested_aliases:
+  - wife threatened by rival suitor
+  - rival suitor attacks wife
+  - threatened beloved attacked by rival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence courtship, threatened-beloved,
+  or child-endangerment labels; preserve episode detail but avoid promoting new canonical
+  groups without recurrence.
+- The review bucket appears noisy for Tartarus and tar-baby comparison; placements
+  were based on motif wording rather than bucket assignment.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional mappings only; composite and culturally sensitive labels should
+    be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0774
+  input_sha256: f643292967a38904710b96b57244556740522f45d8c5dc7793fe14839f3becd7
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0224
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-pilgrimage-boundary-and-release
+  motif_id: sacred_pilgrimage_boundary_and_release
+  label: Sacred pilgrimage boundary and release
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Pilgrimage boundary and release likely concerns a sacred geography and
+    ritual threshold around a holy center.
+  cautions: Could fit sacred_law or sacred_time if the emphasis is legal restriction
+    or calendrical release rather than place.
+  suggested_aliases:
+  - pilgrimage_boundary_release
+  - sacred_geography_pilgrimage_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-pilgrimage-circuit
+  motif_id: sacred_pilgrimage_circuit
+  label: Sacred pilgrimage circuit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: high
+  rationale: A ritual circuit around a sacred center fits the existing sacred_geography_pilgrimage
+    child under axis_mundi.
+  cautions: Preserve the local ritual form; do not generalize all journeys into hero_journey.
+  suggested_aliases:
+  - pilgrimage_circuit
+  - ritual_circumambulation
+  - sacred_circuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-precinct-guardianship-and-improper-ritual
+  motif_id: sacred_precinct_guardianship_and_improper_ritual
+  label: Sacred precinct guardianship and improper ritual
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Improper ritual and guardianship of a sacred precinct center on regulated
+    sacred order and ritual correctness.
+  cautions: May also relate to royal_legitimacy or axis_mundi if legitimate custodianship
+    of a central sanctuary is the main issue.
+  suggested_aliases:
+  - improper_sanctuary_ritual
+  - sacred_precinct_guardianship
+  - ritual_misconduct_at_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-reserved-trees-under-divine-ownership
+  motif_id: sacred_reserved_trees_under_divine_ownership
+  label: sacred reserved trees under divine ownership
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Reserved trees under divine ownership suggest taboo, ritual restriction,
+    and sacred property regulation.
+  cautions: Culturally sensitive and context-dependent; could instead involve sacred_tree_axis,
+    ancestor rites, local totemic law, or land tenure traditions not represented here.
+  suggested_aliases:
+  - divinely_owned_reserved_trees
+  - sacred_tree_taboo
+  - reserved_sacred_grove
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sanctuary-as-protected-pilgrimage-destination
+  motif_id: sacred_sanctuary_as_protected_pilgrimage_destination
+  label: Sacred sanctuary as protected pilgrimage destination
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: high
+  rationale: A protected pilgrimage sanctuary is a sacred center and destination within
+    ritual geography.
+  cautions: If protection or inviolability is the primary function, sacred_law may
+    be a useful secondary mapping.
+  suggested_aliases:
+  - protected_pilgrimage_sanctuary
+  - sacred_sanctuary_destination
+  - inviolable_pilgrimage_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-site-desecration-during-conquest
+  motif_id: sacred_site_desecration_during_conquest
+  label: sacred-site desecration during conquest
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Desecration of a sacred site during conquest frames violation of sacred
+    order and likely invites moral or divine reckoning.
+  cautions: Could fit sacred_combat if warfare is central, or sacred_law if the focus
+    is prohibition rather than judgment.
+  suggested_aliases:
+  - sanctuary_desecration
+  - desecration_of_sacred_site
+  - sacred_site_violation_in_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-territory-and-commanded-worship
+  motif_id: sacred_territory_and_commanded_worship
+  label: Sacred territory and commanded worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Commanded worship in a sacred territory is primarily ritual obligation
+    and sacred social order.
+  cautions: May also belong with axis_mundi if the territory is treated as a cosmic
+    center or pilgrimage site.
+  suggested_aliases:
+  - commanded_worship_in_sacred_territory
+  - sacred_territorial_worship
+  - ritual_obligation_at_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-trust-and-legitimate-sanctuary-guardianship
+  motif_id: sacred_trust_and_legitimate_sanctuary_guardianship
+  label: sacred trust and legitimate sanctuary guardianship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Legitimate guardianship of a sanctuary concerns authorized sacred office
+    and custodial authority.
+  cautions: Could map to covenant or sacred_law if trust and obligation matter more
+    than legitimacy or authority.
+  suggested_aliases:
+  - legitimate_sanctuary_guardianship
+  - sacred_custodianship
+  - sanctuary_trust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-crossing-with-a-singled-out-exception
+  motif_id: safe_crossing_with_a_singled_out_exception
+  label: Safe crossing with a singled-out exception
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Safe crossing may be a journey or threshold-passage motif, but the singled-out
+    exception could indicate fate, taboo, or narrative detail.
+  cautions: Needs passage evidence; do not map to passage_through_waters unless water
+    is present or to conditional_invulnerability unless the exception creates vulnerability.
+  suggested_aliases:
+  - exception_to_safe_crossing
+  - safe_passage_exception
+  - singled_out_crossing_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-passage-of-an-armed-noble-retinue
+  motif_id: safe_passage_of_an_armed_noble_retinue
+  label: safe passage of an armed noble retinue
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a context-specific travel or political detail rather
+    than a reusable mythic motif.
+  cautions: If source evidence shows sacred escort, oath-protected hospitality, or
+    threshold passage, reconsider under sacred_law, hospitality_test_stranger_guest,
+    or hero_journey.
+  suggested_aliases:
+  - armed_retinue_safe_passage
+  - noble_retinue_safe_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic sanctuary and pilgrimage labels cluster around sacred geography,
+  ritual law, and legitimate custodianship; human review may consider whether a durable
+  pilgrimage/sanctuary subgroup under axis_mundi is warranted if these recur.
+- Avoid treating pilgrimage labels as generic hero_journey unless the passage includes
+  departure, ordeal, transformation, and return.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for ritual, legal, geographic, and political emphasis.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0224
+  input_sha256: dff5986de48aa1e6019799556e7b30b1de5c69f04d0d0a8a156c5c874b87ddec
+

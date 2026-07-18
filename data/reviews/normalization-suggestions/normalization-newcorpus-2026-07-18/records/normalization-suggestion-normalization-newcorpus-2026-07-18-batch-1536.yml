@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1536
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.providential-reversal-from-abandonment-to-establishment
+  motif_id: providential_reversal_from_abandonment_to_establishment
+  label: Providential reversal from abandonment to establishment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests divine reversal and social establishment, but could
+    indicate royal legitimacy, divine intervention, miraculous child, or a narrative-resolution
+    detail.
+  cautions: Single occurrence and abstract wording; needs passage evidence about abandonment,
+    providence, and what is established.
+  suggested_aliases:
+  - abandoned_figure_established_by_providence
+  - providential_status_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.provider-hunts-game-for-dependent-elders
+  motif_id: provider_hunts_game_for_dependent_elders
+  label: provider hunts game for dependent elders
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe filial duty, subsistence provision, elder care,
+    or a contextual episode rather than a clear existing motif.
+  cautions: Could belong under sacred_law if framed as ethical obligation, but may
+    be too specific without recurrent evidence.
+  suggested_aliases:
+  - hunting_to_support_elders
+  - filial_provider_hunts_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-accusation-before-armed-confrontation
+  motif_id: public_accusation_before_armed_confrontation
+  label: Public accusation before armed confrontation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal accusation before combat fits ritualized conflict procedure
+    and public challenge within martial confrontation.
+  cautions: If the accusation is mainly legal or defamatory rather than combat-ritual
+    framing, sacred_law or divine_judgment may be secondary.
+  suggested_aliases:
+  - formal_accusation_before_combat
+  - public_challenge_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-betrothal-before-witnesses
+  motif_id: public_betrothal_before_witnesses
+  label: Public betrothal before witnesses
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: low
+  rationale: A witnessed betrothal concerns socially formalized union, adjacent to
+    marriage-choice and bride-related motifs under sacred_love.
+  cautions: May be a legal/social detail rather than a symbolic motif; consider sacred_law
+    if the passage emphasizes contract and witnesses over love or union.
+  suggested_aliases:
+  - witnessed_betrothal
+  - public_marriage_pledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-celebration-of-the-poet-s-rise
+  motif_id: public_celebration_of_the_poet_s_rise
+  label: public celebration of the poet's rise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: role_variant
+  confidence: low
+  rationale: The poet's public elevation may reflect speech, poetic authority, and
+    fame through verbal art.
+  cautions: Could be biographical or courtly episode rather than motif; exclude if
+    it only records social recognition without sacred or narrative power.
+  suggested_aliases:
+  - poet_publicly_honored
+  - poetic_status_elevation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-confession-followed-by-official-release
+  motif_id: public_confession_followed_by_official_release
+  label: Public confession followed by official release
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Confession followed by release functions as public reckoning, vindication,
+    or restoration after judgment.
+  cautions: If the emphasis is institutional legal procedure rather than sacred moral
+    reckoning, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - confession_and_release
+  - public_confession_vindication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-after-revealed-deception
+  motif_id: public_humiliation_after_revealed_deception
+  label: Public humiliation after revealed deception
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure of deception followed by public humiliation is a moral-reckoning
+    and social-judgment pattern.
+  cautions: May also relate to trickster reversal if deception itself is central;
+    confirm whether humiliation is punishment, comedy, or plot closure.
+  suggested_aliases:
+  - deceiver_publicly_humiliated
+  - revealed_deception_punished_by_shame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-loyalty-pressure-after-secret-parley
+  motif_id: public_loyalty_pressure_after_secret_parley
+  label: public loyalty pressure after secret parley
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns political loyalty, public pressure, and private negotiation,
+    but its mythic function is unclear.
+  cautions: Could fit betrayal_violated_trust, royal_legitimacy, sacred_combat, or
+    be a highly contextual court episode.
+  suggested_aliases:
+  - loyalty_test_after_secret_parley
+  - public_pressure_to_declare_loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-mourning-for-a-slain-lord
+  motif_id: public_mourning_for_a_slain_lord
+  label: public mourning for a slain lord
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: child
+  confidence: high
+  rationale: Communal grief for a killed ruler or lord directly fits public lament
+    and mourning for fallen leaders.
+  cautions: If tied to formal funeral honors, heroic_funeral_rites may be a useful
+    secondary mapping.
+  suggested_aliases:
+  - communal_mourning_for_slain_lord
+  - public_lament_for_fallen_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-proclamation-by-ceremonial-drum
+  motif_id: public_proclamation_by_ceremonial_drum
+  label: Public proclamation by ceremonial drum
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A ceremonial drum proclamation may involve sacred sound, public authority,
+    ritual communication, or a local political act.
+  cautions: Do not map to enchanting_music unless the drum has supernatural sound-power;
+    source context is needed to distinguish ritual announcement from narrative detail.
+  suggested_aliases:
+  - ceremonial_drum_proclamation
+  - drum_as_public_announcement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence public/social action labels; several
+  may be contextual episode artifacts unless source evidence shows recurring ritual
+  or mythic function.
+- Avoid treating public or official actions as sacred motifs without evidence of ritual,
+  moral reckoning, or symbolic narrative role.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for abstract
+    providential, loyalty-pressure, subsistence, and ceremonial proclamation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1536
+  input_sha256: d44f9115b0fba7634de64614a0b2fae102590d80b055d066a4d43ee20c9be164
+

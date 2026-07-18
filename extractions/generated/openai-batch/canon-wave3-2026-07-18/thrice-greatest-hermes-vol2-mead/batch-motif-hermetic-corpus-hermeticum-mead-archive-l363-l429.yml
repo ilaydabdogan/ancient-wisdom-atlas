@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l363-l429
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CORP. HERM. VIII. (IX.) / CONTENTS / CORP. HERM. IX. (X.) / ON THOUGHT AND
+    SENSE . 129-136; lines 363-429
+  start: '363'
+  end: '429'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“THAT NO ONE OF EXISTING THINGS DOTH PERISH”"
+  summary: The passage is a table-of-contents segment listing titles and commentary
+    headings for Corpus Hermeticum VIII/IX and IX/X, including themes of non-perishing,
+    change misnamed as death, the cosmos as “Second God,” apokatastasis, thought and
+    sense, gnosis, the true gnostic, and the possibility of knowing God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A contents entry names a Hermetic treatise stating that no existing thing
+    perishes and that men in error call changes destructions and deaths.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Commentary headings under the first listed treatise include the cosmos as
+    “Second God” and the law of apokatastasis.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A subsequent contents entry names a Hermetic treatise titled “On Thought and
+    Sense,” assigned to pages 129-136.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Commentary headings under “On Thought and Sense” include “Sense-and-Thought,”
+    “Those in Gnosis,” “The True Gnostic,” “The Goal of the Gnosis,” and “The Possibility
+    of Knowing God.”
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage is a contents listing and commentary outline, not a narrative
+    episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Men in error
+  description: The title describes “men in error” as speaking of changes as destructions
+    and deaths.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cosmos
+  description: A commentary heading describes the cosmos as “Second God.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: God
+  description: A commentary heading concerns the possibility of knowing God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Those in Gnosis / True Gnostic
+  description: Commentary headings refer to “Those in Gnosis” and “The True Gnostic.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Erroneous interpreters of change as death
+  assigned_to:
+  - fig:1
+  basis: The title says men in error speak of changes as destructions and deaths.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Second God
+  assigned_to:
+  - fig:2
+  basis: A commentary heading labels the cosmos as “Second God.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Object of possible knowledge
+  assigned_to:
+  - fig:3
+  basis: A commentary heading is titled “The Possibility of Knowing God.”
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Gnostic knower
+  assigned_to:
+  - fig:4
+  basis: Commentary headings mention those in gnosis and the true gnostic.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Change mistaken for destruction or death
+  taxonomy_refs: []
+  basis: The contents title states that existing things do not perish and that men
+    in error call their changes destructions and deaths.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a title, not the full doctrinal argument or narrative
+    development.
+- id: motif:2
+  label: Gnosis and knowing God
+  taxonomy_refs:
+  - wisdom
+  basis: The contents and commentary headings emphasize thought, sense, gnosis, the
+    true gnostic, the goal of gnosis, and the possibility of knowing God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a thematic contents heading; it supports a wisdom/gnosis motif
+    only at a general level.
+- id: motif:3
+  label: Cosmos as divine or secondary god
+  taxonomy_refs: []
+  basis: A commentary heading identifies “The Cosmos as ‘Second God.’”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The heading alone does not supply the underlying cosmological explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 363-371
+  quote_or_summary: "“THAT NO ONE OF EXISTING THINGS DOTH PERISH, BUT MEN IN ERROR
+    SPEAK OF THEIR CHANGES AS DESTRUCTIONS AND AS DEATHS”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 373-377
+  quote_or_summary: 'Commentary headings: “The Cosmos as ‘Second God’” and “The Law
+    of Apokatastasis.”'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 387-397
+  quote_or_summary: "“CORP. HERM. IX. (X.) … ON THOUGHT AND SENSE . 129-136”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 399-429
+  quote_or_summary: The commentary outline lists headings on title and ordering, sense-and-thought,
+    those in gnosis, the true gnostic, the goal of gnosis, and the possibility of
+    knowing God.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is straightforward for the contents headings. Motif candidates
+    are limited because the passage is an outline rather than a full narrative or
+    doctrinal passage. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No listed taxonomy symbol appears literally in the passage. No narrative scenes or passage-supported comparison claims were extracted.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l363-l429
+  passage_sha256=dd633d311d508b6c5988cd5a7c19d44b5b25ec17f2b6a1236f650c0ec163356e
+

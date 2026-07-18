@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l10819-l10838
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'LIBER IV. / NOTES: / LIBER V. / NOTES:; lines 10819-10838'
+  start: '10819'
+  end: '10838'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The notes explain calendar entries around late May: an old calendar abbreviation
+    concerning the Rex Sacrorum at the Comitium; antiquarian explanations by Varro
+    and Plutarch involving a sacrifice and rapid departure; the dedication of a temple
+    of Fortuna Publica, probably identified with Fortuna Primigenia; and the evening
+    or heliacal rising and setting of Aquila, Bootes, and the Hyades.'
+  language: English commentary with Latin and Greek quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An ancient calendar contained the abbreviation Q. R. C. F., which the note
+    says could be read either as a formula about the king holding an assembly or as
+    a formula about the king fleeing from the Comitium.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king mentioned in the calendar explanation is identified as the Rex Sacrorum.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Varro explains the day by saying the rex sacrificulus speaks at the Comitium,
+    with a change from nefas to fas connected to that time.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Plutarch is cited as reporting an ancestral sacrifice at the Comitium/agora
+    after which the king leaves or flees quickly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the eighth day before the Kalends of June, a temple of Fortuna Publica
+    had been dedicated; the note says this was probably the temple of Fortuna Primigenia
+    mentioned by Plutarch.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the same day as the Fortuna temple notice, Aquila rises in the evening.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: On the following calendar days, Bootes sets heliacally and the Hyades rise
+    heliacally.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rex Sacrorum / rex sacrificulus
+  description: The priestly king identified in the note as the figure involved in
+    the Comitium calendar rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fortuna Publica / Fortuna Primigenia
+  description: The deity associated with the temple dedication discussed in the calendar
+    note, with the identification treated as probable by the commentator.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Servius Tullius
+  description: Named in the cited Plutarch passage as the founder of a temple of Fortuna
+    Primigenia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: priestly king performing or associated with sacrifice
+  assigned_to:
+  - fig:1
+  basis: The note identifies the king as Rex Sacrorum and cites Varro and Plutarch
+    on the king-priest's Comitium rite.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: cult deity of temple dedication
+  assigned_to:
+  - fig:2
+  basis: The passage records a temple dedication to Fortuna Publica and identifies
+    it probably with Fortuna Primigenia.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: royal temple founder in cited tradition
+  assigned_to:
+  - fig:3
+  basis: The cited Plutarch passage is summarized as saying Servius Tullius founded
+    a temple to Fortuna Primigenia.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Q. R. C. F. calendar formula
+  literal_form: Ancient calendar abbreviation with alternate readings about the king
+    and the Comitium.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Comitium
+  literal_form: Civic ritual place where the rex sacrificulus is said to speak or
+    sacrifice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Temple of Fortuna
+  literal_form: A temple dedicated to Fortuna Publica, probably identified with Fortuna
+    Primigenia in the note.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Aquila rising
+  literal_form: The constellation Aquila rising in the evening.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Bootes setting
+  literal_form: The constellation Bootes setting heliacally.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Hyades rising
+  literal_form: The Hyades rising heliacally.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rex Sacrorum calendar rite at the Comitium
+  summary: The note explains an old calendar formula by reference to the Rex Sacrorum
+    or rex sacrificulus at the Comitium, with antiquarian sources connecting the day
+    to ritual speech, sacrifice, and swift departure or flight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fortuna temple dedication and Aquila rising
+  summary: A calendar date is associated with the dedication of a temple of Fortuna
+    Publica, probably Fortuna Primigenia, and with the evening rising of Aquila.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Heliacal movements of Bootes and the Hyades
+  summary: The following dates are marked by Bootes setting heliacally and the Hyades
+    rising heliacally.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice by a priestly king at a civic ritual place
+  taxonomy_refs:
+  - sacrifice
+  basis: The cited explanations describe the rex sacrificulus or king performing or
+    being associated with sacrifice at the Comitium.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an editorial note on calendar entries, not a continuous
+    mythic narrative.
+- id: motif:2
+  label: Ritual flight or rapid departure after sacrifice
+  taxonomy_refs: []
+  basis: One reading of the calendar formula refers to the king fleeing from the Comitium,
+    and Plutarch is cited as saying the king leaves or flees quickly after sacrificing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The function of the flight is not explained in the passage; it is presented
+    as an antiquarian calendar explanation.
+- id: motif:3
+  label: Calendar time marked by temple dedication and stellar phases
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The notes tie specific Roman calendar dates to a Fortuna temple dedication
+    and to the rising or setting of Aquila, Bootes, and the Hyades.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The evidence is calendrical and astronomical rather than a developed seasonal
+    myth.
+- id: motif:4
+  label: Royal foundation of a goddess's temple
+  taxonomy_refs: []
+  basis: The note cites Plutarch for Servius Tullius founding a temple of Fortuna
+    Primigenia, in connection with the calendar notice of the temple dedication.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The identification is described as probable, and the passage gives only
+    a brief antiquarian reference.
+comparison_claims:
+- id: claim:1
+  claim: The note places the Rex Sacrorum calendar entry in comparison with Roman
+    antiquarian explanations by Varro and Plutarch, both connecting the Comitium day
+    with a king-priestly ritual and a change or departure after the rite.
+  claim_level: same_function
+  target: Varro, Lingua Latina V, and Plutarch, Quaestiones Romanae 63, as cited in
+    the note
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is mediated by the editorial note and concerns ritual-calendar
+    explanation rather than an explicitly narrated myth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10819-10823
+  quote_or_summary: The note explains the ancient calendar abbreviation Q. R. C. F.
+    with two possible readings involving the king and the Comitium, and identifies
+    the king as the Rex Sacrorum.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 10823-10826
+  quote_or_summary: Varro is cited on the rex sacrificulus speaking at the Comitium
+    and the transition from nefas to fas; Plutarch is cited on an ancestral sacrifice
+    at the Comitium/agora after which the king departs or flees quickly.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 10828-10836
+  quote_or_summary: The note says the temple of Fortuna Publica was dedicated on VIII
+    Kalends of June, probably the temple of Fortuna Primigenia mentioned by Plutarch
+    as founded by Servius Tullius; on the same day Aquila rises in the evening.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 10837-10838
+  quote_or_summary: The following day Bootes sets heliacally, and on the next listed
+    day the Hyades rise heliacally.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on a short editorial note with clear ritual and calendrical
+    details; motif interpretation is limited because the passage is not a narrative
+    episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line range consists of commentary and antiquarian citation material rather than continuous Ovidian verse.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l10819-l10838
+  passage_sha256=d2ba3e405d224a215cba9448d66adf96e01809c39f5905538ed1a5a309883f5d
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0775
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threatening-monster-visits-children-while-parents-are-away
+  motif_id: threatening_monster_visits_children_while_parents_are_away
+  label: Threatening monster visits children while parents are away
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a family-danger episode, but current groups do not
+    clearly cover household child-endangerment by monsters unless persecution, threshold,
+    or trickster function is evidenced.
+  cautions: Single occurrence and highly contextual; could be a folktale episode rather
+    than a durable motif. Review whether the monster is a predator-deceiver, threshold
+    intruder, or persecutor of children.
+  suggested_aliases:
+  - monster_intrudes_on_children
+  - children_threatened_while_parents_absent
+  - household_child_endangerment_by_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-color-beauty-formula
+  motif_id: three_color_beauty_formula
+  label: Three-color beauty formula
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like a descriptive formula or literary style marker
+    rather than a narrative or symbolic motif.
+  cautions: If the three colors have ritual, cosmological, or identity-proof function
+    in the passage, remap with evidence; otherwise preserve as textual detail only.
+  suggested_aliases:
+  - tricolor_beauty_description
+  - three_color_beauty_description
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-night-household-visit-followed-by-birth-after-nine-months
+  motif_id: three_night_household_visit_followed_by_birth_after_nine_months
+  label: three-night household visit followed by birth after nine months
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A timed supernatural or significant visit followed by birth fits extraordinary
+    conception or sacred birth when the child has marked significance.
+  cautions: If the visit is ordinary kinship chronology or dynastic genealogy without
+    unusual destiny, this may be over-specific evidence rather than a motif.
+  suggested_aliases:
+  - supernatural_visit_followed_by_birth
+  - three_night_visit_and_conception
+  - timed_visit_before_sacred_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-skilled-brothers-jointly-rescue-a-parent
+  motif_id: three_skilled_brothers_jointly_rescue_a_parent
+  label: Three skilled brothers jointly rescue a parent
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: low
+  rationale: The active sibling set jointly performs a rescue, fitting the broader
+    sibling-pair/sibling-group cooperation pattern more than birth or love motifs.
+  cautions: Existing group is centered on twins or sibling pairs, while this is three
+    brothers; consider human review for whether sibling-set motifs need broader handling.
+  suggested_aliases:
+  - skilled_siblings_rescue_parent
+  - brothers_jointly_rescue_parent
+  - three_brothers_cooperative_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-bargain-for-access-to-an-enchanted-beloved
+  motif_id: threefold_bargain_for_access_to_an_enchanted_beloved
+  label: threefold bargain for access to an enchanted beloved
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bargain undertaken to reach an enchanted beloved fits love as quest,
+    ordeal, and access to a desired partner.
+  cautions: If the bargain itself with supernatural powers is central, sacred_exchange
+    or otherworld may be useful secondary mappings.
+  suggested_aliases:
+  - bargain_for_beloved_access
+  - threefold_love_bargain
+  - enchanted_beloved_access_bargain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-dynastic-marriage-alliance
+  motif_id: threefold_dynastic_marriage_alliance
+  label: threefold dynastic marriage alliance
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dynastic marriage alliance functions to organize succession, rulership,
+    and political legitimacy rather than primarily romantic love.
+  cautions: If the passage emphasizes sacred union or fertility rather than political
+    order, sacred_marriage or sacred_love may be better secondary references.
+  suggested_aliases:
+  - dynastic_marriage_alliance
+  - marriage_alliance_for_kingship
+  - threefold_royal_marriage_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-exchange-of-marvelous-garments-for-access-to-a-beloved
+  motif_id: threefold_exchange_of_marvelous_garments_for_access_to_a_beloved
+  label: Threefold exchange of marvelous garments for access to a beloved
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The exchange is a repeated ordeal or payment to gain access to the beloved,
+    aligning with love-quest patterns.
+  cautions: Marvelous garments may also be sacred treasures or recognition objects;
+    do not collapse the object detail if it carries independent power or identity
+    function.
+  suggested_aliases:
+  - marvelous_garments_exchanged_for_beloved
+  - threefold_love_exchange
+  - garment_exchange_for_access_to_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tiny-humans-carried-by-a-giant-maiden
+  motif_id: tiny_humans_carried_by_a_giant_maiden
+  label: Tiny humans carried by a giant maiden
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates scale contrast and a giant female figure, but narrative
+    function is unclear from the label alone.
+  cautions: Could be otherworld encounter, comic folktale detail, giantess helper/threat,
+    or passage-specific imagery; source context is needed before grouping.
+  suggested_aliases:
+  - humans_carried_by_giantess
+  - tiny_people_and_giant_maiden
+  - scale_contrast_with_giant_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-exogamy-with-same-totem-marriage-exception
+  motif_id: totemic_exogamy_with_same_totem_marriage_exception
+  label: Totemic exogamy with same-totem marriage exception
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif concerns marriage rules and exceptions embedded in sacred social
+    order, closest to sacred law.
+  cautions: Culturally sensitive and likely depends on specific kinship evidence;
+    review with care before indexing as a broad motif. May be ethnographic rule rather
+    than narrative motif.
+  suggested_aliases:
+  - totemic_marriage_rule_exception
+  - exogamy_rule_with_totem_exception
+  - same_totem_marriage_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transcendent-realm-expressed-through-cosmic-scale-comparisons
+  motif_id: transcendent_realm_expressed_through_cosmic_scale_comparisons
+  label: transcendent realm expressed through cosmic scale comparisons
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A transcendent realm described by cosmic scale comparisons fits a nonordinary
+    realm alongside or beyond ordinary reality.
+  cautions: Could instead be cosmological speculation, ascent vision, or textual-theological
+    description rather than a narrative otherworld motif; review source evidence.
+  suggested_aliases:
+  - transcendent_realm_by_cosmic_scale
+  - cosmic_scale_description_of_otherworld
+  - immeasurable_transcendent_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and episode-specific; preserve local evidence
+  notes rather than promoting to taxonomy families.
+- The love/family bucket includes political marriage, kinship law, and cosmological
+  description items that may need rebucketing during human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive kinship-law item and ambiguous
+    giant/monster episodes require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0775
+  input_sha256: b2f4d236b18904cc8d0e53465d68487c1d175ec9cafafed7a8a8bd808bc6f583
+

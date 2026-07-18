@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1212
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fictive-sibling-household-formed-after-abduction
+  motif_id: fictive_sibling_household_formed_after_abduction
+  label: Fictive sibling household formed after abduction
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines abduction, household formation, and fictive kinship,
+    but the dominant function is unclear from the label alone.
+  cautions: Could involve otherworld abduction, family/social order, captivity, or
+    an episode-specific plot resolution; source context is needed.
+  suggested_aliases:
+  - fictive_kinship_after_abduction
+  - abduction_followed_by_fictive_siblinghood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-benefactor-behind-household-prosperity
+  motif_id: fiery_benefactor_behind_household_prosperity
+  label: fiery benefactor behind household prosperity
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural or uncanny benefactor causing household prosperity fits
+    direct sacred or spirit agency in human affairs.
+  cautions: If the fiery nature is central as hearth, light, or sacrificial medium,
+    secondary review under sacred_fire may be useful; if it is a domestic spirit type,
+    preserve local specificity.
+  suggested_aliases:
+  - household_prosperity_from_fiery_benefactor
+  - supernatural_household_prosperity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-threshold-guardian-overcome-by-substitute-prey
+  motif_id: fiery_threshold_guardian_overcome_by_substitute_prey
+  label: Fiery threshold guardian overcome by substitute prey
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly centers on a guardian at a threshold who must be
+    overcome for passage.
+  cautions: The substitute prey tactic may also touch trickster or sacrifice, and
+    the fiery imagery may be secondary unless sacred fire is central to the episode.
+  suggested_aliases:
+  - threshold_guardian_overcome_by_substitute
+  - fiery_guardian_at_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacrifice
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.floe-edge-boundary-as-hunting-zone
+  motif_id: floe_edge_boundary_as_hunting_zone
+  label: floe-edge boundary as hunting zone
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an ecological boundary and subsistence setting, but
+    its mythic or ritual function is not evident.
+  cautions: May be an ethnographic/environmental detail rather than a reusable motif;
+    review Indigenous context carefully before abstracting into a generic boundary
+    motif.
+  suggested_aliases:
+  - ice_edge_hunting_boundary
+  - floe_edge_as_liminal_hunting_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-quarrel-creates-enduring-group-hostility
+  motif_id: food_quarrel_creates_enduring_group_hostility
+  label: Food quarrel creates enduring group hostility
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dispute over food that establishes lasting hostility fits a broken
+    social bond as the narrative engine.
+  cautions: Could instead be an etiology of intergroup relations or a sacred-law/hospitality
+    violation depending on passage evidence; do not reduce Hopi-specific social meaning
+    to generic conflict without review.
+  suggested_aliases:
+  - food_dispute_origin_of_group_hostility
+  - quarrel_over_food_causes_enduring_enmity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-utterance-during-magical-rescue
+  motif_id: forbidden_utterance_during_magical_rescue
+  label: Forbidden utterance during magical rescue
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on a speech prohibition where utterance affects a magical
+    rescue, fitting performative sacred or taboo speech.
+  cautions: If the emphasis is on rescue ordeal rather than the utterance itself,
+    initiation or divine_intervention may be secondary; preserve the forbidden-speech
+    condition.
+  suggested_aliases:
+  - taboo_utterance_during_rescue
+  - speech_prohibition_in_magical_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-suffering-of-the-righteous-saviour
+  motif_id: foretold_suffering_of_the_righteous_saviour
+  label: Foretold suffering of the righteous Saviour
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines prophecy, righteous suffering, and savior role, and
+    may be doctrinally specific to Christian apocryphal context.
+  cautions: Could map to prophecy_divination, sacrifice, divine_judgment, or death_and_transformation
+    depending on whether the passage emphasizes foretelling, redemptive suffering,
+    or vindication; culturally sensitive theological terminology needs review.
+  suggested_aliases:
+  - prophecy_of_righteous_suffering
+  - foretold_suffering_savior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacrifice
+    - death_and_transformation
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.former-giant-like-neighboring-people
+  motif_id: former_giant_like_neighboring_people
+  label: Former giant-like neighboring people
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a past neighboring people with giant-like traits,
+    but does not state a clear narrative function.
+  cautions: May be ethnographic memory, etiological ancestry, other-than-human people,
+    or a passage-specific descriptor; review Inuit source context before grouping
+    as divine race or otherworld beings.
+  suggested_aliases:
+  - giant_like_former_neighbors
+  - former_giant_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - otherworld
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fort-wall-as-boundary-between-captive-danger-and-communal-safety
+  motif_id: fort_wall_as_boundary_between_captive_danger_and_communal_safety
+  label: fort wall as boundary between captive danger and communal safety
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The wall functions as a charged boundary separating danger from protected
+    communal space, aligning with threshold logic.
+  cautions: No guardian figure is named; if the wall is merely a military setting,
+    this may be an over-specific spatial detail better kept as evidence under sacred_combat
+    or excluded.
+  suggested_aliases:
+  - fort_wall_as_protective_boundary
+  - wall_between_danger_and_communal_safety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-boundary-breached-by-assault
+  motif_id: fortified_boundary_breached_by_assault
+  label: fortified boundary breached by assault
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fortified boundary breached by assault is primarily a combat and siege
+    action rather than a symbolic threshold by itself.
+  cautions: May be too generic or episode-specific unless the breach has ritual, sacred,
+    or mythic consequences; if only a battle detail, exclude from broad pattern queries.
+  suggested_aliases:
+  - siege_breach_of_fortified_boundary
+  - assault_breaches_protective_wall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence boundary or setting labels; review
+  should distinguish reusable symbolic thresholds from ordinary spatial or military
+  details.
+- For Indigenous or culturally specific labels, preserve local context and avoid overgeneralizing
+  environmental, social, or ethnographic details into broad motifs without source
+  evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; high contextual ambiguity for several single-occurrence
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1212
+  input_sha256: f7339e0a081972d645b83eed4b8a1b89367d048f639f1468512b18361b246770
+

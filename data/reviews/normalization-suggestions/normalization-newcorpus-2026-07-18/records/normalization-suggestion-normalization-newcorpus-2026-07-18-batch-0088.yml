@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0088
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lifelong-fidelity-and-mourning-after-the-hero-s-death
+  motif_id: lifelong_fidelity_and_mourning_after_the_hero_s_death
+  label: lifelong fidelity and mourning after the hero's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on prolonged mourning and fidelity after heroic death,
+    matching lament and grief as socially meaningful response to loss.
+  cautions: Could also touch sacred_love if fidelity beyond death is the main emphasis;
+    single occurrence may be episode-specific.
+  suggested_aliases:
+  - faithful_mourning_after_heroic_death
+  - lifelong_mourning_for_dead_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.light-inheritance-for-souls-receiving-the-first-mystery
+  motif_id: light_inheritance_for_souls_receiving_the_first_mystery
+  label: Light inheritance for souls receiving the First Mystery
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a postmortem soul reward or salvific state
+    linked to esoteric instruction, overlapping afterlife passage and sacred knowledge.
+  cautions: Highly tradition-specific Gnostic terminology; needs source review before
+    mapping to afterlife_passage, sacred_knowledge, mystical_quest, or exclusion as
+    doctrinal detail.
+  suggested_aliases:
+  - light_inheritance_of_the_soul
+  - soul_reward_after_mystery_instruction
+  - gnostic_light_inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liminal-guardian-at-the-deep-or-underworld-gate
+  motif_id: liminal_guardian_at_the_deep_or_underworld_gate
+  label: Liminal guardian at the deep or underworld gate
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: high
+  rationale: A guardian stationed at an underworld or deep gate directly matches the
+    boundary-guardian function before passage between realms.
+  cautions: If the passage mainly maps the soul's route rather than the guardian's
+    role, afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - underworld_gate_guardian
+  - guardian_at_the_deep_gate
+  - chthonic_threshold_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lineage-purity-and-naturalized-descent
+  motif_id: lineage_purity_and_naturalized_descent
+  label: lineage purity and naturalized descent
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns ancestry, purity, and descent status but does not
+    clearly match death, afterlife, or an existing narrative motif group from wording
+    alone.
+  cautions: May be a legal, genealogical, social-order, or commentary artifact rather
+    than a mythic motif; review culturally sensitive lineage/purity language in context.
+  suggested_aliases:
+  - purity_of_lineage
+  - naturalized_descent_status
+  - genealogical_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-earth-as-nourisher-and-receiver-of-the-dead
+  motif_id: living_earth_as_nourisher_and_receiver_of_the_dead
+  label: living earth as nourisher and receiver of the dead
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Earth as a living nourisher and receiver of the dead fits the maternal
+    earth/fertility-and-death aspect of the sacred feminine group.
+  cautions: If no personified or divine earth is present, this may be a broad symbolic
+    earth/death image better reviewed under death_and_transformation or ancestor rites.
+  suggested_aliases:
+  - earth_mother_receives_the_dead
+  - living_earth_nourishes_and_buries
+  - earth_as_womb_and_tomb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-person-feigns-corpse-to-expose-a-corpse-stealing-being
+  motif_id: living_person_feigns_corpse_to_expose_a_corpse_stealing_being
+  label: Living person feigns corpse to expose a corpse-stealing being
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning death to expose or defeat a dangerous being is a deception strategy
+    already represented in trickster/feigned-death variants.
+  cautions: The corpse-stealing being may also relate to restless dead or mortuary
+    violation, but the active motif is deception by the living person.
+  suggested_aliases:
+  - feigned_corpse_to_expose_monster
+  - feigned_death_against_corpse_thief
+  - corpse_disguise_to_trap_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-person-physically-drives-off-ghosts
+  motif_id: living_person_physically_drives_off_ghosts
+  label: living person physically drives off ghosts
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Driving off ghosts fits the existing expulsion/exorcism complex currently
+    folded under sacrifice as ritual expulsion.
+  cautions: If the scene is a narrative fight rather than a rite, restless_dead_haunting_vengeance
+    or divine_intervention may be better; source context needed.
+  suggested_aliases:
+  - ghost_expulsion_by_living_person
+  - physical_driving_off_of_ghosts
+  - living_person_repels_ghosts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-prayers-aid-the-dead
+  motif_id: living_prayers_aid_the_dead
+  label: Living prayers aid the dead
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Prayers by the living that benefit the dead are ritual care maintaining
+    relations between living and dead.
+  cautions: If prayers function specifically as instructions for postmortem travel,
+    afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - prayers_for_the_dead
+  - living_aid_to_dead_souls
+  - ritual_prayer_supporting_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-ruler-clings-to-dead-consort-against-funeral-order
+  motif_id: living_ruler_clings_to_dead_consort_against_funeral_order
+  label: Living ruler clings to dead consort against funeral order
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Clinging to a dead consort against funerary order expresses grief that
+    disrupts expected mourning and burial practice.
+  cautions: The royal status and funeral disorder may also implicate royal_legitimacy
+    or heroic_funeral_rites; likely over-specific as a standalone motif.
+  suggested_aliases:
+  - mourner_clings_to_dead_consort
+  - grief_disrupts_funeral_order
+  - ruler_mourns_dead_consort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-wife-embraces-dead-husband-in-the-mound
+  motif_id: living_wife_embraces_dead_husband_in_the_mound
+  label: living wife embraces dead husband in the mound
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: A living wife embracing her dead husband in the burial mound centers
+    love or fidelity crossing the boundary of death.
+  cautions: If the passage emphasizes mound visitation, burial space, or mourning
+    more than love, lament_and_mourning or heroic_funeral_rites may be better secondary
+    groups.
+  suggested_aliases:
+  - spousal_embrace_beyond_death
+  - wife_embraces_dead_husband
+  - love_at_the_burial_mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should remain granular evidence unless
+  recurrence is demonstrated.
+- Death-related labels in this batch often overlap mourning, ancestor care, afterlife
+  passage, and ritual expulsion; final placement should follow passage function rather
+  than death vocabulary alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0088; human review
+    recommended for Gnostic doctrinal terminology and lineage/purity language.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0088
+  input_sha256: a8daa6d77999ff4eb819e5f0e22a59ed78797eb4870b33fe613c190452a9635d
+

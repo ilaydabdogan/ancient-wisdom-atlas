@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0038
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-enters-the-world-through-envy
+  motif_id: death_enters_the_world_through_envy
+  label: death enters the world through envy
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological origin of death entering the human
+    world, fitting creation/origin explanations more than an afterlife motif.
+  cautions: Could also relate to pride_and_downfall or divine_judgment if the passage
+    emphasizes envy as moral fault and punishment rather than origin of mortality.
+  suggested_aliases:
+  - origin_of_death_through_envy
+  - mortality_enters_world_through_envy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-expressed-by-euphemistic-formula
+  motif_id: death_expressed_by_euphemistic_formula
+  label: death expressed by euphemistic formula
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe wording or formulaic diction for death
+    rather than a narrative or symbolic motif.
+  cautions: If the formula is a culturally active taboo speech practice or performative
+    euphemism, review for curse_blessing_speech or sacred_law instead.
+  suggested_aliases:
+  - euphemistic_formula_for_death
+  - death_euphemism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-fixed-by-divine-writing
+  motif_id: death_fixed_by_divine_writing
+  label: Death fixed by divine writing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: Death determined by divine inscription is a clear form of fated or decreed
+    death.
+  cautions: May also relate to sacred_knowledge or prophecy_divination if the written
+    decree is revealed, read, or interpreted in the passage.
+  suggested_aliases:
+  - decreed_death_by_divine_writing
+  - death_inscribed_by_divine_decree
+  - written_decree_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-foreknown-through-repeated-portents
+  motif_id: death_foreknown_through_repeated_portents
+  label: death foreknown through repeated portents
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foreknowledge of death through portents fits omen-based access to hidden
+    or future knowledge.
+  cautions: If the focus is the inevitability of the death rather than the signs,
+    death_by_fate should be a secondary or alternate placement.
+  suggested_aliases:
+  - death_omen
+  - portents_foretell_death
+  - foreknown_death_by_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-denied-water-followed-by-punitive-curse
+  motif_id: death_from_denied_water_followed_by_punitive_curse
+  label: death from denied water followed by punitive curse
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The distinctive motif element is a punitive curse that follows wrongful
+    denial and death, making performative sacred speech the best fit.
+  cautions: Highly contextual; if the passage centers on violation of hospitality
+    or water obligation, sacred_law or sacred_exchange may be relevant.
+  suggested_aliases:
+  - punitive_curse_after_denied_water
+  - curse_following_death_by_thirst
+  - death_by_denied_water_and_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-fright-at-an-animal-s-speech
+  motif_id: death_from_fright_at_an_animal_s_speech
+  label: Death from fright at an animal's speech
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The group already contains fright_causing_sudden_death; this label is
+    a more specific variant involving uncanny animal speech.
+  cautions: Could also relate to trickster or shapeshifter if the animal speech marks
+    a boundary-crossing being rather than simply a cause of death.
+  suggested_aliases:
+  - fright_causing_sudden_death_by_animal_speech
+  - uncanny_animal_speech_causes_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-grief-after-kin-s-death
+  motif_id: death_from_grief_after_kin_s_death
+  label: death from grief after kin's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: Death caused by mourning for kin fits the lament-and-mourning complex,
+    especially grief leading to collapse or death.
+  cautions: If the passage frames the death as fated or sacrificial rather than grief-driven,
+    consider death_by_fate or sacrifice as secondary.
+  suggested_aliases:
+  - grief_death_after_kin_loss
+  - mourning_death_after_kin_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-grief-after-loss-of-the-beloved-son
+  motif_id: death_from_grief_after_loss_of_the_beloved_son
+  label: death from grief after loss of the beloved son
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: This is a kin-specific variant of grief and mourning becoming fatal.
+  cautions: Preserve the parent-child relationship as evidence detail; do not collapse
+    into miraculous_child unless the son’s sacred destiny is central.
+  suggested_aliases:
+  - death_from_grief_for_son
+  - fatal_mourning_for_beloved_son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-grief-and-dread-after-witnessing-a-killing
+  motif_id: death_from_grief_and_dread_after_witnessing_a_killing
+  label: Death from grief and dread after witnessing a killing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The fatal response to witnessed killing combines traumatic recognition
+    with grief, fitting lament and tragic mourning.
+  cautions: May overlap with compelled_gaze_at_death if the passage emphasizes the
+    forced witnessing itself more than mourning.
+  suggested_aliases:
+  - fatal_grief_after_witnessing_killing
+  - death_from_dread_at_killing
+  - grief_and_dread_cause_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-grief-for-wounded-beloved
+  motif_id: death_from_grief_for_wounded_beloved
+  label: Death from grief for wounded beloved
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fatal grief for a beloved foregrounds love as a death-transcending or
+    death-producing force, fitting sacred_love better than generic mortality.
+  cautions: If the passage emphasizes mourning ritual or tragic lament rather than
+    beloved-love, lament_and_mourning may be the better primary mapping.
+  suggested_aliases:
+  - fatal_grief_for_beloved
+  - death_from_love_grief
+  - grief_for_wounded_beloved_causes_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  should preserve local evidence details rather than promote new taxonomy motifs.
+- Grief-caused death labels cluster around lament_and_mourning, with sacred_love appropriate
+  when the beloved relationship is the central function.
+- Origin-of-death, fated-death, omen, and speech-act labels should remain distinct;
+  do not merge all death-related labels into death_and_transformation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific or passage-dependent cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0038
+  input_sha256: 2d44fbd55d56973a1ecf982885b3af3aef6ea888c74679fd2d935088ee2be91a
+

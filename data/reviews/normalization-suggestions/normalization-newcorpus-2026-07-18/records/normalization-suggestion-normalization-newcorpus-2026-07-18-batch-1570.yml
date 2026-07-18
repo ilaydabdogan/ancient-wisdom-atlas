@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1570
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacralized-seventh-day-rest
+  motif_id: sacralized_seventh_day_rest
+  label: sacralized seventh-day rest
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Seventh-day rest is a recurring sacred-time rhythm closely aligned with
+    the existing sabbath_cycle child under sacred_time.
+  cautions: Could also be indexed under covenant or sacred_law if the passage emphasizes
+    commandment or legal obligation over ritual time.
+  suggested_aliases:
+  - sabbath_cycle
+  - sacred seventh day
+  - seventh-day rest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-and-apostolic-exemplars-of-faithful-endurance
+  motif_id: saintly_and_apostolic_exemplars_of_faithful_endurance
+  label: Saintly and apostolic exemplars of faithful endurance
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests moral exemplarity and endurance, but it is unclear
+    whether it is a narrative motif, ethical teaching, hagiographic framing, or commentary
+    artifact.
+  cautions: May fit sacred_law, divine_judgment, sacrifice, or lament depending on
+    whether endurance is command, martyrdom, trial, or editorial description.
+  suggested_aliases:
+  - exemplars of faithful endurance
+  - apostolic endurance
+  - saintly endurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salme-and-her-suitors-including-celestial-suitors
+  motif_id: salme_and_her_suitors_including_celestial_suitors
+  label: Salme and her suitors, including celestial suitors
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A suitor contest or marriage-choice episode belongs best with sacred_love,
+    where bride-choice and bride-winning variants already sit.
+  cautions: The named character and local episode details are over-specific; if celestial
+    suitors are central as cosmic bodies, duality or sacred_time may be secondary.
+  suggested_aliases:
+  - celestial suitors
+  - bride choice with celestial suitors
+  - Salme suitor episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvation-of-the-lost-and-falling
+  motif_id: salvation_of_the_lost_and_falling
+  label: Salvation of the lost and falling
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue of the lost or falling is a saving intervention by sacred agency
+    when the passage emphasizes deliverance.
+  cautions: If salvation is doctrinal rather than narrative action, this may be too
+    abstract; if it concerns postmortem rescue, afterlife_passage or death_and_transformation
+    may be relevant.
+  suggested_aliases:
+  - divine rescue of the falling
+  - salvation of the lost
+  - rescue of the lost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvation-of-the-lost-and-hopeless
+  motif_id: salvation_of_the_lost_and_hopeless
+  label: Salvation of the lost and hopeless
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes deliverance of those beyond ordinary help, fitting
+    divine intervention as supernatural rescue or guidance.
+  cautions: May be theological abstraction or moral exhortation rather than a concrete
+    motif; review source evidence before broad indexing.
+  suggested_aliases:
+  - salvation of the hopeless
+  - divine rescue of the hopeless
+  - deliverance of the lost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-day-miraculous-food-growth
+  motif_id: same_day_miraculous_food_growth
+  label: same-day miraculous food growth
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculous production or rapid growth of food aligns with the existing
+    miraculous_provision and inexhaustible provision cluster under divine_intervention.
+  cautions: If the emphasis is agricultural seasonal recurrence rather than miracle,
+    sacred_time may be a secondary fit.
+  suggested_aliases:
+  - miraculous food growth
+  - miraculous provision
+  - rapid supernatural crop growth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-fate-retaliation-for-earlier-murder
+  motif_id: same_fate_retaliation_for_earlier_murder
+  label: same-fate retaliation for earlier murder
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retaliatory repetition of the same fate functions as moral reckoning
+    or punishment for prior violence.
+  cautions: If the agent is human revenge rather than sacred or moral order, sacred_combat
+    or a vengeance subgroup may be more precise; source evidence is needed.
+  suggested_aliases:
+  - measure-for-measure retaliation
+  - same-fate revenge
+  - murder repaid in kind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-supernatural-pair-incites-opposing-sides
+  motif_id: same_supernatural_pair_incites_opposing_sides
+  label: same supernatural pair incites opposing sides
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: role_variant
+  confidence: medium
+  rationale: A paired supernatural agency working across opposing sides suggests a
+    dual or doubled force structuring conflict.
+  cautions: Could instead belong under divine_intervention or sacred_combat if the
+    emphasis is war-incitement rather than paired opposition.
+  suggested_aliases:
+  - supernatural pair incites both sides
+  - paired inciters of conflict
+  - dual supernatural war inciters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-tale-adapted-to-local-landscape-obstacle
+  motif_id: same_tale_adapted_to_local_landscape_obstacle
+  label: same tale adapted to local landscape obstacle
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes adaptation or localization of a tale type rather
+    than a symbolic or narrative motif in the story world.
+  cautions: Preserve as provenance or comparative note; do not use as evidence for
+    transmission or motif similarity in this normalization task.
+  suggested_aliases:
+  - localized tale adaptation
+  - tale adapted to local landscape
+  - local landscape variant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.satan-as-declared-foe-who-leads-humans-astray
+  motif_id: satan_as_declared_foe_who_leads_humans_astray
+  label: Satan as declared foe who leads humans astray
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: A declared adversary who tempts humans toward error fits moral testing
+    and reckoning under divine judgment.
+  cautions: Could also support trickster_boundary if deception is central, or sacred_law
+    if the emphasis is warning against transgression; avoid flattening culturally
+    specific Satan/Iblis theology.
+  suggested_aliases:
+  - declared foe leading humans astray
+  - satanic temptation
+  - adversary as tempter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not assert historical transmission
+  or common origin.
+- Several one-occurrence Christian apocrypha labels may be theological or exhortative
+  abstractions rather than recurring narrative motifs; source context should be checked
+  before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit existing canonical motif groups; one likely meta-textual
+    artifact excluded from pattern queries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1570
+  input_sha256: 422e91a6db420870f8e262312bb138bdad306465313c0092d5cb02c610624cd3
+

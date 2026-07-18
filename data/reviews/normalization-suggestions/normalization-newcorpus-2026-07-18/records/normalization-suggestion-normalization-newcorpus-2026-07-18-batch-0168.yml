@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0168
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.courtship-gift-bundle-awaiting-acceptance
+  motif_id: courtship_gift_bundle_awaiting_acceptance
+  label: Courtship gift bundle awaiting acceptance
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A courtship gift awaiting acceptance functions within marriage choice
+    and love negotiation, already covered near bride-choice and courtship motifs under
+    sacred_love.
+  cautions: Single occurrence and culturally specific gift protocol; if the passage
+    emphasizes exchange obligation rather than courtship, sacred_exchange may be a
+    secondary fit.
+  suggested_aliases:
+  - courtship_gift_acceptance
+  - marriage_gift_awaiting_acceptance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtship-test-by-successful-hunting
+  motif_id: courtship_test_by_successful_hunting
+  label: courtship test by successful hunting
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hunting achievement used as a courtship qualification is a bride-winning
+    or marriage-choice test, matching sacred_love's courtship contest cluster.
+  cautions: The hunting role may carry local social or gender significance; do not
+    reduce it to generic hero ordeal without passage evidence.
+  suggested_aliases:
+  - courtship_hunting_test
+  - bride_winning_by_hunting_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtship-through-a-nurse-or-go-between
+  motif_id: courtship_through_a_nurse_or_go_between
+  label: courtship through a nurse or go-between
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: medium
+  rationale: A go-between enabling courtship belongs with love, marriage negotiation,
+    and beloved access rather than journey structure.
+  cautions: May be an episode-specific romance convention; if the intermediary carries
+    secret messages or identity proofs, recognition_tokens_hidden_identity may also
+    be relevant.
+  suggested_aliases:
+  - courtship_go_between
+  - mediated_courtship
+  - nurse_as_love_intermediary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtship-through-food-offerings-without-acceptance
+  motif_id: courtship_through_food_offerings_without_acceptance
+  label: Courtship through food offerings without acceptance
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food offerings used in courtship, especially with nonacceptance, fit
+    love negotiation and courtship refusal patterns under sacred_love.
+  cautions: Could also involve sacred_exchange if the food offering is ritually binding;
+    preserve refusal/nonacceptance as local evidence detail.
+  suggested_aliases:
+  - courtship_food_offerings
+  - rejected_courtship_offering
+  - food_offering_as_courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-adam-and-refusal-of-a-commanded-worship
+  motif_id: creation_of_adam_and_refusal_of_a_commanded_worship
+  label: Creation of Adam and refusal of a commanded worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: narrower_than
+  confidence: high
+  rationale: The group already includes refused_homage_to_created_human and related
+    angelic refusal motifs, matching this label closely.
+  cautions: Contains a creation element, but the distinctive motif is refusal of commanded
+    homage; avoid treating it as general cosmic origin unless creation itself is central.
+  suggested_aliases:
+  - refusal_of_commanded_homage_to_adam
+  - refused_homage_to_created_human
+  - angelic_refusal_of_commanded_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creator-worship-over-worship-of-celestial-bodies
+  motif_id: creator_worship_over_worship_of_celestial_bodies
+  label: Creator worship over worship of celestial bodies
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes discernment of true divine reality over misleading
+    celestial signs, fitting sacred wisdom and revelatory instruction.
+  cautions: Could also be sacred_law or divine_judgment if framed as polemic against
+    idolatry; human review should check whether this is narrative discovery, teaching,
+    or doctrinal commentary.
+  suggested_aliases:
+  - discernment_of_creator_over_celestial_bodies
+  - rejection_of_celestial_body_worship
+  - creator_recognition_over_astral_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crisis-encounter-at-threatened-shipwreck
+  motif_id: crisis_encounter_at_threatened_shipwreck
+  label: crisis encounter at threatened shipwreck
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A threatened shipwreck is a journey ordeal or crisis encounter within
+    travel narrative.
+  cautions: Highly contextual; if a sea spirit, guardian, or divine rescue is central,
+    threshold_guardian, divine_intervention, or sacred_waters may be better.
+  suggested_aliases:
+  - shipwreck_crisis_encounter
+  - sea_journey_ordeal
+  - threatened_shipwreck_as_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-cultural-friendship-and-teaching-encounter
+  motif_id: cross_cultural_friendship_and_teaching_encounter
+  label: cross-cultural friendship and teaching encounter
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social relationship, cultural encounter, and instruction
+    without enough evidence to determine a motif function.
+  cautions: May be a passage-specific ethnographic or narrative summary; could fit
+    sacred_knowledge, culture_hero, hospitality_test_stranger_guest, or be excluded
+    depending on source context.
+  suggested_aliases:
+  - friendship_teaching_encounter
+  - intercultural_teaching_friendship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossing-a-guarded-boundary-by-concealment
+  motif_id: crossing_a_guarded_boundary_by_concealment
+  label: Crossing a guarded boundary by concealment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is passage across a guarded threshold by evasion or
+    concealment, directly matching the threshold-guardian complex.
+  cautions: If concealment is the main trickster act rather than the guarded threshold,
+    trickster may be a secondary mapping.
+  suggested_aliases:
+  - concealed_crossing_of_guarded_boundary
+  - evading_threshold_guardian
+  - hidden_passage_past_guard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossing-and-reassigning-gendered-hunting-roles
+  motif_id: crossing_and_reassigning_gendered_hunting_roles
+  label: Crossing and reassigning gendered hunting roles
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns gendered social role crossing and reassignment, a
+    domain not clearly covered by existing groups without source context.
+  cautions: Culturally sensitive; avoid forcing into shapeshifter unless bodily transformation
+    is present, or sacred_law unless the passage frames roles as ritual law.
+  suggested_aliases:
+  - gendered_hunting_role_reassignment
+  - crossing_gendered_hunting_roles
+  - hunting_role_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were placed in journey_quest_homecoming by the rough audit but semantically
+  belong to courtship/love, threshold passage, or sacred knowledge rather than journey
+  structure.
+- Single-occurrence courtship labels should preserve local practice details as evidence
+  rather than becoming new canonical motifs without recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Zuni and Australian Aboriginal role/courtship labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0168
+  input_sha256: 72424cbaa17c4542e3ab402a090f17af22735fafb4731d0663dc283fbe45c0ae
+

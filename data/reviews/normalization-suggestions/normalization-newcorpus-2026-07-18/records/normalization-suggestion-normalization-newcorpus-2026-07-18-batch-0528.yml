@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0528
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-etiology-from-violent-event
+  motif_id: place_name_etiology_from_violent_event
+  label: place-name etiology from violent event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The group already includes several place-name etiologies from violent
+    deaths or events; this is a close variant.
+  cautions: Single occurrence; preserve the violent-event detail as evidence rather
+    than promoting a new motif.
+  suggested_aliases:
+  - place-name etiology
+  - place_name_origin_from_violent_event
+  - place naming from violent event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-explained-by-campaign-event
+  motif_id: place_name_explained_by_campaign_event
+  label: Place-name explained by campaign event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is an etiological place-name explanation, already represented broadly
+    in the cosmic_origin group.
+  cautions: If the campaign context is more important than naming, sacred_combat may
+    be a secondary review relation.
+  suggested_aliases:
+  - campaign place-name etiology
+  - place naming from campaign event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-explanation-from-heroic-cattle-driving-events
+  motif_id: place_name_explanation_from_heroic_cattle_driving_events
+  label: place-name explanation from heroic cattle-driving events
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is to explain a place-name through a mythic or heroic
+    event, matching existing place-name etiology handling.
+  cautions: Cattle-driving or raid context may also relate to sacred_combat, but the
+    label’s stated motif is toponymic explanation.
+  suggested_aliases:
+  - place-name etiology from cattle-driving
+  - heroic cattle-driving place-name origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-from-a-heroic-weapon-fragment
+  motif_id: place_name_from_a_heroic_weapon_fragment
+  label: Place-name from a heroic weapon fragment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The naming of a landscape feature is an etiological place-name pattern
+    already covered by the group.
+  cautions: The weapon fragment may be evidence for sacred_treasures or divine_warrior
+    if the object’s power, not the naming, is central.
+  suggested_aliases:
+  - place-name from weapon fragment
+  - toponym from heroic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-memorial-from-a-heroic-object
+  motif_id: place_name_memorial_from_a_heroic_object
+  label: Place-name memorial from a heroic object
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A place-name memorializing an event or object fits the established toponymic
+    etiology cluster.
+  cautions: If the heroic object has independent ritual or authority-bearing force,
+    sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - place-name from heroic object
+  - toponymic memorial from heroic object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-origin-through-mythic-events
+  motif_id: place_name_origin_through_mythic_events
+  label: place-name origin through mythic events
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: This is a broad label for place-name etiology through mythic action,
+    already included in the group’s aliases and children.
+  cautions: Do not infer creation of the cosmos; here cosmic_origin is acting as the
+    existing broader etiology group.
+  suggested_aliases:
+  - place-name etiology
+  - place naming etiology
+  - mythic place-name origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-origins-from-women-associated-with-the-places
+  motif_id: place_name_origins_from_women_associated_with_the_places
+  label: Place-name origins from women associated with the places
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The main function is to explain place-names by association with named
+    figures, fitting the toponymic etiology cluster.
+  cautions: Review whether the women are divine, ancestral, or local historical figures;
+    if only a person-place note, it may be too specific for pattern queries.
+  suggested_aliases:
+  - eponymous women place-name origins
+  - place-name origins from associated women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-explained-by-heroic-events
+  motif_id: place_names_explained_by_heroic_events
+  label: place names explained by heroic events
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: The group already includes toponymic naming from heroic events; this
+    is essentially the same label.
+  cautions: If the heroic event itself is the query target, index that event separately
+    where evidence supports it.
+  suggested_aliases:
+  - toponymic naming from heroic events
+  - place-name etiology from heroic events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-explained-by-scattered-body-parts
+  motif_id: place_names_explained_by_scattered_body_parts
+  label: place names explained by scattered body parts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: It is a place-name etiology, and the existing group already stores several
+    violent death and burial naming variants.
+  cautions: If body parts form landscape features or cosmic structure, primordial_sacrifice
+    or death_and_transformation may be relevant secondary mappings.
+  suggested_aliases:
+  - place-name etiology from body parts
+  - toponyms from scattered body parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plain-speech-versus-double-speech
+  motif_id: plain_speech_versus_double_speech
+  label: plain speech versus double speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate truth versus deception, rhetorical ambiguity,
+    oath/speech ethics, or a passage-specific literary contrast.
+  cautions: Needs source context before mapping to sacred_knowledge, storytelling_as_power,
+    curse_blessing_speech, trickster, or sacred_law.
+  suggested_aliases:
+  - direct speech versus ambiguous speech
+  - truthful speech versus double speech
+  - plain speech and deceptive speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are toponymic etiologies and can be provisionally grouped
+  under the existing cosmic_origin group because that group already includes place-name
+  and landscape naming etiologies.
+- For the place-name items, reviewers should preserve the local triggering event,
+  object, body part, or associated person as evidence detail rather than promoting
+  each one as a canonical motif.
+- The review_bucket_id for these items is wisdom/speech/revelation, but the stronger
+  normalization basis for most is etiological naming, not revelation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    toponymic evidence and for the ambiguous speech label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0528
+  input_sha256: 90b5f019ef35e218acf9efd765dd791022c70aeed71644795a4f5ce577624b46
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0440
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-stone-implanted-as-magical-power-object
+  motif_id: sacred_stone_implanted_as_magical_power_object
+  label: Sacred stone implanted as magical power-object
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred stone implanted in the body functions as a power object conferring
+    magical or sacred ability.
+  cautions: Could overlap with sacred_substance, initiation, or culturally specific
+    ritual knowledge; source-sensitive review is needed.
+  suggested_aliases:
+  - implanted sacred stone
+  - magical power stone
+  - body-implanted power object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-study-protected-by-a-peace-invocation
+  motif_id: sacred_study_protected_by_a_peace_invocation
+  label: Sacred study protected by a peace invocation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A peace invocation protects the act of study through performative sacred
+    speech or blessing.
+  cautions: If the passage emphasizes instruction rather than the invocation, sacred_knowledge
+    may be a secondary placement.
+  suggested_aliases:
+  - peace invocation before study
+  - protective study blessing
+  - shanti invocation for sacred learning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-succession-by-lot
+  motif_id: sacred_succession_by_lot
+  label: sacred succession by lot
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Selection or succession by lot legitimizes office through a sacredly
+    authorized procedure.
+  cautions: If the lot-casting itself is the focus, prophecy_divination may be a better
+    or secondary group; office type needs review.
+  suggested_aliases:
+  - succession by lot
+  - sacred lot-casting for office
+  - divinely chosen successor by lot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-text-and-sanctuary-destroyed-by-conqueror
+  motif_id: sacred_text_and_sanctuary_destroyed_by_conqueror
+  label: Sacred text and sanctuary destroyed by conqueror
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe conquest, sacrilege, loss of sacred knowledge,
+    or a historical episode rather than a stable motif.
+  cautions: Could map to sacred_combat, sacred_knowledge, divine_judgment, or be excluded
+    as historical/contextual detail depending on evidence.
+  suggested_aliases:
+  - destruction of sacred text and sanctuary
+  - conqueror destroys sanctuary
+  - sacrilegious destruction by conqueror
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-text-as-purifying-stream
+  motif_id: sacred_text_as_purifying_stream
+  label: Sacred text as purifying stream
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred text figured as a purifying stream presents scripture as transformative
+    sacred knowledge.
+  cautions: Do not map to sacred_waters unless the passage gives water a narrative
+    or ritual function beyond metaphor.
+  suggested_aliases:
+  - scripture as purifying stream
+  - sacred teaching as cleansing water
+  - textual river of purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-text-divided-into-ordered-portions
+  motif_id: sacred_text_divided_into_ordered_portions
+  label: Sacred text divided into ordered portions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual organization or editorial division rather
+    than a narrative or symbolic motif.
+  cautions: Preserve as textual metadata if useful for provenance or liturgical reading
+    structure, but exclude from motif pattern queries.
+  suggested_aliases:
+  - ordered textual portions
+  - scriptural division into portions
+  - text divided into sections
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-text-hearing-and-observance-produces-merit
+  motif_id: sacred_text_hearing_and_observance_produces_merit
+  label: Sacred text hearing and observance produces merit
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Hearing and observing a sacred text produces religious merit through
+    devotional or ritual practice.
+  cautions: Could also fit sacred_knowledge if the emphasis is instruction, or sacred_law
+    if observance of commands is primary.
+  suggested_aliases:
+  - merit from hearing scripture
+  - scriptural observance produces merit
+  - hearing sacred text as meritorious practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-textual-enumeration
+  motif_id: sacred_textual_enumeration
+  label: sacred textual enumeration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Enumeration appears to be a textual or organizational feature, not a
+    mythic motif.
+  cautions: If the enumeration is itself a ritual recitation or cosmological list,
+    reconsider under sacred_knowledge; otherwise exclude.
+  suggested_aliases:
+  - textual enumeration
+  - sacred list structure
+  - enumerated scripture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-threshold-for-the-righteous
+  motif_id: sacred_threshold_for_the_righteous
+  label: Sacred threshold for the righteous
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: low
+  rationale: The label centers on a morally restricted sacred threshold or boundary
+    of access.
+  cautions: No guardian is explicit; if it refers to temple entry, covenantal righteousness,
+    or afterlife gates, sacred_law, covenant, or afterlife_passage may be better.
+  suggested_aliases:
+  - righteous at the sacred threshold
+  - threshold of the righteous
+  - holy gate for the righteous
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-time-and-sacred-place-in-conflict
+  motif_id: sacred_time_and_sacred_place_in_conflict
+  label: Sacred time and sacred place in conflict
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and could indicate legal reasoning, ritual priority,
+    pilgrimage, calendar conflict, or commentary.
+  cautions: Review source context before mapping to sacred_time, sacred_geography_pilgrimage/axis_mundi,
+    sacred_law, or excluding as interpretive artifact.
+  suggested_aliases:
+  - conflict of sacred time and place
+  - ritual priority between time and place
+  - sacred calendar and sanctuary conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern sacred texts as objects, practices, or textual
+  organization; distinguish living ritual/narrative functions from editorial metadata.
+- For water imagery in sacred_text_as_purifying_stream, avoid treating metaphorical
+  purification as flood or water-passage without passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence items and culturally specific
+    ritual terms require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0440
+  input_sha256: 33aed70d33029fc60cb9c777be70fc873edf339b6f5c39425ea8d5bb1eaca9fc
+

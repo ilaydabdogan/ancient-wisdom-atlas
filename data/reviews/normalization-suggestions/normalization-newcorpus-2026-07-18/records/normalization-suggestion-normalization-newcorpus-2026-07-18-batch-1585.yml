@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1585
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.slaying-of-crocodile-and-hippopotamus-enemies
+  motif_id: slaying_of_crocodile_and_hippopotamus_enemies
+  label: slaying of crocodile and hippopotamus enemies
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Crocodile and hippopotamus enemies often function as animalized chaotic
+    foes defeated by a sacred or royal combatant.
+  cautions: Single Egyptian occurrence; verify whether the passage is ritual iconography,
+    mythic combat, or a local enemy metaphor before final mapping.
+  suggested_aliases:
+  - animalized chaos enemies
+  - slaying of dangerous animal enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-of-the-appointed-watcher
+  motif_id: slaying_of_the_appointed_watcher
+  label: slaying of the appointed watcher
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: An appointed watcher may be a guardian at a boundary or protected object,
+    but the label does not show the narrative function.
+  cautions: Could be a guard-killing plot detail, monster-slaying episode, or threshold
+    passage; source evidence is needed.
+  suggested_aliases:
+  - slaying of a guardian watcher
+  - guardian watcher killed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-of-the-betraying-messenger
+  motif_id: slaying_of_the_betraying_messenger
+  label: slaying of the betraying messenger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative force appears to be betrayal by a trusted messenger followed
+    by punishment or retaliation.
+  cautions: If the passage emphasizes vengeance, execution, or battlefield violence
+    rather than broken trust, sacred_combat or divine_judgment may be secondary.
+  suggested_aliases:
+  - betraying messenger punished
+  - treacherous messenger slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-followed-by-displacement-to-another-place
+  motif_id: sleep_followed_by_displacement_to_another_place
+  label: sleep followed by displacement to another place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical sleep followed by relocation commonly marks entry into or interference
+    by an enchanted otherworld realm.
+  cautions: If no supernatural or otherworld context is present, this may be a plot
+    device or enchantment detail rather than an otherworld motif.
+  suggested_aliases:
+  - enchanted sleep displacement
+  - sleep and supernatural relocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-producing-musical-instrument
+  motif_id: sleep_producing_musical_instrument
+  label: Sleep-producing musical instrument
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: child
+  confidence: high
+  rationale: A musical instrument that induces sleep is a direct instance of supernatural
+    music compelling bodily state.
+  cautions: Preserve instrument specificity as evidence; not all sleep magic belongs
+    to music/sound power.
+  suggested_aliases:
+  - music that induces sleep
+  - enchanted instrument causes sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-by-gallows-before-supernatural-encounter
+  motif_id: sleeping_by_gallows_before_supernatural_encounter
+  label: sleeping by gallows before supernatural encounter
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sleeping at a gallows creates a liminal death-site threshold for encounter
+    with supernatural powers.
+  cautions: Highly contextual; if the gallows site is merely setting, exclude or preserve
+    as evidence detail rather than motif.
+  suggested_aliases:
+  - sleep at death-place before encounter
+  - gallows as supernatural threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-draught-prevents-recognition
+  motif_id: sleeping_draught_prevents_recognition
+  label: sleeping draught prevents recognition
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sleeping draught functions as an obstacle to recognition or identity
+    disclosure.
+  cautions: Could also fit sacred_substance if the potion itself is central; map here
+    only when failed recognition is the narrative function.
+  suggested_aliases:
+  - sleep potion blocks recognition
+  - enchanted sleep prevents identity recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-draught-prevents-recognition-until-the-third-attempt
+  motif_id: sleeping_draught_prevents_recognition_until_the_third_attempt
+  label: Sleeping draught prevents recognition until the third attempt
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is an over-specific variant of a sleep potion delaying recognition,
+    with the third attempt as episode detail.
+  cautions: Preserve the three-attempt structure in notes; if the potion is emphasized
+    as magical substance, sacred_substance may be secondary.
+  suggested_aliases:
+  - sleeping draught prevents recognition
+  - sleep potion delays recognition until third attempt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-giant-champion-awakened-in-crisis
+  motif_id: sleeping_giant_champion_awakened_in_crisis
+  label: sleeping giant champion awakened in crisis
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A dormant giant champion awakened for crisis functions as a combatant
+    or war power mobilized in sacred conflict.
+  cautions: Could be a specific episode rather than a broad motif; if the sleep is
+    the central supernatural condition, consider human review for dormant-hero patterns.
+  suggested_aliases:
+  - dormant champion awakened
+  - sleeping warrior awakened for battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-guard-permits-escape
+  motif_id: sleeping_guard_permits_escape
+  label: sleeping guard permits escape
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a practical plot mechanism enabling escape rather than
+    a durable symbolic motif.
+  cautions: If the guard is supernaturally enchanted or marks a threshold ordeal,
+    review under threshold_guardian or enchanting_music depending on cause.
+  suggested_aliases:
+  - sleeping guard enables escape
+  - guard asleep during escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve sleep as enchantment or narrative obstruction;
+  final mapping should preserve whether sleep is caused by music, potion, supernatural
+  place, or ordinary negligence.
+- Avoid treating every slaying label as sacred combat; confirm whether the victim
+  functions as enemy, guardian, betrayer, or merely a plot role.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements based on labels only; single-occurrence items should
+    be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1585
+  input_sha256: 530a38de7d8b5e52268bf2d9e579ddab29f5030a90fe8f44417521820cfb8a94
+

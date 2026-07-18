@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.latin-vergil-aeneid-latin-gutenberg-l3238-l3250
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+passage_locator:
+  label: LIBER III / PUBLI VERGILI MARONIS / AENEIDOS / LIBER IV; lines 3238-3250
+  start: '3238'
+  end: '3250'
+  translation: Aeneidos
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "'Hunc ego Diti sacrum iussa fero, teque isto corpore solvo.'"
+  summary: Juno, pitying a long grief and difficult death, sends Iris from Olympus
+    to release a struggling soul and bound limbs. Because the dying woman is not perishing
+    by fate or deserved death, Proserpina has not yet taken the yellow lock or consigned
+    the head to Stygian Orcus. Iris descends with many-colored wings, declares the
+    consecration to Dis and release from the body, cuts the hair, and life departs
+    into the winds.
+  language: Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Juno is described as omnipotent and as pitying a long grief and difficult
+    death.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Juno sends Iris from Olympus to release a struggling soul and bound limbs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dying woman is said to be perishing neither by fate nor by deserved death,
+    but before her day and suddenly inflamed by madness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Proserpina had not yet removed a yellow lock of hair from the head or consigned
+    the head to Stygian Orcus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Iris descends through the sky with crocus-colored dewy wings and many colors
+    drawn against the sun, then stands above the head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Iris says that, under orders, she carries this sacred thing to Dis and releases
+    the addressee from that body.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Iris cuts the hair with her right hand.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: All warmth disperses at once, and life withdraws into the winds.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Iuno
+  description: Omnipotent Juno, who pities the long grief and difficult death and
+    sends Iris from Olympus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Iris
+  description: A divine figure sent from Olympus; she descends through the sky with
+    dewy crocus-colored wings and many colors, speaks over the dying figure, and cuts
+    the hair.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Unnamed dying woman
+  description: The feminine dying addressee whose soul struggles, whose limbs are
+    bound, who dies before her day, and from whose body Iris releases her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Proserpina
+  description: Named as the deity who had not yet removed the yellow lock from the
+    head or consigned the head to Stygian Orcus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Dis / Diti
+  description: Underworld deity to whom Iris says the sacred thing is being carried.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Pitying divine sender
+  assigned_to:
+  - fig:1
+  basis: Juno pities the grief and difficult death and sends Iris from Olympus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Divine messenger and releaser
+  assigned_to:
+  - fig:2
+  basis: Iris is sent to release the struggling soul and bound limbs, descends, speaks
+    the release formula, and cuts the hair.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Dying body-soul addressee
+  assigned_to:
+  - fig:3
+  basis: The passage describes the struggling soul, bound limbs, death before the
+    day, release from the body, and departure of life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Expected remover of death lock
+  assigned_to:
+  - fig:4
+  basis: Proserpina had not yet taken the yellow hair from the head or consigned it
+    to Stygian Orcus.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Underworld recipient of consecrated item
+  assigned_to:
+  - fig:5
+  basis: Iris states that she carries the sacred thing to Dis.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Olympus
+  literal_form: Olympo
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Yellow lock of hair
+  literal_form: flavum crinem; crinem secat
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Stygian Orcus
+  literal_form: Stygio Orco
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Iris's multicolored wings
+  literal_form: croceis roscida pennis; mille varios colores
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Winds receiving life
+  literal_form: in ventos vita recessit
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Juno sends Iris from Olympus
+  summary: Juno pities the difficult death and sends Iris to release the struggling
+    soul and bound limbs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death before completion of Proserpina's rite
+  summary: The dying woman is not dying by fate or deserved death, and Proserpina
+    has not yet removed the yellow lock or consigned the head to Stygian Orcus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Iris descends and speaks over the head
+  summary: Iris descends in many colors, stands above the head, and declares that
+    she carries the sacred thing to Dis and frees the addressee from the body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Hair cut and life departs
+  summary: Iris cuts the hair; warmth disperses and life withdraws into the winds.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine messenger releases a struggling soul from the body
+  taxonomy_refs: []
+  basis: Juno sends Iris to release the struggling soul and bound limbs; Iris declares
+    release from the body, and life then departs.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives a threshold-of-death scene rather than a developed account
+    of the soul's later state.
+- id: motif:2
+  label: Underworld transition regulated by divine powers
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage names Proserpina, Dis, and Stygian Orcus in connection with death,
+    consecration, and release from the body.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The afterlife is referenced through underworld powers and destination
+    language, not through an extended journey narrative.
+- id: motif:3
+  label: Consecratory cutting of a hair lock for an underworld deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The yellow lock is the missing death marker; Iris says she carries the sacred
+    thing to Dis and then cuts the hair.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage supports consecration of the lock, but it does not describe
+    a full sacrificial ritual.
+- id: motif:4
+  label: Untimely death requiring completion of an omitted death rite
+  taxonomy_refs: []
+  basis: The woman is dying before her day, not by fate or deserved death; Proserpina
+    has not yet taken the lock, so Iris is sent to perform the act.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The causal relation is drawn from the sequence in the passage; the broader
+    ritual background is not explained within the excerpt.
+- id: motif:5
+  label: Life departing into the winds
+  taxonomy_refs: []
+  basis: After Iris cuts the hair, the passage states that warmth dissipates and life
+    withdraws into the winds.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No further account of the life or soul's destination after this departure
+    is included.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared with the afterlife_journey_map motif
+    family because it presents a regulated death transition involving Proserpina,
+    Dis, Stygian Orcus, and release from the body.
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage depicts the threshold of death, not a mapped journey through
+    the afterlife.
+- id: claim:2
+  claim: The cutting and dedication of the hair can be cautiously compared with the
+    sacrifice motif family at the level of consecratory function.
+  claim_level: same_function
+  target: sacrifice
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The text calls the item sacred to Dis and shows it being cut, but does
+    not describe an altar, victim, exchange, or full sacrificial procedure.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3238-3240
+  quote_or_summary: '"Tum Iuno omnipotens, longum miserata dolorem / difficilisque
+    obitus, Irim demisit Olympo, / quae luctantem animam nexosque resolveret artus."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: quote
+  locator: 3241-3243
+  quote_or_summary: '"Nam quia nec fato, merita nec morte peribat, / sed misera ante
+    diem, subitoque accensa furore"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: quote
+  locator: 3243-3245
+  quote_or_summary: '"nondum illi flavum Proserpina vertice crinem / abstulerat, Stygioque
+    caput damnaverat Orco."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: quote
+  locator: 3246-3248
+  quote_or_summary: '"Ergo Iris croceis per caelum roscida pennis, / mille trahens
+    varios adverso sole colores, / devolat, et supra caput adstitit"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: quote
+  locator: 3248-3249
+  quote_or_summary: '"Hunc ego Diti / sacrum iussa fero, teque isto corpore solvo."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:6
+  type: quote
+  locator: 3249-3250
+  quote_or_summary: '"Sic ait, et dextra crinem secat: omnis et una / dilapsus calor,
+    atque in ventos vita recessit."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is self-contained for the death-release scene, but the dying
+    woman is not named within the supplied excerpt; she is therefore kept as an unnamed
+    figure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external identification of the unnamed dying woman was added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-vergil-aeneid-latin-gutenberg__l3238-l3250
+  passage_sha256=6de96b73cd3e9108e70af0e1e1208d76940aacb89895180526e64330fbf9194a
+

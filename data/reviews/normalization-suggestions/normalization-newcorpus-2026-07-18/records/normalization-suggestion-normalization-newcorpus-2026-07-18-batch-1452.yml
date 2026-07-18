@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1452
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.judicial-mediation-between-vengeance-and-asylum
+  motif_id: judicial_mediation_between_vengeance_and_asylum
+  label: Judicial mediation between vengeance and asylum
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on legal adjudication moderating vengeance and asylum,
+    fitting sacred law and social order.
+  cautions: Could also relate to covenant or divine judgment if the passage emphasizes
+    sacred command or moral reckoning; single occurrence needs source review.
+  suggested_aliases:
+  - asylum_law_mediates_vengeance
+  - judicial_asylum_and_blood_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.judicial-reversal-after-confession
+  motif_id: judicial_reversal_after_confession
+  label: judicial reversal after confession
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A confession changing a verdict is a moral-reckoning and vindication/reversal
+    pattern already near divine_judgment children.
+  cautions: May be secular/legal narrative resolution rather than divine judgment;
+    if no sacred moral frame is present, treat as contextual detail.
+  suggested_aliases:
+  - confession_reverses_judgment
+  - verdict_reversal_after_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.karmic-moral-causality-as-sowing-reaping-and-fruition
+  motif_id: karmic_moral_causality_as_sowing_reaping_and_fruition
+  label: Karmic moral causality as sowing, reaping, and fruition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif expresses moral causality and consequences of action, which
+    fits the broader moral reckoning group.
+  cautions: Karma is not necessarily divine judgment; preserve the non-theistic causal
+    framing and avoid implying a judging deity.
+  suggested_aliases:
+  - karma_as_sowing_and_reaping
+  - moral_causality_as_fruition
+  - karmic_fruition_of_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.karmic-retribution-and-expiation-across-lives
+  motif_id: karmic_retribution_and_expiation_across_lives
+  label: Karmic retribution and expiation across lives
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retribution and expiation across rebirths function as moral consequence
+    and repair across lives.
+  cautions: Do not collapse Buddhist karmic causality into theistic judgment; may
+    need a future karma/rebirth ethics group if many labels recur.
+  suggested_aliases:
+  - karmic_retribution_across_lives
+  - karmic_expiation_across_rebirths
+  - moral_consequence_across_lives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.katun-count-chronicle-of-polity-events
+  motif_id: katun_count_chronicle_of_polity_events
+  label: Katun-count chronicle of polity events
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: uncertain
+  confidence: low
+  rationale: The katun count suggests calendrical sacred time, but the label may describe
+    chronicle structure rather than a motif.
+  cautions: Likely a textual/historiographic form or source-organization artifact
+    unless the passage mythically interprets cyclical time or polity transitions.
+  suggested_aliases:
+  - katun_chronicle
+  - katun_count_annal
+  - calendrical_polity_chronicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.katun-cycle-annal-of-calamities-and-transitions
+  motif_id: katun_cycle_annal_of_calamities_and_transitions
+  label: katun-cycle annal of calamities and transitions
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: uncertain
+  confidence: low
+  rationale: Cyclical katun framing and recurring calamities may fit sacred time or
+    world-age transition patterns.
+  cautions: Could be annalistic textual structure rather than a symbolic motif; review
+    whether calamities are mythically cyclical or merely recorded events.
+  suggested_aliases:
+  - katun_cycle_calamity_annal
+  - calendrical_cycle_of_calamities
+  - katun_transition_chronicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.keeping-a-ball-continuously-in-motion
+  motif_id: keeping_a_ball_continuously_in_motion
+  label: Keeping a ball continuously in motion
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an isolated game or episode detail without clear symbolic
+    function in existing groups.
+  cautions: If source evidence shows a ritual contest, cosmic ball-game, or ordeal
+    function, reconsider under initiation, sacred_time, or sacred_combat.
+  suggested_aliases:
+  - continuous_ball_motion
+  - ball_kept_in_motion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kept-flag-as-recognition-token
+  motif_id: kept_flag_as_recognition_token
+  label: kept flag as recognition token
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: child
+  confidence: high
+  rationale: A retained flag used for recognition directly matches the recognition-token
+    identity proof group.
+  cautions: Preserve flag specificity as evidence detail; if the flag primarily confers
+    authority, sacred_treasures or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - flag_as_recognition_token
+  - kept_flag_identity_proof
+  - recognition_by_kept_flag
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killed-being-turns-into-gold-treasure
+  motif_id: killed_being_turns_into_gold_treasure
+  label: killed being turns into gold treasure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A killed being becoming treasure is a postmortem transformation into
+    a valuable object or substance.
+  cautions: Could also relate to sacred_treasures if the gold has power, or divine_judgment
+    if the transformation is punishment/reward.
+  suggested_aliases:
+  - death_transformation_into_gold
+  - slain_being_becomes_treasure
+  - killed_creature_becomes_gold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killer-immediately-becomes-the-killed
+  motif_id: killer_immediately_becomes_the_killed
+  label: Killer immediately becomes the killed
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests identity reversal through killing, but the narrative
+    function is unclear from the wording alone.
+  cautions: Could be metamorphosis, moral retribution, sacrificial substitution, or
+    an episode-specific paradox; source context is required before mapping.
+  suggested_aliases:
+  - killer_becomes_victim
+  - identity_reversal_after_killing
+  - slayer_becomes_slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Karmic labels were provisionally placed under divine_judgment only as broad moral
+  reckoning; reviewers should preserve Buddhist non-theistic causality and consider
+  a future karma/rebirth-ethics group if recurrence increases.
+- Katun labels may be sacred calendrical motifs or textual chronicle artifacts; source
+  evidence is needed before pattern-query inclusion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1452
+  input_sha256: dc7f7837bc16a46bd98bf8795d923f9325919697122aaffc5f5328a74b63c076
+

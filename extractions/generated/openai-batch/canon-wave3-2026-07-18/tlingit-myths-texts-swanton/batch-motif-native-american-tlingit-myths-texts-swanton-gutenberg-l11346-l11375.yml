@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.native-american-tlingit-myths-texts-swanton-gutenberg-l11346-l11375
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 11346-11375'
+  start: '11346'
+  end: '11375'
+  translation: Tlingit Myths and Texts
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man and his wife, stopped by fog while crossing a bay in a canoe, hear
+    a powerful song. As the fog lifts, they find the song comes from a very small
+    frog. The couple disputes who will claim it; the husband yields to the wife. She
+    treats the frog like a child, takes it ashore, places it by a lake in the woods,
+    and the passage explains this as the origin of the Sitka Kîksᴀˊdî claim to the
+    frog.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man and his wife are crossing the mouth of a large bay in a canoe when thick
+    fog stops them.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The couple hears singing from a distance in the fog and learns the song because
+    it continues for a long time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The song includes words about picking up or capturing a man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The voice is powerful enough to echo among the mountains.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: When the fog lifts enough, the couple sees that the song comes from a very
+    little frog.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The man and his wife both say they will claim the frog, then dispute over
+    it.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The man finally lets his wife have the frog.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The woman takes the frog ashore, treats it like a child, carries it to the
+    woods, puts it by a lake, and leaves it there.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The passage states that from that time her people have been Kîksᴀˊdî and that
+    this is how the Sitka Kîksᴀˊdî came to claim the frog.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: A footnote says another version appears in story 92.
+  category: other
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: man
+  description: A man crossing the bay with his wife; he initially claims the frog
+    but yields it to her.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: wife / woman
+  description: The wife of the man; she claims the frog, receives it, treats it like
+    a child, and places it by a lake in the woods.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: very little frog
+  description: A very little frog that is discovered as the source of the powerful
+    song and is later claimed by the woman and her people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Sitka Kîksᴀˊdî
+  description: The people said to have come to claim the frog from this event.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: travelers in fog
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The man and wife are crossing a bay in a canoe when fog prevents further
+    travel.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: claimer and caretaker of the frog
+  assigned_to:
+  - fig:2
+  basis: The wife claims the frog, receives it, treats it like a child, and places
+    it by a lake.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: singing animal claimed by people
+  assigned_to:
+  - fig:3
+  basis: The frog is the source of the song and becomes the animal claimed by the
+    Sitka Kîksᴀˊdî.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:4
+  label: rival claimants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both husband and wife declare that the frog will be theirs and dispute the
+    claim.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: people with frog claim
+  assigned_to:
+  - fig:4
+  basis: The passage states that the Sitka Kîksᴀˊdî came to claim the frog from this
+    event.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: frog
+  literal_form: very little frog
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:2
+  label: fog
+  literal_form: thick fog over the bay
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: song
+  literal_form: powerful song heard in the fog
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: water
+  literal_form: bay and lake
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:5
+  label: mountains
+  literal_form: mountains echoing the voice
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fog-bound crossing
+  summary: A man and his wife are crossing the mouth of a large bay in a canoe but
+    stop because fog prevents them from seeing the water around them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Song in the fog
+  summary: The couple hears a long, powerful song in the fog, learns its words, and
+    hears the voice echo among the mountains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Discovery and disputed claim
+  summary: As the fog rises, the couple discovers that the song comes from a very
+    little frog. Both claim it, but the man yields it to the woman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Frog placed by the lake
+  summary: The woman takes the frog ashore, treats it like a child, carries it to
+    the woods, puts it down by a lake, and leaves it there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Origin of the Sitka Kîksᴀˊdî frog claim
+  summary: The passage concludes that from that time the woman’s people have been
+    Kîksᴀˊdî and that the Sitka Kîksᴀˊdî came to claim the frog in this way.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Origin of a clan’s claim to an animal
+  taxonomy_refs: []
+  basis: The passage explicitly explains how the Sitka Kîksᴀˊdî came to claim the
+    frog.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy family exactly names clan crest or clan animal origin.
+- id: motif:2
+  label: Small animal revealed as source of powerful supernatural-seeming song
+  taxonomy_refs: []
+  basis: The couple hears a powerful voice echoing among the mountains and later discovers
+    it comes from a very little frog.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call the frog supernatural; the motif
+    label is limited to the literal contrast between animal size and powerful song.
+- id: motif:3
+  label: Dispute over claiming a discovered animal
+  taxonomy_refs: []
+  basis: The man and wife both declare the frog will be theirs, dispute, and the man
+    finally lets the wife have it.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents the dispute briefly and does not state broader ritual
+    or social implications beyond the later Kîksᴀˊdî frog claim.
+- id: motif:4
+  label: Animal treated as a child
+  taxonomy_refs: []
+  basis: The woman takes the frog ashore while treating it like a child.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives no further explanation of why the frog is treated this
+    way.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly points to another version of this story in story 92.
+  claim_level: same_motif
+  target: story 92 in the same source
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The footnote names another version but provides no details about its
+    content in this passage.
+evidence:
+- id: ev:1
+  type: citation
+  locator: line 11348
+  quote_or_summary: 'Footnote [121]: another version is said to appear in story 92.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; concise citation/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11352-11355
+  quote_or_summary: A man and wife cross the mouth of the bay named ʟǃēˊyāq in a canoe;
+    thick fog prevents them from seeing even the water around the canoe, so they stop.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11355-11358
+  quote_or_summary: In the thick fog they hear distant singing that continues long
+    enough for them to learn the song by heart.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 11358-11360
+  quote_or_summary: 'The song includes: “We picked up a man” and “They captured a
+    man.”'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 11360-11362
+  quote_or_summary: The voice is described as powerful and echoing among all the mountains.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11363-11366
+  quote_or_summary: When the fog rises enough for them to see, the song comes nearer,
+    and they discover that it comes from a very little frog.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11366-11370
+  quote_or_summary: The man says the frog will be his and he will claim it; the wife
+    says the same; they dispute over it.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11370-11371
+  quote_or_summary: After the dispute, the man finally lets the frog go to his wife.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 11372-11374
+  quote_or_summary: The woman takes the frog ashore, treats it like a child, carries
+    it to the woods, puts it down by a lake, and leaves it there.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 11374-11375
+  quote_or_summary: From that time her people are said to have been Kîksᴀˊdî; this
+    is how the Sitka Kîksᴀˊdî came to claim the frog.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative sequence and clan-frog claim are explicit. Motif labels beyond
+    the clan claim are descriptive and should be reviewed for taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available symbol refs for water and mountain; no available motif-family ref was a clear match for the clan animal origin motif.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-tlingit-myths-texts-swanton-gutenberg__l11346-l11375
+  passage_sha256=79870404646bcfba24d136ba254efcee3e4a827d337ef8982f7719063a4388bb
+

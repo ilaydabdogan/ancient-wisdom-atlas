@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0781
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vengeance-through-the-enemy-s-children
+  motif_id: vengeance_through_the_enemy_s_children
+  label: vengeance through the enemy’s children
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes kin-directed revenge within an enemy-conflict cycle,
+    closer to feud or sacred combat than family structure alone.
+  cautions: Single occurrence; if the passage emphasizes cruelty to children rather
+    than feud logic, human review may prefer exclusion or a future vengeance/kin-violence
+    group.
+  suggested_aliases:
+  - kin vengeance
+  - vengeance through enemy kin
+  - feud revenge against children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-bride-mutilates-helper-and-blinds-brother
+  motif_id: vengeful_bride_mutilates_helper_and_blinds_brother
+  label: vengeful bride mutilates helper and blinds brother
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label is an episode-specific violent sequence with particular actors
+    and injuries rather than a reusable motif category.
+  cautions: If related variants recur, preserve under a broader bride-vengeance or
+    household-violence pattern; otherwise keep as evidence detail.
+  suggested_aliases:
+  - bride vengeance
+  - mutilation of helper
+  - blinding of brother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-enchantment-imprisons-animals-in-a-hill
+  motif_id: vengeful_enchantment_imprisons_animals_in_a_hill
+  label: vengeful enchantment imprisons animals in a hill
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enchanted imprisonment inside a hill points to an otherworld or fairy-hill
+    containment pattern.
+  cautions: If the key function is magical transformation, shapeshifter may be secondary;
+    if it is merely a local curse episode, retain as granular evidence.
+  suggested_aliases:
+  - enchanted hill imprisonment
+  - animals imprisoned in a hill
+  - vengeful magical imprisonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-son-avenges-a-fallen-father
+  motif_id: vengeful_son_avenges_a_fallen_father
+  label: vengeful son avenges a fallen father
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A son avenging a slain father is a kinship-driven revenge combat pattern,
+    already near vengeance for a fallen king or hero.
+  cautions: Could also touch covenant or sacred law if framed as duty rather than
+    battle; preserve filial-duty context in notes.
+  suggested_aliases:
+  - son avenges father
+  - filial vengeance
+  - avenging a fallen father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-proof-carried-to-prospective-bride
+  motif_id: victory_proof_carried_to_prospective_bride
+  label: victory proof carried to prospective bride
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A carried proof of victory functions as a token validating achievement
+    or eligibility before a bride.
+  cautions: If the passage centers on bride-winning contest rather than proof-token
+    mechanics, sacred_love may be a secondary mapping.
+  suggested_aliases:
+  - victory token for bride
+  - proof of victory
+  - bride-winning proof token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vindication-of-a-wife-by-visible-bodily-proof
+  motif_id: vindication_of_a_wife_by_visible_bodily_proof
+  label: Vindication of a wife by visible bodily proof
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Visible bodily proof serves as evidence to establish truth, identity,
+    or innocence, matching recognition and proof-token logic.
+  cautions: If the vindication follows false accusation, divine_judgment may be an
+    important secondary group; review gendered accusation context carefully.
+  suggested_aliases:
+  - bodily proof of innocence
+  - wife vindicated by bodily sign
+  - visible proof token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtuous-bride-manifested-as-flowering-plant-with-doves-among-bestial-rivals
+  motif_id: virtuous_bride_manifested_as_flowering_plant_with_doves_among_bestial_rivals
+  label: virtuous bride manifested as flowering plant with doves among bestial rivals
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The bride appears or is manifested in plant and bird imagery, which fits
+    transformation or altered form.
+  cautions: Highly composite and symbolic; if the main contrast is moral purity versus
+    rival brides, it may be too specific for broad queries.
+  suggested_aliases:
+  - bride transformed into flowering plant
+  - virtuous bride as plant and doves
+  - bride manifestation in vegetal and bird forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-band-search-for-missing-royal-sons
+  motif_id: war_band_search_for_missing_royal_sons
+  label: War-band search for missing royal sons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A search for missing royal sons is a quest or recovery expedition involving
+    royal kin.
+  cautions: May be a passage-specific plot detail unless the search becomes a transformative
+    quest, rescue, or succession episode; royal_legitimacy may be secondary.
+  suggested_aliases:
+  - search for missing royal sons
+  - quest for missing princes
+  - war-band recovery search
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-muster-for-a-bride-conflict
+  motif_id: war_muster_for_a_bride_conflict
+  label: war-muster for a bride-conflict
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns bride acquisition or marriage conflict, aligning with
+    bride-winning and marriage-choice patterns under sacred_love.
+  cautions: If the source emphasizes martial mobilization more than marriage, sacred_combat
+    should be secondary or primary.
+  suggested_aliases:
+  - bride conflict war muster
+  - marriage war muster
+  - bride-winning conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-threatened-marriage-demand
+  motif_id: war_threatened_marriage_demand
+  label: War-threatened marriage demand
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A coerced marriage demand backed by war belongs with marriage choice,
+    bride-winning, and conflict over union.
+  cautions: May require ethical or political review if framed as coercion, alliance,
+    or royal power rather than love; sacred_combat or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - marriage demand under threat of war
+  - coerced bride demand
+  - war-backed marriage demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; suggested
+  placements should be treated as provisional evidence-level mappings, not canonical
+  motif promotions.
+- Bride-conflict items often straddle sacred_love, sacred_combat, and royal_legitimacy;
+  source context should determine primary placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0781
+  input_sha256: e7c6a9a13f4e9d60d907298c8902bde19630c139f8744ed849d3612e49472f6b
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0376
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.non-possession-as-divine-like-happiness
+  motif_id: non_possession_as_divine_like_happiness
+  label: Non-possession as divine-like happiness
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Non-possession is a renunciatory inner-discipline theme already represented
+    in the mystical quest/renunciation complex.
+  cautions: Could also be ethical wisdom rather than a motif if the passage is aphoristic
+    teaching only.
+  suggested_aliases:
+  - renunciation
+  - non-possession
+  - detachment as sacred happiness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-working-day-named-as-sacred-or-social-rest-time
+  motif_id: non_working_day_named_as_sacred_or_social_rest_time
+  label: non-working day named as sacred or social rest time
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A named rest day fits sacred or socially marked time, parallel to sabbath-cycle
+    and calendrical observance motifs.
+  cautions: If the label only records a lexical weekday name without ritual/social
+    function, it may be a contextual detail.
+  suggested_aliases:
+  - sacred rest day
+  - non-working sacred day
+  - ritual rest time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonhuman-beings-converted-by-sacred-recitation
+  motif_id: nonhuman_beings_converted_by_sacred_recitation
+  label: Nonhuman beings converted by sacred recitation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred recitation transforms hearers, making uttered narrative or recited
+    revelation an operative power.
+  cautions: Could also fit sacred_knowledge if the emphasis is instruction, or divine_intervention
+    if conversion is caused by direct divine agency.
+  suggested_aliases:
+  - sacred recitation converts nonhuman beings
+  - recitation as transformative power
+  - revelation as recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonverbal-encoded-communication-by-ritual-instrument
+  motif_id: nonverbal_encoded_communication_by_ritual_instrument
+  label: nonverbal encoded communication by ritual instrument
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual sound power, practical signaling, sacred
+    knowledge transmission, or an ethnographic performance detail.
+  cautions: Needs source context before mapping; avoid treating all instrument communication
+    as enchanting music or sacred speech.
+  suggested_aliases:
+  - ritual instrument communication
+  - encoded ritual signal
+  - nonverbal sacred communication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-and-sacred-colored-animal-adversaries
+  motif_id: numbered_and_sacred_colored_animal_adversaries
+  label: Numbered and sacred-colored animal adversaries
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines number symbolism, sacred color, animals, and adversarial
+    role without enough functional evidence.
+  cautions: Culturally specific symbolic systems should be reviewed carefully; may
+    be over-specific evidence detail rather than a reusable motif.
+  suggested_aliases:
+  - sacred-colored animal adversaries
+  - numbered animal opponents
+  - color-coded sacred adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numeric-divine-or-bodily-epithet-pattern
+  motif_id: numeric_divine_or_bodily_epithet_pattern
+  label: numeric divine or bodily epithet pattern
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes an epithet or naming pattern rather than a narrative,
+    ritual, or symbolic motif.
+  cautions: If the passage depicts a many-formed theophany or meaningful divine body,
+    remap evidence to theophany rather than excluding.
+  suggested_aliases:
+  - numeric epithet pattern
+  - divine bodily epithet
+  - numbered divine epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-by-cosmic-and-sacred-objects
+  motif_id: oath_by_cosmic_and_sacred_objects
+  label: Oath by cosmic and sacred objects
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: An oath is a performative sacred speech act that binds testimony or obligation
+    through sacred referents.
+  cautions: Sacred objects named in the oath may warrant secondary indexing only if
+    they act as more than witnesses or formulaic referents.
+  suggested_aliases:
+  - oath by sacred objects
+  - oath by cosmic witnesses
+  - sacred-object oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-by-sacred-stone
+  motif_id: oath_by_sacred_stone
+  label: Oath by sacred stone
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is oath-making as binding sacred speech, with the stone
+    serving as the oath's sacred witness or medium.
+  cautions: If the stone itself confers authority or has independent power, sacred_treasures
+    or axis_mundi may be secondary evidence.
+  suggested_aliases:
+  - sacred-stone oath
+  - oath on stone
+  - stone-witness oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-ordeal-or-solemn-testimony-before-god
+  motif_id: oath_ordeal_or_solemn_testimony_before_god
+  label: Oath ordeal or solemn testimony before God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: Oath and solemn testimony before God are binding sacred speech acts with
+    juridical or ritual force.
+  cautions: If the ordeal is central as a divine test or judgment, divine_judgment
+    may be an important secondary mapping.
+  suggested_aliases:
+  - solemn testimony before God
+  - oath ordeal
+  - divine-witness oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-to-capture-a-ruler-and-counter-vow-of-protection
+  motif_id: oath_to_capture_a_ruler_and_counter_vow_of_protection
+  label: oath to capture a ruler and counter-vow of protection
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The reusable element is vow or oath speech binding antagonistic obligations;
+    the ruler-capture context is episode-specific.
+  cautions: May also relate to sacred_combat or royal_legitimacy if the passage centers
+    on warfare or kingship rather than the oath itself.
+  suggested_aliases:
+  - counter-vow of protection
+  - vow to capture a ruler
+  - opposing battle vows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several oath/vow labels fit the existing curse_blessing_speech group; preserve object
+  or combat context as evidence rather than creating separate oath-object groups.
+- Single-occurrence culturally specific color/number and ritual-instrument labels
+  should receive human review before broad pattern indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0376
+  input_sha256: 9124db6b1aeb8b59563180d44e09a2cefc65ffc3647d9933016e552b0c998bd8
+

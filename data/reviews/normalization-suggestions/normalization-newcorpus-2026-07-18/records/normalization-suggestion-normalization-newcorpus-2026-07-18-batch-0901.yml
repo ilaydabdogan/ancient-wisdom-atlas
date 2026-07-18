@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0901
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deer-disease-from-improper-deer-contact-or-deer-sign
+  motif_id: deer_disease_from_improper_deer_contact_or_deer_sign
+  label: deer disease from improper deer contact or deer sign
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests taboo or improper contact producing illness, which
+    resembles sacred-law or ritual-contagion patterns.
+  cautions: Culturally specific Navajo deer-disease concepts need source-sensitive
+    review; could be healing, taboo, animal-spirit agency, or an ethnographic detail
+    rather than a broad motif.
+  suggested_aliases:
+  - deer sickness from taboo contact
+  - improper animal contact causing illness
+  - animal sign causing disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-being-buried-under-a-mountain
+  motif_id: defeated_being_buried_under_a_mountain
+  label: defeated being buried under a mountain
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A mountain serving as the burial or containment place for a defeated
+    being fits sacred mountain/axis imagery as a charged cosmic landscape.
+  cautions: If the passage emphasizes combat victory or imprisonment more than mountain
+    symbolism, sacred_combat or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - defeated giant buried beneath mountain
+  - enemy entombed under mountain
+  - mountain as prison for defeated being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-host-perishing-in-water
+  motif_id: defeated_host_perishing_in_water
+  label: defeated host perishing in water
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: A defeated army or host destroyed in water uses water as the medium of
+    lethal boundary or reversal.
+  cautions: Could be ordinary battle detail, divine judgment, or flood-like catastrophe
+    depending on evidence; do not infer flood_and_renewal without world-order destruction
+    and renewal.
+  suggested_aliases:
+  - army destroyed in water
+  - defeated host drowned
+  - enemies perish in waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-monster-flees-to-watery-lair-and-dies
+  motif_id: defeated_monster_flees_to_watery_lair_and_dies
+  label: defeated monster flees to watery lair and dies
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is monster defeat after combat; the watery lair is a
+    setting and aftermath of the victory.
+  cautions: If the monster embodies chaos or the watery depths are the main symbolic
+    focus, related mappings to chaos, descent, or sacred_waters may be appropriate.
+  suggested_aliases:
+  - monster dies in watery lair after defeat
+  - defeated water-monster retreats and dies
+  - slain monster returns to water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-monster-retreats-to-watery-depths
+  motif_id: defeated_monster_retreats_to_watery_depths
+  label: Defeated monster retreats to watery depths
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes the aftermath of monster combat, with retreat to
+    water marking defeat or containment.
+  cautions: May overlap with descent or sacred_waters if the hero follows into the
+    depths or if water functions as an otherworld boundary.
+  suggested_aliases:
+  - defeated water-monster retreats
+  - monster retreats to depths after combat
+  - monster flees into water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deferred-inclusion-of-currently-unsuitable-elements
+  motif_id: deferred_inclusion_of_currently_unsuitable_elements
+  label: Deferred inclusion of currently unsuitable elements
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes editorial or classificatory handling, not a narrative
+    or symbolic motif.
+  cautions: Preserve only as provenance or review-process metadata if needed; do not
+    use in motif pattern queries.
+  suggested_aliases:
+  - deferred editorial inclusion
+  - unsuitable elements deferred
+  - classification note on deferred inclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deities-identified-with-celestial-bodies-and-star-groups
+  motif_id: deities_identified_with_celestial_bodies_and_star_groups
+  label: Deities identified with celestial bodies and star groups
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Celestial Deities and Astral Identification
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Astral identification of deities is recurring and not cleanly held by
+    existing dream, omen, or sacred-fire groups.
+  cautions: Could be a local pantheon classification rather than a motif if it only
+    lists divine correspondences; review source evidence before promotion.
+  suggested_aliases:
+  - astral deities
+  - deities as stars and planets
+  - celestial body deity identification
+  suggested_new_group:
+    id: celestial_deities_astral_identification
+    label: Celestial Deities and Astral Identification
+    description: Gods, spirits, ancestors, or sacred powers are identified with stars,
+      planets, constellations, or celestial bodies, making the sky a field of divine
+      presence and order.
+    parent_group_ids:
+    - duality
+    - sacred_time
+    related_group_ids:
+    - dream_and_vision
+    - prophecy_divination
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover solar light, omens,
+      visions, and cosmic order, but none directly groups deity-star or deity-planet
+      identification as a symbolic structure.
+- suggestion_id: normalization.suggestion.deities-manifested-as-river-reflections
+  motif_id: deities_manifested_as_river_reflections
+  label: deities manifested as river reflections
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on divine manifestation to perception, with river reflection
+    as the medium.
+  cautions: May also involve sacred_waters or mirror/reflection soul concepts; Navajo-specific
+    context should be reviewed carefully.
+  suggested_aliases:
+  - divine manifestation in water reflection
+  - deity appearing in river reflection
+  - sacred reflection in water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-beneath-and-supporting-the-star-bearing-heaven
+  motif_id: deity_beneath_and_supporting_the_star_bearing_heaven
+  label: deity beneath and supporting the star-bearing heaven
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity supporting heaven performs the cosmic support or vertical-order
+    function associated with world axis imagery.
+  cautions: Could warrant a future sky-support/cosmic-architecture group if many similar
+    labels recur; do not reduce Egyptian cosmology to generic mountain/tree imagery.
+  suggested_aliases:
+  - deity supporting heaven
+  - cosmic support deity
+  - god bearing the starry sky
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-distributed-through-cardinal-points-and-mountain-tops
+  motif_id: deity_distributed_through_cardinal_points_and_mountain_tops
+  label: deity distributed through cardinal points and mountain tops
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mountain tops and cardinal points organize sacred geography and cosmic
+    orientation, fitting the world-axis/sacred-center complex.
+  cautions: If the emphasis is fourfold spatial order rather than vertical axis, a
+    future sacred-directionality group may be needed; review Mesoamerican/Andean context
+    before final mapping.
+  suggested_aliases:
+  - deity at cardinal points
+  - deity spread across mountains and directions
+  - sacred directions and mountain tops
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several nature/cosmos labels combine landscape setting with combat or divine manifestation;
+  final mapping should follow narrative function rather than element alone.
+- Astral deity identification and cardinal-direction cosmology may indicate underrepresented
+  sky/order subgroups, but single occurrences should remain provisional.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific items require
+    human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0901
+  input_sha256: fec37e166b88d846bcf4743dcea52159a5744d9e23a6d763e2580b98a11f6d0e
+

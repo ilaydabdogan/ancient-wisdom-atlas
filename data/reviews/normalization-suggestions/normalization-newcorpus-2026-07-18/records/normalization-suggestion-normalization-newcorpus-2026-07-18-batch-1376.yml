@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1376
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiology-of-the-ban-shee-wail
+  motif_id: etiology_of_the_ban_shee_wail
+  label: Etiology of the Ban-Shee Wail
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is etiological but the banshee wail may function as death omen,
+    lament, haunting, or local spirit lore depending on passage evidence.
+  cautions: Single occurrence; do not force into lament_and_mourning or restless_dead_haunting_vengeance
+    without evidence of grief, omen, or dead-spirit agency.
+  suggested_aliases:
+  - banshee_wail_etiology
+  - death_omen_wail_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - restless_dead_haunting_vengeance
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-thoth-associated-beings-and-forms
+  motif_id: etiology_of_thoth_associated_beings_and_forms
+  label: Etiology of Thoth-associated beings and forms
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to classify deity-associated forms rather than name
+    a repeatable narrative function.
+  cautions: If the passage narrates Thoth creating, transforming, or assigning beings,
+    review under cosmic_origin, shapeshifter, or sacred_knowledge instead.
+  suggested_aliases:
+  - thoth_associated_forms_etiology
+  - thoth_beings_and_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-white-ants-as-property-destroying-pests
+  motif_id: etiology_of_white_ants_as_property_destroying_pests
+  label: etiology of white ants as property-destroying pests
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal-trait etiology is present, but existing groups do not clearly
+    cover origin of animal behavior or pest traits.
+  cautions: Single, highly specific etiological label; may be best preserved as evidence
+    detail unless animal etiologies recur enough to warrant a group.
+  suggested_aliases:
+  - white_ants_property_destroying_etiology
+  - origin_of_termite_destructiveness
+  suggested_new_group:
+    id: animal_trait_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Stories explaining why animals have distinctive bodies, behaviors,
+      voices, social roles, or relations with humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: Current groups include many animal and trickster
+      items but lack a neutral home for recurring animal-trait origin stories that
+      are etiological rather than trickster-centered.
+- suggestion_id: normalization.suggestion.etiology-of-white-crows-dumbness
+  motif_id: etiology_of_white_crows_dumbness
+  label: Etiology of White Crows' dumbness
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is an animal-trait etiology, but the taxonomy lacks a stable animal-trait
+    origin group.
+  cautions: May involve punishment, trickster action, or speech loss; source evidence
+    should decide whether divine_judgment, trickster, or a new animal-etiology group
+    is appropriate.
+  suggested_aliases:
+  - white_crow_dumbness_etiology
+  - origin_of_crow_speechlessness
+  suggested_new_group:
+    id: animal_trait_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Stories explaining why animals have distinctive bodies, behaviors,
+      voices, social roles, or relations with humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing groups do not provide a neutral
+      container for animal-trait origin tales when no transformation or trickster
+      function is explicit.
+- suggestion_id: normalization.suggestion.evil-deeds-burning-the-doer
+  motif_id: evil_deeds_burning_the_doer
+  label: Evil deeds burning the doer
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif expresses moral consequence returning upon the wrongdoer, which
+    fits reckoning for deeds.
+  cautions: In Buddhist contexts this may be karmic causality rather than divine judgment;
+    preserve local framing and avoid implying a judging deity.
+  suggested_aliases:
+  - karmic_retribution_burns_the_doer
+  - evil_action_consumes_actor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evil-rebounds-on-the-offender
+  motif_id: evil_rebounds_on_the_offender
+  label: evil rebounds on the offender
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The wrongdoer's own evil returning on them is a moral-reckoning pattern
+    already represented by consequence and reversal aliases.
+  cautions: For Buddhist material, mark this as karmic consequence rather than divine
+    punishment unless the passage supplies a divine judge.
+  suggested_aliases:
+  - karmic_rebound
+  - evil_returns_to_the_offender
+  - wrongdoing_recoils_on_wrongdoer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exaggerated-body-parts-as-marvel-signs
+  motif_id: exaggerated_body_parts_as_marvel_signs
+  label: Exaggerated body parts as marvel signs
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label marks bodily marvels but does not specify whether they signal
+    sacred birth, heroic power, monstrosity, or wonder cataloguing.
+  cautions: Likely over-specific without source context; avoid mapping to miraculous_child
+    or shapeshifter unless the body marks destiny or transformation.
+  suggested_aliases:
+  - marvelous_exaggerated_body_parts
+  - bodily_marvel_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exalted-deity-saving-the-lowly-in-trouble
+  motif_id: exalted_deity_saving_the_lowly_in_trouble
+  label: Exalted deity saving the lowly in trouble
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity directly rescuing vulnerable people in crisis fits divine action
+    in human affairs.
+  cautions: If the passage emphasizes ethical reversal or judgment of oppressors,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - divine_rescue_of_the_lowly
+  - deity_saves_the_afflicted
+  - god_rescues_the_vulnerable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-destiny-above-ordinary-men
+  motif_id: exceptional_destiny_above_ordinary_men
+  label: Exceptional destiny above ordinary men
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is broad and could describe heroic calling, royal legitimacy,
+    sacred birth, or later exaltation.
+  cautions: Needs source evidence before placement; avoid turning a status description
+    into a motif unless destiny is narratively marked by omen, birth, call, or legitimation.
+  suggested_aliases:
+  - extraordinary_destiny
+  - heroic_exceptional_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - hero_journey
+    - royal_legitimacy
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-hunter-outdoes-local-hunters
+  motif_id: exceptional_hunter_outdoes_local_hunters
+  label: exceptional hunter outdoes local hunters
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be a heroic skill contest, culture-hero episode, or local
+    tale detail, but no existing group cleanly covers hunting prowess.
+  cautions: Single occurrence and culturally specific; review whether the hunter's
+    superiority has sacred, initiatory, or social-order function before indexing.
+  suggested_aliases:
+  - surpassing_local_hunters
+  - extraordinary_hunter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - initiation
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are etiological animal-trait labels; consider whether enough similar
+  labels recur to justify an animal_trait_etiology group, but do not promote from
+  single examples alone.
+- For Buddhist moral-reversal labels, use divine_judgment only as the available broad
+  moral-reckoning group while preserving karmic rather than theistic framing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for ambiguous
+    etiological and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1376
+  input_sha256: 4638d0d0491fc73c4f2a4ac4eaa072c7fe48c6d7e985c5b5de9b6a542afca4ec
+

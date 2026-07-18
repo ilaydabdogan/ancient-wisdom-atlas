@@ -1,0 +1,326 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0374
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-boy-girl-pairs-associated-with-sacred-substances-or-production
+  motif_id: named_boy_girl_pairs_associated_with_sacred_substances_or_production
+  label: named boy-girl pairs associated with sacred substances or production
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines named paired figures, sacred substances, and production
+    without enough function to choose sacred_substance, sacred_twins, or culture_hero.
+  cautions: Single occurrence and culturally specific named figures require source
+    review; avoid flattening Navajo ceremonial meaning into a generic pair motif.
+  suggested_aliases:
+  - sacred substance producing boy-girl pair
+  - paired figures associated with sacred production
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_twins
+    - culture_hero
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-divine-dwellings
+  motif_id: named_divine_dwellings
+  label: named divine dwellings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A list or naming of divine residences is likely a catalog/detail of mythic
+    geography rather than a narrative motif by itself.
+  cautions: If a dwelling functions as world center, otherworld realm, or threshold,
+    map that passage-level function instead.
+  suggested_aliases:
+  - catalog of divine dwellings
+  - named gods' residences
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - otherworld
+    - world_center
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nations-submit-and-confess-the-sole-god
+  motif_id: nations_submit_and_confess_the_sole_god
+  label: Nations submit and confess the sole God
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers universal submission to a sole divine sovereign, matching
+    cosmic sovereignty more than ritual sacrifice.
+  cautions: Could also involve divine_judgment or covenant if the passage emphasizes
+    punishment, conversion, or sacred obligation.
+  suggested_aliases:
+  - universal submission to sole God
+  - nations confess divine sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-and-divine-powers-enlisted-to-guide-a-vessel
+  motif_id: natural_and_divine_powers_enlisted_to_guide_a_vessel
+  label: Natural and divine powers enlisted to guide a vessel
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Guidance of a vessel by divine or natural powers fits supernatural intervention
+    and guidance in human affairs.
+  cautions: If the vessel preserves life through catastrophe, sacred_vessel or ark_vessel
+    may be relevant; if the focus is sea passage ordeal, consider sacred_waters or
+    hero_journey.
+  suggested_aliases:
+  - divine guidance of vessel
+  - supernatural vessel guidance
+  - natural powers guide a boat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-beings-follow-the-withdrawn-divine-figure
+  motif_id: natural_beings_follow_the_withdrawn_divine_figure
+  label: Natural beings follow the withdrawn divine figure
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe divine withdrawal, procession, ecological dependence,
+    or sacred presence moving through landscape; existing groups do not clearly capture
+    it without context.
+  cautions: Culturally sensitive Aboriginal material should be reviewed against source
+    evidence and local terminology before broad indexing.
+  suggested_aliases:
+  - natural beings accompany withdrawn deity
+  - withdrawn divine figure followed by beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    - otherworld
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-beings-join-holy-praise
+  motif_id: natural_beings_join_holy_praise
+  label: natural beings join holy praise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Natural beings participating in praise foregrounds sacred sound and nonhuman
+    response to holy utterance or song.
+  cautions: If the passage emphasizes all creation as a sign of divine sovereignty
+    rather than sound, supreme_ruler or divine_intervention may be better secondary
+    mappings.
+  suggested_aliases:
+  - creation joins in praise
+  - natural beings praise the divine
+  - nonhuman holy praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - theophany
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-fertility-presented-as-a-divine-sign
+  motif_id: natural_fertility_presented_as_a_divine_sign
+  label: Natural fertility presented as a divine sign
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fertility in nature functions as a sign revealing divine presence or
+    power, fitting manifestation rather than a fertility deity motif.
+  cautions: Could map to sacred_time or mother_goddess only if the passage emphasizes
+    seasonal recurrence or feminine fertility divinity.
+  suggested_aliases:
+  - fertility as divine sign
+  - natural abundance as sign of God
+  - fertile creation reveals divine power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - mother_goddess
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-provisions-as-signs-of-divine-sovereignty
+  motif_id: natural_provisions_as_signs_of_divine_sovereignty
+  label: Natural provisions as signs of divine sovereignty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Natural provision is interpreted as evidence of divine rule over the
+    cosmos, aligning with cosmic sovereignty.
+  cautions: If the passage emphasizes miraculous feeding, divine_intervention or sacred_substance
+    may also apply.
+  suggested_aliases:
+  - provision as divine sovereignty
+  - natural abundance proves divine rule
+  - divine sovereignty shown by provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_substance
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-world-as-bearer-of-divine-sound
+  motif_id: natural_world_as_bearer_of_divine_sound
+  label: Natural world as bearer of divine sound
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label directly treats sound in nature as a carrier of sacred power
+    or presence, matching sacred sound-power patterns.
+  cautions: If the sound is specifically revelation or speech rather than music, sacred_knowledge
+    may be an additional mapping.
+  suggested_aliases:
+  - divine sound in nature
+  - natural world carries sacred sound
+  - sacred sound through nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - theophany
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nature-joins-the-holy-ruler-in-praise
+  motif_id: nature_joins_the_holy_ruler_in_praise
+  label: Nature joins the holy ruler in praise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Nature joining a holy ruler in praise emphasizes sacred sound and cosmic
+    participation in praise.
+  cautions: Because a holy ruler is central, secondary review for supreme_ruler or
+    royal_legitimacy may be appropriate if sovereignty is the main function.
+  suggested_aliases:
+  - nature joins ruler's praise
+  - creation praises with holy ruler
+  - natural world participates in praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - supreme_ruler
+    - royal_legitimacy
+    - theophany
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern nature as sign, praise, or sound; reviewers
+  may want a future subgroup for cosmic praise or creation-as-sign if these recur
+  across corpora.
+- Single-occurrence culturally specific labels should remain provisional and should
+  not be used as evidence of transmission or shared origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    and context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0374
+  input_sha256: cf55920b97744b40a949509eaa654c81c5530166896d0e4ec59885cb6802330f
+

@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0614
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.legendary-accretion-around-historical-battles-and-rulers
+  motif_id: legendary_accretion_around_historical_battles_and_rulers
+  label: Legendary accretion around historical battles and rulers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a historiographic or tradition-growth process rather
+    than a narrative motif within a passage.
+  cautions: If source passages contain specific legendary battle or kingship episodes,
+    those should be indexed separately under sacred_combat, divine_warrior, or royal_legitimacy.
+  suggested_aliases:
+  - legendary_accretion
+  - historical_legend_accretion
+  - legendary_growth_around_rulers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.legendary-or-traditional-landscape-marked-by-striking-natural-features
+  motif_id: legendary_or_traditional_landscape_marked_by_striking_natural_features
+  label: legendary or traditional landscape marked by striking natural features
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label could describe sacred geography, etiological landscape tradition,
+    or a descriptive place note; function is unclear.
+  cautions: Do not map to cosmic_origin unless the feature is explained by creation
+    or etiological myth; do not map to axis_mundi unless it functions as a sacred
+    center or vertical connector.
+  suggested_aliases:
+  - legendary_landscape
+  - traditional_landscape_features
+  - sacred_landscape_features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liberating-fast-as-social-mercy
+  motif_id: liberating_fast_as_social_mercy
+  label: liberating fast as social mercy
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fast framed as mercy combines ritual discipline with ethical social
+    obligation, fitting sacred law and social care.
+  cautions: If the fast functions primarily as renunciation or offering, sacrifice
+    or sacred_exchange may be secondary; source context should confirm the social-mercy
+    function.
+  suggested_aliases:
+  - fast_as_mercy
+  - ritual_fast_for_liberation
+  - merciful_fasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liberation-demand-before-an-oppressive-ruler
+  motif_id: liberation_demand_before_an_oppressive_ruler
+  label: Liberation demand before an oppressive ruler
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A demand to free the oppressed before a tyrant often functions as moral
+    confrontation and impending judgment on unjust rule.
+  cautions: Could instead fit covenant, sacred_law, or royal_legitimacy if the passage
+    emphasizes legal obligation, prophetic mission, or legitimate rule rather than
+    judgment.
+  suggested_aliases:
+  - demand_for_liberation_before_tyrant
+  - prophetic_liberation_demand
+  - oppressive_ruler_confronted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.literal-minded-misapplication-of-social-advice
+  motif_id: literal_minded_misapplication_of_social_advice
+  label: literal-minded misapplication of social advice
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The label resembles a comic or wisdom-tale narrative about misunderstood
+    counsel, closest to speech or teaching as plot engine.
+  cautions: May be a folktale joke, character trait, or passage-specific detail rather
+    than a durable mythic motif; human review should check whether sacred or wisdom
+    function is present.
+  suggested_aliases:
+  - misapplied_advice
+  - literal_misunderstanding_of_counsel
+  - foolish_literalism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-hero-destroys-a-massed-attacking-force
+  motif_id: lone_hero_destroys_a_massed_attacking_force
+  label: Lone hero destroys a massed attacking force
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A solitary hero overwhelming an attacking host fits heroic sacred combat
+    and warrior power.
+  cautions: If the passage is ordinary battle realism without sacred, cosmic, or heroic-exemplary
+    emphasis, sacred_combat may be a broader secondary fit.
+  suggested_aliases:
+  - single_hero_defeats_army
+  - lone_warrior_against_host
+  - hero_destroys_attacking_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-hero-in-hostile-city-and-ambush-survival
+  motif_id: lone_hero_in_hostile_city_and_ambush_survival
+  label: Lone hero in hostile city and ambush survival
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a hero isolated in hostile territory surviving an
+    ordeal, fitting the trial phase of a hero journey.
+  cautions: Could map to sacred_combat if the ambush and martial action are primary;
+    may be over-specific if it refers to a single episode.
+  suggested_aliases:
+  - hero_survives_ambush_in_hostile_city
+  - lone_hero_ambush_survival
+  - hostile_city_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loneliness-prompting-thought-of-making-people
+  motif_id: loneliness_prompting_thought_of_making_people
+  label: loneliness prompting thought of making people
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif gives a motive for anthropogony or creation of humans, which
+    belongs under creation and origin patterns.
+  cautions: Preserve the emotional motive as local evidence; avoid generalizing to
+    all creation-by-thought unless passage supports it.
+  suggested_aliases:
+  - creation_of_people_from_loneliness
+  - loneliness_motivates_human_creation
+  - anthropogony_from_loneliness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-sovereignty-and-cultural-decline
+  motif_id: loss_of_sovereignty_and_cultural_decline
+  label: Loss of sovereignty and cultural decline
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of rule paired with cultural decline fits the broader pattern of
+    degeneration from an earlier ordered state.
+  cautions: If the passage focuses on a particular king's legitimacy or political
+    succession, royal_legitimacy may be more precise than cosmic decline.
+  suggested_aliases:
+  - sovereignty_loss_and_decline
+  - decline_after_loss_of_rule
+  - cultural_decline_from_lost_sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-animal-leading-to-hidden-city-encounter
+  motif_id: lost_animal_leading_to_hidden_city_encounter
+  label: lost animal leading to hidden city encounter
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lost animal leading the seeker to a hidden city suggests entry into
+    a concealed or wondrous realm alongside ordinary reality.
+  cautions: Could fit divine_intervention if the animal is a guide sent by sacred
+    power, or hero_journey if the hidden city is simply a quest stage.
+  suggested_aliases:
+  - animal_guide_to_hidden_city
+  - lost_animal_reveals_hidden_realm
+  - hidden_city_encounter_through_lost_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have single occurrences and may be episode-specific; preserve local
+  evidence and avoid promoting to taxonomy motifs without recurrence.
+- Power/kingship bucket assignment appears rough for some creation, otherworld, and
+  textual-artifact labels.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for ambiguous
+    or culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0614
+  input_sha256: a6c704964e0ecfeb7251922dddae5f03f355603151b0e02b27f5fe31a774553b
+

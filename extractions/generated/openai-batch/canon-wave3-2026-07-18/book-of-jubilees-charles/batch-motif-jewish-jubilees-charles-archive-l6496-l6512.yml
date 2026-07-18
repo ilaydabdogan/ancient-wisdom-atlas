@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l6496-l6512
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: THE BOOK OF JUBILEES / CHAPTERS II. 309-111 4 21 / CHAPTER III. 5-9 / CHAPTER
+    III. 10-16 25; lines 6496-6512
+  start: '6496'
+  end: '6512'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a note comparing traditions that explain the serpent’s crawling
+    by the cutting off or deprivation of its feet, with cited parallels in Genesis
+    3:14, Targum Pseudo-Jonathan, Midrash Koheleth, and Josephus. One cited tradition
+    says ministering angels cut off the serpent’s hands and feet; Josephus is summarized
+    as saying the serpent lost both language and feet and was made to crawl or drag
+    itself on the ground.
+  language: English with Semitic transliteration and Greek quotation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note states that the relevant material most probably contained a statement
+    about the cutting off of the serpent’s feet.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note links the cutting off of the serpent’s feet to Genesis 3:14, where
+    the serpent is told to go on its belly.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Targum Pseudo-Jonathan on Genesis 3:14 is cited as saying that the serpent’s
+    feet would be cut off.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Midrash Koheleth is cited as saying that ministering angels came down and
+    cut off the serpent’s hands and feet.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Josephus is cited as writing that the serpent was deprived of both language
+    and feet and was made to drag or crawl on the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: serpent
+  description: The serpent whose feet, and in one cited tradition hands, are cut off
+    or removed; Josephus is cited as also saying it was deprived of language.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: ministering angels
+  description: Angelic beings cited in Midrash Koheleth as coming down and cutting
+    off the serpent’s hands and feet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deprived serpent
+  assigned_to:
+  - fig:1
+  basis: The serpent is repeatedly described in cited traditions as losing feet or
+    limbs and being made to crawl or drag itself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: limb-cutting agents
+  assigned_to:
+  - fig:2
+  basis: Midrash Koheleth is cited as saying that ministering angels came down and
+    cut off the serpent’s hands and feet.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: serpent
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cut-off feet or limbs
+  literal_form: the serpent’s feet; in one cited tradition, its hands and feet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: belly-crawling on the ground
+  literal_form: going on the belly; dragging or crawling on the ground
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reconstructed statement about the serpent’s feet
+  summary: The note says the relevant text probably contained a statement about the
+    cutting off of the serpent’s feet and relates this to Genesis 3:14’s statement
+    that the serpent will go on its belly.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Midrashic cutting by ministering angels
+  summary: A cited Midrash Koheleth tradition says ministering angels descend and
+    cut off the serpent’s hands and feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Josephus on loss of language and feet
+  summary: Josephus is cited as saying the serpent was deprived of language and feet
+    and made to drag or crawl along the earth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: serpent loses feet and crawls
+  taxonomy_refs:
+  - serpent
+  basis: Multiple cited traditions connect the serpent with loss of feet or limbs
+    and with crawling or dragging on the ground.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a commentary note citing parallels, not a full narrative
+    scene from Jubilees itself.
+- id: motif:2
+  label: serpent deprived of speech
+  taxonomy_refs:
+  - serpent
+  basis: Josephus is cited as saying that the serpent was deprived of language as
+    well as feet.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This detail appears only in the Josephus citation within the provided
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Targum Pseudo-Jonathan, Midrash Koheleth, and Josephus
+    as parallel witnesses to a motif in which the serpent’s feet or limbs are removed
+    and its ground-crawling condition is explained.
+  claim_level: same_motif
+  target: serpent-foot-removal traditions around Genesis 3:14
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the parallels explicitly cited in this note;
+    it does not establish direction of dependence or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6496-6500
+  quote_or_summary: The note says the text most probably contained a statement about
+    cutting off the serpent’s feet and that such a statement would naturally follow
+    Genesis 3:14, “upon thy belly thou shalt go.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 6501-6504
+  quote_or_summary: Targum Pseudo-Jonathan on Genesis 3:14 is cited with the statement
+    translated as “and thy feet will be cut off.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 6505-6508
+  quote_or_summary: Midrash Koheleth is cited as saying that ministering angels came
+    down and cut off the serpent’s hands and feet.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6508-6512
+  quote_or_summary: Josephus, Antiquities 1.1.4, is cited as writing that the serpent
+    was deprived of language and feet and was made to drag or crawl upon the earth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal details are explicit in the passage. Motif labeling is slightly limited
+    because the passage is a note comparing cited traditions rather than a standalone
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used; extraction is limited to the provided passage and metadata.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l6496-l6512
+  passage_sha256=c1c24ef7c2d1cd6d948bcdded126ec1a564eee581c68d95a96b4c7a30cc75f23
+

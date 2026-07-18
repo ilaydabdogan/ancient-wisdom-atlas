@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l4009-l4098
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: THE BOOK OF JUBILEES / INTRODUCTION / THE BOOK OF JUBILEES / MUNDI.; lines
+    4009-4098
+  start: '4009'
+  end: '4098'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“Come up to Me on the Mount, and I will give thee two tables of stone...”"
+  summary: In the first year after Israel’s exodus, God summons Moses up the Mount
+    to receive two stone tables of law and commandment. Moses ascends the mount of
+    God; the glory of the Lord abides on Mount Sinai, a cloud overshadows it for six
+    days, and Moses is called on the seventh day from within the cloud. The glory
+    appears like flaming fire on the mountaintop, and Moses remains on the Mount forty
+    days and forty nights while God teaches him earlier and later history.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: God tells Moses to come up to the Mount to receive two tables of stone containing
+    law and commandment.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses goes up into the mount of God.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The glory of the Lord abides on Mount Sinai, and a cloud overshadows it for
+    six days.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the seventh day, Moses is called from the midst of the cloud.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The appearance of the glory of the Lord is described as like flaming fire
+    on the top of the mount.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Moses remains on the Mount forty days and forty nights.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: God teaches Moses earlier and later history concerning the division of all
+    the days.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The divine speaker who summons Moses, gives the stone tables, manifests
+    glory on Sinai, and teaches Moses history.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Moses
+  description: The recipient of God’s summons who ascends the Mount and remains there
+    forty days and forty nights.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: God says that he will give Moses two tables of stone of the law and commandment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine teacher of history
+  assigned_to:
+  - fig:1
+  basis: God teaches Moses the earlier and later history.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: summoned recipient and mountain ascender
+  assigned_to:
+  - fig:2
+  basis: Moses is commanded to come up to the Mount, goes up, and remains there for
+    forty days and forty nights.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: Mount Sinai / mount of God
+  literal_form: mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: two tables of stone
+  literal_form: stone tablets containing law and commandment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: overshadowing cloud
+  literal_form: cloud overshadowing the mount for six days and containing the divine
+    call on the seventh day
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: flaming fire
+  literal_form: appearance like flaming fire on the top of the mount
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: forty days and forty nights
+  literal_form: forty-day and forty-night duration on the Mount
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Divine summons to the Mount
+  summary: God summons Moses to come up to the Mount and promises to give him two
+    stone tables of law and commandment for instruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cloud and fire on Sinai
+  summary: Moses ascends the mount of God; the divine glory abides on Mount Sinai,
+    the cloud overshadows it for six days, and on the seventh day Moses is called
+    from the cloud while the glory appears like flaming fire on the mountaintop.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Forty-day instruction on the Mount
+  summary: Moses remains on the Mount for forty days and forty nights while God teaches
+    him earlier and later history.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ascent to the divine mountain
+  taxonomy_refs:
+  - ascent
+  basis: Moses is directly summoned to come up to the Mount and then goes up into
+    the mount of God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents a literal mountain ascent; broader cosmological meanings
+    are not stated here.
+- id: motif:2
+  label: divine lawgiving on the mountain
+  taxonomy_refs:
+  - covenant
+  basis: God promises Moses two tables of stone of law and commandment, written so
+    that Moses may teach them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the law-table scene; covenantal interpretation is supported
+    by the lawgiving context but the word covenant is not used in the main excerpt.
+- id: motif:3
+  label: divine manifestation in cloud and fire
+  taxonomy_refs: []
+  basis: The glory of the Lord abides on Sinai, a cloud overshadows it, and the glory
+    appears like flaming fire on the mountaintop.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific taxonomy motif family for cloud-fire theophany is supplied
+    in the available list.
+- id: motif:4
+  label: revelation of hidden or total history
+  taxonomy_refs:
+  - wisdom
+  basis: God teaches Moses the earlier and later history of the division of all the
+    days.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the knowledge as divine instruction rather than forbidden
+    or stolen knowledge.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns its Sinai ascent and cloud-fire scene with
+    Exodus 24, according to the included editorial notes.
+  claim_level: same_motif
+  target: Exodus 24:12, 15-18 Sinai ascent and theophany tradition
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim relies on the passage’s included notes, not on an independent
+    comparison beyond the supplied text.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4009-4098; Jubilees I.1
+  quote_or_summary: 'God says to Moses: “Come up to Me on the Mount, and I will give
+    thee two tables of stone of the law and of the commandment...”'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 4009-4098; Jubilees I.2
+  quote_or_summary: Moses ascends the mount of God; the glory of the Lord abides on
+    Mount Sinai, and a cloud overshadows it for six days.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4009-4098; Jubilees I.3a
+  quote_or_summary: On the seventh day, Moses is called from the midst of the cloud.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4009-4098; Jubilees I.3b
+  quote_or_summary: The glory of the Lord appears “like a flaming fire on the top
+    of the mount.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 4009-4098; Jubilees I.4
+  quote_or_summary: Moses is on the Mount forty days and forty nights, and God teaches
+    him earlier and later history concerning the division of all days.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: citation
+  locator: lines 4009-4098; editorial notes to Jubilees I.1
+  quote_or_summary: The note cites Exodus 24:12 for the command to come up to the
+    Mount and discusses the stone tablets.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; citation summarized.
+- id: ev:7
+  type: citation
+  locator: lines 4009-4098; editorial notes to Jubilees I.2-4
+  quote_or_summary: The note states that Jubilees I.2-4 is based on Exodus 24:15-18
+    and notes the fire wording in Exodus 24:17.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main scene is clear and closely follows the supplied passage. Motif taxonomy
+    assignments are conservative; covenant is marked medium because the passage centers
+    on law tables but does not itself use the word covenant in the main narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. Editorial notes within the supplied passage were treated as available evidence.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l4009-l4098
+  passage_sha256=fb7cd66ab4f3a64166de7a8dcfeaa99fa64be4a30669f6bfbdbfaab48b928c9f
+

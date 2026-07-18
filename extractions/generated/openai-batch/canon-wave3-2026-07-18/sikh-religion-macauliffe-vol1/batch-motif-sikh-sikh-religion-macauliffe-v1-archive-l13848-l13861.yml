@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.sikh-sikh-religion-macauliffe-v1-archive-l13848-l13861
+source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+passage_locator:
+  label: LIFE  OF  GURU  NANAK / SIKH.  I / THE  SIKH  RELIGION / LIFE  OF  GURU  NANAK  163;
+    lines 13848-13861
+  start: '13848'
+  end: '13861'
+  translation: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Guru Nanak addresses Jogi Bharthari with imagery of a horn producing continuous
+    melody, states that God's light is contained in everything with many colours,
+    and declares the Primal God as the sole object of his love. The passage then notes
+    that while in Batala the Guru composed the Sidh Gosht, a treatise said to have
+    brought spiritual consolation to Jogis.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A horn is described as producing a melody that fills the addressee with music
+    day and night.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that God's light is contained in everything and has many
+    colours.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Nanak addresses Jogi Bharthari and says that the Primal God is the sole object
+    of his love.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: During his residence in Batala, the Guru composed the Sidh Gosht.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Sidh Gosht is described as a treatise from which Jogis are said to have
+    derived spiritual consolation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Guru Nanak
+  description: Named speaker and Guru associated with composing the Sidh Gosht during
+    residence in Batala.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Jogi Bharthari
+  description: The named Jogi whom Nanak addresses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Primal God
+  description: The divine figure named as the sole object of Nanak's love.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Jogis
+  description: A group said to have derived spiritual consolation from the Sidh Gosht.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker of devotional statement
+  assigned_to:
+  - fig:1
+  basis: Nanak is named as saying that the Primal God is the sole object of his love.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: addressed Jogi
+  assigned_to:
+  - fig:2
+  basis: Jogi Bharthari is directly addressed by Nanak.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: composer of treatise
+  assigned_to:
+  - fig:1
+  basis: The Guru is said to have composed the Sidh Gosht during residence in Batala.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: beloved divine object
+  assigned_to:
+  - fig:3
+  basis: The Primal God is described as the sole object of Nanak's love.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recipients of spiritual consolation
+  assigned_to:
+  - fig:4
+  basis: Jogis are said to have derived spiritual consolation from the Sidh Gosht.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: horn producing continuous melody
+  literal_form: horn and melody
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divine light in everything
+  literal_form: God's light contained in everything, with many colours
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: music day and night
+  literal_form: continuous music filling the addressee
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Nanak addresses Jogi Bharthari
+  summary: Nanak speaks to Jogi Bharthari using the imagery of a horn, continuous
+    melody, and divine light, and declares love for the Primal God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Composition of the Sidh Gosht at Batala
+  summary: The Guru, while residing in Batala, composes the Sidh Gosht, a treatise
+    said to console Jogis spiritually.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: devotion to the divine as sole beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: Nanak states that the Primal God is the sole object of his love.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a devotional formulation but does not narrate a full
+    beloved-lover episode.
+- id: motif:2
+  label: spiritual wisdom consoling ascetics
+  taxonomy_refs:
+  - wisdom
+  basis: The Sidh Gosht is described as a treatise from which Jogis derived spiritual
+    consolation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage summarizes the treatise's effect rather than presenting its
+    teachings in detail.
+- id: motif:3
+  label: pervasive divine light
+  taxonomy_refs: []
+  basis: The passage states that God's light is contained in everything and has many
+    colours.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No specific taxonomy symbol for light is supplied; the extraction remains
+    a literal image rather than a broader cosmological claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13848-13850
+  quote_or_summary: '"From the sound of thy horn a melody shall thus be produced which
+    day and night shall fill thee with music."'
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: 13852-13854
+  quote_or_summary: '"In everything is Thy light contained, O God, and many and various
+    are its colours."'
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: 13856-13858
+  quote_or_summary: '"Saith Nanak, hear, Jogi Bharthari, the Primal God is the sole
+    object of my love."'
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 13860-13861
+  quote_or_summary: During the Guru's residence in Batala he composed the Sidh Gosht,
+    a treatise said to have given spiritual consolation to Jogis.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal figures and actions are explicit. Motif assignments are limited because
+    the passage is brief and partly summarizes a broader treatise.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself provide enough comparative framing beyond the local Jogi/Sidh Gosht context.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:sikh-sikh-religion-macauliffe-v1-archive__l13848-l13861
+  passage_sha256=851c1bcf9dff941cc4e07a6c0613754af9954a0b6e41a221572e2ba3bd4103c6
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0564
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-associated-king
+  motif_id: animal_associated_king
+  label: animal-associated king
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Animal association may mark royal identity, legitimacy, heraldry, or
+    a folkloric animal helper, but the function is unclear from the label alone.
+  cautions: Single occurrence; do not map to kingship unless the animal validates,
+    symbolizes, or empowers rule in the passage.
+  suggested_aliases:
+  - animal-associated ruler
+  - king associated with animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-devices-marking-martial-tents
+  motif_id: animal_devices_marking_martial_tents
+  label: animal devices marking martial tents
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Animal emblems on war tents are martial insignia and may belong with
+    sacred combat if symbolically or ritually significant.
+  cautions: Likely an episode-specific heraldic or descriptive detail; exclude if
+    it only identifies tents or warriors without motif function.
+  suggested_aliases:
+  - animal martial insignia
+  - animal devices on war tents
+  - animal emblems marking tents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-double-of-a-suspected-ruler
+  motif_id: animal_double_of_a_suspected_ruler
+  label: animal double of a suspected ruler
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal double of a ruler points to altered form, double identity,
+    or animal embodiment tied to a human figure.
+  cautions: If the double functions mainly as a life-token or soul-double, external_soul
+    may be a secondary or better placement; if it proves rulership, also relate to
+    royal_legitimacy.
+  suggested_aliases:
+  - ruler's animal double
+  - animal double of ruler
+  - animal counterpart of suspected king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-feature-explained-as-punishment
+  motif_id: animal_feature_explained_as_punishment
+  label: animal feature explained as punishment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bodily animal trait caused by punishment fits transformation or metamorphosis
+    as consequence.
+  cautions: If the passage emphasizes moral retribution more than bodily change, divine_judgment
+    should be a secondary placement.
+  suggested_aliases:
+  - punitive animal feature
+  - animal trait as punishment
+  - animal mark from punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-host-devastates-a-crop-by-stealing-the-harvest
+  motif_id: animal_host_devastates_a_crop_by_stealing_the_harvest
+  label: Animal host devastates a crop by stealing the harvest
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: A band of animals stealing a harvest may be trickster or animal-raider
+    action, but existing groups do not clearly cover crop-devastating animal hosts.
+  cautions: Could be an agricultural loss motif, punitive raid, animal fable, or passage-specific
+    plot detail; source context is needed before mapping.
+  suggested_aliases:
+  - animal host steals harvest
+  - animals devastate crop
+  - crop theft by animal host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-judgment
+  motif_id: animal_judgment
+  label: animal judgment
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: low
+  rationale: If animals judge deeds or disputes, the function resembles judgment and
+    moral reckoning.
+  cautions: 'The phrase is too broad: it may mean judgment by animals, judgment of
+    animals, or an animal fable verdict. Human review needed.'
+  suggested_aliases:
+  - judgment by animals
+  - animals judge
+  - animal as judge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-justice-for-a-slain-victim
+  motif_id: animal_justice_for_a_slain_victim
+  label: Animal justice for a slain victim
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal-mediated justice for a slain victim functions as vindication and
+    moral reckoning after wrongful death.
+  cautions: If the animal is primarily a helper, witness, or avenger rather than an
+    agent of sacred justice, secondary mappings may be needed.
+  suggested_aliases:
+  - animal vindicates slain victim
+  - animal avenges victim
+  - animal-mediated justice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-king-commands-a-chorus-of-animal-subjects
+  motif_id: animal_king_commands_a_chorus_of_animal_subjects
+  label: animal king commands a chorus of animal subjects
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: The chorus element may fit sound power, while the animal king and subjects
+    suggest animal sovereignty not currently represented as a group.
+  cautions: Could be a local animal-court scene, musical enchantment, kingship parody,
+    or fable detail; do not force into royal_legitimacy for human sacred kingship.
+  suggested_aliases:
+  - animal king commands chorus
+  - chorus of animal subjects
+  - animal sovereignty through song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-making-deity
+  motif_id: animal_making_deity
+  label: Animal-making deity
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: medium
+  rationale: A deity creating or making animals fits creation and origin motifs.
+  cautions: Review culturally specific source context; if the focus is a creator role
+    rather than cosmic emergence, a narrower animal-creation child may be warranted
+    later.
+  suggested_aliases:
+  - deity creates animals
+  - animal creator deity
+  - creation of animals by deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-markings-explained-by-a-gold-reward
+  motif_id: animal_markings_explained_by_a_gold_reward
+  label: animal markings explained by a gold reward
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears etiological, explaining animal markings, but the gold-reward
+    detail is highly specific and not covered by current groups.
+  cautions: May be a local animal-etiology or fable detail rather than a broad motif;
+    avoid mapping to cosmic_origin unless the taxonomy accepts animal-feature etiologies
+    there.
+  suggested_aliases:
+  - etiology of animal markings
+  - animal markings from reward
+  - gold reward explains markings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern animal agency in kingship, judgment, or social
+  order, but the current groups lack a dedicated animal-sovereignty or animal-etiology
+  group; source review is needed before creating one.
+- Single-occurrence, highly specific animal labels should generally remain granular
+  evidence unless recurring across traditions or functioning clearly within an existing
+  motif group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; many items depend on whether the animal element
+    is symbolic, etiological, fable-like, or structurally tied to kingship/judgment.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0564
+  input_sha256: bb5182d96228e830c0a17c4af27cbd9fd999fcbd85ee52879140bd04ddca0fd1
+

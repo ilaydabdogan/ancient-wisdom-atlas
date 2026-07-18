@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1599
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.superiority-of-the-life-to-come-over-present-life
+  motif_id: superiority_of_the_life_to_come_over_present_life
+  label: superiority of the life to come over present life
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label contrasts present life with a future life, fitting afterlife-oriented
+    teaching or postmortem destiny.
+  cautions: May be ethical doctrine or sermon theme rather than a narrative motif;
+    if focused on renunciation, mystical_quest or sacred_law may be secondary.
+  suggested_aliases:
+  - life_to_come_superior_to_present_life
+  - afterlife_superior_to_worldly_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-antagonist-reveals-his-own-vulnerability
+  motif_id: supernatural_antagonist_reveals_his_own_vulnerability
+  label: supernatural antagonist reveals his own vulnerability
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: Existing group already includes monster or antagonist disclosure of vulnerability
+    as a defeat condition.
+  cautions: Confirm that the revealed weakness is structurally necessary to defeat
+    the antagonist, not merely incidental dialogue.
+  suggested_aliases:
+  - monster_reveals_own_vulnerability
+  - antagonist_discloses_hidden_weakness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-apparition-identified-with-devil
+  motif_id: supernatural_apparition_identified_with_devil
+  label: Supernatural apparition identified with Devil
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a haunting, demonological interpretation, apparition
+    encounter, or Christianized classification.
+  cautions: Culturally sensitive and likely dependent on source framing; avoid treating
+    identification with the Devil as neutral taxonomy without evidence review.
+  suggested_aliases:
+  - devil_identified_apparition
+  - demonized_supernatural_apparition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - restless_dead_haunting_vengeance
+    - divine_intervention
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-army-concealed-by-mist
+  motif_id: supernatural_army_concealed_by_mist
+  label: Supernatural army concealed by mist
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural army prepared or hidden for conflict fits the sacred combat
+    field better than general weather symbolism.
+  cautions: If mist is the primary supernatural intervention rather than battle function,
+    divine_intervention or otherworld may also apply; label is episode-specific.
+  suggested_aliases:
+  - mist_concealed_supernatural_host
+  - supernatural_host_hidden_by_mist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-attacker-identified-or-defeated-through-a-severed-arm
+  motif_id: supernatural_attacker_identified_or_defeated_through_a_severed_arm
+  label: Supernatural attacker identified or defeated through a severed arm
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A severed body part functioning to identify the attacker aligns with
+    bodily tokens proving hidden identity.
+  cautions: If the emphasis is defeat through bodily vulnerability rather than identification,
+    conditional_invulnerability_hidden_weakness may be secondary; highly specific
+    evidence detail.
+  suggested_aliases:
+  - severed_arm_identifies_supernatural_attacker
+  - body_part_as_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-attacker-trapped-by-hair
+  motif_id: supernatural_attacker_trapped_by_hair
+  label: Supernatural attacker trapped by hair
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Hair may function as binding, vulnerability, magical restraint, or an
+    episode-specific capture method.
+  cautions: Needs source context before mapping to conditional vulnerability, sacred_treasures,
+    external_soul, or combat; avoid promoting a one-off capture detail.
+  suggested_aliases:
+  - hair_traps_supernatural_attacker
+  - supernatural_attacker_bound_by_hair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - conditional_invulnerability_hidden_weakness
+    - external_soul
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-auxiliary-army-prepared-against-a-fiend
+  motif_id: supernatural_auxiliary_army_prepared_against_a_fiend
+  label: Supernatural auxiliary army prepared against a fiend
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An auxiliary supernatural force assembled against a fiend is a sacred
+    or mythic combat support pattern.
+  cautions: If the army is provided directly by divine agency, divine_intervention
+    may be a secondary mapping; preserve fiend-specific context as evidence.
+  suggested_aliases:
+  - supernatural_army_against_fiend
+  - divine_auxiliary_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-being-located-behind-the-stove
+  motif_id: supernatural_being_located_behind_the_stove
+  label: Supernatural being located behind the stove
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a local setting detail rather than a reusable motif
+    by itself.
+  cautions: If the stove is a domestic threshold or household-spirit dwelling in the
+    passage, consider future review under tutelary/domestic spirit patterns rather
+    than exclusion.
+  suggested_aliases:
+  - household_spirit_behind_stove
+  - supernatural_being_at_domestic_hearth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-beings-bind-an-exceptional-hound-in-sleep
+  motif_id: supernatural_beings_bind_an_exceptional_hound_in_sleep
+  label: supernatural beings bind an exceptional Hound in sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Binding an exceptional warrior or hound by supernatural means can function
+    as combat neutralization before conflict.
+  cautions: The label is culturally contextual and possibly refers to a named heroic
+    epithet; if sleep enchantment is primary, enchanting_music or divine_intervention
+    may be more relevant.
+  suggested_aliases:
+  - supernatural_binding_in_sleep
+  - heroic_hound_bound_by_supernatural_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-beings-vanish-at-cockcrow
+  motif_id: supernatural_beings_vanish_at_cockcrow
+  label: supernatural beings vanish at cockcrow
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Night Beings Repelled by Dawn
+  relationship: narrower_than
+  confidence: medium
+  rationale: The recurring folklore structure is supernatural beings losing power
+    or disappearing at dawn/cockcrow, not covered cleanly by existing groups.
+  cautions: May be too narrow unless similar dawn, cockcrow, or daylight-dispelling
+    labels recur; could otherwise be evidence detail under otherworld or threshold
+    patterns.
+  suggested_aliases:
+  - night_beings_vanish_at_cockcrow
+  - supernatural_beings_dispelled_by_dawn
+  - cockcrow_dispels_supernatural_beings
+  suggested_new_group:
+    id: night_beings_repelled_by_dawn
+    label: Night Beings Repelled by Dawn
+    description: Supernatural beings, spirits, demons, fairies, or night visitors
+      vanish, lose power, or must depart at cockcrow, sunrise, or the arrival of daylight.
+    parent_group_ids:
+    - otherworld
+    - threshold_guardian
+    related_group_ids:
+    - sacred_time
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover otherworld beings and
+      thresholds, but not the specific temporal boundary where dawn or cockcrow terminates
+      supernatural presence.
+batch_notes:
+- Several labels in this batch are single-occurrence Slavic or Celtic supernatural-encounter
+  details; preserve evidence specificity and avoid promoting episode details without
+  recurrence.
+- Where labels include demonological identification such as 'Devil' or terms like
+  'fiend', review source framing and translation before final normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    apparition and over-specific supernatural encounter labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1599
+  input_sha256: fbcada5e5cc62591ceafc7ad0d52a654cc038837aa5417891f12d02e5e07eb9b
+

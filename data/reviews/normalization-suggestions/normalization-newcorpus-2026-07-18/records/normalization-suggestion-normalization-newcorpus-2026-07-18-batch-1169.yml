@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1169
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.trait-transfer-and-concentration-onto-a-favored-hero
+  motif_id: trait_transfer_and_concentration_onto_a_favored_hero
+  label: trait transfer and concentration onto a favored hero
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a comparative or redactional observation about
+    heroic attributes being reassigned, not a clear narrative motif.
+  cautions: May be a textual/comparative artifact; source evidence is needed to decide
+    whether it concerns hero formation, royal legitimacy, or editorial synthesis.
+  suggested_aliases:
+  - heroic trait transfer
+  - concentration of heroic traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - hero_journey
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transcendent-promised-reward-beyond-human-perception
+  motif_id: transcendent_promised_reward_beyond_human_perception
+  label: Transcendent promised reward beyond human perception
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on revealed knowledge of an unseen transcendent reward
+    rather than combat itself.
+  cautions: If the passage is specifically martyrdom compensation or afterlife destination,
+    secondary review under sacrifice, divine_judgment, or afterlife_passage may be
+    needed.
+  suggested_aliases:
+  - unseen heavenly reward
+  - promised reward beyond perception
+  - transcendent reward revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transferable-magical-power-charms-a-weapon
+  motif_id: transferable_magical_power_charms_a_weapon
+  label: Transferable magical power charms a weapon
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon empowered by transferred magical force functions as a power
+    object conferring special efficacy.
+  cautions: Could also relate to sacred_combat if the narrative focus is ritual warfare,
+    or sacred_knowledge if the charm technique is central.
+  suggested_aliases:
+  - enchanted weapon
+  - charmed weapon
+  - transferred power weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-attack-during-hospitality-or-feasting
+  motif_id: treacherous_attack_during_hospitality_or_feasting
+  label: treacherous attack during hospitality or feasting
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The current group explicitly covers feast or drink betrayal as a broken-bond
+    pattern.
+  cautions: If hospitality testing is the focus rather than betrayal, hospitality_test_stranger_guest
+    may be a secondary mapping.
+  suggested_aliases:
+  - feast betrayal
+  - hospitality betrayal attack
+  - attack under guest-right
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-attack-on-sleepers-thwarted-by-watchfulness
+  motif_id: treacherous_attack_on_sleepers_thwarted_by_watchfulness
+  label: treacherous attack on sleepers thwarted by watchfulness
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes a treacherous attack and violated trust, with watchfulness
+    as the resolution mechanism.
+  cautions: If the scene is mainly a battle stratagem or night ambush without broken
+    trust, sacred_combat or exclusion as an episode detail may fit better.
+  suggested_aliases:
+  - night betrayal thwarted by vigilance
+  - sleeping victims saved by watchfulness
+  - ambush on sleepers thwarted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-brothers
+  motif_id: treacherous_brothers
+  label: treacherous brothers
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: role_variant
+  confidence: medium
+  rationale: The essential pattern is betrayal by kin, a violated bond that drives
+    conflict.
+  cautions: Could overlap with sibling_pair if the sibling relation is structurally
+    central beyond betrayal; label is broad and source context is needed.
+  suggested_aliases:
+  - brotherly betrayal
+  - treacherous siblings
+  - kinsman betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - sibling_pair
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-brothers-abandon-the-successful-hero
+  motif_id: treacherous_brothers_abandon_the_successful_hero
+  label: Treacherous brothers abandon the successful hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: Abandoning a successful hero by brothers is a clear kin-betrayal episode.
+  cautions: If abandonment occurs during a quest threshold, hero_journey may be a
+    secondary mapping; keep brother detail as evidence.
+  suggested_aliases:
+  - brothers abandon hero
+  - kinsmen abandon successful hero
+  - hero betrayed by brothers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_twins
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-brothers-cut-the-rescue-rope
+  motif_id: treacherous_brothers_cut_the_rescue_rope
+  label: Treacherous brothers cut the rescue rope
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: Cutting a rescue rope is a specific act of kin betrayal that endangers
+    the hero at a threshold.
+  cautions: May also relate to descent if the rope connects an underworld or pit episode;
+    do not map to descent unless passage evidence supports it.
+  suggested_aliases:
+  - rescue rope betrayal
+  - brothers cut the rope
+  - betrayal at ascent from underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-brothers-exposed-and-punished
+  motif_id: treacherous_brothers_exposed_and_punished
+  label: treacherous brothers exposed and punished
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure and punishment of treacherous kin emphasizes moral reckoning
+    after betrayal.
+  cautions: If the focus is the betrayal itself, betrayal_violated_trust is primary;
+    if punishment is merely plot closure, it may be too episode-specific.
+  suggested_aliases:
+  - betrayers exposed and punished
+  - treacherous siblings punished
+  - kin betrayal judged
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-companion-or-kinsman-over-the-monster-slaying-aftermath
+  motif_id: treacherous_companion_or_kinsman_over_the_monster_slaying_aftermath
+  label: treacherous companion or kinsman over the monster-slaying aftermath
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: A companion or kinsman betrays the hero after victory, making violated
+    trust the narrative engine.
+  cautions: Monster-slaying context may support sacred_combat or divine_warrior as
+    secondary facets; avoid creating a separate motif for this single over-specific
+    aftermath label.
+  suggested_aliases:
+  - companion betrayal after monster slaying
+  - kinsman betrayal after victory
+  - betrayal over heroic spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Slavic and Norse items form a small cluster around kin or companion betrayal;
+  existing betrayal_violated_trust can hold them provisionally while preserving granular
+  labels as aliases or children.
+- Items involving heroic victory, ambush, or weapon magic should not be mapped to
+  sacred_combat unless the passage foregrounds ritualized or cosmic warfare rather
+  than ordinary conflict.
+- Single-occurrence, episode-specific labels should remain provisional evidence details
+  unless they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from labels and current canonical_motif_groups
+    only; source passages not reviewed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1169
+  input_sha256: 9c7739be1d8c495ada95d932af84fca180199e239c18f0bddb3a82dd8554e4fa
+

@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l17558-l17599
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE PERFECT SERMON 371 / THE PERFECT SERMON 373 / XXXIII / THE PERFECT SERMON
+    375; lines 17558-17599
+  start: '17558'
+  end: '17599'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: thou shalt call nothing void
+  summary: The passage presents a cosmology in which any extra-cosmic region, if it
+    exists, is filled with intelligible things, while the sensible cosmos is filled
+    with bodies and animals. It describes daimones dwelling with humans, heroes abiding
+    between the pure air and the earth, and instructs Asclepius that nothing should
+    be called void without specifying what it lacks; even apparent void cannot lack
+    spirit and air.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The first-person speaker treats an extra-cosmic region as doubtful, but says
+    that if it exists it is filled by a divine “Him” with intelligible things like
+    His own divinity.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sensible cosmos is described as filled with bodies and animals consonant
+    with its nature and quality.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some bodies are said not to be seen in their proper shape; they may appear
+    too large, too small, or nonexistent because of distance, weak sight, or tenuity.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Daimones are said by the speaker to have their abode with “us.”
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Heroes are said to abide between the purest part of the air above humans and
+    the earth, in a cloudless region undisturbed by the motion of a star.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Asclepius is instructed to call nothing void unless he can say what it is
+    void of, such as fire or water.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says anything that seems void, whether small or large, cannot
+    be void of spirit and air.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: divine “Him”
+  description: A divine figure whose divinity is the likeness for intelligible things
+    and who fills any extra-cosmic region if such a region exists.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Asclepius
+  description: The named addressee instructed about how to speak of voidness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: daimones
+  description: Beings whom the speaker says dwell with “us.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: heroes
+  description: Beings said to abide between the purest air above humans and the earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: unnamed first-person speaker
+  description: The speaker who states beliefs about extra-cosmic things, daimones,
+    heroes, and voidness, and addresses Asclepius.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: divine filler of intelligible region
+  assigned_to:
+  - fig:1
+  basis: The extra-cosmic, if it exists, is said to be filled by Him with intelligible
+    things of like nature to His divinity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressee of instruction
+  assigned_to:
+  - fig:2
+  basis: Asclepius is directly told to call nothing void unless the lack is specified.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: co-present spirit beings
+  assigned_to:
+  - fig:3
+  basis: The daimones are said to have their abode with “us.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: intermediate aerial beings
+  assigned_to:
+  - fig:4
+  basis: The heroes are said to abide between the purest air above and the earth.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cosmological instructor
+  assigned_to:
+  - fig:5
+  basis: The first-person speaker explains the extra-cosmic, the sensible cosmos,
+    daimones, heroes, and the doctrine that nothing is void.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire as possible content of a void-claim
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: water as possible content of a void-claim
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: air as subtle pervasive element and heroic region
+  literal_form: air
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: spirit as non-absent content
+  literal_form: spirit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sensible cosmos
+  literal_form: Cosmos called the Sensible
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: extra-cosmic region
+  literal_form: Extra-cosmic
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: earth as lower boundary of heroic abode
+  literal_form: earth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cosmic fullness and limits of perception
+  summary: The speaker describes a possible extra-cosmic intelligible fullness and
+    the sensible cosmos filled with bodies and animals, then explains that perception
+    may misjudge bodies as too large, too small, or nonexistent.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Daimones and heroes in human and aerial realms
+  summary: The speaker identifies daimones as dwelling with humans and heroes as abiding
+    between the purest air and the earth in a cloudless, undisturbed region.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Instruction against calling anything void
+  summary: The speaker tells Asclepius not to call anything void unless what is absent
+    is specified, using fire and water as examples, and says apparent void cannot
+    lack spirit and air.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cosmic plenum and denial of empty space
+  taxonomy_refs: []
+  basis: The passage describes the sensible cosmos as full and teaches that nothing
+    should be called void; even apparent void cannot be void of spirit and air.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No exact supplied taxonomy family corresponds to cosmic fullness or plenum;
+    the label is descriptive.
+- id: motif:2
+  label: Layered cosmos of intelligible, sensible, and aerial regions
+  taxonomy_refs: []
+  basis: The passage distinguishes a possible extra-cosmic intelligible region, the
+    sensible cosmos filled with bodies and animals, and a region between pure air
+    and earth where heroes abide.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is doctrinal exposition rather than a narrative ascent or
+    journey map.
+- id: motif:3
+  label: Intermediate beings dwelling near humanity
+  taxonomy_refs: []
+  basis: Daimones are described as dwelling with “us,” while heroes abide in the intermediate
+    region between air above and earth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives locations for these beings but no episode of interaction
+    with humans.
+- id: motif:4
+  label: Dual order of intelligible and sensible realms
+  taxonomy_refs:
+  - duality
+  basis: The text contrasts intelligible things associated with divinity and the extra-cosmic
+    with the sensible cosmos filled with bodies and animals.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The contrast is cosmological and philosophical; it is not presented as
+    a paired-opposition mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17558-17568
+  quote_or_summary: If an extra-cosmic region exists, it is filled by Him with intelligible
+    things like His divinity; the sensible cosmos is filled with bodies and animals.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: 17568-17580
+  quote_or_summary: Some bodies’ proper shapes are not all perceived; distance, weak
+    sight, and tenuity make them appear huge, tiny, or nonexistent to many.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: 17581-17587
+  quote_or_summary: The speaker says daimones have their abode with humans and heroes
+    abide between the purest air above and the earth, where it is cloudless and undisturbed
+    by star-motion.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 17588-17599
+  quote_or_summary: Asclepius is told to call nothing void unless saying what it is
+    void of, for example fire or water; apparent void cannot be void of spirit and
+    air.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is supported by the supplied passage. Motif candidates
+    are descriptive because the passage is cosmological instruction rather than narrative
+    myth. No comparison claims were added because the passage itself does not compare
+    traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to the supplied motif and symbol lists; unsupported concepts are left without taxonomy IDs.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l17558-l17599
+  passage_sha256=95254522bc9e68fa7dac2e03b19d4bd989309437945591d8d5dd396b1879f4eb
+

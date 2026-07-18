@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1368
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.entrusted-food-consumed-by-the-guardian
+  motif_id: entrusted_food_consumed_by_the_guardian
+  label: Entrusted food consumed by the guardian
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests violated trust by a caretaker or guardian, but could
+    also be a trickster, hunger, or episode-specific food motif.
+  cautions: Single occurrence and little context; verify whether the guardian role
+    and betrayal are central or just plot detail.
+  suggested_aliases:
+  - guardian consumes entrusted food
+  - entrusted goods consumed by caretaker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_exchange
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envious-retrieval-of-misfortune-causes-downfall
+  motif_id: envious_retrieval_of_misfortune_causes_downfall
+  label: envious retrieval of misfortune causes downfall
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on envy-driven action that brings self-destructive
+    reversal, matching the existing envy/downfall cluster.
+  cautions: If the passage emphasizes moral punishment by sacred authority, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - envy causes downfall
+  - envious pursuit of misfortune
+  - envy-driven self-destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envious-rich-brother-against-poor-brother
+  motif_id: envious_rich_brother_against_poor_brother
+  label: Envious rich brother against poor brother
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is envy and rivalry leading to conflict or reversal,
+    already represented under pride_and_downfall aliases for envy/rivalry.
+  cautions: Could also relate to sibling_pair if sibling opposition is structurally
+    central rather than only a social role detail.
+  suggested_aliases:
+  - envious rich sibling
+  - rich brother envies poor brother
+  - envy between rich and poor brothers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - sibling_pair
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envoy-confronting-a-negligent-ally
+  motif_id: envoy_confronting_a_negligent_ally
+  label: envoy confronting a negligent ally
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a diplomatic or narrative episode rather than a clear
+    mythic motif in the current groups.
+  cautions: 'Needs passage evidence: it may involve covenant duty, sacred kingship,
+    heroic war alliance, or simply plot mechanics.'
+  suggested_aliases:
+  - messenger rebukes negligent ally
+  - envoy demands ally's duty
+  - ally confronted by envoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    - sacred_combat
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-as-an-active-source-of-harm
+  motif_id: envy_as_an_active_source_of_harm
+  label: Envy as an active source of harm
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The existing group already includes envy_as_harmful_force and related
+    envy variants.
+  cautions: If the harm is specifically apotropaic or evil-eye logic, sacred_law may
+    be a secondary mapping.
+  suggested_aliases:
+  - envy as harmful force
+  - destructive envy
+  - envy causing harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-leads-to-destruction-of-magical-helper
+  motif_id: envy_leads_to_destruction_of_magical_helper
+  label: envy leads to destruction of magical helper
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Envy motivates destructive action and likely results in loss or downfall,
+    fitting the envy/downfall cluster.
+  cautions: If the helper's magical role is central, divine_intervention or sacred_treasures
+    may be relevant; preserve helper destruction as evidence detail.
+  suggested_aliases:
+  - envy destroys magical helper
+  - destruction of helper through envy
+  - envious loss of helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-of-exceptional-hunter-leading-to-threatened-killing
+  motif_id: envy_of_exceptional_hunter_leading_to_threatened_killing
+  label: envy of exceptional hunter leading to threatened killing
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on envy escalating into violence, fitting the existing
+    envy/rivalry/downfall cluster.
+  cautions: The hunter detail may be culturally and narratively important; do not
+    collapse into generic envy if the passage is about subsistence skill, shamanic
+    power, or social order.
+  suggested_aliases:
+  - envy of exceptional hunter
+  - envy leading to threatened killing
+  - rivalry against skilled hunter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epic-pathos-of-shared-human-passion
+  motif_id: epic_pathos_of_shared_human_passion
+  label: epic pathos of shared human passion
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as a literary-critical description of tone or affect
+    rather than a discrete narrative motif.
+  cautions: If source passages encode a recurring scene of compassion, lament, or
+    recognition, remap that concrete scene instead of this abstract label.
+  suggested_aliases:
+  - epic pathos
+  - shared human passion in epic
+  - literary pathos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.episode-attached-to-proverbial-sayings
+  motif_id: episode_attached_to_proverbial_sayings
+  label: episode attached to proverbial sayings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This describes a relationship between an episode and proverb tradition,
+    not the symbolic or narrative content of the episode itself.
+  cautions: If the proverb functions as performative sacred speech or wisdom teaching
+    in the passage, index the proverb's function separately.
+  suggested_aliases:
+  - proverb-attached episode
+  - etiology of proverbial saying
+  - episode explaining proverb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.episodic-accumulation-of-wonders
+  motif_id: episodic_accumulation_of_wonders
+  label: episodic accumulation of wonders
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes narrative structure or style rather than a specific
+    recurrent motif such as an otherworld, treasure, or transformation.
+  cautions: If individual wonders are identifiable, index those concrete motifs rather
+    than the accumulation as a pattern-query motif.
+  suggested_aliases:
+  - accumulation of wonders
+  - wonders in episodic sequence
+  - marvel accumulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_treasures
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract; preserve concrete
+  passage evidence where available rather than promoting generated phrasing.
+- Envy-related labels can mostly be parked under pride_and_downfall because the current
+  group already contains envy/rivalry variants, with divine_judgment as a possible
+  secondary relation when punishment is explicit.
+- Labels describing literary tone, proverb attachment, or episodic style should be
+  excluded from motif queries unless a concrete narrative function is identified.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    or context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1368
+  input_sha256: 1f0e10e5abe200dd7e5f7c6b2f60db9e2c9b64460ba1c734a9c4e6a2152ffd1b
+

@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.native-american-myths-of-cherokee-mooney-gutenberg-l26082-l26097
+source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+passage_locator:
+  label: SECOND VERSION / SECOND VERSION / WAHNENAUHI VERSION / VI--NOTES AND PARALLELS
+    TO MYTHS; lines 26082-26097
+  start: '26082'
+  end: '26097'
+  translation: Myths of the Cherokee
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A notes-and-parallels passage cites cedar as sacred among Plains tribes,
+    reports a Tuscarora belief that black gum alone is immune from lightning, gives
+    Lawson's practical explanation for that belief, reports a Pawnee belief that cedar
+    has the same lightning immunity and is burned as incense during storms, and directs
+    readers elsewhere for more on ginseng.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage points to references on the sacred character of cedar among Plains
+    tribes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports an ancient Tuscarora belief that only black gum was immune
+    from lightning, with lightning described as circling the tree while seeking entrance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lawson is cited as explaining the black gum belief by noting that this kind
+    of gum will not split or rive.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage reports that the Pawnee assign the same lightning immunity to
+    cedar.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage reports that Pawnee people throw cedar sprigs as incense onto
+    fire during storms to turn aside lightning strokes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage directs readers to another work for more information about ginseng.
+  category: other
+  evidence_refs:
+  - ev:5
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Cedar
+  literal_form: cedar tree or cedar sprigs
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Black gum
+  literal_form: black gum tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Lightning
+  literal_form: lightning stroke
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Fire used for incense
+  literal_form: fire receiving cedar sprigs as incense
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sacred cedar reference
+  summary: The note identifies cedar as having sacred character among Plains tribes
+    and refers readers to another work for documentation.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Trees and lightning immunity
+  summary: The note compares a Tuscarora belief in black gum's immunity from lightning
+    with a Pawnee claim of the same immunity for cedar.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Cedar incense in storms
+  summary: The note reports a Pawnee storm practice in which cedar sprigs are cast
+    onto fire as incense to turn aside lightning.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sacred tree
+  taxonomy_refs: []
+  basis: Cedar is explicitly described as having sacred character among Plains tribes.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a bibliographic note and does not describe a full narrative
+    episode or cosmological role for cedar.
+- id: motif:2
+  label: Tree immune from lightning
+  taxonomy_refs: []
+  basis: The passage reports beliefs that black gum, for the Tuscarora, and cedar,
+    for the Pawnee, are immune from lightning.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage records parallel beliefs but does not explain their origin
+    beyond Lawson's comment on black gum.
+- id: motif:3
+  label: Protective incense against lightning
+  taxonomy_refs: []
+  basis: Pawnee people are said to throw cedar sprigs onto fire as incense during
+    storms to turn aside lightning.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a concise ethnographic note rather than a mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents a functional parallel between Tuscarora black
+    gum and Pawnee cedar as trees believed to be immune from lightning.
+  claim_level: same_function
+  target: Tuscarora black gum belief and Pawnee cedar belief
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports similarity of function only; it does not claim
+    historical contact, common inheritance, or a shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26082-26084
+  quote_or_summary: Cedar is said to have sacred character among Plains tribes, with
+    a reference to the author's Ghost-dance Religion.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 26086-26090
+  quote_or_summary: 'Ancient Tuscarora belief: no tree except black gum was immune
+    from lightning; lightning would circle the tree seeking entry.'
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 26090-26092
+  quote_or_summary: '"that sort of gum will not split or rive"'
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 26092-26094
+  quote_or_summary: The Pawnee claim lightning immunity for cedar and throw cedar
+    sprigs as incense on fire during storms to turn aside lightning strokes.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 26096-26097
+  quote_or_summary: For ginseng, the note directs readers to the author's Sacred Formulas.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are conservative
+    because the passage is a notes-and-parallels entry rather than a full myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the available motif refs do not include a general sacred-tree or lightning-protection category, and the passage does not support the more specific sacred_tree_axis motif.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-myths-of-cherokee-mooney-gutenberg__l26082-l26097
+  passage_sha256=f4fcc6bfefad4c7063cf24f99dcaddee8772fd560a9f3f01851ea117ecca9add
+

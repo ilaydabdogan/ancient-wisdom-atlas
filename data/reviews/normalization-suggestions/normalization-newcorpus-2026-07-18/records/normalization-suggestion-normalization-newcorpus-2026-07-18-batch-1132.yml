@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1132
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.raised-hands-determining-battle-fortune
+  motif_id: raised_hands_determining_battle_fortune
+  label: raised hands determining battle fortune
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Raised hands function as an embodied prayer or ritual gesture that mediates
+    divine aid in battle.
+  cautions: Could also fit sacred_combat if the emphasis is battle structure rather
+    than divine assistance; single occurrence.
+  suggested_aliases:
+  - prayer_gesture_securing_victory
+  - raised_hands_for_battle_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raised-hands-or-cross-sign-securing-victory
+  motif_id: raised_hands_or_cross_sign_securing_victory
+  label: Raised hands or cross-sign securing victory
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred gesture or sign secures victory through divine aid, matching
+    intervention in conflict.
+  cautions: Cross-sign specificity may be Christian-liturgical evidence detail; avoid
+    treating gesture alone as sacred combat.
+  suggested_aliases:
+  - cross_sign_securing_victory
+  - sacred_gesture_securing_victory
+  - raised_hands_for_battle_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raising-descendants-for-revenge
+  motif_id: raising_descendants_for_revenge
+  label: raising descendants for revenge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on intergenerational vengeance as a motive for heroic
+    or feud violence.
+  cautions: May be family-lineage or saga plot detail rather than sacred combat; review
+    whether vengeance is ritually or heroically framed.
+  suggested_aliases:
+  - descendants_raised_for_vengeance
+  - intergenerational_revenge
+  - kin_vengeance_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-matched-champion-combat-in-place-of-mass-battle
+  motif_id: rank_matched_champion_combat_in_place_of_mass_battle
+  label: Rank-matched champion combat in place of mass battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Substitution of champion duel for army battle fits the existing sacred_combat
+    cluster of formalized heroic warfare.
+  cautions: Preserve rank-matching and substitution-for-mass-battle as evidence detail;
+    not all duels are sacred or ritual combat.
+  suggested_aliases:
+  - champion_combat_in_place_of_battle
+  - rank_matched_champion_duel
+  - single_combat_substitutes_for_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ravens-gladdened-by-battle
+  motif_id: ravens_gladdened_by_battle
+  label: Ravens gladdened by battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Battle-ravens may signal carnage, omen, battlefield scavengers, or divine
+    war associations depending on context.
+  cautions: No existing animal-omen or battlefield-beast group cleanly fits; avoid
+    forcing into divine_warrior without evidence of sacred agency.
+  suggested_aliases:
+  - battle_ravens
+  - ravens_rejoice_in_carnage
+  - carrion_birds_of_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - prophecy_divination
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebuke-and-exhortation-to-rouse-a-sick-hero
+  motif_id: rebuke_and_exhortation_to_rouse_a_sick_hero
+  label: rebuke and exhortation to rouse a sick hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be heroic arousal, healing speech, shame exhortation, or
+    episode-specific dialogue.
+  cautions: Likely too contextual unless similar rousing-speech motifs recur; source
+    evidence needed before mapping to divine_warrior, sacred_combat, or storytelling_as_power.
+  suggested_aliases:
+  - exhortation_rouses_sick_hero
+  - rebuke_awakens_heroic_strength
+  - hero_roused_by_rebuke
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.received-mercy-becoming-obligation-toward-vulnerable-others
+  motif_id: received_mercy_becoming_obligation_toward_vulnerable_others
+  label: Received mercy becoming obligation toward vulnerable others
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy received creates a binding ethical obligation toward vulnerable
+    others, matching covenantal moral reciprocity.
+  cautions: Could also fit sacred_law or sacred_exchange if framed as legal duty or
+    reciprocity rather than mercy-bond.
+  suggested_aliases:
+  - mercy_received_as_obligation
+  - received_mercy_requires_mercy
+  - mercy_obligation_to_vulnerable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-killing-of-heroic-opponents
+  motif_id: reciprocal_killing_of_heroic_opponents
+  label: reciprocal killing of heroic opponents
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mutual killing between heroic opponents fits formal heroic combat and
+    warrior death patterns.
+  cautions: May be an episode-specific battle outcome; if focus is fate or lament
+    after death, death_by_fate or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - mutual_killing_of_heroes
+  - heroic_opponents_slain_together
+  - reciprocal_heroic_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - death_by_fate
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-sanctity-in-warfare
+  motif_id: reciprocal_sanctity_in_warfare
+  label: reciprocal sanctity in warfare
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label frames warfare as governed by mutual sacred limits or obligations,
+    fitting sacred law.
+  cautions: If the passage emphasizes ritualized combat rather than legal-ethical
+    limits, sacred_combat may be a better primary group.
+  suggested_aliases:
+  - sacred_limits_in_warfare
+  - mutual_sanctity_in_war
+  - reciprocal_war_ethic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-wounding-threats-with-withheld-healing
+  motif_id: reciprocal_wounding_threats_with_withheld_healing
+  label: Reciprocal wounding threats with withheld healing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines threat exchange, wounding, and withheld healing without
+    enough context to identify the primary function.
+  cautions: May be over-specific to a dialogue or combat episode; could involve sacred_combat,
+    curse/blessing speech, or healing power depending on passage evidence.
+  suggested_aliases:
+  - withheld_healing_after_wounding_threats
+  - reciprocal_wounding_and_healing_refusal
+  - threatened_wounds_withheld_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - curse_blessing_speech
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict labels are single-occurrence and highly contextual; preserve granular
+  wording as evidence notes where mapped.
+- Battlefield prayer or sign motifs were placed under divine_intervention rather than
+  sacred_combat when the operative function is securing divine aid.
+- No transmission or borrowing claim is implied by grouping similar warfare motifs
+  across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements for conflict/warfare batch; items with ambiguous speech,
+    animal omen, or episode-specific healing dynamics left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1132
+  input_sha256: ba6df26921516dd4bd3b15688b83ef052d871718cee7aae352d74dcaac1c4996
+

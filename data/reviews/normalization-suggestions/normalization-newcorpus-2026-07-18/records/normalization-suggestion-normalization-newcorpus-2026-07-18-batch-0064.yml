@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0064
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feigned-affection-extracts-the-monster-s-death-secret
+  motif_id: feigned_affection_extracts_the_monster_s_death_secret
+  label: Feigned affection extracts the monster’s death-secret
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: The key motif is disclosure of the monster's hidden vulnerability or
+    death condition, already covered by this group.
+  cautions: Feigned affection is the extraction method; if deception itself is central,
+    add a secondary relation to trickster.
+  suggested_aliases:
+  - death-secret extracted by deception
+  - monster reveals death secret
+  - hidden vulnerability learned through feigned affection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-and-apparent-return
+  motif_id: feigned_death_and_apparent_return
+  label: feigned death and apparent return
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label resembles death-and-return, but the death is explicitly feigned,
+    so it may be deception rather than resurrection or rebirth.
+  cautions: Do not map to resurrection or death_and_transformation unless the passage
+    treats the return as transformative or ritually significant; may fit trickster
+    if deception is central.
+  suggested_aliases:
+  - apparent death and return
+  - pretended death followed by return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-as-a-lure
+  motif_id: feigned_death_as_a_lure
+  label: Feigned death as a lure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Feigning death to lure another figure is a deception strategy, matching
+    existing trickster children for feigned death and predatory ruses.
+  cautions: If the lure is specifically a lethal threshold or enchantment, threshold_guardian
+    may be a secondary fit.
+  suggested_aliases:
+  - pretended death as bait
+  - feigned corpse lure
+  - death-feint lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-as-escape-from-defeat
+  motif_id: feigned_death_as_escape_from_defeat
+  label: Feigned death as escape from defeat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a tactical deception using apparent death to cross a danger boundary
+    or avoid capture, like existing feigned-death escape motifs.
+  cautions: If embedded in heroic combat rather than trickster strategy, sacred_combat
+    could be a secondary context.
+  suggested_aliases:
+  - pretended death to escape defeat
+  - death-feint escape
+  - feigned death to survive battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-by-blood-substitute
+  motif_id: feigned_death_by_blood_substitute
+  label: feigned death by blood substitute
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A blood substitute used to stage death is primarily a deception tactic
+    rather than actual death transformation.
+  cautions: Blood symbolism may also support sacred_law or sacrifice if the passage
+    stresses blood as life, offering, or taboo rather than disguise.
+  suggested_aliases:
+  - false death with substitute blood
+  - blood substitute death ruse
+  - staged death by blood token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-to-avoid-a-creditor
+  motif_id: feigned_death_to_avoid_a_creditor
+  label: Feigned death to avoid a creditor
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif uses pretended death as a social deception to escape obligation,
+    fitting the trickster/deception field.
+  cautions: This may be a comic tale-type detail rather than a durable mythic motif;
+    preserve creditor specificity as evidence only.
+  suggested_aliases:
+  - pretended death to evade debt
+  - death ruse to avoid creditor
+  - feigned corpse debt escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-to-test-a-spouse-s-fidelity
+  motif_id: feigned_death_to_test_a_spouse_s_fidelity
+  label: Feigned death to test a spouse's fidelity
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The feigned death is a test of marital fidelity, but current groups lack
+    a clear spouse-fidelity or loyalty-test parent.
+  cautions: Could be indexed under trickster for deception or sacred_love for fidelity,
+    depending on whether the passage emphasizes ruse, moral testing, or love bond.
+  suggested_aliases:
+  - pretended death as fidelity test
+  - spouse fidelity tested by feigned death
+  - death ruse tests marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigning-defeat-followed-by-hidden-healing-and-triumphant-return
+  motif_id: feigning_defeat_followed_by_hidden_healing_and_triumphant_return
+  label: Feigning defeat followed by hidden healing and triumphant return
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence of withdrawal, hidden restoration, and triumphant return
+    fits an ordeal-and-return arc more than literal resurrection.
+  cautions: If defeat is staged mainly as deception, trickster may be better; if healing
+    after near-death is central, death_and_transformation may be secondary.
+  suggested_aliases:
+  - hidden healing and triumphant return
+  - feigned defeat before return
+  - withdrawal and restorative return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigning-illness-or-death
+  motif_id: feigning_illness_or_death
+  label: Feigning illness or death
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning illness or death is a general deception strategy, close to existing
+    feigned-death trickster children.
+  cautions: The label is broad and context-poor; if it is merely a plot device without
+    liminal or trickster function, it may be too generic for pattern queries.
+  suggested_aliases:
+  - pretended illness or death
+  - false illness death ruse
+  - feigned sickness as deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feud-cycle-renewed-after-a-leader-s-death
+  motif_id: feud_cycle_renewed_after_a_leader_s_death
+  label: feud cycle renewed after a leader's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A leader's death renewing a feud belongs to warfare and vengeance cycles
+    rather than afterlife transformation.
+  cautions: If the passage centers on lament or succession, lament_and_mourning or
+    royal_legitimacy may be secondary; verify that feud renewal is a recurring narrative
+    function, not an episode summary.
+  suggested_aliases:
+  - vengeance cycle renewed after leader death
+  - leader death reopens feud
+  - death-triggered feud renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch contain 'death' but describe feigned death as deception;
+  avoid automatic mapping to resurrection, death_rebirth, or death_and_transformation.
+- A recurrent feigned-death deception cluster may eventually warrant a child under
+  trickster, but current existing trickster children already cover close variants.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review should confirm narrative function
+    from source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0064
+  input_sha256: 43617e43e98a5d5920abb64e3abd25b28d26d7d5691384034ae035e118fa4e7a
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0697
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divination-identifies-a-destined-marriage-partner
+  motif_id: divination_identifies_a_destined_marriage_partner
+  label: Divination identifies a destined marriage partner
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is divination revealing hidden future knowledge, here
+    applied to marriage destiny.
+  cautions: Could also relate to sacred_love or marriage-choice motifs if the passage
+    emphasizes courtship rather than divinatory method.
+  suggested_aliases:
+  - marriage_divination
+  - divination_of_future_spouse
+  - destined_spouse_revealed_by_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divorce-constrained-by-staged-repetition-and-intervening-marriage
+  motif_id: divorce_constrained_by_staged_repetition_and_intervening_marriage
+  label: Divorce constrained by staged repetition and intervening marriage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a specific legal rule or exegetical detail
+    rather than a clear symbolic motif.
+  cautions: May belong under sacred_law if framed as sacred legal order, but source
+    evidence is needed; avoid flattening culturally specific divorce law into a generic
+    motif.
+  suggested_aliases:
+  - divorce_law_with_intervening_marriage
+  - staged_divorce_constraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-animals-refuse-a-disguised-or-changed-person
+  motif_id: domestic_animals_refuse_a_disguised_or_changed_person
+  label: Domestic animals refuse a disguised or changed person
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal refusal functions as a recognition or identity-test signal exposing
+    disguise or transformation.
+  cautions: If the passage centers on bodily transformation itself, shapeshifter should
+    be a secondary or alternate mapping.
+  suggested_aliases:
+  - animals_recognize_disguised_person
+  - animal_refusal_reveals_changed_identity
+  - domestic_animals_as_identity_witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-arts-reveal-the-hidden-maiden
+  motif_id: domestic_arts_reveal_the_hidden_maiden
+  label: domestic arts reveal the hidden maiden
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden identity is disclosed through skill or performance, functioning
+    as an identity proof.
+  cautions: Could fit sacred_love or bride-choice material if the maiden’s revelation
+    serves courtship; preserve domestic-skill detail as evidence.
+  suggested_aliases:
+  - hidden_maiden_revealed_by_skill
+  - domestic_skill_as_identity_proof
+  - maiden_recognized_by_domestic_arts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-royal-child-as-catalyst-for-strife
+  motif_id: doomed_royal_child_as_catalyst_for_strife
+  label: doomed royal child as catalyst for strife
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal child marked by destiny and danger fits the threatened or fate-bearing
+    child complex.
+  cautions: If the emphasis is political conflict or succession rather than the child’s
+    marked destiny, royal_legitimacy or death_by_fate may be better.
+  suggested_aliases:
+  - doomed_royal_child
+  - fate_marked_royal_child
+  - royal_child_catalyst_for_strife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.duel-with-an-apparently-invulnerable-opponent
+  motif_id: duel_with_an_apparently_invulnerable_opponent
+  label: Duel with an apparently invulnerable opponent
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly matches the pattern of combat against an opponent
+    whose invulnerability must be overcome.
+  cautions: If no weakness or exception is revealed, sacred_combat may be the broader
+    placement rather than hidden-weakness logic.
+  suggested_aliases:
+  - apparently_invulnerable_opponent
+  - duel_against_invulnerable_enemy
+  - invulnerable_opponent_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.duty-to-country-outweighing-personal-affection
+  motif_id: duty_to_country_outweighing_personal_affection
+  label: duty to country outweighing personal affection
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames public obligation and social order as overriding private
+    attachment.
+  cautions: May instead be royal_legitimacy, sacred_combat, or sacrifice if tied to
+    kingship, war duty, or self-renunciation; source context needed.
+  suggested_aliases:
+  - public_duty_over_private_love
+  - social_obligation_over_affection
+  - loyalty_to_country_over_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eagle-keeper-neglects-family-subsistence-work
+  motif_id: eagle_keeper_neglects_family_subsistence_work
+  label: Eagle keeper neglects family subsistence work
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a culturally specific animal role with family neglect
+    and subsistence work, but its mythic function is unclear.
+  cautions: May be an over-specific episode detail; review Hopi source context carefully
+    before mapping to animal-helper, sacred exchange, taboo, or social-duty patterns.
+  suggested_aliases:
+  - animal_keeper_neglects_family_work
+  - eagle_keeping_over_subsistence_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.edible-house-as-lure-for-children
+  motif_id: edible_house_as_lure_for_children
+  label: Edible house as lure for children
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The edible house functions as a perilous lure drawing children into a
+    dangerous threshold space.
+  cautions: Could fit trickster or child-peril motifs if deception or household persecution
+    is central; no dedicated child-lure group exists.
+  suggested_aliases:
+  - edible_dwelling_lure
+  - candy_house_lure
+  - food_house_lures_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eggs-revealed-from-avian-transformed-wife
+  motif_id: eggs_revealed_from_avian_transformed_wife
+  label: Eggs revealed from avian-transformed wife
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif centers on a wife transformed into bird form, with eggs as
+    evidence or consequence of that transformation.
+  cautions: If the eggs function as cosmic origin, lineage, or birth motif, cosmic_origin
+    or miraculous_child may be secondary; preserve avian-wife specificity as evidence
+    detail.
+  suggested_aliases:
+  - avian_transformed_wife
+  - bird_wife_lays_eggs
+  - eggs_from_transformed_wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and may be episode-level labels;
+  placements should be treated as provisional.
+- Love/family bucket labels often map better by function to divination, recognition,
+  law, transformation, combat, or threshold-danger groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: JSON suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0697
+  input_sha256: ef65548ed325a64d99b14a3fa7090092fa1068f23b1ca019e820c1150a9892d5
+

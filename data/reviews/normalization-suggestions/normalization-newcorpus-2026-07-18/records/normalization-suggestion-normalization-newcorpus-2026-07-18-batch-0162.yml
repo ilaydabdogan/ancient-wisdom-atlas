@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0162
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.celestial-bodies-traveling-by-ship
+  motif_id: celestial_bodies_traveling_by_ship
+  label: Celestial bodies traveling by ship
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Solar or celestial travel by boat may encode sacred time or cosmic order,
+    but the label alone does not show a journey-quest function.
+  cautions: Could instead fit sacred_waters, cosmic_origin, sacred_fire/solar power,
+    or an Egyptian-specific solar barque motif; source context needed.
+  suggested_aliases:
+  - solar_barque
+  - celestial_ship
+  - sun_boat_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-goddess-traveling-with-horses
+  motif_id: celestial_goddess_traveling_with_horses
+  label: celestial goddess traveling with horses
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A celestial goddess traveling with horses may reflect daily or seasonal
+    celestial movement rather than a narrative quest.
+  cautions: Could be an over-specific iconographic detail, solar/lunar deity imagery,
+    divine_intervention, or sacred_treasures if horses function as divine vehicles.
+  suggested_aliases:
+  - celestial_chariot
+  - solar_or_lunar_goddess_journey
+  - divine_horse_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-guardians-repel-boundary-crossing-devils
+  motif_id: celestial_guardians_repel_boundary_crossing_devils
+  label: Celestial guardians repel boundary-crossing devils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on guardian beings defending a boundary against transgressive
+    crossing.
+  cautions: May also belong under divine_intervention or sacred_law if the passage
+    emphasizes divine protection, cosmic order, or apotropaic boundary rules.
+  suggested_aliases:
+  - celestial_boundary_guardians
+  - angelic_guardians_repel_devils
+  - guardians_of_heavenly_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-weapons-prepared-for-a-forest-journey
+  motif_id: celestial_weapons_prepared_for_a_forest_journey
+  label: celestial weapons prepared for a forest journey
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine or celestial weapons are power objects that equip a figure for
+    a charged journey or ordeal.
+  cautions: If the focus is combat rather than equipment, sacred_combat or divine_warrior
+    may be better; if the forest journey is primary, hero_journey may be secondary.
+  suggested_aliases:
+  - divine_weapons_for_journey
+  - celestial_weapons
+  - sacred_weapons_equipping_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-worship-with-divine-mediators
+  motif_id: celestial_worship_with_divine_mediators
+  label: Celestial worship with divine mediators
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Divine mediators may function as agents between human worship and celestial/divine
+    realms.
+  cautions: Potentially theologically sensitive and ambiguous; could be ritual practice,
+    angelology, intercession, polemic, or commentary rather than a motif.
+  suggested_aliases:
+  - divine_mediators_in_worship
+  - celestial_intercession
+  - mediated_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-reception-of-royal-arrivals
+  motif_id: ceremonial_reception_of_royal_arrivals
+  label: ceremonial reception of royal arrivals
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal reception of a ruler can enact recognition of status, hierarchy,
+    and legitimate rule.
+  cautions: May be a courtly scene detail rather than a sacred motif unless the ceremony
+    legitimizes kingship or social order.
+  suggested_aliases:
+  - royal_arrival_ceremony
+  - ceremonial_reception_of_ruler
+  - kingly_welcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-road-to-a-sacred-water-threshold
+  motif_id: ceremonial_road_to_a_sacred_water_threshold
+  label: Ceremonial road to a sacred water threshold
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label combines ritual movement with a water boundary or threshold,
+    fitting sacred water passage.
+  cautions: Could also fit axis_mundi or sacred_geography_pilgrimage if the road is
+    a cosmological route; handle culturally specific ritual geography carefully.
+  suggested_aliases:
+  - ritual_road_to_water
+  - sacred_water_threshold
+  - ceremonial_water_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonious-hospitality-for-a-royal-traveler
+  motif_id: ceremonious_hospitality_for_a_royal_traveler
+  label: ceremonious hospitality for a royal traveler
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The central action is formal hospitality toward a traveler, with royal
+    status adding hierarchy.
+  cautions: If no test, obligation, or sacred guest logic is present, this may be
+    an over-specific courtly episode; royal_legitimacy may be secondary.
+  suggested_aliases:
+  - hospitality_for_royal_traveler
+  - ceremonial_guest_reception
+  - royal_guest_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cessation-of-former-town-stone-placement-after-foreign-arrival
+  motif_id: cessation_of_former_town_stone_placement_after_foreign_arrival
+  label: Cessation of former town-stone placement after foreign arrival
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual or social-order change after foreign arrival,
+    but the motif function is unclear.
+  cautions: Could be a historical, calendrical, or archaeological commentary artifact
+    rather than a reusable motif; needs source evidence and cultural review.
+  suggested_aliases:
+  - ritual_stone_placement_ceases
+  - foreign_arrival_changes_town_rite
+  - cessation_of_foundation_stone_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-receives-night-wardship-of-threatened-hall
+  motif_id: champion_receives_night_wardship_of_threatened_hall
+  label: champion receives night wardship of threatened hall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion guarding a threatened hall at night sets up a heroic combat
+    or protective ordeal.
+  cautions: If the emphasis is guarding a boundary rather than combat, threshold_guardian
+    may be secondary; if merely an episode setup, preserve as evidence detail.
+  suggested_aliases:
+  - night_guardianship_of_threatened_hall
+  - champion_as_hall_ward
+  - hero_guards_hall_at_night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be episode-specific;
+  treat placements as provisional until passage evidence confirms recurring motif
+  function.
+- Celestial travel labels may reflect cosmological cycle or iconography rather than
+  journey/quest narrative structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0162; human review
+    recommended for culturally specific celestial, Islamic, Zuni, and Maya ritual
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0162
+  input_sha256: a936d70a495d6205c5577a149ef5b3d24e56862e0c4c193f128c32dd8bac8f2f
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0866
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rewarding-the-rescuer-with-the-defeated-enemy-s-horse
+  motif_id: rewarding_the_rescuer_with_the_defeated_enemy_s_horse
+  label: Rewarding the rescuer with the defeated enemy's horse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be a martial reward or transfer of war-spoil after
+    rescue, which may fit heroic combat contexts.
+  cautions: Single occurrence and horse-specific; may be an episode detail rather
+    than a reusable motif. Could also involve sacred_exchange, royal_legitimacy, or
+    heroic status depending on source evidence.
+  suggested_aliases:
+  - rescuer rewarded with enemy horse
+  - war-spoil reward for rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-bulls-fight-to-destructive-conclusion
+  motif_id: rival_bulls_fight_to_destructive_conclusion
+  label: rival bulls fight to destructive conclusion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A destructive animal duel can function as a symbolic or zoomorphic combat
+    pattern, especially in cattle-raid contexts already represented under sacred_combat.
+  cautions: Do not treat all animal fights as sacred combat; verify that the bull
+    conflict has mythic, royal, cosmic, or narrative-crisis significance rather than
+    being a literal animal episode.
+  suggested_aliases:
+  - destructive duel of rival bulls
+  - rival bull combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-animal-allegory-of-lioness-and-whelps
+  motif_id: royal_animal_allegory_of_lioness_and_whelps
+  label: Royal animal allegory of lioness and whelps
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates animal imagery used allegorically for royal lineage,
+    succession, or downfall, which may belong with sacred kingship.
+  cautions: Because it is explicitly an allegory, it may be a poetic or passage-specific
+    image rather than a narrative motif. If the focus is judgment on rulers, divine_judgment
+    may be better.
+  suggested_aliases:
+  - lioness and whelps royal allegory
+  - royal lineage as animal allegory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-disguise-as-decoy
+  motif_id: royal_disguise_as_decoy
+  label: royal disguise as decoy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise used as a decoy is a deception and boundary-crossing tactic,
+    fitting the trickster/deceptive stratagem complex.
+  cautions: If the decoy primarily concerns battlefield tactics, sacred_combat may
+    be a secondary placement; if it legitimizes rule, royal_legitimacy may also be
+    relevant.
+  suggested_aliases:
+  - disguised royal decoy
+  - decoy through royal disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-manifestation-through-animal-and-celestial-forms
+  motif_id: royal_manifestation_through_animal_and_celestial_forms
+  label: Royal manifestation through animal and celestial forms
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animal and celestial manifestations of royalty likely authorize or display
+    sacred kingship and royal cosmic identity.
+  cautions: Could also belong under shapeshifter if actual transformation is narrated,
+    or theophany if the manifestation is divine presence rather than royal symbolism.
+  suggested_aliases:
+  - royal manifestation in animal forms
+  - royal celestial manifestation
+  - king as animal and celestial form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-rebuke-for-neglected-horses
+  motif_id: royal_rebuke_for_neglected_horses
+  label: royal rebuke for neglected horses
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific royal admonition about horse care rather
+    than a broad mythic motif.
+  cautions: If the passage uses neglected horses to express failed kingship, military
+    disorder, or sacred animal obligation, it could be reviewed under royal_legitimacy,
+    sacred_law, or sacred_combat as evidence detail.
+  suggested_aliases:
+  - rebuke for neglected horses
+  - royal admonition over horse neglect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruined-places-repurposed-for-animals-or-nets
+  motif_id: ruined_places_repurposed_for_animals_or_nets
+  label: Ruined places repurposed for animals or nets
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Ruined human places occupied by animals can mark judgment, desolation,
+    or reversal of social order in biblical prophetic imagery.
+  cautions: May be a poetic image or oracle detail rather than a motif. Avoid mapping
+    solely from animals; confirm whether destruction is framed as divine judgment
+    or historical ruin.
+  suggested_aliases:
+  - ruined places become animal haunts
+  - desolated city occupied by animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scatter-and-recall-animal-herding
+  motif_id: scatter_and_recall_animal_herding
+  label: Scatter-and-recall animal herding
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: If the scattering and recall of animals is miraculous or ritually controlled,
+    it may fit supernatural guidance or animal-helper patterns.
+  cautions: Label alone may describe a practical herding action, spell, ordeal, or
+    folktale task. Source context is needed before indexing.
+  suggested_aliases:
+  - scattering and recalling herd animals
+  - magical recall of animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scent-avoidance-around-hunted-animal
+  motif_id: scent_avoidance_around_hunted_animal
+  label: Scent avoidance around hunted animal
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding scent around a hunted animal suggests hunting taboo or ritual
+    rule governing relations with animal spirits or prey.
+  cautions: Culturally specific hunting practice should be reviewed carefully. If
+    the focus is animal-soul respect or post-kill ritual rather than prohibition,
+    ancestor_rites or sacred_exchange may be relevant secondary comparisons.
+  suggested_aliases:
+  - hunting scent taboo
+  - avoidance of scent near prey
+  - ritual scent avoidance in hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seamless-restoration-of-divided-eggs-and-unborn-birds
+  motif_id: seamless_restoration_of_divided_eggs_and_unborn_birds
+  label: seamless restoration of divided eggs and unborn birds
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoring divided eggs and unborn birds centers on miraculous repair
+    and renewal of vulnerable life after division.
+  cautions: Could be a magical healing or craft episode rather than death-rebirth.
+    Do not map to cosmic_egg unless the egg is cosmological or creation-oriented.
+  suggested_aliases:
+  - restoration of divided eggs
+  - miraculous restoration of unborn birds
+  - repair of broken eggs and embryos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and animal-related only incidentally; source
+  evidence should determine whether animal imagery is symbolic, ritual, practical,
+  or merely poetic.
+- Avoid treating animal presence as sufficient for shapeshifter or trickster placement
+  unless transformation, deception, boundary crossing, or animal agency is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; high contextual dependence for royal allegory,
+    ruins, herding, and martial reward labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0866
+  input_sha256: 1d3f8f25e314ce76d93a0ab4e32844cdd29499ddef29c91966a17f94bd316c5e
+

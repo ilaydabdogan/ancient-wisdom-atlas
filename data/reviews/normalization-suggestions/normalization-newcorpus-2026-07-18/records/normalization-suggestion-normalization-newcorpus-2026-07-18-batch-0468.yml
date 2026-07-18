@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0468
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.worthy-ministry-rewarded-with-blessing-and-glory
+  motif_id: worthy_ministry_rewarded_with_blessing_and_glory
+  label: Worthy ministry rewarded with blessing and glory
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reward for worthy sacred service is a positive moral reckoning by divine
+    authority.
+  cautions: Could instead belong under covenant or sacred_exchange if the passage
+    emphasizes ministry as reciprocal service rather than judgment/reward.
+  suggested_aliases:
+  - righteous_service_rewarded
+  - sacred_ministry_rewarded
+  - divine_reward_for_worthy_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-god-healed-by-divine-medicine
+  motif_id: wounded_god_healed_by_divine_medicine
+  label: wounded god healed by divine medicine
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine medicine is a sacred substance whose healing power restores a
+    wounded divine body.
+  cautions: If the episode emphasizes divine wounding in combat, sacred_combat or
+    divine_warrior may be secondary; if deathlike restoration is central, death_and_transformation
+    may apply.
+  suggested_aliases:
+  - divine_medicine_heals_wounded_god
+  - healing_of_wounded_deity_by_divine_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-god-healed-by-heavenly-medicine
+  motif_id: wounded_god_healed_by_heavenly_medicine
+  label: Wounded god healed by heavenly medicine
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: alias
+  confidence: medium
+  rationale: This is a close wording variant of wounded_god_healed_by_divine_medicine
+    and centers on healing sacred medicine.
+  cautions: May duplicate the divine-medicine label; preserve heavenly/divine wording
+    only as evidence detail unless recurrence separates them.
+  suggested_aliases:
+  - wounded_god_healed_by_divine_medicine
+  - heavenly_medicine_heals_wounded_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongful-killing-followed-by-repentance-and-divine-forgiveness
+  motif_id: wrongful_killing_followed_by_repentance_and_divine_forgiveness
+  label: Wrongful killing followed by repentance and divine forgiveness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repentance and divine forgiveness repair a violated sacred-moral relationship
+    after wrongdoing.
+  cautions: Could also index under divine_judgment if punishment/reckoning is central,
+    or sacred_law if the focus is legal/moral instruction.
+  suggested_aliases:
+  - repentance_after_wrongful_killing
+  - divine_forgiveness_after_killing
+  - moral_bond_restored_by_repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-wilderness-provision
+  motif_id: miraculous_wilderness_provision
+  label: Miraculous wilderness provision
+  occurrences: 2
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculous provision in the wilderness is direct sacred aid sustaining
+    humans in crisis.
+  cautions: If the provision is specifically food or drink with ritual meaning, sacred_substance
+    or sacred_exchange may be secondary.
+  suggested_aliases:
+  - miraculous_provision
+  - wilderness_provision_by_divine_aid
+  - divine_provision_in_the_wilderness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-mythic-weapon
+  motif_id: named_mythic_weapon
+  label: named mythic weapon
+  occurrences: 2
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: high
+  rationale: A named mythic weapon is a power object that confers force, identity,
+    authority, or destiny on its bearer.
+  cautions: If the weapon's main function is combat outcome, sacred_combat or divine_warrior
+    may also be relevant; avoid treating a mere named object as sacred without passage
+    support.
+  suggested_aliases:
+  - named_sacred_weapon
+  - mythic_weapon_as_power_object
+  - heroic_named_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abrogating-revelation-replaces-an-earlier-verse
+  motif_id: abrogating_revelation_replaces_an_earlier_verse
+  label: Abrogating revelation replaces an earlier verse
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns revealed instruction and its replacement, but may
+    be a theological or textual doctrine rather than a narrative motif.
+  cautions: Likely depends on source evidence and Islamic legal-theological context;
+    if it describes textual history rather than motif action, consider _meta_textual
+    exclusion.
+  suggested_aliases:
+  - revelation_abrogates_previous_verse
+  - replacement_revelation
+  - abrogating_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-invocation-through-an-exclamation-name
+  motif_id: accidental_invocation_through_an_exclamation_name
+  label: Accidental invocation through an exclamation-name
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: An uttered name functioning as invocation fits performative sacred speech,
+    where words have binding or summoning force.
+  cautions: If the key event is arrival of a spirit or deity after the utterance,
+    divine_intervention may be secondary; source context needed to separate invocation
+    from ordinary exclamation.
+  suggested_aliases:
+  - accidental_name_invocation
+  - exclamation_as_invocation
+  - unintentional_invocation_by_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accusation-grounded-in-occult-knowledge-rather-than-evidence
+  motif_id: accusation_grounded_in_occult_knowledge_rather_than_evidence
+  label: accusation grounded in occult knowledge rather than evidence
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: The label implies hidden or occult knowledge used to make an accusation,
+    which may involve divinatory access to concealed truth.
+  cautions: Culturally sensitive and legally/socially contextual; may be accusation,
+    witchcraft discourse, divination, or a passage-specific plot detail rather than
+    a motif.
+  suggested_aliases:
+  - occult_knowledge_accusation
+  - accusation_by_hidden_knowledge
+  - divinatory_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aition-through-dedicated-object-and-place-name
+  motif_id: aition_through_dedicated_object_and_place_name
+  label: aition through dedicated object and place-name
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes etiological place-naming labels, and this
+    is an aition explaining a place through a dedicated object.
+  cautions: If the dedicated object is the main focus, sacred_treasures may be a secondary
+    mapping; if this is only antiquarian commentary, exclude as textual/contextual
+    artifact.
+  suggested_aliases:
+  - place_name_aition_through_dedicated_object
+  - dedicated_object_place_name_etiology
+  - aition_by_object_dedication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels have only one occurrence; preserve source-specific wording as aliases
+  or evidence notes rather than promoting to taxonomy families.
+- Two Greek wounded-god medicine labels appear to be near duplicates and should be
+  reviewed together.
+- Items involving abrogation, occult accusation, and aition may require source-context
+  review to distinguish motif evidence from theological, legal, antiquarian, or textual
+  commentary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0468
+  input_sha256: bf986120d0409bc6001530327c197721e0db14863d1a137fa5cab7f284ecd224
+

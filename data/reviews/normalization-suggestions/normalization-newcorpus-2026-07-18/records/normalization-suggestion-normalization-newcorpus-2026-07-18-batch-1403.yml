@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1403
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forest-materials-transformed-into-hermitage-dwelling
+  motif_id: forest_materials_transformed_into_hermitage_dwelling
+  label: Forest materials transformed into hermitage dwelling
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: Transformation of natural materials into a dwelling fits sacred or divinely
+    aided construction better than a general forest motif.
+  cautions: Single occurrence; if this is only a descriptive hermitage setting without
+    supernatural crafting, exclude or treat as contextual evidence.
+  suggested_aliases:
+  - transformed_forest_materials_dwelling
+  - supernatural_hermitage_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-mistress-unlocks-hidden-game-domain
+  motif_id: forest_mistress_unlocks_hidden_game_domain
+  label: Forest mistress unlocks hidden game-domain
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forest mistress opening a hidden animal or game domain suggests access
+    to an enchanted realm alongside ordinary nature.
+  cautions: Could instead be tutelary forest-spirit patronage for hunters; review
+    whether the key function is otherworld access, hunting abundance, or deity role.
+  suggested_aliases:
+  - hidden_game_domain
+  - forest_mistress_opens_game_realm
+  - forest_spirit_unlocks_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-path-modeled-on-saintly-predecessors
+  motif_id: forest_path_modeled_on_saintly_predecessors
+  label: Forest path modeled on saintly predecessors
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Following a forest path modeled on saintly exemplars can mark ascetic
+    or contemplative quest discipline.
+  cautions: May be a passage-specific ethical imitation note rather than a motif;
+    if the emphasis is pilgrimage geography, sacred_geography_pilgrimage under axis_mundi
+    may be relevant.
+  suggested_aliases:
+  - saintly_predecessor_path
+  - ascetic_forest_path
+  - following_saintly_exemplars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-patronage-and-guidance-for-hunters
+  motif_id: forest_patronage_and_guidance_for_hunters
+  label: forest patronage and guidance for hunters
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A forest patron guiding hunters is a tutelary or divine guidance function
+    already covered by divine_intervention.
+  cautions: If many hunting-spirit labels recur, a nature/animal patron subgroup may
+    be worth considering; avoid flattening local forest-spirit roles.
+  suggested_aliases:
+  - forest_patron_guides_hunters
+  - tutelary_forest_spirit_for_hunters
+  - hunting_patronage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-burden-fulfilled-in-old-age
+  motif_id: foretold_burden_fulfilled_in_old_age
+  label: foretold burden fulfilled in old age
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a foretelling whose burden is later fulfilled, fitting
+    prophecy and destined outcome.
+  cautions: Could map to death_by_fate if the burden is fatal or unavoidable doom;
+    source context is needed.
+  suggested_aliases:
+  - prophecy_fulfilled_in_old_age
+  - foretold_burden
+  - delayed_prophetic_fulfillment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-confrontation-between-rival-champions
+  motif_id: foretold_confrontation_between_rival_champions
+  label: Foretold confrontation between rival champions
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predicted clash between champions belongs primarily to heroic or sacred
+    combat with a prophetic framing.
+  cautions: Also relates to prophecy_divination; choose prophecy as primary only if
+    the foretelling matters more than the combat structure.
+  suggested_aliases:
+  - foretold_champion_duel
+  - predicted_rival_champions_confrontation
+  - prophetic_champion_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-defeat-of-an-adversary
+  motif_id: foretold_defeat_of_an_adversary
+  label: foretold defeat of an adversary
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes a predicted outcome, making it a prophecy or omen
+    of victory over an adversary.
+  cautions: If the passage focuses on battle resolution or divine punishment, sacred_combat
+    or divine_judgment may be better secondary groups.
+  suggested_aliases:
+  - prophecy_of_adversary_defeat
+  - foretold_enemy_defeat
+  - predicted_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-equipment-materializes
+  motif_id: foretold_equipment_materializes
+  label: foretold equipment materializes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernaturally appearing equipment functions as a power object or hero-arming
+    sign, with prophecy as a secondary feature.
+  cautions: If the equipment is merely ordinary gear predicted in advance, prophecy_divination
+    may be primary; preserve the materialization detail.
+  suggested_aliases:
+  - materializing_hero_equipment
+  - foretold_arms_appear
+  - prophetic_equipment_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-liberator-recognized-by-captives
+  motif_id: foretold_liberator_recognized_by_captives
+  label: Foretold liberator recognized by captives
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition of a promised liberator by captives centers on identity confirmation,
+    with prophecy supplying the expectation.
+  cautions: If no token or identity proof is involved, prophecy_divination or hero_journey
+    may be more appropriate; captives/liberator context may be episode-specific.
+  suggested_aliases:
+  - recognized_foretold_liberator
+  - captives_recognize_liberator
+  - prophetic_liberator_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-rescuers-arrive-for-an-afflicted-man
+  motif_id: foretold_rescuers_arrive_for_an_afflicted_man
+  label: foretold rescuers arrive for an afflicted man
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Arrival of foretold rescuers for an afflicted figure may function as
+    guided deliverance or providential intervention.
+  cautions: Could instead be prophecy_divination if the foretelling is central, or
+    a passage-specific rescue detail if no sacred agency is present.
+  suggested_aliases:
+  - foretold_rescuers
+  - prophesied_rescue_of_afflicted_man
+  - predicted_deliverers_arrive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine prophecy with another narrative function; suggested placements
+  choose the apparent primary function while noting prophecy_divination as a likely
+  secondary relation.
+- Forest-spirit and hunting labels may need future review if a recurring nature-spirit
+  patronage cluster emerges.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional mappings only; most items are single-occurrence and should be
+    checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1403
+  input_sha256: 21242833059d6d73180f35e50ae6b37c11ca6f3b182b6548457066123d2af193
+

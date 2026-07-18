@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l177-l189
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER IV / CHAPTER V / CHAPTER VI / CHAPTER VII; lines 177-189
+  start: '177'
+  end: '189'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents entry for Chapter VII lists topics concerning agriculture,
+    cultivated plants, forest preparation, women’s toil, tree-climbing, wood-craft,
+    tracking, hunting implements, hunting and fishing rights, and fishing methods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as Chapter VII.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter-topic list includes agriculture, plantations, preparation of ground
+    in the forest, agricultural instruments, diligence, women’s toil, and absence
+    of a special harvest-time.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Named cultivated or used plants include maize, manioc, peppers, tobacco, and
+    coca; sugar is mentioned as having no use.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The chapter-topic list includes tree-climbing methods, wood-craft, tracking,
+    locality and observation, blow-pipes, darts, traps, snares, javelins, hunting
+    and fishing rights, fish traps, spearing fish, and poisoning fish.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage is a contents-style list of topics rather than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Women
+  description: Mentioned in the topic phrase concerning women’s incessant toil.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Indians as termed in the passage
+  description: Mentioned in topic phrases concerning wood-craft, tracking, sense of
+    locality, accuracy of observation, and improvidence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: toiling workers
+  assigned_to:
+  - fig:1
+  basis: The topic list explicitly refers to women’s incessant toil.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: subjects associated with wood-craft, tracking, and observation
+  assigned_to:
+  - fig:2
+  basis: The topic list explicitly associates Indians with wood-craft, tracking, sense
+    of locality, and accuracy of observation.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: forest
+  literal_form: forest
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cultivated plants
+  literal_form: maize; manioc; peppers; tobacco; coca
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tree
+  literal_form: tree-climbing methods
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hunting and fishing implements
+  literal_form: blow-pipes; darts; traps; snares; javelins; fish traps
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agriculture and cultivation topics
+  summary: The contents entry lists agricultural work, forest ground preparation,
+    tools, labor, harvest timing, and cultivated plants.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Wood-craft, hunting, and fishing topics
+  summary: The contents entry lists tree-climbing, wood-craft, tracking, observation,
+    blow-pipes, darts, traps, javelins, hunting and fishing rights, and methods of
+    taking fish.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '177'
+  quote_or_summary: CHAPTER VII
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 178-182
+  quote_or_summary: The contents entry lists agriculture, plantations, forest ground
+    preparation, agricultural instruments, diligence, women’s toil, and lack of a
+    special harvest-time.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 182-185
+  quote_or_summary: The contents entry names maize, sugar, manioc, peppers, tobacco,
+    and coca in relation to cultivation or use.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 185-189
+  quote_or_summary: The contents entry lists tree-climbing, wood-craft, tracking,
+    observation, blow-pipes, darts, improvidence, migration of game, traps, snares,
+    javelins, hunting and fishing rights, fish traps, and spearing or poisoning fish.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is straightforward because the passage is a topic list. No mythic
+    motif candidates or comparison claims were generated from this contents-style
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage provides ethnographic chapter headings and does not present a narrative myth episode.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l177-l189
+  passage_sha256=6dccbbffb6af6198242b5bbe45fc22c03645c44599e7d3a2a175ae64977e1afb
+

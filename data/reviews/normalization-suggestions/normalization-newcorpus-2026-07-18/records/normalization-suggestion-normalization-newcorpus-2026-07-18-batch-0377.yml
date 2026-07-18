@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0377
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.obedience-to-an-old-sacred-or-superstitious-word
+  motif_id: obedience_to_an_old_sacred_or_superstitious_word
+  label: Obedience to an old sacred or superstitious word
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to binding sacred speech or taboo-like command, but
+    'superstitious word' is vague and possibly generated wording.
+  cautions: Single occurrence; culturally loaded wording needs source review before
+    mapping to sacred speech, sacred law, or textual artifact.
+  suggested_aliases:
+  - obedience_to_sacred_word
+  - binding_sacred_word
+  - taboo_word_obedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obedience-to-divine-command
+  motif_id: obedience_to_divine_command
+  label: obedience to divine command
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Obeying a divine command fits covenantal obligation and sacred order
+    when command-response is the central motif.
+  cautions: If the passage emphasizes the command as speech-act, divine_call, or moral
+    test, secondary mappings may be needed.
+  suggested_aliases:
+  - obedience_to_sacred_command
+  - divine_command_obedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obedience-to-divine-messenger-as-guidance
+  motif_id: obedience_to_divine_messenger_as_guidance
+  label: obedience to divine messenger as guidance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine messenger guiding human action belongs under direct sacred guidance
+    and intervention.
+  cautions: If the episode primarily establishes law or obedience to command, covenant
+    or sacred_law may be relevant secondary groups.
+  suggested_aliases:
+  - divine_messenger_guidance
+  - obedience_to_angelic_guidance
+  - messenger_as_divine_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obedience-to-sacred-hierarchy
+  motif_id: obedience_to_sacred_hierarchy
+  label: obedience to sacred hierarchy
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Obedience within a sacred hierarchy concerns divinely ordered social
+    or ritual authority.
+  cautions: Could instead support royal_legitimacy, covenant, or angelic order depending
+    on the passage; avoid overgeneralizing from abstract wording.
+  suggested_aliases:
+  - sacred_hierarchy_obedience
+  - obedience_to_divinely_ordered_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obedient-heaven-and-earth-responding-to-divine-speech
+  motif_id: obedient_heaven_and_earth_responding_to_divine_speech
+  label: Obedient heaven and earth responding to divine speech
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heaven and earth responding to divine speech fits creation or cosmic
+    ordering by sacred word.
+  cautions: If not a creation/cosmic-ordering scene, curse_blessing_speech or divine_intervention
+    may fit better; do not treat all divine speech as creation.
+  suggested_aliases:
+  - cosmos_obeys_divine_speech
+  - heaven_and_earth_respond_to_command
+  - creation_by_divine_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obscure-or-restricted-ritual-language
+  motif_id: obscure_or_restricted_ritual_language
+  label: Obscure or restricted ritual language
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restricted ritual language is specialized sacred knowledge guarded by
+    role, context, or initiation.
+  cautions: May be a linguistic or ethnographic note rather than a narrative motif;
+    review cultural specificity and whether secrecy or efficacy is explicit.
+  suggested_aliases:
+  - restricted_ritual_speech
+  - esoteric_ritual_language
+  - specialized_sacred_language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obsolescent-inherited-chant-knowledge
+  motif_id: obsolescent_inherited_chant_knowledge
+  label: obsolescent inherited chant knowledge
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Inherited chant knowledge fits transmission and preservation of specialized
+    sacred knowledge.
+  cautions: The 'obsolescent' aspect may be a documentation or transmission note;
+    exclude if it only describes modern loss of tradition rather than a motif in the
+    source.
+  suggested_aliases:
+  - inherited_chant_knowledge
+  - ritual_chant_transmission
+  - specialized_chant_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstructed-divine-childbirth-through-a-withheld-birth-helper
+  motif_id: obstructed_divine_childbirth_through_a_withheld_birth_helper
+  label: Obstructed divine childbirth through a withheld birth-helper
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: high
+  rationale: A divine childbirth delayed by withheld birth aid is a specific sacred-birth
+    complication.
+  cautions: If the emphasis is rivalry among goddesses or punishment of a helper,
+    sacred law or divine judgment may be secondary; preserve birth-helper detail as
+    evidence.
+  suggested_aliases:
+  - delayed_divine_birth
+  - obstructed_sacred_birth
+  - withheld_birth_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstructed-prayer-and-divine-vindication
+  motif_id: obstructed_prayer_and_divine_vindication
+  label: Obstructed prayer and divine vindication
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vindication after blocked prayer implies sacred judgment correcting opposition
+    or injustice.
+  cautions: Could also fit divine_intervention if the focus is answered prayer rather
+    than moral reckoning; single occurrence is episode-specific.
+  suggested_aliases:
+  - blocked_prayer_vindicated
+  - divine_vindication_after_obstructed_prayer
+  - opposed_supplication_vindicated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstructed-sacred-way
+  motif_id: obstructed_sacred_way
+  label: obstructed sacred way
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may describe an impeded pilgrimage, ritual path, divine mission,
+    or ethical path, but the narrative function is unclear.
+  cautions: Too terse and context-dependent; review whether this is journey ordeal,
+    sacred law, mystical path, or passage-specific wording.
+  suggested_aliases:
+  - blocked_sacred_path
+  - obstructed_pilgrimage_way
+  - impeded_divine_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are abstract obedience or ritual-language formulations with only
+  one occurrence; preserve source evidence and avoid promoting them as standalone
+  canonical motifs without recurrence.
+- For divine speech items, distinguish performative sacred speech from creation/cosmic
+  ordering and from covenantal command-response.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions only; culturally specific wording around 'superstitious'
+    and inherited ritual knowledge should be checked against source context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0377
+  input_sha256: 9c142bbd728c621ca8541604441c60af1c0a8ad7ab335e6cc76f7831a8a81d19
+

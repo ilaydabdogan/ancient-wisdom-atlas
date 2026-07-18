@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0141
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.thunder-spirits
+  motif_id: thunder_spirits
+  label: thunder spirits
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names spirit beings but gives no narrative function; it could
+    involve weather agency, death, danger, or tutelary intervention.
+  cautions: Do not map to death/descent from bucket alone. Inuit cultural context
+    and passage evidence are needed.
+  suggested_aliases:
+  - thunder spirits
+  - weather spirits
+  - storm spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_fire
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.timed-mourning-restrictions-after-death
+  motif_id: timed_mourning_restrictions_after_death
+  label: timed mourning restrictions after death
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mourning restrictions are ritual prohibitions governing behavior after
+    death, fitting sacred law and purity/social order.
+  cautions: If the passage emphasizes caring for or dismissing the dead, ancestor_rites
+    may be a secondary fit; if it emphasizes grief expression, lament_and_mourning
+    may be relevant.
+  suggested_aliases:
+  - mourning restrictions
+  - postmortem mourning taboo
+  - timed death mourning rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tomb-autobiography-as-historical-witness
+  motif_id: tomb_autobiography_as_historical_witness
+  label: Tomb autobiography as historical witness
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a tomb text's historiographical function rather than
+    a narrative or symbolic motif.
+  cautions: Preserve as provenance or genre evidence if useful; do not use as a comparative
+    death/afterlife motif unless the inscription content supplies one.
+  suggested_aliases:
+  - tomb autobiography
+  - funerary inscription as historical witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tomb-built-by-grieving-lover-for-dead-beloved
+  motif_id: tomb_built_by_grieving_lover_for_dead_beloved
+  label: Tomb built by grieving lover for dead beloved
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The act centers on love persisting through death and memorial care for
+    a beloved.
+  cautions: If the passage emphasizes funerary honor rather than love, heroic_funeral_rites
+    or lament_and_mourning may be better secondary placements.
+  suggested_aliases:
+  - lover builds tomb for beloved
+  - memorial tomb for dead beloved
+  - love beyond death memorial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tomb-or-monument-marked-by-a-tree-near-the-sea
+  motif_id: tomb_or_monument_marked_by_a_tree_near_the_sea
+  label: tomb or monument marked by a tree near the sea
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines tomb, monument, tree, and seashore location without
+    a clear recurring function.
+  cautions: Could be a burial memorial, sacred tree marker, place-name/landscape detail,
+    or passage-specific geography. Avoid mapping to axis_mundi unless the tree has
+    cosmic or sacred-center function.
+  suggested_aliases:
+  - tree-marked tomb
+  - tomb marked by tree
+  - seaside grave monument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - axis_mundi
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.too-late-wish-to-return-and-become-righteous
+  motif_id: too_late_wish_to_return_and_become_righteous
+  label: Too-late wish to return and become righteous
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A postmortem or final reckoning regret centers on moral accounting and
+    the impossibility of returning to repair deeds.
+  cautions: If the passage maps stages after death, afterlife_passage may be a secondary
+    placement; keep theological specificity in evidence notes.
+  suggested_aliases:
+  - postmortem regret
+  - too-late repentance
+  - wish to return after judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.toponym-from-death-at-battle-site
+  motif_id: toponym_from_death_at_battle_site
+  label: toponym from death at battle site
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing cosmic_origin group already includes etiological place-naming
+    from violent death and heroic events.
+  cautions: This is a landscape/toponym etiology, not necessarily a death-and-rebirth
+    motif. If only an editorial place note, consider exclusion.
+  suggested_aliases:
+  - battle-site death place-name etiology
+  - toponymic naming from battle death
+  - place-name from violent death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.torture-and-shameful-death-of-the-righteous
+  motif_id: torture_and_shameful_death_of_the_righteous
+  label: Torture and shameful death of the righteous
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: The righteous figure's suffering and death can function as surrendered
+    life or martyr-like sacrifice.
+  cautions: If the passage emphasizes vindication or punishment of persecutors, divine_judgment
+    may be equally important; if only a narrative event, avoid overgeneralizing.
+  suggested_aliases:
+  - righteous sufferer killed shamefully
+  - martyr-like death of the righteous
+  - tortured righteous victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracking-a-revenant-to-the-grave-with-salt
+  motif_id: tracking_a_revenant_to_the_grave_with_salt
+  label: tracking a revenant to the grave with salt
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: ritual_variant
+  confidence: high
+  rationale: A revenant traced back to its grave belongs to active/restless dead and
+    the management of haunting.
+  cautions: Salt may also be apotropaic ritual detail under sacred_law; preserve it
+    as evidence detail rather than a separate canonical motif unless it recurs.
+  suggested_aliases:
+  - revenant tracked to grave
+  - tracking the restless dead
+  - salt trail to revenant grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tragic-deed-followed-by-grave-and-renown
+  motif_id: tragic_deed_followed_by_grave_and_renown
+  label: Tragic deed followed by grave and renown
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence links death, grave memorialization, and lasting fame, fitting
+    heroic memorialization.
+  cautions: If renown through story is the focus, storytelling_as_power may be secondary;
+    if the deed is battle-centered, sacred_combat may also apply.
+  suggested_aliases:
+  - grave and renown after tragic deed
+  - heroic grave and fame
+  - tragic death memorialized by fame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should preserve local evidence detail rather
+  than become new canonical motifs.
+- Do not infer death/descent placement from the audit bucket alone; several labels
+  are ritual law, memorial, toponymic, or meta-textual artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Inuit and Slavic ritual/spirit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0141
+  input_sha256: 7a1079d140dd2d906596fb5fe5ce7a4545518a8464ddee6d0f5c9706c2898f7f
+

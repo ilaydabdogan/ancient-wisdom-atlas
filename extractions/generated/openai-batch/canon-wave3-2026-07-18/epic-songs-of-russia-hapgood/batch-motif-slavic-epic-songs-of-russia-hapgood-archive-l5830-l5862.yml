@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l5830-l5862
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: EPIC  SONGS   OF  RUSSIA.  141 / EPIC  SONGS   OF  RUSSIA.  145 / EPIC  SONGS   OF  RUSSIA.  147
+    / ILYA  AND  THE  BOON  COMPANIONS.; lines 5830-5862
+  start: '5830'
+  end: '5862'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An aged pilgrim of extraordinary size travels the road from Galich to Kiev,
+    enters a royal pot-house with prayer and prescribed gestures, asks the vintners
+    for a large measure of green wine to refresh him, and is refused because he has
+    not offered money. The supplied passage ends in mid-sentence as the pilgrim begins
+    to take something ancient from his neck.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A broad road of forty fathoms runs from Galich to Kiev, and it bends under
+    the pilgrim's weight as he travels along it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The traveler is described as a pilgrim with a tattered smock, rag girdle,
+    bast footwear, a cap weighing forty poods, a nine-fathom crutch, and a hooked
+    staff.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The pilgrim is aged, with a beard sprinkled with gray and a white head.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The pilgrim enters Kiev and seeks refreshment after a long journey in the
+    royal pot-house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On entering, the pilgrim moves softly and lightly, says a prayer, crosses
+    himself, and bows on all sides.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The pilgrim asks the vintner's men for a pail and a half of green wine.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The vintners insult the pilgrim and refuse to give him wine without money.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage breaks off after saying that the pilgrim took from his neck an
+    ancient item.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: aged pilgrim
+  description: A wandering pilgrim traveling from Galich to Kiev, aged and gray-white,
+    with extraordinary weight and oversized gear.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: vintner's men
+  description: Men in the royal pot-house who answer the pilgrim's request for wine
+    and refuse to trust him without money.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: wandering pilgrim
+  assigned_to:
+  - fig:1
+  basis: The figure is called a pilgrim and asks to be refreshed as a wandering pilgrim.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: extraordinary heavy traveler
+  assigned_to:
+  - fig:1
+  basis: The road bends beneath his weight, and his cap and crutch are described with
+    very large measurements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: supplicant for drink
+  assigned_to:
+  - fig:1
+  basis: He asks the vintner's men to pour him a pail and a half of wine.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: refusing vintners
+  assigned_to:
+  - fig:2
+  basis: They refuse to give the pilgrim wine without money.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: broad road to Kiev
+  literal_form: Road of forty fathoms from Galich to Kiev, bending beneath the pilgrim's
+    weight.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: oversized pilgrim gear
+  literal_form: Forty-pood cap, nine-fathom crutch, hooked staff, bast footwear, tattered
+    smock, and rag girdle.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: green wine
+  literal_form: A pail and a half of green wine requested for refreshment.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: prayer and crossing gesture
+  literal_form: The pilgrim says a prayer, crosses himself, and bows on all sides.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Pilgrim travels the road to Kiev
+  summary: A massive aged pilgrim travels from Galich toward Kiev on a broad road
+    that bends beneath his weight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Pilgrim enters the royal pot-house
+  summary: The pilgrim enters Kiev and the royal pot-house, moving softly and performing
+    prayer, crossing, and bows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Request and refusal of wine
+  summary: The pilgrim requests a large measure of green wine from the vintner's men,
+    who refuse to provide it without money.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: extraordinary pilgrim on the road
+  taxonomy_refs: []
+  basis: The passage presents an aged pilgrim whose weight bends the road and whose
+    equipment is described with unusually large measurements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied excerpt does not yet reveal the pilgrim's identity or purpose.
+- id: motif:2
+  label: wandering pilgrim asks for refreshment and is refused
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The pilgrim asks for wine to refresh him after a long journey, but the vintners
+    refuse to give it without money.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The exchange is not completed in the supplied passage; the link to sacred
+    exchange is limited to the request, refusal, and demand for payment.
+- id: motif:3
+  label: pious ritual entry before petition
+  taxonomy_refs: []
+  basis: Before making his request, the pilgrim prays, crosses himself, and bows as
+    prescribed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not state whether these gestures have consequences beyond
+    marking proper conduct.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5830-5834
+  quote_or_summary: '"From the city of Galich to Kief town ran a broad road of forty
+    fathoms"; a pilgrim travels it and "the road bent beneath his weight."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 5834-5839
+  quote_or_summary: The pilgrim has a tattered smock, rag girdle, forty-pood cap,
+    bast footwear, nine-fathom crutch, and hooked staff.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5841-5842
+  quote_or_summary: '"The old man''s beard was sprinkled with gray, his head was all
+    white."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 5842-5846
+  quote_or_summary: The aged pilgrim enters Kiev and seeks refreshment after his long
+    journey, desiring green wine in the royal pot-house.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5848-5851
+  quote_or_summary: He enters softly and lightly, says a prayer, crosses himself as
+    enjoined, and bows on all sides as prescribed.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 5853-5856
+  quote_or_summary: '"Pour mi a pail and a half of wine, to refresh me, a wandering
+    pilgrim."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt quoted; spelling follows supplied
+    text.
+- id: ev:7
+  type: summary
+  locator: lines 5858-5861
+  quote_or_summary: The vintners call him an old dog and gray hound, say they will
+    not trust him, and refuse to give green wine without money.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 5862
+  quote_or_summary: '"But the pilgrim took from his neck an ancient"; the supplied
+    passage ends before the object is named.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidates only because the excerpt ends mid-sentence and does not disclose
+    later consequences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l5830-l5862
+  passage_sha256=18edf148f01cb5869de5b1c0b436cc217cc54b02df355038f78c1f94b63bf7cf
+

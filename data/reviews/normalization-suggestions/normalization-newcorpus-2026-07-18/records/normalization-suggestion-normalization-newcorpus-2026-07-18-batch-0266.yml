@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0266
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.consecration-by-sacred-hammer-sign
+  motif_id: consecration_by_sacred_hammer_sign
+  label: Consecration by sacred hammer sign
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred hammer sign functions as a consecrating power object or ritual
+    sign conferring sacred status.
+  cautions: Single Norse-specific instance; if the emphasis is ritual dedication rather
+    than the hammer as object, sacred_law or sacrifice may be secondary.
+  suggested_aliases:
+  - sacred_hammer_consecration
+  - ritual_consecration_by_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecration-of-sacred-space-and-ritual-objects
+  motif_id: consecration_of_sacred_space_and_ritual_objects
+  label: Consecration of sacred space and ritual objects
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Consecrating space and ritual objects is a purity/legal-ritual ordering
+    practice within sacred regulation.
+  cautions: May also touch world_center, portable_sanctuary, or sacred_treasures if
+    the passage focuses on sanctuary cosmology or objects rather than consecration
+    procedure.
+  suggested_aliases:
+  - ritual_consecration
+  - dedication_of_sacred_space
+  - dedication_of_ritual_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecration-of-sick-person-as-dog-to-sedna
+  motif_id: consecration_of_sick_person_as_dog_to_sedna
+  label: Consecration of sick person as dog to Sedna
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines healing, dedication to a named deity, animal role
+    identification, and illness ritual in a culturally specific way.
+  cautions: Needs source review and cultural sensitivity; avoid flattening Sedna-specific
+    ritual logic into generic sacrifice, shapeshifting, or sacred law without evidence.
+  suggested_aliases:
+  - sick_person_dedicated_to_sedna
+  - healing_consecration_as_dog
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecration-through-gathered-sacred-waters
+  motif_id: consecration_through_gathered_sacred_waters
+  label: Consecration through gathered sacred waters
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on sacred waters used as a consecrating ritual medium.
+  cautions: Do not map to flood_and_renewal unless destructive catastrophe and renewal
+    are present; may secondarily involve royal_legitimacy if an enthronement rite.
+  suggested_aliases:
+  - water_consecration
+  - ritual_consecration_by_sacred_waters
+  - gathered_sacred_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.construction-of-sacred-dwelling-and-ritual-furnishings
+  motif_id: construction_of_sacred_dwelling_and_ritual_furnishings
+  label: Construction of sacred dwelling and ritual furnishings
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label concerns making a sacred dwelling and furnishings, fitting
+    sacred construction and ritual craft.
+  cautions: If the dwelling functions as a portable cosmic center, add secondary relation
+    to world_center or portable_sanctuary.
+  suggested_aliases:
+  - sacred_dwelling_construction
+  - ritual_furnishings_construction
+  - sanctuary_craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contact-transmitted-impurity
+  motif_id: contact_transmitted_impurity
+  label: Contact-transmitted impurity
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Contact-based impurity is a ritual purity and prohibition pattern already
+    covered by sacred_law's spirit-contagion and purity-law children.
+  cautions: If a specific rite removes the impurity, sacrifice or sacred_exchange
+    may be secondary; preserve contact mechanism as evidence detail.
+  suggested_aliases:
+  - contact_impurity
+  - ritual_contagion
+  - impurity_by_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-between-divine-sign-and-court-magicians
+  motif_id: contest_between_divine_sign_and_court_magicians
+  label: Contest between divine sign and court magicians
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine sign overcoming court magicians is a direct sacred intervention
+    validating divine agency against rival powers.
+  cautions: Could also involve prophecy_divination, sacred_combat, or divine_judgment
+    depending on whether the passage emphasizes prophetic proof, contest, or punishment.
+  suggested_aliases:
+  - divine_sign_contest
+  - prophetic_sign_against_magicians
+  - miracle_contest_with_magicians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-loss-followed-by-ritual-whipping
+  motif_id: contest_loss_followed_by_ritual_whipping
+  label: contest loss followed by ritual whipping
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a culturally specific ceremonial penalty, ordeal,
+    purification, or game outcome, but function is unclear.
+  cautions: Needs source context and culturally sensitive review; avoid assuming sacrifice,
+    punishment, or initiation from the wording alone.
+  suggested_aliases:
+  - ritual_whipping_after_contest_loss
+  - ceremonial_penalty_after_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-false-praise-of-goddesses-corrected-by-angelic-revelation
+  motif_id: contested_false_praise_of_goddesses_corrected_by_angelic_revelation
+  label: Contested false praise of goddesses corrected by angelic revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears tied to a contested revelatory episode and correction
+    by angelic authority, requiring source-sensitive handling.
+  cautions: May be theological or reception-history commentary rather than a reusable
+    motif; if retained, sacred_knowledge or divine_intervention may be relevant, but
+    review is required.
+  suggested_aliases:
+  - angelic_correction_of_false_praise
+  - contested_revelation_corrected_by_angel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-sacred-narrative-with-continuing-authority
+  motif_id: contested_sacred_narrative_with_continuing_authority
+  label: Contested sacred narrative with continuing authority
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a text's contested status and authority rather than
+    a narrative or symbolic motif within the story.
+  cautions: Preserve for provenance or reception history, but exclude from motif pattern
+    queries unless a passage-level sacred-story power motif is identified.
+  suggested_aliases:
+  - contested_textual_authority
+  - contested_sacred_narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are ritual-procedure descriptions with single occurrences;
+  final placement should check whether the passage emphasizes consecration, sacred
+  object, purity law, sanctuary cosmology, or divine intervention.
+- Culturally specific healing or ceremonial labels, especially Sedna and Navajo ritual
+  whipping items, should remain in human review until source evidence clarifies function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0266
+  input_sha256: 88baf48e6c9d4f84caab66a316d3cb62ebd7b9b797a686dce94ded6fca14bed8
+

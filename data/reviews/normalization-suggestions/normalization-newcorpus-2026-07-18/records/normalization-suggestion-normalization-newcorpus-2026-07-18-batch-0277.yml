@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0277
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.delay-or-absence-before-public-royal-rite
+  motif_id: delay_or_absence_before_public_royal_rite
+  label: Delay or absence before public royal rite
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a royal ritual sequence, succession problem, or
+    passage-specific delay rather than a stable motif.
+  cautions: Single occurrence; source context needed before mapping to royal_legitimacy,
+    sacred_time, sacrifice, or excluding as plot detail.
+  suggested_aliases:
+  - royal_rite_delay
+  - absence_before_royal_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-divine-meeting-before-heroic-task
+  motif_id: delayed_divine_meeting_before_heroic_task
+  label: Delayed divine meeting before heroic task
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine encounter delayed before a task functions as a call, ordeal
+    preparation, or staged heroic quest episode.
+  cautions: If the divine meeting itself is the focus, theophany or divine_intervention
+    may be better; if delay is merely narrative pacing, exclude as detail.
+  suggested_aliases:
+  - delayed_divine_encounter_before_task
+  - divine_meeting_before_heroic_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delegated-divine-presence-in-the-place-of-ra
+  motif_id: delegated_divine_presence_in_the_place_of_ra
+  label: Delegated divine presence in the place of Ra
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine figure acting as or bearing the presence of a greater deity
+    fits delegated sacred agency in human or cosmic affairs.
+  cautions: Specific reference to Ra may be source-contextual; if the scene emphasizes
+    kingship or cult statue presence, royal_legitimacy or theophany may be secondary.
+  suggested_aliases:
+  - delegated_divine_presence
+  - divine_proxy_for_ra
+  - substitute_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demand-for-divine-signs
+  motif_id: demand_for_divine_signs
+  label: demand for divine signs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A request or demand for signs concerns verification of divine manifestation,
+    revelation, or sacred authority.
+  cautions: May be polemical unbelief, prophetic challenge, or miracle demand; consider
+    prophecy_divination or divine_judgment if signs function as warning or punishment.
+  suggested_aliases:
+  - request_for_divine_signs
+  - demand_for_miraculous_sign
+  - sign_demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demi-god-hero-among-fairies-in-a-human-interest-romance
+  motif_id: demi_god_hero_among_fairies_in_a_human_interest_romance
+  label: demi-god hero among fairies in a human-interest romance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A demigod hero among fairies points to an enchanted otherworld setting
+    and interaction with nonhuman beings.
+  cautions: The phrase 'human-interest romance' sounds like literary classification;
+    preserve only the otherworld/romance evidence and avoid treating the full label
+    as canonical.
+  suggested_aliases:
+  - demigod_hero_among_fairies
+  - hero_among_fairies
+  - fairy_otherworld_romance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demigod-escape-from-olopana
+  motif_id: demigod_escape_from_olopana
+  label: Demigod escape from Olopana
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label names a specific character/status and escape from a named figure
+    rather than a general motif.
+  cautions: If passage evidence shows a recurring escape ordeal, map to hero_journey
+    or trickster; avoid indexing the named episode as a broad pattern.
+  suggested_aliases:
+  - demigod_escape
+  - escape_from_olopana
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-s-cosmic-dominion-curtailed-by-divine-dwarf-incarnation
+  motif_id: demon_s_cosmic_dominion_curtailed_by_divine_dwarf_incarnation
+  label: demon's cosmic dominion curtailed by divine dwarf incarnation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on cosmic dominion being measured, limited, or reclaimed
+    by a divine ruler incarnation.
+  cautions: Also relates to divine_warrior or divine_judgment if the emphasis is combat
+    or punishment; preserve dwarf-incarnation specificity as evidence detail.
+  suggested_aliases:
+  - cosmic_dominion_curtailed_by_divine_incarnation
+  - divine_dwarf_limits_demon_rule
+  - cosmic_measurement_by_divine_dwarf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-suggestions-resisted-by-refuge-in-god
+  motif_id: demonic_suggestions_resisted_by_refuge_in_god
+  label: Demonic suggestions resisted by refuge in God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Resisting demonic prompting through refuge in God fits protective religious
+    discipline and apotropaic practice under sacred law.
+  cautions: Could also belong to ethics/inner life if framed psychologically, or divine_intervention
+    if God actively protects; review source wording.
+  suggested_aliases:
+  - refuge_in_god_against_demonic_suggestions
+  - resisting_demonic_prompting
+  - divine_refuge_against_demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-violation-of-ascetic-ritual-space
+  motif_id: demonic_violation_of_ascetic_ritual_space
+  label: Demonic violation of ascetic ritual space
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns the breach and protection of ritual purity or sacred
+    space against demonic intrusion.
+  cautions: If the narrative focuses on ascetic ordeal, initiation or mystical_quest
+    may be better; if a demon attacks, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - demonic_intrusion_into_ritual_space
+  - violation_of_ascetic_space
+  - ritual_space_defiled_by_demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deputy-god-authorized-to-act-for-a-greater-god
+  motif_id: deputy_god_authorized_to_act_for_a_greater_god
+  label: Deputy god authorized to act for a greater god
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: A lesser or deputy deity authorized by a greater god is a clear form
+    of delegated divine agency.
+  cautions: If authorization legitimizes kingship or succession, royal_legitimacy
+    may be an additional mapping; avoid creating hierarchy claims beyond the passage.
+  suggested_aliases:
+  - deputy_god
+  - authorized_divine_proxy
+  - god_acts_for_greater_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific, or contain
+  named figures; suggested placements should be checked against passage evidence before
+  adding aliases.
+- Do not infer transmission or equivalence from shared placement under broad groups
+  such as divine_intervention, theophany, or hero_journey.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    single-occurrence and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0277
+  input_sha256: 13270aef677b9a4790c73909e095a98176740289568121017e9bcc8008c521d2
+

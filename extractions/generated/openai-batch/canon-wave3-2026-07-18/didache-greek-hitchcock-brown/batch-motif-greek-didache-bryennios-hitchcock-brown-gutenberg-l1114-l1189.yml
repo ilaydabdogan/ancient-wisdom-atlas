@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.greek-didache-bryennios-hitchcock-brown-gutenberg-l1114-l1189
+source_text_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+passage_locator:
+  label: Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles / NOTES / THE
+    TITLE; lines 1114-1189
+  start: '1114'
+  end: '1189'
+  translation: Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“The document concludes with a vision of the Lord coming upon the clouds
+    of heaven, and all the saints with him.”"
+  summary: Editorial notes discuss the meaning of χειροτονέω as “appoint” versus later
+    “ordain,” the appointment of bishops or elders and deacons, an eschatological
+    conclusion involving the Lord, clouds, saints, and resurrection of the dead, and
+    a table of codex errors corrected by Bryennios.
+  language: English with Ancient Greek terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note states that χειροτονέω in the New Testament, Josephus, and Ignatius
+    has the sense “appoint.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note contrasts that earlier usage with later Apostolic Canons and Apostolic
+    Constitutions usage, where χειροτονέω means “ordain.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says that, in the passage under discussion, only bishops and deacons
+    are mentioned as officers to be appointed, with bishops understood as presbyters
+    or elders.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note describes the document’s conclusion as a vision of the Lord coming
+    on the clouds of heaven with all the saints.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note states that the resurrection is of the dead, but not of all the dead,
+    and that no explicit second resurrection or interval is stated.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The final section lists codex readings and Bryennios’s corrections in tabular
+    form.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Lord
+  description: The Lord is described as coming upon the clouds of heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: all the saints
+  description: The saints are described as being with the Lord in the concluding vision.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: the dead
+  description: The dead are named as the subject of resurrection, though the note
+    specifies not all the dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: bishops / presbyters / elders
+  description: Bishops are identified with presbyters or elders and are among the
+    officers to be appointed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: deacons
+  description: Deacons are among the officers to be appointed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: coming Lord
+  assigned_to:
+  - fig:1
+  basis: The passage describes a vision of the Lord coming upon the clouds of heaven.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: accompanying saints
+  assigned_to:
+  - fig:2
+  basis: The saints are described as being with the Lord in the vision.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dead who are resurrected
+  assigned_to:
+  - fig:3
+  basis: The passage states that the resurrection is of the dead, though not all the
+    dead.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: appointed congregational officers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says that bishops and deacons are the officers to be appointed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: clouds of heaven
+  literal_form: clouds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lexical and institutional note on appointment
+  summary: The note discusses the meaning of χειροτονέω and explains that the officers
+    to be appointed are bishops or elders and deacons.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Concluding eschatological vision
+  summary: The document is summarized as concluding with the Lord coming on heavenly
+    clouds with the saints and with a resurrection of the dead, though not of all
+    the dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Bryennios correction table
+  summary: A table presents codex readings and corrections made by Bryennios.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: resurrection of the dead
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly states that the resurrection is of the dead, while
+    also noting that it is not of all the dead.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is an editorial summary of the chapter rather than the full
+    narrative text; it also stresses limits, including no explicit second resurrection
+    or interval.
+- id: motif:2
+  label: Lord coming upon heavenly clouds with saints
+  taxonomy_refs: []
+  basis: The passage describes a vision in which the Lord comes upon the clouds of
+    heaven with all the saints.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy reference directly matches a cloud-borne divine
+    advent; the passage does not elaborate the scene beyond the summary.
+comparison_claims:
+- id: claim:1
+  claim: The note says the document follows the lead of New Testament eschatological
+    passages and may emphasize the resurrection of the righteous.
+  claim_level: same_function
+  target: Matthew xxiv.31 and 1 Thessalonians iv.13-18
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is presented tentatively in the passage, and the cited New
+    Testament texts are not quoted here.
+- id: claim:2
+  claim: The note compares the Didache’s use of χειροτονέω with New Testament, Josephus,
+    and Ignatius usage as “appoint,” while distinguishing it from later “ordain” usage.
+  claim_level: linguistic_similarity
+  target: New Testament, Josephus, Ignatius, Apostolic Canons, and Apostolic Constitutions
+    usage of χειροτονέω
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical comparison rather than a mythological motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1114-1127
+  quote_or_summary: The note says χειροτονέω occurs in the New Testament with the
+    meaning “appoint,” and that Josephus and Ignatius use it in the same prevailing
+    sense.
+  source_text_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1129-1138
+  quote_or_summary: The note says later Apostolic Canons and Apostolic Constitutions
+    use χειροτονέω to mean “ordain,” while the Teaching uses the word in its original
+    sense of “appoint,” indicating antiquity.
+  source_text_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1140-1147
+  quote_or_summary: Only bishops and deacons are mentioned as officers to be appointed;
+    bishops are said to mean presbyters or elders, with a plurality of bishops or
+    elders and deacons in each congregation.
+  source_text_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1151-1160
+  quote_or_summary: The document is described as concluding with a vision of the Lord
+    coming upon the clouds of heaven with all the saints; the resurrection is of the
+    dead, but not all the dead, and no second resurrection or interval is explicitly
+    indicated.
+  source_text_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1164-1189
+  quote_or_summary: The section headed “Errors In The Codex Corrected By Bryennios”
+    lists line numbers with codex readings and Bryennios’s corrections.
+  source_text_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on a clear editorial passage. Motif candidates are limited
+    because the passage is mostly philological and ecclesiastical commentary, with
+    only a brief summary of the eschatological conclusion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is an editorial notes section rather than a continuous primary narrative; motif evidence derives mainly from the note’s summary of Didache Chapter XVI.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:greek-didache-bryennios-hitchcock-brown-gutenberg__l1114-l1189
+  passage_sha256=e83460dcfc37825a2e01c2bdae31ccd41fb5ae119e52d715f3cd7d3e84143456
+

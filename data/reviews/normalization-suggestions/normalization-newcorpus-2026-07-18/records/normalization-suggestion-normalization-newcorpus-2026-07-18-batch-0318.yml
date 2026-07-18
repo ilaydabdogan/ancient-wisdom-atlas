@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0318
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-war-ruler-title
+  motif_id: divine_war_ruler_title
+  label: divine war-ruler title
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: The label may denote a divine warrior or sacred kingship title, but it
+    reads like a title rather than an event motif.
+  cautions: Single occurrence; could be a person/title indexing artifact or belong
+    under royal_legitimacy depending on context.
+  suggested_aliases:
+  - war-ruler title
+  - divine warrior title
+  - sacred war ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warning-against-fatal-single-combat
+  motif_id: divine_warning_against_fatal_single_combat
+  label: Divine warning against fatal single combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A god or sacred power intervenes by warning a human against a dangerous
+    combat action.
+  cautions: If the passage emphasizes the duel itself, sacred_combat may be a secondary
+    placement; if it is a prophecy of doom, prophecy_divination may also apply.
+  suggested_aliases:
+  - divine warning before combat
+  - warning against fatal duel
+  - divine counsel before single combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warning-ends-the-slaughter
+  motif_id: divine_warning_ends_the_slaughter
+  label: divine warning ends the slaughter
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The divine warning directly redirects human violence and halts slaughter,
+    fitting intervention in human affairs.
+  cautions: Could also support divine_judgment if the warning enforces moral order,
+    or sacred_combat if the focus is warfare.
+  suggested_aliases:
+  - divine warning halts violence
+  - divine command ends slaughter
+  - divine intervention stops killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warning-through-a-trusted-messenger
+  motif_id: divine_warning_through_a_trusted_messenger
+  label: Divine warning through a trusted messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred power guides or warns through a messenger, which fits divine
+    intervention and guidance.
+  cautions: If the messenger role is angelic or prophetic, preserve that evidence
+    detail; do not collapse all messenger scenes into theophany.
+  suggested_aliases:
+  - divine warning by messenger
+  - trusted messenger conveys divine warning
+  - angelic or trusted warning messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-delivers-enemies-into-human-hands
+  motif_id: divine_warrior_delivers_enemies_into_human_hands
+  label: Divine warrior delivers enemies into human hands
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The divine warrior actively secures victory by handing enemies over to
+    human combatants.
+  cautions: May also index divine_intervention or divine_judgment if the passage frames
+    the victory as guidance or punishment.
+  suggested_aliases:
+  - divine warrior grants victory
+  - god delivers enemies into human hands
+  - sacred combat victory by divine aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-invocation-at-sacred-movement
+  motif_id: divine_warrior_invocation_at_sacred_movement
+  label: divine warrior invocation at sacred movement
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label invokes a divine warrior in connection with a sacred movement,
+    likely ritualized martial protection or advance.
+  cautions: Ambiguous wording; if the sacred movement is procession, ark movement,
+    or journey ritual rather than combat, divine_intervention or sacred_vessel may
+    be relevant.
+  suggested_aliases:
+  - divine warrior invocation
+  - warrior-god invocation during movement
+  - sacred march invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-weapon-allusion-to-iva-s-destruction-of-tripura
+  motif_id: divine_weapon_allusion_to_iva_s_destruction_of_tripura
+  label: divine weapon allusion to Śiva’s destruction of Tripura
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The phrase points to a divine combat act and weapon associated with destruction
+    of an enemy stronghold.
+  cautions: The label is an allusion to a specific tradition and episode; preserve
+    as evidence detail rather than promoting as a cross-tradition motif.
+  suggested_aliases:
+  - Śiva destroys Tripura with divine weapon
+  - Tripura destruction allusion
+  - divine weapon destroys enemy city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-weapon-and-strengthening-equipment-against-giants
+  motif_id: divine_weapon_and_strengthening_equipment_against_giants
+  label: Divine weapon and strengthening equipment against giants
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is divine equipment that confers power in combat, fitting sacred
+    treasures and power objects.
+  cautions: If the passage centers on the god’s battle against giants, divine_warrior
+    or sacred_combat may be better primary mappings.
+  suggested_aliases:
+  - divine weapon against giants
+  - strengthening equipment for combat
+  - power object used against giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-weapon-fails-against-giant-through-deception-or-evasion
+  motif_id: divine_weapon_fails_against_giant_through_deception_or_evasion
+  label: Divine weapon fails against giant through deception or evasion
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key action is deception or evasion defeating or neutralizing a divine
+    weapon’s expected effect.
+  cautions: Could instead fit sacred_combat or sacred_treasures if the passage emphasizes
+    weapon failure rather than cunning; source context needed.
+  suggested_aliases:
+  - divine weapon evaded by deception
+  - giant deceives divine weapon
+  - combat deception neutralizes divine weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-weapon-frightens-both-armies
+  motif_id: divine_weapon_frightens_both_armies
+  label: divine weapon frightens both armies
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine weapon functions as an awe-inspiring power object affecting
+    the battlefield.
+  cautions: If the emphasis is sacred terror or battle intervention, divine_warrior
+    or sacred_combat may be secondary placements; single occurrence may be episode-specific.
+  suggested_aliases:
+  - terrifying divine weapon
+  - divine weapon causes battlefield fear
+  - sacred weapon frightens armies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine divine agency with warfare; distinguish divine_warrior/sacred_combat
+  from divine_intervention based on whether the passage centers on combat victory
+  or warning/guidance.
+- Divine weapon labels often fit sacred_treasures when the object’s power is foregrounded,
+  but may require secondary review under divine_warrior or sacred_combat.
+- Single-occurrence and episode-specific labels should generally be preserved as evidence
+  details rather than promoted to new canonical motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; several items need source-context review for
+    primary-vs-secondary group selection.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0318
+  input_sha256: 01c0671c906a3275d5aa55daabba1ce91882c1347300bcdeb07d6bbba02e4604
+

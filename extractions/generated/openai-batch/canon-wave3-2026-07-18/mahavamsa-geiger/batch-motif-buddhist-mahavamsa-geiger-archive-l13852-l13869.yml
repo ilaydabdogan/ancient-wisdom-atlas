@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l13852-l13869
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: THE   WAR   OF   THE   TWO   BROTHERS / CHAPTER  XXV / THE  VICTORY  OF  DUTTHAGAMANI
+    / CHAPTER  XXVI; lines 13852-13869
+  start: '13852'
+  end: '13869'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory notes on sentence construction and
+    on Tika interpretations. It describes wealth relinquished by a grateful king to
+    honor the Three Jewels, lists five dangers threatening wealth, and lists five
+    benefits associated with a well-governed kingdom, including heaven after death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A grammatical note explains that wealth relinquished by a grateful king was
+    connected with honoring the Three Jewels.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wealth or gifts are described in relation to a numerical total of nineteen
+    kotis.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The Tika identifies five dangers that threaten wealth: loss by fire, water,
+    living creatures, confiscation, and brigandage.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The Tika identifies five benefits: popularity among men, esteem among pious
+    men, fame, fidelity in lay-duties, and attainment of heaven after death.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The listed advantages are said to be possessed by a kingdom when it is well
+    governed.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: grateful king
+  description: A king described in the grammatical note as having relinquished wealth
+    to honor the Three Jewels.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tika
+  description: The commentary cited as explaining the five dangers to wealth and the
+    five benefits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: pious men
+  description: A group among whom high esteem is listed as one of the benefits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: donor king
+  assigned_to:
+  - fig:1
+  basis: The grammatical note describes a king who relinquished wealth for honoring
+    the Three Jewels.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: commentarial authority
+  assigned_to:
+  - fig:2
+  basis: The Tika is cited as giving the lists of dangers and benefits.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: religious evaluators
+  assigned_to:
+  - fig:3
+  basis: High esteem among pious men is named as a benefit.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Three Jewels
+  literal_form: ratanattayam / Three Jewels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wealth
+  literal_form: wealth, goods, gifts, or donations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fire
+  literal_form: fire as one of the five dangers to wealth
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: water
+  literal_form: water as one of the five dangers to wealth
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: five dangers
+  literal_form: loss by fire, water, living creatures, confiscation, or brigandage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: five benefits
+  literal_form: popularity, esteem, fame, fidelity in lay-duties, and attainment of
+    heaven after death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Donation-oriented grammatical explanation
+  summary: A note explains the grammatical construction of a sentence in which a grateful
+    king relinquishes wealth in connection with honoring the Three Jewels.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Commentarial list of dangers to wealth
+  summary: 'The Tika is cited as listing five threats to wealth: fire, water, living
+    creatures, confiscation, and brigandage.'
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Commentarial list of benefits
+  summary: The Tika is cited as listing five benefits, and the passage states that
+    these advantages belong to a kingdom when well governed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Royal donation to the Three Jewels
+  taxonomy_refs:
+  - sacred_exchange
+  - royal_legitimacy
+  basis: The passage describes a king relinquishing wealth in order to honor the Three
+    Jewels; the royal and religious elements support a cautious motif candidate.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a grammatical note rather than a narrative episode, so
+    the motif is inferred only from the summarized construction.
+- id: motif:2
+  label: Wealth threatened by five dangers
+  taxonomy_refs: []
+  basis: 'The Tika lists five dangers threatening wealth: fire, water, living creatures,
+    confiscation, and brigandage.'
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a commentarial classification, not a developed mythic scene.
+- id: motif:3
+  label: Good governance produces worldly and religious benefits
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage states that the five benefits, including social esteem, fame,
+    lay-duty fidelity, and heaven after death, are possessed by a kingdom when well
+    governed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a doctrinal or moralizing statement rather than a full
+    royal-legitimation narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13852-13858
+  quote_or_summary: A grammatical explanation states that wealth relinquished by a
+    grateful king was for honoring the Three Jewels and refers to a total of nineteen
+    kotis.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: quote
+  locator: lines 13859-13861
+  quote_or_summary: 'According to the Tika, five dangers threaten wealth: “loss by
+    fire, water, living creatures, confiscation or brigandage.”'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 13862-13868
+  quote_or_summary: 'The Tika lists five benefits: popularity among men, high esteem
+    among pious men, fame, fidelity in lay-duties, and attainment of heaven after
+    death.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 13868-13869
+  quote_or_summary: "“These advantages are possessed by a kingdom when well governed.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mainly philological and commentarial, not a narrative mythic
+    episode. Literal lists and doctrinal patterns are clear, but motif assignment
+    requires caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text, tradition, or motif family beyond cautious taxonomy tagging.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l13852-l13869
+  passage_sha256=e6678546b10b0f14cb74746f45125826d6b9b674f34d42683269d2586417df08
+

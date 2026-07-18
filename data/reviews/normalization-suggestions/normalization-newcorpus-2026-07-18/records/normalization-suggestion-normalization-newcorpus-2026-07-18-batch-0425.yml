@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0425
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.river-separating-divine-and-giant-realms
+  motif_id: river_separating_divine_and_giant_realms
+  label: river separating divine and giant realms
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A river functions as a boundary between opposed sacred or mythic realms,
+    fitting water as liminal separator.
+  cautions: If the passage emphasizes cosmographic world-structure more than water
+    passage, axis_mundi or cosmic_origin may be a secondary review context.
+  suggested_aliases:
+  - mythic river boundary
+  - river between divine and giant realms
+  - water boundary between realms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-separating-gods-and-giants
+  motif_id: river_separating_gods_and_giants
+  label: river separating gods and giants
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The river is a sacred boundary dividing divine and hostile giant domains,
+    matching water as threshold and separator.
+  cautions: May duplicate river_separating_divine_and_giant_realms; consider merging
+    as an alias during human review.
+  suggested_aliases:
+  - river boundary between gods and giants
+  - mythic boundary river
+  - water separating opposed realms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-source-in-divine-body-and-caverns
+  motif_id: river_source_in_divine_body_and_caverns
+  label: River source in divine body and caverns
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A river arising from a divine body and cavern imagery points to sacred
+    geography and origin of a life-giving natural feature.
+  cautions: Could also relate to primordial_sacrifice if the divine body is dead or
+    dismembered, or sacred_waters if the focus is ritual water rather than origin.
+  suggested_aliases:
+  - river arising from divine body
+  - divine body as river source
+  - sacred river origin in cavern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-hero-empowered-against-divine-and-demonic-foes
+  motif_id: royal_hero_empowered_against_divine_and_demonic_foes
+  label: Royal hero empowered against divine and demonic foes
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A royal hero empowered to fight divine or demonic enemies fits sacred
+    combat and the divine-warrior role.
+  cautions: If empowerment primarily legitimizes rule rather than combat, royal_legitimacy
+    should be considered as a secondary mapping.
+  suggested_aliases:
+  - empowered royal hero against demons
+  - divinely empowered royal warrior
+  - royal champion against supernatural foes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-transgression-prompts-public-and-priestly-warning
+  motif_id: royal_transgression_prompts_public_and_priestly_warning
+  label: Royal transgression prompts public and priestly warning
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler violating sacred norms and receiving priestly/public warning
+    concerns sacred law constraining kingship.
+  cautions: May also belong under divine_judgment or royal_legitimacy if the passage
+    stresses punishment or loss of sanctioned rule.
+  suggested_aliases:
+  - royal violation of sacred law
+  - priestly warning after royal transgression
+  - ruler warned for ritual transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-boasts-invincibility-over-gods-and-enemies
+  motif_id: ruler_boasts_invincibility_over_gods_and_enemies
+  label: ruler boasts invincibility over gods and enemies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A ruler boasting invincibility over gods and enemies is a clear overreaching
+    pride motif likely to invite humbling or downfall.
+  cautions: If the passage centers on a boon-based loophole rather than boasting,
+    conditional_invulnerability_hidden_weakness may be a secondary group.
+  suggested_aliases:
+  - boastful invincible ruler
+  - ruler boasts against gods
+  - hubristic claim of invincibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-challenges-divine-sovereignty
+  motif_id: ruler_challenges_divine_sovereignty
+  label: Ruler challenges divine sovereignty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A ruler contesting divine sovereignty is royal hubris against sacred
+    order, fitting the pride-and-downfall complex.
+  cautions: If the evidence emphasizes adjudication or punishment more than arrogance,
+    divine_judgment may be equally important.
+  suggested_aliases:
+  - king challenges divine rule
+  - royal defiance of divine sovereignty
+  - ruler contests God’s authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-dependent-on-ritual-bodily-posture
+  motif_id: ruler_dependent_on_ritual_bodily_posture
+  label: Ruler dependent on ritual bodily posture
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether posture sustains kingship,
+    ritual taboo, vulnerability, or a source-specific scene.
+  cautions: Could fit royal_legitimacy, sacred_law, initiation, or conditional vulnerability
+    depending on passage evidence; avoid broad mapping from the label alone.
+  suggested_aliases:
+  - ritual posture sustaining rule
+  - king’s ritual bodily condition
+  - postural taboo of rulership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sabbath-rest-under-divine-command
+  motif_id: sabbath_rest_under_divine_command
+  label: Sabbath rest under divine command
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Sabbath rest is already represented by sabbath_cycle and belongs to sacred
+    time ordered by divine command.
+  cautions: May also support covenant or sacred_law where the commandment and obligation
+    are the passage focus.
+  suggested_aliases:
+  - commanded sabbath rest
+  - divinely mandated sabbath
+  - sabbath observance under command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-separated-from-ordinary-nourishing-water
+  motif_id: sacred_animal_separated_from_ordinary_nourishing_water
+  label: sacred animal separated from ordinary nourishing water
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred animal, separation, and nourishing water without
+    enough function to choose a stable group.
+  cautions: Could involve sacred_waters, sacred_law purity restrictions, animal cult,
+    sacrifice, or a passage-specific ritual detail; source review is needed.
+  suggested_aliases:
+  - sacred animal withheld from ordinary water
+  - ritual separation of sacred animal from water
+  - animal cult water restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Norse river-boundary labels may be duplicate variants and should be reviewed
+  together.
+- Ruler-hubris labels in this batch often straddle pride_and_downfall, divine_judgment,
+  and royal_legitimacy; final placement should follow narrative function in the source
+  passage.
+- Single-occurrence ritual or ethnographic labels should remain provisional unless
+  they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0425
+  input_sha256: 2c2a5f8cd897c47285a4e9853ff347de8981a9629403c29af80a1c3bd1d2cd76
+

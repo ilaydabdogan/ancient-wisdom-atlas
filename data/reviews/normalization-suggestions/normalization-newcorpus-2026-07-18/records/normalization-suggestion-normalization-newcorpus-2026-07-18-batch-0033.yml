@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0033
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dead-person-s-spirit-reports-death-to-sleeping-kin
+  motif_id: dead_person_s_spirit_reports_death_to_sleeping_kin
+  label: dead person's spirit reports death to sleeping kin
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead spirit communicating to sleeping kin is best indexed as dream
+    or sleep-vision revelation from the dead.
+  cautions: Could also relate to restless_dead_haunting_vengeance if the spirit is
+    unsettled or demands action; verify source context.
+  suggested_aliases:
+  - death_report_in_dream
+  - dead_spirit_dream_message
+  - spirit_announces_death_to_sleeping_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-person-sends-cleansing-rain
+  motif_id: dead_person_sends_cleansing_rain
+  label: Dead person sends cleansing rain
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A dead person acting after death to send purifying rain resembles supernatural
+    intervention or ancestral mediation.
+  cautions: Culturally sensitive ancestral agency; may fit ancestor rites, weather/rainmaking,
+    purification, or local etiological context depending on evidence.
+  suggested_aliases:
+  - ancestor_sends_cleansing_rain
+  - postmortem_rain_blessing
+  - dead_agent_mediating_rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-residing-at-burial-place-and-receiving-memorial-feasts
+  motif_id: dead_residing_at_burial_place_and_receiving_memorial_feasts
+  label: dead residing at burial place and receiving memorial feasts
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly describes dead persons located at a burial place and
+    ritually fed or commemorated.
+  cautions: If the dead are threatening or improperly buried, restless_dead_haunting_vengeance
+    may be a secondary mapping.
+  suggested_aliases:
+  - memorial_feasts_for_the_dead
+  - feeding_the_dead_at_burial_place
+  - dead_receive_funeral_feasts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-spirits-speaking-through-living-mediums
+  motif_id: dead_spirits_speaking_through_living_mediums
+  label: dead spirits speaking through living mediums
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communication from dead spirits through mediums is a formal divinatory
+    or spirit-mediumship role for hidden knowledge.
+  cautions: Review culturally specific mediumship evidence carefully; could also map
+    to ancestor_rites if embedded in ritual care of the dead.
+  suggested_aliases:
+  - spirit_mediumship
+  - dead_speak_through_mediums
+  - ancestor_spirits_speaking_through_living
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-traveler-left-below-a-notable-animal-s-nest
+  motif_id: dead_traveler_left_below_a_notable_animal_s_nest
+  label: Dead traveler left below a notable animal's nest
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific burial or corpse-location detail
+    rather than a reusable motif.
+  cautions: If the animal nest has ritual, cosmological, or transformation significance,
+    reassess under heroic_funeral_rites, animal symbolism, or death_and_transformation.
+  suggested_aliases:
+  - corpse_left_below_animal_nest
+  - dead_traveler_under_nest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-warlock-rises-from-the-grave-and-haunts-at-night
+  motif_id: dead_warlock_rises_from_the_grave_and_haunts_at_night
+  label: dead warlock rises from the grave and haunts at night
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: A dead figure rising from the grave to haunt is a clear restless-dead
+    haunting pattern.
+  cautions: Preserve warlock identity as local evidence; do not map to resurrection
+    unless restored life rather than haunting is central.
+  suggested_aliases:
+  - grave_rising_haunter
+  - night_haunting_dead
+  - dead_sorcerer_haunts_from_grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-warrior-borne-by-green-clad-women-into-a-fairy-mound
+  motif_id: dead_warrior_borne_by_green_clad_women_into_a_fairy_mound
+  label: dead warrior borne by green-clad women into a fairy mound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead warrior carried by fairy women into a mound points to passage
+    into an enchanted otherworld realm.
+  cautions: Could also relate to heroic_funeral_rites or afterlife_passage if the
+    source frames it as funerary transport rather than fairy otherworld entry.
+  suggested_aliases:
+  - fairy_mound_afterlife_transport
+  - dead_warrior_taken_to_fairy_mound
+  - otherworld_women_bear_dead_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-warriors-call-for-vengeance
+  motif_id: dead_warriors_call_for_vengeance
+  label: Dead warriors call for vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: Dead warriors actively demanding vengeance fit the restless dead whose
+    unresolved deaths drive revenge.
+  cautions: If the emphasis is a living vow or heroic honor code rather than dead
+    agency, sacred_combat or curse_blessing_speech may be secondary.
+  suggested_aliases:
+  - dead_call_for_vengeance
+  - vengeful_dead_warriors
+  - fallen_warriors_demand_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadline-bound-revenge-vow
+  motif_id: deadline_bound_revenge_vow
+  label: deadline-bound revenge vow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow binding action within a time limit is a performative speech act
+    with obligatory force.
+  cautions: May belong to sacred_combat if the vow is chiefly a warrior-vengeance
+    episode; not specifically death/afterlife unless tied to the dead.
+  suggested_aliases:
+  - time_bound_revenge_vow
+  - deadline_vow_of_vengeance
+  - vengeance_oath_with_time_limit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-breath-reduces-bodies-to-ashes
+  motif_id: deadly_breath_reduces_bodies_to_ashes
+  label: Deadly breath reduces bodies to ashes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural destructive breath may function as combat power or monster-like
+    violence, but existing groups do not cleanly capture it.
+  cautions: Could be an over-specific episode detail, a monster motif, fire/destruction
+    symbolism, or sacred combat depending on the agent and narrative role.
+  suggested_aliases:
+  - destructive_breath
+  - fatal_breath_burns_bodies_to_ash
+  - breath_weapon_reduces_to_ashes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items involve culturally specific postmortem or ancestral agency; placements
+  should be checked against source evidence rather than inferred from wording alone.
+- Single-occurrence, episode-specific labels should remain granular evidence unless
+  recurrence across sources is demonstrated.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0033
+  input_sha256: 5f586ff680314da313456e94274e1a5b437715d59f75d7e3319121157d3c3405
+

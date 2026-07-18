@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0073
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.grief-driven-confrontation-after-an-ally-s-death
+  motif_id: grief_driven_confrontation_after_an_ally_s_death
+  label: Grief-driven confrontation after an ally's death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on grief after a death motivating a confrontation,
+    fitting mourning as a transformative force.
+  cautions: Could instead belong under sacred_combat if the confrontation is primarily
+    revenge or battle sequence; single occurrence is contextual.
+  suggested_aliases:
+  - grief_driven_confrontation
+  - mourning_driven_confrontation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-driven-wish-for-death-or-burning
+  motif_id: grief_driven_wish_for_death_or_burning
+  label: grief-driven wish for death or burning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wish for death or immolation driven by grief is a mourning response
+    to loss.
+  cautions: If the burning is a ritual self-sacrifice or funeral practice, sacrifice
+    or heroic_funeral_rites may be relevant secondary mappings.
+  suggested_aliases:
+  - grief_wish_for_death
+  - mourning_wish_for_death
+  - grief_driven_self_immolation_wish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grieving-messenger-carries-death-news-to-a-bereaved-hero
+  motif_id: grieving_messenger_carries_death_news_to_a_bereaved_hero
+  label: grieving messenger carries death news to a bereaved hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The functional core is the communication of death news that initiates
+    bereavement and lament.
+  cautions: The messenger detail may be passage-specific; preserve as evidence rather
+    than promoting as its own motif.
+  suggested_aliases:
+  - death_news_to_bereaved_hero
+  - messenger_announces_death
+  - grieving_death_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grieving-retainers-behold-a-dead-ring-giving-king
+  motif_id: grieving_retainers_behold_a_dead_ring_giving_king
+  label: Grieving retainers behold a dead ring-giving king
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Retainers grieving over a dead king is a collective mourning scene for
+    a fallen ruler.
+  cautions: May also relate to heroic_funeral_rites or royal_legitimacy if burial
+    honors or kingship succession are central; 'ring-giving' is culturally specific
+    evidence detail.
+  suggested_aliases:
+  - retainers_mourn_dead_king
+  - collective_lament_for_dead_ruler
+  - grieving_retainers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-fails-one-night-s-watch-before-the-hero-s-death
+  motif_id: guardian_fails_one_night_s_watch_before_the_hero_s_death
+  label: guardian fails one night's watch before the hero's death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate failed protection, fated death, heroic death
+    setup, or a passage-specific plot device.
+  cautions: Do not map to threshold_guardian unless a boundary-passage role is present;
+    may be too specific for pattern queries.
+  suggested_aliases:
+  - failed_watch_before_hero_death
+  - failed_guardian_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-following-spirit-as-death-omen
+  motif_id: guardian_following_spirit_as_death_omen
+  label: Guardian following-spirit as death omen
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spirit appearing or following as a death omen functions as an omen
+    revealing impending death.
+  cautions: If the spirit actively protects or intervenes, divine_intervention may
+    be secondary; if it is a fetch or soul-double, a soul-belief group may be needed
+    later.
+  suggested_aliases:
+  - death_omen_spirit
+  - following_spirit_death_omen
+  - guardian_spirit_as_death_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-over-every-soul
+  motif_id: guardian_over_every_soul
+  label: guardian over every soul
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A guardian assigned over each soul fits protective or supervisory sacred
+    agency in human affairs.
+  cautions: May be doctrinal or exegetical rather than a narrative motif; if tied
+    to judgment records, divine_judgment may be relevant.
+  suggested_aliases:
+  - soul_guardian
+  - guardian_assigned_over_soul
+  - angelic_guardian_over_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-of-cultivated-plant
+  motif_id: guardian_spirit_of_cultivated_plant
+  label: Guardian spirit of cultivated plant
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A plant guardian spirit is a tutelary sacred agent, and tutelary spirits
+    are currently folded under divine_intervention.
+  cautions: Review cultural specificity carefully; could instead belong with sacred_time/agricultural
+    cycle, sacred_substance, or a future plant/crop-spirit group if recurring.
+  suggested_aliases:
+  - plant_guardian_spirit
+  - cultivated_plant_tutelary_spirit
+  - crop_guardian_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarding-the-dying-or-dead-from-spirits
+  motif_id: guarding_the_dying_or_dead_from_spirits
+  label: Guarding the dying or dead from spirits
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protective mortuary guarding against spirits fits apotropaic protection
+    and spirit-contagion practices grouped under sacred_law.
+  cautions: May also relate to ancestor_rites or afterlife_passage if the rite primarily
+    serves the dead person's journey or ancestor relations.
+  suggested_aliases:
+  - mortuary_guarding_from_spirits
+  - protecting_dead_from_spirits
+  - guarding_dying_from_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guilty-deed-bringing-inevitable-deadly-fruit
+  motif_id: guilty_deed_bringing_inevitable_deadly_fruit
+  label: guilty deed bringing inevitable deadly fruit
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guilty act producing unavoidable deadly consequence fits moral reckoning
+    and consequence following action.
+  cautions: If framed specifically as karma or fate rather than divine evaluation,
+    death_by_fate or sacred_law may be secondary; label is abstract.
+  suggested_aliases:
+  - guilty_deed_deadly_consequence
+  - inevitable_deadly_fruit_of_guilt
+  - moral_consequence_of_guilt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels are single-occurrence and may be
+  episode-specific evidence details rather than durable motifs.
+- Guardian/spirit labels should be reviewed with source context to distinguish tutelary
+  agency, omen, soul-belief, mortuary protection, and commentary artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions prepared for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0073
+  input_sha256: 97ca2f870e2c701470fe665e0fc8191f2e243b39816c6ddadbcd31e74e5eb181
+

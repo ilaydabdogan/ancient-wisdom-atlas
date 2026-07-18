@@ -1,0 +1,268 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1646
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.young-champion-faces-a-boastful-foreign-champion
+  motif_id: young_champion_faces_a_boastful_foreign_champion
+  label: young champion faces a boastful foreign champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A champion challenge against a boasting opponent fits the combat-duel
+    cluster already represented under sacred_combat.
+  cautions: Single occurrence and culturally specific duel framing; may be only an
+    episode detail unless the challenge functions ritually or heroically.
+  suggested_aliases:
+  - boastful_challenger_confronted_by_young_champion
+  - champion_challenge_against_foreign_boaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.young-chosen-champion-against-a-fiend
+  motif_id: young_chosen_champion_against_a_fiend
+  label: Young chosen champion against a fiend
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A chosen champion opposing a fiend resembles the sacred-combat role of
+    a hero or warrior fighting demonic disorder.
+  cautions: Use divine_warrior only if the fiend combat has cosmic, sacred, or order-restoring
+    force; otherwise sacred_combat may be the better broad group.
+  suggested_aliases:
+  - chosen_champion_against_demonic_foe
+  - youthful_champion_fights_fiend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youngest-among-twelve
+  motif_id: youngest_among_twelve
+  label: youngest among twelve
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a family or group position but not a clear narrative
+    function.
+  cautions: Could be a youngest-sibling hero motif, rank reversal, or merely a character
+    detail; source evidence is needed before mapping.
+  suggested_aliases:
+  - youngest_of_twelve
+  - youngest_member_of_twelve
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youngest-brother-dispossessed-by-elder-brothers
+  motif_id: youngest_brother_dispossessed_by_elder_brothers
+  label: youngest brother dispossessed by elder brothers
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sibling conflict and status reversal within a brother
+    pair or sibling set.
+  cautions: Existing sacred_twins group is broader and more mythic than this folktale-like
+    inheritance conflict; consider future sibling-rivalry subgroup if many such labels
+    recur.
+  suggested_aliases:
+  - youngest_sibling_dispossessed_by_elder_siblings
+  - younger_brother_disinherited_by_older_brothers
+  - sibling_dispossession_of_youngest_brother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youngest-companion-overcomes-supernatural-foe-stronger-than-the-others
+  motif_id: youngest_companion_overcomes_supernatural_foe_stronger_than_the_others
+  label: youngest companion overcomes supernatural foe stronger than the others
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is defeat of a stronger supernatural opponent in a heroic
+    combat episode.
+  cautions: The youngest-companion reversal may point to a sibling/rank-reversal motif
+    not currently well represented; keep that detail in evidence notes.
+  suggested_aliases:
+  - youngest_hero_defeats_supernatural_foe
+  - low_rank_companion_overcomes_stronger_monster
+  - youngest_companion_succeeds_where_others_fail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-challenger-cuts-the-champion-s-standard-and-falls
+  motif_id: youthful_challenger_cuts_the_champion_s_standard_and_falls
+  label: youthful challenger cuts the champion's standard and falls
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A youthful warrior’s battlefield challenge and death fits heroic combat,
+    honor, and martial proof patterns.
+  cautions: The standard-cutting detail is likely episode-specific; if emphasis is
+    on death and mourning rather than combat, heroic_funeral_rites or lament_and_mourning
+    may be secondary.
+  suggested_aliases:
+  - youthful_warrior_challenge_ending_in_death
+  - standard_cutting_challenge_and_fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-exploit-foreshadows-later-martial-prowess
+  motif_id: youthful_exploit_foreshadows_later_martial_prowess
+  label: youthful exploit foreshadows later martial prowess
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: child
+  confidence: high
+  rationale: The group already contains heroic_childhood_signs, and this label describes
+    early feats marking later heroic identity.
+  cautions: If the episode mainly legitimizes a warrior role rather than transforms
+    status, divine_warrior or hero_journey may be useful secondary mappings.
+  suggested_aliases:
+  - heroic_childhood_signs
+  - youthful_feat_foreshadows_warrior_destiny
+  - childhood_exploit_marks_future_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-feats-foreshadow-adult-deeds
+  motif_id: youthful_feats_foreshadow_adult_deeds
+  label: youthful feats foreshadow adult deeds
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: child
+  confidence: high
+  rationale: 'This is a close general variant of heroic_childhood_signs: early deeds
+    anticipate later identity and status.'
+  cautions: Keep the martial or non-martial nature of the adult deeds in passage notes;
+    do not over-narrow to combat unless supported.
+  suggested_aliases:
+  - heroic_childhood_signs
+  - youthful_deeds_foreshadow_adult_destiny
+  - childhood_feats_predict_future_role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-first-vengeance-feud
+  motif_id: youthful_first_vengeance_feud
+  label: Youthful first vengeance feud
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A first vengeance feud is a combat and feud-initiation episode, close
+    to existing vengeance and warrior-duty children under combat groups.
+  cautions: If the focus is blood-feud law or oath obligation rather than combat,
+    sacred_law, covenant, or curse_blessing_speech may be relevant; source context
+    needed.
+  suggested_aliases:
+  - first_vengeance_feud_of_youth
+  - youthful_initiation_into_blood_feud
+  - young_warrior_first_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are youth-hero or young-warrior episode details. Existing
+  groups can hold them provisionally, but a future review may consider a durable subgroup
+  for youthful hero signs, rank-reversal youngest sibling, or first combat initiation
+  if these recur across traditions.
+- Avoid treating these combat placements as evidence of transmission; they are only
+  normalization suggestions for query grouping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements based on label semantics only; single-occurrence items
+    should be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1646
+  input_sha256: 44536514bb0e1a6e81af6cfd109e4104d17eb82b4ebd6bf86ef9f4a042b61e3a
+

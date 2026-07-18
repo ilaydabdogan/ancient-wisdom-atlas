@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0364
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.local-deity-elevated-as-head-of-a-divine-company
+  motif_id: local_deity_elevated_as_head_of_a_divine_company
+  label: Local deity elevated as head of a divine company
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Elevation of a local deity to headship concerns sacred hierarchy and
+    sovereignty, but may be theological or cult-history classification rather than
+    motif.
+  cautions: Single occurrence; may be a local pantheon-history artifact rather than
+    a reusable narrative motif.
+  suggested_aliases:
+  - local deity promoted to head of pantheon
+  - divine headship in local cult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-god-made-hero-of-a-shared-creation-legend
+  motif_id: local_god_made_hero_of_a_shared_creation_legend
+  label: local god made hero of a shared creation legend
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to a deity's role in a creation story, fitting cosmic
+    origin if the passage narrates creation.
+  cautions: Phrase 'made hero of a shared creation legend' may describe editorial/theological
+    adaptation rather than a motif; avoid transmission or borrowing claims.
+  suggested_aliases:
+  - local god as creation hero
+  - deity central in creation legend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-goddess-associated-with-a-sacred-forest-and-river
+  motif_id: local_goddess_associated_with_a_sacred_forest_and_river
+  label: Local goddess associated with a sacred forest and river
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A local goddess tied to fertile or sacred natural places may fit sacred
+    feminine imagery.
+  cautions: Could instead be sacred geography, sacred waters, or a place-only cult
+    detail; source function is needed.
+  suggested_aliases:
+  - goddess of sacred forest and river
+  - local nature goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-sacred-figure-redirects-a-divine-founder
+  motif_id: local_sacred_figure_redirects_a_divine_founder
+  label: Local sacred figure redirects a divine founder
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Redirecting a founder by sacred agency resembles divine guidance in human
+    or cultic affairs.
+  cautions: Could be an episode-specific foundation legend detail, local cult aition,
+    or human encounter rather than a broad motif.
+  suggested_aliases:
+  - sacred guide redirects founder
+  - divine founder redirected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-groups-of-deities-dwelling-at-named-sacred-places
+  motif_id: localized_groups_of_deities_dwelling_at_named_sacred_places
+  label: Localized groups of deities dwelling at named sacred places
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: Named sacred places inhabited by deities may function as sacred centers
+    or sacred geography.
+  cautions: Culturally sensitive and place-specific; may be sacred geography rather
+    than a narrative motif. Review with source context before indexing broadly.
+  suggested_aliases:
+  - deities dwelling at sacred places
+  - localized divine dwellings
+  - sacred places inhabited by deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-a-rejuvenating-figure-and-apples-causes-divine-aging
+  motif_id: loss_of_a_rejuvenating_figure_and_apples_causes_divine_aging
+  label: Loss of a rejuvenating figure and apples causes divine aging
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejuvenating apples function as a sacred substance preserving divine
+    vitality.
+  cautions: Also overlaps with immortality_without_renewal and sacred_treasures; keep
+    the abducted/rejuvenating figure as evidence detail.
+  suggested_aliases:
+  - rejuvenating apples preserve divine youth
+  - loss of divine rejuvenation substance
+  - divine aging from loss of immortality food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-divine-light-or-power-under-hostile-attack
+  motif_id: loss_of_divine_light_or_power_under_hostile_attack
+  label: loss of divine light or power under hostile attack
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Divine light or power aligns symbolically with sacred light, especially
+    when threatened by hostile forces.
+  cautions: In Gnostic context this may encode a specific cosmological drama, dualism,
+    or emanation doctrine; do not reduce automatically to fire/light imagery.
+  suggested_aliases:
+  - divine light lost under attack
+  - assault on divine light
+  - loss of sacred power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-divine-name-and-religious-memory
+  motif_id: loss_of_divine_name_and_religious_memory
+  label: loss of divine name and religious memory
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of a divine name and sacred memory concerns concealment or erosion
+    of sacred knowledge.
+  cautions: Could be textual/reception commentary if it refers to later forgetting
+    rather than an in-story motif.
+  suggested_aliases:
+  - forgotten divine name
+  - loss of sacred memory
+  - religious memory lost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lot-selected-maiden-for-sacred-textile-work
+  motif_id: lot_selected_maiden_for_sacred_textile_work
+  label: Lot-selected maiden for sacred textile work
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Selection by lot for sacred service is a ritual-social ordering practice
+    tied to sanctified duty.
+  cautions: May also relate to fate/divination or sacred craft if textile-making is
+    the main motif; maiden detail may be contextual.
+  suggested_aliases:
+  - lot selection for sacred service
+  - maiden chosen by lot for temple work
+  - sacred textile duty by lot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lotus-bearing-divine-feminine-image-by-water
+  motif_id: lotus_bearing_divine_feminine_image_by_water
+  label: lotus-bearing divine feminine image by water
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A lotus-bearing divine feminine by water fits sacred feminine fertility,
+    beauty, and auspicious nourishment imagery.
+  cautions: Could also map secondarily to sacred_waters or sacred_treasures if the
+    lotus or water carries the main function; preserve iconographic specificity.
+  suggested_aliases:
+  - lotus-bearing goddess by water
+  - divine feminine with lotus
+  - lotus goddess imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are local cult, theological elevation, or iconographic
+  descriptions; these should be reviewed against source passages before treating them
+  as reusable motifs.
+- No transmission or shared-origin inference is implied by placement suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for local-deity and
+    sacred-place labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0364
+  input_sha256: 5620339d4fbb591826c69129d223e70f4b69862da99a18106de7ec05b3ce5df4
+

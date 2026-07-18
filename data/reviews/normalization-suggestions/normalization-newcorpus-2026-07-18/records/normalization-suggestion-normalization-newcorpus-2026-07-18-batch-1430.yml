@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1430
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.homage-to-a-celestial-object
+  motif_id: homage_to_a_celestial_object
+  label: homage to a celestial object
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate worship of a celestial deity, sacred time/astral order,
+    or a passage-specific ritual gesture; label alone lacks function.
+  cautions: Do not map to sacred_fire, dream_and_vision, or cosmic_origin unless the
+    source clarifies whether the object is sun, moon, star, omen, deity, or cult object.
+  suggested_aliases:
+  - celestial homage
+  - astral veneration
+  - worship of celestial object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - dream_and_vision
+    - theophany
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.home-transposed-to-wilderness
+  motif_id: home_transposed_to_wilderness
+  label: Home transposed to wilderness
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A home-like order recreated in wilderness fits exile or departure transformed
+    into an ordeal-space within a journey arc.
+  cautions: If the passage emphasizes ascetic retreat or sacred forest dwelling rather
+    than narrative exile, mystical_quest or initiation may be better secondary mappings.
+  suggested_aliases:
+  - wilderness home
+  - home in exile
+  - domestic order in wilderness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.homelessness-under-vegetal-cover
+  motif_id: homelessness_under_vegetal_cover
+  label: homelessness under vegetal cover
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe exile, poverty, concealment, vegetal shelter,
+    or a passage-specific living condition without a clear motif function.
+  cautions: Avoid mapping to sacred_tree_axis unless the vegetation functions as sacred
+    tree, axis, ancestor embodiment, or transformative shelter.
+  suggested_aliases:
+  - vegetal shelter in homelessness
+  - living under plant cover
+  - homelessness under foliage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honeyed-landscape-and-abundant-milk
+  motif_id: honeyed_landscape_and_abundant_milk
+  label: honeyed landscape and abundant milk
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A landscape flowing with honey and milk resembles an enchanted or blessed
+    realm marked by abundance.
+  cautions: If the passage is about primordial effortless abundance or a golden age,
+    world_ages_cosmic_decline or sacred_time may be better; if the substances are
+    ritually consumed, consider sacred_substance.
+  suggested_aliases:
+  - landscape of honey and milk
+  - abundant milk and honey
+  - blessed abundance landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horn-signal-summons-hidden-companions
+  motif_id: horn_signal_summons_hidden_companions
+  label: horn signal summons hidden companions
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A horn sound that summons concealed allies uses sound as an effective
+    power or command signal.
+  cautions: If the horn is mainly a military tactic without supernatural force, this
+    may be too plot-specific and should be reviewed as sacred_combat or excluded as
+    episode detail.
+  suggested_aliases:
+  - horn summons hidden companions
+  - summoning horn signal
+  - sound summons allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horn-summoned-ration-exchange
+  motif_id: horn_summoned_ration_exchange
+  label: horn-summoned ration exchange
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sound-summoning with food distribution or exchange,
+    but the ritual or narrative function is unclear.
+  cautions: Could fit enchanting_music, sacred_exchange, or miraculous provision under
+    divine_intervention depending on whether the horn, ration exchange, or supernatural
+    supply is central.
+  suggested_aliases:
+  - horn summoned food exchange
+  - summoned ration exchange
+  - horn call for provisions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horned-champion-resists-hostile-powers
+  motif_id: horned_champion_resists_hostile_powers
+  label: Horned champion resists hostile powers
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A champion opposing hostile powers fits the sacred-combat role of a warrior
+    maintaining or defending sacred order.
+  cautions: The horned imagery may be symbolic, apocalyptic, royal, or culturally
+    specific; review before treating horns as a stable motif rather than iconographic
+    detail.
+  suggested_aliases:
+  - horned champion
+  - champion resisting hostile powers
+  - horned sacred warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitable-powerful-hosts-grant-aid-after-appeal
+  motif_id: hospitable_powerful_hosts_grant_aid_after_appeal
+  label: hospitable powerful hosts grant aid after appeal
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on host-guest relations where appeal to powerful hosts
+    produces aid, close to hospitality as sacred obligation.
+  cautions: If the hosts are divine powers directly intervening, divine_intervention
+    may be a secondary mapping; if no test or obligation is present, sacred_exchange
+    may be broader.
+  suggested_aliases:
+  - powerful hosts grant aid
+  - hospitality after appeal
+  - appeal to hospitable hosts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-and-bounty-for-poets
+  motif_id: hospitality_and_bounty_for_poets
+  label: Hospitality and bounty for poets
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bounty given to poets frames hospitality and patronage as reciprocal
+    social-sacred exchange.
+  cautions: If the passage emphasizes poetic speech power, praise, satire, or fame-making
+    more than exchange, storytelling_as_power or curse_blessing_speech may be relevant.
+  suggested_aliases:
+  - bounty for poets
+  - poetic hospitality
+  - patronage of poets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-and-diplomatic-gift-exchange
+  motif_id: hospitality_and_diplomatic_gift_exchange
+  label: Hospitality and diplomatic gift exchange
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Hospitality and formal gift exchange directly match reciprocal giving
+    that creates or maintains social bonds.
+  cautions: If the scene functions primarily as political alliance, royal_legitimacy
+    or covenant may be secondary; avoid assuming sacred significance without context.
+  suggested_aliases:
+  - diplomatic gift exchange
+  - hospitality gift exchange
+  - formal guest-gift reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements based on labels only; single-occurrence
+  motifs should be checked against passage evidence before taxonomy updates.
+- Several hospitality labels may need distinction between sacred obligation, political
+  diplomacy, and ordinary social custom.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft model suggestions only; human review needed for ambiguous single-occurrence
+    labels and culturally specific terms.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1430
+  input_sha256: 157499965aa20186014458704859c8349777e9d4c3f28c8cf0a46e1d54682b84
+

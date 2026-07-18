@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1389
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-slayer-exposed-by-missing-proof-tokens
+  motif_id: false_slayer_exposed_by_missing_proof_tokens
+  label: False slayer exposed by missing proof tokens
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif turns on proof tokens, or their absence, exposing a false identity
+    or false claim.
+  cautions: Single occurrence; if the passage emphasizes combat honor more than identity
+    proof, sacred_combat may be a secondary context.
+  suggested_aliases:
+  - missing proof tokens expose impostor
+  - false claimant exposed by absent tokens
+  - false slayer recognition test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-substitute-heart-and-recognition-by-courage
+  motif_id: false_substitute_heart_and_recognition_by_courage
+  label: false substitute heart and recognition by courage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label combines a substituted proof object with recognition of the
+    true agent through courage, fitting identity proof and false-claim exposure.
+  cautions: The heart detail may also relate to heroic combat trophies or deception;
+    verify source context before treating courage as a stable recognition token.
+  suggested_aliases:
+  - false heart substitute
+  - recognition by courage
+  - substitute proof object exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-substitutes-fail-the-appointed-task
+  motif_id: false_substitutes_fail_the_appointed_task
+  label: False substitutes fail the appointed task
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failure at an appointed task functions as a recognition or identity test
+    distinguishing the true figure from substitutes.
+  cautions: Could instead be an ordeal/initiation task if identity proof is not central;
+    single occurrence and broad wording need review.
+  suggested_aliases:
+  - false substitute fails test
+  - task reveals true identity
+  - impostor fails appointed task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-supernatural-disappearance-tale
+  motif_id: false_supernatural_disappearance_tale
+  label: false supernatural disappearance tale
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a deceptive explanation, a tale-type classification,
+    or a passage-specific false report rather than a clear motif.
+  cautions: Do not map to otherworld, death, or divine intervention without evidence
+    of actual supernatural disappearance; may be a narrative or commentary artifact.
+  suggested_aliases:
+  - false tale of supernatural disappearance
+  - fabricated disappearance story
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-supernatural-fright-causing-robbers-to-flee
+  motif_id: false_supernatural_fright_causing_robbers_to_flee
+  label: false supernatural fright causing robbers to flee
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false supernatural fright used to drive robbers away is a deception
+    strategy producing reversal, fitting trickster-like boundary and fraud motifs.
+  cautions: If the source focuses on robbers' fear rather than clever deception, this
+    may be an over-specific episode detail.
+  suggested_aliases:
+  - fake supernatural scare
+  - deceptive fright routs robbers
+  - trick frightens robbers away
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-trail-made-with-blood
+  motif_id: false_trail_made_with_blood
+  label: False trail made with blood
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creating a false trail is a deception and misdirection tactic, aligning
+    with trickster or stratagem patterns.
+  cautions: Blood may be only a material detail; if the passage centers on ritual
+    blood symbolism, sacred_law or sacrifice could be relevant, but label suggests
+    trickery.
+  suggested_aliases:
+  - blood false trail
+  - deceptive blood trail
+  - trail misdirection with blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.familiar-northern-european-tale-grouping
+  motif_id: familiar_northern_european_tale_grouping
+  label: familiar Northern European tale grouping
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative tale grouping or classification, not
+    a narrative motif within a source passage.
+  cautions: Preserve as provenance or indexing commentary if useful; exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - Northern European tale grouping
+  - comparative tale grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.familiarity-with-fairy-country
+  motif_id: familiarity_with_fairy_country
+  label: familiarity with fairy country
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: alias
+  confidence: high
+  rationale: This exact label is already listed as an alias under the otherworld group
+    and refers to knowledge of an enchanted realm.
+  cautions: If the passage concerns afterlife geography rather than fairyland or enchanted
+    realm, review against afterlife_passage.
+  suggested_aliases:
+  - familiarity with fairy country
+  - knowledge of fairy country
+  - fairy country familiarity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-caused-by-blocked-access-to-food-rather-than-absence-of-game
+  motif_id: famine_caused_by_blocked_access_to_food_rather_than_absence_of_game
+  label: famine caused by blocked access to food rather than absence of game
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a specific cause of famine, but the narrative function
+    is unclear from wording alone.
+  cautions: Could involve divine judgment, blocked sacred exchange, animal-source
+    abundance, ecological ordeal, or a local subsistence detail; culturally specific
+    context is needed.
+  suggested_aliases:
+  - famine from blocked food access
+  - food access blocked causing famine
+  - blocked game access famine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-over-seven-years
+  motif_id: famine_over_seven_years
+  label: famine over seven years
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A seven-year famine may be a calendrical disaster, divine judgment, prophetic
+    cycle, or passage-specific event depending on source evidence.
+  cautions: Do not map solely from famine imagery; review whether the motif functions
+    as judgment, omen/prophecy, sacred time cycle, or historical narrative detail.
+  suggested_aliases:
+  - seven-year famine
+  - famine lasting seven years
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, episode-specific labels; suggested mappings
+  should preserve local evidence notes rather than promote new taxonomy motifs.
+- False-claim and substitute motifs often map best to recognition_tokens_hidden_identity
+  when proof, task performance, or identity exposure is central.
+- Famine labels need source context before placement because famine can function as
+  judgment, ordeal, prophecy, subsistence crisis, or narrative setting.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assisted-normalization
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for ambiguous
+    famine and false-disappearance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1389
+  input_sha256: 1ef76bf9a4953873e35fe8460ca6d8ea0201dbc667039dd3e74b62f8ad8a344b
+

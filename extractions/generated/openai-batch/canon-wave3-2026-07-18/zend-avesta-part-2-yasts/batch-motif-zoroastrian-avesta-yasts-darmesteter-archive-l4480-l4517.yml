@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l4480-l4517
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: ABAN    YAST.  7 1 / ABAN    VAST.  75 / XXII. / XXIII.; lines 4480-4517
+  start: '4480'
+  end: '4517'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Zarathustra is instructed to offer sacrifice to Ardvi Sura Anahita, described
+    as a spring with a thousand cells and a thousand channels. Each channel is vast
+    and contains a shining, columned palace with balconies and a scented bed. Ardvi
+    Sura Anahita is also described as running down from a great height, possessing
+    Glory like all the waters flowing on earth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Spitama Zarathustra is told to offer a sacrifice to Ardvi Sura Anahita, called
+    a spring.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The spring is described as having a thousand cells and a thousand channels.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each cell and channel is said to extend as far as a man can ride on a good
+    horse in forty days.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A palace stands in each channel; each palace is described as well-founded,
+    shining, windowed, columned, balconied, well-built, and mighty.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In each palace there is a well-laid, well-scented bed covered with pillows.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ardvi Sura Anahita is described as running down from a height a thousand times
+    that of a man.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ardvi Sura Anahita is described as possessing as much Glory as all the waters
+    that run along the earth.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Spitama Zarathustra
+  description: The addressed figure commanded to offer sacrifice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ardvi Sura Anahita
+  description: Named as the spring to whom sacrifice is to be offered; described as
+    running down from a great height and possessing Glory like all earthly waters.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: addressed sacrificer
+  assigned_to:
+  - fig:1
+  basis: The passage directly addresses Spitama Zarathustra and commands him to offer
+    sacrifice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:2
+  basis: The sacrifice is to be offered unto Ardvi Sura Anahita, identified as a spring.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacred water figure
+  assigned_to:
+  - fig:2
+  basis: Ardvi Sura Anahita is called a spring and is associated with waters running
+    along the earth.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacred water or spring
+  literal_form: The spring of Ardvi Sura Anahita, with channels and comparison to
+    all waters on earth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: thousandfold channels and cells
+  literal_form: A thousand cells and a thousand channels, each of forty days' riding
+    extent.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: palace in each channel
+  literal_form: A shining palace with windows, columns, and balconies standing in
+    each channel.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: scented bed in each palace
+  literal_form: A well-laid, well-scented bed covered with pillows.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: glory of the waters
+  literal_form: Glory equal to the whole of the waters that run along the earth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Command to sacrifice to Ardvi Sura Anahita
+  summary: Spitama Zarathustra is commanded to offer sacrifice to the spring Ardvi
+    Sura Anahita.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the thousandfold water domain
+  summary: Ardvi Sura Anahita's spring is described as having a thousand cells and
+    channels, each vast in extent, with a palace in every channel and a scented bed
+    in every palace.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Descent and Glory of Ardvi Sura Anahita
+  summary: Ardvi Sura Anahita is described as running down from a great height and
+    possessing Glory comparable to all earthly flowing waters.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice to a sacred water figure
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly commands an offering of sacrifice to Ardvi Sura Anahita,
+    identified here as a spring.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage excerpt does not describe the ritual procedure or the expected
+    result of the sacrifice.
+- id: motif:2
+  label: Vast divine water realm with repeated palaces
+  taxonomy_refs: []
+  basis: The sacred spring is described as having a thousand cells and channels, each
+    channel containing a palace and each palace containing a scented bed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a descriptive pattern rather than a named taxonomy motif in the
+    provided list.
+- id: motif:3
+  label: Radiant descending sacred waters
+  taxonomy_refs: []
+  basis: Ardvi Sura Anahita is described as running down from a great height and possessing
+    Glory like all waters flowing along the earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is fragmentary at the end and does not provide a full narrative
+    sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXIII.100; lines 4480-4483
+  quote_or_summary: Spitama Zarathustra is commanded to offer sacrifice to the speaker's
+    spring, Ardvi Sura Anahita.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: XXIII.101; lines 4484-4490
+  quote_or_summary: The spring is described as having a thousand cells and a thousand
+    channels, each as extensive as forty days' ride on a good horse.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XXIII.101; lines 4490-4494
+  quote_or_summary: In each channel stands a well-founded, shining, well-built palace
+    with many windows, columns, and balconies.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: XXIII.102; lines 4495-4497
+  quote_or_summary: Each palace contains a well-laid, well-scented bed covered with
+    pillows.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: XXIII.102; lines 4512-4517
+  quote_or_summary: Ardvi Sura Anahita runs down from a height a thousand times that
+    of a man and has Glory like all waters flowing along the earth.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied excerpt. Some line assignments are
+    approximate because editorial footnotes interrupt the passage and the final sentence
+    is truncated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support an explicit comparative claim beyond the local motif candidates.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l4480-l4517
+  passage_sha256=ac2b9ab48f36a44d233371b924476780ed48ff015b3d5552cb5963a70879fce2
+

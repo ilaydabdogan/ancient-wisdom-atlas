@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1106
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magical-weapon-mastery
+  motif_id: magical_weapon_mastery
+  label: magical weapon mastery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical weapon conferring mastery fits the power-object complex of
+    objects that grant sacred or heroic ability.
+  cautions: If the passage emphasizes combat ordeal rather than the weapon as a power
+    object, sacred_combat or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - magic weapon mastery
+  - supernatural weapon skill
+  - heroic mastery of a magical weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magically-bound-captive-released-from-weapon-spell
+  motif_id: magically_bound_captive_released_from_weapon_spell
+  label: magically bound captive released from weapon spell
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines magical binding, captivity, release, and weapon-spell
+    mechanics; the dominant motif is unclear without source context.
+  cautions: Could fit sacred_treasures if the weapon is a power object, divine_intervention
+    if release is divinely caused, or initiation/ordeal if captivity is a trial. May
+    be over-specific.
+  suggested_aliases:
+  - weapon spell releases captive
+  - magical captivity broken by weapon
+  - binding spell undone by weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maimed-hero-appointed-as-supernatural-gate-guardian
+  motif_id: maimed_hero_appointed_as_supernatural_gate_guardian
+  label: maimed hero appointed as supernatural gate guardian
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: The key function is appointment as a supernatural guardian of a gate
+    or boundary between states or realms.
+  cautions: Preserve maiming and heroic status as local evidence; if the maiming is
+    the main focus, heroic combat or death/transformation may be relevant secondarily.
+  suggested_aliases:
+  - supernatural gate guardian
+  - maimed guardian hero
+  - hero becomes threshold guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maimed-survival-from-combat-with-the-hero
+  motif_id: maimed_survival_from_combat_with_the_hero
+  label: maimed survival from combat with the hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a combat outcome where an opponent or figure survives a
+    heroic encounter in maimed form.
+  cautions: Likely too episode-specific for canonical promotion. If maiming proves
+    status transformation rather than battle result, initiation or death_and_transformation
+    may be relevant.
+  suggested_aliases:
+  - maimed survivor of heroic combat
+  - survival after combat with hero
+  - combat maiming by hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.malicious-rival-escalates-the-hero-s-trials
+  motif_id: malicious_rival_escalates_the_hero_s_trials
+  label: Malicious rival escalates the hero's trials
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rival intensifying the hero's trials functions as escalation within
+    a departure-trial-transformation heroic arc.
+  cautions: If the rival is primarily a deceiver or boundary-crosser, trickster may
+    be relevant; if the focus is moral punishment, divine_judgment may apply.
+  suggested_aliases:
+  - rival escalates hero trials
+  - malicious rival imposes ordeals
+  - hostile rival intensifies quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.man-eating-woman-with-weaponized-tail
+  motif_id: man_eating_woman_with_weaponized_tail
+  label: man-eating woman with weaponized tail
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a dangerous hybrid, monster, cannibal figure,
+    or culturally specific being, but no current group cleanly captures it.
+  cautions: Culturally sensitive and highly specific. Could relate to threshold_guardian,
+    shapeshifter, perilous lure, or a future monster/cannibal antagonist group depending
+    on evidence.
+  suggested_aliases:
+  - cannibal woman with weaponized tail
+  - man-eating tailed woman
+  - dangerous female monster with tail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-coloured-heroic-form
+  motif_id: many_coloured_heroic_form
+  label: many-coloured heroic form
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hero's altered many-coloured form suggests visible bodily transformation
+    or extraordinary manifestation.
+  cautions: If this is a stock description of battle-frenzy or heroic aura rather
+    than transformation, divine_warrior or sacred_combat may be better; source context
+    needed.
+  suggested_aliases:
+  - multicoloured heroic form
+  - many-colored hero form
+  - chromatic heroic transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-companions-sharing-one-weapon
+  motif_id: many_companions_sharing_one_weapon
+  label: many companions sharing one weapon
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mark scarcity, fellowship, a special weapon, or episode-specific
+    battle logistics; motif function is unclear.
+  cautions: If the weapon is supernatural or identity-bearing, sacred_treasures may
+    fit. If the emphasis is war-band solidarity, no existing group captures it well.
+  suggested_aliases:
+  - companions share a single weapon
+  - shared weapon among companions
+  - one weapon used by many companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-warriors-fall-while-the-focal-warrior-remains-unharmed
+  motif_id: many_warriors_fall_while_the_focal_warrior_remains_unharmed
+  label: Many warriors fall while the focal warrior remains unharmed
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: medium
+  rationale: A focal warrior remaining unharmed amid mass casualties suggests extraordinary
+    invulnerability or weapon-resistance in battle.
+  cautions: Only map here if the passage implies protection, invulnerability, or exceptional
+    immunity; otherwise it may be a heroic-combat exaggeration under divine_warrior
+    or sacred_combat.
+  suggested_aliases:
+  - unharmed warrior amid fallen warriors
+  - warrior remains unharmed in battle
+  - mass casualties around invulnerable warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-and-natural-sound-catalogue-as-heroic-music
+  motif_id: martial_and_natural_sound_catalogue_as_heroic_music
+  label: Martial and natural sound catalogue as heroic music
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on sound organized as heroic music, fitting the broader
+    sound-power/music complex.
+  cautions: If the catalogue is merely poetic description rather than music with supernatural
+    or narrative force, it may be a textual or stylistic artifact rather than a motif.
+  suggested_aliases:
+  - heroic music of martial and natural sounds
+  - battle and nature sounds as music
+  - sound catalogue as heroic music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict-bucket labels are single-occurrence and episode-specific; preserve
+  details as evidence notes unless recurrence supports promotion.
+- For combat labels, distinguish sacred_combat or divine_warrior scenes from power-object,
+  invulnerability, threshold-guardian, and sound-power functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous combat
+    and culturally specific monster labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1106
+  input_sha256: 6accba435e4cc6193d116793405d399011b95c99086a4fcade8a38c6bd82c9a1
+

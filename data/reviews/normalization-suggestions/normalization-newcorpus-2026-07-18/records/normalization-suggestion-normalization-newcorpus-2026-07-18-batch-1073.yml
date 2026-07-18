@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1073
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-recovers-mount-and-carries-off-enemy-herd
+  motif_id: hero_recovers_mount_and_carries_off_enemy_herd
+  label: Hero recovers mount and carries off enemy herd
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recovering a mount and seizing an enemy herd fits heroic raiding, cattle/livestock
+    recovery, and combat-spoil patterns already grouped under sacred_combat.
+  cautions: Single occurrence; if the episode is merely a travel or property-recovery
+    detail without martial or ritual significance, it may be over-specific.
+  suggested_aliases:
+  - heroic livestock recovery
+  - enemy herd carried off
+  - mount recovery and cattle raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-reduced-from-golden-chambers-to-ragged-confinement
+  motif_id: hero_reduced_from_golden_chambers_to_ragged_confinement
+  label: Hero reduced from golden chambers to ragged confinement
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe heroic humiliation, imprisonment, reversal of
+    fortune, initiation ordeal, or pride/downfall depending on passage context.
+  cautions: Highly contextual and image-specific; do not map to pride_and_downfall
+    unless moral overreach is explicit, or to initiation unless confinement transforms
+    status or knowledge.
+  suggested_aliases:
+  - heroic humiliation in confinement
+  - fall from splendor to captivity
+  - royal-to-ragged reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-refuses-material-compensation-to-preserve-communal-honour
+  motif_id: hero_refuses_material_compensation_to_preserve_communal_honour
+  label: Hero refuses material compensation to preserve communal honour
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal of compensation to defend communal honor concerns social obligation,
+    honor law, and the moral order of the community.
+  cautions: Could also relate to sacred_combat if the refusal triggers battle, or
+    covenant/sacred_exchange if compensation is framed as a binding settlement.
+  suggested_aliases:
+  - honour over compensation
+  - refusal of blood-price or material settlement
+  - communal honour preserved over wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-refuses-retreat-despite-superior-threat
+  motif_id: hero_refuses_retreat_despite_superior_threat
+  label: hero refuses retreat despite superior threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Standing firm against a greater threat is a heroic-warrior conduct pattern,
+    close to warrior duty under crisis.
+  cautions: May be a generic battle-detail rather than a mythic motif unless tied
+    to honor, fate, divine mission, or exemplary heroic identity.
+  suggested_aliases:
+  - heroic refusal to retreat
+  - warrior stands firm against superior foe
+  - refusal of flight in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-releases-companions-by-killing-enchantment-makers
+  motif_id: hero_releases_companions_by_killing_enchantment_makers
+  label: Hero releases companions by killing enchantment-makers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The hero overcomes liminal enchantment figures whose power imprisons
+    or restrains companions, matching guardian/obstacle defeat at a perilous threshold.
+  cautions: Could also fit sacred_combat if the emphasis is battle, or divine_intervention/otherworld
+    if the enchantment-makers are supernatural agents in an enchanted realm.
+  suggested_aliases:
+  - companions freed from enchantment
+  - slaying enchanters to release captives
+  - hero breaks hostile enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-remains-after-warning-of-danger
+  motif_id: hero_remains_after_warning_of_danger
+  label: hero remains after warning of danger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: Choosing to remain after warning can function as entry into an ordeal
+    or test of resolve.
+  cautions: Low confidence because the label is generic; if no transformation or threshold
+    trial follows, treat as episode detail or map to divine_warrior only if martial
+    duty is explicit.
+  suggested_aliases:
+  - ignoring danger warning
+  - remaining despite warning
+  - chosen exposure to danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-rescues-stolen-cattle
+  motif_id: hero_rescues_stolen_cattle
+  label: Hero rescues stolen cattle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Stolen cattle recovery is a close variant of cattle raid and recovery
+    motifs already represented under sacred_combat.
+  cautions: If the cattle are primarily abundance-giving or divine animals, secondary
+    relation to divine_intervention or sacred_exchange may be useful.
+  suggested_aliases:
+  - cattle recovery expedition
+  - rescue of stolen herd
+  - heroic recovery of cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-roused-into-battle-frenzy-by-attendant-s-rebuke
+  motif_id: hero_roused_into_battle_frenzy_by_attendant_s_rebuke
+  label: hero roused into battle frenzy by attendant’s rebuke
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Battle frenzy and heroic arousal belong with warrior identity and sacred
+    combat behavior, especially when a rebuke activates the hero's martial role.
+  cautions: The attendant’s rebuke may be too episode-specific; preserve as evidence
+    detail unless similar arousal-by-rebuke labels recur.
+  suggested_aliases:
+  - battle frenzy aroused by rebuke
+  - warrior roused to fury
+  - heroic rage awakened by attendant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-anger-as-central-epic-action
+  motif_id: hero_s_anger_as_central_epic_action
+  label: hero's anger as central epic action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Heroic anger may drive combat, divine judgment, pride/downfall, or epic
+    plot structure, but the label reads partly as literary analysis.
+  cautions: May be a commentary or theme label rather than a reusable motif; map only
+    if passage evidence shows a recurring anger-driven action pattern.
+  suggested_aliases:
+  - heroic wrath drives action
+  - central epic anger
+  - wrath as narrative engine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-body-borne-on-shield
+  motif_id: hero_s_body_borne_on_shield
+  label: hero's body borne on shield
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Carrying a dead hero's body on a shield is a funerary or memorial honor
+    for a warrior after heroic death.
+  cautions: If the hero is wounded but not dead, divine_warrior or sacred_combat may
+    be a better primary placement; verify death and funerary context.
+  suggested_aliases:
+  - dead hero carried on shield
+  - warrior body borne on shield
+  - shield-borne heroic corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic-combat details; preserve
+  granular wording as evidence notes rather than promoting new taxonomy motifs without
+  recurrence.
+- For cattle/herd items, sacred_combat is preferred when the function is raiding,
+  recovery, or martial contest; do not infer broader cosmic combat without passage
+  evidence.
+- Heroic anger, danger refusal, and status reversal need source context because they
+  may be literary themes or episode descriptions rather than stable motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items flagged where labels are
+    generic or commentary-like.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1073
+  input_sha256: ecb60db71c59b8546b50cfacfc48c1ddc95e713546f40c83c218b700e2028a81
+

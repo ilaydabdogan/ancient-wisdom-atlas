@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0086
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lament-for-the-defending-champion-and-the-battle-dead
+  motif_id: lament_for_the_defending_champion_and_the_battle_dead
+  label: lament for the defending champion and the battle-dead
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly describes collective lament for a fallen champion
+    and battle dead, already covered by mourning for fallen heroes.
+  cautions: May also touch heroic funeral rites or sacred combat if the passage emphasizes
+    burial honors or battle duty rather than lament.
+  suggested_aliases:
+  - collective_lament_for_the_battle_dead
+  - lament_for_fallen_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-over-apparent-death-token
+  motif_id: lament_over_apparent_death_token
+  label: lament over apparent death-token
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive motif appears to be a token interpreted as proof of death
+    or identity, with lament as the emotional response.
+  cautions: If the passage centers grief rather than the token's evidentiary role,
+    lament_and_mourning may be the better primary group.
+  suggested_aliases:
+  - death_token_as_evidence
+  - lament_over_token_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-over-mortal-labor-bodily-decay-and-death-without-return
+  motif_id: lament_over_mortal_labor_bodily_decay_and_death_without_return
+  label: lament over mortal labor, bodily decay, and death without return
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a lament over mortality and decay, fitting the broad mourning
+    and tragic recognition group.
+  cautions: Highly theological and reflective; if it is wisdom discourse rather than
+    narrative lament, sacred_knowledge or exclude-as-commentary may need review.
+  suggested_aliases:
+  - lament_over_mortality
+  - lament_over_death_without_return
+  - tragic_recognition_of_mortal_decay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lamenting-maiden-wishes-nonbirth-or-infant-death
+  motif_id: lamenting_maiden_wishes_nonbirth_or_infant_death
+  label: lamenting maiden wishes nonbirth or infant death
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on an extreme lament expressing a wish for nonbirth
+    or early death.
+  cautions: Sensitive self-death and infant-death language; source context should
+    confirm this is a traditional lament formula, not an isolated passage artifact.
+  suggested_aliases:
+  - lament_wishing_nonbirth
+  - lament_wishing_infant_death
+  - maiden_lament_over_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lamenting-supplicant-seeks-divine-healing-and-rescue-from-death
+  motif_id: lamenting_supplicant_seeks_divine_healing_and_rescue_from_death
+  label: Lamenting supplicant seeks divine healing and rescue from death
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is appeal to divine power for healing and rescue
+    from death.
+  cautions: Could also index under lament_and_mourning for genre or sacred_exchange/covenant
+    if framed as petition within a sacred bond.
+  suggested_aliases:
+  - supplication_for_healing_from_death
+  - divine_rescue_from_death
+  - lament_prayer_for_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lamenting-survivor-after-beloved-s-death
+  motif_id: lamenting_survivor_after_beloved_s_death
+  label: Lamenting survivor after beloved’s death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A survivor mourning a beloved's death is a direct case of lament and
+    grief after loss.
+  cautions: If the beloved's death drives a quest or reunion beyond death, sacred_love
+    or death_and_transformation may be relevant secondary groups.
+  suggested_aliases:
+  - survivor_lament_for_dead_beloved
+  - mourning_after_beloved_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lamp-associated-with-grave-or-other-beings
+  motif_id: lamp_associated_with_grave_or_other_beings
+  label: Lamp associated with grave or other beings
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too ambiguous to tell whether the lamp is a grave good,
+    spirit object, ritual light, or passage detail.
+  cautions: May fit sacred_fire, sacred_treasures, ancestor_rites, or heroic_funeral_rites
+    depending on source evidence; avoid mapping from object mention alone.
+  suggested_aliases:
+  - grave_lamp
+  - mortuary_lamp
+  - lamp_for_dead_or_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-feast-before-expected-death
+  motif_id: last_feast_before_expected_death
+  label: last feast before expected death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A final feast before death may function as ritualized sharing, obligation,
+    or social repair at the threshold of death.
+  cautions: Could be heroic death preparation, sacrifice, hospitality, or merely an
+    episode-specific feast; source evidence is needed.
+  suggested_aliases:
+  - final_feast_before_death
+  - deathbed_feast
+  - farewell_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-viewing-and-kiss-of-the-corpse
+  motif_id: last_viewing_and_kiss_of_the_corpse
+  label: Last viewing and kiss of the corpse
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Viewing and kissing the corpse is a mourning gesture and final recognition
+    of the dead.
+  cautions: If embedded in formal burial sequence, heroic_funeral_rites may be a stronger
+    placement; if only a narrative detail, keep as evidence note.
+  suggested_aliases:
+  - corpse_kiss_farewell
+  - final_viewing_of_the_dead
+  - mourning_kiss_of_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lavish-gifts-carried-by-returning-messengers
+  motif_id: lavish_gifts_carried_by_returning_messengers
+  label: lavish gifts carried by returning messengers
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns gifts and messengers, but the death/afterlife function
+    is not clear from the wording.
+  cautions: May fit sacred_exchange, recognition tokens, hero_journey return, or be
+    a plot-specific diplomatic detail; review passage evidence before mapping.
+  suggested_aliases:
+  - messengers_return_with_gifts
+  - lavish_return_gifts
+  - gifts_carried_by_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence lament or mortuary-detail labels;
+  preserve granular wording as evidence notes unless recurrence supports finer subgroups.
+- Do not infer afterlife passage merely from death-bucket placement; distinguish mourning,
+  funeral gesture, token evidence, and divine healing petition.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements based on labels only; human review should check source
+    passages for ritual, narrative, or commentary function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0086
+  input_sha256: e04e8cbbee3c5cb5487671392d18d8f43f729370621869834c7f74b1fb83df9f
+

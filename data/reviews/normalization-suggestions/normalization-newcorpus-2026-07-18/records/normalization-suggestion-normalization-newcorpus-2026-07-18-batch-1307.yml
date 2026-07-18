@@ -1,0 +1,329 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1307
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.captured-adversary-compelled-to-become-guide
+  motif_id: captured_adversary_compelled_to_become_guide
+  label: captured adversary compelled to become guide
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A coerced enemy guide could be an ordeal, combat aftermath, trickster
+    reversal, or travel-detail motif depending on the passage.
+  cautions: Single occurrence and adversary/guide function is not well represented
+    by existing groups; avoid forcing into hero_journey without evidence of transformative
+    quest structure.
+  suggested_aliases:
+  - enemy_compelled_as_guide
+  - captured_enemy_guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-foreigner-as-agent-of-discovery-or-disclosure
+  motif_id: captured_foreigner_as_agent_of_discovery_or_disclosure
+  label: Captured foreigner as agent of discovery or disclosure
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, outsider status, and disclosure; the motif
+    function may be discovery, coercive interrogation, or ethnographic narrative detail.
+  cautions: Culturally sensitive outsider/captive framing needs source review; may
+    be too contextual for pattern queries if only a historical episode.
+  suggested_aliases:
+  - captive_outsider_discloses_information
+  - foreigner_as_disclosure_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-land-converted-to-public-and-pious-benefit
+  motif_id: captured_land_converted_to_public_and_pious_benefit
+  label: Captured land converted to public and pious benefit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The captured land is reorganized under pious public benefit, fitting
+    sacred law and social order after conquest.
+  cautions: If the passage emphasizes rulership legitimacy or war spoils more than
+    legal-pious redistribution, royal_legitimacy or sacred_combat may be secondary;
+    single occurrence may remain evidence detail.
+  suggested_aliases:
+  - conquered_land_for_pious_public_benefit
+  - captured_land_as_public_endowment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-spoils-become-a-burden-for-the-companion
+  motif_id: captured_spoils_become_a_burden_for_the_companion
+  label: Captured spoils become a burden for the companion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Captured spoils becoming burdens may signal heroic ordeal, moral reversal,
+    or an episode-specific plot complication.
+  cautions: Too specific from label alone; do not map to sacred_treasures unless the
+    spoils have sacred power, or to divine_judgment unless moral reckoning is explicit.
+  suggested_aliases:
+  - war_spoils_become_burden
+  - captured_booty_as_burden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    - divine_judgment
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.care-for-vulnerable-people-and-the-foreigner
+  motif_id: care_for_vulnerable_people_and_the_foreigner
+  label: Care for vulnerable people and the foreigner
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This closely matches existing sacred_law aliases about ethical protection
+    of vulnerable persons and foreigners.
+  cautions: Could also support covenant or social_care if framed as covenant obligation;
+    preserve the foreigner/vulnerable-person wording as an ethical-law detail.
+  suggested_aliases:
+  - ethical_protection_of_orphan_and_beggar
+  - care_for_the_foreigner
+  - social_care_for_vulnerable_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.careless-action-scatters-passions-vigorous-effort-is-required
+  motif_id: careless_action_scatters_passions_vigorous_effort_is_required
+  label: careless action scatters passions; vigorous effort is required
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an ethical-psychological teaching about discipline rather
+    than a clear narrative motif.
+  cautions: May belong under wisdom or mystical_quest if tied to contemplative practice,
+    but could be commentary or doctrinal summary; source evidence needed.
+  suggested_aliases:
+  - discipline_required_to_gather_passions
+  - carelessness_and_spiritual_effort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - mystical_quest
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carnality-opposed-to-prophetic-vocation
+  motif_id: carnality_opposed_to_prophetic_vocation
+  label: Carnality opposed to prophetic vocation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Opposition between bodily desire and prophetic calling fits renunciation
+    and disciplined sacred vocation within the interior quest complex.
+  cautions: If the passage centers on prophetic commissioning rather than ascetic
+    struggle, divine_intervention or prophecy_divination may be better secondary mappings.
+  suggested_aliases:
+  - desire_opposed_to_prophetic_calling
+  - carnal_desire_vs_sacred_vocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cascade-of-submissions-after-a-principal-tribe-submits
+  motif_id: cascade_of_submissions_after_a_principal_tribe_submits
+  label: Cascade of submissions after a principal tribe submits
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Submission of groups following a leading tribe reflects consolidation
+    of authority and recognized legitimate order.
+  cautions: May be a historical-political detail rather than a mythic motif; if the
+    passage emphasizes sacred covenantal allegiance, covenant may be secondary.
+  suggested_aliases:
+  - cascade_of_allegiance_after_leader_submits
+  - principal_tribe_submission_triggers_others
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cascading-blame-transfer-over-a-damaged-object
+  motif_id: cascading_blame_transfer_over_a_damaged_object
+  label: cascading blame transfer over a damaged object
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Chain and Blame Transfer
+  relationship: functional_variant
+  confidence: medium
+  rationale: The repeated transfer of blame through a chain is a recognizable tale
+    structure not cleanly covered by current sacred law, trickster, or judgment groups.
+  cautions: Single occurrence; verify recurrence before adding a group. If the damaged
+    object has sacred power, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - cumulative_blame_chain
+  - blame_passing_chain
+  - chain_of_responsibility_for_damage
+  suggested_new_group:
+    id: cumulative_blame_chain
+    label: Cumulative Chain and Blame Transfer
+    description: Cumulative tale structures where responsibility, blame, causation,
+      or obligation passes from one figure or object to another in a chain, often
+      explaining misfortune or producing comic or moral reversal.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover moral judgment, trickster
+      deception, and narrative power, but not the distinctive cumulative chain structure
+      of blame or causation.
+- suggestion_id: normalization.suggestion.cascading-domestic-mishap
+  motif_id: cascading_domestic_mishap
+  label: cascading domestic mishap
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Chain and Blame Transfer
+  relationship: functional_variant
+  confidence: medium
+  rationale: A domestic mishap that cascades through linked consequences fits a cumulative
+    chain structure similar to blame-transfer motifs.
+  cautions: Could be a comic folktale episode rather than sacred motif; confirm whether
+    it recurs across sources before taxonomy promotion.
+  suggested_aliases:
+  - chain_of_domestic_mishaps
+  - cumulative_domestic_accident
+  - cascading_household_misfortune
+  suggested_new_group:
+    id: cumulative_blame_chain
+    label: Cumulative Chain and Blame Transfer
+    description: Cumulative tale structures where responsibility, blame, causation,
+      or obligation passes from one figure or object to another in a chain, often
+      explaining misfortune or producing comic or moral reversal.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing groups do not capture cumulative
+      mishap-chain narrative form; storytelling_as_power is too broad and divine_judgment
+      would overstate moral reckoning.
+batch_notes:
+- Several items are single-occurrence historical or episode-specific labels; human
+  review should distinguish motif value from passage summary.
+- The two cascading/cumulative items may support a future narrative-form group, but
+  recurrence should be checked before taxonomy changes.
+- No transmission, borrowing, or common-origin claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passage evidence required
+    for low-confidence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1307
+  input_sha256: 9870896a24fc7ec06f5087d524937d7adbeb976bcbc9dd936cfa2b1b33a0eaab
+

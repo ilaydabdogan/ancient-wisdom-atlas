@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l4185-l4226
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: COEPUS HEEMETICUM III. (IV.) / THE SACRED SERMON / THE SACRED SERMON 77 /
+    COMMENTAEY; lines 4185-4226
+  start: '4185'
+  end: '4226'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A commentary on the Hermetic treatise called the “Sacred Sermon” says the
+    text is corrupt but may be complete; interprets the title as marking a doctrinal
+    foundation comparable in function to Orphic and Pythagorean sacred sermons; describes
+    the treatise as a simplified summary of the Shepherd cosmogony; notes a contrary
+    scholarly view that it may be prophetic preaching transferred to Hermes; and introduces
+    a “Trinity” section as a formal theological proem before cosmogenesis.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary describes the text as very corrupt and possibly not incomplete,
+    ending with a reference to the mighty deeds of men of old.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title “Sacred Sermon” is said to lead readers to expect something special
+    that could constitute a doctrinal basis.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage cites “Sacred Sermon” traditions of Orpheus and Pythagoras as
+    revered sacred deposits of two mystic schools and as apparent groundworks of those
+    systems.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The treatise is described as largely summarizing the general ideas of the
+    Shepherd cosmogony in a simpler formulation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage reports Reitzenstein’s suggestion that the treatise was originally
+    preaching by an unnamed prophet and was transferred to Hermes by the Redactor
+    of the Corpus, implying a doctrine foreign to the Shepherd.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentary says that, when details are compared, the treatise and the
+    Shepherd contain strong contradictions, while their general feel or atmosphere
+    is the same.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Under the heading “The Trinity,” the passage says that a formal theological
+    proem is prefixed to the cosmogenesis, and that its precise meaning is obscure
+    because of its mnemonic character.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Orpheus
+  description: Named as associated with a “Sacred Sermon” treated as a sacred deposit
+    of a mystic school.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Pythagoras
+  description: Named as associated with a “Sacred Sermon” treated as a sacred deposit
+    of a mystic school.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hermes
+  description: Named as the figure to whom, according to the reported scholarly suggestion,
+    prophetic preaching was transferred by the Redactor of the Corpus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Unnamed prophet
+  description: A hypothetical preacher proposed in the reported scholarly suggestion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Redactor of the Corpus
+  description: Named as the agent who, in the reported scholarly suggestion, transferred
+    the preaching to Hermes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Men of old
+  description: An ancient group referenced as performing mighty deeds near the possible
+    ending of the text.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: sacred-sermon precedent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Orpheus and Pythagoras are cited as prior figures whose “Sacred Sermons”
+    were revered as sacred deposits and doctrinal groundworks.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: attributed Hermetic authority
+  assigned_to:
+  - fig:3
+  basis: The reported suggestion says preaching was transferred to Hermes by the Redactor
+    of the Corpus.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: hypothetical source preacher
+  assigned_to:
+  - fig:4
+  basis: The reported suggestion describes the treatise as the preaching of some prophet
+    or other.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: redactional transmitter
+  assigned_to:
+  - fig:5
+  basis: The Redactor is said, in the reported suggestion, to have transferred the
+    preaching to Hermes.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: ancient deed-doers
+  assigned_to:
+  - fig:6
+  basis: The text may end with reference to the mighty deeds of the men of old.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Sacred Sermon
+  literal_form: A title or textual designation for a special doctrinal sermon.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sacred deposit
+  literal_form: The “most sacred deposits” of mystic schools associated with Orphic
+    and Pythagorean sacred sermons.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Trinity
+  literal_form: A formal theological proem prefixed to the cosmogenesis.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: cosmogenesis or Shepherd cosmogony
+  literal_form: The cosmogonic framework to which the treatise is compared and before
+    which the theological proem is placed.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Commentary on title and sacred-sermon precedents
+  summary: The commentator assesses the corrupt text and interprets the title “Sacred
+    Sermon” as indicating a special doctrinal foundation, comparing its function to
+    Orphic and Pythagorean sacred sermons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Relation to the Shepherd cosmogony
+  summary: The passage describes the treatise as a simpler summary of the Shepherd
+    cosmogony, reports an alternative attribution theory involving a prophet, Hermes,
+    and the Redactor, and notes both contradictions in detail and similarity in general
+    atmosphere.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: The Trinity before cosmogenesis
+  summary: The commentary introduces “The Trinity” as a formal theological proem before
+    cosmogenesis, while stating that its precise meaning is unclear.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred doctrinal discourse as wisdom deposit
+  taxonomy_refs:
+  - wisdom
+  basis: The title “Sacred Sermon” is interpreted as signaling a special doctrinal
+    foundation, and parallel Orphic and Pythagorean sacred sermons are described as
+    revered deposits and groundworks of mystic schools.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is commentary on textual form and doctrine, not a mythic narrative
+    episode.
+- id: motif:2
+  label: cosmogonic teaching in simplified summary
+  taxonomy_refs: []
+  basis: The treatise is said to summarize the general ideas of the Shepherd cosmogony
+    in a simpler formulation, and the Trinity section is placed before cosmogenesis.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The excerpt does not include the actual cosmogonic sequence or imagery.
+- id: motif:3
+  label: triadic theological proem before creation discourse
+  taxonomy_refs: []
+  basis: The “Trinity” section is described as a formal theological proem prefixed
+    to cosmogenesis.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The commentator states that the precise meaning of the proem escapes him;
+    the passage provides no detailed triadic content.
+- id: motif:4
+  label: prophetic teaching transferred to an authoritative sage
+  taxonomy_refs:
+  - wisdom
+  basis: The reported scholarly suggestion frames the treatise as preaching by an
+    unnamed prophet transferred to Hermes by the Corpus redactor.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is a reported scholarly hypothesis within the commentary, not a direct
+    assertion of the primary treatise.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the function of this Hermetic “Sacred Sermon” to Orphic
+    and Pythagorean sacred sermons as revered doctrinal groundworks within mystic
+    schools.
+  claim_level: same_function
+  target: Orphic and Pythagorean “Sacred Sermon” traditions
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is formal and functional; the passage does not provide
+    narrative parallels or claim historical contact.
+- id: claim:2
+  claim: The passage states that the treatise shares the general cosmogonic atmosphere
+    of the Shepherd while differing in many details.
+  claim_level: same_function
+  target: the Shepherd cosmogony
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The excerpt does not preserve the specific cosmological data being
+    compared; the same evidence also notes strong contradictions in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4185-4192
+  quote_or_summary: The commentary says the text seems very corrupt, may not be incomplete,
+    and may end with reference to the mighty deeds of the men of old.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4194-4198
+  quote_or_summary: "“The title ‘Sacred Sermon’ would lead us to expect something
+    of a special nature, something that would constitute a basis of doctrine.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:3
+  type: summary
+  locator: lines 4198-4206
+  quote_or_summary: The passage says Orpheus and Pythagoras each had a “Sacred Sermon,”
+    regarded as among the most sacred deposits of their mystic schools and as groundwork
+    for those systems.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4207-4211
+  quote_or_summary: "“it is to a large extent a summary of the general ideas of the
+    ‘Shepherd’ cosmogony adapted to the needs of a simpler formularization.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:5
+  type: summary
+  locator: lines 4212-4218
+  quote_or_summary: The commentary reports Reitzenstein’s view that the treatise is
+    preaching by some prophet transferred to Hermes by the Redactor of the Corpus,
+    suggesting a doctrine foreign to the Shepherd.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4219-4223
+  quote_or_summary: "“detail by detail, we shall find strong contradictions; but the
+    general ‘feel’ of both is the same, the general atmosphere is identical.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:7
+  type: summary
+  locator: lines 4224-4226
+  quote_or_summary: Under “The Trinity,” the commentary says a formal theological
+    proem is prefixed to cosmogenesis and that its precise meaning is obscure because
+    of its mnemonic nature.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary and contains few primary mythic images or actions.
+    Motifs are therefore extracted mainly from explicit doctrinal, cosmogonic, and
+    comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final “Hosted by Google” line appears to be a digitization artifact and was not used for motif extraction.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l4185-l4226
+  passage_sha256=1e16720426ceaedbea7171803d2fc4383f8c0c28b0e872288bc36f0c89929c2c
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0368
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.measured-holy-territory-around-a-sanctuary
+  motif_id: measured_holy_territory_around_a_sanctuary
+  label: measured holy territory around a sanctuary
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Measured holy territory marks a sanctuary as an ordered sacred center
+    and regulated boundary around divine presence.
+  cautions: Could also fit sacred_law if the passage emphasizes legal apportionment
+    or purity regulation more than sacred geography.
+  suggested_aliases:
+  - measured sanctuary territory
+  - demarcated holy territory
+  - sanctuary boundary measurement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measured-retaliation-followed-by-divine-assistance
+  motif_id: measured_retaliation_followed_by_divine_assistance
+  label: Measured retaliation followed by divine assistance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The label combines proportionate response with divine aid, suggesting
+    moral reckoning and sacred validation of justice.
+  cautions: Composite and contextual; may belong under sacred_law, sacred_combat,
+    or divine_intervention depending on passage evidence.
+  suggested_aliases:
+  - proportionate retaliation with divine aid
+  - measured vengeance and divine assistance
+  - retaliation under divine sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measured-sacred-precinct
+  motif_id: measured_sacred_precinct
+  label: Measured sacred precinct
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A measured precinct defines ordered sacred space around a sanctuary or
+    center of divine presence.
+  cautions: If measurement is only administrative or architectural detail, treat as
+    evidence detail rather than a broad motif.
+  suggested_aliases:
+  - demarcated sacred precinct
+  - measured holy precinct
+  - ritually bounded sanctuary space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measuring-sacred-space-and-excluding-an-outer-zone
+  motif_id: measuring_sacred_space_and_excluding_an_outer_zone
+  label: measuring sacred space and excluding an outer zone
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: 'The motif emphasizes boundary regulation: measuring holy space while
+    excluding an outer zone from sacred status.'
+  cautions: Could also index to axis_mundi/world_center when the sanctuary’s cosmic-center
+    function is explicit.
+  suggested_aliases:
+  - sacred space measurement with exclusion
+  - holy boundary demarcation
+  - excluded outer sanctuary zone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-divine-power-through-rod-and-prayer
+  motif_id: mediated_divine_power_through_rod_and_prayer
+  label: mediated divine power through rod and prayer
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human agent channels divine power through ritual action and a charged
+    object, fitting mediated intervention.
+  cautions: The rod may also be a sacred treasure if the object’s power is the focus;
+    prayer may point to sacred_exchange in ritual contexts.
+  suggested_aliases:
+  - divine power mediated by staff and prayer
+  - ritual mediation through rod
+  - human agent channels divine power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-divine-revelation-through-angelic-speech
+  motif_id: mediated_divine_revelation_through_angelic_speech
+  label: mediated divine revelation through angelic speech
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: Angelic speech is an established messenger function mediating divine
+    revelation to humans.
+  cautions: If the passage emphasizes the content or acquisition of sacred knowledge,
+    sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - angelic revelation
+  - revelation through angelic messenger
+  - angelic speech as divine mediation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-divine-speech-because-direct-encounter-is-feared
+  motif_id: mediated_divine_speech_because_direct_encounter_is_feared
+  label: Mediated divine speech because direct encounter is feared
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns on overwhelming divine presence requiring indirect speech
+    through a mediator.
+  cautions: May fit divine_intervention or covenant if the mediation establishes law
+    or sacred relationship rather than primarily manifest presence.
+  suggested_aliases:
+  - feared direct theophany mediated by speech
+  - mediated divine speech
+  - indirect revelation after fear of divine encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-encounter-with-dangerous-divine-presence
+  motif_id: mediated_encounter_with_dangerous_divine_presence
+  label: mediated encounter with dangerous divine presence
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: A dangerous divine presence encountered through mediation is a variant
+    of overwhelming theophany.
+  cautions: If ritual boundaries or purity protections are central, sacred_law may
+    be a secondary mapping.
+  suggested_aliases:
+  - dangerous theophany mediated
+  - mediated encounter with divine presence
+  - overwhelming divine presence requiring mediation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-human-agency-under-divine-power
+  motif_id: mediated_human_agency_under_divine_power
+  label: mediated human agency under divine power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Human action is presented as operating under or transmitting divine power,
+    a broad intervention pattern.
+  cautions: Very abstract label; may be theological commentary rather than a discrete
+    motif unless tied to a narrative act.
+  suggested_aliases:
+  - human agency as divine instrument
+  - human action under divine power
+  - mediated divine agency through humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediator-secures-divine-presence-for-the-people
+  motif_id: mediator_secures_divine_presence_for_the_people
+  label: mediator secures divine presence for the people
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mediator preserving divine presence for the community supports restoration
+    or maintenance of the sacred bond.
+  cautions: Could map to divine_intervention if the emphasis is direct divine action,
+    or to theophany if the focus is manifest presence itself.
+  suggested_aliases:
+  - mediator obtains divine presence
+  - intercessor secures divine presence
+  - communal divine presence through mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence biblical or Islamic mediation/precinct
+  labels; review source passages before promoting any new sanctuary-boundary or mediation
+  subgroup.
+- For sanctuary measurement labels, distinguish sacred geography from legal/purity
+  boundary regulation and from ordinary architectural description.
+- For mediated divine speech/power labels, distinguish theophany, divine_intervention,
+  covenant mediation, and sacred_knowledge based on passage function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0368
+  input_sha256: 9aff1a02db81ebb84fbcf6bb2a3e9d45f48334b5126e07f8aae0c2344b02a91a
+

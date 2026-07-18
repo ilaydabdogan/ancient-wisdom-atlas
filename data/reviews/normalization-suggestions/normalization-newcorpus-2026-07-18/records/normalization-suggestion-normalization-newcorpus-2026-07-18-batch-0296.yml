@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0296
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-guidance-before-combat
+  motif_id: divine_guidance_before_combat
+  label: divine guidance before combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine direction given before a human conflict,
+    matching guidance or intervention in human affairs.
+  cautions: May also relate to divine_warrior or sacred_combat if the deity actively
+    fights rather than only advises.
+  suggested_aliases:
+  - divine guidance before battle
+  - divine counsel before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guidance-by-luminous-and-cloudy-pillar
+  motif_id: divine_guidance_by_luminous_and_cloudy_pillar
+  label: Divine guidance by luminous and cloudy pillar
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: child
+  confidence: high
+  rationale: This is a close variant of the existing child cloud_fire_guidance under
+    sacred_fire.
+  cautions: Also belongs semantically to divine_intervention; preserve pillar/cloud
+    guidance detail as evidence.
+  suggested_aliases:
+  - cloud fire guidance
+  - guiding pillar of cloud and fire
+  - luminous cloudy pillar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guidance-of-a-migrating-people
+  motif_id: divine_guidance_of_a_migrating_people
+  label: Divine guidance of a migrating people
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred power directing a people's migration fits divine intervention
+    and guidance in communal affairs.
+  cautions: If the migration founds a polity or sacred place, secondary links to culture_hero,
+    royal_legitimacy, or cosmic_origin may be relevant.
+  suggested_aliases:
+  - divinely guided migration
+  - sacred guidance of migrating people
+  - god-led migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guide-and-warrior-before-the-people
+  motif_id: divine_guide_and_warrior_before_the_people
+  label: divine guide and warrior before the people
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The figure leads and protects the people through direct sacred agency,
+    fitting divine guidance.
+  cautions: Because the label includes warrior function, divine_warrior may be a secondary
+    or alternate placement if combat is central.
+  suggested_aliases:
+  - divine guide before the people
+  - divine warrior guide
+  - sacred leader before the people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-hair-color-as-ritual-iconographic-marker
+  motif_id: divine_hair_color_as_ritual_iconographic_marker
+  label: divine hair color as ritual iconographic marker
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'as ritual iconographic marker' reads like descriptive classification
+    rather than a narrative motif.
+  cautions: If source passages assign ritual power or identity to hair color, review
+    under sacred_treasures, sacred_law, or theophany rather than excluding the evidence
+    entirely.
+  suggested_aliases:
+  - divine hair color marker
+  - ritual iconographic hair color
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-hall-construction-with-dwarf-aid
+  motif_id: divine_hall_construction_with_dwarf_aid
+  label: divine hall construction with dwarf aid
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns construction of a divine hall through supernatural
+    or dwarf craft assistance, matching sacred craft.
+  cautions: If the hall functions primarily as a world center or royal seat, axis_mundi
+    or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - divinely aided hall construction
+  - dwarf-aided divine building
+  - supernatural craft builds divine hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-healer-and-rescuer-from-illness-tuat-and-fate
+  motif_id: divine_healer_and_rescuer_from_illness_tuat_and_fate
+  label: Divine healer and rescuer from illness, Tuat, and fate
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Divine rescue and healing fit divine_intervention, but the label combines
+    illness, underworld/Tuat, and fate into a composite motif.
+  cautions: 'May require multiple mappings: afterlife_passage for Tuat, death_by_fate
+    for fate, and divine_intervention for healing rescue. Source context is needed.'
+  suggested_aliases:
+  - divine healer rescues from illness and fate
+  - divine rescue from Tuat
+  - healing deity rescues the afflicted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-healer-defeats-biting-fiends
+  motif_id: divine_healer_defeats_biting_fiends
+  label: divine healer defeats biting fiends
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A healing deity defeating harmful beings is direct sacred intervention
+    to protect or cure.
+  cautions: If the emphasis is combat with demons, divine_warrior or sacred_combat
+    may be relevant; if ritual expulsion is central, sacrifice/ritual_expulsion may
+    fit better.
+  suggested_aliases:
+  - healing deity defeats fiends
+  - divine healer overcomes demons
+  - divine healing combat against biting spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-healer-invoked-after-lesser-measures
+  motif_id: divine_healer_invoked_after_lesser_measures
+  label: Divine healer invoked after lesser measures
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invocation of a healing deity after failed measures is ritual appeal
+    for direct divine intervention.
+  cautions: Could be an over-specific ritual sequence; if it only records healing-practice
+    order, keep as evidence detail rather than a query motif.
+  suggested_aliases:
+  - healing deity invoked as last resort
+  - divine healer invocation
+  - appeal to divine healer after failed remedies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-healing-after-wrath
+  motif_id: divine_healing_after_wrath
+  label: Divine healing after wrath
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing following divine wrath suggests punishment or judgment followed
+    by repair or restoration.
+  cautions: If the passage emphasizes merciful cure rather than moral reckoning, divine_intervention
+    may be the better primary group.
+  suggested_aliases:
+  - healing after divine anger
+  - divine wrath followed by healing
+  - restoration after divine punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involve healing deities, but the current taxonomy has no dedicated
+  healing group; most can be provisionally handled under divine_intervention unless
+  review shows a recurring healing-rite cluster.
+- Avoid treating divine guidance before or during combat as divine_warrior unless
+  the sacred figure actively fights or establishes cosmic order through battle.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-model
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for composite Egyptian
+    healing/Tuat/fate label and iconographic marker exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0296
+  input_sha256: 7a463e179eff815310c27f31c0375da61c5bd0d3e5b3257b2c39814a8833af5f
+

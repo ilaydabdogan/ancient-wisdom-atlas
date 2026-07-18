@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0600
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gnomic-saying-linking-land-to-sea
+  motif_id: gnomic_saying_linking_land_to_sea
+  label: gnomic saying linking land to sea
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A gnomic saying may be wisdom, sacred speech, social order, or a passage-specific
+    proverb depending on context.
+  cautions: Single occurrence; do not map to sea/water motifs unless the saying functions
+    as cosmology, boundary crossing, or sacred waters in the passage.
+  suggested_aliases:
+  - land-sea proverb
+  - gnomic land-sea saying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - curse_blessing_speech
+    - sacred_waters
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.graded-metal-kingdoms-sequence
+  motif_id: graded_metal_kingdoms_sequence
+  label: Graded metal kingdoms sequence
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A graded sequence of metal kingdoms closely parallels metallic-age or
+    ordered decline schemas already grouped under world ages.
+  cautions: If the metals mark spatial kingdoms in a quest rather than historical/cosmic
+    decline, hero_journey or sacred_treasures may be secondary instead.
+  suggested_aliases:
+  - metal kingdoms sequence
+  - graded metallic kingdoms
+  - metallic kingdom hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.greed-punished-by-treasure-reversal-and-bodily-marking
+  motif_id: greed_punished_by_treasure_reversal_and_bodily_marking
+  label: Greed punished by treasure reversal and bodily marking
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_judgment group includes greed punished by reversal;
+    bodily marking is a local punishment detail.
+  cautions: Preserve the treasure and bodily-marking specifics as evidence; if no
+    sacred or moral reckoning is present, it may be a folktale justice motif rather
+    than divine judgment.
+  suggested_aliases:
+  - greed punished by reversal
+  - treasure reversal punishment
+  - greedy person bodily marked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.greedy-host-s-feast-transformed-into-punishment
+  motif_id: greedy_host_s_feast_transformed_into_punishment
+  label: greedy host's feast transformed into punishment
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A greedy host receiving transformed feast-punishment fits moral reversal
+    and punishment for greed.
+  cautions: May also involve hospitality_test_stranger_guest if the host fails a guest
+    obligation; source context should determine primary placement.
+  suggested_aliases:
+  - greedy host punished
+  - feast becomes punishment
+  - hospitality greed reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-expressed-as-social-withdrawal-and-ominous-sleep
+  motif_id: grief_expressed_as_social_withdrawal_and_ominous_sleep
+  label: grief expressed as social withdrawal and ominous sleep
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on grief behavior, aligning with mourning and tragic
+    recognition motifs.
+  cautions: Ominous sleep may point to dream/vision, death foreshadowing, or fate
+    if the passage treats it as prophetic rather than mourning behavior.
+  suggested_aliases:
+  - mourning through withdrawal
+  - ominous sleep in grief
+  - social withdrawal as mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-resounding-through-the-city
+  motif_id: grief_resounding_through_the_city
+  label: Grief resounding through the city
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Public grief heard through a city is a communal lament variant, close
+    to existing city mourning labels.
+  cautions: Could be over-specific if it only describes one scene's soundscape; preserve
+    as evidence detail under communal mourning.
+  suggested_aliases:
+  - citywide grief
+  - communal lament through the city
+  - grief resounds in the city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grisly-proof-of-a-ruler-s-enacted-law
+  motif_id: grisly_proof_of_a_ruler_s_enacted_law
+  label: Grisly proof of a ruler's enacted law
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif focuses on law enacted and publicly verified through a severe
+    sign, fitting sacred/social law and order.
+  cautions: If the emphasis is royal authority rather than law, royal_legitimacy may
+    be better; if it is punishment for wrongdoing, divine_judgment may be secondary.
+  suggested_aliases:
+  - grisly proof of law
+  - ruler's law proven by punishment
+  - visible proof of enacted law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-slain-in-secret-provoking-revenge
+  motif_id: guardian_slain_in_secret_provoking_revenge
+  label: Guardian slain in secret, provoking revenge
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden killing that provokes vengeance fits the combat-vengeance complex
+    already represented in sacred_combat aliases and children.
+  cautions: If the slain guardian is primarily a boundary figure, threshold_guardian
+    may be relevant; if the stress is violated trust, betrayal_violated_trust may
+    be secondary.
+  suggested_aliases:
+  - secret slaying provokes revenge
+  - guardian killing vengeance
+  - avenging slain guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - betrayal_violated_trust
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarding-thresholds-and-dangerous-borders
+  motif_id: guarding_thresholds_and_dangerous_borders
+  label: Guarding thresholds and dangerous borders
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: alias
+  confidence: high
+  rationale: The label directly describes guarding liminal boundaries and dangerous
+    borders, the core threshold_guardian function.
+  cautions: If no person or being guards the border and the focus is the boundary
+    itself, consider initiation, descent, or sacred_law as secondary depending on
+    context.
+  suggested_aliases:
+  - guarded thresholds
+  - dangerous border guardianship
+  - threshold guarding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hair-alteration-and-disordered-appearance-as-mourning-signs
+  motif_id: hair_alteration_and_disordered_appearance_as_mourning_signs
+  label: hair alteration and disordered appearance as mourning signs
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: Hair alteration and disordered appearance are embodied signs of mourning
+    and grief ritual.
+  cautions: May be a culturally specific mortuary custom; preserve details and avoid
+    universalizing the practice beyond the passage evidence.
+  suggested_aliases:
+  - hair alteration as mourning
+  - disordered appearance in mourning
+  - mourning hair signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and scene-specific; suggested
+  placements are broad query aids, not claims of cross-cultural equivalence.
+- For grief and mourning labels, preserve local embodied or civic expression details
+  as evidence notes even when mapped to lament_and_mourning.
+- For greed-punishment labels, confirm whether punishment is explicitly sacred/divine
+  or simply folktale moral reversal before final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context for
+    single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0600
+  input_sha256: 5da8ab7cef1c4a2f37e3abe753c4193ea27fc8e5c1cc9f6f5bc67821b4e440c8
+

@@ -1,0 +1,196 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l9236-l9252
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: XII.     RASHN    VAST. / RASHN    YA5'T.  1 69 / RASHN    VAST.  I7I / VIII.;
+    lines 9236-9252
+  start: '9236'
+  end: '9252'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two adjacent Rashnu Yasht stanzas address holy Rashnu. The speaker invokes
+    and blesses Rashnu, called strong, whether he is in the bright Karshvare or in
+    the sea Vouru-Kasha, and invokes his friendship toward a prepared var wherever
+    he is in the world.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage directly addresses Rashnu as holy and calls him strong.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The speaker says Rashnu is invoked and blessed if he is in the bright Karshvare
+    named in the passage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker invokes Rashnu's friendship toward a prepared var in whatever
+    part of the world Rashnu is.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The speaker says Rashnu is invoked and blessed if he is in the sea Vouru-Kasha.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Rashnu
+  description: A figure addressed as holy and strong, invoked and blessed by the speaker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed speaker
+  description: The first-person speaker who invokes, blesses, and asks for Rashnu's
+    friendship toward the prepared var.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: invoked holy figure
+  assigned_to:
+  - fig:1
+  basis: Rashnu is addressed as holy, called strong, and is the object of invocation
+    and blessing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ritual invoker
+  assigned_to:
+  - fig:2
+  basis: The speaker uses first-person language to invoke Rashnu and his friendship
+    toward the prepared var.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: bright Karshvare
+  literal_form: Karshvare, the bright ^6^aniratha
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea Vouru-Kasha
+  literal_form: the sea Vouru-Kasha
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: prepared var
+  literal_form: this var prepared
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Invocation of Rashnu in the bright Karshvare
+  summary: The speaker addresses holy Rashnu and invokes and blesses him if he is
+    in the bright Karshvare, while invoking his friendship toward the prepared var
+    wherever he may be.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invocation of Rashnu in the sea Vouru-Kasha
+  summary: The speaker addresses holy Rashnu and invokes and blesses him if he is
+    in the sea Vouru-Kasha, while again invoking his friendship toward the prepared
+    var wherever he may be.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: invocation of a deity across named world locations
+  taxonomy_refs: []
+  basis: Both stanzas invoke and bless Rashnu while naming different possible locations
+    where he may be, and both add the formula 'in whatever part of the world thou
+    art.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage supplies only two locations within this excerpt and does not
+    explain the wider cosmological system.
+- id: motif:2
+  label: seeking divine friendship toward a prepared ritual object or place
+  taxonomy_refs: []
+  basis: The first-person speaker repeats that he invokes Rashnu's friendship toward
+    'this var prepared.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not define 'var' or specify the nature of the preparation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9236-9244; VIII.15
+  quote_or_summary: '"Whether thou, O holy Rashnu! art in this Karshvare, the bright
+    ^6^aniratha ... we invoke, we bless Rashnu, the strong. I invoke his friendship
+    towards this var prepared .... in whatever part of the world thou art."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9245-9252; IX.16
+  quote_or_summary: '"Whether thou, O holy Rashnu! art in the sea Vouru-Kasha ...
+    we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var
+    prepared .... in whatever part of the world thou art."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif interpretation is limited
+    because the excerpt is formulaic and does not define the named places or the prepared
+    var.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text, tradition, or listed motif family.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l9236-l9252
+  passage_sha256=7514e1e1ee03df6280505bb2865bf0aa66a8a965e9148b72fc8042fbc25092e2
+

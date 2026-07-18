@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l10967-l10990
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: WITOTO CHIEFS AND MEDICINE-MEN / NAMES OF BORO CHIEFS AND MEDICINE-MEN /
+    WITOTO / APPENDIX VIII; lines 10967-10990
+  start: '10967'
+  end: '10990'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: He comes from the clouds
+  summary: A chant-like passage says Oikommo is with the tribe, comes from the clouds
+    because his own land lacks bread and has few women, and is identified through
+    several names, including Whiffena Ri-e-i, Itoma, and the privy name Ei-fo-ke.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Oikommo is within the hofo and is with the speaker's
+    tribe.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks where Oikommo comes from and states that he comes from the
+    clouds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage asks why he comes so far.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says his land has no bread and few women.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage calls him a stranger when asking his name.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage gives his name as Whiffena Ri-e-i or Whiff-en-a, says Itoma is
+    also his name, and gives Ei-fo-ke as his privy name.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage ends by asking why he is called Ei-fo-ke.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Oikommo / stranger named Whiffena Ri-e-i
+  description: A figure named Oikommo is said to be with the tribe, to come from the
+    clouds, to come from a land with no bread and few women, and to bear the names
+    Whiffena Ri-e-i, Itoma, and the privy name Ei-fo-ke.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: stranger or visitor from afar
+  assigned_to:
+  - fig:1
+  basis: The passage calls the figure a stranger, asks why he comes so far, and says
+    he comes from the clouds.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: bearer of multiple names including a privy name
+  assigned_to:
+  - fig:1
+  basis: The passage lists Whiffena Ri-e-i, Whiff-en-a, Itoma, and Ei-fo-ke as names
+    associated with the figure, with Ei-fo-ke specified as a privy name.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: cloud origin
+  literal_form: clouds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Oikommo's presence and origin
+  summary: Oikommo is described as being within the hofo and with the tribe; the passage
+    asks where he comes from and answers that he comes from the clouds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Reason for arrival and naming
+  summary: The passage says the figure's land lacks bread and has few women, then
+    asks the stranger's name and gives several names, including a privy name.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: visitor from the clouds
+  taxonomy_refs: []
+  basis: The figure is said to come from the clouds and from far away.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is brief and chant-like; it does not narrate a full descent,
+    journey, or cosmological explanation.
+- id: motif:2
+  label: multiple names including a private name
+  taxonomy_refs: []
+  basis: The passage presents several names for the figure and marks Ei-fo-ke as his
+    privy name.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the social or ritual function of the privy
+    name.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10967-10970
+  quote_or_summary: '"Oikommo is within the hofo" and "With our tribe there is Oikommo."'
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain Project Gutenberg source.
+- id: ev:2
+  type: quote
+  locator: 10971-10976
+  quote_or_summary: The passage asks where Oikommo comes from and says, "He comes
+    from the clouds," then asks why he comes so far.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain Project Gutenberg source.
+- id: ev:3
+  type: quote
+  locator: 10977-10980
+  quote_or_summary: '"In his land are no bread and few women"; the paired line repeats
+    that his land has no bread.'
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain Project Gutenberg source.
+- id: ev:4
+  type: summary
+  locator: 10981-10988
+  quote_or_summary: The passage asks the stranger's name and gives Whiffena Ri-e-i
+    or Whiff-en-a; it also says Itoma is partly or also his name.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain Project Gutenberg source.
+- id: ev:5
+  type: summary
+  locator: 10989-10990
+  quote_or_summary: The passage gives Ei-fo-ke as his privy name and asks why he is
+    called Ei-fo-ke.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain Project Gutenberg source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but several terms and footnotes are
+    not explained in the supplied passage. No comparison claims are made because the
+    passage does not itself provide a comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote contents for hofo, Ri-e-i, Itoma, Ei-fo-ke, and related terms were not supplied; these terms are left uninterpreted.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l10967-l10990
+  passage_sha256=8c0cc7d436b8b611bb4a9cce22761335ebef71b02b1f5a996b6ec27c2d0815e2
+

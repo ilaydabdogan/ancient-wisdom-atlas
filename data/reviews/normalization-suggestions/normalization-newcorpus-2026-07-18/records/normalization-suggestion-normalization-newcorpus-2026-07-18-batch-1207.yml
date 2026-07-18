@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1207
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.desolation-transformed-into-garden-like-fertility
+  motif_id: desolation_transformed_into_garden_like_fertility
+  label: Desolation transformed into garden-like fertility
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Barren or desolate space renewed into fertility fits transformation and
+    renewal after ruin.
+  cautions: Could fit sacred_time or divine_intervention if the passage emphasizes
+    seasonal restoration or direct divine blessing; single occurrence.
+  suggested_aliases:
+  - wilderness_made_fertile
+  - desolation_to_garden
+  - barren_land_restored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-intrigue-within-the-royal-household
+  motif_id: destructive_intrigue_within_the_royal_household
+  label: destructive intrigue within the royal household
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intrigue inside a royal household affects succession, legitimacy, and
+    the stability of sacred kingship.
+  cautions: May be a plot-specific court detail rather than a durable motif; if the
+    focus is violated trust, betrayal_violated_trust may be a secondary mapping.
+  suggested_aliases:
+  - royal_household_intrigue
+  - court_intrigue_threatens_succession
+  - palace_intrigue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotion-in-consecrated-houses-despite-commerce
+  motif_id: devotion_in_consecrated_houses_despite_commerce
+  label: Devotion in consecrated houses despite commerce
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern worship in sacred space, commerce as distraction,
+    or social-ethical conduct.
+  cautions: No current group cleanly captures sacred-house devotion versus commerce;
+    may be passage commentary or a highly contextual ethical note.
+  suggested_aliases:
+  - devotion_in_sacred_houses
+  - commerce_not_distracting_from_worship
+  - worship_despite_trade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotional-marks-and-plant-growth-likeness-of-the-faithful
+  motif_id: devotional_marks_and_plant_growth_likeness_of_the_faithful
+  label: Devotional marks and plant-growth likeness of the faithful
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines bodily devotional signs with plant-growth simile and
+    may be exegetical rather than motif-level.
+  cautions: Could relate to sacred_law, sacred_time, or sacred_tree_axis depending
+    on evidence, but the wording is too composite for confident placement.
+  suggested_aliases:
+  - devotional_marks_of_the_faithful
+  - faithful_compared_to_plant_growth
+  - bodily_marks_of_devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devouring-giant-and-escape-through-body-openings
+  motif_id: devouring_giant_and_escape_through_body_openings
+  label: Devouring giant and escape through body openings
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Devouring Monster and Belly Escape
+  relationship: functional_variant
+  confidence: medium
+  rationale: Being swallowed or devoured and escaping from the monster's body is a
+    distinct ordeal and release pattern not covered cleanly by existing groups.
+  cautions: May overlap with descent, initiation, trickster escape, or monster combat;
+    review whether more examples recur before promoting.
+  suggested_aliases:
+  - swallowed_by_monster_and_escape
+  - belly_escape
+  - escape_from_devouring_giant
+  suggested_new_group:
+    id: devouring_monster_belly_escape
+    label: Devouring Monster and Belly Escape
+    description: A hero or victim is swallowed, devoured, or trapped inside a giant,
+      monster, or predator and escapes through the body, often marking ordeal, rebirth,
+      or victory over engulfing danger.
+    parent_group_ids:
+    - initiation
+    - death_and_transformation
+    related_group_ids:
+    - descent
+    - divine_warrior
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover descent, combat, and
+      transformation, but not the recurring narrative structure of engulfment inside
+      a devouring body followed by escape.
+- suggestion_id: normalization.suggestion.devouring-of-the-condemned-heart
+  motif_id: devouring_of_the_condemned_heart
+  label: devouring of the condemned heart
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: high
+  rationale: A condemned heart being devoured is a postmortem judgment consequence
+    after moral evaluation.
+  cautions: Also belongs near afterlife_passage in Egyptian contexts; preserve heart-devouring
+    specificity as evidence detail.
+  suggested_aliases:
+  - heart_devoured_after_judgment
+  - condemned_heart_devoured
+  - postmortem_heart_devouring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devouring-predator-threatens-household-members
+  motif_id: devouring_predator_threatens_household_members
+  label: devouring predator threatens household members
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The current trickster group already contains predator-deception and predator-threat
+    fable variants.
+  cautions: If the episode lacks deception or reversal, this may be only a threat
+    scene and too generic for motif querying.
+  suggested_aliases:
+  - predator_threatens_household
+  - devouring_predator_at_home
+  - household_threatened_by_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-crisis-signs-in-drink-vessels
+  motif_id: distant_crisis_signs_in_drink_vessels
+  label: distant crisis signs in drink vessels
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A vessel showing signs of a distant crisis functions as omen-like perception
+    of hidden events.
+  cautions: Could fit sacred_vessel if the vessel itself is the power object; if this
+    is only a narrative prop, keep as evidence detail.
+  suggested_aliases:
+  - distant_omen_in_vessel
+  - crisis_reflected_in_drink_vessel
+  - vessel_as_remote_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-tutelary-deity-embodied-in-household-objects
+  motif_id: domestic_tutelary_deity_embodied_in_household_objects
+  label: Domestic tutelary deity embodied in household objects
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The taxonomy already places tutelary spirits and protective divine agency
+    under divine_intervention.
+  cautions: Household-object embodiment may also involve sacred_treasures or domestic
+    cult; review whether the object or the guardian role is primary.
+  suggested_aliases:
+  - household_tutelary_deity
+  - domestic_guardian_in_object
+  - tutelary_deity_in_household_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dropped-recognition-tokens-mark-an-abduction-path
+  motif_id: dropped_recognition_tokens_mark_an_abduction_path
+  label: dropped recognition tokens mark an abduction path
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: Dropped tokens communicate identity and location after abduction, fitting
+    the recognition-token complex.
+  cautions: Also relates to stolen_beloved or hero_journey if the abduction launches
+    a quest; preserve path-marking function as granular evidence.
+  suggested_aliases:
+  - recognition_tokens_mark_path
+  - tokens_dropped_during_abduction
+  - abduction_path_marked_by_tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several one-occurrence labels are composite or context-heavy and should be checked
+  against passage evidence before indexing broadly.
+- Consider whether recurrent swallowed-by-monster escape labels justify the proposed
+  devouring_monster_belly_escape group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1207
+  input_sha256: 6ba157e3de734c4a0d72c43384f076d9bb20aeb4480ff031de74dee5c09c5fbe
+

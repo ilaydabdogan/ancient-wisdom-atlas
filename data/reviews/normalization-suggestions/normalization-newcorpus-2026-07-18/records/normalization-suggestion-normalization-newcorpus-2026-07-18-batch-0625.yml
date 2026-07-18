@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0625
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ordered-heavenly-beings
+  motif_id: ordered_heavenly_beings
+  label: ordered heavenly beings
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to angelic/celestial hierarchy, cosmic order, or
+    passage description rather than a distinct motif.
+  cautions: Single occurrence and too little function is supplied; avoid mapping merely
+    because beings are heavenly or ordered.
+  suggested_aliases:
+  - celestial hierarchy
+  - angelic hierarchy
+  - ordered celestial beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - supreme_ruler
+    - divine_intervention
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-heavenly-lights-create-calendrical-time
+  motif_id: ordered_heavenly_lights_create_calendrical_time
+  label: Ordered heavenly lights create calendrical time
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on celestial lights organizing calendrical time, fitting
+    sacred ordering of time.
+  cautions: Could secondarily relate to cosmic_origin if the passage emphasizes first
+    creation of heavenly bodies rather than calendar function.
+  suggested_aliases:
+  - heavenly lights establish calendar
+  - celestial ordering of time
+  - calendar created by heavenly lights
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-hierarchy-as-interdependent-body
+  motif_id: ordered_hierarchy_as_interdependent_body
+  label: Ordered hierarchy as interdependent body
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body metaphor expresses sacred/social order through differentiated
+    but mutually dependent roles.
+  cautions: May be doctrinal teaching or textual analogy rather than a narrative motif;
+    review source context before broad indexing.
+  suggested_aliases:
+  - social body metaphor
+  - interdependent body hierarchy
+  - body as ordered community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-multilayer-heaven-defended-by-lights
+  motif_id: ordered_multilayer_heaven_defended_by_lights
+  label: Ordered multilayer heaven defended by lights
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A stratified heaven belongs with heavenly ascent/cosmography, especially
+    where layers and barriers structure access upward.
+  cautions: If the passage emphasizes defensive lights as divine protection or judgment
+    rather than journey/cosmography, divine_intervention or divine_judgment may be
+    secondary.
+  suggested_aliases:
+  - layered heaven guarded by lights
+  - multilayer heaven
+  - heavenly spheres defended by lights
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-placement-of-hunting-gear-on-kayak
+  motif_id: ordered_placement_of_hunting_gear_on_kayak
+  label: ordered placement of hunting gear on kayak
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritualized order, practical craft knowledge, or
+    ethnographic detail rather than a reusable motif.
+  cautions: Culturally specific material practice; source evidence is needed before
+    mapping to sacred_law, sacred_craft, or excluding as contextual detail.
+  suggested_aliases:
+  - ritual order of hunting gear
+  - kayak hunting gear arrangement
+  - ordered hunting equipment placement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_craft
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-time-as-martial-command
+  motif_id: ordered_time_as_martial_command
+  label: ordered time as martial command
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif frames time as ritually or cosmically ordered, with martial
+    command as the local metaphor.
+  cautions: If the passage primarily concerns warfare, rulership, or divine command,
+    sacred_combat or royal_legitimacy may be relevant secondary placements.
+  suggested_aliases:
+  - time ordered by command
+  - martial ordering of time
+  - commanded sacred time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordering-of-time-through-calendar-arrangement
+  motif_id: ordering_of_time_through_calendar_arrangement
+  label: Ordering of time through calendar arrangement
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: alias
+  confidence: high
+  rationale: Calendar arrangement is a direct example of sacred or ritual ordering
+    of time.
+  cautions: Preserve Maya calendrical specificity in evidence notes; do not collapse
+    into generic seasonal cycle unless recurrence or ritual cycle is explicit.
+  suggested_aliases:
+  - calendar arrangement orders time
+  - calendrical ordering of time
+  - ordered sacred calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-animal-avoidance-and-markings
+  motif_id: origin_of_animal_avoidance_and_markings
+  label: origin of animal avoidance and markings
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may combine animal-trait etiology with taboo or avoidance behavior,
+    and no current group cleanly captures both.
+  cautions: Review culturally specific animal avoidance carefully; could fit sacred_law
+    if avoidance is taboo, or an etiological animal-traits group if the focus is markings.
+  suggested_aliases:
+  - animal avoidance etiology
+  - origin of animal markings
+  - animal taboo and markings origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - shapeshifter
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-animal-traits-through-punishment-and-reward
+  motif_id: origin_of_animal_traits_through_punishment_and_reward
+  label: origin of animal traits through punishment and reward
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal traits arise as consequences of punishment and reward, making
+    moral reckoning the narrative function.
+  cautions: If the focus is species transformation or animal-body origin rather than
+    moral judgment, shapeshifter may be a better secondary group.
+  suggested_aliases:
+  - animal traits as reward and punishment
+  - etiology of animal traits by judgment
+  - punitive origin of animal traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-rivers-after-primordial-water-scarcity
+  motif_id: origin_of_rivers_after_primordial_water_scarcity
+  label: Origin of rivers after primordial water scarcity
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explains the origin of rivers in primordial conditions, fitting
+    creation and landscape etiology.
+  cautions: Could also relate to sacred_waters if the passage emphasizes water as
+    sacred medium rather than origin of a landscape feature.
+  suggested_aliases:
+  - river origin after water scarcity
+  - etiology of rivers
+  - primordial scarcity and river creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were sorted into a power/order review bucket but function
+  more clearly as sacred time, cosmic origin, or cosmological order motifs.
+- Single-occurrence labels with culturally specific ritual or material practice should
+  be checked against source passages before promotion or exclusion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous cosmological
+    hierarchy and culturally specific practice labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0625
+  input_sha256: 4b90cd27194d6d0d47b69307f0ce8f717a18ee971c462e9135bbed32229e69ad
+

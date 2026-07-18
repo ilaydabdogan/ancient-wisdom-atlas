@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1101
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.last-gift-before-combat
+  motif_id: last_gift_before_combat
+  label: Last gift before combat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A final gift before battle may mark loyalty, obligation, or reciprocal
+    bond under combat pressure.
+  cautions: Single occurrence; could be heroic-combat scene detail, farewell token,
+    succession gesture, or passage artifact depending on evidence.
+  suggested_aliases:
+  - farewell_gift_before_battle
+  - parting_gift_before_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-stand-by-retainers-using-improvised-weapons
+  motif_id: last_stand_by_retainers_using_improvised_weapons
+  label: last stand by retainers using improvised weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is a desperate martial last stand by retainers, fitting
+    the heroic warfare cluster.
+  cautions: Improvised weapons may be an episode-specific detail; preserve as evidence
+    rather than promoting as a distinct motif.
+  suggested_aliases:
+  - retainers_last_stand
+  - improvised_weapons_last_stand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-stand-despite-age-and-wounds
+  motif_id: last_stand_despite_age_and_wounds
+  label: last stand despite age and wounds
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: An aged or wounded warrior continuing combat centers on heroic martial
+    endurance and warrior duty.
+  cautions: Could also fit sacred_combat if the scene is primarily a ritualized battle
+    rather than a warrior-role motif.
+  suggested_aliases:
+  - wounded_warrior_last_stand
+  - aged_warrior_last_stand
+  - heroic_last_stand_despite_wounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-survivor-of-a-warrior-band
+  motif_id: last_survivor_of_a_warrior_band
+  label: Last survivor of a warrior band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: medium
+  rationale: A lone survivor of a destroyed warrior band commonly functions as witness,
+    mourner, or bearer of tragic memory.
+  cautions: If the passage emphasizes continued combat or vengeance rather than witness
+    and grief, sacred_combat or divine_warrior may be a better placement.
+  suggested_aliases:
+  - lone_survivor_of_war_band
+  - surviving_witness_of_destroyed_war_band
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.laying-aside-a-weapon-at-the-threshold
+  motif_id: laying_aside_a_weapon_at_the_threshold
+  label: laying aside a weapon at the threshold
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: ritual_variant
+  confidence: low
+  rationale: Disarming at a threshold may mark a liminal passage rule or required
+    conduct before entry.
+  cautions: Could be hospitality law, combat etiquette, ritual prohibition, or a literal
+    plot detail; source context is needed.
+  suggested_aliases:
+  - disarming_at_the_threshold
+  - weapon_renunciation_before_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leaderless-war-band-mourns-an-absent-protecting-lord
+  motif_id: leaderless_war_band_mourns_an_absent_protecting_lord
+  label: leaderless war-band mourns an absent protecting lord
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on collective mourning for an absent lord and loss
+    of protection.
+  cautions: Also touches royal or martial order; add royal_legitimacy only if the
+    lord's absence threatens legitimate rule.
+  suggested_aliases:
+  - war_band_mourns_absent_lord
+  - collective_lament_for_absent_protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.legal-testimonial-threshold-against-scandal
+  motif_id: legal_testimonial_threshold_against_scandal
+  label: Legal testimonial threshold against scandal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A testimonial threshold for scandal is a sacred-legal rule governing
+    evidence and social order.
+  cautions: May be legal doctrine rather than narrative motif; verify that it functions
+    as motif evidence and not commentary or rule summary.
+  suggested_aliases:
+  - testimonial_threshold_against_scandal
+  - legal_witness_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-sustaining-herd-supports-the-war-host
+  motif_id: life_sustaining_herd_supports_the_war_host
+  label: Life-sustaining herd supports the war-host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: A herd sustaining an army relates to the material basis of a war-host
+    and cattle-raid warfare contexts.
+  cautions: Could be an economic plot detail, abundance motif, cattle-raid motif,
+    or sacred provision; source evidence needed before mapping broadly.
+  suggested_aliases:
+  - herd_sustains_war_host
+  - war_host_supported_by_herd
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-threatening-hiding-trial
+  motif_id: life_threatening_hiding_trial
+  label: Life-threatening hiding trial
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous hiding test is an ordeal that can transform status or prove
+    capacity.
+  cautions: If the hiding is mainly concealment from pursuit or trickery, hero_journey
+    or trickster may be better; context needed.
+  suggested_aliases:
+  - deadly_hiding_test
+  - hiding_ordeal
+  - concealment_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-token-plant-indicating-absent-heroes-welfare
+  motif_id: life_token_plant_indicating_absent_heroes_welfare
+  label: life-token plant indicating absent heroes' welfare
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A plant serving as a life-token that reflects absent heroes' condition
+    fits the external soul/life-token complex.
+  cautions: If the plant only signals welfare and does not contain or control life,
+    treat as a related recognition or omen token rather than full external-soul evidence.
+  suggested_aliases:
+  - plant_life_token
+  - welfare_token_plant
+  - life_token_indicating_absent_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence heroic combat details; preserve granular labels
+  as evidence notes unless recurrence supports a durable subgroup for heroic last
+  stands or retainer loyalty.
+- Avoid treating martial scenes as sacred_combat unless the passage gives ritual,
+  cosmological, or heroic-order significance beyond ordinary battle narration.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    function and whether single-occurrence labels are useful for Pattern Explorer
+    queries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1101
+  input_sha256: c7c9acf605ba82c461e607917d5f01282aa5dd61b499568218a5f69d77a51af9
+

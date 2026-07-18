@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1432
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hospitality-hall-for-a-magic-singer
+  motif_id: hospitality_hall_for_a_magic_singer
+  label: hospitality hall for a magic singer
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: The magic singer points toward supernatural song, but the hall/hospitality
+    setting may be only scene context.
+  cautions: Single occurrence; could instead belong with hospitality_test_stranger_guest,
+    storytelling_as_power, or be an episode-specific setting detail.
+  suggested_aliases:
+  - magic_singer_in_hospitality_hall
+  - supernatural_singer_as_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-scene-borrowed-from-odyssey-tradition
+  motif_id: hospitality_scene_borrowed_from_odyssey_tradition
+  label: hospitality scene borrowed from Odyssey tradition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label makes a source-critical borrowing claim rather than naming
+    a symbolic or narrative motif.
+  cautions: Keep any actual hospitality episode separately under hospitality_test_stranger_guest
+    if passage evidence warrants it; do not use this label as transmission evidence
+    in motif queries.
+  suggested_aliases:
+  - odyssey_hospitality_borrowing_note
+  - hospitality_scene_source_criticism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-secured-by-a-recognition-token
+  motif_id: hospitality_secured_by_a_recognition_token
+  label: Hospitality secured by a recognition token
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The token proving identity or entitlement is the operative mechanism
+    that enables hospitality.
+  cautions: If the passage emphasizes sacred guest obligation more than the token,
+    hospitality_test_stranger_guest or sacred_exchange may be a useful secondary placement.
+  suggested_aliases:
+  - recognition_token_secures_hospitality
+  - hospitality_by_identity_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-protects-guests-against-vengeance-after-bloodshed
+  motif_id: host_protects_guests_against_vengeance_after_bloodshed
+  label: host protects guests against vengeance after bloodshed
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The host’s duty to protect guests after violence foregrounds hospitality
+    obligation under crisis.
+  cautions: Could also involve vengeance, feud law, or sacred_law; source context
+    should confirm that guest-protection is the motif core.
+  suggested_aliases:
+  - host_protects_guest
+  - guest_right_protection_after_bloodshed
+  - hospitality_obligation_against_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostage-and-territory-settlement
+  motif_id: hostage_and_territory_settlement
+  label: hostage and territory settlement
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Hostages and territorial settlement may relate to political order, treaty-making,
+    or succession legitimacy.
+  cautions: Label may be historical-political detail rather than mythic motif; could
+    fit covenant if a binding agreement is central, or be excluded if merely chronicle
+    context.
+  suggested_aliases:
+  - territorial_settlement_with_hostages
+  - hostage_exchange_and_land_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-baba-yaga-coerced-into-aid
+  motif_id: hostile_baba_yaga_coerced_into_aid
+  label: hostile Baba-Yaga coerced into aid
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous liminal figure is forced to provide aid after confrontation,
+    matching threshold-guardian negotiation.
+  cautions: Baba-Yaga is culturally specific; if the evidence stresses witch/helper
+    role, initiation or otherworld may be secondary mappings.
+  suggested_aliases:
+  - hostile_witch_coerced_into_aid
+  - threshold_figure_forced_to_help
+  - baba_yaga_as_compelled_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-beings-inadvertently-reveal-escape-route
+  motif_id: hostile_beings_inadvertently_reveal_escape_route
+  label: hostile beings inadvertently reveal escape route
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Escape enabled by enemies’ accidental disclosure resembles outwitting
+    hostile powers at a boundary or ordeal.
+  cautions: May be a common plot device rather than a durable mythic motif; could
+    fit hero_journey or threshold_guardian depending on who escapes and from where.
+  suggested_aliases:
+  - enemy_reveals_escape_route
+  - hostile_beings_disclose_escape_path
+  - escape_through_enemy_indiscretion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-challenge-signaled-by-chariot-orientation
+  motif_id: hostile_challenge_signaled_by_chariot_orientation
+  label: Hostile challenge signaled by chariot orientation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A formal combat challenge signaled through chariot positioning belongs
+    to ritualized warfare or heroic challenge convention.
+  cautions: The chariot-orientation detail is likely too specific for broad queries;
+    preserve as evidence under sacred_combat unless it recurs widely.
+  suggested_aliases:
+  - chariot_orientation_as_challenge
+  - ritual_combat_signal_by_chariot
+  - hostile_chariot_positioning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-court-reaction-to-succession-news
+  motif_id: hostile_court_reaction_to_succession_news
+  label: Hostile court reaction to succession news
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conflict around succession news concerns the acceptance or rejection
+    of legitimate rule.
+  cautions: Could be a passage-specific political scene; if jealousy or household
+    rivalry drives the episode, another group may be more precise.
+  suggested_aliases:
+  - succession_news_provokes_hostility
+  - court_opposes_succession
+  - hostile_reaction_to_heir
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-emanations-rendered-powerless
+  motif_id: hostile_emanations_rendered_powerless
+  label: hostile emanations rendered powerless
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Neutralizing hostile supernatural powers may fit divine intervention,
+    but Gnostic emanation language is doctrinally specific.
+  cautions: Needs source review to determine whether this is narrative conflict, cosmological
+    doctrine, exorcistic protection, or a commentary abstraction.
+  suggested_aliases:
+  - hostile_powers_rendered_powerless
+  - neutralization_of_hostile_emanations
+  - supernatural_hostility_disempowered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and scene-specific; preserve
+  granular wording as evidence notes rather than promoting new taxonomy motifs.
+- Hospitality-related items split between hospitality_test_stranger_guest, recognition_tokens_hidden_identity,
+  and _meta_textual depending on whether the label names a motif, a token mechanism,
+  or a scholarly borrowing claim.
+- No transmission or borrowing inference should be retained from the Odyssey label
+  in pattern queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Baba-Yaga and Gnostic emanation labels, and for political settlement labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1432
+  input_sha256: 860536c5a28fd2f8379444f7be997f9f7accab4ffa30f232b9e886bcb8781334
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1584
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.slain-bodies-transformed-into-precious-gifts
+  motif_id: slain_bodies_transformed_into_precious_gifts
+  label: Slain bodies transformed into precious gifts
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is postmortem transformation of slain bodies into valued
+    objects or gifts.
+  cautions: Single occurrence; if the gift-object function is more important than
+    death transformation, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - slain_body_transformed_into_precious_object
+  - postmortem_body_transformation_into_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-foes-sent-to-yama-s-realm
+  motif_id: slain_foes_sent_to_yama_s_realm
+  label: slain foes sent to Yama’s realm
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Yama's realm indicates a destination of the dead and thus belongs with
+    postmortem passage or afterlife geography.
+  cautions: Could be a battle boast or formulaic phrase rather than a developed afterlife
+    motif; if the focus is combat, divine_warrior or sacred_combat may be secondary.
+  suggested_aliases:
+  - foes_sent_to_realm_of_death
+  - slain_enemies_sent_to_yama
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-giant-becomes-stone-landscape-feature
+  motif_id: slain_giant_becomes_stone_landscape_feature
+  label: slain giant becomes stone landscape feature
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A slain being becoming a stone landscape feature functions as etiological
+    landscape formation through death.
+  cautions: Culturally specific landscape traditions should be reviewed carefully;
+    if emphasis is bodily transformation rather than place-origin, death_and_transformation
+    may be secondary.
+  suggested_aliases:
+  - slain_giant_as_landscape_feature
+  - giant_death_explains_stone_landform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-giants-embodied-in-landscape-features
+  motif_id: slain_giants_embodied_in_landscape_features
+  label: slain giants embodied in landscape features
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dead giants embodied in landforms explain landscape features and fit
+    existing etiological landscape-formation children under cosmic_origin.
+  cautions: Review Indigenous place-based evidence carefully; could also index death_and_transformation
+    if the passage centers on postmortem embodiment rather than place etiology.
+  suggested_aliases:
+  - slain_giants_as_landscape_features
+  - giants_embodied_in_landforms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-protective-brother-band
+  motif_id: slain_protective_brother_band
+  label: slain protective brother-band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to distinguish sibling-pair, warrior-band,
+    kin vengeance, or mourning functions.
+  cautions: May be an episode-specific detail about a group of brothers rather than
+    a reusable motif; source context is needed before mapping to sacred_twins, sacred_combat,
+    or lament_and_mourning.
+  suggested_aliases:
+  - slain_brother_band
+  - protective_brothers_slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-spouse-avenged-against-kin
+  motif_id: slain_spouse_avenged_against_kin
+  label: slain spouse avenged against kin
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on revenge killing after a spouse's death, fitting
+    the existing combat-and-vengeance cluster.
+  cautions: If the passage emphasizes marital loyalty or tragic kin conflict more
+    than combat, sacred_love or lament_and_mourning may be secondary; single occurrence
+    may be over-specific.
+  suggested_aliases:
+  - vengeance_for_slain_spouse
+  - spousal_death_avenged_against_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaughter-of-descendants-as-vengeance
+  motif_id: slaughter_of_descendants_as_vengeance
+  label: slaughter of descendants as vengeance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retaliatory slaughter of a lineage belongs with vengeance-driven sacred
+    or heroic violence.
+  cautions: Could also fit divine_judgment if the vengeance is framed as sacred punishment;
+    avoid normalizing as a general kinship motif without source evidence.
+  suggested_aliases:
+  - lineage_slaughter_as_vengeance
+  - descendants_killed_in_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slayer-and-slain-figure
+  motif_id: slayer_and_slain_figure
+  label: slayer and slain figure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is generic and does not identify a specific function such as
+    combat, sacrifice, fate, or transformation.
+  cautions: May be a passage artifact or overly broad role label; map only after checking
+    whether the relation has mythic significance beyond killing.
+  suggested_aliases:
+  - slayer_slain_pair
+  - killer_and_victim_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slayer-becomes-victim-of-retaliatory-killing
+  motif_id: slayer_becomes_victim_of_retaliatory_killing
+  label: Slayer becomes victim of retaliatory killing
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A killer becoming the target of retaliatory death expresses moral reversal
+    and reckoning after violence.
+  cautions: If the passage is mainly feud mechanics or warrior vengeance, sacred_combat
+    may be a secondary or better placement; single occurrence is context-dependent.
+  suggested_aliases:
+  - killer_killed_in_retaliation
+  - retaliatory_killing_of_the_slayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-and-decapitation-of-a-multi-headed-giant
+  motif_id: slaying_and_decapitation_of_a_multi_headed_giant
+  label: Slaying and decapitation of a multi-headed giant
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hero or god slaying a multi-headed giant fits sacred combat against
+    a monstrous opponent.
+  cautions: The decapitation and multi-headed details are granular; preserve as evidence
+    unless the specific monster-slaying pattern recurs across sources.
+  suggested_aliases:
+  - multi_headed_giant_slaying
+  - decapitation_of_multi_headed_giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence vengeance or combat details; suggested placements
+  should be checked against passage context before adding children to groups.
+- Landscape-formation labels involving slain giants should be reviewed with sensitivity
+  to Indigenous place-based traditions and not treated as transmission evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional group-placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1584
+  input_sha256: 5b9f1ab25cdce8375cdcfc9cc321c370f5458485ada08d5be47db7e79e6e8171
+

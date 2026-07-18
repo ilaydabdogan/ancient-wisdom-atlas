@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1600
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.supernatural-bodily-distortion
+  motif_id: supernatural_bodily_distortion
+  label: supernatural bodily distortion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Bodily distortion may be a supernatural transformation or battle-frenzy
+    sign, but the function is unclear from the label alone.
+  cautions: Single occurrence; could be a culturally specific heroic/body image rather
+    than shapeshifting. Needs passage evidence before mapping.
+  suggested_aliases:
+  - supernatural body distortion
+  - supernatural bodily deformation
+  - distorted supernatural body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-donor-grants-three-magical-advantages
+  motif_id: supernatural_donor_grants_three_magical_advantages
+  label: supernatural donor grants three magical advantages
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural donor providing magical advantages is a direct helping
+    intervention in human affairs.
+  cautions: If the advantages are power objects, sacred_treasures may be a secondary
+    fit; if this is a folktale donor role, future helper/donor grouping may be useful.
+  suggested_aliases:
+  - supernatural donor grants gifts
+  - magical donor grants advantages
+  - three magical gifts from supernatural helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-druidic-mist
+  motif_id: supernatural_druidic_mist
+  label: supernatural Druidic mist
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Enchanted mist often marks concealment, liminal passage, or otherworld
+    contact, but the label does not state its narrative function.
+  cautions: Could be magical concealment, divine intervention, threshold crossing,
+    or a local Celtic specialist motif. Avoid mapping without context.
+  suggested_aliases:
+  - enchanted mist
+  - druidic mist
+  - supernatural mist concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-encounter-cluster
+  motif_id: supernatural_encounter_cluster
+  label: Supernatural encounter cluster
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase describes a cluster or tagging aggregate rather than a specific
+    narrative motif.
+  cautions: If the source passage contains specific encounters, split them into concrete
+    motifs such as otherworld, threshold guardian, spirit intervention, or haunting.
+  suggested_aliases:
+  - cluster of supernatural encounters
+  - supernatural encounter grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-feat-mistaken-for-ordinary-craft-skill
+  motif_id: supernatural_feat_mistaken_for_ordinary_craft_skill
+  label: Supernatural feat mistaken for ordinary craft skill
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a craft-like performance whose true power is supernatural,
+    fitting sacred or magical craft.
+  cautions: If the feat is not construction or making, divine_intervention or trickster
+    deception may fit better. Preserve mistaken-identity detail as evidence.
+  suggested_aliases:
+  - supernatural feat as craft skill
+  - magical work mistaken for craft
+  - supernatural craft feat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-food-causes-rapid-growth
+  motif_id: supernatural_food_causes_rapid_growth
+  label: supernatural food causes rapid growth
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural food that transforms the body through rapid growth fits
+    sacred substance as transformative food or drink.
+  cautions: If rapid growth marks extraordinary childhood destiny, miraculous_child
+    may be a secondary mapping. Review culturally specific food symbolism.
+  suggested_aliases:
+  - magic food causes growth
+  - supernatural food growth
+  - transformative food causes rapid growth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-fore-tale-ending-in-prophecies
+  motif_id: supernatural_fore_tale_ending_in_prophecies
+  label: supernatural fore-tale ending in prophecies
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: The prophecy element suggests future-revealing sacred speech, but 'fore-tale'
+    may describe a narrative form rather than a motif.
+  cautions: Could be textual genre or episode framing. Map only if the passage contains
+    operative prophecy, omen, or divinatory revelation.
+  suggested_aliases:
+  - foretale ending in prophecy
+  - supernatural foretale
+  - prophetic foretale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-guide-to-a-hidden-marvelous-fishing-place
+  motif_id: supernatural_guide_to_a_hidden_marvelous_fishing_place
+  label: Supernatural guide to a hidden marvelous fishing place
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural guide directing humans to a hidden place of provision
+    fits guidance and intervention.
+  cautions: The fishing-place detail is specific; if the location is an enchanted
+    realm, otherworld may be secondary. If focus is abundance, sacred_exchange or
+    miraculous provision may apply.
+  suggested_aliases:
+  - supernatural guide to hidden fishing place
+  - spirit guide to marvelous fishing place
+  - hidden abundance place revealed by guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-helper-completes-impossible-labor
+  motif_id: supernatural_helper_completes_impossible_labor
+  label: supernatural helper completes impossible labor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural helper accomplishing an impossible task is direct aid
+    within human affairs.
+  cautions: If the labor is a trial for initiation, marriage, or royal legitimacy,
+    those groups may be secondary. A future helper/donor group could capture this
+    folktale role better.
+  suggested_aliases:
+  - supernatural helper performs impossible task
+  - magical helper completes labor
+  - impossible labor completed by helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-helper-offers-relief-to-a-grieving-leader
+  motif_id: supernatural_helper_offers_relief_to_a_grieving_leader
+  label: Supernatural helper offers relief to a grieving leader
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural helper consoling or relieving a leader is intervention
+    in a human crisis.
+  cautions: If grief and mourning are the central motif, lament_and_mourning should
+    be a secondary fit; if relief restores political order, royal_legitimacy may also
+    matter.
+  suggested_aliases:
+  - supernatural helper comforts grieving leader
+  - spirit helper relieves grief
+  - supernatural consolation of leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use broad 'supernatural' phrasing and need source context to distinguish
+  divine intervention, otherworld encounter, ritual specialist magic, and folktale
+  helper roles.
+- No transmission or borrowing claims are implied by these suggested placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Draft provisional placements only; human review recommended especially for
+    culturally specific Celtic, Hopi, Afro-Caribbean, and Guiana Amerindian labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1600
+  input_sha256: ce78ac88a031511d6b8d840253eb62f37101957eefadc9ae7e86f45b7f849649
+

@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1511
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-of-the-first-feather-cloak
+  motif_id: origin_of_the_first_feather_cloak
+  label: Origin of the first feather cloak
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A first cloak of feathers is likely an origin account for a culturally
+    charged prestige or power object.
+  cautions: Single occurrence; if the passage emphasizes chiefly legitimacy or craft
+    production, royal_legitimacy or sacred_craft may be better secondary mappings.
+  suggested_aliases:
+  - first_feather_cloak
+  - origin_of_feather_cloak
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-harp-and-of-boating
+  motif_id: origin_of_the_harp_and_of_boating
+  label: Origin of the harp and of boating
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The label describes the origin or introduction of cultural technologies:
+    music-making and boating.'
+  cautions: Composite label; harp may also relate to enchanting_music, while boating
+    may be a practical culture-origin detail. Source context should decide whether
+    this is culture-hero activity or an etiological tale artifact.
+  suggested_aliases:
+  - origin_of_harp
+  - origin_of_boating
+  - first_harp_and_boat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-raven-s-black-color
+  motif_id: origin_of_the_raven_s_black_color
+  label: origin of the raven's black color
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An etiological account of an animal's acquired color fits bodily transformation
+    or metamorphic explanation.
+  cautions: May be better handled by a future animal-etiology group if many such labels
+    recur; do not map to trickster unless raven’s boundary-crossing or deception is
+    central.
+  suggested_aliases:
+  - raven_black_color_origin
+  - animal_color_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-swallow
+  motif_id: origin_of_the_swallow
+  label: origin of the swallow
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only says an animal species originated, without indicating
+    creation, transformation, punishment, or culture-hero action.
+  cautions: Could fit shapeshifter if a person becomes a swallow, cosmic_origin if
+    the species is created, or be too generic as an animal etiology. Passage evidence
+    is needed.
+  suggested_aliases:
+  - swallow_origin
+  - origin_of_a_bird_species
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-white-race
+  motif_id: origin_of_the_white_race
+  label: Origin of the White Race
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A people-origin label might fit ancestral or human-group origins, but
+    the racial terminology is culturally sensitive and context-dependent.
+  cautions: Review source wording and classification history carefully; avoid normalizing
+    outdated racial categories without human oversight. Could relate to cosmic_origin
+    only if it is an etiological origin of peoples.
+  suggested_aliases:
+  - origin_of_a_human_group
+  - people_origin_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-thunder-by-rubbing-a-deerskin
+  motif_id: origin_of_thunder_by_rubbing_a_deerskin
+  label: origin of thunder by rubbing a deerskin
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather and Natural Phenomena Etiology
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains a natural phenomenon through a specific mythic mechanism,
+    and no current group cleanly covers weather-origin etiologies.
+  cautions: Highly specific mechanism should remain evidence detail; may map to cosmic_origin
+    only if the passage frames thunder within broader world creation.
+  suggested_aliases:
+  - thunder_origin
+  - etiology_of_thunder
+  - weather_phenomenon_origin
+  suggested_new_group:
+    id: weather_natural_phenomena_etiology
+    label: Weather and Natural Phenomena Etiology
+    description: Myths explaining the origin, sound, appearance, or behavior of weather
+      and natural phenomena such as thunder, lightning, wind, snow, rain, aurora,
+      or tides.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - divine_intervention
+    - sacred_waters
+    - sacred_fire
+    reason_existing_groups_insufficient: Existing cosmic_origin covers creation broadly,
+      but it does not cleanly distinguish recurring etiologies of weather or atmospheric
+      phenomena from full cosmogony.
+- suggestion_id: normalization.suggestion.origin-or-etiological-title
+  motif_id: origin_or_etiological_title
+  label: origin or etiological title
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to classify a tale title or genre as etiological rather
+    than naming a motif in the passage.
+  cautions: If a specific origin motif is recoverable from the source, index that
+    concrete motif separately rather than this generic title classification.
+  suggested_aliases:
+  - etiological_title
+  - origin_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-or-first-introduction-of-tobacco
+  motif_id: origin_or_first_introduction_of_tobacco
+  label: origin or first introduction of tobacco
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: narrower_than
+  confidence: medium
+  rationale: Tobacco is a ritually significant plant or substance, and its first introduction
+    fits the sacred-substance complex.
+  cautions: If the emphasis is a founder bringing a cultural practice, culture_hero
+    may be a secondary mapping. Review culturally specific tobacco use before flattening
+    into generic intoxication.
+  suggested_aliases:
+  - origin_of_tobacco
+  - first_tobacco
+  - tobacco_introduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orphan-and-foundling-tale-grouping
+  motif_id: orphan_and_foundling_tale_grouping
+  label: orphan and foundling tale grouping
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase reads as a tale-type or grouping label, not a specific narrative
+    motif.
+  cautions: Specific orphan or foundling episodes should be indexed separately, especially
+    if they involve threatened infancy, hidden identity, or household persecution.
+  suggested_aliases:
+  - orphan_foundling_tale_type
+  - orphan_and_foundling_grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orphan-deprived-of-paternal-protection
+  motif_id: orphan_deprived_of_paternal_protection
+  label: orphan deprived of paternal protection
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: Loss of paternal protection can function as a vulnerable-child setup
+    related to threatened or hidden childhood patterns.
+  cautions: Low confidence because the label may be a social condition rather than
+    a sacred-child motif. If household persecution is central, jealous_stepmother_persecuted_child
+    may fit; if no transformation or destiny follows, it may be too generic.
+  suggested_aliases:
+  - unprotected_orphan
+  - fatherless_child_deprived_of_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are etiological origin labels. Existing cosmic_origin can absorb some
+  broad creation etiologies, but recurring animal, weather, and cultural-object origin
+  labels may require separate review policy to avoid overloading cosmogony.
+- Culturally sensitive or outdated racial terminology should remain under human review
+  before any taxonomy placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1511
+  input_sha256: 6aeee9277e3c707a9d2a023ed63e532a8c47c1e76463e86276674eee163846de
+

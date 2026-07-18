@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1058
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fivefold-battle-array-before-assault
+  motif_id: fivefold_battle_array_before_assault
+  label: fivefold battle array before assault
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A pre-assault battle formation is a combat detail, but sacred or ritual
+    significance is not clear from the label alone.
+  cautions: Likely episode-specific military description; map only if the array has
+    mythic, ritual, or fate-bearing significance.
+  suggested_aliases:
+  - battle array before assault
+  - ritualized battle formation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fleet-identified-by-banner-and-challenged-before-battle
+  motif_id: fleet_identified_by_banner_and_challenged_before_battle
+  label: Fleet identified by banner and challenged before battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Recognition and challenge before battle fit a combat encounter, but the
+    banner/fleet detail may be narrative staging rather than a motif.
+  cautions: Could overlap with recognition tokens if the banner proves identity; source
+    context is needed before indexing broadly.
+  suggested_aliases:
+  - banner recognition before battle
+  - battle challenge after fleet identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flyting-before-battle
+  motif_id: flyting_before_battle
+  label: Flyting before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pre-battle flyting is a formalized speech act that provokes, binds honor,
+    or frames combat through verbal power.
+  cautions: If the passage emphasizes combat ritual more than speech power, sacred_combat
+    should be a secondary review placement.
+  suggested_aliases:
+  - pre-battle flyting
+  - battle insult exchange
+  - verbal challenge before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flyting-or-dispute-before-battle
+  motif_id: flyting_or_dispute_before_battle
+  label: Flyting or dispute before battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A verbal dispute before battle functions as performative challenge, insult,
+    or honor-binding speech.
+  cautions: The wording is broad; confirm that the exchange has ritualized or consequential
+    force rather than ordinary dialogue.
+  suggested_aliases:
+  - pre-battle dispute
+  - pre-battle flyting
+  - battle challenge speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flyting-or-insult-exchange-before-battle
+  motif_id: flyting_or_insult_exchange_before_battle
+  label: flyting or insult exchange before battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The insult exchange is a stylized pre-combat speech act that can shape
+    honor, conflict, and outcome.
+  cautions: Could also be grouped under sacred_combat if the human reviewer prioritizes
+    the battle sequence over speech function.
+  suggested_aliases:
+  - battle insult exchange
+  - pre-combat flyting
+  - verbal duel before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foil-s-exultation-contrasting-with-heroic-lament
+  motif_id: foil_s_exultation_contrasting_with_heroic_lament
+  label: foil’s exultation contrasting with heroic lament
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on heroic lament and contrasting responses to loss,
+    fitting mourning and tragic recognition.
+  cautions: The foil contrast may be a literary analysis artifact; exclude or preserve
+    as evidence detail if not a recurring motif.
+  suggested_aliases:
+  - heroic lament contrasted with exultation
+  - contrasting lament and triumph
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-and-music-delay-a-pursuing-monster
+  motif_id: food_and_music_delay_a_pursuing_monster
+  label: Food and music delay a pursuing monster
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music acts as a delaying or controlling force against a pursuing monster,
+    matching supernatural sound power.
+  cautions: Food may indicate trickster escape, hospitality, or distraction; if music
+    is incidental, trickster may be a better fit.
+  suggested_aliases:
+  - music delays monster
+  - food and music as monster distraction
+  - pursuit delayed by music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foot-champion-defeats-mounted-warrior
+  motif_id: foot_champion_defeats_mounted_warrior
+  label: Foot champion defeats mounted warrior
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a single-combat reversal, but no sacred, ritual, or invulnerability
+    function is evident from the label.
+  cautions: May be a tactical episode rather than a motif; consider divine_warrior
+    only if the champion has sacred or cosmic combat role.
+  suggested_aliases:
+  - dismounted champion defeats rider
+  - foot warrior defeats mounted opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-accessory-taken-despite-warning-triggers-capture
+  motif_id: forbidden_accessory_taken_despite_warning_triggers_capture
+  label: Forbidden accessory taken despite warning triggers capture
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: forbidden_knowledge
+  suggested_group_label: Forbidden Knowledge
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring a warning around a prohibited object triggers punishment or
+    capture, matching forbidden action around hidden or dangerous power.
+  cautions: If the accessory functions mainly as a power object, sacred_treasures
+    may be a secondary mapping; label is context-dependent.
+  suggested_aliases:
+  - forbidden object taken despite warning
+  - warning ignored triggers capture
+  - taboo accessory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-backward-look-during-escape
+  motif_id: forbidden_backward_look_during_escape
+  label: Forbidden backward look during escape
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: ritual_prohibition
+  suggested_group_label: Ritual Prohibition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif is a prohibited act during liminal escape whose violation brings
+    danger or judgment.
+  cautions: Could also support divine_judgment, hero_journey, or death_and_transformation
+    depending on the consequence of looking back.
+  suggested_aliases:
+  - taboo backward look
+  - forbidden look back during flight
+  - looking back prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several battle labels are highly episode-specific and should not be promoted without
+  evidence of ritual, sacred, or recurring narrative function.
+- The flyting labels are close duplicates and could be normalized together as pre-battle
+  performative speech under curse_blessing_speech, with sacred_combat as related context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    combat details are symbolic motifs or narrative artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1058
+  input_sha256: aaa42f53a78a69fd1196179c8a6dc9500c000b52dbe400cb92dc5af904dec7f6
+

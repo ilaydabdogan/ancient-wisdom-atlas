@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0811
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.beast-story-etiologies-and-animal-enmities
+  motif_id: beast_story_etiologies_and_animal_enmities
+  label: beast-story etiologies and animal enmities
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like an animal fable or etiological beast tale, but
+    the function is unclear from wording alone.
+  cautions: Single occurrence and broad genre-like phrasing; may require a future
+    animal-fable or animal-etiology group rather than trickster.
+  suggested_aliases:
+  - animal enmity etiology
+  - beast tale etiology
+  - animal rivalry origin story
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beasts-learn-human-superiority-through-weaponry
+  motif_id: beasts_learn_human_superiority_through_weaponry
+  label: beasts learn human superiority through weaponry
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif explains human cultural superiority through weapon technology,
+    fitting culture-hero/civilizing knowledge even if no named hero is visible.
+  cautions: If the passage is a simple animal fable about fear or deception, trickster
+    may be a better secondary placement.
+  suggested_aliases:
+  - human superiority through weapons
+  - weaponry establishes human dominance over animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.binding-and-muzzling-dangerous-forest-dogs
+  motif_id: binding_and_muzzling_dangerous_forest_dogs
+  label: Binding and muzzling dangerous forest dogs
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns restraining dangerous animals but does not indicate
+    whether the function is combat, ritual containment, threshold guarding, or a local
+    episode.
+  cautions: May be too specific for pattern queries unless similar dangerous-animal-binding
+    motifs recur; verify source context before grouping.
+  suggested_aliases:
+  - dangerous dogs restrained
+  - muzzled forest dogs
+  - binding dangerous animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.binding-of-a-dangerous-wolf-with-bodily-cost
+  motif_id: binding_of_a_dangerous_wolf_with_bodily_cost
+  label: binding of a dangerous wolf with bodily cost
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Monster Binding and Cosmic Containment
+  relationship: functional_variant
+  confidence: medium
+  rationale: The binding of a dangerous wolf at bodily cost is not merely animal symbolism;
+    it is a containment pattern involving sacrifice, danger, and cosmic order.
+  cautions: Could also index under divine_warrior or sacrifice depending on passage
+    emphasis. Avoid collapsing to serpent/threshold guardian unless a boundary-guardian
+    role is explicit.
+  suggested_aliases:
+  - binding the dangerous wolf
+  - monster binding with bodily cost
+  - cosmic beast containment
+  suggested_new_group:
+    id: monster_binding_cosmic_containment
+    label: Monster Binding and Cosmic Containment
+    description: A dangerous monster, beast, demon, or chaos-being is bound, chained,
+      muzzled, sealed, or otherwise contained, often at bodily cost, to preserve cosmic
+      or social order until release or final crisis.
+    parent_group_ids:
+    - divine_warrior
+    - divine_judgment
+    related_group_ids:
+    - sacrifice
+    - sacred_combat
+    - conditional_invulnerability_hidden_weakness
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover combat, judgment, sacrifice,
+      and guardianship, but not the recurring narrative function of restraining rather
+      than killing a dangerous chaos-being.
+- suggestion_id: normalization.suggestion.bird-abducted-foundling-rescued-from-a-tree
+  motif_id: bird_abducted_foundling_rescued_from_a_tree
+  label: Bird-abducted foundling rescued from a tree
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A foundling endangered or displaced by a bird and rescued fits the threatened/protected
+    extraordinary child complex.
+  cautions: Tree imagery may be incidental; if the rescue from the tree is the main
+    sacred feature, axis_mundi or otherworld should be reviewed as secondary.
+  suggested_aliases:
+  - foundling abducted by bird
+  - child rescued from tree after bird abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-army-appearing-as-a-black-cloud
+  motif_id: bird_army_appearing_as_a_black_cloud
+  label: bird army appearing as a black cloud
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: An army of birds appearing as a dark cloud may function as supernatural
+    battle imagery or a collective martial portent.
+  cautions: Could be an omen, plague, weather image, or passage-specific detail; review
+    whether the birds actually participate in sacred combat.
+  suggested_aliases:
+  - bird army as black cloud
+  - black cloud of birds
+  - avian host in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-associated-with-world-formation
+  motif_id: bird_associated_with_world_formation
+  label: bird associated with world formation
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: role_variant
+  confidence: medium
+  rationale: The label explicitly links a bird being or bird image with world formation,
+    fitting creation and cosmic-origin queries.
+  cautions: Bird role should be preserved; do not assume world egg or primordial sacrifice
+    unless supported by passage evidence.
+  suggested_aliases:
+  - creation bird
+  - bird in world formation
+  - avian role in creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-beings-control-or-own-winds
+  motif_id: bird_beings_control_or_own_winds
+  label: Bird beings control or own winds
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Bird beings with control over winds suggest nonhuman sacred agency affecting
+    nature, but no current weather-controller group exists.
+  cautions: Culturally specific beings and ecological/cosmological context need review;
+    avoid reducing them to generic animal helpers or divine intervention without evidence.
+  suggested_aliases:
+  - bird wind owners
+  - avian wind controllers
+  - bird beings owning winds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-carries-unwanted-figure-away-and-drops-him
+  motif_id: bird_carries_unwanted_figure_away_and_drops_him
+  label: Bird carries unwanted figure away and drops him
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: The action may be comic punishment, trickster removal, animal helper
+    activity, or a simple episode of avian abduction.
+  cautions: Single occurrence and highly episode-specific; source context needed to
+    decide whether this is motif-worthy or only plot detail.
+  suggested_aliases:
+  - bird removes unwanted figure
+  - carried off and dropped by bird
+  - avian abduction and dropping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-harassment-causes-fatal-fall-from-a-cliff
+  motif_id: bird_harassment_causes_fatal_fall_from_a_cliff
+  label: Bird harassment causes fatal fall from a cliff
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: A fatal fall caused by birds may be punishment or animal agency, but
+    the moral or sacred function is not clear from the label.
+  cautions: May be an over-specific death episode rather than a recurring motif; verify
+    whether the birds act as agents of judgment, revenge, or ordinary danger.
+  suggested_aliases:
+  - birds cause fatal fall
+  - avian harassment leading to death
+  - fatal cliff fall caused by birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-episode labels; many need
+  source context before becoming durable pattern-query mappings.
+- Current taxonomy has no broad animal-fable, animal-etiology, weather-controller,
+  or monster-binding group; only the wolf-binding item strongly suggests a possible
+  new containment group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; animal-episode labels should be checked against
+    passage evidence and local tradition context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0811
+  input_sha256: d117bdca00229db75105d3b8d5e79cdc640f32c51bedacc32f47916420a0e57a
+

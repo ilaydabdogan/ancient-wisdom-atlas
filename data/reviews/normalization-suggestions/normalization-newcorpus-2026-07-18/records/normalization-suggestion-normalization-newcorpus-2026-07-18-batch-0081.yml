@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0081
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-retained-below-water-while-child-is-returned
+  motif_id: human_retained_below_water_while_child_is_returned
+  label: human retained below water while child is returned
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Below-water retention suggests a water boundary or submerged otherworld
+    while child return suggests exchange or rescue, but the narrative function is
+    unclear.
+  cautions: Could be otherworld abduction, drowning/death, sacred waters, or a local
+    tale detail; source evidence needed before mapping.
+  suggested_aliases:
+  - submerged retention and child return
+  - water otherworld detention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-spirit-encounter
+  motif_id: human_spirit_encounter
+  label: human-spirit encounter
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: broader_label
+  confidence: low
+  rationale: A human encounter with a spirit can involve supernatural agency, but
+    the label is too broad to identify function.
+  cautions: May fit ancestor rites, restless dead, tutelary spirit, otherworld, shamanic
+    initiation, or simple episode description depending on context.
+  suggested_aliases:
+  - encounter with spirit
+  - human encounter with supernatural being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-witch-or-wizard-empowered-by-compact-with-evil-spirits
+  motif_id: human_witch_or_wizard_empowered_by_compact_with_evil_spirits
+  label: human witch or wizard empowered by compact with evil spirits
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Pact with Spirits for Magical Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a binding compact with harmful spirits as the source
+    of magical power, not merely spirit encounter or divine intervention.
+  cautions: Culturally sensitive witchcraft terminology should be reviewed; may overlap
+    with covenant, sacred exchange, or forbidden knowledge if the compact is emphasized
+    differently.
+  suggested_aliases:
+  - compact with evil spirits
+  - spirit pact for magical power
+  - witch empowered by spirit pact
+  suggested_new_group:
+    id: spirit_pact_magical_power
+    label: Pact with Spirits for Magical Power
+    description: A human gains magical, witchcraft, or occult power through a compact,
+      bargain, service relationship, or alliance with spirits, demons, or other nonhuman
+      powers.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_knowledge
+    related_group_ids:
+    - divine_intervention
+    - covenant
+    - forbidden_knowledge
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover sacred exchange, covenant,
+      and spirit agency broadly, but none clearly captures empowerment through a compact
+      with harmful or ambivalent spirits.
+- suggestion_id: normalization.suggestion.humble-soul-as-weaned-child
+  motif_id: humble_soul_as_weaned_child
+  label: humble soul as weaned child
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image expresses disciplined humility and inner trust, fitting wisdom
+    or ethical-spiritual instruction rather than death/afterlife.
+  cautions: May be a poetic metaphor rather than a reusable motif; consider excluding
+    if only an isolated psalmic image.
+  suggested_aliases:
+  - soul quieted like a weaned child
+  - humility as childlike trust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hybrid-bodied-ancestral-beings
+  motif_id: hybrid_bodied_ancestral_beings
+  label: Hybrid-bodied ancestral beings
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ancestry with hybrid embodiment, but does not state
+    whether the beings receive rites, act as spirits, or embody transformation.
+  cautions: Could fit ancestor rites, shapeshifter, divine race, otherworld, or local
+    spirit taxonomy; review cultural context carefully.
+  suggested_aliases:
+  - hybrid ancestral beings
+  - ancestral beings with hybrid bodies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illicit-desire-brings-social-royal-and-hell-penalties
+  motif_id: illicit_desire_brings_social_royal_and_hell_penalties
+  label: illicit desire brings social, royal, and hell penalties
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Wrong desire produces moral, social, royal, and postmortem punishment,
+    matching judgment and consequence after transgression.
+  cautions: If framed primarily as monastic discipline or legal teaching, sacred_law
+    or sacred_knowledge may be secondary; hell detail should not force afterlife_passage
+    unless a route is described.
+  suggested_aliases:
+  - illicit desire punished
+  - hell penalties for illicit desire
+  - moral consequences of illicit desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-through-the-fountain-of-life
+  motif_id: immortality_through_the_fountain_of_life
+  label: Immortality through the fountain of life
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A fountain of life is life-giving sacred water that grants death-transcending
+    vitality.
+  cautions: Could also map to death_and_transformation or sacred_substance if the
+    focus is immortality or ingesting a life-giving substance rather than water symbolism.
+  suggested_aliases:
+  - fountain of life
+  - water of life grants immortality
+  - immortalizing water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-without-preserved-youth
+  motif_id: immortality_without_preserved_youth
+  label: Immortality without preserved youth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: alias
+  confidence: high
+  rationale: This is a close label variant of the existing group for deathlessness
+    lacking youth or renewal.
+  cautions: Preserve the youth-specific wording as evidence detail; do not broaden
+    to resurrection or rebirth.
+  suggested_aliases:
+  - immortality without eternal youth
+  - deathlessness without youth
+  - immortality lacking renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impartial-and-irresistible-death-god
+  motif_id: impartial_and_irresistible_death_god
+  label: Impartial and irresistible death-god
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Death Deity and Inevitable Death
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns a personified death deity whose authority is universal
+    and unavoidable, not an afterlife route or death-rebirth pattern.
+  cautions: May be only an epithet or deity description; if tied to judgment, divine_judgment
+    may suffice. Human review should determine recurrence before adding a group.
+  suggested_aliases:
+  - irresistible death god
+  - impartial death deity
+  - inevitable death personified
+  suggested_new_group:
+    id: death_deity_inevitable_death
+    label: Death Deity and Inevitable Death
+    description: A personified deity, spirit, or agent of death acts impartially,
+      irresistibly, or universally, enforcing the inevitability of mortality.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - death_by_fate
+    - afterlife_passage
+    reason_existing_groups_insufficient: Existing death groups emphasize transformation,
+      afterlife travel, fate, or judgment, but not the recurring role of death personified
+      as an unavoidable divine agent.
+- suggestion_id: normalization.suggestion.impossible-royal-tasks-under-death-threat
+  motif_id: impossible_royal_tasks_under_death_threat
+  label: Impossible royal tasks under death threat
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Impossible tasks under threat of death function as an ordeal that tests
+    and transforms the protagonist's status.
+  cautions: Royal context may also relate to royal_legitimacy or hero_journey; if
+    no transformation occurs, it may be an episode-specific folktale task motif.
+  suggested_aliases:
+  - impossible tasks under death threat
+  - royal impossible task ordeal
+  - death-threat task trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be treated as provisional until passage evidence is checked.
+- Death/descent bucket assignment is misleading for some items, especially humility,
+  desire penalties, and impossible royal tasks.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for culturally specific
+    spirit/witchcraft and Inuit ancestral-being labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0081
+  input_sha256: de446bb06c855a3e41792b5fee8f151eeef633d93996af6e75177845dddaf158
+

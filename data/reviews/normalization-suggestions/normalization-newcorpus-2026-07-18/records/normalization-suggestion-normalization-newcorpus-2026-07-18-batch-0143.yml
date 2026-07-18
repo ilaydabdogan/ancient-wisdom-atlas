@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0143
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.treacherous-hunt-arranged-as-setting-for-death
+  motif_id: treacherous_hunt_arranged_as_setting_for_death
+  label: treacherous hunt arranged as setting for death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hunt arranged to cause death centers on treachery and violated trust
+    rather than death transformation or afterlife passage.
+  cautions: Single occurrence; if the passage emphasizes heroic ambush or combat setting,
+    sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - treacherous_hunt
+  - betrayal_by_arranged_hunt
+  - fatal_hunt_as_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-invitation-preceding-kinsmen-s-deaths
+  motif_id: treacherous_invitation_preceding_kinsmen_s_deaths
+  label: Treacherous invitation preceding kinsmen's deaths
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: A false invitation that leads kin to death is a betrayal scene where
+    the broken social bond drives the event.
+  cautions: May overlap with hospitality_test_stranger_guest if guest-host obligation
+    is the main focus; verify source context.
+  suggested_aliases:
+  - treacherous_invitation
+  - fatal_invitation
+  - kinsmen_lured_to_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-buried-after-the-death-of-a-people
+  motif_id: treasure_buried_after_the_death_of_a_people
+  label: Treasure buried after the death of a people
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns treasure removed from circulation after collective
+    death, fitting power objects or valued objects tied to death and memory.
+  cautions: Could be an episode-specific burial detail rather than a recurring symbolic
+    motif; if the focus is memorial rites, heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - buried_treasure_after_collective_death
+  - dead_people_s_treasure
+  - treasure_removed_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-discovered-while-digging-a-grave
+  motif_id: treasure_discovered_while_digging_a_grave
+  label: Treasure discovered while digging a grave
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be grave folklore, treasure discovery, ancestor/dead
+    agency, or a passage-specific accident.
+  cautions: Do not map solely to death or sacred_treasures without evidence that the
+    treasure has sacred power, dead-person agency, or ritual function.
+  suggested_aliases:
+  - grave_digging_reveals_treasure
+  - treasure_found_in_grave_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-gained-after-an-encounter-with-the-dead
+  motif_id: treasure_gained_after_an_encounter_with_the_dead
+  label: treasure gained after an encounter with the dead
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The active encounter with the dead is the key narrative trigger; treasure
+    is gained through contact with postmortem agency.
+  cautions: If the dead are not restless or active agents, afterlife_passage or sacred_treasures
+    may be better; source evidence needed.
+  suggested_aliases:
+  - treasure_from_the_dead
+  - dead_person_grants_treasure
+  - encounter_with_dead_yields_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-interred-with-the-dead-and-removed-from-use
+  motif_id: treasure_interred_with_the_dead_and_removed_from_use
+  label: Treasure interred with the dead and removed from use
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Treasure placed with the dead and withdrawn from use fits funerary memorial
+    practice and social handling of the dead.
+  cautions: If the treasure itself is the focus as a power object, sacred_treasures
+    should be a secondary mapping.
+  suggested_aliases:
+  - grave_goods_removed_from_use
+  - treasure_buried_with_dead
+  - funerary_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-linked-kin-conflict-after-heroic-deaths
+  motif_id: treasure_linked_kin_conflict_after_heroic_deaths
+  label: Treasure-linked kin conflict after heroic deaths
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label combines heroic death, kin conflict, and contested treasure;
+    the conflict aftermath is closest to heroic combat cycles.
+  cautions: May be too composite and episode-specific; sacred_treasures or lament_and_mourning
+    may be secondary depending on passage emphasis.
+  suggested_aliases:
+  - treasure_conflict_after_heroic_death
+  - kin_conflict_over_heroic_treasure
+  - posthumous_treasure_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-quest-threatens-death-or-soul-loss
+  motif_id: treasure_quest_threatens_death_or_soul_loss
+  label: treasure quest threatens death or soul-loss
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: The distinctive danger is soul-loss during a quest, which fits the soul
+    loss complex more than generic treasure seeking.
+  cautions: If no actual soul displacement occurs and the motif is only a dangerous
+    quest, hero_journey or sacred_treasures may fit better.
+  suggested_aliases:
+  - dangerous_treasure_quest_soul_loss
+  - treasure_quest_with_soul_danger
+  - soul_loss_in_treasure_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-withheld-through-death-and-consigned-to-a-river
+  motif_id: treasure_withheld_through_death_and_consigned_to_a_river
+  label: treasure withheld through death and consigned to a river
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on treasure as a charged object deliberately withheld
+    and placed beyond human use through death and water disposal.
+  cautions: Could be an over-specific narrative detail; if river consigning marks
+    boundary passage or funerary rite, sacred_waters or heroic_funeral_rites may be
+    relevant.
+  suggested_aliases:
+  - treasure_consigned_to_river
+  - death_withheld_treasure
+  - treasure_removed_by_river_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-preserves-voices-of-the-dead
+  motif_id: tree_preserves_voices_of_the_dead
+  label: tree preserves voices of the dead
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Voices of the dead preserved in a tree suggest postmortem presence transformed
+    or retained in a natural form.
+  cautions: Culturally sensitive; if the tree functions as sacred center or ancestor
+    embodiment, axis_mundi or ancestor_rites may be secondary. Human review should
+    verify local meaning.
+  suggested_aliases:
+  - dead_voices_in_tree
+  - tree_as_repository_of_dead_voices
+  - voices_of_dead_preserved_in_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine treasure, death, and single-episode plot details; reviewers
+  should avoid promoting these to canonical motifs without recurrence or clear symbolic
+  function.
+- Treasure-related death motifs may need future review for a durable grave-treasure
+  or cursed/withheld treasure subgroup if similar labels recur across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion_model
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for final mapping, especially
+    for single-occurrence and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0143
+  input_sha256: 867454d39cd8d4fe7978046dfa5b4410ff9d226ae0e02d27b62103c8e291075e
+

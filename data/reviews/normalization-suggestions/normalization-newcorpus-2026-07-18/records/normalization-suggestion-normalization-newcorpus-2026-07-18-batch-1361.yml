@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1361
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.doubtful-encounter-with-a-nonhuman-messenger
+  motif_id: doubtful_encounter_with_a_nonhuman_messenger
+  label: doubtful encounter with a nonhuman messenger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A nonhuman messenger may indicate divine or supernatural guidance, but
+    the word doubtful makes the scene ambiguous.
+  cautions: Could be a narrative uncertainty marker, deceptive encounter, dream/vision,
+    or passage-specific detail; source evidence needed.
+  suggested_aliases:
+  - ambiguous nonhuman messenger
+  - uncertain supernatural messenger encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dove-as-sign-of-election
+  motif_id: dove_as_sign_of_election
+  label: Dove as sign of election
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An animal sign selecting or confirming a chosen figure fits divine guidance
+    and supernatural intervention.
+  cautions: If the focus is royal or sacred authorization, royal_legitimacy may be
+    a secondary mapping; preserve dove symbolism as local evidence.
+  suggested_aliases:
+  - animal sign of election
+  - dove election sign
+  - bird as divine selection sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.downfall-of-a-royal-people
+  motif_id: downfall_of_a_royal_people
+  label: Downfall of a royal people
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on collapse of a royal lineage or people, fitting kingship
+    and succession order when mythically framed.
+  cautions: Could instead be divine_judgment, pride_and_downfall, lament_and_mourning,
+    or a historical episode; needs passage context.
+  suggested_aliases:
+  - fall of royal lineage
+  - collapse of royal people
+  - royal house downfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.draught-of-forgetfulness
+  motif_id: draught_of_forgetfulness
+  label: Draught of forgetfulness
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: A drink that alters memory fits sacred or magical substances with transformative
+    effects on consciousness.
+  cautions: If used primarily as deceit or coercion, betrayal_violated_trust or storytelling_as_power
+    may be relevant secondary contexts.
+  suggested_aliases:
+  - drink of forgetfulness
+  - memory-erasing draught
+  - forgetfulness potion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.draught-of-forgetfulness-used-for-enslavement
+  motif_id: draught_of_forgetfulness_used_for_enslavement
+  label: draught of forgetfulness used for enslavement
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: The core mechanism is a memory-altering drink used to transform or control
+    a person.
+  cautions: The enslavement function should be preserved as evidence; may overlap
+    with betrayal, enchantment, or coercion if those become more specific groups.
+  suggested_aliases:
+  - enslaving drink of forgetfulness
+  - forgetfulness potion used for control
+  - memory-erasing draught for enslavement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreaded-forbidden-wood-with-hidden-inhabitants
+  motif_id: dreaded_forbidden_wood_with_hidden_inhabitants
+  label: Dreaded forbidden wood with hidden inhabitants
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A forbidden wood with hidden beings suggests an enchanted or liminal
+    realm adjacent to ordinary space.
+  cautions: Could be threshold_guardian, sacred_law taboo, or simple setting description;
+    map only if the wood functions as a supernatural realm or boundary.
+  suggested_aliases:
+  - forbidden enchanted wood
+  - hidden inhabitants of forbidden forest
+  - dreaded supernatural forest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-causing-forgetfulness-of-jealousy
+  motif_id: drink_causing_forgetfulness_of_jealousy
+  label: drink causing forgetfulness of jealousy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: A drink that changes memory or emotion belongs with consciousness-altering
+    sacred or magical substances.
+  cautions: The jealousy detail is likely over-specific; preserve it as episode evidence
+    rather than a separate motif unless it recurs.
+  suggested_aliases:
+  - emotion-erasing drink
+  - drink of emotional forgetfulness
+  - forgetfulness draught for jealousy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-followed-by-sleep-and-an-overpowered-encounter
+  motif_id: drink_followed_by_sleep_and_an_overpowered_encounter
+  label: Drink followed by sleep and an overpowered encounter
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A drink inducing sleep or vulnerability fits magical substance effects
+    on consciousness and agency.
+  cautions: If the key motif is betrayal through drink, map secondarily to betrayal_violated_trust;
+    if sleep enchantment is central, enchanting_music/storytelling_as_power analogies
+    may not be exact.
+  suggested_aliases:
+  - sleep-inducing drink
+  - drugged drink and overpowering
+  - drink causing vulnerable sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-induced-forgetfulness
+  motif_id: drink_induced_forgetfulness
+  label: Drink-induced forgetfulness
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of a forgetfulness-inducing magical drink.
+  cautions: Preserve whether forgetfulness enables transformation, deception, enslavement,
+    or initiation in the passage notes.
+  suggested_aliases:
+  - drink of forgetfulness
+  - draught of forgetfulness
+  - memory-erasing drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-of-forgetfulness
+  motif_id: drink_of_forgetfulness
+  label: drink of forgetfulness
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: alias
+  confidence: high
+  rationale: This is an alias of the forgetfulness draught pattern under magical or
+    sacred substances.
+  cautions: Do not infer afterlife river-of-forgetfulness or initiation without passage
+    evidence; here the label only indicates a memory-altering drink.
+  suggested_aliases:
+  - draught of forgetfulness
+  - drink-induced forgetfulness
+  - forgetfulness potion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several drink/forgetfulness labels appear to be close duplicates and can likely
+  be consolidated under sacred_substance while preserving coercion, jealousy, sleep,
+  or enslavement details as evidence notes.
+- Single-occurrence contextual labels should remain provisional until source passages
+  confirm whether they are motifs rather than episode descriptions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed for ambiguous messenger,
+    royal downfall, and forbidden wood labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1361
+  input_sha256: 5c1427d88c64b2ff8f3a9741723beda957437b7056c93061ef5e893fe2b033bd
+

@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0013
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ball-game-linked-with-tomb-and-ancestors
+  motif_id: ball_game_linked_with_tomb_and_ancestors
+  label: Ball game linked with tomb and ancestors
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label links a ritual game with tombs and ancestors, suggesting mortuary
+    or ancestor-related ritual practice.
+  cautions: Single occurrence and culturally specific; the ball game may also be cosmological,
+    underworld, calendrical, or elite memorial symbolism rather than ancestor rites
+    narrowly.
+  suggested_aliases:
+  - ritual_game_linked_with_ancestors
+  - ball_game_as_ancestor_or_tomb_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ball-game-with-underworld-rulers
+  motif_id: ball_game_with_underworld_rulers
+  label: Ball game with underworld rulers
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest involving underworld rulers fits an encounter or ordeal in
+    the underworld/descent complex.
+  cautions: Do not reduce all Mesoamerican ball-game symbolism to descent; if the
+    passage emphasizes ritual sport, cosmology, sacrifice, or kingship, secondary
+    placement may be needed.
+  suggested_aliases:
+  - underworld_ball_game
+  - contest_with_underworld_rulers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bard-links-present-hero-to-ancestral-heroic-exempla
+  motif_id: bard_links_present_hero_to_ancestral_heroic_exempla
+  label: bard links present hero to ancestral heroic exempla
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The bardic act uses narrative memory to authorize or frame the present
+    hero through ancestral exempla.
+  cautions: If the emphasis is lineage legitimacy rather than poetic performance,
+    royal_legitimacy may be a better secondary group; single occurrence may be a passage-specific
+    literary device.
+  suggested_aliases:
+  - bardic_ancestral_exempla
+  - hero_linked_to_ancestral_exemplars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bargain-with-dead-reversed-by-theft-and-bird-carrying
+  motif_id: bargain_with_dead_reversed_by_theft_and_bird_carrying
+  label: bargain with Dead reversed by theft and bird-carrying
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: A bargain with the dead suggests exchange across the living-dead boundary,
+    but the reversal by theft and bird-carrying complicates the function.
+  cautions: Highly specific composite label; could involve trickster theft, restless
+    dead, soul transport, or a local tale episode. Needs source context before mapping.
+  suggested_aliases:
+  - bargain_with_the_dead
+  - exchange_with_dead_reversed_by_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.barren-wife-in-an-ancestral-family-line
+  motif_id: barren_wife_in_an_ancestral_family_line
+  label: Barren wife in an ancestral family line
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: low
+  rationale: Barren-wife episodes often frame extraordinary lineage continuation or
+    sacred birth within an ancestral line.
+  cautions: The label alone names a social/genealogical condition, not necessarily
+    a miraculous birth; could be too contextual unless divine intervention or promised
+    child is present.
+  suggested_aliases:
+  - barren_matriarch_in_ancestral_line
+  - infertility_before_lineage_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bat-as-underworld-sign-and-bat-deity
+  motif_id: bat_as_underworld_sign_and_bat_deity
+  label: Bat as underworld sign and bat deity
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The bat is identified as an underworld sign or deity, linking it to chthonic
+    symbolism.
+  cautions: Animal-deity symbolism is culturally specific and not equivalent to a
+    descent narrative. Could need an animal/deity or underworld-symbol subgroup if
+    recurrent.
+  suggested_aliases:
+  - bat_as_chthonic_sign
+  - bat_underworld_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-aftermath-with-healing-and-burial-of-the-dead
+  motif_id: battle_aftermath_with_healing_and_burial_of_the_dead
+  label: battle aftermath with healing and burial of the dead
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The burial of battle dead after combat fits heroic funerary rites and
+    social repair after war.
+  cautions: Healing of survivors may point to divine_intervention or restoration;
+    if burial is incidental battlefield aftermath, preserve as evidence detail rather
+    than a strong motif.
+  suggested_aliases:
+  - burial_after_battle
+  - battlefield_healing_and_funeral_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-over-a-dead-hero-s-body
+  motif_id: battle_over_a_dead_hero_s_body
+  label: battle over a dead hero's body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Conflict over a dead hero's body centers on corpse retrieval, burial
+    honor, and memorial obligations.
+  cautions: Also related to sacred_combat and warrior honor; use heroic_funeral_rites
+    when the corpse and burial honor are central.
+  suggested_aliases:
+  - contest_over_dead_hero_body
+  - corpse_retrieval_for_heroic_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-contest-over-a-fallen-warrior-s-corpse-and-arms
+  motif_id: battlefield_contest_over_a_fallen_warrior_s_corpse_and_arms
+  label: battlefield contest over a fallen warrior's corpse and arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: A contest over a fallen warrior's corpse and arms fits the heroic funeral
+    and memorialization complex, especially body retrieval and honor objects.
+  cautions: The arms may also function as sacred_treasures or warrior-status tokens;
+    avoid treating the whole episode only as object contest if burial honor is primary.
+  suggested_aliases:
+  - contest_over_fallen_warrior_body_and_arms
+  - battlefield_body_and_arms_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-glory-and-mass-death
+  motif_id: battlefield_glory_and_mass_death
+  label: Battlefield glory and mass death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: broader_label
+  confidence: medium
+  rationale: The label frames martial death and glory as a heroic-warrior value pattern
+    within sacred combat.
+  cautions: Broad and abstract; if it is merely descriptive of battle casualties,
+    it may be too generic for motif queries. Lament_and_mourning may fit if grief
+    rather than glory is emphasized.
+  suggested_aliases:
+  - warrior_glory_in_mass_death
+  - battlefield_death_and_glory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific; placements should be
+  treated as provisional indexing suggestions, not transmission or equivalence claims.
+- Mesoamerican ball-game and bat-underworld labels especially need source-context
+  review because ritual, calendrical, royal, cosmological, and underworld functions
+  may overlap.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for ambiguous composite
+    and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0013
+  input_sha256: 4b63d6828b0986fdde1b9d5a3cd9120ce22d60981a95565183d8a2b3deaf7f13
+

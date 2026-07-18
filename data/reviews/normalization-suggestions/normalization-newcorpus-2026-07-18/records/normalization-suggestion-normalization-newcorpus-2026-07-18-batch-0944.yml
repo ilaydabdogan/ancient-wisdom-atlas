@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0944
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.luring-enemies-onto-dangerous-terrain
+  motif_id: luring_enemies_onto_dangerous_terrain
+  label: Luring enemies onto dangerous terrain
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a battle stratagem using terrain to defeat enemies,
+    fitting combat tactics better than nature symbolism.
+  cautions: Single occurrence; if the passage is ordinary tactical action without
+    sacred or mythic framing, it may be too contextual.
+  suggested_aliases:
+  - terrain ambush
+  - enemy lured into dangerous ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-flight-with-thrown-objects-creating-obstacles
+  motif_id: magic_flight_with_thrown_objects_creating_obstacles
+  label: magic flight with thrown objects creating obstacles
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Obstacles
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a well-defined pursuit-escape pattern where magical objects create
+    obstacles; no existing group cleanly covers magical flight.
+  cautions: Could be indexed secondarily under hero_journey if the flight is part
+    of a quest, but the distinctive function is pursuit escape.
+  suggested_aliases:
+  - magic obstacle flight
+  - thrown objects create pursuit obstacles
+  - magical pursuit escape
+  suggested_new_group:
+    id: magic_flight_pursuit_obstacles
+    label: Magic Flight and Pursuit Obstacles
+    description: Escape from pursuers through magical obstacles, transformed objects,
+      terrain barriers, or supernatural impediments created during flight.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_waters
+    reason_existing_groups_insufficient: Hero_journey covers travel and ordeal broadly,
+      while trickster covers deception; neither preserves the recurring escape structure
+      of magical pursuit obstacles.
+- suggestion_id: normalization.suggestion.magic-instrument-lost-to-the-underwater-realm
+  motif_id: magic_instrument_lost_to_the_underwater_realm
+  label: Magic instrument lost to the underwater realm
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magic instrument is primarily a sound-power object, with underwater
+    loss as the local episode setting.
+  cautions: If the passage emphasizes a powerful object rather than music, sacred_treasures
+    may be a better primary group; underwater realm may also relate to otherworld
+    or sacred_waters.
+  suggested_aliases:
+  - lost magic instrument
+  - musical power object lost underwater
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-mill-producing-food-and-wealth-then-lost-in-the-sea
+  motif_id: magic_mill_producing_food_and_wealth_then_lost_in_the_sea
+  label: Magic mill producing food and wealth, then lost in the sea
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The inexhaustible production of food and wealth matches the existing
+    miraculous or inexhaustible provision cluster under divine_intervention.
+  cautions: The mill is also a power object and the sea-loss may be etiological; consider
+    sacred_treasures or cosmic_origin as secondary if the source explains sea salt
+    or landscape conditions.
+  suggested_aliases:
+  - magic mill of abundance
+  - inexhaustible mill
+  - wealth-producing mill lost at sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-object-creates-a-bridge-over-water
+  motif_id: magic_object_creates_a_bridge_over_water
+  label: Magic object creates a bridge over water
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a magically enabled bridge, aligning with divinely
+    aided bridgecraft and sacred construction.
+  cautions: If the narrative function is crossing a dangerous water boundary, sacred_waters
+    or hero_journey may be useful secondary mappings.
+  suggested_aliases:
+  - magical bridge over water
+  - divinely aided bridgecraft
+  - bridge created by magic object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-obstacle-flight
+  motif_id: magic_obstacle_flight
+  label: magic obstacle flight
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Obstacles
+  relationship: alias
+  confidence: high
+  rationale: This is the concise label for the same magical-pursuit obstacle pattern
+    proposed as a new candidate group.
+  cautions: Confirm source evidence involves pursuit and escape rather than a generic
+    magical journey obstacle.
+  suggested_aliases:
+  - magic flight
+  - obstacle flight
+  - magical pursuit obstacles
+  suggested_new_group:
+    id: magic_flight_pursuit_obstacles
+    label: Magic Flight and Pursuit Obstacles
+    description: Escape from pursuers through magical obstacles, transformed objects,
+      terrain barriers, or supernatural impediments created during flight.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_waters
+    reason_existing_groups_insufficient: Existing groups cover journeys, tricks, or
+      transformations but not the specific pursuit-flight structure in which obstacles
+      are magically generated to block pursuers.
+- suggestion_id: normalization.suggestion.magic-obstacle-raised-from-water-to-wreck-pursuers
+  motif_id: magic_obstacle_raised_from_water_to_wreck_pursuers
+  label: magic obstacle raised from water to wreck pursuers
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Obstacles
+  relationship: narrower_than
+  confidence: medium
+  rationale: A water-raised obstacle that destroys pursuers is a specific variant
+    of magical pursuit obstruction.
+  cautions: May also involve sacred_waters if the water boundary is ritually or cosmologically
+    important; avoid mapping to flood unless world destruction or renewal is present.
+  suggested_aliases:
+  - water obstacle against pursuers
+  - magical water barrier in flight
+  - pursuers wrecked by raised obstacle
+  suggested_new_group:
+    id: magic_flight_pursuit_obstacles
+    label: Magic Flight and Pursuit Obstacles
+    description: Escape from pursuers through magical obstacles, transformed objects,
+      terrain barriers, or supernatural impediments created during flight.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_waters
+    reason_existing_groups_insufficient: Sacred_waters captures the element, but not
+      the pursuit-escape function; hero_journey is too broad for this recurrent magical-flight
+      device.
+- suggestion_id: normalization.suggestion.magic-storm-of-natural-objects-and-weapons
+  motif_id: magic_storm_of_natural_objects_and_weapons
+  label: magic storm of natural objects and weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural storm of objects and weapons functions as a combat or
+    ordeal attack rather than a generic weather motif.
+  cautions: If produced by a divine warrior or cosmic judgment, divine_warrior or
+    divine_judgment may be secondary; if it is merely marvel imagery, review context
+    is needed.
+  suggested_aliases:
+  - supernatural weapon storm
+  - magical barrage of natural objects
+  - storm of weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-alteration-of-natural-elements-by-touch
+  motif_id: magical_alteration_of_natural_elements_by_touch
+  label: magical alteration of natural elements by touch
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish transformation, sacred craft, divine
+    intervention, or elemental magic.
+  cautions: Needs passage evidence about what element changes, why it changes, and
+    whether the function is creation, weaponry, healing, testing, or wonder-working.
+  suggested_aliases:
+  - elemental transformation by touch
+  - magic touch changes nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-control-and-denial-of-water
+  motif_id: magical_control_and_denial_of_water
+  label: magical control and denial of water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on water as a controlled, withheld, or boundary-making
+    sacred element.
+  cautions: If denial of water is a punishment or ordeal, divine_judgment or hero_journey
+    may be secondary; if it concerns rainmaking coercion, sacred_exchange may fit
+    better.
+  suggested_aliases:
+  - water withheld by magic
+  - magical water control
+  - denial of water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are pursuit-escape or magical-flight motifs that are
+  not well preserved by current broad journey, trickster, or water groups; a new review
+  candidate for Magic Flight and Pursuit Obstacles is recommended.
+- Nature-element labels should not be automatically mapped to flood, creation, or
+  sacred waters unless the passage function supports that placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; source context should be checked for single-occurrence
+    and over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0944
+  input_sha256: aa0a9acf1610a16874d33e2024a80ab57ddd8efceab7c98a4d07f70274faa645
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1076
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-slays-monsters-and-takes-cattle-from-beyond-ocean
+  motif_id: hero_slays_monsters_and_takes_cattle_from_beyond_ocean
+  label: Hero slays monsters and takes cattle from beyond Ocean
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Combines monster-slaying, cattle-taking, and a raid beyond a liminal
+    boundary, matching the cattle-raid and sacred-combat complex.
+  cautions: Could also relate to hero_journey or divine_warrior if the source emphasizes
+    quest structure or cosmic combat rather than cattle raid.
+  suggested_aliases:
+  - monster_slaying_cattle_raid
+  - cattle_taken_from_beyond_ocean
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-summoned-after-renewed-calamity
+  motif_id: hero_summoned_after_renewed_calamity
+  label: hero summoned after renewed calamity
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A crisis summons the hero into renewed action, functioning like a call-to-adventure
+    or return-to-duty episode.
+  cautions: If the calamity is divine punishment or apocalypse, divine_judgment or
+    flood_and_renewal may be secondary; label is too contextual for a new group.
+  suggested_aliases:
+  - hero_called_after_calamity
+  - renewed_crisis_summons_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-surpasses-companions-in-the-hunt
+  motif_id: hero_surpasses_companions_in_the_hunt
+  label: hero surpasses companions in the hunt
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: Superior hunting skill can mark heroic excellence within an ordeal or
+    reputation-building journey episode.
+  cautions: May be merely an episode detail or martial-status marker; no existing
+    hunting-specific group is warranted from one occurrence.
+  suggested_aliases:
+  - heroic_hunting_prowess
+  - hero_outdoes_companions_in_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-survives-a-falling-rock-attack-through-sorcery
+  motif_id: hero_survives_a_falling_rock_attack_through_sorcery
+  label: Hero survives a falling-rock attack through sorcery
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival of a lethal ambush through supernatural skill functions as a
+    threshold ordeal proving the hero.
+  cautions: If the focus is invulnerability or a specific hidden weakness, conditional_invulnerability_hidden_weakness
+    may be relevant; if sorcery is central, current groups do not cleanly capture
+    magical protection.
+  suggested_aliases:
+  - hero_survives_lethal_ambush_by_magic
+  - magical_survival_of_falling_rock_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-survives-repeated-lethal-ordeals
+  motif_id: hero_survives_repeated_lethal_ordeals
+  label: Hero survives repeated lethal ordeals
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: alias
+  confidence: high
+  rationale: Repeated lethal tests are a clear ordeal sequence that proves or transforms
+    heroic status.
+  cautions: Could also support hero_journey if embedded in departure-trial-return
+    structure; do not infer resurrection unless the hero actually dies and returns.
+  suggested_aliases:
+  - repeated_lethal_ordeals
+  - heroic_ordeal_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-tested-against-cosmic-scale-opponents
+  motif_id: hero_tested_against_cosmic_scale_opponents
+  label: Hero tested against cosmic-scale opponents
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat or contest against superhuman cosmic opponents functions as an
+    extraordinary test of the hero.
+  cautions: If opponents embody chaos or the combat establishes cosmic order, divine_warrior
+    may be a stronger secondary mapping.
+  suggested_aliases:
+  - cosmic_opponent_test
+  - heroic_trial_against_cosmic_opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-tests-extraordinary-strength-on-landscape-objects
+  motif_id: hero_tests_extraordinary_strength_on_landscape_objects
+  label: Hero tests extraordinary strength on landscape objects
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: Testing strength can mark heroic prowess before or during a quest or
+    ordeal.
+  cautions: Landscape-object detail may be passage-specific; only map elsewhere if
+    the action reshapes the landscape etiologically or cosmologically.
+  suggested_aliases:
+  - heroic_strength_test
+  - strength_test_on_landscape_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-too-large-for-ordinary-doorway
+  motif_id: hero_too_large_for_ordinary_doorway
+  label: Hero too large for ordinary doorway
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to be a highly specific physical-description episode
+    rather than a reusable mythic motif.
+  cautions: If the source uses giant size as a recurring sign of liminality or threshold
+    transgression, human review could map it to initiation or threshold imagery.
+  suggested_aliases:
+  - giant_hero_too_large_for_doorway
+  - oversized_hero_at_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-unmatched-in-public-contests
+  motif_id: hero_unmatched_in_public_contests
+  label: Hero unmatched in public contests
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public contests test and display heroic status, functioning as social
+    ordeal and recognition.
+  cautions: If the contests determine marriage, succession, or kingship, sacred_love
+    or royal_legitimacy may be better secondary groups.
+  suggested_aliases:
+  - heroic_public_contest
+  - hero_unmatched_in_contests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-warned-away-but-accepts-the-monster-challenge
+  motif_id: hero_warned_away_but_accepts_the_monster_challenge
+  label: Hero warned away but accepts the monster challenge
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Acceptance of a monster challenge despite warning fits heroic combat
+    against dangerous nonhuman opponents.
+  cautions: Could be initiation or hero_journey if the warning marks the threshold
+    rather than sacred combat; monster identity and stakes need source review.
+  suggested_aliases:
+  - warned_hero_accepts_monster_challenge
+  - monster_challenge_accepted_despite_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence heroic prowess or ordeal labels; preserve as granular
+  evidence rather than promoting new taxonomy families.
+- Where labels describe contests, hunts, or strength tests without transformation,
+  prefer low-confidence broad placement and avoid creating a generic heroic-prowess
+  group until recurrence is demonstrated.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should determine whether these
+    are true motifs or episode-specific heroic details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1076
+  input_sha256: 6faf0da9171c0906d90dcc1b08a3bbf9f2147eb382493cde16be0169deb7ceed
+

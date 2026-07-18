@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0520
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-incomplete-rainbow-form
+  motif_id: named_incomplete_rainbow_form
+  label: Named incomplete rainbow form
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to a named visual or cosmological form, but its narrative
+    or ritual function is unclear from wording alone.
+  cautions: Navajo rainbow symbolism may be culturally specific; do not fold into
+    generic vision, sacred waters, or axis imagery without source evidence.
+  suggested_aliases:
+  - incomplete_rainbow_form
+  - named_rainbow_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-instruments-of-destined-destruction
+  motif_id: named_instruments_of_destined_destruction
+  label: named instruments of destined destruction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Named agents or instruments carrying out destined destruction fit the
+    broader fate/decreed-death complex.
+  cautions: If the focus is apocalyptic judgment or sacred weaponry rather than fate,
+    divine_judgment or sacred_treasures may be better secondary mappings.
+  suggested_aliases:
+  - destined_instruments_of_destruction
+  - named_instruments_of_fated_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-object-obeying-a-summons
+  motif_id: named_object_obeying_a_summons
+  label: named object obeying a summons
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An object that responds to summons functions as an empowered or animate
+    power object.
+  cautions: Could instead belong under sacred_craft if the emphasis is manufactured
+    animation, or curse_blessing_speech if the summoning word is central.
+  suggested_aliases:
+  - summoned_power_object
+  - responsive_named_object
+  - object_obeying_summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-ruin-as-former-dwelling-of-divinities
+  motif_id: named_ruin_as_former_dwelling_of_divinities
+  label: named ruin as former dwelling of divinities
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A named ruin identified as a former divine dwelling may mark sacred geography
+    or a former sacred center.
+  cautions: Could be etiological place lore, local sacred geography, or passage-specific
+    place naming; needs source review before broad indexing.
+  suggested_aliases:
+  - divine_former_dwelling_ruin
+  - ruin_as_divine_dwelling
+  - sacred_ruin_of_divinities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-variants-of-a-cinderella-heroine
+  motif_id: named_variants_of_a_cinderella_heroine
+  label: Named variants of a Cinderella heroine
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes comparative variant labeling rather than a motif
+    within a narrative passage.
+  cautions: If the source contains an actual persecuted heroine episode, create or
+    map that narrative motif separately rather than indexing this wording.
+  suggested_aliases:
+  - cinderella_heroine_variant_names
+  - named_cinderella_variants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-warriors-disappear-from-the-sequel-after-battle
+  motif_id: named_warriors_disappear_from_the_sequel_after_battle
+  label: Named warriors disappear from the sequel after battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This notes narrative continuity or source-composition behavior rather
+    than a symbolic motif.
+  cautions: If disappearance is explicitly supernatural, death-related, or ritualized
+    in the passage, remap the underlying event instead of this editorial observation.
+  suggested_aliases:
+  - warriors_absent_from_sequel
+  - named_warriors_drop_out_after_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-weapon-loaned-for-a-perilous-trial
+  motif_id: named_weapon_loaned_for_a_perilous_trial
+  label: Named weapon loaned for a perilous trial
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A named weapon lent for an ordeal is a power object enabling a trial
+    or heroic test.
+  cautions: If the trial itself is the focus, initiation or sacred_combat may be useful
+    secondary mappings.
+  suggested_aliases:
+  - loaned_named_weapon
+  - weapon_loaned_for_trial
+  - borrowed_power_weapon_for_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-revelation-validated-through-earlier-scriptural-authority
+  motif_id: new_revelation_validated_through_earlier_scriptural_authority
+  label: new revelation validated through earlier scriptural authority
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns authorization and transmission of revelation as sacred
+    knowledge through prior scripture.
+  cautions: May be theological argument or commentary rather than narrative motif;
+    review whether this is passage content or interpretive framing.
+  suggested_aliases:
+  - revelation_validated_by_scripture
+  - scriptural_authority_validates_revelation
+  - new_revelation_confirmed_by_earlier_scripture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-song-and-instrumental-praise
+  motif_id: new_song_and_instrumental_praise
+  label: new song and instrumental praise
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Song and instrumental praise are sacred sound acts, fitting the broad
+    music-as-power group.
+  cautions: If the emphasis is liturgical devotion without supernatural efficacy,
+    sacred_song or sacred_exchange may be better; avoid overstating enchantment.
+  suggested_aliases:
+  - new_song_of_praise
+  - instrumental_praise
+  - sacred_song_with_instruments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-vigil-and-recitation-before-a-weighty-word
+  motif_id: night_vigil_and_recitation_before_a_weighty_word
+  label: night vigil and recitation before a weighty word
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Vigil and recitation prepare for reception or transmission of a weighty
+    revelation, fitting sacred knowledge practice.
+  cautions: Could also map to mystical_quest if the vigil is ascetic discipline, or
+    storytelling_as_power if recitation itself is the central sacred act.
+  suggested_aliases:
+  - night_vigil_before_revelation
+  - recitation_before_weighty_word
+  - vigil_and_recitation_for_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with 'named' and may be generated from proper-name or cataloging
+  details; preserve names as evidence but avoid treating name-specific wording as
+  canonical.
+- Single-occurrence items with culturally specific ritual or cosmological content
+  should remain provisional pending source-level review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0520
+  input_sha256: 344880f889f9d7f2c01016848a7e2f16824d466f4a0cc9ef70811408b71538f8
+

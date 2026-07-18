@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l19416-l19538
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    XI,   1-4.  335 / CHAPTER    XI,  4,   5.  S37 / Chapter  XII.
+    / CHAPTER    XII,  4,   5.  341; lines 19416-19538
+  start: '19416'
+  end: '19538'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual rules concerning death observances, almsgiving
+    and afterlife clothing, presentation of holy-water to the nearest fire, the post-mortem
+    movement of consciousness to fire and celestial bodies, treatment of nail-parings,
+    childbirth under light, and offerings of food or sacred cakes to the moon and
+    other angels.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The clothing of the charitable soul, including clothing later given to it,
+    is said to come from almsgivings.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After someone dies and the three nights of fasting are kept, holy-water is
+    to be presented to the nearest fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When human consciousness is severed, it is said to go out first to the nearest
+    fire, then to the stars, then to the moon, and then to the sun.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The nearest fire reached by the consciousness is said to need to become stronger.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A nail-paring should not be left unprayed over; if it is not prayed over,
+    it turns into arms and equipment of the Mazanan demons.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Childbirth labor is not to be done at night unless light from a fire, or from
+    the stars and moon, is upon it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says that over the soul of one who works in the dark there is
+    more predominance of the evil spirit.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Egg and other food offerings are to be allowed for the sovereign moon and
+    other angels, using a formula that consecrates a stated amount of food for a named
+    angel.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says grievous things are shown about those who do not make offerings
+    to the angels.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: charitable soul
+  description: A soul whose clothing is described as coming from almsgivings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: consciousness of the deceased
+  description: The consciousness of a dead person, said to go out to the nearest fire,
+    stars, moon, and sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mazanan demons
+  description: Demons whose arms and equipment are said to be formed from an unprayed-over
+    nail-paring.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: evil spirit
+  description: A hostile spirit whose predominance is said to be greater over the
+    soul of one who works in the dark.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: sovereign moon
+  description: The moon named as a recipient of food offerings and favours.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: other angels
+  description: Angels named as recipients of consecrated food offerings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: almsgiving-clothed afterlife soul
+  assigned_to:
+  - fig:1
+  basis: The passage says the charitable soul's clothing is out of almsgivings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: post-mortem traveler
+  assigned_to:
+  - fig:2
+  basis: The consciousness moves after death through a sequence beginning with the
+    nearest fire and continuing to celestial bodies.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: demonic recipient of empowered refuse
+  assigned_to:
+  - fig:3
+  basis: The nail-paring that is not prayed over becomes the demons' arms and equipment.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: darkness-associated hostile power
+  assigned_to:
+  - fig:4
+  basis: The evil spirit is said to predominate more over the soul of one who works
+    in the dark.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of consecrated offering
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage directs consecration of food for the sovereign moon and other
+    angels.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: The nearest fire that receives holy-water and to which severed consciousness
+    first goes; also light used during childbirth at night.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: holy-water
+  literal_form: Holy-water presented to the nearest fire after a death.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: celestial stations
+  literal_form: Stars, moon, and sun named in the sequence after the nearest fire.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: almsgiving clothing
+  literal_form: Clothing of the charitable soul made from almsgivings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: nail-paring
+  literal_form: A nail-paring that, if unprayed over, becomes arms and equipment of
+    Mazanan demons.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: ritual food and sacred cake
+  literal_form: Egg, other food, and sacred cakes consecrated for the moon or an angel.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: protective light
+  literal_form: Light from fire, stars, and moon required during childbirth labor
+    at night.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Charitable soul clothed by almsgivings
+  summary: The passage states that a charitable soul's clothing is produced from almsgivings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death rite and consciousness route
+  summary: After a death and three nights of fasting, holy-water is offered to the
+    nearest fire because the severed consciousness goes to that fire and then onward
+    to stars, moon, and sun.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Unprayed nail-paring becomes demonic equipment
+  summary: A nail-paring not prayed over is said to become arms and equipment for
+    the Mazanan demons.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Childbirth under light against darkness
+  summary: Childbirth at night is restricted unless light from fire, stars, or moon
+    is present, because working in the dark is associated with greater predominance
+    of the evil spirit over the soul.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Consecrated food for moon and angels
+  summary: Food and sacred cakes are to be consecrated for the sovereign moon and
+    other angels, and failure to make offerings to angels is condemned.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: after-death route through fire and celestial stations
+  taxonomy_refs:
+  - afterlife_journey_map
+  - ascent
+  basis: The severed consciousness moves from the nearest fire to the stars, moon,
+    and sun.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a ritual-theological route, not a narrative journey
+    with named travelers.
+- id: motif:2
+  label: ritual exchange provisioning the soul or divine recipients
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Almsgivings provide clothing for the charitable soul; holy-water is presented
+    to fire; food is consecrated for the moon and angels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents prescriptive ritual rules, so the motif is inferred
+    from repeated exchange-like ritual actions rather than from a single mythic episode.
+- id: motif:3
+  label: light-protected childbirth against evil influence
+  taxonomy_refs:
+  - duality
+  - sacred_birth
+  basis: Childbirth at night requires light from fire, stars, or moon, and darkness
+    is linked with greater predominance of the evil spirit.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage concerns ordinary childbirth ritual conditions; no sacred
+    child is named.
+- id: motif:4
+  label: neglected bodily remnant becomes demonic weaponry
+  taxonomy_refs: []
+  basis: An unprayed-over nail-paring becomes the arms and equipment of Mazanan demons.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this impurity or ritual-negligence
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links its after-death consciousness route to the Dāmdād
+    Nask, supporting a cautious comparison within the Zoroastrian corpus for the same
+    afterlife-route motif.
+  claim_level: same_motif
+  target: Dāmdād Nask account of consciousness going to fire, stars, moon, and sun
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a cited or summarized excerpt of the Nask,
+    not the full independent source context.
+- id: claim:2
+  claim: The passage explicitly says the rule about unprayed nail-parings becoming
+    demonic equipment is shown in the Vendidad, supporting a same-function comparison
+    within the Zoroastrian ritual corpus.
+  claim_level: same_function
+  target: Vendidad rule on nail-parings and Mazanan demons
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage cites the Vendidad but does not quote the cited passage
+    in full.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19416-19424; Chapter XII, 4
+  quote_or_summary: The passage says the clothing of the charitable soul, including
+    clothing given to it, is from almsgivings.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 19426-19445 and following page continuation; Chapter XII, 5
+  quote_or_summary: After death and three nights of fasting, holy-water is presented
+    to the nearest fire; the severed consciousness goes to the nearest fire, then
+    stars, moon, and sun, and that fire should become stronger.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: Chapter XII, 6
+  quote_or_summary: A nail-paring must not be left unprayed over, because if it is
+    not prayed over it becomes arms and equipment of the Mazanan demons; the passage
+    says this is shown in the Vendidad.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: Chapter XII, 7
+  quote_or_summary: Childbirth labor should not be done at night except with light
+    from fire, stars, or moon; the passage says the evil spirit has more predominance
+    over the soul of one who works in the dark.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: Chapter XII, 8-10
+  quote_or_summary: Egg and other food are consecrated for the sovereign moon and
+    other angels using a specified formula; failure to make offerings to angels is
+    described as grievous.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is prescriptive and explicit.
+    Motif mapping is more tentative where ritual rules are mapped to broad motif-family
+    taxonomy. Comparison claims are limited to explicit intra-passage citations of
+    other Zoroastrian texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used; all claims are based on the supplied passage and metadata.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l19416-l19538
+  passage_sha256=edc6b8bf6ba18674cde488e11282eaff3a29b21ff16a292922c2a68eea1bf4dd
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0764
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-favor-transforms-the-poor-child-s-fortune
+  motif_id: royal_favor_transforms_the_poor_child_s_fortune
+  label: Royal favor transforms the poor child's fortune
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Royal favor changes a child's status, which may fit royal patronage and
+    legitimated social elevation.
+  cautions: Single occurrence and may be a moral tale or social-fortune episode rather
+    than sacred kingship; Sufi context may instead emphasize divine grace or poverty.
+  suggested_aliases:
+  - royal patronage transforms lowly child
+  - poor child elevated by royal favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-hunt-reveals-hidden-maiden
+  motif_id: royal_hunt_reveals_hidden_maiden
+  label: royal hunt reveals hidden maiden
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: The core function appears to be discovery or recognition of a hidden
+    identity during a royal hunt.
+  cautions: Could be a courtship setup, persecuted maiden episode, or simple plot
+    detail; no existing group cleanly covers hunt-discovery scenes.
+  suggested_aliases:
+  - hunt reveals hidden bride
+  - royal hunt discovers concealed maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-marriage-reward-for-delivering-a-castle
+  motif_id: royal_marriage_reward_for_delivering_a_castle
+  label: Royal marriage reward for delivering a castle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage is offered as a reward for heroic achievement, matching existing
+    bride-winning and marriage-choice children under sacred_love.
+  cautions: If the emphasis is military conquest or royal service rather than marriage,
+    sacred_combat or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - bride reward for heroic service
+  - royal marriage as reward for castle deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-marriage-reward-for-killing-a-dangerous-animal-adversary
+  motif_id: royal_marriage_reward_for_killing_a_dangerous_animal_adversary
+  label: Royal marriage reward for killing a dangerous animal adversary
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label is a bride-winning reward after defeating a dangerous adversary,
+    already represented by marriage-contest patterns.
+  cautions: The animal adversary may be central if it functions as monster combat,
+    trickster animal, or initiation ordeal; preserve that evidence separately.
+  suggested_aliases:
+  - bride reward for monster slaying
+  - marriage prize for killing animal adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-remarriage-proposal-to-a-widow
+  motif_id: royal_remarriage_proposal_to_a_widow
+  label: royal remarriage proposal to a widow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a contextual marriage proposal detail rather than a durable
+    mythic motif.
+  cautions: If the proposal determines sovereignty, succession, widow protection,
+    or sacred marriage, review for royal_legitimacy or sacred_love.
+  suggested_aliases:
+  - king proposes remarriage to widow
+  - widow receives royal remarriage proposal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-rewards-and-bride-offered-for-combat-against-a-hero
+  motif_id: royal_rewards_and_bride_offered_for_combat_against_a_hero
+  label: Royal rewards and bride offered for combat against a hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The bride and rewards motivate combat against a hero, so the narrative
+    function is martial challenge and reward.
+  cautions: Could also index under sacred_love if bride-winning is the main pattern;
+    avoid treating the bride only as love motif when she functions as combat prize.
+  suggested_aliases:
+  - bride and treasure offered for heroic combat
+  - royal reward for fighting a hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-search-for-a-worthy-unwed-bride
+  motif_id: royal_search_for_a_worthy_unwed_bride
+  label: Royal search for a worthy unwed bride
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal bride search belongs with existing marriage-choice and bride-selection
+    patterns under sacred_love.
+  cautions: If the bride's worthiness confers sovereignty or lineage legitimacy, royal_legitimacy
+    may be a secondary placement.
+  suggested_aliases:
+  - search for worthy bride
+  - royal bride selection
+  - quest for unwed bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-monster-slayer-rescues-exposed-royal-maiden
+  motif_id: saintly_monster_slayer_rescues_exposed_royal_maiden
+  label: saintly monster-slayer rescues exposed royal maiden
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A saintly monster-slayer rescuing a royal maiden fits sacred combat by
+    a holy warrior against a dangerous being.
+  cautions: Also overlaps with miraculous rescue, maiden exposure, and saint legend;
+    if the maiden's marriage or identity is central, sacred_love or recognition groups
+    may be secondary.
+  suggested_aliases:
+  - holy monster slayer rescues royal maiden
+  - saint rescues exposed princess from monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvific-naming-of-the-child
+  motif_id: salvific_naming_of_the_child
+  label: Salvific naming of the child
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A child's naming has saving or destiny-marking force, aligning with sacred
+    birth and miraculous child patterns.
+  cautions: If the power lies in the name as performative speech rather than the child's
+    destiny, curse_blessing_speech or sacred_knowledge may be more precise.
+  suggested_aliases:
+  - saving name of the child
+  - child named for salvation
+  - redemptive child naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-arriving-golden-youth-as-hidden-father
+  motif_id: sea_arriving_golden_youth_as_hidden_father
+  label: sea-arriving golden youth as hidden father
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on a hidden paternal identity revealed through an extraordinary
+    sea-arriving figure.
+  cautions: Could instead be otherworld arrival, divine parent-child, sacred waters,
+    or a passage-specific character description; source evidence is needed.
+  suggested_aliases:
+  - hidden father arrives from the sea
+  - golden youth revealed as father
+  - sea-borne hidden parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence courtship or reward scenes; preserve as evidence
+  unless recurrence supports a more durable bride-reward or royal-courtship subgroup.
+- Do not infer transmission or shared origin from similar bride-winning and monster-slaying
+  structures across traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check whether royal marriage
+    motifs function primarily as love, sovereignty, combat reward, or episode-specific
+    plot detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0764
+  input_sha256: b02d4370d8b0ce56577f4b40fd9a6d0bd4cde53f47a920eca683190ec1c5394c
+

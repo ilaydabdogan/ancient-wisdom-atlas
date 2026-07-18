@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0878
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-likened-to-released-stallion
+  motif_id: warrior_likened_to_released_stallion
+  label: warrior likened to released stallion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a poetic simile for martial energy rather than a recurring
+    animal or transformation motif.
+  cautions: Preserve as passage imagery if needed; do not index as an animal motif
+    unless the stallion has narrative agency.
+  suggested_aliases:
+  - warrior_stallion_simile
+  - martial_fury_animal_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-s-fury-imaged-as-flood-and-lion
+  motif_id: warrior_s_fury_imaged_as_flood_and_lion
+  label: Warrior's fury imaged as flood and lion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be compounded poetic imagery for battle rage, not a flood
+    narrative or lion-beast motif.
+  cautions: Could support sacred_combat only if the passage treats fury as ritually
+    or cosmically significant; otherwise keep as evidence detail.
+  suggested_aliases:
+  - martial_fury_as_flood_and_lion
+  - warrior_rage_animal_flood_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-as-source-of-living-animals
+  motif_id: water_as_source_of_living_animals
+  label: Water as source of living animals
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water as the source of living creatures fits creation from primordial
+    substance more than animal agency.
+  cautions: May also relate to sacred_waters; verify whether the passage is cosmological
+    creation, biological reflection, or theological teaching.
+  suggested_aliases:
+  - life_from_water
+  - animals_created_from_water
+  - water_source_of_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-mediated-transformation-and-restoration
+  motif_id: water_mediated_transformation_and_restoration
+  label: Water-mediated transformation and restoration
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water functions as the medium of transformation or restoration, matching
+    the sacred_waters group.
+  cautions: If restoration is resurrection-like, add secondary review against death_and_transformation;
+    if animal form changes dominate, shapeshifter may be relevant.
+  suggested_aliases:
+  - transforming_water
+  - restorative_water
+  - water_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-ordeal-or-selection-test-reveals-the-destined-horse
+  motif_id: water_ordeal_or_selection_test_reveals_the_destined_horse
+  label: water ordeal or selection test reveals the destined horse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: The key structure is an ordeal or selection test that reveals a destined
+    helper or mount.
+  cautions: Highly specific; could instead belong under divine_intervention, sacred_treasures,
+    or a future animal-helper group depending on source evidence.
+  suggested_aliases:
+  - water_selection_test
+  - destined_horse_revealed_by_ordeal
+  - horse_selection_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weak-or-slow-animal-captures-the-elusive-offender
+  motif_id: weak_or_slow_animal_captures_the_elusive_offender
+  label: Weak or slow animal captures the elusive offender
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weak animal defeating or catching an elusive offender fits trickster
+    or fable reversal logic.
+  cautions: If the animal is not deceptive but simply underestimated, review for a
+    possible animal-fable reversal subgroup rather than forcing trickster.
+  suggested_aliases:
+  - underestimated_animal_captures_offender
+  - weak_animal_trickster_reversal
+  - slow_animal_catches_culprit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-catching-or-tossing-trick
+  motif_id: weapon_catching_or_tossing_trick
+  label: Weapon-catching or tossing trick
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon-handling trick used to deceive or reverse danger fits the trickster
+    strategy complex.
+  cautions: If the scene is heroic combat rather than deception, sacred_combat may
+    be a better placement.
+  suggested_aliases:
+  - weapon_handling_trick
+  - trick_weapon_toss
+  - weapon_catching_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-resistant-beast
+  motif_id: weapon_resistant_beast
+  label: Weapon-resistant beast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: A beast resistant to weapons matches the invulnerable or weapon-resistant
+    opponent pattern already grouped there.
+  cautions: If no special exception or defeat method appears, it may be only a monster
+    attribute and should remain granular evidence.
+  suggested_aliases:
+  - weapon_resistant_monster
+  - weapon_resistant_animal_opponent
+  - invulnerable_beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-transformed-into-serpents
+  motif_id: weapon_transformed_into_serpents
+  label: weapon transformed into serpents
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The central event is metamorphosis of an object into living serpents,
+    fitting transformation imagery.
+  cautions: Serpent symbolism may be important; if the serpents function as guardians
+    or hidden knowledge, also review against serpent_guardian.
+  suggested_aliases:
+  - weapon_serpent_transformation
+  - weapons_become_serpents
+  - serpentine_weapon_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whirlpool-peril-overcome-by-animal-towing
+  motif_id: whirlpool_peril_overcome_by_animal_towing
+  label: whirlpool peril overcome by animal towing
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal towing through a water peril resembles animal-helper rescue, currently
+    nested under divine_intervention.
+  cautions: If the animal is ordinary and the episode is mainly a journey ordeal,
+    hero_journey or sacred_waters may fit better; label is very specific.
+  suggested_aliases:
+  - animal_helper_tows_through_whirlpool
+  - whirlpool_rescue_by_animal
+  - animal_towing_water_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence poetic similes or highly specific
+  scene labels; preserve as evidence notes unless they recur across sources.
+- Animal-helper and animal-fable reversal material is only indirectly represented
+  in the current group set, often under divine_intervention or trickster; future review
+  may consider whether a distinct animal-helper/fable group is warranted.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage context,
+    especially for water, animal-helper, and poetic-combat imagery.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0878
+  input_sha256: 9a76372eb988bad2813cceb2bfac008356c8ebb35a4613d0b77573abb6d4f0f2
+

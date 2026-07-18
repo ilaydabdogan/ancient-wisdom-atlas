@@ -1,0 +1,336 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0961
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.owl-s-mournful-westward-flight-before-lasting-affliction
+  motif_id: owl_s_mournful_westward_flight_before_lasting_affliction
+  label: owl’s mournful westward flight before lasting affliction
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: An animal flight and mournful sign preceding affliction may function
+    as omen or portent, but the label is too specific to confirm from wording alone.
+  cautions: Could be an omen, animal symbolism, directional cosmology, or passage-specific
+    description; Zuni cultural context should be reviewed carefully.
+  suggested_aliases:
+  - owl omen before affliction
+  - mournful bird portent
+  - westward flight omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.painted-firelit-corroboree-performance
+  motif_id: painted_firelit_corroboree_performance
+  label: painted firelit corroboree performance
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a culturally specific ritual performance setting rather
+    than a clear cross-tradition motif function.
+  cautions: Corroboree is culturally specific; source context is needed to know whether
+    this is ritual, storytelling, initiation, sacred song, or descriptive scene detail.
+  suggested_aliases:
+  - firelit ritual performance
+  - painted ceremonial dance
+  - corroboree performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_song
+    - storytelling_as_power
+    - initiation
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.palace-luxury-as-search-setting
+  motif_id: palace_luxury_as_search_setting
+  label: Palace luxury as search setting
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a setting detail for a search episode, not a reusable symbolic
+    or narrative motif by itself.
+  cautions: If the palace luxury functions as temptation, renunciation, royal legitimacy,
+    or a test, remap with passage evidence.
+  suggested_aliases:
+  - luxurious palace setting
+  - search in a palace
+  - palace as quest setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.panic-flight-likened-to-supernatural-pursuit
+  motif_id: panic_flight_likened_to_supernatural_pursuit
+  label: Panic flight likened to supernatural pursuit
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Flight from a perceived or figurative supernatural pursuer may be a journey
+    ordeal, but the wording suggests simile rather than an actual motif event.
+  cautions: Could be literary comparison, fear psychology, actual pursuit by spirits,
+    or battle panic; avoid indexing without source evidence.
+  suggested_aliases:
+  - flight from supernatural pursuit
+  - panic flight as spirit pursuit
+  - supernatural pursuit simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - threshold_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-abundance-with-trees-water-food-attendants-and-companions
+  motif_id: paradisal_abundance_with_trees_water_food_attendants_and_companions
+  label: paradisal abundance with trees, water, food, attendants, and companions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Paradisal Garden and Blessed Abundance
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a blessed paradise scene of abundance, not merely
+    water, trees, afterlife route, or enchanted otherworld.
+  cautions: May overlap with afterlife reward, otherworld, sacred waters, sacred substance,
+    and divine judgment; Islamic paradise imagery should retain local specificity.
+  suggested_aliases:
+  - paradisal abundance
+  - garden of bliss
+  - paradise with rivers and provisions
+  - blessed garden abundance
+  suggested_new_group:
+    id: paradisal_garden_blessed_abundance
+    label: Paradisal Garden and Blessed Abundance
+    description: A blessed garden, paradise, or reward realm marked by flowing waters,
+      trees, food, companions, attendants, ease, and abundance.
+    parent_group_ids:
+    - otherworld
+    - afterlife_passage
+    related_group_ids:
+    - sacred_waters
+    - sacred_substance
+    - divine_judgment
+    - sacred_love
+    reason_existing_groups_insufficient: Existing groups cover otherworlds, afterlife
+      passage, water, or food separately, but not the recurring reward-garden complex
+      where abundance and blessed dwelling are the central motif.
+- suggestion_id: normalization.suggestion.paradisal-garden-with-rivers-as-reward
+  motif_id: paradisal_garden_with_rivers_as_reward
+  label: Paradisal garden with rivers as reward
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Paradisal Garden and Blessed Abundance
+  relationship: narrower_than
+  confidence: medium
+  rationale: A garden with rivers as reward is a specific paradisal reward motif,
+    broader than sacred waters alone.
+  cautions: If the passage emphasizes moral recompense more than the garden image,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - paradisal rivers as reward
+  - garden reward with flowing rivers
+  - paradise garden reward
+  suggested_new_group:
+    id: paradisal_garden_blessed_abundance
+    label: Paradisal Garden and Blessed Abundance
+    description: A blessed garden, paradise, or reward realm marked by flowing waters,
+      trees, food, companions, attendants, ease, and abundance.
+    parent_group_ids:
+    - otherworld
+    - afterlife_passage
+    related_group_ids:
+    - sacred_waters
+    - divine_judgment
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups do not cleanly capture paradisal
+      reward-garden imagery as a combined landscape of blessed abundance.
+- suggestion_id: normalization.suggestion.paradisal-gardens-with-flowing-rivers
+  motif_id: paradisal_gardens_with_flowing_rivers
+  label: Paradisal gardens with flowing rivers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Paradisal Garden and Blessed Abundance
+  relationship: narrower_than
+  confidence: medium
+  rationale: The recurring image of gardens with flowing rivers fits a paradisal blessed-realm
+    cluster rather than only sacred waters.
+  cautions: Do not flatten to flood, water-crossing, or cosmic origin; the function
+    is blessed dwelling or reward landscape.
+  suggested_aliases:
+  - gardens beneath which rivers flow
+  - paradise gardens with rivers
+  - flowing-river paradise
+  suggested_new_group:
+    id: paradisal_garden_blessed_abundance
+    label: Paradisal Garden and Blessed Abundance
+    description: A blessed garden, paradise, or reward realm marked by flowing waters,
+      trees, food, companions, attendants, ease, and abundance.
+    parent_group_ids:
+    - otherworld
+    - afterlife_passage
+    related_group_ids:
+    - sacred_waters
+    - divine_judgment
+    - sacred_substance
+    reason_existing_groups_insufficient: Otherworld is too broad and sacred_waters
+      too narrow for the combined paradisal garden-and-river reward image.
+- suggestion_id: normalization.suggestion.paradisal-royal-pleasure-garden-sustained-by-flowing-water
+  motif_id: paradisal_royal_pleasure_garden_sustained_by_flowing_water
+  label: Paradisal royal pleasure-garden sustained by flowing water
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Paradisal Garden and Blessed Abundance
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A royal pleasure-garden sustained by water resembles the paradisal abundance
+    cluster, but may also be political landscape symbolism.
+  cautions: Review Mesoamerican/Andean context; it may concern royal legitimacy, sacred
+    waters, agricultural fertility, or a historical palace garden rather than afterlife
+    paradise.
+  suggested_aliases:
+  - royal paradisal garden
+  - watered pleasure garden
+  - abundant royal garden
+  suggested_new_group:
+    id: paradisal_garden_blessed_abundance
+    label: Paradisal Garden and Blessed Abundance
+    description: A blessed garden, paradise, or reward realm marked by flowing waters,
+      trees, food, companions, attendants, ease, and abundance.
+    parent_group_ids:
+    - otherworld
+    related_group_ids:
+    - sacred_waters
+    - royal_legitimacy
+    - sacred_time
+    reason_existing_groups_insufficient: Existing water, otherworld, and royal-legitimacy
+      groups each capture part of the image but not the combined ideal garden of abundance.
+- suggestion_id: normalization.suggestion.paradise-like-mountain-retreat
+  motif_id: paradise_like_mountain_retreat
+  label: Paradise-like mountain retreat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A paradise-like retreat is best treated as an enchanted or blessed otherworldly
+    place unless the mountain-axis function is explicit.
+  cautions: If the mountain is central as a cosmic connector or revelation site, axis_mundi
+    or cosmic_mountain should be secondary or preferred.
+  suggested_aliases:
+  - blessed mountain retreat
+  - paradisal mountain refuge
+  - enchanted mountain retreat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passion-as-fire-and-the-body-as-pain
+  motif_id: passion_as_fire_and_the_body_as_pain
+  label: Passion as fire and the body as pain
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Passion as burning and embodied pain fits an interior discipline/liberation
+    frame more than literal sacred fire.
+  cautions: Could map to sacred_knowledge if it is doctrinal teaching, or sacred_fire
+    only if fire functions as divine or ritual presence; avoid treating metaphorical
+    fire as cosmic fire.
+  suggested_aliases:
+  - passion as burning
+  - body as suffering
+  - desire as fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several paradise/garden labels appear to form a recurring cluster not well represented
+  by existing groups; a provisional paradisal_garden_blessed_abundance group may be
+  worth taxonomy review.
+- Single-occurrence, culturally specific ritual or omen labels should be checked against
+  source passages before broad indexing.
+- Do not infer flood, cosmic origin, or sacred fire from water/fire imagery where
+  the function is paradise, metaphor, or ritual setting.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; paradise-garden candidate and culturally specific
+    ritual/omen labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0961
+  input_sha256: a6d568247bac88bc4a2e649a78bcb88ae1b0aeb2197646a309defa76364dae87
+

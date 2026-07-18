@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0690
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.coffins-prepared-before-a-conditional-birth
+  motif_id: coffins_prepared_before_a_conditional_birth
+  label: coffins prepared before a conditional birth
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines birth, death preparation, and a condition but does
+    not reveal the narrative function.
+  cautions: May be an episode-specific omen, threat, birth ordeal, or comic/tragic
+    detail; source context is needed before mapping to sacred_birth, death_by_fate,
+    or death_and_transformation.
+  suggested_aliases:
+  - conditional birth with death preparations
+  - coffins prepared before birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.color-triad-in-nature-recalls-the-beloved
+  motif_id: color_triad_in_nature_recalls_the_beloved
+  label: Color triad in nature recalls the beloved
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Natural imagery evokes memory or longing for the beloved, fitting love
+    as a symbolic and affective force.
+  cautions: If the triad is mainly a poetic description rather than a recurring motif,
+    preserve as evidence detail rather than canonical child.
+  suggested_aliases:
+  - beloved recalled through natural colors
+  - nature imagery recalls the beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companions-flee-while-kin-love-stirs-one-person
+  motif_id: companions_flee_while_kin_love_stirs_one_person
+  label: Companions flee while kin-love stirs one person
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Kin-love motivating courage may fit sacred love, heroic duty, or ethical
+    obligation depending on the scene.
+  cautions: Likely over-specific to one episode; do not map to sacred_combat or sacred_love
+    without evidence that kinship devotion is the main motif.
+  suggested_aliases:
+  - kin-love inspires one companion
+  - familial love overcomes flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comparison-of-two-royal-women-s-beauty
+  motif_id: comparison_of_two_royal_women_s_beauty
+  label: Comparison of two royal women's beauty
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A comparison of beauty reads as descriptive or episode-level characterization
+    rather than a reusable mythic motif.
+  cautions: If the comparison triggers rivalry, bride choice, sovereignty, or conflict,
+    remap to sacred_love, royal_legitimacy, or pride_and_downfall based on evidence.
+  suggested_aliases:
+  - royal women beauty comparison
+  - comparative beauty of royal women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compassion-for-an-innocent-child-after-refused-hospitality
+  motif_id: compassion_for_an_innocent_child_after_refused_hospitality
+  label: Compassion for an innocent child after refused hospitality
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The refused hospitality frame makes treatment of the vulnerable stranger
+    or child the moral test.
+  cautions: Could also fit miraculous_child or sacred_law if the child’s status or
+    ethical command is primary; verify whether hospitality refusal drives the episode.
+  suggested_aliases:
+  - innocent child after refused hospitality
+  - compassion following failed hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compassionate-animal-helper-shelters-an-afflicted-mother
+  motif_id: compassionate_animal_helper_shelters_an_afflicted_mother
+  label: Compassionate animal helper shelters an afflicted mother
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes animal helpers as agents of protection or
+    supernatural aid.
+  cautions: If the animal is not supernatural, this may be a folktale helper detail;
+    if motherhood and birth are central, miraculous_child or mother_goddess may be
+    secondary.
+  suggested_aliases:
+  - animal helper shelters mother
+  - protective animal helper for afflicted mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.completion-in-beauty
+  motif_id: completion_in_beauty
+  label: completion in beauty
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may refer to a culturally specific Navajo concept of beauty,
+    harmony, or proper completion not captured by existing groups.
+  cautions: Culturally sensitive and too abstract without source evidence; avoid flattening
+    into beauty_and_paradox or sacred_love unless the passage supports that function.
+  suggested_aliases:
+  - completion in beauty
+  - beauty as harmonious completion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-assistance-mistaken-for-personal-skill
+  motif_id: concealed_assistance_mistaken_for_personal_skill
+  label: concealed assistance mistaken for personal skill
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Hidden aid mistaken for human ability can fit supernatural guidance or
+    intervention if the helper is divine or uncanny.
+  cautions: If the aid is human deception or disguise, trickster or recognition_tokens_hidden_identity
+    may fit better; label alone does not show sacred agency.
+  suggested_aliases:
+  - hidden helper mistaken for skill
+  - concealed aid credited as personal prowess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-hero-performs-bride-winning-tasks-for-others
+  motif_id: concealed_hero_performs_bride_winning_tasks_for_others
+  label: Concealed hero performs bride-winning tasks for others
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bride-winning tasks are already represented under sacred_love, and concealed
+    performance adds a hidden-identity variant.
+  cautions: If the focus is identity concealment or proof rather than courtship, add
+    secondary review under recognition_tokens_hidden_identity or hero_journey.
+  suggested_aliases:
+  - concealed bride-winning helper
+  - hidden hero wins bride for another
+  - bride-winning tasks by concealed hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-maiden-whose-beauty-cannot-be-hidden
+  motif_id: concealed_maiden_whose_beauty_cannot_be_hidden
+  label: concealed maiden whose beauty cannot be hidden
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Unconcealable beauty functions as a courtship or longing motif within
+    the sacred_love group’s beauty and bride-choice field.
+  cautions: Could be merely descriptive characterization; if concealment and recognition
+    are primary, recognition_tokens_hidden_identity may be a better secondary group.
+  suggested_aliases:
+  - hidden maiden's beauty revealed
+  - unconcealable beauty of concealed maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific love/family
+  details; preserve as evidence notes unless recurrence or clear narrative function
+  is confirmed.
+- For courtship and beauty labels, distinguish symbolic love function from simple
+  descriptive characterization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific Navajo beauty terminology and ambiguous Germanic episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0690
+  input_sha256: 737c50569589b2eed59026438721c28495a2798f3a71298e3fdbe4799da02cc1
+

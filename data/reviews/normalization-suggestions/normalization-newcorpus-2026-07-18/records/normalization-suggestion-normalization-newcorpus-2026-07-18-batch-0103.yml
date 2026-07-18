@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0103
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ominous-dreams-foretelling-kin-death-and-royal-killing
+  motif_id: ominous_dreams_foretelling_kin_death_and_royal_killing
+  label: ominous dreams foretelling kin death and royal killing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Dreams function as ominous foreknowledge of death and killing, fitting
+    dream/vision as revelation of hidden or future events.
+  cautions: Death content is secondary; do not map to death_and_transformation unless
+    restoration or transformation is present.
+  suggested_aliases:
+  - death-foretelling dream
+  - ominous dream of kin death
+  - dream warning of royal killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-dreams-warning-of-a-hero-s-death
+  motif_id: ominous_dreams_warning_of_a_hero_s_death
+  label: ominous dreams warning of a hero's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a dream that warns or reveals future death, a clear
+    dream-and-vision function.
+  cautions: May also relate to death_by_fate if the source emphasizes unavoidable
+    doom rather than warning.
+  suggested_aliases:
+  - dream warning of hero death
+  - death-omen dream
+  - ominous dream of heroic death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-gift-that-foreshadows-the-giver-s-death
+  motif_id: ominous_gift_that_foreshadows_the_giver_s_death
+  label: ominous gift that foreshadows the giver's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines gift exchange, omen, and death foreshadowing; the
+    dominant function is unclear without passage evidence.
+  cautions: Could fit sacred_exchange if the gift creates obligation, dream_and_vision/prophecy_divination
+    if treated as an omen, or be an episode-specific foreshadowing detail.
+  suggested_aliases:
+  - death-foreshadowing gift
+  - ominous gift
+  - gift as death omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-natural-lament-around-the-silent-grave
+  motif_id: ominous_natural_lament_around_the_silent_grave
+  label: Ominous natural lament around the silent grave
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif frames grief or lament around a grave, with nature participating
+    in mourning.
+  cautions: If the natural elements are active spirits or omens rather than lament
+    imagery, dream_and_vision or divine_intervention may be relevant; single occurrence
+    may be poetic detail.
+  suggested_aliases:
+  - nature laments at grave
+  - grave lament by nature
+  - ominous grave lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-silence-before-revelation-of-death
+  motif_id: ominous_silence_before_revelation_of_death
+  label: ominous silence before revelation of death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads like a scene-setting or narrative suspense cue before news
+    of death rather than a stable motif.
+  cautions: May belong under lament_and_mourning if silence marks mourning, or dream_and_vision
+    if silence precedes revelation; likely too contextual without source evidence.
+  suggested_aliases:
+  - silence before death news
+  - ominous silence
+  - death revelation silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-religion-divided-into-sects-and-returned-to-god
+  motif_id: one_religion_divided_into_sects_and_returned_to_god
+  label: one religion divided into sects and returned to God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears theological or doctrinal and does not clearly match
+    a death/descent motif from wording alone.
+  cautions: Could involve divine_judgment, covenant, sacred_law, or eschatological
+    return depending on passage context; review for culturally sensitive doctrinal
+    framing.
+  suggested_aliases:
+  - religion divided into sects
+  - sects returned to God
+  - religious division and divine return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opening-underworld-gates-by-a-bodily-gesture
+  motif_id: opening_underworld_gates_by_a_bodily_gesture
+  label: opening underworld gates by a bodily gesture
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Opening underworld gates is a threshold-passage mechanism within the
+    landscape of death or afterlife navigation.
+  cautions: If the scene is a living hero entering the underworld rather than the
+    dead navigating afterlife gates, descent may be the stronger parent.
+  suggested_aliases:
+  - underworld gate opening
+  - bodily gesture opens death gates
+  - gesture to open underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oppressed-flock-cries-out-and-receives-divine-descent
+  motif_id: oppressed_flock_cries_out_and_receives_divine_descent
+  label: oppressed flock cries out and receives divine descent
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An oppressed community cries out and receives direct divine action or
+    arrival, fitting intervention in human affairs.
+  cautions: The word descent should not be treated as underworld descent; if the passage
+    is a visionary manifestation, theophany may be a secondary mapping.
+  suggested_aliases:
+  - cry of the oppressed answered by divine descent
+  - divine response to oppressed flock
+  - deliverance after communal cry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oppressive-governance-producing-suffering-and-disregard-for-death
+  motif_id: oppressive_governance_producing_suffering_and_disregard_for_death
+  label: Oppressive governance producing suffering and disregard for death
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns failed or oppressive rule and its effects on social
+    order, fitting sacred kingship and governance review more than afterlife themes.
+  cautions: Could also fit sacred_law or divine_judgment if the passage frames oppression
+    as violation of cosmic/moral order; death is an outcome, not the main motif.
+  suggested_aliases:
+  - oppressive rule causes suffering
+  - bad governance and disregard for death
+  - misrule producing social suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-to-distinguish-spirit-from-human
+  motif_id: ordeal_to_distinguish_spirit_from_human
+  label: Ordeal to distinguish spirit from human
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A test or ordeal determines identity/status across the human-spirit boundary,
+    fitting transformative ordeal and threshold testing.
+  cautions: If a boundary guardian administers the test, threshold_guardian may be
+    secondary; if the focus is spirit disguise, shapeshifter may be relevant.
+  suggested_aliases:
+  - test distinguishing spirit from human
+  - human-spirit identity ordeal
+  - ordeal of spirit recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were bucketed under death/descent because they mention
+  death, but the best-fit function is often dream omen, lament, governance, or divine
+  intervention rather than death-and-return.
+- Single-occurrence, scene-specific omen and foreshadowing labels should remain provisional
+  until passage evidence confirms recurrence or stable narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous omen,
+    doctrinal, and over-specific narrative-cue labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0103
+  input_sha256: 5bd326133b673c9210434763c9f769f61543ab5fe446f51076adfd13508eef54
+

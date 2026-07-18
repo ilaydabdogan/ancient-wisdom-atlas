@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l6624-l6665
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 6624-6665'
+  start: '6624'
+  end: '6665'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Coyote boasts of his speed and agrees to race a Turtle. The Turtle recruits
+    other Turtles, who hide at intervals along the course. During the race, Coyote
+    repeatedly sees a Turtle ahead of him. At the goal a Turtle is already present;
+    Coyote admits defeat, and the exertion kills him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the tale as told by Little-Crow.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Coyote boasts of his swiftness, and Turtle says he can beat Coyote in a race.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Turtle worries because Coyote can run fast and asks other Turtles to assist
+    him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several Turtles place themselves at intervals along the race course, each
+    carrying a long pole and hiding in the ground.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During the race, Coyote repeatedly sees a Turtle ahead after crossing ridges,
+    knolls, or hills, while the visible Turtle throws away a pole and crawls into
+    the ground.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At the finish, a Turtle is at the goal; Coyote says he has been beaten, and
+    the run kills Coyote.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: Animal figure who boasts of speed, races Turtle, sees Turtles ahead
+    of him, concedes defeat, and dies after the race.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Turtle
+  description: Animal figure who challenges Coyote's speed, arranges help from other
+    Turtles, begins the race, and crawls into a hole at the start.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Other Turtles
+  description: Group of Turtles who volunteer to help Turtle, station themselves along
+    the course, carry poles, hide in the ground, and appear ahead of Coyote.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: race contestant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Coyote and Turtle agree to run a race, and both prepare to start.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: boaster of swiftness
+  assigned_to:
+  - fig:1
+  basis: Coyote begins by boasting of his swiftness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: organizer of assisted deception
+  assigned_to:
+  - fig:2
+  basis: Turtle seeks help from other Turtles and explains the course and distance
+    before the race.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: hidden substitute helpers
+  assigned_to:
+  - fig:3
+  basis: Other Turtles hide at intervals and appear ahead of Coyote during the race.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: defeated runner
+  assigned_to:
+  - fig:1
+  basis: Coyote says Turtle has beaten him and then dies from the run.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: race course
+  literal_form: marked distance with an end point, ridge, knoll, hill, and goal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: long poles
+  literal_form: long poles carried by each Turtle and thrown away by visible Turtles
+    during the race
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: ground hiding places
+  literal_form: holes or places in the ground into which Turtles hide or crawl
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: goal
+  literal_form: the end of the course where a Turtle is found before Coyote arrives
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Race challenge
+  summary: Coyote boasts of speed, Turtle claims he can beat Coyote, and they agree
+    to race the next day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Turtle recruits assistance
+  summary: Turtle, worried about Coyote's speed, asks other Turtles to help him win
+    the race.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Course prepared with hidden Turtles
+  summary: Turtles station themselves at intervals along the course, each with a pole,
+    and hide in the ground.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Race with repeated appearances ahead
+  summary: Coyote runs while Turtle crawls into a hole; as Coyote advances, he repeatedly
+    sees a Turtle ahead of him near ridges, knolls, or hills.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Finish and Coyote's death
+  summary: A Turtle is at the goal when Coyote arrives; Coyote admits defeat, and
+    the run kills him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal race between swift boaster and slower opponent
+  taxonomy_refs: []
+  basis: The tale centers on Coyote boasting of speed and racing Turtle, who is presented
+    as a much slower animal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage does not name a formal motif type.
+- id: motif:2
+  label: contest won through hidden substitutes
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Turtle arranges for multiple Turtles to hide at intervals so that Coyote
+    repeatedly encounters a Turtle ahead and finally loses at the goal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy match is broad; the passage does not explicitly call Turtle
+    a trickster.
+- id: motif:3
+  label: overconfident runner defeated and destroyed by contest
+  taxonomy_refs: []
+  basis: Coyote boasts of speed, is beaten at the goal, and the race kills him.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level pattern rather than an externally identified motif
+    type.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 6624-6628
+  quote_or_summary: Footnote and title area; the note says the story was told by Little-Crow,
+    followed by the tale title.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6630-6636
+  quote_or_summary: Coyote meets Turtle, boasts of swiftness, Turtle claims he can
+    beat him, and they agree to race the next day.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6636-6644
+  quote_or_summary: Turtle worries because Coyote is fast, decides to ask other Turtles
+    for help, and explains the place and distance of the race.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6646-6651
+  quote_or_summary: Turtles go to the course, station themselves at intervals, carry
+    long poles, and hide in the ground.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6653-6663
+  quote_or_summary: The race begins; Coyote runs while Turtle crawls into a hole,
+    and Coyote repeatedly sees a Turtle ahead after ridges, knolls, and hills.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 6663-6665
+  quote_or_summary: "“You have beaten me.” The passage then states that the run killed
+    Coyote."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative sequence is clear. Motif taxonomy assignment is limited because
+    the passage itself does not name formal motif categories. No comparison claims
+    were made because the passage contains no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l6624-l6665
+  passage_sha256=b11f6ea2ae259dbc8d49da4931aba3c59856ed7dd6a5d25d292c1790a15a033a
+

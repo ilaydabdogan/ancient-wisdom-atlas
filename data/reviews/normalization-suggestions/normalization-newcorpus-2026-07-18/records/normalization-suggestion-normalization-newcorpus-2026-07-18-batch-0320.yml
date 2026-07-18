@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0320
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-word-as-creative-utterance-and-preserved-object
+  motif_id: divine_word_as_creative_utterance_and_preserved_object
+  label: divine word as creative utterance and preserved object
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creative divine utterance fits creation by word within the cosmic-origin
+    group.
+  cautions: The preserved-object aspect may instead point to sacred text/revelation;
+    review passage evidence before indexing only as creation.
+  suggested_aliases:
+  - creation by divine word
+  - divine speech as creative power
+  - preserved divine word
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-word-heals-beyond-medicine
+  motif_id: divine_word_heals_beyond_medicine
+  label: divine word heals beyond medicine
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on sacred speech producing a concrete healing effect
+    beyond ordinary means.
+  cautions: Could also belong under divine_intervention if the emphasis is divine
+    agency rather than the performative word itself.
+  suggested_aliases:
+  - healing divine word
+  - sacred speech heals
+  - performative healing speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-word-placed-in-a-human-mouth
+  motif_id: divine_word_placed_in_a_human_mouth
+  label: divine word placed in a human mouth
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: high
+  rationale: A divine word placed in a human mouth describes prophetic authorization
+    and mediated sacred speech.
+  cautions: If the passage stresses initiation or call narrative, divine_call/initiation
+    may be a secondary mapping.
+  suggested_aliases:
+  - prophetic word in the mouth
+  - divinely authorized speech
+  - inspired prophetic speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-world-making-and-ordering-of-time
+  motif_id: divine_world_making_and_ordering_of_time
+  label: Divine world-making and ordering of time
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: World-making and initial ordering of time are core creation and cosmic-order
+    motifs.
+  cautions: If the passage emphasizes ritual calendars or recurring sacred cycles
+    rather than creation, sacred_time may be relevant.
+  suggested_aliases:
+  - world-making and time-ordering
+  - creation and ordering of time
+  - cosmic ordering of time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-aided-steadfast-minority-in-battle
+  motif_id: divinely_aided_steadfast_minority_in_battle
+  label: Divinely aided steadfast minority in battle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive feature is divine aid granted to a vulnerable group in battle.
+  cautions: May also support divine_warrior or sacred_combat if the narrative focuses
+    on sacred warfare rather than providential help.
+  suggested_aliases:
+  - divine aid to outnumbered fighters
+  - steadfast minority aided by God
+  - supernatural battle assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-aided-survival-in-battle
+  motif_id: divinely_aided_survival_in_battle
+  label: Divinely aided survival in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival through divine help is a direct intervention in human affairs.
+  cautions: If the aid is tied to heroic combat status or martial destiny, divine_warrior
+    or sacred_combat may be secondary.
+  suggested_aliases:
+  - divine rescue in battle
+  - god-aided survival
+  - supernatural protection in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-aided-warrior-in-battle
+  motif_id: divinely_aided_warrior_in_battle
+  label: divinely aided warrior in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A warrior empowered by divine aid in battle fits the sacred-combat/divine-warrior
+    role complex.
+  cautions: If the warrior is merely helped once by a god, divine_intervention may
+    be the cleaner parent than divine_warrior.
+  suggested_aliases:
+  - god-aided warrior
+  - divinely supported combatant
+  - divine aid in heroic battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-allotted-desolate-habitation-for-wild-birds
+  motif_id: divinely_allotted_desolate_habitation_for_wild_birds
+  label: divinely allotted desolate habitation for wild birds
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe divine judgment assigning desolation, but it is
+    highly contextual and place-specific.
+  cautions: Could be a prophetic judgment image, an etiological land allotment, or
+    a passage artifact; source context is needed.
+  suggested_aliases:
+  - divinely allotted desolation
+  - wild birds inhabit the judged wasteland
+  - desolate habitation as judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-allotted-wilderness-patrimony
+  motif_id: divinely_allotted_wilderness_patrimony
+  label: divinely allotted wilderness patrimony
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests sacred allocation of land or inheritance, but the
+    narrative function is unclear from the label alone.
+  cautions: Could fit covenant, divine_judgment, sacred geography, or be a contextual
+    land-allotment detail; verify evidence before mapping.
+  suggested_aliases:
+  - divine allotment of wilderness
+  - wilderness inheritance
+  - sacred land patrimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-appointed-watcher-for-a-threatened-hall
+  motif_id: divinely_appointed_watcher_for_a_threatened_hall
+  label: divinely appointed watcher for a threatened hall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A divinely appointed watcher protecting a threatened hall functions as
+    a guardian of a boundary or vulnerable space.
+  cautions: If the focus is divine appointment rather than guarding a threshold, divine_intervention
+    may be a secondary mapping; hall-specific wording may be over-specific.
+  suggested_aliases:
+  - divinely appointed watcher
+  - guardian of threatened hall
+  - sacred hall guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve divine speech. Existing groups can hold most
+  cases, but reviewers may want to track whether a future group for divine word/logos/revelatory
+  speech is warranted if these recur.
+- Battle-aid labels split between divine_intervention and divine_warrior depending
+  on whether the passage emphasizes providential help or sacred combat role.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and context-heavy labels marked
+    with cautions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0320
+  input_sha256: 3fb030913d585f46738d2b7a8a27a08538f233756afecc802c44a96dacdf6664
+

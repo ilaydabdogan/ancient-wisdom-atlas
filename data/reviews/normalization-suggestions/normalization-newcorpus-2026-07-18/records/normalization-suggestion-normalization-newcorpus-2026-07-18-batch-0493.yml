@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0493
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enchanting-song-that-pacifies-or-suspends-conflict
+  motif_id: enchanting_song_that_pacifies_or_suspends_conflict
+  label: Enchanting song that pacifies or suspends conflict
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly matches music or song acting as supernatural force
+    to restrain violence or suspend conflict.
+  cautions: Single occurrence; verify that the song itself has compelling power rather
+    than ordinary persuasion.
+  suggested_aliases:
+  - music_that_charms_nature_and_restrains_violence
+  - song_that_pacifies_conflict
+  - conflict-suspending enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-named-boar-at-a-named-place
+  motif_id: encounter_with_a_named_boar_at_a_named_place
+  label: encounter with a named boar at a named place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to preserve episode-specific names and location details
+    rather than a reusable symbolic or narrative motif.
+  cautions: If the boar functions as a supernatural animal, death omen, hunt ordeal,
+    or shapeshifted being, remap after source review; current wording is too specific.
+  suggested_aliases:
+  - named boar encounter
+  - localized boar episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.endangered-revelation-preserved-by-collection
+  motif_id: endangered_revelation_preserved_by_collection
+  label: endangered revelation preserved by collection
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif concerns preservation and transmission of sacred revelation,
+    broadly fitting sacred knowledge.
+  cautions: May be a textual-canon or compilation-history artifact rather than a narrative
+    motif; review for sensitivity and source context before indexing.
+  suggested_aliases:
+  - preservation of revelation
+  - collected revelation
+  - revelation safeguarded by compilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enduring-memory-of-broken-promise-grudge-and-kindness
+  motif_id: enduring_memory_of_broken_promise_grudge_and_kindness
+  label: enduring memory of broken promise, grudge, and kindness
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: Broken promise and grudge may center on violated trust, while remembered
+    kindness may complicate the moral function.
+  cautions: The label is abstract and culturally contextual; may be an ethical memory
+    theme, local narrative detail, or commentary artifact rather than a stable motif.
+  suggested_aliases:
+  - memory of broken promise
+  - remembered kindness and grudge
+  - enduring grievance after promise-breaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-council-and-retaliatory-invasion-after-prophecy
+  motif_id: enemy_council_and_retaliatory_invasion_after_prophecy
+  label: Enemy council and retaliatory invasion after prophecy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The prophecy appears to trigger deliberation and retaliatory invasion,
+    making foreknowledge the narrative catalyst.
+  cautions: Could also belong under sacred_combat if the invasion, not prophecy, is
+    the main motif; label is composite and episode-specific.
+  suggested_aliases:
+  - prophecy-triggered retaliation
+  - invasion after prophecy
+  - enemy council responding to prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enigmatic-precious-food-instruction-obeyed-without-understanding
+  motif_id: enigmatic_precious_food_instruction_obeyed_without_understanding
+  label: Enigmatic precious-food instruction obeyed without understanding
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: An obscure instruction obeyed without understanding may function as hidden
+    wisdom, test, or divine guidance.
+  cautions: Food detail may point to sacred_substance, obedience to sacred_law, or
+    a passage-specific folktale test; source evidence is needed.
+  suggested_aliases:
+  - enigmatic food instruction
+  - obedience to unexplained command
+  - precious food command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enthronement-and-revelation-of-a-hidden-chosen-judge
+  motif_id: enthronement_and_revelation_of_a_hidden_chosen_judge
+  label: enthronement and revelation of a hidden chosen judge
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enthronement and disclosure of a chosen judge authorize a figure's sacred
+    ruling or judging role.
+  cautions: Could also map to divine_judgment if the emphasis is eschatological judgment
+    rather than legitimized rule; preserve apocalyptic context in notes.
+  suggested_aliases:
+  - hidden chosen judge revealed
+  - enthronement of chosen judge
+  - revelation of enthroned judge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envoys-verify-and-retrace-a-visionary-itinerary
+  motif_id: envoys_verify_and_retrace_a_visionary_itinerary
+  label: Envoys verify and retrace a visionary itinerary
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central feature is a visionary itinerary whose truth is checked by
+    later envoys.
+  cautions: If the itinerary maps an otherworld route, afterlife_passage or otherworld
+    may be relevant; envoy verification may be an episode detail.
+  suggested_aliases:
+  - verified visionary itinerary
+  - visionary route retraced
+  - envoys confirm a vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.episode-named-from-visible-blood-and-public-shame
+  motif_id: episode_named_from_visible_blood_and_public_shame
+  label: episode named from visible blood and public shame
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes how an episode is named from visible details rather
+    than a recurring motif pattern.
+  cautions: If the source treats blood as a ritual sign or shame as moral judgment,
+    remap to sacred_law or divine_judgment; current label looks like title/etiology
+    metadata.
+  suggested_aliases:
+  - episode named from blood
+  - public shame episode name
+  - visible blood naming detail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eponymous-wave-named-after-a-woman-swept-away
+  motif_id: eponymous_wave_named_after_a_woman_swept_away
+  label: Eponymous wave named after a woman swept away
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing cosmic_origin group already includes place-name and landscape
+    etiologies from death or violent events.
+  cautions: This is highly local and may be better preserved as an etiological place-name
+    detail; do not treat it as flood_and_renewal unless world-order destruction and
+    renewal are present.
+  suggested_aliases:
+  - eponymous wave naming
+  - wave named after swept-away woman
+  - place-name etiology from drowning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  source details but avoid promoting them without recurrence.
+- Items involving revelation preservation or culturally specific memory traditions
+  should receive human review before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0493
+  input_sha256: 11c00c03925fd1e20ebbc694c5c1c9d229ea04a74a61585033268d0dd334c7d9
+

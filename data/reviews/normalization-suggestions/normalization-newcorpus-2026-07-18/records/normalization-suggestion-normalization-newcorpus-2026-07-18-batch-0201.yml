@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0201
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lavish-hospitality-to-traveling-warriors
+  motif_id: lavish_hospitality_to_traveling_warriors
+  label: lavish hospitality to traveling warriors
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on hospitality given to travelers, a close fit to the
+    hospitality/guest obligation complex.
+  cautions: Warrior status may make this a heroic-feast or social-order scene rather
+    than a test; verify whether hospitality itself drives the episode.
+  suggested_aliases:
+  - hospitality_to_traveling_warriors
+  - warrior_guest_hospitality
+  - lavish_guest_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.layered-protective-dress-for-arctic-travel-and-hunting
+  motif_id: layered_protective_dress_for_arctic_travel_and_hunting
+  label: Layered protective dress for Arctic travel and hunting
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as practical ethnographic or travel detail rather than
+    a recurrent mythic motif.
+  cautions: If the clothing is ritually charged, animal-derived, taboo-governed, or
+    magical, it may need review under sacred_law or sacred_treasures.
+  suggested_aliases:
+  - protective_arctic_travel_dress
+  - layered_hunting_clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leadership-succession-after-leaders-fall-asleep
+  motif_id: leadership_succession_after_leaders_fall_asleep
+  label: leadership succession after leaders fall asleep
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Succession of leadership concerns the transfer and authorization of rule
+    or sacred office.
+  cautions: The phrase 'fall asleep' may be euphemistic death, visionary sleep, or
+    passage-specific wording; source context is needed before final mapping.
+  suggested_aliases:
+  - leadership_succession_after_sleep
+  - succession_after_leader_sleep
+  - sacred_leadership_succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.legitimacy-of-religious-leadership-by-succession-or-consent
+  motif_id: legitimacy_of_religious_leadership_by_succession_or_consent
+  label: Legitimacy of religious leadership by succession or consent
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns legitimating authority through succession or communal
+    consent, fitting the broader legitimacy group.
+  cautions: Because the label specifies religious leadership rather than kingship,
+    preserve office-specific context and review for sacred_law or covenant if legal
+    consent is central.
+  suggested_aliases:
+  - religious_leadership_legitimacy
+  - leadership_legitimacy_by_succession
+  - leadership_legitimacy_by_consent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lethal-roadside-temptations-of-food-drink-and-rest
+  motif_id: lethal_roadside_temptations_of_food_drink_and_rest
+  label: Lethal roadside temptations of food, drink, and rest
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deadly temptations encountered along a road function as perilous threshold
+    tests that must be resisted to continue passage.
+  cautions: If no guardian, enchantment, or boundary function is present, this may
+    instead be a journey ordeal under initiation or an over-specific tale detail.
+  suggested_aliases:
+  - lethal_roadside_temptation
+  - deadly_roadside_food_drink_rest
+  - perilous_roadside_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-water-on-pilgrimage-route
+  motif_id: life_giving_water_on_pilgrimage_route
+  label: life-giving water on pilgrimage route
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Life-giving water on a sacred route fits water as transformative, sustaining,
+    and sacred medium.
+  cautions: If the passage emphasizes miraculous provision more than water symbolism,
+    divine_intervention may be a secondary placement.
+  suggested_aliases:
+  - life_giving_water
+  - water_of_life_on_pilgrimage
+  - sustaining_water_on_sacred_route
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-spared-in-exchange-for-another-difficult-quest
+  motif_id: life_spared_in_exchange_for_another_difficult_quest
+  label: life spared in exchange for another difficult quest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spared life conditioned on undertaking another quest fits the quest-trial
+    sequence of heroic journeying.
+  cautions: The exchange element may also involve sacred_exchange or covenant if a
+    binding vow or bargain is central.
+  suggested_aliases:
+  - quest_in_exchange_for_life
+  - life_spared_for_quest
+  - reprieve_conditioned_on_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-token-indicating-the-quester-s-fate
+  motif_id: life_token_indicating_the_quester_s_fate
+  label: Life-token indicating the quester's fate
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: narrower_than
+  confidence: high
+  rationale: A life-token tied to a quester's fate belongs directly to the external
+    soul and life-token complex.
+  cautions: Confirm whether the token merely signals fate or actually contains/controls
+    life; if only evidentiary, recognition_tokens_hidden_identity may be secondary.
+  suggested_aliases:
+  - quester_life_token
+  - life_token_as_fate_indicator
+  - fate_life_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lifeless-idols-and-assimilation-of-worshippers
+  motif_id: lifeless_idols_and_assimilation_of_worshippers
+  label: Lifeless idols and assimilation of worshippers
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Idol critique may concern sacred prohibition, moral consequence, or forbidden
+    worship rather than a journey motif.
+  cautions: Current normalization marks idol-related labels for human review; avoid
+    flattening polemical or theological claims into a generic object motif without
+    source evidence.
+  suggested_aliases:
+  - lifeless_idols
+  - worshippers_assimilated_to_idols
+  - idolatry_assimilates_worshippers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lightning-accompanied-valkyrie-arrival
+  motif_id: lightning_accompanied_valkyrie_arrival
+  label: Lightning-accompanied Valkyrie arrival
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A supernatural female battle figure arriving with lightning is an overwhelming
+    manifestation of sacred presence.
+  cautions: If the narrative emphasizes battle selection, death fate, or warrior escort
+    rather than manifestation, divine_warrior or death_by_fate may be better secondary
+    mappings.
+  suggested_aliases:
+  - valkyrie_arrival_with_lightning
+  - storm_accompanied_valkyrie_manifestation
+  - lightning_theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items have single occurrences, so suggestions should remain provisional until
+  passage evidence confirms recurrence and function.
+- Several labels were bucketed under journey/quest, but authority, hospitality, sacred
+  water, idol critique, and theophany functions are more salient than travel in several
+  cases.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    or theologically charged labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0201
+  input_sha256: d1d1f1acb1a27a581c09df0d8603bbe40f93236aa3d5b59252cdc985c714f492
+

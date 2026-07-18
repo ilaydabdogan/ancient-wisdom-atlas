@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0216
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-exposure-producing-shameful-departure
+  motif_id: public_exposure_producing_shameful_departure
+  label: Public exposure producing shameful departure
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A departure driven by public exposure fits the departure/exile side of
+    the journey complex.
+  cautions: Single occurrence; may be social shame or comic plot resolution rather
+    than a transformative journey motif.
+  suggested_aliases:
+  - shameful_departure
+  - public_exposure_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-shame-for-refusal-of-kinship-duty
+  motif_id: public_shame_for_refusal_of_kinship_duty
+  label: public shame for refusal of kinship duty
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public shaming enforces a kinship obligation, aligning with sacred/social
+    law and ethical duty.
+  cautions: If the passage primarily concerns covenant breach or divine sanction,
+    covenant or divine_judgment may be secondary mappings.
+  suggested_aliases:
+  - kinship_duty_shame
+  - public_shaming_for_failed_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-and-rejection-of-foreign-gods-before-worship
+  motif_id: purification_and_rejection_of_foreign_gods_before_worship
+  label: Purification and rejection of foreign gods before worship
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rejecting foreign gods and purifying before worship maintains covenantal
+    exclusive loyalty and ritual order.
+  cautions: Could also index under sacrifice or sacred_law if the passage emphasizes
+    ritual procedure rather than covenant fidelity.
+  suggested_aliases:
+  - rejection_of_foreign_gods
+  - purification_before_worship
+  - covenantal_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-the-heart-before-divine-request
+  motif_id: purification_of_the_heart_before_divine_request
+  label: Purification of the heart before divine request
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Interior purification before approaching the divine fits contemplative
+    discipline and preparation for sacred encounter.
+  cautions: May instead be prayer etiquette, ethical instruction, or sacred_exchange
+    depending on passage evidence.
+  suggested_aliases:
+  - inner_purification_before_prayer
+  - purified_heart_before_divine_petition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-lured-into-narrow-passage
+  motif_id: pursuit_lured_into_narrow_passage
+  label: pursuit lured into narrow passage
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Luring pursuers into a constricted passage is a deception or stratagem
+    at a boundary.
+  cautions: If the narrow passage is an ordeal threshold or death trap rather than
+    trickery, threshold_guardian or sacred_combat may fit better.
+  suggested_aliases:
+  - luring_pursuers_into_passage
+  - narrow_passage_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-a-matching-status-animal
+  motif_id: quest_for_a_matching_status_animal
+  label: Quest for a matching status animal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a quest object, but the animal's function as status
+    marker, companion, bride-price, or sacred animal is unclear.
+  cautions: Could map to hero_journey, sacred_treasures, sacred_combat, or an animal-status
+    motif depending on source context; single occurrence is too specific.
+  suggested_aliases:
+  - status_animal_quest
+  - quest_for_equal_status_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-a-rare-singing-bird
+  motif_id: quest_for_a_rare_singing_bird
+  label: quest for a rare singing bird
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A quest for a rare object or creature fits the broad quest/departure
+    pattern.
+  cautions: The singing bird may be a magical music, prophecy, healing, or treasure
+    object; preserve the bird detail as evidence unless it recurs.
+  suggested_aliases:
+  - rare_bird_quest
+  - quest_for_singing_bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-an-arthurian-champion
+  motif_id: quest_for_an_arthurian_champion
+  label: quest for an Arthurian champion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label is corpus- or cycle-specific and names an Arthurian role rather
+    than a reusable symbolic motif.
+  cautions: If the passage centers on finding a champion as a transferable quest structure,
+    consider hero_journey or sacred_combat after review.
+  suggested_aliases:
+  - quest_for_a_champion
+  - champion_search
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-and-defence-of-a-bull
+  motif_id: quest_for_and_defence_of_a_bull
+  label: quest for and defence of a bull
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A quest and defense centered on a bull aligns with cattle-raid or livestock
+    conflict motifs in sacred combat.
+  cautions: If the bull is chiefly a status animal, divine animal, or quest prize,
+    hero_journey or sacred_treasures may be secondary.
+  suggested_aliases:
+  - bull_quest_and_defense
+  - defence_of_a_bull
+  - cattle_defense_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-enduring-name-through-mortal-risk
+  motif_id: quest_for_enduring_name_through_mortal_risk
+  label: Quest for enduring name through mortal risk
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seeking lasting fame through dangerous quest fits heroic departure, ordeal,
+    and return-or-death logic.
+  cautions: May overlap with storytelling_as_power if the emphasis is public immortality
+    through name, or death_by_fate if the risk is framed as destined death.
+  suggested_aliases:
+  - quest_for_fame_through_risk
+  - enduring_name_quest
+  - heroic_fame_through_mortal_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence journey or quest labels; several
+  should remain granular evidence rather than become taxonomy families.
+- Do not infer transmission or shared origin from placements in hero_journey, sacred_combat,
+  or sacred_law.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    over-specific quest-object labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0216
+  input_sha256: 3db3234c7780be460572fd4d8697472616aa1a43ae4ea6ca3570ea1cd2fbb05a
+

@@ -1,0 +1,464 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15073-l15164
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  II. / CHAPTER    II,    3-7.  247 / CHAPTER    11,8-11.  249 / CHAPTER    II,   12-19.  251;
+    lines 15073-15164
+  start: '15073'
+  end: '15164'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual purity rules for pollution and cleansing involving
+    stone, dung-fuel, ashes, a menstruous woman, corpses on roofs or other structures,
+    sacred twigs, and the handling of bodies that may fall. It also begins an incomplete
+    rule about a death on a tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A stone-related case is described in which something becomes clean with the
+    ground after a year, while polluted stone that is dug up or remains above ground
+    must be washed at the time.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dung-fuel and ashes become polluted when the limbs of a menstruous woman come
+    upon them; salt and lime used for washing her shift are to be treated like stone.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When someone dies on a terrace roof and a limb or hair remains at the roof
+    edge, the roof is polluted for the size of the body as far as the water.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sacred twigs in the house are to be carried down from the polluted place until
+    there are thirty steps of three feet to the sacred twigs, so that they are not
+    polluted.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the dead person's hair or limb has not come to the eaves, the roof is
+    polluted to the bottom.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When someone dies on a rita, the polluted extent is for the size of the body
+    as far as the water, and it becomes clean with the ground after a year.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A built bridge and the terrace roof of a trellised apartment are treated as
+    liable in the same way as a terrace roof.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When someone dies in a trellised apartment, absence of limbs or hair on the
+    borders prevents pollution from being conveyed downward; remaining bodily material
+    conveys it downward, after which digging it up and spreading it again is said
+    to make it clean.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: For a death by strangulation and rope in a crowd, the body is not to be carried
+    down if there is no fear of falling; if there is fear on one side it is carried
+    down on that side, and if it has fallen it is carried down where it fell.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: For someone seated upright who dies, the body is carried down on the side
+    or sides where there is fear of falling; if it has fallen, it is carried down
+    where it fell.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The supplied excerpt introduces a case of someone dying on a tree, but the
+    rule is cut off after the words about the tree.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: menstruous woman
+  description: A woman whose limbs coming upon dung-fuel and ashes makes them polluted,
+    and whose shift is washed with salt and lime treated like stone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: dead person or corpse
+  description: A person who dies on a terrace roof, rita, bridge-like or trellised
+    structure, by strangulation, while seated upright, or on a tree; limbs, hair,
+    location, and falling affect pollution and handling rules.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: unnamed handlers
+  description: Unspecified agents who wash polluted material, carry down sacred twigs,
+    carry down bodies, and dig up or spread a floor or surface.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: source of ritual pollution
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The menstruous woman's limbs pollute objects; a corpse, its limb, or its
+    hair determines pollution in roofs, structures, and ground-related cases.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: ritual handler or cleaner
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly directs unnamed agents to wash, carry down sacred
+    twigs, carry down bodies, and dig up or spread material again.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: stone requiring washing
+  literal_form: polluted stone
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: water as pollution boundary
+  literal_form: water marking the extent to which pollution reaches
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: sacred twigs
+  literal_form: sacred twigs (baresom) in the house
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: elevated structure
+  literal_form: terrace roof, built bridge, and trellised apartment or its roof
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: tree
+  literal_form: tree as a place where someone dies
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: rope
+  literal_form: rope in a death by strangulation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Menstrual contact pollutes materials
+  summary: Dung-fuel and ashes are polluted by contact with the limbs of a menstruous
+    woman, and materials for washing her shift are governed by a stone-related rule.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Death on a terrace roof
+  summary: A corpse on a terrace roof pollutes according to whether a limb or hair
+    reaches the edge or eaves; sacred twigs are moved far enough away to avoid pollution.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Death on other structures
+  summary: Rules extend terrace-roof liability to a rita, a built bridge, and a trellised
+    apartment; in the trellised apartment case, bodily remains at borders determine
+    whether pollution passes downward.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Handling a body that may fall
+  summary: For a strangled person in a crowd or a seated upright dead person, handlers
+    carry the body down only on the side or sides where falling is feared, or where
+    it has already fallen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Death on a tree introduced
+  summary: The excerpt begins a new case concerning someone dying on a tree, but the
+    supplied text ends before the rule is completed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ritual pollution transmitted through bodily contact or remains
+  taxonomy_refs: []
+  basis: Objects are polluted by the limbs of a menstruous woman, and places are polluted
+    by a corpse, its limb, or its hair.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a ritual-legal purity pattern rather than a narrative myth motif;
+    no supplied motif-family taxonomy reference directly matches it.
+- id: motif:2
+  label: spatial containment and measurement of corpse pollution
+  taxonomy_refs: []
+  basis: Pollution is measured by the body, by distance to water, by roof edges or
+    eaves, and by a thirty-step distance protecting sacred twigs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The label groups several prescriptive measurements; the passage does not
+    present this as a named motif.
+- id: motif:3
+  label: death on elevated structures and downward impurity
+  taxonomy_refs: []
+  basis: The passage treats death on a terrace roof, built bridge, and trellised apartment,
+    and specifies when pollution descends or reaches the bottom.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The category is inferred from repeated structural settings; one term,
+    rita, is explicitly marked uncertain in a note.
+- id: motif:4
+  label: purification by washing, time, and restoration of surfaces
+  taxonomy_refs: []
+  basis: Polluted stone is washed, a polluted rita becomes clean with the ground after
+    a year, and a trellised apartment surface can be dug up, spread again, and become
+    clean.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a procedural purification pattern, not a mythic rebirth or resurrection
+    motif.
+- id: motif:5
+  label: protection of sacred implements from impurity
+  taxonomy_refs: []
+  basis: Sacred twigs are moved away from the place of corpse pollution to prevent
+    their pollution.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage names the sacred twigs but does not explain their wider ritual
+    symbolism.
+- id: motif:6
+  label: restricted movement of the corpse
+  taxonomy_refs: []
+  basis: Rules for strangled or upright dead persons direct handlers to move the body
+    only according to risk or actual place of falling; an editorial note states that
+    the object is to avoid disturbing the corpse more than necessary.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:11
+  confidence: medium
+  cautions: Part of the basis relies on an editorial explanatory note, not only on
+    the prescriptive rule text.
+comparison_claims:
+- id: claim:1
+  claim: The passage's rule for death on a terrace roof is explicitly compared in
+    a note to Pahlavi Vendidad VI, 9, where a death on an upper floor similarly determines
+    pollution by remaining bodily material and by spatial limits.
+  claim_level: same_function
+  target: Pahlavi Vendidad VI, 9 rules on death on an upper floor
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial cross-reference within related ritual-legal material.
+    It supports functional analogy, not an independent claim about historical contact
+    or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter II, section 16, lines 15073-15078
+  quote_or_summary: A stone or ground-related case states that something becomes clean
+    with the ground after a year; polluted stone that is dug up or remains above ground
+    is to be washed at the time.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter II, section 17, lines 15080-15084
+  quote_or_summary: Dung-fuel and ashes are polluted when the limbs of a menstruous
+    woman come upon them; salt and lime for washing her shift are treated like stone.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Chapter II, section 18, lines 15085-15095
+  quote_or_summary: If someone dies on a terrace roof and a limb or hair remains at
+    the roof edge, the roof is polluted for the size of the body as far as the water;
+    sacred twigs are to be carried down until thirty three-foot steps away; if hair
+    or limb has not come to the eaves, the roof is polluted to the bottom.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter II, section 19, lines 15096-15105
+  quote_or_summary: When someone dies on a rita, it is polluted for the size of the
+    body as far as the water and becomes clean with the ground after a year; a note
+    says the meaning of rita is uncertain.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter II, sections 20-21, lines 15105-15112
+  quote_or_summary: A built bridge is liable like a terrace roof, and death on the
+    terrace roof of a trellised apartment is also liable like a terrace roof.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Chapter II, section 22, lines 15112-15119
+  quote_or_summary: In a trellised apartment, if no limb or hair remains on the borders,
+    pollution is not conveyed down; if any remains behind, it is conveyed down. Digging
+    it up and spreading it again is said to make it clean.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Chapter II, section 23, lines 15120-15128
+  quote_or_summary: For death by strangulation and rope in a crowd, the body is not
+    carried down if there is no fear of falling; if there is fear on one side, it
+    is carried down on that side; if it has fallen, it is carried down where it fell.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Chapter II, section 24, lines 15128-15135
+  quote_or_summary: For a person seated upright who dies, the body is carried down
+    on the side where falling is feared, on all four sides if fear is on all four
+    sides, or where it has fallen if already fallen.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: Chapter II, section 25, line 15136
+  quote_or_summary: '"And when one shall die on a tree, when its"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; quoted minimally; supplied excerpt cuts off here.
+- id: ev:10
+  type: note
+  locator: Footnote to Chapter II, section 18, within supplied passage
+  quote_or_summary: An editorial note says something analogous to the terrace-roof
+    details is found in Pahlavi Vendidad VI, 9, and summarizes a comparable rule about
+    death on an upper floor and pollution reaching partitions, balcony, ground, or
+    water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: note
+  locator: Footnote to Chapter II, sections 23-24, within supplied passage
+  quote_or_summary: An editorial note says the object of the rules is evidently to
+    avoid disturbing the corpse more than absolutely necessary, provided there is
+    no fear of polluting more ground by falling.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is prescriptive ritual-legal material rather than narrative myth.
+    Extraction is limited by OCR artifacts, uncertain terminology, and the supplied
+    range beginning and ending mid-rule.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied motif-family taxonomy reference directly matches the central purity and corpse-pollution patterns, so motif taxonomy references are left empty. Symbol taxonomy references are used only for literal water and tree.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15073-l15164
+  passage_sha256=e272d0913a8543044872981bce268fe1d67c3f3383ffabc8b8cb4808afcf85d7
+

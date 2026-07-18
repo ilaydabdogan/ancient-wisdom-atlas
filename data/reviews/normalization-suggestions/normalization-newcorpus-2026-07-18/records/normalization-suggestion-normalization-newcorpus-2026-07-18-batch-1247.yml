@@ -1,0 +1,335 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1247
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.town-title-map-centered-on-church-and-bounded-by-landmarks
+  motif_id: town_title_map_centered_on_church_and_bounded_by_landmarks
+  label: town-title map centered on church and bounded by landmarks
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a spatial document or land-title map, but its symbolic
+    or narrative function is unclear from wording alone.
+  cautions: May be a colonial/legal cartographic artifact rather than a mythic motif;
+    review source context before mapping to world_center, sacred_geography, or _meta_textual.
+  suggested_aliases:
+  - land-title map centered on sacred building
+  - boundary map with landmarks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_center
+    - axis_mundi
+    - sacred_law
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transgressive-mating-and-anomalous-offspring
+  motif_id: transgressive_mating_and_anomalous_offspring
+  label: transgressive mating and anomalous offspring
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label points to forbidden or boundary-crossing union producing unusual
+    offspring, but no existing group cleanly covers monstrous or hybrid birth.
+  cautions: Could involve sacred_birth, shapeshifter, divine_judgment, or a culturally
+    sensitive demonology/giant tradition; passage evidence is needed before placement.
+  suggested_aliases:
+  - forbidden union produces anomalous offspring
+  - transgressive union and monstrous birth
+  - boundary-crossing mating
+  suggested_new_group:
+    id: transgressive_union_anomalous_birth
+    label: Transgressive Union and Anomalous Birth
+    description: Forbidden, cross-boundary, divine-human, human-animal, angelic-human,
+      or otherwise improper unions produce anomalous, monstrous, giant, or socially
+      disruptive offspring.
+    parent_group_ids:
+    - sacred_birth
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    - duality
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing sacred_birth and miraculous_child
+      groups emphasize auspicious destiny or protected infancy, while this label emphasizes
+      transgression and anomalous offspring as a disordering consequence.
+- suggestion_id: normalization.suggestion.trap-door-confinement-after-failed-hospitality
+  motif_id: trap_door_confinement_after_failed_hospitality
+  label: Trap-door confinement after failed hospitality
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key narrative function is failed hospitality leading to punishment
+    or confinement, matching the hospitality-test complex.
+  cautions: If the trap-door mechanism is the main motif rather than hospitality failure,
+    this may be an over-specific episode detail or threshold/ordeal scene.
+  suggested_aliases:
+  - failed hospitality punished by confinement
+  - hospitality failure and hidden trap
+  - trap-door punishment after inhospitable conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-bringing-familiar-servant
+  motif_id: treasure_bringing_familiar_servant
+  label: treasure-bringing familiar servant
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A familiar servant that brings treasure functions as a supernatural helper
+    or provision agent, close to divine_intervention's helper and abundance patterns.
+  cautions: May involve local spirit beliefs, household spirits, demonic pacts, or
+    magical wealth; review cultural context before treating as divine guidance. Could
+    also fit sacred_treasures if the treasure object matters more than the familiar.
+  suggested_aliases:
+  - wealth-bringing familiar
+  - treasure-bringing spirit servant
+  - supernatural servant brings riches
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_exchange
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-scattering-before-destructive-vengeance
+  motif_id: treasure_scattering_before_destructive_vengeance
+  label: treasure scattering before destructive vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines treasure handling with vengeance and destruction,
+    but the dominant function is unclear.
+  cautions: Could belong under divine_judgment, sacred_treasures, curse_blessing_speech,
+    or heroic vengeance depending on whether treasure, curse, or retaliatory destruction
+    drives the episode.
+  suggested_aliases:
+  - scattered treasure before vengeance
+  - treasure disposal preceding revenge
+  - wealth scattered before destructive retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_judgment
+    - curse_blessing_speech
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasured-records-carried-from-an-abandoned-center
+  motif_id: treasured_records_carried_from_an_abandoned_center
+  label: Treasured records carried from an abandoned center
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Carrying treasured records preserves authoritative knowledge from a former
+    center, aligning with sacred knowledge transmission and protection.
+  cautions: If the focus is migration from a sacred center, world_center or hero_journey
+    may be secondary; if it is a manuscript-history note, review for _meta_textual
+    exclusion.
+  suggested_aliases:
+  - sacred records preserved from abandoned center
+  - knowledge records carried from former center
+  - treasured books transported from sacred center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_center
+    - axis_mundi
+    - storytelling_as_power
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trustworthy-ally-brings-hopeful-assurance
+  motif_id: trustworthy_ally_brings_hopeful_assurance
+  label: Trustworthy ally brings hopeful assurance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a generic plot or character-support beat rather than
+    a durable symbolic motif.
+  cautions: If the ally is a divine messenger, animal helper, or recognition-token
+    bearer, remap based on that evidence; the current wording is too broad and contextual.
+  suggested_aliases:
+  - ally brings reassurance
+  - trusted helper gives hope
+  - hopeful assurance by ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.turn-from-ordinary-sustenance-to-a-shark-companion
+  motif_id: turn_from_ordinary_sustenance_to_a_shark_companion
+  label: turn from ordinary sustenance to a shark companion
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase suggests a shift from food/resource relation to animal companionship,
+    but its ritual or narrative function is not clear.
+  cautions: Could involve animal helper, ancestral/tutelary shark, tabooed food, shapeshifting,
+    or local guardian-spirit traditions; culturally specific Hawaiian shark relationships
+    require evidence-sensitive review.
+  suggested_aliases:
+  - shark companion replaces ordinary sustenance
+  - turning from food to animal companion
+  - shark as companion rather than sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    - shapeshifter
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.two-champions-hold-a-gate-against-many-attackers
+  motif_id: two_champions_hold_a_gate_against_many_attackers
+  label: two champions hold a gate against many attackers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on heroic defensive combat at a threshold, fitting
+    sacred or heroic combat more than a generic boundary object.
+  cautions: If the gate as liminal threshold is emphasized, threshold_guardian may
+    be a secondary mapping; if it is only a battle tactic, it may be over-specific.
+  suggested_aliases:
+  - champions defend gate against many
+  - heroic gate defense
+  - two defenders hold a threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_warrior
+    - sacred_twins
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unbreakable-cup-or-glass
+  motif_id: unbreakable_cup_or_glass
+  label: unbreakable cup or glass
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An extraordinary cup or glass is a power-bearing vessel, fitting the
+    sacred vessel/container group.
+  cautions: If the main function is proof of invulnerability, testing, or royal treasure,
+    sacred_treasures or conditional_invulnerability_hidden_weakness may be relevant
+    secondary mappings.
+  suggested_aliases:
+  - unbreakable vessel
+  - indestructible cup
+  - unbreakable drinking glass
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - conditional_invulnerability_hidden_weakness
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be treated as provisional until passage evidence confirms the
+  narrative function.
+- For Maya cartographic and record-preservation labels, distinguish mythic sacred-center
+  symbolism from colonial/legal/documentary artifacts before indexing as motifs.
+- For Hawaiian shark-companion material, review culturally specific animal-guardian
+  or ancestral relationships rather than flattening to generic animal-helper motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1247
+  input_sha256: 1833321a14ffa91bb6469a0899730bc39e8245cfe0e63a9cd4504b966e06fa46
+

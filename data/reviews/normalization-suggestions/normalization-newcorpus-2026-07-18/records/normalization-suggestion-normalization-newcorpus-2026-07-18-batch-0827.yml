@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0827
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enormous-or-dangerous-animals-known-by-report
+  motif_id: enormous_or_dangerous_animals_known_by_report
+  label: enormous or dangerous animals known by report
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates reported dangerous animals but not a clear narrative
+    function such as guardian, helper, monster combat, or transformation.
+  cautions: May be a passage-specific travel/report detail rather than a motif; source
+    evidence is needed before creating an animal-monster group.
+  suggested_aliases:
+  - reported dangerous animals
+  - enormous animals known by hearsay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_warrior
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epic-invocation-framing-an-animal-war
+  motif_id: epic_invocation_framing_an_animal_war
+  label: Epic invocation framing an animal war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The emphasis is on epic invocation as a framing device rather than the
+    animal-war motif itself.
+  cautions: If the passage evidence centers on ritualized animal combat, map that
+    separately under sacred_combat or trickster as appropriate.
+  suggested_aliases:
+  - epic invocation frame
+  - invocation framing animal combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.erotic-encounter-preceding-transformation
+  motif_id: erotic_encounter_preceding_transformation
+  label: erotic encounter preceding transformation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is transformation following a sexual or erotic encounter,
+    fitting bodily/status metamorphosis.
+  cautions: Could also involve sacred_love or initiation if the encounter rather than
+    the transformation is central; verify source context.
+  suggested_aliases:
+  - sexual encounter before metamorphosis
+  - erotic transformation trigger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.erotic-trickery-and-adultery-accusation
+  motif_id: erotic_trickery_and_adultery_accusation
+  label: Erotic trickery and adultery accusation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Erotic deception and accusation fit trickster boundary violation when
+    deceit drives the episode.
+  cautions: If the passage centers on false accusation or moral reckoning, divine_judgment
+    may be a better secondary mapping; if it is only domestic intrigue, it may be
+    too contextual.
+  suggested_aliases:
+  - sexual deception and adultery charge
+  - adultery accusation through trickery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - betrayal_violated_trust
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-supernatural-animal-apparitions-with-treasure
+  motif_id: escalating_supernatural_animal_apparitions_with_treasure
+  label: Escalating supernatural animal apparitions with treasure
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines supernatural animals, apparitions, escalation, and
+    treasure without revealing the narrative function.
+  cautions: May fit sacred_treasures, otherworld, threshold_guardian, divine_intervention,
+    or shapeshifter depending on whether the animals guard, reveal, tempt, or transform.
+  suggested_aliases:
+  - supernatural animal apparitions with treasure
+  - escalating animal treasure apparitions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - otherworld
+    - threshold_guardian
+    - divine_intervention
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-from-mass-transformation-through-absence
+  motif_id: escape_from_mass_transformation_through_absence
+  label: escape from mass transformation through absence
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns on transformation affecting a group, with escape by being
+    absent from the transformative event.
+  cautions: Could be an etiological origin of species or social groups; consider cosmic_origin
+    if the transformation explains present-world traits.
+  suggested_aliases:
+  - absence prevents transformation
+  - escape from collective metamorphosis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-of-a-captured-supernatural-animal-after-a-warning
+  motif_id: escape_of_a_captured_supernatural_animal_after_a_warning
+  label: Escape of a captured supernatural animal after a warning
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A captured supernatural animal escaping after warning may be helper,
+    omen, taboo violation, trickster escape, or otherworld being episode.
+  cautions: Source context is needed to determine whether the warning is divine instruction,
+    animal speech, broken taboo, or narrative setup.
+  suggested_aliases:
+  - captured supernatural animal escapes
+  - warning before animal escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - trickster
+    - sacred_law
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-animal-and-landscape-trait-explanation
+  motif_id: etiological_animal_and_landscape_trait_explanation
+  label: Etiological animal and landscape trait explanation
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains present animal and landscape traits, matching the
+    existing etiological formation content under cosmic_origin.
+  cautions: If the episode centers on trickster action rather than origin explanation,
+    trickster may be a secondary mapping.
+  suggested_aliases:
+  - etiological animal landscape traits
+  - origin of animal and landscape features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-animal-behavior-and-remedy-explanation
+  motif_id: etiological_animal_behavior_and_remedy_explanation
+  label: Etiological animal-behavior and remedy explanation
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal behavior origin with a remedy or ritual/practical
+    cure, which may not fit one existing group cleanly.
+  cautions: Could be cosmic_origin for etiology, sacred_knowledge for remedy knowledge,
+    or sacred_law if the remedy is ritualized; review culturally specific evidence
+    carefully.
+  suggested_aliases:
+  - origin of animal behavior and remedy
+  - animal behavior etiology with cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-animal-body-explanation
+  motif_id: etiological_animal_body_explanation
+  label: Etiological animal-body explanation
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining why an animal body has its present form is an etiological
+    origin pattern, already partially represented under cosmic_origin.
+  cautions: If the body trait results from metamorphosis or punishment, shapeshifter
+    or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - animal body trait etiology
+  - origin of animal body form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal labels are single-occurrence and highly contextual; prefer provisional
+  group placement over new canonical groups until recurrence is shown.
+- Etiological animal-trait labels can often sit under cosmic_origin for broad query
+  purposes, but source context should preserve whether trickster action, punishment,
+  or transformation creates the trait.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0827
+  input_sha256: f36f95012549167163558d763920112e038bcc66644b56827001f58ea18fe083
+

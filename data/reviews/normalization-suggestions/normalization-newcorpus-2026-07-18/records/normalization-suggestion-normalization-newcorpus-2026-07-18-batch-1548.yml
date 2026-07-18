@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1548
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-ignored-and-food-taken
+  motif_id: refusal_ignored_and_food_taken
+  label: Refusal ignored and food taken
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests violated consent or theft, but the narrative function
+    is unclear from wording alone.
+  cautions: Could be food theft, hospitality violation, trickster episode, coercion,
+    or a passage-specific plot detail.
+  suggested_aliases:
+  - ignored_refusal_and_taken_food
+  - food_taken_against_refusal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-escape-in-favor-of-foretold-fate
+  motif_id: refusal_of_escape_in_favor_of_foretold_fate
+  label: refusal of escape in favor of foretold fate
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: A figure declines escape because fate has been foretold, matching acceptance
+    of destined death or doom.
+  cautions: If no death or fatal doom is involved, review under prophecy_divination
+    or sacred_law instead.
+  suggested_aliases:
+  - acceptance_of_foretold_fate
+  - foretold_fate_accepted_over_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-illicit-sexual-invitation
+  motif_id: refusal_of_illicit_sexual_invitation
+  label: Refusal of illicit sexual invitation
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing illicit sex functions as obedience to moral or sacred law and
+    sexual boundary maintenance.
+  cautions: Could also belong with divine_judgment if false accusation or punishment
+    follows; avoid reducing a specific episode to sexual morality without context.
+  suggested_aliases:
+  - chastity_under_temptation
+  - refusal_of_forbidden_sexual_advance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-retaliation-after-balanced-losses
+  motif_id: refusal_of_retaliation_after_balanced_losses
+  label: refusal of retaliation after balanced losses
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing retaliation after reciprocal losses aligns with mercy, restraint,
+    and restoration of social bonds already grouped under covenant.
+  cautions: May fit sacred_law if framed as legal compensation, or sacred_combat if
+    part of warfare ethics.
+  suggested_aliases:
+  - retaliation_refused_after_equal_loss
+  - restraint_after_balanced_losses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-kill-an-unarmed-opponent
+  motif_id: refusal_to_kill_an_unarmed_opponent
+  label: Refusal to kill an unarmed opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns martial restraint and rules of honorable combat within
+    a warrior encounter.
+  cautions: If framed as mercy or moral law rather than combat code, covenant or sacred_law
+    may be better secondary placements.
+  suggested_aliases:
+  - martial_refusal_to_kill_unarmed_foe
+  - honor_code_spares_unarmed_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-release-captives-because-of-prior-obligation-or-hostility
+  motif_id: refusal_to_release_captives_because_of_prior_obligation_or_hostility
+  label: Refusal to release captives because of prior obligation or hostility
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves captivity, obligation, and hostility, but the operative
+    motif is not clear without episode context.
+  cautions: Could be sacred combat, covenant obligation, violated trust, hostage politics,
+    or an over-specific plot detail.
+  suggested_aliases:
+  - captives_not_released_due_to_prior_obligation
+  - refusal_to_free_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - covenant
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-surrender-s-t
+  motif_id: refusal_to_surrender_s_t
+  label: refusal to surrender Sítá
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label names a specific character and episode rather than a reusable
+    motif in its current form.
+  cautions: If generalized from passage evidence, it may support stolen_beloved, sacred_combat,
+    or refusal to restore abducted beloved.
+  suggested_aliases:
+  - refusal_to_surrender_abducted_beloved
+  - abductor_refuses_return_of_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - stolen_beloved
+    - sacred_combat
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-violate-kin-guest-bonds
+  motif_id: refusal_to_violate_kin_guest_bonds
+  label: refusal to violate kin-guest bonds
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on preserving guest obligations, with kinship complicating
+    but not replacing the hospitality bond.
+  cautions: If the passage emphasizes oath or kin-law more than hospitality, covenant
+    or sacred_law should be considered.
+  suggested_aliases:
+  - guest_bond_upheld_against_kin_pressure
+  - refusal_to_break_hospitality_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-captive-gift-followed-by-killing-of-the-captive
+  motif_id: refused_captive_gift_followed_by_killing_of_the_captive
+  label: refused captive-gift followed by killing of the captive
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific sequence involving gift refusal and captive
+    killing, with unclear symbolic function.
+  cautions: Could involve sacrifice, sacred exchange refused, warfare, vengeance,
+    or a passage-specific ethnographic detail; source context is needed.
+  suggested_aliases:
+  - captive_gift_refused_and_captive_killed
+  - rejected_captive_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacrifice
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-compensation-for-kin-slaying
+  motif_id: refused_compensation_for_kin_slaying
+  label: refused compensation for kin-slaying
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing compensation for kin-slaying concerns legal-social restitution,
+    feud, and limits of settlement.
+  cautions: If the refusal drives vengeance or combat, sacred_combat may be a secondary
+    mapping; if it marks broken bonds, covenant may also apply.
+  suggested_aliases:
+  - blood_compensation_refused
+  - weregild_refused_for_kin_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence refusal scenes; source context
+  is needed to distinguish ethical restraint, legal obligation, hospitality, feud
+  logic, and passage-specific plot detail.
+- Do not infer transmission or shared origin from these placements; suggestions only
+  support normalization review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-api
+  reviewed_at: ''
+  notes: Provisional placements generated from labels only; human review recommended
+    especially for culturally specific captive, kin, and hospitality obligations.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1548
+  input_sha256: 4200ef4067cbbf74f607777da05b5d82f2dd27ff9348c0e85283a78d7675e84a
+

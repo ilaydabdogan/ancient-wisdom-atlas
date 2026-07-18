@@ -1,0 +1,326 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0082
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.impossible-task-under-death-threat
+  motif_id: impossible_task_under_death_threat
+  label: impossible task under death threat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an ordeal or coercive test, but the death threat alone
+    does not identify descent, initiation, combat, or judgment.
+  cautions: Single occurrence and likely context-dependent; may fit initiation, hero_journey,
+    sacred_combat, or a folktale task pattern not yet represented.
+  suggested_aliases:
+  - deadly impossible task
+  - impossible task on pain of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - hero_journey
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imprisoned-disease-spirits-released-from-a-rock-dungeon
+  motif_id: imprisoned_disease_spirits_released_from_a_rock_dungeon
+  label: Imprisoned disease spirits released from a rock-dungeon
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rock-dungeon functions as a containing vessel or sealed enclosure holding
+    harmful spirits until release.
+  cautions: Could also involve sacred_law or sacrifice if the focus is disease-spirit
+    expulsion, containment taboo, or ritual protection rather than the prison-container
+    itself.
+  suggested_aliases:
+  - sealed disease spirits
+  - disease spirits released from confinement
+  - spirit prison opened
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imprisoned-guest-becomes-returning-battle-champion
+  motif_id: imprisoned_guest_becomes_returning_battle_champion
+  label: Imprisoned guest becomes returning battle champion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Imprisonment followed by return as champion fits a departure-ordeal-return
+    pattern with transformed status.
+  cautions: If the passage emphasizes combat identity over return, sacred_combat or
+    divine_warrior may be secondary; guest status may also invoke hospitality themes.
+  suggested_aliases:
+  - returning battle champion
+  - imprisoned hero returns as champion
+  - captive guest transformed into champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inaccessible-sacred-tomb-island
+  motif_id: inaccessible_sacred_tomb_island
+  label: Inaccessible sacred tomb island
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: The current group includes saintly tombs, relic devotion, and sacred
+    burial sites as power-laden objects or centers.
+  cautions: If the island functions as an otherworld destination, afterlife_passage
+    or otherworld may be better; if primarily geography, it may be too place-specific.
+  suggested_aliases:
+  - sacred tomb island
+  - inaccessible holy tomb
+  - island tomb shrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - otherworld
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.indestructible-soul-beyond-weapons-and-elements
+  motif_id: indestructible_soul_beyond_weapons_and_elements
+  label: indestructible soul beyond weapons and elements
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: child
+  confidence: high
+  rationale: This exact soul-doctrine type is already represented under sacred_knowledge
+    as indestructible_immortal_soul.
+  cautions: Do not treat this as resurrection or external soul; the label is philosophical
+    teaching about the soul's nature, not a narrative return from death.
+  suggested_aliases:
+  - indestructible immortal soul
+  - soul untouched by weapons or elements
+  - immortal soul beyond destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.individual-totem-as-alter-ego-or-soul-double
+  motif_id: individual_totem_as_alter_ego_or_soul_double
+  label: Individual totem as alter ego or soul-double
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A totem functioning as alter ego or soul-double aligns with life or identity
+    externalized into another being or token.
+  cautions: Culturally sensitive totemic concepts require source review; do not reduce
+    all totemism to external-soul mechanics if kinship, place, or ancestral law is
+    primary.
+  suggested_aliases:
+  - totem as soul double
+  - totemic alter ego
+  - individual totemic double
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.individualized-battle-death-and-wounding
+  motif_id: individualized_battle_death_and_wounding
+  label: individualized battle death and wounding
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Battle death and wounds are already covered by divine_warrior children
+    such as death_in_battle and bodily_wounds_as_proof_of_service.
+  cautions: May be a descriptive passage artifact if it only notes individualized
+    battlefield narration; preserve details but avoid promoting as canonical motif.
+  suggested_aliases:
+  - battle death and wounds
+  - individual warrior death
+  - heroic wounding in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - lament_and_mourning
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.indwelling-divine-spirit-grieved-by-inner-vice
+  motif_id: indwelling_divine_spirit_grieved_by_inner_vice
+  label: Indwelling divine spirit grieved by inner vice
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns inner moral-spiritual psychology more than a clear
+    death or afterlife motif.
+  cautions: Could fit sacred_law, divine_judgment, mystical_quest, or a future inner-spirit
+    anthropology group; source context is needed for sensitive theological handling.
+  suggested_aliases:
+  - divine spirit grieved by vice
+  - indwelling spirit and moral impurity
+  - inner vice wounds divine spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - mystical_quest
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.indwelling-spirit-and-body-spirit-companionship
+  motif_id: indwelling_spirit_and_body_spirit_companionship
+  label: Indwelling spirit and body-spirit companionship
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Companionship between indwelling spirit and body-spirit is a specialized
+    anthropology not clearly covered by existing groups.
+  cautions: May be doctrinal or passage-specific rather than a reusable motif; review
+    whether it describes soul doctrine, moral psychology, or narrative agency.
+  suggested_aliases:
+  - body-spirit companionship
+  - indwelling spirit companion
+  - spirit and body-spirit pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - mystical_quest
+    - external_soul
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inescapability-of-death-and-moral-consequence
+  motif_id: inescapability_of_death_and_moral_consequence
+  label: inescapability of death and moral consequence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif links unavoidable death with moral consequence, matching reckoning
+    of deeds and postmortem or karmic accountability.
+  cautions: In Buddhist context this may be karmic law rather than judgment by a deity;
+    preserve doctrinal nuance and consider death_by_fate if inevitability is primary.
+  suggested_aliases:
+  - death and moral consequence
+  - inescapable death and karmic result
+  - mortality and moral reckoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - sacred_law
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels are single-occurrence and may be
+  passage artifacts or doctrinal summaries rather than durable motif labels.
+- Avoid treating death-bucket placement as proof of afterlife/descent function; several
+  items fit moral psychology, combat, or sacred-object groups instead.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for provisional placement against existing canonical_motif_groups;
+    human review recommended for culturally sensitive soul, totem, and indwelling-spirit
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0082
+  input_sha256: 6882659aed3c81d89efa315879486321b9cdd89be928a558f5767981a289b730
+

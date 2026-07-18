@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1088
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-traditions-blended-into-pseudo-history
+  motif_id: heroic_traditions_blended_into_pseudo_history
+  label: Heroic traditions blended into pseudo-history
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historiographical or editorial framing of traditions
+    rather than a narrative motif.
+  cautions: Preserve as provenance or genre/classification metadata if useful; do
+    not use as evidence for heroic-combat patterns.
+  suggested_aliases:
+  - pseudo-historical blending of heroic tradition
+  - heroic tradition as pseudo-history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-use-of-empowered-weapons-against-demonic-attackers
+  motif_id: heroic_use_of_empowered_weapons_against_demonic_attackers
+  label: Heroic use of empowered weapons against demonic attackers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero using empowered weapons against demonic attackers fits sacred
+    combat that maintains order against demonic or chaos forces.
+  cautions: If the weapon itself is the focus, sacred_treasures may be a secondary
+    mapping; if only a battle detail, keep granular.
+  suggested_aliases:
+  - empowered weapon against demons
+  - sacred weapon used in demonic combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-vengeance-against-a-monster-afflicting-a-people
+  motif_id: heroic_vengeance_against_a_monster_afflicting_a_people
+  label: heroic vengeance against a monster afflicting a people
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero attacks a monstrous afflicter to restore communal order, matching
+    sacred combat against monsters or forces of disorder.
+  cautions: The vengeance motive may also relate to sacred_combat if the episode is
+    primarily heroic feud rather than cosmic order.
+  suggested_aliases:
+  - hero avenges people against monster
+  - monster afflicting community slain by hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-vengeance-against-a-sorcerer
+  motif_id: heroic_vengeance_against_a_sorcerer
+  label: heroic vengeance against a sorcerer
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The label frames a heroic conflict with a magic-using antagonist, but
+    does not clearly establish divine-warrior or cosmic-order function.
+  cautions: Source evidence is needed to decide whether this is sacred combat, trickster
+    conflict, divine judgment, or a local episode-specific revenge detail.
+  suggested_aliases:
+  - vengeance against sorcerer
+  - heroic combat with sorcerer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-vengeance-for-fallen-companions
+  motif_id: heroic_vengeance_for_fallen_companions
+  label: heroic vengeance for fallen companions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already aliases avenging a slain companion, and the motif concerns
+    vengeance within heroic martial obligation.
+  cautions: Could also index near lament_and_mourning if grief rather than revenge
+    drives the passage.
+  suggested_aliases:
+  - avenging fallen companions
+  - vengeance for slain companions
+  - avenging a slain companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-verbal-challenge-through-epithets
+  motif_id: heroic_verbal_challenge_through_epithets
+  label: Heroic verbal challenge through epithets
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: A verbal challenge using epithets may function as performative speech
+    that provokes or binds combat.
+  cautions: May be a rhetoric/style detail rather than a sacred speech motif; if merely
+    a catalogue of insults or praise names, exclude or keep as evidence detail.
+  suggested_aliases:
+  - epithet challenge
+  - verbal combat challenge
+  - heroic taunt by epithets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-victory-attributed-to-heaven
+  motif_id: heroic_victory_attributed_to_heaven
+  label: heroic victory attributed to Heaven
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Attributing victory to Heaven frames success as direct sacred support
+    or intervention in human conflict.
+  cautions: If the attribution primarily legitimizes a ruler, royal_legitimacy may
+    be a secondary mapping; if formulaic praise, review as contextual rhetoric.
+  suggested_aliases:
+  - victory granted by Heaven
+  - heavenly aid in heroic victory
+  - divinely attributed victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-victory-followed-by-downfall
+  motif_id: heroic_victory_followed_by_downfall
+  label: Heroic victory followed by downfall
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A triumph followed by ruin fits the broader reversal pattern of overreach,
+    instability, or downfall after success.
+  cautions: Do not assume hubris unless passage evidence supports pride or transgression;
+    could also be fate, divine judgment, or tragic plot structure.
+  suggested_aliases:
+  - victory before downfall
+  - triumph followed by ruin
+  - post-victory reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-war-band-against-overwhelming-numbers
+  motif_id: heroic_war_band_against_overwhelming_numbers
+  label: heroic war-band against overwhelming numbers
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic band facing superior forces is a martial ordeal and collective
+    combat pattern within heroic warfare.
+  cautions: May be too generic unless the episode has sacred, ritual, fated, or exemplary
+    significance beyond battle odds.
+  suggested_aliases:
+  - small heroic band against many
+  - outnumbered heroic war-band
+  - heroic last stand against overwhelming numbers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-warrior-catalogue
+  motif_id: heroic_warrior_catalogue
+  label: heroic warrior catalogue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A warrior catalogue is a literary or compositional feature, not a symbolic
+    motif by itself.
+  cautions: Individual listed warriors or combat episodes may contain motifs; the
+    catalogue structure should remain textual metadata unless it has ritualized narrative
+    function.
+  suggested_aliases:
+  - catalogue of warriors
+  - hero list
+  - warrior roster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence heroic-combat details; preserve episode granularity
+  and avoid promoting to new canonical groups without recurrence.
+- Where vengeance, divine aid, or magical weapons are present, placement depends on
+  whether the passage emphasizes martial action, sacred order, divine intervention,
+  or the object itself.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional mappings only; human review should check source passages for
+    whether combat labels are formulaic details, literary artifacts, or recurring
+    motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1088
+  input_sha256: d9cb73294518d2963112aa3306c0357b88057b1709502adcb85405c49def4f0a
+

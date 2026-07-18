@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0045
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deathless-joyous-otherworld
+  motif_id: deathless_joyous_otherworld
+  label: deathless joyous otherworld
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: A joyous deathless realm fits the existing enchanted otherworld/blessed
+    realm group better than a death-return motif.
+  cautions: If passage frames it specifically as a postmortem destination with mapped
+    stages, add afterlife_passage as secondary review context.
+  suggested_aliases:
+  - blessed deathless otherworld
+  - joyous immortal otherworld
+  - deathless blessed realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathless-self-beyond-birth-and-killing
+  motif_id: deathless_self_beyond_birth_and_killing
+  label: Deathless Self beyond birth and killing
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes doctrinal wisdom about the immortal self rather than
+    a narrative death-and-return event.
+  cautions: Could fit mystical_quest or immortality_without_renewal depending on whether
+    the passage emphasizes realization, liberation, or philosophical anthropology.
+  suggested_aliases:
+  - immortal self beyond birth and death
+  - deathless atman
+  - self beyond killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceased-person-s-spirit-dwelling-in-a-bird
+  motif_id: deceased_person_s_spirit_dwelling_in_a_bird
+  label: deceased person's spirit dwelling in a bird
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dead person's spirit inhabiting a bird is a postmortem transformation
+    or embodiment pattern.
+  cautions: May also involve shapeshifter, soul_loss_restoration, or culturally specific
+    ancestor/spirit beliefs; review source evidence carefully.
+  suggested_aliases:
+  - dead spirit in bird form
+  - bird embodiment of deceased spirit
+  - deceased soul as bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceiver-destroyed-in-her-own-deadly-fount
+  motif_id: deceiver_destroyed_in_her_own_deadly_fount
+  label: Deceiver destroyed in her own deadly fount
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceiver destroyed by her own deadly device fits moral reversal and
+    judgment-like punishment.
+  cautions: If the fount or water boundary is central, sacred_waters may be a secondary
+    context; label may be episode-specific.
+  suggested_aliases:
+  - deceiver destroyed by own trap
+  - deceiver killed by own deadly source
+  - treachery reversed on deceiver
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-war-summons-as-death-trap
+  motif_id: deceptive_war_summons_as_death_trap
+  label: deceptive war summons as death trap
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive summons used to lure victims into a war-related death trap
+    matches existing deception/stratagem children under trickster.
+  cautions: Could also belong to sacred_combat if battle context is more important
+    than deceit; verify whether this is a recurring stratagem or single episode detail.
+  suggested_aliases:
+  - deceptive summons to death
+  - war summons as ambush
+  - deceptive war stratagem death trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.decreed-death-despite-imagined-avoidance
+  motif_id: decreed_death_despite_imagined_avoidance
+  label: decreed death despite imagined avoidance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif directly matches fated death that cannot be avoided despite
+    attempted or imagined escape.
+  cautions: Avoid treating this as divine judgment unless the death is explicitly
+    moral punishment rather than destiny.
+  suggested_aliases:
+  - fated death despite avoidance
+  - decreed death cannot be escaped
+  - death destiny avoided in vain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deeds-among-the-dead
+  motif_id: deeds_among_the_dead
+  label: Deeds among the dead
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too terse to distinguish activity in the afterlife, judgment
+    by deeds, or a passage artifact.
+  cautions: May map to afterlife_passage, divine_judgment, descent, or be excluded
+    if it is only a heading-like summary.
+  suggested_aliases:
+  - works among the dead
+  - actions among the dead
+  - deeds in the afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-adversaries-around-divine-return
+  motif_id: defeated_adversaries_around_divine_return
+  label: Defeated adversaries around divine return
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeated adversaries surrounding a divine return suggests sacred combat
+    that secures or accompanies divine restoration.
+  cautions: If the return is from death or nightly underworld passage, death_and_transformation
+    or descent may be secondary; source context is needed.
+  suggested_aliases:
+  - adversaries defeated at divine return
+  - divine return after defeating enemies
+  - defeated foes around returning god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-king-prophesies-conqueror-s-future-death
+  motif_id: defeated_king_prophesies_conqueror_s_future_death
+  label: defeated king prophesies conqueror's future death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: high
+  rationale: The key motif is a prophetic speech foretelling the conqueror's death,
+    delivered by a defeated ruler.
+  cautions: May also support death_by_fate if the future death is decreed or unavoidable;
+    royal status should not force royal_legitimacy unless succession is central.
+  suggested_aliases:
+  - defeated ruler foretells conqueror death
+  - enemy king death prophecy
+  - conqueror's future death foretold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-spirit-reveals-hidden-treasure
+  motif_id: defeated_spirit_reveals_hidden_treasure
+  label: Defeated spirit reveals hidden treasure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The revealed hidden treasure is the durable motif object, with the defeated
+    spirit serving as revealer or guardian.
+  cautions: If the spirit primarily guards a threshold or gives secret knowledge,
+    threshold_guardian or sacred_knowledge may be secondary; verify treasure has sacred
+    or narrative power beyond loot.
+  suggested_aliases:
+  - spirit reveals hidden treasure
+  - defeated guardian reveals treasure
+  - hidden treasure disclosed by spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence and should remain provisional until
+  passage evidence confirms whether they are motifs or episode-specific summaries.
+- 'Several death-bucket items are better placed by narrative function: prophecy, fate,
+  otherworld, deception, sacred combat, or sacred treasure rather than death/descent
+  alone.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0045
+  input_sha256: a05dacb66f8e62c2b974a42087af3cc344c5461556d28b7f2bcf78dea9bf4a1f
+

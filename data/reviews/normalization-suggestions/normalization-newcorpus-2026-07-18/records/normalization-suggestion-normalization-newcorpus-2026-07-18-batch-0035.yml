@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0035
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deadly-request-obtained-through-a-royal-oath
+  motif_id: deadly_request_obtained_through_a_royal_oath
+  label: deadly request obtained through a royal oath
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The lethal force comes through a binding royal oath or speech act.
+  cautions: Could also involve royal_legitimacy or betrayal if the oath is mainly
+    political manipulation; source context needed.
+  suggested_aliases:
+  - fatal oath request
+  - deadly oath-bound request
+  - royal oath compels death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-task_imposed-under-a-treacherous-ruler
+  motif_id: deadly_task_imposed_under_a_treacherous_ruler
+  label: Deadly task imposed under a treacherous ruler
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A lethal imposed task often functions as a heroic ordeal involving combat
+    or danger.
+  cautions: The treacherous ruler element may fit betrayal_violated_trust, royal_legitimacy,
+    or hero_journey better depending on whether the focus is deceit, kingship abuse,
+    or ordeal.
+  suggested_aliases:
+  - fatal task imposed by ruler
+  - treacherous ruler sends hero to death
+  - death mission imposed by king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-trap-hidden-in-the-bell
+  motif_id: deadly_trap_hidden_in_the_bell
+  label: deadly trap hidden in the bell
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific episode-object trap rather than a
+    stable broad motif.
+  cautions: If bells or sound-traps recur across sources, reconsider under sacred_treasures
+    or enchanting_music; otherwise preserve as passage evidence only.
+  suggested_aliases:
+  - hidden bell trap
+  - fatal bell trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-wounded-adversary-may-still-avenge-himself
+  motif_id: deadly_wounded_adversary_may_still_avenge_himself
+  label: deadly wounded adversary may still avenge himself
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns vengeance and lethal agency within a combat sequence
+    after mortal wounding.
+  cautions: Could fit death_by_fate or divine_warrior if the passage emphasizes destined
+    heroic death or sacred warrior status.
+  suggested_aliases:
+  - dying foe takes revenge
+  - mortally wounded adversary avenges himself
+  - vengeance after mortal wound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-accepted-as-divine-necessity
+  motif_id: death_accepted_as_divine_necessity
+  label: death accepted as divine necessity
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Death is framed as necessary under a superhuman or cosmic order, close
+    to fate-governed death.
+  cautions: If the emphasis is theological obedience or ritual acceptance rather than
+    destiny, divine_judgment or sacred_law may be better.
+  suggested_aliases:
+  - acceptance of divinely necessary death
+  - death as sacred necessity
+  - death accepted as cosmic order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-after-forced-association-with-hated-men
+  motif_id: death_after_forced_association_with_hated_men
+  label: death after forced association with hated men
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is contextual and does not reveal a clear reusable mythic function
+    beyond death following coercive association.
+  cautions: May involve shame, social violation, taboo, captivity, gendered violence,
+    or passage-specific plot detail; review source evidence before indexing.
+  suggested_aliases:
+  - death after coerced association
+  - fatal forced companionship
+  - death from forced association with enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-and-burial-producing-a-named-lake
+  motif_id: death_and_burial_producing_a_named_lake
+  label: Death and burial producing a named lake
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The taxonomy already groups place-name and landscape etiologies from
+    death under cosmic_origin.
+  cautions: If the passage emphasizes mourning or burial rites rather than naming/landscape
+    origin, heroic_funeral_rites or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - place-name origin from death and burial
+  - lake-name etiology from burial
+  - death burial lake etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-and-funeral-rites
+  motif_id: death_and_funeral_rites
+  label: death and funeral rites
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: broader_label
+  confidence: medium
+  rationale: The closest existing group covers burial honors, rites, and memorial
+    acts for the dead.
+  cautions: The label is broad; if rites feed, invite, or dismiss ancestors, ancestor_rites
+    may be a better mapping.
+  suggested_aliases:
+  - funeral rites
+  - death rites
+  - mortuary rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-and-grave-as-rest-from-suffering-and-hierarchy
+  motif_id: death_and_grave_as_rest_from_suffering_and_hierarchy
+  label: death and grave as rest from suffering and hierarchy
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label expresses tragic reflection on death as release from suffering
+    and social hierarchy.
+  cautions: May be wisdom discourse rather than narrative motif; consider sacred_knowledge
+    if the passage is mainly sapiential teaching.
+  suggested_aliases:
+  - grave as rest from suffering
+  - death as release from hierarchy
+  - death as equalizing rest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-announced-by-clustered-omens
+  motif_id: death_announced_by_clustered_omens
+  label: death announced by clustered omens
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Omens announcing death function as foreknowledge through signs.
+  cautions: If the omens are visionary or dreamlike rather than interpreted signs,
+    dream_and_vision may be preferable.
+  suggested_aliases:
+  - death omens
+  - omens announce death
+  - clustered omens of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; proposed
+  mappings should be treated as provisional.
+- Do not infer transmission or borrowing from shared placement in combat, omen, or
+  death-rite groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions generated from labels and current normalization groups
+    only; source passages not reviewed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0035
+  input_sha256: 7575f5dc892a86d63556485faea95325c6ae1832135d2f21e504d10862430339
+

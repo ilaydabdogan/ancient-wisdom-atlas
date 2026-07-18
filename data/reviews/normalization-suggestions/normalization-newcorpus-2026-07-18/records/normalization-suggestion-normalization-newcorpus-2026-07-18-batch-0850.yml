@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0850
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marvelous-animal-and-bird-figures
+  motif_id: marvelous_animal_and_bird_figures
+  label: Marvelous animal and bird figures
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is very broad and only identifies wondrous animals or birds,
+    without a clear narrative function such as helper, shapeshifter, guardian, abundance
+    source, or trickster.
+  cautions: Could map to shapeshifter, otherworld, divine_intervention, sacred_treasures,
+    or a future animal-helper group depending on source evidence; avoid indexing as
+    a motif from this broad label alone.
+  suggested_aliases:
+  - marvelous_animals
+  - wonder_animals
+  - marvelous_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-animals-resist-being-eaten-and-vanish
+  motif_id: marvelous_animals_resist_being_eaten_and_vanish
+  label: marvelous animals resist being eaten and vanish
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals that evade consumption by vanishing suggest magical transformation,
+    disappearance, or instability of animal form.
+  cautions: If the episode is mainly a food taboo, spirit encounter, or fairy/otherworld
+    illusion, sacred_law or otherworld may be better secondary placements.
+  suggested_aliases:
+  - vanishing_marvelous_animals
+  - magical_animals_evade_consumption
+  - animals_vanish_when_eaten
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-golden-bird-as-source-of-wealth
+  motif_id: marvelous_golden_bird_as_source_of_wealth
+  label: marvelous golden bird as source of wealth
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marvelous animal that produces or enables wealth fits the existing
+    miraculous provision and animal source of abundance complex under divine intervention.
+  cautions: If the golden bird is treated primarily as a power object or quest prize,
+    sacred_treasures may be a better secondary mapping; if it is an enchanted otherworld
+    creature, consider otherworld.
+  suggested_aliases:
+  - golden_bird_source_of_wealth
+  - marvelous_bird_of_abundance
+  - animal_source_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-island-with-giant-animals
+  motif_id: marvelous_island_with_giant_animals
+  label: Marvelous island with giant animals
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: A marvelous island populated by giant animals is best treated as an enchanted
+    or otherworldly realm rather than simply an animal motif.
+  cautions: Preserve the giant-animal detail as evidence; if the passage emphasizes
+    a voyage ordeal rather than the realm itself, hero_journey may also be relevant.
+  suggested_aliases:
+  - enchanted_island_with_giant_animals
+  - otherworld_island_with_giant_animals
+  - marvelous_animal_island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-tears-generate-waters-landforms-trees-and-birds
+  motif_id: maternal_tears_generate_waters_landforms_trees_and_birds
+  label: Maternal tears generate waters, landforms, trees, and birds
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Tears generating waters, landforms, trees, and birds is an etiological
+    creation or landscape-formation pattern.
+  cautions: The maternal grief component may also relate to mother_goddess or lament_and_mourning;
+    do not reduce it to an animal motif simply because birds are included.
+  suggested_aliases:
+  - tears_create_landscape
+  - maternal_tears_as_creation_source
+  - tears_generate_natural_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meat-baited-retrieval-of-diamonds-by-birds
+  motif_id: meat_baited_retrieval_of_diamonds_by_birds
+  label: meat-baited retrieval of diamonds by birds
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a very specific episode-mechanism for obtaining treasure using
+    birds and bait, not a broad motif in the current taxonomy.
+  cautions: If this recurs across sources, it could support a later animal-assisted
+    treasure retrieval or quest-stratagem group; for now preserve as evidence detail.
+  suggested_aliases:
+  - birds_retrieve_diamonds_with_meat_bait
+  - meat_baited_bird_treasure_retrieval
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-birds-sing-fixed-lament-calls
+  motif_id: memorial_birds_sing_fixed_lament_calls
+  label: Memorial birds sing fixed lament-calls
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Bird calls functioning as memorial lament belong with mourning expression
+    and remembrance rather than animal transformation alone.
+  cautions: If the birds are transformed dead persons, add death_and_transformation
+    or shapeshifter as secondary review context.
+  suggested_aliases:
+  - birds_sing_laments
+  - memorial_bird_lament
+  - lamenting_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.metamorphosis-and-naming-of-birds
+  motif_id: metamorphosis_and_naming_of_birds
+  label: metamorphosis and naming of birds
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explicitly centers on metamorphosis into or involving birds,
+    which fits transformation across forms.
+  cautions: The naming element may be etiological and could also relate to cosmic_origin
+    if the source explains the origin of bird species or names.
+  suggested_aliases:
+  - bird_metamorphosis_and_naming
+  - origin_and_naming_of_birds
+  - transformation_into_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miniature-objects-produce-a-magical-landscape-transformation
+  motif_id: miniature_objects_produce_a_magical_landscape_transformation
+  label: Miniature objects produce a magical landscape transformation
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical objects causing landscape transformation fit the sacred craft/object
+    complex more than an animal or trickster category.
+  cautions: If the focus is creation of landforms, cosmic_origin may be a secondary
+    placement; if the objects are quest tools or treasures, sacred_treasures may fit
+    better.
+  suggested_aliases:
+  - magical_objects_transform_landscape
+  - miniature_objects_create_landscape
+  - landscape_transformation_by_magic_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.minor-animal-released-from-forbidden-container
+  motif_id: minor_animal_released_from_forbidden_container
+  label: minor animal released from forbidden container
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core structure is release from a forbidden or guarded container,
+    already represented in the sacred vessel/container complex.
+  cautions: If the released animal is the main supernatural agent, shapeshifter or
+    trickster may be relevant; if release causes harm, preserve the forbidden-opening
+    detail.
+  suggested_aliases:
+  - animal_released_from_forbidden_container
+  - forbidden_container_releases_animal
+  - guarded_container_releases_creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were assigned to the animals bucket because animals
+  or birds appear in the wording, but the stronger normalization function is often
+  otherworld setting, lament, creation, provision, or sacred container logic.
+- For one-off, highly episode-specific labels, preserve local detail as evidence and
+  avoid promoting to canonical motif families without recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for narrative
+    function before indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0850
+  input_sha256: f4fdac21093b500353c11ce79c9430d4448f5a233ee0fbde74a2498f4a6a8762
+

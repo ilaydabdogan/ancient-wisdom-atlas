@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0496
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.extended-heroic-hunt-of-a-destructive-boar-across-named-landscapes
+  motif_id: extended_heroic_hunt_of_a_destructive_boar_across_named_landscapes
+  label: Extended heroic hunt of a destructive boar across named landscapes
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: A heroic hunt of a destructive animal may function as combat/ordeal,
+    but the named-landscape itinerary may be an episode-specific narrative detail.
+  cautions: Could instead be landscape etiology, hero journey, monster combat, or
+    a passage artifact; source context is needed before mapping.
+  suggested_aliases:
+  - heroic_boar_hunt
+  - destructive_animal_hunt
+  - heroic_hunt_across_landscapes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extinct-or-remembered-gentes-in-collective-memory
+  motif_id: extinct_or_remembered_gentes_in_collective_memory
+  label: extinct or remembered gentes in collective memory
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic or historiographic memory of peoples
+    rather than a narrative motif.
+  cautions: If a source passage gives an origin myth for named peoples, consider cosmic_origin
+    or ancestor-related indexing; handle culturally specific group memory with care.
+  suggested_aliases:
+  - remembered_peoples_in_collective_memory
+  - extinct_gentes_remembered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-night-raid-defeated-by-foreknowledge-and-ambush
+  motif_id: failed_night_raid_defeated_by_foreknowledge_and_ambush
+  label: failed night raid defeated by foreknowledge and ambush
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A raid defeated by foreknowledge and ambush fits warfare as a narratively
+    charged conflict pattern.
+  cautions: Foreknowledge may also support prophecy_divination if the source emphasizes
+    omen/oracle rather than battle tactics; single occurrence is specific.
+  suggested_aliases:
+  - foreknown_raid_defeated
+  - ambush_defeats_night_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-transfer-of-a-prized-animal-after-insulting-speech
+  motif_id: failed_transfer_of_a_prized_animal_after_insulting_speech
+  label: Failed transfer of a prized animal after insulting speech
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: The failure is triggered by speech, but it is unclear whether the speech
+    is performative, social insult, or ordinary plot cause.
+  cautions: Could belong with sacred_exchange if the animal transfer is reciprocal
+    obligation, sacred_combat if it triggers conflict, or be too episode-specific.
+  suggested_aliases:
+  - insulting_speech_blocks_transfer
+  - failed_animal_transfer_after_insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-treasure-recovery-after-breach-of-secrecy-or-speech-restraint
+  motif_id: failed_treasure_recovery_after_breach_of_secrecy_or_speech_restraint
+  label: Failed treasure recovery after breach of secrecy or speech restraint
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A required silence or speech restraint whose breach ruins success fits
+    binding or taboo speech logic.
+  cautions: If the treasure itself is central, sacred_treasures may be a secondary
+    mapping; if secrecy concerns hidden knowledge, sacred_knowledge may also apply.
+  suggested_aliases:
+  - breach_of_silence_causes_failure
+  - speech_taboo_breached_during_treasure_recovery
+  - failed_treasure_recovery_after_broken_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-through-unwisdom-and-redemption-after-learning
+  motif_id: fall_through_unwisdom_and_redemption_after_learning
+  label: Fall through unwisdom and redemption after learning
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on loss through lack of wisdom followed by restoration
+    through learning.
+  cautions: Could be divine_judgment if the fall is punishment, initiation if learning
+    follows ordeal, or pride_and_downfall if hubris is the main cause.
+  suggested_aliases:
+  - redemption_after_learning
+  - fall_through_unwisdom
+  - learning_after_fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-claimant-to-prophecy-or-inspiration
+  motif_id: false_claimant_to_prophecy_or_inspiration
+  label: false claimant to prophecy or inspiration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: A false claimant is defined by the prophetic or inspired role, even if
+    the role is illegitimate.
+  cautions: May require divine_judgment if the passage emphasizes punishment of false
+    prophecy; culturally sensitive theological claims should be reviewed against source
+    framing.
+  suggested_aliases:
+  - false_prophet
+  - false_inspired_claimant
+  - false_claim_to_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fame-through-name-writing
+  motif_id: fame_through_name_writing
+  label: fame through name-writing
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Writing a name to secure fame aligns with authorship or inscription as
+    public immortality and narrative memory.
+  cautions: If the inscription is primarily a royal legitimacy act or magical name-power,
+    consider royal_legitimacy or sacred_knowledge as secondary contexts.
+  suggested_aliases:
+  - name_writing_confers_fame
+  - inscribed_name_as_fame
+  - writing_for_public_immortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-ambiguous-report-through-name-confusion
+  motif_id: fatal_ambiguous_report_through_name_confusion
+  label: Fatal ambiguous report through name confusion
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fatal outcome caused by ambiguous naming or report turns speech and
+    naming into the operative force.
+  cautions: Could be a plot-specific misunderstanding rather than sacred speech; if
+    no binding or ritual force is present, broaden cautiously or exclude as episode
+    detail.
+  suggested_aliases:
+  - fatal_name_confusion
+  - ambiguous_report_causes_death
+  - fatal_misreport_by_name_confusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-boast-or-wager-of-truth
+  motif_id: fatal_boast_or_wager_of_truth
+  label: fatal boast or wager of truth
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boast or truth-wager that becomes fatal fits performative speech whose
+    utterance binds consequences.
+  cautions: If the emphasis is arrogance punished, pride_and_downfall or divine_judgment
+    may be better; source evidence should determine whether speech itself is causal.
+  suggested_aliases:
+  - fatal_truth_wager
+  - fatal_boast
+  - boast_with_fatal_consequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly episode-specific;
+  preserve granular wording as evidence notes even when mapped to a broad group.
+- The review bucket is wisdom/speech, but some items are better treated as combat,
+  social exchange, or meta-artifact depending on narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context, especially
+    for culturally sensitive collective-memory and false-prophecy labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0496
+  input_sha256: b34587eb2893d3cf45e3c2f2a868a33b1638e28db02a796b66114b0964de8fab
+

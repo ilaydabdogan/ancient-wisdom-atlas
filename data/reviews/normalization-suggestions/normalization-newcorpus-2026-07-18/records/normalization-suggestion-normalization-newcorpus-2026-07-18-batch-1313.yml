@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1313
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.challenge-admission-and-duel-over-a-killing
+  motif_id: challenge_admission_and_duel_over_a_killing
+  label: challenge, admission, and duel over a killing
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal challenge leading to duel over a killing fits martial dispute
+    resolution and ritualized combat.
+  cautions: Single occurrence; could be an episode-specific revenge or honor scene
+    rather than a broad motif.
+  suggested_aliases:
+  - challenge_duel_over_killing
+  - formal_duel_after_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenge-shout-summons-rival-from-citadel
+  motif_id: challenge_shout_summons_rival_from_citadel
+  label: Challenge-shout summons rival from citadel
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shouted challenge that draws out a rival is a formal combat-opening
+    device.
+  cautions: Citadel setting may be contextual; do not infer sacred combat unless the
+    passage frames the challenge as heroic or ritually charged.
+  suggested_aliases:
+  - challenge_shout_summons_rival
+  - formal_battle_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenged-messenger-asked-to-produce-wonders
+  motif_id: challenged_messenger_asked_to_produce_wonders
+  label: challenged messenger asked to produce wonders
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A messenger challenged to show wonders points to divine validation through
+    miraculous signs.
+  cautions: Could also fit prophecy, theophany, or sacred knowledge depending on whether
+    the messenger is prophetic, angelic, or human.
+  suggested_aliases:
+  - messenger_challenged_to_show_signs
+  - demand_for_wonders_from_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-boasting-he-can-take-a-land-and-impose-tribute
+  motif_id: champion_boasting_he_can_take_a_land_and_impose_tribute
+  label: Champion boasting he can take a land and impose tribute
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: low
+  rationale: The label centers on boastful overconfidence in conquest and domination.
+  cautions: If the boast is fulfilled or functions as heroic reputation rather than
+    hubris, sacred_combat or royal_legitimacy may be better.
+  suggested_aliases:
+  - boastful_champion_claims_conquest
+  - champion_boasts_of_tribute_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-breaks-through-to-kill-the-opposing-leader
+  motif_id: champion_breaks_through_to_kill_the_opposing_leader
+  label: Champion breaks through to kill the opposing leader
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A champion penetrating enemy lines to slay a leader fits heroic warrior
+    combat and decisive battle action.
+  cautions: May be a tactical battle detail rather than a symbolic motif; verify heroic
+    or sacred framing.
+  suggested_aliases:
+  - champion_breakthrough_kills_leader
+  - decisive_champion_assault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-captured-alive-with-a-noose
+  motif_id: champion_captured_alive_with_a_noose
+  label: Champion captured alive with a noose
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific capture method and does not clearly indicate
+    narrative function.
+  cautions: Could relate to heroic ordeal, sacred combat, humiliation, or an episode-specific
+    battle tactic; source evidence needed before indexing.
+  suggested_aliases:
+  - noose_capture_of_champion
+  - champion_taken_alive_by_noose
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-duel-after-collective-defeat
+  motif_id: champion_duel_after_collective_defeat
+  label: champion duel after collective defeat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Single champion combat following army failure fits ritualized or representative
+    warfare.
+  cautions: Confirm that the duel is narratively central rather than a passing battle
+    detail.
+  suggested_aliases:
+  - representative_champion_duel_after_defeat
+  - single_combat_after_army_fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-reinforcement-of-a-besieged-army
+  motif_id: champion_reinforcement_of_a_besieged_army
+  label: Champion reinforcement of a besieged army
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A champion arriving to relieve a besieged army fits the heroic warrior
+    as decisive military rescuer.
+  cautions: Could be ordinary military plot mechanics unless the champion has sacred,
+    heroic, or fate-bearing significance.
+  suggested_aliases:
+  - champion_relief_of_besieged_army
+  - heroic_reinforcement_in_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-s-portion-dispute-at-a-feast
+  motif_id: champion_s_portion_dispute_at_a_feast
+  label: Champion's-portion dispute at a feast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Feast Honor Contest and Champion's Portion
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a recurring honor-ranking contest centered on feast distribution,
+    not just combat itself.
+  cautions: May be culturally specific to heroic feast customs; review whether enough
+    cross-source recurrence supports a group rather than placement under sacred_combat
+    or sacred_exchange.
+  suggested_aliases:
+  - champions_portion
+  - feast_portion_honor_dispute
+  - heroic_feast_precedence_contest
+  suggested_new_group:
+    id: feast_honor_contest
+    label: Feast Honor Contest and Champion's Portion
+    description: Disputes over precedence, honor, or allocated portions at a feast
+      that test rank, provoke rivalry, or establish heroic status.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    related_group_ids:
+    - royal_legitimacy
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Sacred_combat covers duels and warfare, while
+      sacred_exchange covers reciprocity, but neither captures feast-based honor ranking
+      as the central function.
+- suggestion_id: normalization.suggestion.champion-summoned-when-the-army-fails
+  motif_id: champion_summoned_when_the_army_fails
+  label: champion summoned when the army fails
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The champion functions as a decisive warrior-rescuer when collective
+    force is insufficient.
+  cautions: Could also fit hero_journey if the summons initiates the champion's quest;
+    verify context.
+  suggested_aliases:
+  - summoned_champion_after_army_failure
+  - hero_called_when_army_fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence heroic combat scenes; avoid over-promoting
+  tactical episode details without recurrence or ritual framing.
+- The proposed feast_honor_contest group is provisional because the champion's-portion
+  scene has a distinctive social-ranking function not fully captured by combat alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    context and recurrence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1313
+  input_sha256: 5a28d9c0dd1f320dfc4ff1a78461cd89aa3fa2271fd1e05bfe61be9e9025f313
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1623
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.trophy-head-brought-before-the-royal-hall
+  motif_id: trophy_head_brought_before_the_royal_hall
+  label: trophy head brought before the royal hall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A severed trophy head presented at a royal hall fits the existing heroic
+    combat proof/trophy cluster under divine_warrior.
+  cautions: Single occurrence and hall setting may be episode-specific; could also
+    support royal_legitimacy if the display authorizes rule.
+  suggested_aliases:
+  - head trophy as proof of combat
+  - severed head presented at court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trophy-heads-displayed-as-proof-of-prowess
+  motif_id: trophy_heads_displayed_as_proof_of_prowess
+  label: trophy heads displayed as proof of prowess
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly matches combat trophies or body parts displayed as
+    proof of martial service/prowess.
+  cautions: If the emphasis is ritual display after battle rather than heroic proof,
+    sacred_combat may be a secondary relation.
+  suggested_aliases:
+  - body part trophies as proof of combat
+  - trophy heads as martial proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.troth-bound-tryst-conflicting-with-defense
+  motif_id: troth_bound_tryst_conflicting_with_defense
+  label: Troth-bound tryst conflicting with defense
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines oath-bound love/meeting obligations with martial defense,
+    but the dominant function is unclear.
+  cautions: May belong to sacred_love, covenant/oath, sacred_combat, or be an over-specific
+    episode detail; source evidence needed.
+  suggested_aliases:
+  - oath-bound tryst conflicting with duty
+  - love obligation versus defense duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trouble-luck-head-figure-outmaneuvered-at-feast
+  motif_id: trouble_luck_head_figure_outmaneuvered_at_feast
+  label: trouble-luck head figure outmaneuvered at feast
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Outmaneuvering at a feast suggests trickster or feast-contest dynamics,
+    but 'trouble-luck head figure' is unclear from the label alone.
+  cautions: Culturally specific figure or translation artifact may be present; avoid
+    flattening into trickster without passage context.
+  suggested_aliases:
+  - trouble-luck figure defeated at feast
+  - head figure outwitted at feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-embodiment-opposed-to-illusory-appearance
+  motif_id: true_embodiment_opposed_to_illusory_appearance
+  label: true embodiment opposed to illusory appearance
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may reflect doctrinal or theological contrast between real
+    body and illusion rather than a narrative motif.
+  cautions: Potentially sensitive Christian apocryphal/body doctrine context; could
+    be sacred_knowledge, theophany, or textual commentary depending on evidence.
+  suggested_aliases:
+  - real body versus illusory form
+  - true embodiment versus appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-liberator-recognized-by-unique-token
+  motif_id: true_liberator_recognized_by_unique_token
+  label: true liberator recognized by unique token
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A unique token proves the identity or deed of the true liberator, matching
+    recognition-token identity proof.
+  cautions: Liberator role may also connect to hero_journey, but the core indexed
+    function is recognition by token.
+  suggested_aliases:
+  - liberator recognized by token
+  - identity token proves rescuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-rescuer-proves-deed-by-retained-tokens
+  motif_id: true_rescuer_proves_deed_by_retained_tokens
+  label: True rescuer proves deed by retained tokens
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Retained tokens are used as proof of the rescuer's identity and accomplished
+    deed.
+  cautions: If tokens are sacred objects with independent power, sacred_treasures
+    may be a secondary relation.
+  suggested_aliases:
+  - rescuer proves deed by tokens
+  - retained proof tokens identify rescuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-sign-defeats-enchantment
+  motif_id: true_sign_defeats_enchantment
+  label: True sign defeats enchantment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A true sign overcoming enchantment suggests sacred or divine validation
+    defeating magic through intervention or guidance.
+  cautions: Could alternatively map to sacred_knowledge if the sign is evidentiary
+    revelation, or sacred_treasures if it is an object/token.
+  suggested_aliases:
+  - divine sign defeats enchantment
+  - true sign overcomes magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-sign-overcomes-magical-wonders
+  motif_id: true_sign_overcomes_magical_wonders
+  label: true sign overcomes magical wonders
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an authentic sacred sign prevailing over rival magical
+    displays, fitting divine action or guidance.
+  cautions: Review Islamic source context carefully; if the contrast is prophetic
+    proof versus sorcery, prophecy_divination or sacred_knowledge may be relevant
+    secondary groups.
+  suggested_aliases:
+  - true sign overcomes magic
+  - sacred sign defeats wonders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-victor-recognized-by-hidden-proof-tokens
+  motif_id: true_victor_recognized_by_hidden_proof_tokens
+  label: true victor recognized by hidden proof tokens
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Hidden proof tokens identify the true victor, matching the recognition-token
+    and identity-proof group.
+  cautions: Combat victory may also relate to sacred_combat or divine_warrior, but
+    token recognition is the clearer function.
+  suggested_aliases:
+  - victor recognized by proof tokens
+  - hidden tokens prove the true victor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, highly contextual labels; suggested placements
+  should preserve evidence detail rather than promote new taxonomy motifs.
+- The three recognition-token labels appear to fit the existing recognition_tokens_hidden_identity
+  group with high confidence.
+- The Islamic 'true sign' labels may require human review of prophetic/sign terminology
+  before final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1623
+  input_sha256: 5d45638d12c231c5e05bc78b6ef9e050b6d007ff3ee1b4e34eacf90cb38b9c8e
+

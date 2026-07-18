@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0015
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bewitched-corpse-princess-who-rises-at-night-to-eat-people
+  motif_id: bewitched_corpse_princess_who_rises_at_night_to_eat_people
+  label: bewitched corpse-princess who rises at night to eat people
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: A dead figure returns or remains active after death in a harmful nocturnal
+    form, fitting the restless-dead complex.
+  cautions: The cannibal corpse-princess detail is highly specific and may also reflect
+    monster/vampiric folklore not yet separately grouped.
+  suggested_aliases:
+  - rising corpse that preys on the living
+  - nocturnal revenant corpse
+  - cannibal revenant princess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-date-as-death-date
+  motif_id: birth_date_as_death_date
+  label: Birth date as death date
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: uncertain
+  confidence: low
+  rationale: The matching of birth and death dates may imply fated death or cyclical
+    life completion.
+  cautions: Could be calendrical symbolism, biographical coincidence, omen, or passage
+    artifact; source context is needed before indexing.
+  suggested_aliases:
+  - death date mirrors birth date
+  - fated death on birth date
+  - birth-death calendrical correspondence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-joined-to-maternal-death
+  motif_id: birth_joined_to_maternal_death
+  label: Birth joined to maternal death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: An extraordinary birth marked by the mother's death can signal a charged
+    or tragic origin for the child.
+  cautions: If the passage emphasizes maternal sacrifice or death more than the child's
+    destiny, death_and_transformation or sacrifice may be secondary.
+  suggested_aliases:
+  - birth at cost of mother's life
+  - mother dies in childbirth
+  - death-marked birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-spirits-linked-to-sacred-tree-medium
+  motif_id: birth_spirits_linked_to_sacred_tree_medium
+  label: Birth spirits linked to sacred tree medium
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred tree mediating spirit-birth relations may fit axis mundi or
+    sacred-tree imagery.
+  cautions: Culturally sensitive and ambiguous; may concern local spirit-child ontology,
+    ancestor rebirth, sacred birth, or tree mediumship rather than a generic world-axis
+    motif.
+  suggested_aliases:
+  - birth spirits associated with sacred tree
+  - spirit children and sacred tree medium
+  - tree-mediated birth spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-death-and-rest-after-labour
+  motif_id: blessed_death_and_rest_after_labour
+  label: blessed death and rest after labour
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Death is framed as blessed rest after earthly labor, implying a positive
+    postmortem state or destination.
+  cautions: If this is only a moral saying without mapped afterlife movement, it may
+    be better treated as wisdom or ethical consolation.
+  suggested_aliases:
+  - death as blessed rest
+  - rest after earthly labor
+  - postmortem rest for the righteous
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-feud-and-retaliatory-warfare-after-a-ruler-s-death
+  motif_id: blood_feud_and_retaliatory_warfare_after_a_ruler_s_death
+  label: blood-feud and retaliatory warfare after a ruler's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The ruler's death triggers vengeance warfare, aligning with combat as
+    socially or ritually charged retaliation.
+  cautions: May also involve royal succession or social order; do not treat as an
+    afterlife motif despite the death trigger.
+  suggested_aliases:
+  - retaliatory warfare after ruler death
+  - blood-feud after king's death
+  - vengeance war for dead ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-token-as-life-or-death-sign
+  motif_id: blood_token_as_life_or_death_sign
+  label: Blood-token as life or death sign
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A blood token functions as a sign communicating life, death, identity,
+    or fate across distance.
+  cautions: If the blood itself is treated as life-substance rather than a sign-token,
+    sacred_law or external_soul may be relevant secondary mappings.
+  suggested_aliases:
+  - blood token of life or death
+  - blood sign of survival or death
+  - life-death recognition token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-to-send-enemies-to-the-realm-of-death
+  motif_id: boast_to_send_enemies_to_the_realm_of_death
+  label: Boast to send enemies to the realm of death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif is a martial boast threatening enemies with death, fitting
+    warrior combat rhetoric more than underworld journey.
+  cautions: May be episode-specific speech rather than a durable motif; if the boast
+    causes binding effects, curse_blessing_speech may be relevant.
+  suggested_aliases:
+  - martial boast of sending foes to death
+  - threat to dispatch enemies to death realm
+  - warrior death-boast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-claimant-unknowingly-marked-for-death
+  motif_id: boastful_claimant_unknowingly_marked_for_death
+  label: Boastful claimant unknowingly marked for death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A boastful figure is already doomed, matching hubris followed by downfall
+    or destruction.
+  cautions: If the death mark is a formal omen or destiny sign, death_by_fate or dream_and_vision
+    may be secondary.
+  suggested_aliases:
+  - boaster marked for death
+  - hubristic claimant doomed unknowingly
+  - boast before fatal downfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-mark-as-recognition-by-a-spirit
+  motif_id: body_mark_as_recognition_by_a_spirit
+  label: Body mark as recognition by a spirit
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: A bodily mark used for recognition resembles identity-proof motifs.
+  cautions: Culturally sensitive and may involve spirit kinship, initiation, death
+    rites, or local ontology; do not reduce to generic token logic without source
+    evidence.
+  suggested_aliases:
+  - spirit-recognized body mark
+  - bodily mark as identity proof to spirits
+  - spirit recognition mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements only; several single-occurrence labels are
+  over-specific or culturally contextual and should be checked against source passages.
+- Death-bucket labels that use death only as a trigger were mapped to combat, recognition,
+  birth, or hubris groups where narrative function fit better than afterlife/descent.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended especially for Australian Aboriginal spirit-related
+    labels and calendrical/fate ambiguity.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0015
+  input_sha256: 689add3069f4b3212d2eea9452ffe3e879c1b28dbfbe17ecb65b276a975d6172
+

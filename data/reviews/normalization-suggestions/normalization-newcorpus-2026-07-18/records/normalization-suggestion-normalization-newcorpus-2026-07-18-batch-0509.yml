@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0509
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.jealous-killing-concealment-and-etiological-place-name
+  motif_id: jealous_killing_concealment_and_etiological_place_name
+  label: Jealous killing, concealment, and etiological place-name
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The reusable element is an etiological place-name, already represented
+    in the cosmic_origin group through place-name origin labels.
+  cautions: Composite single-occurrence label; jealousy, killing, and concealment
+    may be episode details rather than the normalized motif.
+  suggested_aliases:
+  - place_name_etiology_from_jealous_killing
+  - etiological_place_name_from_concealed_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kill-the-hero-s-offspring-named-as-a-wolfcub
+  motif_id: kill_the_hero_s_offspring_named_as_a_wolfcub
+  label: kill the hero’s offspring, named as a wolfcub
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a passage-specific command or episode detail rather
+    than a stable cross-source motif.
+  cautions: If the source emphasizes persecuted offspring, dynastic revenge, or wolf-identity
+    symbolism, it may need human remapping to miraculous_child, sacred_combat, or
+    shapeshifter.
+  suggested_aliases:
+  - threatened_heroic_offspring
+  - wolfcub_named_offspring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-in-crisis-takes-war-counsel
+  motif_id: king_in_crisis_takes_war_counsel
+  label: king in crisis takes war counsel
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A ruler seeking counsel in crisis concerns royal decision-making and
+    maintenance of legitimate order.
+  cautions: May be ordinary narrative strategy rather than sacred kingship; if the
+    counsel is primarily battle ritual, sacred_combat may be a better secondary group.
+  suggested_aliases:
+  - royal_war_counsel
+  - crisis_counsel_of_the_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-holder-leader-with-noncoercive-authority
+  motif_id: knowledge_holder_leader_with_noncoercive_authority
+  label: knowledge-holder leader with noncoercive authority
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: low
+  rationale: The label links leadership authority to possession of knowledge, which
+    broadly fits sacred_knowledge.
+  cautions: Culturally sensitive and socially contextual; may describe ethnographic
+    leadership rather than a narrative motif, and should not be flattened into generic
+    kingship.
+  suggested_aliases:
+  - knowledge_holder_authority
+  - wisdom_based_leadership
+  - noncoercive_sacred_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-of-a-name-as-condition-for-food
+  motif_id: knowledge_of_a_name_as_condition_for_food
+  label: Knowledge of a name as condition for food
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Required knowledge of a name functions as power-giving or access-granting
+    sacred knowledge.
+  cautions: If the passage is a food-procurement trick or hospitality test rather
+    than sacred naming, trickster or hospitality_test_stranger_guest may be relevant.
+  suggested_aliases:
+  - name_knowledge_grants_food
+  - secret_name_as_access_condition
+  - knowledge_of_names_as_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-of-one-eternal-supreme-lord
+  motif_id: knowledge_of_one_eternal_supreme_lord
+  label: knowledge of one eternal supreme Lord
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns recognition or doctrine of a supreme sacred ruler,
+    loosely matching supreme_ruler and sacred knowledge.
+  cautions: May be theological summary, missionary/contact-era framing, or commentary
+    rather than a narrative motif; requires source review and culturally careful handling.
+  suggested_aliases:
+  - knowledge_of_supreme_deity
+  - recognition_of_eternal_lord
+  - supreme_deity_doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-of-the-remote-cedar-forest
+  motif_id: knowledge_of_the_remote_cedar_forest
+  label: Knowledge of the remote cedar forest
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to identify knowledge of a particular narrative location
+    rather than a reusable motif.
+  cautions: If the cedar forest functions as a threshold, otherworld, or initiation
+    destination, map the passage evidence to hero_journey, otherworld, or initiation
+    instead.
+  suggested_aliases:
+  - knowledge_of_remote_forest
+  - remote_cedar_forest_as_destination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lake-origin-through-fulfilled-speech
+  motif_id: lake_origin_through_fulfilled_speech
+  label: lake origin through fulfilled speech
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is speech that becomes effective and transforms the
+    landscape.
+  cautions: Also etiological landscape formation, so cosmic_origin may be a secondary
+    query group; review local source context carefully.
+  suggested_aliases:
+  - landscape_origin_by_performative_speech
+  - fulfilled_speech_creates_lake
+  - speech_act_forms_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lamentations-and-festival-songs-of-named-deities
+  motif_id: lamentations_and_festival_songs_of_named_deities
+  label: lamentations and festival songs of named deities
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Lamentations for deities fit ritualized mourning and grief expression.
+  cautions: Festival-song aspect may also fit sacred_song or sacred_time; named-deity
+    specificity should remain evidence detail.
+  suggested_aliases:
+  - divine_lamentation_songs
+  - festival_laments_for_deities
+  - ritual_songs_of_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.land-laid-waste-with-fire-and-sword
+  motif_id: land_laid_waste_with_fire_and_sword
+  label: land laid waste with fire and sword
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Devastation by armed violence belongs most closely with warfare and combat
+    as the narrative function.
+  cautions: If the fire is cosmic or divinely purifying, world_destroying_fire or
+    divine_judgment may be relevant; otherwise this may be a conventional battle description.
+  suggested_aliases:
+  - war_devastation_by_fire_and_sword
+  - land_wasted_by_warfare
+  - martial_destruction_of_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; preserve local evidence detail
+  rather than promoting them as canonical motifs.
+- The review bucket for these items appears broad or noisy; suggested placements rely
+  on label semantics only, not source passages.
+- No transmission, borrowing, or common-origin claims are implied by these normalization
+  suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0509
+  input_sha256: cc2b3c85ab615549f490816656b6608973b17822ff450d6cb136aa07f3c2e62e
+

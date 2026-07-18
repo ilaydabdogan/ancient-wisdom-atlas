@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1037
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dangerous-disclosure-of-a-hero-s-vulnerable-point
+  motif_id: dangerous_disclosure_of_a_hero_s_vulnerable_point
+  label: dangerous disclosure of a hero's vulnerable point
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly concerns exposure of a hero's vulnerable point, matching
+    existing vulnerable-point and hidden-weakness patterns.
+  cautions: Single occurrence; verify whether disclosure itself is central or merely
+    a plot detail in a combat episode.
+  suggested_aliases:
+  - vulnerable point disclosed
+  - disclosure of hidden weakness
+  - hero's vulnerable spot revealed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-hospitality-and-forced-eating-ordeal
+  motif_id: dangerous_hospitality_and_forced_eating_ordeal
+  label: Dangerous hospitality and forced eating ordeal
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: medium
+  rationale: Hospitality is explicit, but forced eating may be an ordeal, coercive
+    taboo, or hostile encounter rather than a host-testing pattern.
+  cautions: Needs source review, especially for Inuit context; could fit initiation,
+    sacred_exchange, sacred_law, or a passage-specific danger scene depending on function.
+  suggested_aliases:
+  - forced eating ordeal
+  - hostile hospitality ordeal
+  - dangerous feast ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-invitation-and-forewarning
+  motif_id: dangerous_invitation_and_forewarning
+  label: Dangerous invitation and forewarning
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too generic to determine whether the core motif is warning,
+    fate, betrayal, hospitality, ambush, or heroic ordeal.
+  cautions: May be a passage-specific plot setup rather than a reusable motif; source
+    evidence is needed before mapping.
+  suggested_aliases:
+  - forewarned dangerous invitation
+  - warning before perilous summons
+  - invitation as trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-rescue-refused-after-warning
+  motif_id: dangerous_rescue_refused_after_warning
+  label: Dangerous rescue refused after warning
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines warning, refusal, and rescue danger without enough
+    evidence to identify the narrative function.
+  cautions: Could be moral warning, taboo violation, failed rescue, or culturally
+    specific episode; avoid forcing into hero_journey or divine_judgment without context.
+  suggested_aliases:
+  - refused rescue after warning
+  - warning ignored in rescue attempt
+  - dangerous rescue warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dawn-awakening-and-battle-exhortation
+  motif_id: dawn_awakening_and_battle_exhortation
+  label: dawn awakening and battle exhortation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif is a battle-preparation scene, and sacred_combat is the best
+    existing broad group for ritually charged warfare episodes.
+  cautions: May be only a conventional epic scene or time-of-day detail; preserve
+    dawn/exhortation specifics as evidence rather than a new canonical motif.
+  suggested_aliases:
+  - battle exhortation at dawn
+  - awakening warriors for battle
+  - dawn battle summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dawn-relief-signaled-by-war-horn
+  motif_id: dawn_relief_signaled_by_war_horn
+  label: Dawn relief signaled by war-horn
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A war-horn announcing relief in a conflict scene fits the warfare complex,
+    but the wording is highly episode-specific.
+  cautions: Likely too specific for pattern queries unless similar horn-signal relief
+    scenes recur; could be excluded later as plot detail.
+  suggested_aliases:
+  - war horn signals relief
+  - battle relief at dawn
+  - horn of relief in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dawn-tryst-thwarted-by-sudden-sleep
+  motif_id: dawn_tryst_thwarted_by_sudden_sleep
+  label: Dawn tryst thwarted by sudden sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The tryst points more to love/longing than combat, while sudden sleep
+    may be enchantment or plot obstruction.
+  cautions: Low confidence due to bucket mismatch; if sleep is magical, storytelling_as_power
+    or enchanting_music-related sleep motifs may be relevant. Could be too passage-specific.
+  suggested_aliases:
+  - tryst prevented by sleep
+  - lovers' meeting thwarted at dawn
+  - sudden sleep blocks rendezvous
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dazzling-heroic-procession-before-a-royal-court
+  motif_id: dazzling_heroic_procession_before_a_royal_court
+  label: Dazzling heroic procession before a royal court
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A heroic display before a court functions as public status recognition
+    within royal order.
+  cautions: If the scene emphasizes martial splendor rather than legitimacy or court
+    recognition, sacred_combat may be a secondary fit; likely over-specific.
+  suggested_aliases:
+  - heroic court procession
+  - dazzling procession before king
+  - public heroic display at court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.debilitated-warriors-recover-for-final-battle
+  motif_id: debilitated_warriors_recover_for_final_battle
+  label: debilitated warriors recover for final battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recovery of warriors for a climactic battle fits heroic martial ordeal
+    and the divine-warrior/sacred-combat field.
+  cautions: If recovery is miraculous healing, divine_intervention or death_and_transformation
+    may be relevant; verify whether the final battle has sacred or cosmic stakes.
+  suggested_aliases:
+  - warriors recover for final battle
+  - restored warriors enter last battle
+  - debilitated heroes return to combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deception-exposed-by-repeated-self-test
+  motif_id: deception_exposed_by_repeated_self_test
+  label: deception exposed by repeated self-test
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is deception and its exposure, which fits the trickster/deception
+    group better than combat alone.
+  cautions: If the self-test is an identity proof or recognition device, recognition_tokens_hidden_identity
+    may be more appropriate; source context needed.
+  suggested_aliases:
+  - repeated test exposes deception
+  - self-testing reveals deceit
+  - deception revealed by repeated trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  granular wording as evidence notes even when mapped to broad groups.
+- 'Conflict-bucket placement is not always semantically decisive: dawn tryst, hospitality,
+  and deception items may belong outside combat depending on passage evidence.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1037
+  input_sha256: 4f08649d999c301b3ca87fa9fa745c6f8ba775add5d8c6aa3cad828feb1f44eb
+

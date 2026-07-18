@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l1697-l1803
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: XXXIV  PAHLAVI    TEXTS. / INTRODUCTION.  XXXV / C    2 / INTRODUCTION.  XXXIX;
+    lines 1697-1803
+  start: '1697'
+  end: '1803'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial introduction describing Bundahis manuscript
+    witnesses and translating a small fragment. The translated fragment gives a royal
+    chronology, mentions Kai-Kayus going to the sky, places Zaratuhaj-t the Spitaman’s
+    coming with tidings from the creator Auharmazd in a Capricornus millennium, states
+    that King Vij-tasp received the religion, lists later rulers and dynasties, and
+    gives a manuscript colophon.
+  language: English translation of Pahlavi material
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A small two-folio fragment of an old Bundahis manuscript is described as having
+    been brought from Persia by Professor Westergaard and as now beginning a mutilated
+    manuscript whose first 129 folios are lost.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two folios contain the last sentences of the last chapter of the Bundahis
+    and a colophon, with some additional details not found in the Indian manuscripts.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kai-Kayus is assigned seventy-five years until his going to the sky and seventy-five
+    years after that, for a total of one hundred and fifty years.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The translated fragment says that the millennium reign came to Capricornus
+    before Zaratuhaj-t the Spitaman came with tidings from the creator Auharmazd to
+    King Vij-tasp.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Vij-tasp is said to have been king for ninety years after receiving the religion.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fragment lists rulers and reign lengths and says the Ai-kanians should
+    bear the title in uninterrupted sovereignty, while Artakhshatar son of Papak and
+    the Sasanians bear it for four hundred and sixty years.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The colophon states that the manuscript was finished on the thirteenth day
+    of the ninth month A.Y. 936 and was written by Mitro-apan, son of Anoshak-ruban,
+    son of Rustam.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kai-Kayus
+  description: A ruler in the chronology whose reign is reckoned before and after
+    his going to the sky.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Zaratuhaj-t the Spitaman
+  description: A figure who comes with tidings from the creator Auharmazd to King
+    Vij-tasp.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Auharmazd
+  description: Named as the creator from whom the tidings come.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: King Vij-tasp
+  description: The king to whom Zaratuhaj-t comes; he is described as king after receiving
+    the religion.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ai-kanians
+  description: A dynastic group said to bear the title in uninterrupted sovereignty
+    for two hundred and some years.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Artakhshatar son of Papak and the Sasanians
+  description: Artakhshatar son of Papak and the Sasanian number are said to bear
+    the title for four hundred and sixty years.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: king or ruler in chronology
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage gives reign lengths for Kai-Kayus and calls Vij-tasp king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: sky-going ruler
+  assigned_to:
+  - fig:1
+  basis: Kai-Kayus is dated until his going to the sky and after that event.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: bearer of creator's tidings
+  assigned_to:
+  - fig:2
+  basis: Zaratuhaj-t comes with tidings from the creator Auharmazd.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: creator and source of tidings
+  assigned_to:
+  - fig:3
+  basis: Auharmazd is explicitly called the creator and the source of the tidings.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of the religion
+  assigned_to:
+  - fig:4
+  basis: Vij-tasp is described as king after receiving the religion.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: dynastic title-bearer
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Ai-kanians and Sasanians are described as bearing the title for stated
+    periods.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sky destination
+  literal_form: the sky to which Kai-Kayus goes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Capricornus millennium marker
+  literal_form: Capricornus as the sign to which the millennium reign comes
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of the Bundahis fragment
+  summary: The editor describes a two-folio old manuscript fragment, its lost preceding
+    folios, and its contents as the end of the Bundahis followed by a colophon.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Kai-Kayus and the sky notice
+  summary: Within the royal chronology, Kai-Kayus is assigned years before and after
+    his going to the sky.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Zaratuhaj-t comes to King Vij-tasp
+  summary: At the Capricornus millennium, Zaratuhaj-t the Spitaman comes with tidings
+    from creator Auharmazd to King Vij-tasp, who is then described as king after receiving
+    the religion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Dynastic title chronology
+  summary: The fragment assigns periods of title-bearing sovereignty to the Ai-kanians
+    and to Artakhshatar son of Papak with the Sasanians.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ruler's ascent or going to the sky
+  taxonomy_refs:
+  - ascent
+  basis: Kai-Kayus is chronologically marked by his going to the sky.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief chronological notice, not a full ascent
+    narrative.
+- id: motif:2
+  label: Divine tidings and reception of religion by a king
+  taxonomy_refs:
+  - wisdom
+  basis: Zaratuhaj-t comes with tidings from the creator Auharmazd to King Vij-tasp,
+    and Vij-tasp is described after receiving the religion.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The content of the tidings and the act of receiving the religion are not
+    narrated in detail in this passage.
+- id: motif:3
+  label: Zodiacal millennium timing
+  taxonomy_refs: []
+  basis: The passage places the coming of Zaratuhaj-t in relation to the millennium
+    reign coming to Capricornus.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage provides a time marker but no expanded cosmological explanation.
+- id: motif:4
+  label: Dynastic sovereignty and title continuity
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ai-kanians are said to bear the title in uninterrupted sovereignty, and
+    the Sasanian line is assigned a long period of title-bearing rule.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is mainly a chronology; it does not explicitly argue divine
+    legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1697-1803; manuscript-fragment description
+  quote_or_summary: A small old Bundahis manuscript fragment of two folios, brought
+    from Persia by Westergaard, is described; its first 129 folios are lost.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1697-1803; manuscript-fragment contents
+  quote_or_summary: The two folios contain the last sentences of the last chapter,
+    corresponding to Bundahis XXXIV, 7-9, followed by a colophon, and include additional
+    details beyond the Indian manuscripts.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1697-1803; translated fragment, first chronological paragraph
+  quote_or_summary: "“Kai-Kayus, till his going to the sky, seventy-five years, and
+    after that, seventy-five years, altogether a hundred and fifty years.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 1697-1803; translated fragment, millennium and Vij-tasp notice
+  quote_or_summary: "“the millennium reign came to Capricornus, and Zaratuhaj-t the
+    Spitaman, with tidings ... from the creator Auharmazd, came to King Vij-tasp ...
+    after receiving the religion, ninety years.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1697-1803; translated fragment, dynastic title paragraph
+  quote_or_summary: The fragment lists later rulers and says the Ai-kanians should
+    bear the title in uninterrupted sovereignty for two hundred and some years, while
+    Artakhshatar son of Papak and the Sasanians bear it for four hundred and sixty
+    years.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1697-1803; colophon discussion
+  quote_or_summary: The colophon states that the manuscript was finished on the thirteenth
+    day of the ninth month A.Y. 936 and was written by Mitro-apan, son of Anoshak-ruban,
+    son of Rustam.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extracted mythic material is brief and embedded in an editorial manuscript
+    discussion. Motif candidates are limited to explicit notices in the translated
+    fragment; no broader comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were assigned only where the wording directly supported a close available category.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l1697-l1803
+  passage_sha256=87042620ff8f1df3f750426b322f8c0b26bb8aa49ae3da00d6f2f020db15760e
+

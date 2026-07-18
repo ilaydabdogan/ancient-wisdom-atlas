@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1153
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.single-hero-destroys-a-host
+  motif_id: single_hero_destroys_a_host
+  label: single hero destroys a host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A lone heroic combatant defeating a host fits heroic warfare and martial
+    ordeal under sacred_combat.
+  cautions: Single occurrence; may be an episode-specific battle feat unless it recurs
+    as a structured motif.
+  suggested_aliases:
+  - lone hero defeats host
+  - single warrior against a host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-hero-destroys-a-vast-hostile-force
+  motif_id: single_hero_destroys_a_vast_hostile_force
+  label: single hero destroys a vast hostile force
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif is a heroic combat feat against overwhelming numbers, fitting
+    sacred_combat more than general divine judgment.
+  cautions: Could map secondarily to divine_warrior if the hero's combat explicitly
+    maintains cosmic order or defeats demonic chaos forces.
+  suggested_aliases:
+  - lone hero destroys hostile force
+  - single warrior defeats a vast army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-hero-holding-back-a-collective-army
+  motif_id: single_hero_holding_back_a_collective_army
+  label: single hero holding back a collective army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone defender delaying or resisting an army is a martial ordeal within
+    the sacred combat complex.
+  cautions: If the passage emphasizes defensive guardianship of a threshold, threshold_guardian
+    may be a relevant secondary mapping.
+  suggested_aliases:
+  - lone hero holds back an army
+  - single defender against an army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-heroic-archer-defeats-a-band-of-monstrous-attackers
+  motif_id: single_heroic_archer_defeats_a_band_of_monstrous_attackers
+  label: single heroic archer defeats a band of monstrous attackers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: A heroic archer defeating monstrous attackers fits the divine_warrior/sacred-combat
+    pattern of combat against threatening nonhuman forces.
+  cautions: Weapon and archer details are likely granular evidence; use sacred_combat
+    instead if monsters are merely ordinary enemies in context.
+  suggested_aliases:
+  - heroic archer defeats monsters
+  - lone archer defeats monstrous attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-heroic-defender-threatening-an-invading-host
+  motif_id: single_heroic_defender_threatening_an_invading_host
+  label: Single heroic defender threatening an invading host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone defender confronting an invading host belongs with heroic martial
+    defense and sacred combat.
+  cautions: Threatening rather than defeating may be a scene detail; confirm that
+    the passage presents it as an ordeal or decisive martial function.
+  suggested_aliases:
+  - single defender confronts invading host
+  - lone warrior threatens invading army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-permitted-blow-in-appointed-combat
+  motif_id: single_permitted_blow_in_appointed_combat
+  label: single permitted blow in appointed combat
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule-bound single blow in appointed combat fits ritualized or formalized
+    combat under sacred_combat.
+  cautions: Could also relate to sacred_law or covenant if the stress is on binding
+    combat rules rather than the duel itself.
+  suggested_aliases:
+  - appointed combat with one permitted blow
+  - rule-bound single blow duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-spear-cast-kills-two-champions
+  motif_id: single_spear_cast_kills_two_champions
+  label: single spear-cast kills two champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes an extraordinary martial feat by weapon, which can
+    be preserved under divine_warrior or sacred_combat.
+  cautions: Likely too episode-specific for pattern queries unless similar single-cast
+    multiple-kill feats recur; weapon detail should remain evidence-level.
+  suggested_aliases:
+  - single cast kills multiple champions
+  - one spear cast kills two warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-warrior-against-a-multitude
+  motif_id: single_warrior_against_a_multitude
+  label: single warrior against a multitude
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: This is the broad form behind several lone-combatant-against-many labels
+    and fits sacred_combat directly.
+  cautions: If many such labels recur, reviewers may consider adding this as a stable
+    child under sacred_combat rather than leaving only granular aliases.
+  suggested_aliases:
+  - lone warrior against many
+  - single hero against a multitude
+  - one against many
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-warrior-defeats-many-attackers-in-sequence
+  motif_id: single_warrior_defeats_many_attackers_in_sequence
+  label: Single warrior defeats many attackers in sequence
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sequential defeat of many attackers is a structured variant of lone warrior
+    combat within sacred_combat.
+  cautions: Sequence detail may be passage-specific; avoid promoting unless it recurs
+    across sources as a formal combat pattern.
+  suggested_aliases:
+  - single warrior defeats attackers in sequence
+  - lone warrior defeats successive attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-warrior-defeats-multiple-armed-attackers
+  motif_id: single_warrior_defeats_multiple_armed_attackers
+  label: single warrior defeats multiple armed attackers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A lone warrior defeating multiple armed attackers is a heroic combat
+    ordeal fitting sacred_combat.
+  cautions: If attackers are demons or chaos beings, divine_warrior may be a stronger
+    mapping; if merely a battle scene, keep as granular evidence.
+  suggested_aliases:
+  - lone warrior defeats armed attackers
+  - single warrior defeats multiple attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters around a recurring lone-warrior-against-many combat pattern.
+  Existing sacred_combat can hold the labels, but reviewers may consider a future
+  child such as single_warrior_against_multitude if the pattern appears frequently
+  across traditions.
+- Avoid treating these placements as evidence of transmission between Celtic and Hindu
+  materials; the suggestions are only normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; several labels are single-occurrence and may
+    remain evidence-level variants.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1153
+  input_sha256: 1c4cc722655731c00bc25e30e6148c2e4d2533c02a5abd7154f26d7ba572bbf3
+

@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l6439-l6464
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 6439-6464'
+  start: '6439'
+  end: '6464'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Coyote in thick timber digs up an Artichoke plant and eats it after the
+    plant gives the name “Take-a-Bite” four times. He then suffers repeated flatus
+    that throws him upward with a tree and later a stone; the falling stone kills
+    him, and the passage explains this as the reason coyotes are found lying beside
+    stones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Coyote travels through thick timber and digs up an Artichoke plant.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The Coyote asks the Artichoke its name, and the Artichoke answers first with
+    “Cososit” and then with “Take-a-Bite.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Artichoke repeats the name “Take-a-Bite” four times, and each repetition
+    is followed by the Coyote taking a bite until the Artichoke is eaten.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After going on, the Coyote repeatedly expels flatus and seems to grow worse
+    each time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One expulsion of flatus throws the Coyote up in the air.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before another expulsion, the Coyote holds a tree; the flatus throws both
+    him and the tree up in the air.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Coyote comes to a stone; after another expulsion of flatus, the stone
+    goes up with him, falls on him, and kills him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator states that this event is the reason coyotes are found lying
+    beside stones.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Coyote
+  description: An animal figure who travels, digs up and eats the Artichoke, suffers
+    repeated flatus, and is killed by a falling stone.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: The Artichoke
+  description: A dug-up Artichoke plant that answers questions about its name and
+    is eaten by the Coyote.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: traveler and eater
+  assigned_to:
+  - fig:1
+  basis: The Coyote goes through thick timber, digs up the Artichoke, and eats it
+    bite by bite.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sufferer killed by stone
+  assigned_to:
+  - fig:1
+  basis: The Coyote is repeatedly thrown upward by flatus, and a stone falls on him
+    and kills him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: speaking plant and eaten object
+  assigned_to:
+  - fig:2
+  basis: The Artichoke gives names in response to the Coyote and is then consumed
+    by him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Artichoke plant
+  literal_form: A plant called “Cososit” and “Take-a-Bite,” dug up and eaten by the
+    Coyote.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fourfold repetition
+  literal_form: The Artichoke repeats the name “Take-a-Bite” four times.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tree
+  literal_form: A tree held by the Coyote and thrown upward with him by flatus.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stone
+  literal_form: A stone that goes up with the Coyote, falls on him, and kills him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: flatus
+  literal_form: Repeated expelled flatus that throws the Coyote upward and carries
+    objects with him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Coyote eats the speaking Artichoke
+  summary: In thick timber, the Coyote digs up an Artichoke, asks its name, and eats
+    it after the plant repeatedly says “Take-a-Bite.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Flatus throws Coyote and a tree upward
+  summary: After eating the Artichoke, the Coyote repeatedly expels flatus, grows
+    worse, and is thrown into the air; when he holds a tree, both he and the tree
+    are thrown upward.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Stone kills Coyote and explains coyotes beside stones
+  summary: The Coyote reaches a stone, expels flatus again, and the stone goes up
+    with him before falling on and killing him; the narrator gives this as the reason
+    coyotes are found lying beside stones.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: name that prompts literal action
+  taxonomy_refs: []
+  basis: The Artichoke gives the name “Take-a-Bite,” and each time it repeats the
+    name the Coyote takes a bite.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No named external motif ID is asserted.
+- id: motif:2
+  label: fourfold repetition leading to complete consumption
+  taxonomy_refs: []
+  basis: The Artichoke repeats the name four times, with the Coyote biting after each
+    repetition until the Artichoke is eaten.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports the fourfold sequence but does not explain the number’s
+    significance.
+- id: motif:3
+  label: bodily emission as dangerous force
+  taxonomy_refs: []
+  basis: After the Coyote eats the Artichoke, repeated flatus throws him into the
+    air and carries a tree and stone upward with him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the sequence after eating the Artichoke; it does
+    not explicitly state a causal mechanism beyond the narrated events.
+- id: motif:4
+  label: animal death explaining present-day observation
+  taxonomy_refs: []
+  basis: The falling stone kills the Coyote, and the passage states this is why coyotes
+    are found lying beside stones.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This identifies a narrative function internal to the passage, not a historical
+    comparison.
+comparison_claims:
+- id: claim:1
+  claim: The closing explanation supports classifying the episode as an etiological
+    explanation pattern, because the passage explicitly says the Coyote’s death by
+    the stone is the reason coyotes are found lying beside stones.
+  claim_level: same_function
+  target: etiological explanation pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional classification only; it does not assert historical
+    contact, common inheritance, or a specific cross-cultural motif ID.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 6439-6443
+  quote_or_summary: 'Footnote context and story title: told by Antelope; “The Coyote
+    and the Artichoke.”'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain Project Gutenberg source; summary/short excerpt permitted.
+- id: ev:2
+  type: summary
+  locator: lines 6445-6452
+  quote_or_summary: The Coyote goes through thick timber, digs up an Artichoke, asks
+    its name, receives the names “Cososit” and “Take-a-Bite,” and bites each time
+    “Take-a-Bite” is repeated four times until the Artichoke is eaten.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain Project Gutenberg source; summary/short excerpt permitted.
+- id: ev:3
+  type: summary
+  locator: lines 6454-6458
+  quote_or_summary: The Coyote repeatedly expels flatus, seems to worsen, is thrown
+    into the air, then holds a tree before another expulsion that throws both him
+    and the tree upward.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain Project Gutenberg source; summary/short excerpt permitted.
+- id: ev:4
+  type: summary
+  locator: lines 6459-6464
+  quote_or_summary: The Coyote reaches a stone; another expulsion sends the stone
+    up with him, the stone falls on him and kills him, and the passage says this explains
+    why coyotes are found lying beside stones.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain Project Gutenberg source; summary/short excerpt permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is clear. Motif labels are descriptive and need human review
+    for alignment with any formal motif index.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or common-inheritance claims are made.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l6439-l6464
+  passage_sha256=428542c27e378b085ac847f700d2e0c54a06367d045695e8df2b3a7d7cced694
+

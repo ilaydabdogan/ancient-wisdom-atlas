@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.native-american-aw-aw-tam-indian-nights-lloyd-gutenberg-l3820-l3857
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+passage_locator:
+  label: EE-EE-TOY'S RESURRECTION AND SPEECH TO JUHWERTA MAHKAI / NOTES ON EE-EE-TOY'S
+    RESURRECTION / STORIES OF THE THIRD NIGHT / THE STORY OF EE-EE-TOY'S ARMY; lines
+    3820-3857
+  start: '3820'
+  end: '3857'
+  translation: 'Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas
+    of Arizona'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: the dance that is called "Tramping Down the Sickness"
+  summary: A doctor uses song to request gifts from two brothers, directs their hunting,
+    makes medicine-bags from fawn skin and body parts, and the hunters regain abundant
+    deer. During the army's march, a sick woman dies and is buried; later a pestilence
+    spreads, and a doctor prescribes killing a doe and holding a healing dance, after
+    which the sick recover.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The doctor sings requests for Haymohl's turquoise earrings and Sooadack Ceeavawt's
+    beads; at first the brothers listen but do not understand the request.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After being told to hunt near the crowd of people, the brothers kill a fawn
+    and bring meat home to their family.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the doctor repeats the song, the brothers understand; Haymohl gives his
+    earrings and Sooadack Ceeavawt gives his necklace of beads.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The doctor tells the brothers they will find plenty of deer, then makes medicine-bags
+    for them from fawn cheek skin made into soft buckskin, filled with scrapings and
+    tips of the fawn's ears, tail, and nose.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The brothers wear the medicine-bags at their belts, kill multiple deer, and
+    from then on the people again have plenty of venison.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The people march in village order; when a woman from one village becomes sick,
+    her fellow villagers stay behind, care for her until she dies, bury her, and then
+    rejoin the others.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A pestilence spreads through the villages and delays them; a doctor tells
+    them to kill a doe and hold the dance called "Tramping Down the Sickness," after
+    which the sick recover.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the doctor
+  description: A ritual doctor who sings requests, gives hunting instructions, makes
+    medicine-bags, and later prescribes a doe-killing and healing dance for sickness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Haymohl
+  description: One of the brothers; he wears turquoise earrings, gives them to the
+    doctor, hunts, and receives a medicine-bag.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sooadack Ceeavawt
+  description: One of the brothers; he wears beads around his neck, gives them to
+    the doctor, hunts, and receives a medicine-bag.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the people / army / villages
+  description: The marching community, ordered by villages, later affected by pestilence
+    and restored when the sick recover.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: the sick woman
+  description: A woman from one village who becomes sick during the march, dies, and
+    is buried.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: the sick woman's fellow villagers
+  description: Members of her village who stay behind to care for her, bury her, and
+    later overtake the others.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: the sick ones
+  description: People sickened by the pestilence who recover after the prescribed
+    doe-killing and dance.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ritual doctor and healer
+  assigned_to:
+  - fig:1
+  basis: The doctor sings requests, prepares medicine-bags, foretells hunting success,
+    and prescribes a dance for sickness.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: hunters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The brothers hunt a fawn and then kill deer after receiving medicine-bags.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: gift givers and recipients of medicine-bags
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: They give earrings and beads to the doctor and each receives a medicine-bag.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: marching community
+  assigned_to:
+  - fig:4
+  basis: The people march in the order of their villages and are later delayed by
+    pestilence.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: sick and deceased traveler
+  assigned_to:
+  - fig:5
+  basis: The woman becomes sick, dies, and is buried during the march.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: caregivers and buriers
+  assigned_to:
+  - fig:6
+  basis: They stay with the sick woman, care for her, bury her, and rejoin the others.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: ritually healed sick people
+  assigned_to:
+  - fig:7
+  basis: The sick recover after the community follows the doctor's instructions.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: turquoise earrings
+  literal_form: earrings worn by Haymohl and given to the doctor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: bead necklace
+  literal_form: beads around Sooadack Ceeavawt's neck, given to the doctor
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: fawn-skin medicine-bags
+  literal_form: bags made from fawn cheek skin, buckskin scrapings, and tips of the
+    fawn's ears, tail, and nose
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: fawn and deer game
+  literal_form: fawn and deer hunted for meat and venison abundance
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: doe for healing rite
+  literal_form: a doe killed as part of the prescribed response to pestilence
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Tramping Down the Sickness dance
+  literal_form: a dance named "Tramping Down the Sickness" performed so the sick might
+    get well
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Song-request and gift exchange
+  summary: The doctor sings requests for Haymohl's earrings and Sooadack Ceeavawt's
+    beads; after first failing to understand, the brothers later give the requested
+    objects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Medicine-bags and restored hunting
+  summary: After the brothers kill a fawn, the doctor makes fawn-skin medicine-bags
+    and gives one to each brother; wearing them, the brothers kill deer and the people
+    regain venison.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Death and burial during the march
+  summary: During the village-ordered march, one village remains with a sick woman
+    until she dies, buries her, and then overtakes the rest of the army.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Pestilence and healing dance
+  summary: A pestilence spreads through the villages; a doctor prescribes killing
+    a doe and performing the dance called "Tramping Down the Sickness," and the sick
+    recover.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: requested gift exchange enabling ritual benefit
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The doctor's song asks for earrings and beads; once the brothers give them,
+    he provides medicine-bags and instructions connected with hunting success.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows exchange and benefit, but does not explicitly explain
+    the exchange as a formal sacred contract.
+- id: motif:2
+  label: hunting medicine restores game abundance
+  taxonomy_refs: []
+  basis: The doctor makes medicine-bags from fawn parts, gives them to the hunters,
+    and the subsequent hunt produces multiple deer and renewed venison for the people.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names hunting medicine or game-restoration.
+- id: motif:3
+  label: ritual dance cures pestilence
+  taxonomy_refs: []
+  basis: A doctor prescribes a doe-killing and the dance called "Tramping Down the
+    Sickness" so that the sick may get well; after the rite, the sick recover.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The motif is literal to this passage, but no provided taxonomy family
+    directly corresponds to healing dance or epidemic cure.
+- id: motif:4
+  label: animal killing within healing rite
+  taxonomy_refs:
+  - sacrifice
+  basis: The doctor instructs the people to kill a doe and hold a dance for the recovery
+    of the sick.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage says to kill a doe, but does not explicitly call it a sacrifice
+    or describe an offering recipient.
+- id: motif:5
+  label: death and burial interrupt communal journey
+  taxonomy_refs: []
+  basis: The marching villages are delayed when one village stays with a sick woman
+    until her death and burial before rejoining the others.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a narrative pattern in the passage, but its broader motif status
+    is uncertain from the supplied text alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3820-3824
+  quote_or_summary: In the doctor's song he asks Haymohl for turquoise earrings and
+    Sooadack Ceeavawt for the beads around his neck, but the brothers do not understand.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3825-3828
+  quote_or_summary: The doctor tells the brothers to hunt near the crowd the next
+    day; they do so, kill a fawn, bring it home, and have meat with their family.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3828-3833
+  quote_or_summary: The doctor again sings for the same gifts; this time Haymohl gives
+    his earrings and Sooadack Ceeavawt gives his bead necklace.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3833-3840
+  quote_or_summary: The doctor says they will find plenty of deer, then makes medicine-bags
+    from fawn cheek buckskin, buckskin scrapings, and tips of the fawn's ears, tail,
+    and nose, giving one to each brother.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 3841-3845
+  quote_or_summary: The brothers wear the bags at their belts, kill deer, find plenty
+    of deer afterward, and the people again have plenty of venison.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 3846-3852
+  quote_or_summary: As the people march in village order, a woman becomes sick; her
+    fellow villagers remain with her until she dies, bury her, and then overtake the
+    others.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: quote
+  locator: 3853-3857
+  quote_or_summary: A pestilence spreads through the villages; a doctor tells them
+    to kill a doe and hold "the dance that is called \"Tramping Down the Sickness,\""
+    and all the sick recover.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; short quote used from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif labels involving
+    sacred exchange or sacrifice are cautious because the passage does not explicitly
+    theorize the ritual meanings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-aw-aw-tam-indian-nights-lloyd-gutenberg__l3820-l3857
+  passage_sha256=1e36a854cdedc98fb07837f9e53fc2feb731f5e5f1c702dad01121b5b7c2cf15
+

@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l4527-l4672
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: STORY OF THE FOOD-GIVING-TOWN PEOPLE / STORY OF THOSE-BORN-AT-SKEDANS / A
+    STORY TOLD TO ACCOMPANY BEAR SONGS / A STORY TOLD TO ACCOMPANY BEAR SONGS; lines
+    4527-4672
+  start: '4527'
+  end: '4672'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Haida passage headed as a story told to accompany bear songs. The translated
+    song glosses address a chief in bear language, mention the addressee's grandfather,
+    describe the speaker as too much of a boy, and present first-person statements
+    about being far away, passing through mountains, traveling on an island, a flowing
+    creek, traveling at sunrise, lying under deadfalls, and having bravery, strength,
+    or power taken away.
+  language: Haida (Skidegate dialect) with English glosses/translations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is explicitly headed as a story told to accompany bear songs.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A translated song line addresses a chief, glossed as 'Chief (in bear language),'
+    and tells the addressee to be careful.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same translated song material mentions 'your grandfather' being pulled
+    around and also being pulled around while sitting beside him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first-person speaker says, 'I am too much of a boy.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The first-person speaker says he is already far away and refers to a passage
+    through mountains and a cliff where he holds up his head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The song describes the speaker's mountain as blue or green, mentions travel
+    upon an island, and calls a creek 'my creek' flowing in a long stream.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: A translated song line says the sun rises, the speaker starts traveling, and
+    the speaker is lying about under 'dead falls.'
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The closing translated song lines say the speaker's bravery, strength, or
+    power is all taken away.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Chief
+  description: A figure addressed repeatedly in the translated song glosses; one gloss
+    identifies the term as 'Chief (in bear language).'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Grandfather
+  description: An older kin figure mentioned in the song as 'your grandfather' and
+    associated with being pulled around or pulled around while sitting beside him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: First-person speaker or singer
+  description: The 'I' of the song glosses, described as too much of a boy, far away,
+    traveling through mountain and island settings, and later deprived of power or
+    strength.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: addressed chief
+  assigned_to:
+  - fig:1
+  basis: The translated song glosses repeatedly address 'chief,' including one glossed
+    as 'Chief (in bear language).'
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: grandfather or elder kin mentioned in song
+  assigned_to:
+  - fig:2
+  basis: The translated song gloss says 'your grandfather' and describes handling
+    or pulling him around.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: first-person song speaker
+  assigned_to:
+  - fig:3
+  basis: The translated glosses use first-person statements such as 'I am too much
+    of a boy,' 'I am far away,' and 'My power is all taken away.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:4
+  label: journeying and power-deprived speaker
+  assigned_to:
+  - fig:3
+  basis: The speaker describes far-away travel through mountains and at sunrise, then
+    says bravery, strength, or power has been taken away.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Passage through the mountains; 'my mountain' described as blue and
+    green.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: cliff and uplifted head
+  literal_form: A cliff where the speaker says, 'I hold up my head greatly.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: island travel
+  literal_form: The speaker says he travels about proudly upon an island.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: flowing creek
+  literal_form: "'My creek' flowing along in a long stream."
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: rising sun
+  literal_form: The sun rises before the speaker starts traveling.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: deadfalls
+  literal_form: The gloss says the speaker is lying about under 'dead falls.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Bear-song address to chief and grandfather
+  summary: Within a passage headed as bear-song accompaniment, a song addresses a
+    chief in bear language, advises care, and mentions the addressee's grandfather
+    being pulled around; the speaker says he is too much of a boy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Distant mountain, island, and creek journey
+  summary: The first-person speaker says he is far away, describes a passage through
+    mountains and a cliff, refers to blue and green mountains, travels on an island,
+    and mentions a creek flowing in a long stream.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Sunrise travel and loss of power
+  summary: The song says the sun rises and the speaker begins traveling, lies under
+    deadfalls, and later states that bravery, strength, or power has been taken away.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: bear-song performance frame with chief address
+  taxonomy_refs: []
+  basis: The passage title frames the material as bear-song accompaniment, and a translated
+    line addresses a chief in bear language.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a performance or song frame rather than a complete plot motif
+    in the translated material.
+- id: motif:2
+  label: far-away journey through mountain and water landscape
+  taxonomy_refs:
+  - departure
+  basis: The first-person speaker says he is far away, passes through mountains, travels
+    on an island, and later starts traveling at sunrise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The surviving translated glosses are lyrical and fragmentary; the direction
+    and purpose of the journey are not stated.
+- id: motif:3
+  label: loss of personal power or strength
+  taxonomy_refs: []
+  basis: The closing translated song lines state that the speaker's bravery, strength,
+    or power is all taken away.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain who or what takes the power away, or whether
+    the loss is temporary.
+- id: motif:4
+  label: careful handling of a grandfather or elder
+  taxonomy_refs: []
+  basis: The translated song tells the addressed figure to be careful and refers to
+    pulling around 'your grandfather,' including while sitting beside him.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The wording is fragmentary, and the action's narrative function is unclear
+    without a fuller translation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4527-4672; heading
+  quote_or_summary: '"A STORY TOLD TO ACCOMPANY BEAR SONGS"'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 4527-4672; first translated bear-song gloss
+  quote_or_summary: '"Chief (in bear language) be careful your grandfather [you] pull
+    around" and "[you] pull him around sitting beside him."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 4527-4672; first translated bear-song gloss
+  quote_or_summary: '"You for I am too much of a boy ... chief"'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 4527-4672; translated gloss beginning 'Â hâlī′x̣ias'
+  quote_or_summary: '"from I am already far away"; "My passage through the mountains";
+    "cliff at I hold up my head greatly"; "my mountain blue"; "island upon I travel
+    about proudly."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 4527-4672; translated gloss beginning 'Halīx̣iâ′â'
+  quote_or_summary: '"my mountain green" and "my creek flowing along in a long stream."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: 4527-4672; translated gloss beginning 'Ha la ye he'
+  quote_or_summary: '"sun rises then about start I traveling" and "dead falls under
+    I am lying about."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: 4527-4672; final translated gloss beginning 'Ha ē⁺līx̣ia'
+  quote_or_summary: '"my bravery, strength, etc., is all taken away" and "My power
+    is all taken away."'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the passage heading and the English glosses embedded
+    in a largely Haida-language passage. Many narrative details in the untranslated
+    Haida text were not interpreted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were generated because the passage itself does not supply a direct comparative link beyond the available motif taxonomy alignment for departure-like travel.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l4527-l4672
+  passage_sha256=ef13a518107ab4845b7550f88265c755a37c91d34d5f8467c089803bd7e2c7be
+

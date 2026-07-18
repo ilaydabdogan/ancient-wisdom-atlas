@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0156
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.annihilation-requested-as-release-from-torment
+  motif_id: annihilation_requested_as_release_from_torment
+  label: Annihilation requested as release from torment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: uncertain
+  confidence: low
+  rationale: The wording invokes annihilation, but as escape from torment rather than
+    mystical ego-dissolution or union.
+  cautions: Could be eschatological punishment, despair speech, or passage-specific
+    rhetoric; source context is needed before mapping to mystical_quest or death_and_transformation.
+  suggested_aliases:
+  - annihilation_as_release
+  - release_from_torment_by_nonbeing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.annunciation-with-fear-questioning-and-assent
+  motif_id: annunciation_with_fear_questioning_and_assent
+  label: Annunciation with fear, questioning, and assent
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An annunciation is a divine message or intervention that redirects human
+    action and destiny.
+  cautions: If the passage emphasizes sacred birth more than the messenger encounter,
+    miraculous_child or sacred_birth may be the better primary group.
+  suggested_aliases:
+  - annunciation
+  - divine_message_with_assent
+  - angelic_annunciation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apostolic-wanderer-linked-to-american-sacred-traces
+  motif_id: apostolic_wanderer_linked_to_american_sacred_traces
+  label: apostolic wanderer linked to American sacred traces
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a wandering apostolic figure with sacred traces in
+    the Americas, but the motif function is unclear.
+  cautions: May reflect colonial interpretive overlay, missionary attribution, euhemeristic
+    identification, or place-trace legend; culturally sensitive and source-dependent.
+  suggested_aliases:
+  - wandering_apostle_sacred_traces
+  - apostolic_traces_in_american_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apprenticeship-reward-as-marvel-object
+  motif_id: apprenticeship_reward_as_marvel_object
+  label: Apprenticeship reward as marvel-object
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marvel-object received as reward fits the power-object pattern, especially
+    when the object confers unusual ability or status.
+  cautions: If apprenticeship or training is the main transformation, initiation may
+    be a secondary mapping; if the object is merely payment, exclude as plot detail.
+  suggested_aliases:
+  - marvel_object_reward
+  - apprentice_receives_wonder_object
+  - reward_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approach-to-a-saintly-dwelling-after-a-journey-stage
+  motif_id: approach_to_a_saintly_dwelling_after_a_journey_stage
+  label: Approach to a saintly dwelling after a journey stage
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a stage in a journey toward a spiritually charged
+    dwelling.
+  cautions: Likely too scene-specific for a durable motif; if the dwelling functions
+    as hermitage, revelation site, or initiation place, sacred_knowledge or initiation
+    may be relevant.
+  suggested_aliases:
+  - arrival_at_saintly_dwelling
+  - journey_stage_to_hermitage
+  - approach_to_sacred_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-readiness-on-the-distant-road
+  motif_id: armed_readiness_on_the_distant_road
+  label: Armed readiness on the distant road
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a travel-scene detail rather than a recurring symbolic
+    or narrative motif.
+  cautions: Retain as evidence only if the larger passage concerns exile, armed quest,
+    ambush, or sacred combat.
+  suggested_aliases:
+  - armed_travel_readiness
+  - roadside_armed_vigilance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-strangers-arrive-at-a-royal-hall-and-are-formally-questioned
+  motif_id: armed_strangers_arrive_at_a_royal_hall_and_are_formally_questioned
+  label: armed strangers arrive at a royal hall and are formally questioned
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: Arrival of armed strangers at a hall may activate hospitality, identity
+    testing, or royal order.
+  cautions: Could also be a courtly challenge, combat prelude, recognition scene,
+    or routine episode; needs passage evidence before grouping.
+  suggested_aliases:
+  - armed_strangers_at_hall
+  - formal_questioning_of_strangers
+  - stranger_arrival_at_royal_hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-vigil-over-sleeping-exiles
+  motif_id: armed_vigil_over_sleeping_exiles
+  label: armed vigil over sleeping exiles
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif is a protective travel/exile scene within a journey or exile
+    sequence.
+  cautions: May be too specific for pattern queries unless it recurs; if protection
+    of vulnerable sleepers is central, a future guardian/protection mapping may be
+    needed.
+  suggested_aliases:
+  - vigil_over_exiles
+  - armed_guard_over_sleepers
+  - protective_watch_in_exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arming-after-bereavement-to-question-surviving-foes
+  motif_id: arming_after_bereavement_to_question_surviving_foes
+  label: arming after bereavement to question surviving foes
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: low
+  rationale: Bereavement motivates armed action and confrontation, linking mourning
+    with heroic response.
+  cautions: Could instead belong to sacred_combat or vengeance if the passage centers
+    on retaliation rather than grief; wording is episode-specific.
+  suggested_aliases:
+  - bereavement_prompts_arming
+  - armed_response_to_loss
+  - mourning_before_confronting_foes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arming-of-travelers-before-forest-departure
+  motif_id: arming_of_travelers_before_forest_departure
+  label: arming of travelers before forest departure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a preparatory travel detail and does not by itself mark
+    a broader motif.
+  cautions: If forest departure begins exile, quest, or ordeal, preserve as local
+    evidence under hero_journey or departure rather than as a standalone motif.
+  suggested_aliases:
+  - travelers_armed_before_departure
+  - arming_before_forest_journey
+  - armed_forest_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence travel or arming scenes; avoid
+  promoting them unless recurrence across sources shows a stable pattern.
+- For journey-bucket labels, distinguish routine itinerary details from transformative
+  departure, exile, ordeal, hospitality testing, or sacred encounter.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    apostolic-trace and annihilation-torment labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0156
+  input_sha256: 97e4bd314728b723e26e2d2f8d39274ea089af03c3b527f4d4d979e0673619d5
+

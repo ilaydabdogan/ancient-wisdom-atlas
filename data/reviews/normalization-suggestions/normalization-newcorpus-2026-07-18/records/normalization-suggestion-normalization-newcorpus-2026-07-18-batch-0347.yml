@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0347
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-endangered-by-personified-flood-and-rescued-by-divine-fire
+  motif_id: hero_endangered_by_personified_flood_and_rescued_by_divine_fire
+  label: Hero endangered by personified flood and rescued by divine fire
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Divine fire rescuing a hero is intervention, but the personified flood
+    and fire imagery also overlaps sacred_waters and sacred_fire.
+  cautions: Single Greek occurrence and composite label; do not map to flood_and_renewal
+    unless world/order destruction and renewal are present.
+  suggested_aliases:
+  - divine_fire_rescue
+  - hero_rescued_by_divine_fire
+  - personified_flood_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-faces-and-wounds-a-war-god
+  motif_id: hero_faces_and_wounds_a_war_god
+  label: hero faces and wounds a war god
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hero directly confronting and injuring a war god belongs to sacred
+    combat involving divine martial powers.
+  cautions: Could be an episode-specific heroic feat; preserve whether the emphasis
+    is combat, impiety, divine favor, or temporary transgression of divine hierarchy.
+  suggested_aliases:
+  - hero_wounds_war_god
+  - mortal_wounds_divine_warrior
+  - combat_with_war_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-granted-invulnerability-after-divine-injury
+  motif_id: hero_granted_invulnerability_after_divine_injury
+  label: hero granted invulnerability after divine injury
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a hero receiving invulnerability through divine
+    action, fitting the invulnerability complex.
+  cautions: If no hidden weakness or limiting condition is present, this may be broader
+    divine boon/protection rather than conditional invulnerability.
+  suggested_aliases:
+  - divinely_granted_invulnerability
+  - invulnerability_after_divine_injury
+  - hero_receives_invulnerability_boon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-halted-by-fear-before-divinely-backed-assault
+  motif_id: hero_halted_by_fear_before_divinely_backed_assault
+  label: Hero halted by fear before divinely backed assault
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: A divinely backed assault belongs near sacred combat, but the focal action
+    is the hero's fear and hesitation.
+  cautions: May be a passage-specific psychological detail rather than a reusable
+    motif; could fit divine_intervention, sacred_combat, or ethics/inner-life depending
+    on evidence.
+  suggested_aliases:
+  - fear_before_divinely_backed_assault
+  - heroic_fear_before_divine_attack
+  - divine_assault_halts_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-invokes-divine-names-before-killing-beasts
+  motif_id: hero_invokes_divine_names_before_killing_beasts
+  label: Hero invokes divine names before killing beasts
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invoking divine names before combat is a performative sacred speech act
+    empowering or authorizing the killing.
+  cautions: Could also index with divine_warrior if beast-slaying combat is primary,
+    or sacred_knowledge if the names are esoteric passage requirements.
+  suggested_aliases:
+  - invocation_of_divine_names_before_combat
+  - divine_name_invocation_for_beast_slaying
+  - sacred_names_empower_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-submits-to-a-divine-bond
+  motif_id: hero_submits_to_a_divine_bond
+  label: hero submits to a divine bond
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Submission to a divine bond fits a sacred binding relationship or obligation
+    between hero and divine power.
+  cautions: If the bond is magical restraint, bondage, or curse rather than covenantal
+    obligation, human review should redirect to curse_blessing_speech or initiation.
+  suggested_aliases:
+  - submission_to_divine_bond
+  - hero_bound_by_divine_power
+  - sacred_bond_submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-tested-by-drawing-a-divine-bow
+  motif_id: hero_tested_by_drawing_a_divine_bow
+  label: Hero tested by drawing a divine bow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Drawing a divine bow functions as a test proving heroic status, fitness,
+    or transformation.
+  cautions: Could also map to sacred_treasures if the bow as power object is central,
+    or royal_legitimacy if the test authorizes succession or marriage.
+  suggested_aliases:
+  - divine_bow_test
+  - heroic_trial_by_divine_weapon
+  - drawing_the_divine_bow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-with-divine-flesh
+  motif_id: hero_with_divine_flesh
+  label: hero with divine flesh
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: Divine flesh may imply divine parentage or semi-divine heroic nature,
+    but the label lacks narrative function.
+  cautions: Could be a bodily epithet, lineage marker, royal ideology, or passage
+    artifact; review source before mapping to sacred_birth, divine_parent_child, or
+    royal_legitimacy.
+  suggested_aliases:
+  - divine_flesh_hero
+  - semi_divine_body
+  - hero_of_divine_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-accretion-around-a-favorite-hero
+  motif_id: heroic_accretion_around_a_favorite_hero
+  label: Heroic accretion around a favorite hero
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly observation about narrative growth around
+    a hero rather than a symbolic or narrative motif.
+  cautions: Preserve as textual or reception-history metadata if useful; do not use
+    as motif evidence for transmission or pattern comparison.
+  suggested_aliases:
+  - heroic_accretion
+  - narrative_accretion_around_hero
+  - favorite_hero_accretion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-age-as-a-divine-race-of-demi-gods
+  motif_id: heroic_age_as_a_divine_race_of_demi_gods
+  label: heroic age as a divine race of demi-gods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: medium
+  rationale: A heroic age populated by demigods belongs to schemes of successive world
+    ages and changing human/divine conditions.
+  cautions: If emphasis is a divine people arriving or founding culture rather than
+    age-sequence, divine_race may be a secondary or better mapping.
+  suggested_aliases:
+  - heroic_age_of_demigods
+  - demigod_heroic_race
+  - divine_race_of_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly episode-specific; suggested placements
+  should be treated as provisional review anchors, not taxonomy additions.
+- Combat-related divine labels often straddle divine_warrior, sacred_combat, divine_intervention,
+  and initiation; source function should determine final mapping.
+- No transmission or borrowing claim is implied by any suggested placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Draft suggestions generated for batch 0347; items marked needs_human_review
+    or exclude_from_pattern_queries require human confirmation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0347
+  input_sha256: bf7688ab33d4a95c0467cccac1dac13ccdf1e910a7b08a496f664deca10a6070
+

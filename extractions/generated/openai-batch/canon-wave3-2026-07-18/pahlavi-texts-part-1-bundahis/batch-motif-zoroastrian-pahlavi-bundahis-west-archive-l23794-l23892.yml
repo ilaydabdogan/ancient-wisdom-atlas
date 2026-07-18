@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l23794-l23892
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: I-IO. / INDEX. / PAHLAVI    TEXTS. / SI.  16,  6.; lines 23794-23892
+  start: '23794'
+  end: '23892'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index excerpt lists topics and cross-references from entries
+    such as eating in the dark, evil eye, Evil spirit, extinguishing fire, fiends,
+    fire, fire-temple, fish, and flowers. The entries point to passages elsewhere
+    in the volume and briefly characterize some topics, especially the Evil spirit,
+    fiends, and fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section rather than a continuous narrative scene.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes an entry for eating in the dark.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The index includes an entry for the evil eye.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:4
+  text: The Evil spirit entry lists the origin of evil, being cast down, attacks on
+    creation, misleading men, ancestry of Dahak, and future evil-doings.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Fiends entry lists their origin, destruction, descriptions, and associations
+    including serpents, menstruation, and pregnancy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Fire entry says fire is injured, described, reverenced, and to be kept
+    up; a separate entry indexes extinguishing fire.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Evil spirit
+  description: Index headword for an evil being associated with the origin of evil,
+    attacks on creation, misleading men, and future evil-doings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Fiends
+  description: Collective index headword for beings whose origin, destruction, descriptions,
+    and associations are indexed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dahak
+  description: Named in the Evil spirit entry as a figure for whom the Evil spirit
+    is listed as ancestor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: evil-origin and creation-attacking figure
+  assigned_to:
+  - fig:1
+  basis: The index associates the Evil spirit with the origin of evil, attacks on
+    creation, misleading men, and future evil-doings.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: collective demonic beings
+  assigned_to:
+  - fig:2
+  basis: The Fiends entry indexes origin, destruction, descriptions, and several demonic
+    associations.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named descendant or ancestry-linked figure
+  assigned_to:
+  - fig:3
+  basis: The Evil spirit entry states that the Evil spirit is an ancestor of Dahak.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: serpents
+  literal_form: serpents
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: evil eye
+  literal_form: Evil eye
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Index notice on the Evil spirit
+  summary: The index entry gathers references for the Evil spirit, including origin
+    of evil, casting down, attacks on creation, misleading men, ancestry of Dahak,
+    and future evil-doings.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Index notice on fiends
+  summary: The index entry gathers references for fiends, including origin, destruction,
+    descriptions, serpents, menstruation, and pregnancy.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Index notices on fire
+  summary: The fire-related entries index injured fire, descriptions of fire, reverence
+    for fire, keeping fire up, and extinguishing fire.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Index notice on the evil eye
+  summary: The index includes an entry for the evil eye with references to Bundahis
+    passages.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: evil spirit as origin and attacker of creation
+  taxonomy_refs:
+  - duality
+  - chaos
+  basis: The Evil spirit entry links the figure with the origin of evil, attacks on
+    creation, misleading men, and future evil-doings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an index entry; the underlying narrative details are not
+    present in this excerpt.
+- id: motif:2
+  label: evil being cast down
+  taxonomy_refs: []
+  basis: The Evil spirit entry includes references for the figure being cast down.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the index wording is available here; no full episode is included.
+- id: motif:3
+  label: fiends with origin and destruction
+  taxonomy_refs:
+  - duality
+  basis: The Fiends entry indexes their origin and destruction, along with descriptions
+    and associations.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt supplies only index labels and references, not narrative context.
+- id: motif:4
+  label: revered and maintained fire
+  taxonomy_refs: []
+  basis: The Fire entry lists reverence for fire and says fire is to be kept up; extinguishing
+    fire is separately indexed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is drawn from index wording and cross-reference labels, not
+    from a full ritual description.
+- id: motif:5
+  label: serpentine fiends
+  taxonomy_refs:
+  - serpent
+  basis: The Fiends entry includes serpents among the indexed associations.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The index gives only the word 'serpents' in relation to fiends; the nature
+    of the relation requires checking the cited passage.
+- id: motif:6
+  label: evil eye
+  taxonomy_refs: []
+  basis: The index contains an entry for the evil eye.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not describe how the evil eye functions in the referenced
+    passages.
+comparison_claims:
+- id: claim:1
+  claim: The index explicitly compares the Evil spirit to 'the devil' by including
+    the phrase 'like the devil.'
+  claim_level: same_function
+  target: the devil
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a brief index comparison; it does not provide a detailed theological
+    or narrative equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23794-23892
+  quote_or_summary: The excerpt is an alphabetical index section with entries from
+    eating in the dark through flowers, including persons, places, beings, actions,
+    and cross-references.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 23810-23835, Evil spirit index entry
+  quote_or_summary: The Evil spirit entry includes 'like the devil' and lists origin
+    of evil, being cast down, being comforted and described, attacks on creation,
+    misleading men, ancestry of Dahak, and future evil-doings.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short quoted phrase and summary used.
+- id: ev:3
+  type: summary
+  locator: lines 23857-23875, Fiends index entry
+  quote_or_summary: The Fiends entry lists origin, destruction, description, Christians,
+    serpents, fiends of menstruation, and pregnancy, with cross-reference to Arch-fiends.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 23880-23887, Fire and Fire-temple index entries
+  quote_or_summary: The Fire entry lists fire as injured and described, mentions reverence
+    for fire, says fire is to be kept up, and cross-references Sacred fire; the Fire-temple
+    entry points to Abode of fires.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 23836-23839, Extinguishing fire and Extirpation of sin index entries
+  quote_or_summary: The index includes entries for extinguishing fire and extirpation
+    of sin.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 23809-23810, Evil eye index entry
+  quote_or_summary: The index includes an entry for the evil eye with references to
+    Bundahis passages.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is an index, so extraction is limited to headwords, short descriptors,
+    and cross-references. Candidate motifs require review against the cited source
+    passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No full narrative episode is present in the supplied passage. Motif and symbol records are therefore based on explicit index language only.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l23794-l23892
+  passage_sha256=2fa0f794f8178f337623fdc957518ddfe50895629dabd01b1841ef2fd4871120
+

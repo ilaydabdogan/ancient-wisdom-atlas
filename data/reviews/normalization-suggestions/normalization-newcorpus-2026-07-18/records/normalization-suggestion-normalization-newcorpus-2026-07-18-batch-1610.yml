@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1610
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.theft-confessed-and-punished-by-lethal-retaliation
+  motif_id: theft_confessed_and_punished_by_lethal_retaliation
+  label: theft confessed and punished by lethal retaliation
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves wrongdoing followed by lethal punishment, which may
+    fit moral reckoning if sacred or normative judgment is central.
+  cautions: Could be a passage-specific retaliation episode or legal/social vengeance
+    rather than divine judgment; source context is needed.
+  suggested_aliases:
+  - theft punished by lethal retaliation
+  - confessed theft punished by death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-from-a-royal-treasure-by-a-small-concealed-thief
+  motif_id: theft_from_a_royal_treasure_by_a_small_concealed_thief
+  label: Theft from a royal treasure by a small concealed thief
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed thief stealing royal treasure fits trickster theft and boundary-crossing
+    against authority.
+  cautions: If the stolen treasure is primarily a sacred power object or kingship
+    token, sacred_treasures or royal_legitimacy may be relevant secondary contexts.
+  suggested_aliases:
+  - concealed thief steals royal treasure
+  - small hidden thief steals treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-of-a-valued-plaything-followed-by-magical-pursuit
+  motif_id: theft_of_a_valued_plaything_followed_by_magical_pursuit
+  label: theft of a valued plaything followed by magical pursuit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Theft followed by pursuit may fit trickster or pursuit-escape narrative
+    logic.
+  cautions: The plaything and magical pursuit may be episode-specific; could involve
+    sacred_treasures, magical object pursuit, or child/family context depending on
+    source evidence.
+  suggested_aliases:
+  - stolen plaything and magical pursuit
+  - theft followed by magical chase
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-of-costume-and-identity
+  motif_id: theft_of_costume_and_identity
+  label: Theft of costume and identity
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Costume theft that enables identity appropriation belongs with hidden
+    identity and identity-proof patterns.
+  cautions: If the theft enables bodily form-change or ritual impersonation, shapeshifter
+    or sacred_law may be relevant; handle Hopi ritual context sensitively.
+  suggested_aliases:
+  - identity theft through costume
+  - stolen costume as stolen identity
+  - costume-based hidden identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-of-essential-hunting-boats-by-a-stronger-group
+  motif_id: theft_of_essential_hunting_boats_by_a_stronger_group
+  label: theft of essential hunting boats by a stronger group
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes theft and group power imbalance, but no existing
+    group clearly captures resource seizure without sacred or trickster function.
+  cautions: May be a contextual conflict episode, social injustice, or survival-resource
+    detail rather than a reusable motif; source evidence needed.
+  suggested_aliases:
+  - stronger group steals hunting boats
+  - theft of hunting boats
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-or-robbery-in-title
+  motif_id: theft_or_robbery_in_title
+  label: theft or robbery in title
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes a title-level artifact rather than a motif evidenced
+    in narrative content.
+  cautions: If the underlying passage contains an actual theft episode, index that
+    episode separately under trickster, divine_judgment, or another functional group.
+  suggested_aliases:
+  - robbery in title
+  - title mentions theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-punished-and-goods-restored-after-petition
+  motif_id: theft_punished_and_goods_restored_after_petition
+  label: Theft punished and goods restored after petition
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Theft is punished and order is repaired through restoration, matching
+    moral reckoning and correction of wrongdoing.
+  cautions: If the petition is primarily supplication before a ruler or deity, covenant
+    or sacred_law may be relevant; verify whether judgment is divine, royal, or social.
+  suggested_aliases:
+  - stolen goods restored after petition
+  - theft punished and property restored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theophany-in-human-or-beautiful-form
+  motif_id: theophany_in_human_or_beautiful_form
+  label: Theophany in human or beautiful form
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A divine manifestation in a visible human or beautiful form is a direct
+    theophany variant.
+  cautions: In Islamic contexts, review carefully for whether the figure is God, angelic,
+    prophetic, or visionary symbolism; do not flatten distinct theological categories.
+  suggested_aliases:
+  - divine manifestation in human form
+  - beautiful-form theophany
+  - human-form theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theophany-with-renaming
+  motif_id: theophany_with_renaming
+  label: Theophany with renaming
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine encounter that changes or bestows a name is a theophany with
+    identity transformation.
+  cautions: Could also support initiation, covenant, or royal_legitimacy if the renaming
+    establishes vocation, sacred bond, or authority.
+  suggested_aliases:
+  - divine encounter with renaming
+  - renaming after theophany
+  - theophanic name change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thief-loses-gains-through-a-repeated-property-claim-logic
+  motif_id: thief_loses_gains_through_a_repeated_property_claim_logic
+  label: thief loses gains through a repeated property-claim logic
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A thief losing gains through reversal or claim logic fits wrongdoing
+    exposed and punished by moral consequence.
+  cautions: May be a fable or trickster-logic episode rather than sacred judgment;
+    if the emphasis is clever reversal, trickster may be a secondary placement.
+  suggested_aliases:
+  - thief loses stolen gains
+  - property-claim reversal punishes thief
+  - stolen gains reversed by claim logic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several theft labels are single-occurrence and may represent episode details rather
+  than stable motifs; verify narrative function before adding children.
+- Theophany labels have clear existing placement under theophany, but traditions with
+  strict theological distinctions should be reviewed carefully.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1610
+  input_sha256: ebae93f9003fa20dcc1ee5f8500f211c3188c2ea652cf2050debe8e3817318e2
+

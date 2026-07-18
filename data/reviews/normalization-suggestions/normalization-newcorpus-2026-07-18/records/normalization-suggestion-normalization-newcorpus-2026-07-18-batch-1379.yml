@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1379
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.expulsion-of-hostile-remnants-on-a-calendrical-night
+  motif_id: expulsion_of_hostile_remnants_on_a_calendrical_night
+  label: Expulsion of hostile remnants on a calendrical night
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A calendrical removal of hostile remnants fits the existing ritual expulsion
+    complex under sacrifice.
+  cautions: Could also relate to sacred_time if the calendar night is the main point,
+    or sacred_law if framed as apotropaic protection.
+  suggested_aliases:
+  - calendrical_expulsion_of_hostile_remnants
+  - ritual_expulsion_on_a_calendar_night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-mourning-and-funerary-procession
+  motif_id: extended_mourning_and_funerary_procession
+  label: extended mourning and funerary procession
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label centers on formal grief and public mourning around death, already
+    covered by lament_and_mourning.
+  cautions: If the passage emphasizes burial rites or memorial duties more than grief,
+    heroic_funeral_rites may be a useful secondary group.
+  suggested_aliases:
+  - funerary_procession_with_extended_mourning
+  - prolonged_mourning_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-noble-visit-with-daily-hunting-and-public-viewing
+  motif_id: extended_noble_visit_with_daily_hunting_and_public_viewing
+  label: extended noble visit with daily hunting and public viewing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a passage-specific courtly episode rather than a reusable
+    symbolic or narrative motif.
+  cautions: If source context shows ritualized royal display, hospitality testing,
+    or sovereignty legitimation, review for royal_legitimacy or hospitality_test_stranger_guest.
+  suggested_aliases:
+  - noble_visit_with_daily_hunting
+  - public_viewing_of_noble_visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-heart-or-life-token-hidden-outside-the-body
+  motif_id: external_heart_or_life_token_hidden_outside_the_body
+  label: external heart or life-token hidden outside the body
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: A hidden heart or life-token outside the body is a direct external-soul/life-token
+    pattern.
+  cautions: Preserve whether the token is a heart, object, animal, or nested container
+    for granular evidence.
+  suggested_aliases:
+  - external_heart
+  - hidden_life_token_outside_the_body
+  - external_heart_life_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-life-token-plants
+  motif_id: external_life_token_plants
+  label: external life-token plants
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Life bound to plants is already within the external_soul complex, including
+    life-bound trees or external life objects.
+  cautions: If the plant functions primarily as a world tree or sacred center, axis_mundi
+    may be relevant as a secondary mapping.
+  suggested_aliases:
+  - life_token_plant
+  - life_bound_to_plant
+  - external_soul_in_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.externalized-life-or-strength-hidden-in-a-nested-creature
+  motif_id: externalized_life_or_strength_hidden_in_a_nested_creature
+  label: externalized life or strength hidden in a nested creature
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: Life or strength hidden away in nested creatures is a classic externalized-life
+    pattern.
+  cautions: May overlap with conditional_invulnerability_hidden_weakness when the
+    hidden creature is the means to defeat an otherwise invulnerable antagonist.
+  suggested_aliases:
+  - nested_external_soul
+  - life_hidden_in_nested_creature
+  - strength_hidden_in_nested_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.externalized-vital-parts-guarded-away-from-the-body
+  motif_id: externalized_vital_parts_guarded_away_from_the_body
+  label: Externalized vital parts guarded away from the body
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: Vital parts kept and guarded away from the body fit the external_soul
+    life-token group.
+  cautions: Review cultural specificity carefully; if the guarded parts are sacred
+    power objects rather than life-dependency tokens, sacred_treasures may be secondary.
+  suggested_aliases:
+  - guarded_external_vital_parts
+  - externalized_vital_parts
+  - vital_parts_hidden_away_from_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extinction-of-heirs
+  motif_id: extinction_of_heirs
+  label: Extinction of heirs
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe dynastic doom, curse, battle loss, divine judgment,
+    or simple genealogical outcome.
+  cautions: Needs passage evidence before mapping; could fit death_by_fate, divine_judgment,
+    royal_legitimacy, or be a chronicle detail.
+  suggested_aliases:
+  - dynastic_extinction
+  - heirs_cut_off
+  - lineage_extinction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extinguished-lamp-of-human-fallibility-relit
+  motif_id: extinguished_lamp_of_human_fallibility_relit
+  label: extinguished lamp of human fallibility relit
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The relit lamp of fallibility suggests Sufi inner transformation, self-knowledge,
+    or renewed spiritual perception.
+  cautions: Could be an over-specific poetic image; if merely a metaphor in commentary,
+    preserve as evidence rather than canonical motif.
+  suggested_aliases:
+  - relit_lamp_of_fallibility
+  - lamp_of_human_fallibility
+  - inner_lamp_relit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extra-sensed-watcher-detects-an-intruder
+  motif_id: extra_sensed_watcher_detects_an_intruder
+  label: Extra-sensed watcher detects an intruder
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural watcher detecting intrusion may be a guardian, magical
+    perception, monster episode, or plot detail.
+  cautions: If the watcher guards a boundary, map to threshold_guardian; if the emphasis
+    is altered perception or knowledge, dream_and_vision or sacred_knowledge may fit.
+    Source context is needed.
+  suggested_aliases:
+  - supernatural_watcher_detects_intruder
+  - preternatural_detection_of_intruder
+  - watcher_with_extra_senses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- External-heart, plant-token, nested-creature, and guarded-vital-parts labels all
+  appear to be variants of the already accepted external_soul group.
+- Several single-occurrence labels are highly contextual and should not be promoted
+  without passage review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1379
+  input_sha256: 69f83ec5d62bce7546823a2f6321e40ff820dcb949f9da2c6a36a843b4c2363f
+

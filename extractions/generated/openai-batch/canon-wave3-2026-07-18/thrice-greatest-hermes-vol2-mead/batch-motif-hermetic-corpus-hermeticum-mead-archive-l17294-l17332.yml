@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l17294-l17332
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE PERFECT SERMON 363 / THE PERFECT SERMON 365 / THE PERFECT SERMON 367
+    / THE PERFECT SERMON 369; lines 17294-17332
+  start: '17294'
+  end: '17332'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Time as perpetually moving yet stable through return
+    to itself, and Eternity as stable and motionless yet appearing to move because
+    Time is recalled into it. It then formulates a paradoxical relation in which Eternity's
+    stability becomes moved, Time's mobility becomes stable, and God is described
+    as moved into Himself by a motion that is also motionless. A note compares this
+    reconciliation of opposites to Platonic and Upanishadic pairs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Time is said to have its own stability despite being in perpetual motion,
+    because it reverts from itself to itself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eternity is described as stable, motionless, and fixed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The movement of Time is said to be recalled into Eternity, and Time's mobility
+    is described as circular.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Eternity, though motionless in itself, is said to seem in movement on account
+    of Time.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that Eternity's stability becomes moved and Time's mobility
+    becomes stable.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God is said to be moved into Himself by an ever-same transcendency of motion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The transcendent principle is described as not subject to sense, beyond all
+    bounds, and unable to be grasped.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An editorial note says the passage attempts to unite Platonic opposites of
+    same and other, and compares these with Upanishadic pairs of Self and not-Self.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Time
+  description: An abstract principle described as perpetually moving, self-reverting,
+    circular in mobility, and recalled into Eternity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Eternity
+  description: An abstract principle described as stable, motionless, and fixed, yet
+    appearing to move because of Time.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: God Himself
+  description: The divine principle described as moved into Himself, with stability
+    expressed as motionless motion and with law exempt from change.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: circularly moving principle
+  assigned_to:
+  - fig:1
+  basis: Time is described as perpetually moving, reverting to itself, and having
+    circular mobility.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: motionless stable principle
+  assigned_to:
+  - fig:2
+  basis: Eternity is described as stable, motionless, fixed, and yet seeming to move
+    in relation to Time.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: self-inward transcendent divine principle
+  assigned_to:
+  - fig:3
+  basis: God is said to be moved into Himself, and the following description characterizes
+    the transcendent as beyond sense and grasp.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: circular mobility
+  literal_form: Time's mobility is circular because its movement is recalled into
+    Eternity.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: motionless motion
+  literal_form: The passage uses the paradoxical formulation that divine stability
+    is 'motion motionless.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: self-reversion
+  literal_form: Time reverts from itself to itself.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Time recalled into Eternity
+  summary: Time is described as perpetually moving and self-returning; its movement
+    is recalled into Eternity, making its mobility circular while Eternity remains
+    motionless in itself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Stability and mobility exchanged
+  summary: The passage states that Eternity's stability becomes moved and Time's mobility
+    becomes stable, then applies the paradox of motionless motion to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Transcendent beyond grasp
+  summary: The final portion characterizes the transcendent principle as beyond sense,
+    beyond bounds, and unable to be grasped.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: union of opposing principles
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly brings together stability and motion, saying that
+    Eternity's stability becomes moved and Time's mobility becomes stable; the note
+    describes this as an attempt to unite opposed categories.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is philosophical and abstract rather than narrative; the taxonomy
+    reference is broad.
+- id: motif:2
+  label: self-returning circular time
+  taxonomy_refs:
+  - return
+  basis: Time is described as reverting from itself to itself, and its mobility is
+    explicitly called circular.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is not a journey-return narrative; it is a metaphysical account of
+    Time.
+- id: motif:3
+  label: ineffable transcendent divinity
+  taxonomy_refs: []
+  basis: The passage describes the transcendent as not subject to sense, beyond all
+    bounds, and unable to be grasped.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No more specific available taxonomy reference is directly supported by
+    the passage.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note compares the passage's reconciliation of stability and
+    motion to the Platonic opposition of 'same' and 'other.'
+  claim_level: same_function
+  target: Platonic root-opposites of same and other
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is supplied by the editor's note in the passage, not
+    demonstrated through detailed textual parallels here.
+- id: claim:2
+  claim: The editorial note also compares the same reconciliation of opposites to
+    Upanishadic pairs such as sat-asat and Self/not-Self.
+  claim_level: same_function
+  target: Upanishadic oppositional pairs sat-asat and atman/not-atman
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only the editor's comparative gloss; it does not
+    establish contact, borrowing, or a detailed shared motif history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17294-17299
+  quote_or_summary: Time has its own stability despite perpetual motion because it
+    necessarily reverts from itself to itself.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 17301-17312
+  quote_or_summary: Eternity is stable, motionless, and fixed; Time's movement is
+    recalled into Eternity, making Time's mobility circular, while Eternity seems
+    to move on account of Time.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 17314-17324
+  quote_or_summary: Eternity's stability becomes moved and Time's mobility becomes
+    stable; God is moved into Himself by an ever-same transcendency of motion, and
+    divine vastness is described as motionless motion with changeless law.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 17326-17332
+  quote_or_summary: The transcendent is described as not subject to sense, beyond
+    all bounds, and unable to be grasped.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: note
+  locator: footnote 1 within lines 17326-17332
+  quote_or_summary: The note says the passage attempts to unite Platonic opposites
+    of same and other, and compares these to Upanishadic pairs including sat-asat
+    and Self/not-Self.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary of editorial note used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit about Time,
+    Eternity, circular mobility, and motionless motion. Motif labels are more tentative
+    because the passage is an abstract metaphysical exposition rather than a narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item directly applies; symbol taxonomy references are therefore left empty.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l17294-l17332
+  passage_sha256=a3334a7d28f704e2b2a7919338f847a93c1f21c835cf31ba279b6c7a32228756
+

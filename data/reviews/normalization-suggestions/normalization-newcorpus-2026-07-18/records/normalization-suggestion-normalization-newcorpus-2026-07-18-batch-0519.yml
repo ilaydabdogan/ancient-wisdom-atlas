@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0519
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-dogs-summoned-against-witch-attack
+  motif_id: named_dogs_summoned_against_witch_attack
+  label: named dogs summoned against witch attack
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Summoning named dogs against witch attack may be apotropaic protection,
+    but the label may also be episode-specific magical combat.
+  cautions: Single occurrence; needs source context to distinguish protective rite,
+    animal helper, witchcraft attack, or passage detail.
+  suggested_aliases:
+  - dogs_summoned_against_witch_attack
+  - animal_helpers_against_witch_attack
+  - apotropaic_animal_summoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-earthly-paradise
+  motif_id: named_earthly_paradise
+  label: named earthly paradise
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: An earthly paradise is a special blessed realm alongside ordinary geography,
+    fitting the otherworld/enchanting realm group.
+  cautions: If the passage is only a named place or title without otherworld qualities,
+    exclude or treat as place-specific evidence.
+  suggested_aliases:
+  - earthly_paradise
+  - blessed_earthly_realm
+  - paradisal_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-exceptional-steeds-draw-the-hero-s-vehicle
+  motif_id: named_exceptional_steeds_draw_the_hero_s_vehicle
+  label: named exceptional steeds draw the hero's vehicle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: Exceptional named steeds drawing a hero's vehicle may function like power-bearing
+    heroic equipment or status objects.
+  cautions: Could be an over-specific descriptive detail unless the steeds confer
+    supernatural mobility, authority, or heroic identity.
+  suggested_aliases:
+  - exceptional_steeds_draw_hero_vehicle
+  - named_heroic_steeds
+  - supernatural_steeds_of_hero_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-figure-as-maker-of-mirage
+  motif_id: named_figure_as_maker_of_mirage
+  label: named figure as maker of mirage
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Mirage-making concerns altered or deceptive perception, but the figure's
+    role and mythic function are unclear.
+  cautions: Named-figure wording may be a person-specific detail; review whether this
+    is perception magic, landscape etiology, trickster deception, or title artifact.
+  suggested_aliases:
+  - maker_of_mirage
+  - mirage_maker
+  - deceptive_vision_maker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-figure-associated-with-a-wave
+  motif_id: named_figure_associated_with_a_wave
+  label: named figure associated with a wave
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label only states association between a named figure and a wave,
+    without a clear narrative or symbolic function.
+  cautions: If source evidence shows wave as ordeal, sacred water, boundary, or destructive
+    force, remap to sacred_waters or flood_and_renewal.
+  suggested_aliases:
+  - figure_associated_with_wave
+  - named_wave_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-figure-located-in-a-special-place-title
+  motif_id: named_figure_located_in_a_special_place_title
+  label: named figure located in a special place title
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label explicitly reads as a title or naming artifact rather than
+    a motif.
+  cautions: Preserve as provenance if useful; do not index unless the place has an
+    evidenced otherworld, sacred-center, or threshold function.
+  suggested_aliases:
+  - special_place_title
+  - named_figure_in_place_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-first-discoverers-of-an-inland-lake
+  motif_id: named_first_discoverers_of_an_inland_lake
+  label: named first discoverers of an inland lake
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: low
+  rationale: First discovery of a lake may be landscape etiology or place-origin narrative,
+    which is currently grouped under cosmic_origin.
+  cautions: Could be only a place/person detail with no etiological creation function;
+    source evidence is needed before indexing.
+  suggested_aliases:
+  - first_discoverers_of_inland_lake
+  - lake_discovery_etiology
+  - named_discoverers_of_lake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-frightening-being-revealed-under-covering
+  motif_id: named_frightening_being_revealed_under_covering
+  label: named frightening being revealed under covering
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: A frightening being revealed from concealment may be an overwhelming
+    manifestation, but the being's sacred status is unknown.
+  cautions: Could instead be monster revelation, taboo sight, shapeshifting, or an
+    over-specific episode detail; requires source review.
+  suggested_aliases:
+  - frightening_being_revealed_under_covering
+  - hidden_frightening_being_revealed
+  - covered_being_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-heroic-boar-as-title-focus
+  motif_id: named_heroic_boar_as_title_focus
+  label: named heroic boar as title focus
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as title focus' indicates a textual/title artifact, not a
+    reusable motif.
+  cautions: If the boar acts as a supernatural animal, combat opponent, or transformed
+    figure in the passage, remap from passage evidence rather than title wording.
+  suggested_aliases:
+  - heroic_boar_title_focus
+  - named_boar_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-hidden-force-in-a-hole-that-flings-victims
+  motif_id: named_hidden_force_in_a_hole_that_flings_victims
+  label: named hidden force in a hole that flings victims
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A hidden force in a hole harming victims may mark a dangerous threshold
+    or guarded perilous place.
+  cautions: Highly specific; could be spirit attack, trickster trap, underworld opening,
+    or local episode detail rather than a stable motif.
+  suggested_aliases:
+  - hidden_force_in_hole_flings_victims
+  - dangerous_hidden_hole_force
+  - perilous_hole_with_hidden_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with 'named' or mention title focus; these often indicate person/place/title
+  artifacts rather than durable motif types.
+- Single-occurrence items should be preserved as evidence details unless source review
+  confirms a recurring function such as apotropaic protection, otherworld place, or
+  threshold peril.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific Afro-Caribbean, Inuit, Nahua, and Australian Aboriginal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0519
+  input_sha256: 7b5ea0174afb35b41f069111031703ccf7d4b343dbc2ae3534511543918e0f6b
+

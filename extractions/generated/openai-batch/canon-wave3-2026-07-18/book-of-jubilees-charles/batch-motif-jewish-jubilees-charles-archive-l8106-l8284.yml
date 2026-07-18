@@ -1,0 +1,539 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l8106-l8284
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: THE BOOK OF JUBILEES / CHAPTER IV. 17, 18 37 / CHAPTER IV. 19-26 / CHAPTER
+    IV. 27-31 41; lines 8106-8284
+  start: '8106'
+  end: '8284'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports Adam's death and burial in the land of his creation,
+    explains his 930-year life through the interpretation that a divine day is one
+    thousand years, recounts Cain's death by the falling stones of his house as retribution
+    for killing Abel with a stone, states a heavenly-table rule of equivalent punishment,
+    and gives Noah's marriage to ‘Em zAra and the births of Shem, Ham, and Japheth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Adam dies at the close of the nineteenth jubilee, in the seventh week and
+    sixth year, at 930 A.M.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All Adam's sons bury him in the land of his creation, and he is described
+    as the first to be buried in the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Adam's death at 930 years is explained by saying he lacked seventy years of
+    one thousand, and that one thousand years are as one day in the testimony of the
+    heavens.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage connects Adam''s death within the thousand-year day to the saying
+    about the tree of knowledge: on the day of eating from it, death would occur.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cain is killed in the same year after Adam, when his house falls upon him
+    and he dies among its stones.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cain's death by stone is explained as righteous judgment because he had killed
+    Abel with a stone.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The heavenly tables are said to ordain that the instrument and manner used
+    to kill or wound a neighbor should be returned upon the offender.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Noah takes ‘Em zAra as his wife; she is identified through Raké’él and Noah's
+    father's brother's line.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: "‘Em zAra bears Noah three sons in named years: Shem, Ham, and Japheth."
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Adam
+  description: Adam dies, is buried by all his sons, and is used as the subject of
+    the thousand-year day interpretation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Adam's sons
+  description: The sons of Adam bury him in the land of his creation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Cain
+  description: Cain had killed Abel with a stone and is later killed when his house
+    falls upon him and stones kill him.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Abel
+  description: Abel is named as the one whom Cain killed with a stone.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Noah
+  description: Noah takes ‘Em zAra as wife and becomes father of Shem, Ham, and Japheth
+    in the passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: "‘Em zAra"
+  description: "‘Em zAra is Noah's wife and bears Shem, Ham, and Japheth."
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Raké’él
+  description: Raké’él is named in the lineage description of Noah's wife ‘Em zAra.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Shem
+  description: Shem is born to Noah and ‘Em zAra in the third year of the specified
+    period.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Ham
+  description: Ham is born to Noah and ‘Em zAra in the fifth year of the specified
+    period.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Japheth
+  description: Japheth is born to Noah and ‘Em zAra in the first year of the sixth
+    week.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceased first-buried figure
+  assigned_to:
+  - fig:1
+  basis: Adam dies and is described as the first to be buried in the earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: burying sons
+  assigned_to:
+  - fig:2
+  basis: All Adam's sons bury him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: subject of thousand-year day death interpretation
+  assigned_to:
+  - fig:1
+  basis: Adam's 930-year lifespan is explained as death within a thousand-year divine
+    day.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: killer of Abel
+  assigned_to:
+  - fig:3
+  basis: Cain is said to have killed Abel with a stone.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: retributively killed offender
+  assigned_to:
+  - fig:3
+  basis: Cain is killed by stones after having killed Abel with a stone, in righteous
+    judgment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: stone-killed victim
+  assigned_to:
+  - fig:4
+  basis: Abel is the one Cain killed with a stone.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: husband and father
+  assigned_to:
+  - fig:5
+  basis: Noah takes ‘Em zAra as wife and she bears him three sons.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: wife and mother
+  assigned_to:
+  - fig:6
+  basis: "‘Em zAra is named as Noah's wife and mother of Shem, Ham, and Japheth."
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: named lineage figure
+  assigned_to:
+  - fig:7
+  basis: Raké’él is named in the kinship identification of ‘Em zAra.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: sons born to Noah and ‘Em zAra
+  assigned_to:
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: Shem, Ham, and Japheth are each named as sons borne by ‘Em zAra to Noah.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: earth burial place
+  literal_form: the land of Adam's creation; the earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree of knowledge
+  literal_form: the tree of knowledge
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: thousand-year day
+  literal_form: one thousand years are as one day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: stone as killing instrument
+  literal_form: stone; stones of Cain's fallen house
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: fallen house
+  literal_form: Cain's house fell upon him
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: heavenly tables
+  literal_form: heavenly tables ordaining equivalent punishment
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Adam's death and first burial
+  summary: Adam dies at 930 A.M.; all his sons bury him in the land of his creation,
+    and the passage calls him the first buried in the earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adam's lifespan interpreted as a divine day
+  summary: The passage explains Adam's 930 years by equating one thousand years with
+    one day and links this to the death warning attached to the tree of knowledge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cain's stone-for-stone death
+  summary: Cain dies when his house falls on him; the stones that kill him mirror
+    the stone with which he killed Abel.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Heavenly-table rule of equivalent punishment
+  summary: A heavenly-table ordinance states that a person should be killed or dealt
+    with according to the instrument and manner used against a neighbor.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Noah's marriage and sons
+  summary: Noah takes ‘Em zAra as wife, and she bears Shem, Ham, and Japheth in a
+    dated sequence.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: first burial of a primordial ancestor
+  taxonomy_refs: []
+  basis: Adam is buried by his sons in the land of his creation and is described as
+    the first to be buried in the earth.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states first burial directly, but does not elaborate a ritual
+    or underworld journey.
+- id: motif:2
+  label: death sentence fulfilled within a thousand-year divine day
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage links the tree of knowledge death warning with Adam's death before
+    completing one thousand years, interpreted as a single day in heavenly testimony.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The tree of knowledge episode is cited allusively rather than narrated
+    in full in this passage.
+- id: motif:3
+  label: measure-for-measure divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Cain is killed by stones because he had killed Abel with a stone, and the
+    heavenly tables prescribe equivalent treatment for killing or wounding.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the principle as judgment and ordinance; broader
+    legal or theological implications require external analysis.
+- id: motif:4
+  label: heavenly record of ordained justice
+  taxonomy_refs:
+  - divine_judgment
+  basis: The rule of equivalent punishment is said to be ordained on the heavenly
+    tables.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe the origin, guardians, or physical appearance
+    of the heavenly tables.
+- id: motif:5
+  label: ancestral succession through named sons
+  taxonomy_refs: []
+  basis: Noah's marriage is followed by the dated births of Shem, Ham, and Japheth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage provides genealogy but does not here narrate the later functions
+    of these sons.
+comparison_claims:
+- id: claim:1
+  claim: The passage's statement that Adam was the first buried in the earth is connected
+    in the supplied note with a later Life of Adam and Eve tradition about Abel's
+    burial being delayed until Adam's burial.
+  claim_level: same_motif
+  target: Life of Adam and Eve burial tradition concerning Adam and Abel
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the editor's note; the parallel text
+    itself is not quoted in full in the passage.
+- id: claim:2
+  claim: The thousand-year divine day interpretation is presented in the supplied
+    note as a Jewish interpretive pattern also cited with Bereshit Rabbah, 2 Peter,
+    Barnabas, Slavonic Enoch, Justin Martyr, and Lactantius.
+  claim_level: same_function
+  target: divine day as one thousand years interpretive tradition
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the source note's list of parallels and does not
+    establish direct dependence among the cited texts.
+- id: claim:3
+  claim: Cain's death by a falling house and stones is paralleled in the supplied
+    note with chronographic traditions, while other traditions give variant accounts
+    such as Lamech killing Cain or Cain being killed by a reed.
+  claim_level: same_motif
+  target: later traditions about Cain's death by house, stone, Lamech, or reed
+  evidence_refs:
+  - ev:3
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The note reports both similar and variant traditions; it does not by
+    itself determine the earliest or original form of the Cain death motif.
+- id: claim:4
+  claim: The passage's heavenly-table rule of equivalent punishment is compared in
+    the supplied note with lex talionis passages and with examples of fitting retribution
+    in 2 Maccabees.
+  claim_level: same_function
+  target: retaliatory justice and fitting retribution traditions
+  evidence_refs:
+  - ev:4
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and legal-theological; it should not be
+    read as proof that all cited texts share the same narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter IV.29
+  quote_or_summary: Adam dies at 930 A.M.; all his sons bury him in the land of his
+    creation, and he is called the first buried in the earth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied passage.
+- id: ev:2
+  type: summary
+  locator: Chapter IV.30
+  quote_or_summary: Adam lacks seventy years of one thousand; one thousand years are
+    treated as one day, and the tree of knowledge death warning is applied to him.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: Chapter IV.31
+  quote_or_summary: Cain dies when his house falls on him; he is killed by stones
+    because he had killed Abel with a stone, described as righteous judgment.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied passage.
+- id: ev:4
+  type: quote
+  locator: Chapter IV.32
+  quote_or_summary: "“With the instrument with which a man kills his neighbour with
+    the same shall he be killed.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Chapter IV.33
+  quote_or_summary: Noah takes ‘Em zAra, linked with Raké’él and his father's brother's
+    line, as wife; she bears Shem, Ham, and Japheth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: Note on Chapter IV.29
+  quote_or_summary: The note says Adam as first buried shows that a later Life of
+    Adam and Eve legend about Abel not being buried until Adam already existed.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied note.
+- id: ev:7
+  type: summary
+  locator: Note on Chapter IV.30
+  quote_or_summary: The note states that interpreting a day as a thousand years was
+    current among Jews and lists parallels including Bereshit Rabbah, 2 Peter, Barnabas,
+    Slavonic Enoch, Justin Martyr, and Lactantius.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied note.
+- id: ev:8
+  type: summary
+  locator: Note on Chapter IV.31-32
+  quote_or_summary: The note cites traditions where Cain dies under a falling house
+    or stones, and also records variants in which Lamech kills him or he is killed
+    by a reed.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied note.
+- id: ev:9
+  type: summary
+  locator: Note on Chapter IV.31-32
+  quote_or_summary: The note identifies the principle as exact retribution, compares
+    it with eye-for-eye law, and mentions fitting punishments in 2 Maccabees and New
+    Testament examples.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public-domain source; concise summary of supplied note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Primary narrative extraction is direct. Motif labels are conservative. Comparison
+    claims rely on the supplied editorial notes rather than independent analysis of
+    external texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. Taxonomy references were limited to available refs and applied only where directly supported.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l8106-l8284
+  passage_sha256=919d8aaaae9f20c444738d952efc47de3b2c79881c6446388be679a38a803c9e
+

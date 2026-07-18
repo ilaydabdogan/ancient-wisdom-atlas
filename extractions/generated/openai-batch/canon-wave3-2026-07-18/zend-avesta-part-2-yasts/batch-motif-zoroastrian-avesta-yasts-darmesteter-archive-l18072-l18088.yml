@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l18072-l18088
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: VI5TASP    VAST.  341 / VI5TASP    YAST.  343 / NYAYI5. / NYAYI5.; lines
+    18072-18088
+  start: '18072'
+  end: '18088'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: We sacrifice unto the bright, undying, shining, swift-horsed Sun.
+  summary: The passage offers sacrifice to the Sun, includes a confession of Mazda-worship
+    and following Zarathustra, and contains a note describing Mount Saokanta as the
+    site of a golden tube through which earthly water rises to the heavens and is
+    spread by wind to produce dew.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sacrifice is offered to the Sun, which is described as bright, undying, shining,
+    and swift-horsed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker confesses being a worshipper of Mazda and a follower of Zarathustra.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note states that Mount Saokanta has a golden tube coming from the root of
+    the earth.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note states that water on the surface of the earth goes up through the
+    hole of the golden tube to the heavens.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note states that wind drives the rising water, spreads it everywhere,
+    and thus dew is produced.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: The Sun is addressed as bright, undying, shining, and swift-horsed,
+    and receives sacrifice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mazda
+  description: Mazda is named in the speaker's confession as the one whose worshipper
+    the speaker is.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Zarathustra
+  description: Zarathustra is named in the speaker's confession as the one whose follower
+    the speaker is.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: The passage says sacrifice is offered unto the Sun.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: object of worship-confession
+  assigned_to:
+  - fig:2
+  basis: The speaker confesses being a worshipper of Mazda.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: followed religious figure
+  assigned_to:
+  - fig:3
+  basis: The speaker confesses being a follower of Zarathustra.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: shining swift-horsed Sun
+  literal_form: Bright, undying, shining, swift-horsed Sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mount Saokanta
+  literal_form: Mountain where the golden tube is located
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: golden tube from the root of the earth
+  literal_form: Golden tube coming from the root of the earth, with a hole through
+    which water rises
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: rising water
+  literal_form: Water on the surface of the earth rising through the tube to the heavens
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dew
+  literal_form: Dew produced after wind spreads the rising water
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sacrifice and confession
+  summary: A ritual voice offers sacrifice to the Sun and confesses Mazda-worship
+    and following Zarathustra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Water ascent through the golden tube
+  summary: A note describes Mount Saokanta as containing a golden tube from the root
+    of the earth; surface water rises through it to the heavens, is driven by wind,
+    spreads everywhere, and produces dew.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice to a solar figure
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says sacrifice is offered unto the bright, undying,
+    shining, swift-horsed Sun.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a short liturgical invocation, with no extended
+    narrative action.
+- id: motif:2
+  label: Cosmic mountain with earth-heaven conduit
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The note places a golden tube on Mount Saokanta, describes it as coming from
+    the root of the earth, and says water rises through it to the heavens.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This appears in a translator or scholastic note rather than in the main
+    liturgical sentence; the text does not explicitly call the mountain a cosmic center.
+- id: motif:3
+  label: Ascent of earthly water to the heavens
+  taxonomy_refs:
+  - ascent
+  basis: The note states that water on the surface of the earth goes up through the
+    tube to the heavens before being spread by wind to produce dew.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The ascent concerns water in a cosmological explanation, not a human or
+    divine journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18072-18073
+  quote_or_summary: '"We sacrifice unto the bright, undying, shining, swift-horsed
+    Sun."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 18075-18076
+  quote_or_summary: '"I confess myself a worshipper of Mazda, a follower of Zarathu5''tra"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 18080-18082
+  quote_or_summary: A note says that on Mount Saokanta there is a golden tube coming
+    from the root of the earth.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18082-18087
+  quote_or_summary: The note says surface water goes up through the tube to the heavens,
+    is driven by wind, spreads everywhere, and thereby produces dew.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, though the passage includes OCR-like
+    spellings and a footnote or translator's note. Motif candidates involving Mount
+    Saokanta are marked medium because they rely on the note rather than the main
+    liturgical line.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the provided passage does not itself supply enough comparative evidence beyond its internal imagery and brief cross-reference.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l18072-l18088
+  passage_sha256=535fb1137ad41f3776e5d9b8fd9eb77b189ed0b35d1ac720f706d9bde14709d7
+

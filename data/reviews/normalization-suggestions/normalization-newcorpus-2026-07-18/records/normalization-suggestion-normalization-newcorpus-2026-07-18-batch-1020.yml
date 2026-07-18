@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1020
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.boastful-challenge-to-single-combat
+  motif_id: boastful_challenge_to_single_combat
+  label: boastful challenge to single combat
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A challenge to single combat fits the existing combat-contest and duel
+    cluster under sacred_combat.
+  cautions: Boastful speech may also relate to pride_and_downfall if the passage emphasizes
+    hubris and punishment rather than ritualized combat.
+  suggested_aliases:
+  - single combat challenge
+  - boastful combat challenge
+  - champion challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-challenger-against-invincible-hero
+  motif_id: boastful_challenger_against_invincible_hero
+  label: Boastful challenger against invincible hero
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: role_variant
+  confidence: medium
+  rationale: The label foregrounds a challenger confronting an invincible hero, aligning
+    with invulnerable combatant patterns.
+  cautions: If invincibility is only formulaic praise and the plot centers on boastful
+    defeat, sacred_combat or pride_and_downfall may be better.
+  suggested_aliases:
+  - boastful challenger versus invincible hero
+  - challenger against invulnerable hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-challenger-defeated-by-hero
+  motif_id: boastful_challenger_defeated_by_hero
+  label: boastful challenger defeated by hero
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A boastful figure brought down by a hero is a clear pride-and-downfall
+    pattern.
+  cautions: If the passage mainly records a duel without moralizing boastfulness,
+    sacred_combat may be a better query group.
+  suggested_aliases:
+  - boastful challenger defeated
+  - boaster defeated by hero
+  - hubristic challenger defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-challenger-defeated-in-combat-contest
+  motif_id: boastful_challenger_defeated_in_combat_contest
+  label: Boastful challenger defeated in combat contest
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: The challenger’s boastfulness and defeat in a contest match the hubris
+    followed by humbling structure.
+  cautions: Could also be indexed under sacred_combat when the contest form is more
+    important than the moral reversal.
+  suggested_aliases:
+  - boastful challenger defeated in contest
+  - hubristic combat challenger humbled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-champion-defeats-challenger-in-single-combat
+  motif_id: boastful_champion_defeats_challenger_in_single_combat
+  label: Boastful champion defeats challenger in single combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Single combat between champion and challenger fits the duel and combat-contest
+    cluster under sacred_combat.
+  cautions: Unlike other boastful-challenger labels, the boaster wins; do not force
+    pride_and_downfall unless later reversal or moral humbling is present.
+  suggested_aliases:
+  - champion defeats challenger in single combat
+  - single combat champion victory
+  - boastful champion duel victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-elder-warrior-allies
+  motif_id: boastful_elder_warrior_allies
+  label: Boastful elder warrior allies
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a character type or ally role but not a clear narrative
+    function or existing motif pattern.
+  cautions: May be an episode-specific description of warrior companions; review source
+    evidence before mapping to sacred_combat, divine_warrior, or pride_and_downfall.
+  suggested_aliases:
+  - boastful elder warriors
+  - elder warrior allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boasts-before-monster-combat-fail-by-morning
+  motif_id: boasts_before_monster_combat_fail_by_morning
+  label: Boasts before monster-combat fail by morning
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed boasts before combat express overconfidence exposed by ordeal
+    or later events.
+  cautions: The monster-combat setting may warrant sacred_combat or divine_warrior
+    if the passage emphasizes heroic battle rather than failed boasting.
+  suggested_aliases:
+  - failed boasts before monster combat
+  - boastful overconfidence before monster fight
+  - combat boasts fail by morning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-blemish-or-disfigurement-in-honour-of-heroes
+  motif_id: bodily_blemish_or_disfigurement_in_honour_of_heroes
+  label: bodily blemish or disfigurement in honour of heroes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Hero-honoring bodily marks fit the existing heroic wounds and martial
+    proof cluster under divine_warrior.
+  cautions: If the act is primarily funerary memorialization rather than warrior identity,
+    heroic_funeral_rites may be a better secondary group.
+  suggested_aliases:
+  - hero-honoring disfigurement
+  - bodily marks in honor of heroes
+  - ritual blemish for heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-wounds-linked-to-environmental-timing
+  motif_id: bodily_wounds_linked_to_environmental_timing
+  label: bodily wounds linked to environmental timing
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines wounds and environmental timing without enough context
+    to identify a stable motif function.
+  cautions: Could indicate fate, seasonal timing, etiological explanation, combat
+    proof, or a passage-specific detail; source review needed.
+  suggested_aliases:
+  - wounds tied to environmental timing
+  - seasonally timed wounds
+  - environmentally linked bodily wounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-protected-combatant
+  motif_id: boon_protected_combatant
+  label: Boon-protected combatant
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: broader_label
+  confidence: high
+  rationale: A combatant protected by a boon matches the existing invulnerability-boon
+    and fatal-exception group.
+  cautions: Confirm whether the boon includes limits or exceptions; if it is simply
+    divine aid in battle, divine_intervention or divine_warrior may also apply.
+  suggested_aliases:
+  - boon-protected warrior
+  - boon-protected antagonist
+  - invulnerability boon combatant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence combat details; preserve duel, boast, and invulnerability
+  distinctions rather than merging all under generic conflict.
+- Boastfulness can indicate pride_and_downfall only when the passage includes humbling,
+  failure, or moral reversal.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-model
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    low-context single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1020
+  input_sha256: 88ea01f8f89c0de716e1134e6251e2803a14c555730c586ebc40f171865060bc
+

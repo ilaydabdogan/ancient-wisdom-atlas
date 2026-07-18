@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l189-l280
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: THOMAS KEIGHTLEY, / PREFACE / T. K. / INTRODUCTION; lines 189-280
+  start: '189'
+  end: '280'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Keightley's introduction explains ancient recognition and naming of star
+    groups, seasonal changes in visible constellations, the use of stellar risings
+    and settings as agricultural and navigational calendars, and the later development
+    and Roman borrowing of Greek parapegmata.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says ancient Greeks living under clear skies would have noticed
+    luminous points in the heavens, distinguished clusters, and given them names.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Homeric and Hesiodic poems are said to name star groups including Orion, the
+    Hyades, the Pleiades, the Bear or Wain, the Dog, and Boötes or Arcturus.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the Book of Job names the Pleiades, Hyades, Orion, and a
+    constellation called the Great Serpent.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says ancient Italians used the names Vergiliae for the Pleiades,
+    Suculae for the Hyades, and Septem Triones or Seven Oxen for the seven stars of
+    the Great Bear.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The name Seven Oxen is explained by analogy: the stars circle the pole without
+    setting, like oxen going round a threshing-floor.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage presents a seasonal sky scene in which Orion and his Dog pursue
+    the Bear, the Bear watches him, and the Pleiades fly before him; at another season
+    this scene is absent.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says stars were observed to make regular exits and entrances corresponding
+    with changes in nature on earth, and these correspondences were used for agriculture.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says peoples without scientific calendars use natural calendars
+    based on celestial or terrestrial appearances, with examples including flowering
+    plants, thistle blossom, Spring, and Fall.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says Hesiod used celestial phenomena to mark times for navigation
+    and rural labor, and that this use persisted among countryfolk in Greece and Italy
+    into the Roman empire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says Greek astronomers computed risings and settings of signs
+    and related weather expectations; the resulting tables, called parapegmata, were
+    set up in Greek cities and later borrowed by Romans.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A rustic sidereal calendar is described as teaching countrymen when signs
+    rose and set and on which days sacrifices and festivals were expected.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Orion
+  description: A named constellation or star group; described as brilliant and, in
+    a seasonal sky scene, as pursuing the Bear with his Dog.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dog
+  description: A named star group or constellation associated with Orion in the passage;
+    described as pursuing the Bear with him.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Bear or Wain / Great Bear / Septem Triones
+  description: A named constellation or star group; its seven stars are said to be
+    called Septem Triones or Seven Oxen in Latin, and it is described as being pursued
+    while watching Orion.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Pleiades / Vergiliae / Peleiades
+  description: A named star group; in the sky scene the Pleiades are identified with
+    pigeons and described as flying before Orion.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Hyades / Suculae
+  description: A named star group mentioned in Greek literature, the Book of Job,
+    and Latin naming.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Great Serpent
+  description: A constellation named in the Book of Job according to the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named constellation or star group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage lists these as named groups or constellations in Greek, Biblical/Eastern,
+    or Latin contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: pursuer in personified sky scene
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Orion and his Dog are described as pursuing the Bear.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: pursued and watching constellation
+  assigned_to:
+  - fig:3
+  basis: The Bear is described as being pursued and as watching Orion.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: fleeing bird-like constellation
+  assigned_to:
+  - fig:4
+  basis: The Pleiades are glossed as pigeons and described as flying before Orion.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: seasonal time marker
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage discusses star risings and settings as regular markers of seasonal
+    and practical time.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: named star clusters
+  literal_form: Clusters or constellations in the stellar heaven distinguished and
+    named by ancient peoples.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stellar rising and setting
+  literal_form: The regular exits and entrances, risings and settings, of stars or
+    signs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Great Serpent constellation
+  literal_form: A constellation named the Great Serpent in the Book of Job according
+    to the passage.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Seven Oxen image
+  literal_form: The seven stars of the Great Bear named as Seven Oxen because they
+    go round the pole like oxen around a threshing-floor.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: natural calendar signs
+  literal_form: Celestial or terrestrial appearances used to designate times and seasons,
+    including star risings, flowering plants, thistle blossom, Spring, and Fall.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: parapegmata and rustic sidereal calendar
+  literal_form: Tables cut on brass or marble and a Kalendarium rusticum siderale
+    used to know sign risings, weather, sacrifices, and festivals.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Naming constellations across ancient traditions
+  summary: The passage surveys Greek, Biblical/Eastern, and ancient Italian names
+    for star groups and constellations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seasonal celestial pursuit
+  summary: During one part of the year, the sky is described as showing Orion and
+    his Dog pursuing the Bear while the Pleiades fly before Orion; in another season
+    the scene is absent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Natural signs used as calendars
+  summary: Regular stellar appearances and other natural signs are described as ways
+    to mark seasons and agricultural or navigational times.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Astronomical tables and rustic calendar practice
+  summary: Greek astronomers compute risings and settings of signs and associated
+    weather; tables are set up for peasant and sailor use, and Romans borrow the practice
+    for rustic calendars and festival expectations.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Seasonal cycle marked by celestial risings and settings
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly describes star risings and settings as regular markers
+    that correspond to changes in nature and guide agriculture, navigation, weather
+    expectation, sacrifices, and festivals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is presented as antiquarian and calendrical explanation rather than
+    as a narrative myth.
+- id: motif:2
+  label: Personified pursuit among constellations
+  taxonomy_refs: []
+  basis: The passage describes Orion and his Dog pursuing the Bear while the Pleiades
+    fly before Orion, making a visible seasonal constellation arrangement into a personified
+    scene.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as the visual perception of a Grecian herdsman
+    and hunter; it does not give a full mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Greek, Biblical/Eastern, and ancient Italian traditions
+    as all distinguishing and naming recognizable star groups.
+  claim_level: same_function
+  target: Constellation naming in Greek, Book of Job/Eastern, and ancient Italian
+    contexts
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists examples of names and constellations but does not
+    establish shared narratives or direct derivation among all three contexts.
+- id: claim:2
+  claim: The passage compares multiple traditions as using natural phenomena to mark
+    times and seasons when no scientific calendar is available.
+  claim_level: same_function
+  target: Phenomena-based natural calendars, including celestial signs and plant/seasonal
+    signs
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The examples are broad and functional; they are not presented as a
+    single inherited mythic motif.
+- id: claim:3
+  claim: The passage explicitly says Romans borrowed Greek parapegmata, making this
+    a claimed case of historical transmission of a calendrical practice.
+  claim_level: historical_contact
+  target: Roman rustic sidereal calendars and Greek parapegmata
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage asserts borrowing but does not provide detailed supporting
+    evidence within this excerpt; the claim concerns calendrical technique rather
+    than mythic narrative.
+- id: claim:4
+  claim: The passage links Greek improvement in astronomy to intercourse with Egypt
+    and Phoenicia.
+  claim_level: historical_contact
+  target: Greek astronomical knowledge in relation to Egypt and Phoenicia
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is general and concerns natural science; the excerpt
+    does not identify a specific mythic motif transmitted through this contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 203-212
+  quote_or_summary: Ancient Greeks under clear skies are said to have distinguished
+    and named star clusters; Homeric and Hesiodic examples include Orion, Hyades,
+    Pleiades, Bear or Wain, Dog, and Boötes/Arcturus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 212-223
+  quote_or_summary: The passage says the Book of Job names the Pleiades, Hyades, Orion,
+    and the Great Serpent; it also gives ancient Italian names Vergiliae, Suculae,
+    and Septem Triones or Seven Oxen, explaining the oxen analogy through circular
+    motion around the pole.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 225-231
+  quote_or_summary: The visible sky changes over the year; in one season Orion and
+    his Dog are described as pursuing the Bear, with the Pleiades flying before him,
+    while in another season the scene is absent.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 231-242
+  quote_or_summary: Stars are said to have regular exits and entrances corresponding
+    with earthly natural changes, used for agriculture; natural calendars may use
+    celestial or terrestrial appearances such as plant flowering, thistle blossom,
+    Spring, and Fall.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 244-250
+  quote_or_summary: Greeks are said to have valued celestial phenomena for accuracy;
+    Hesiod used them to mark navigation and rural labor times, and countryfolk in
+    Greece and Italy retained the practice into the Roman empire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 252-278
+  quote_or_summary: Intercourse with Egypt and Phoenicia is said to have stimulated
+    Greek natural science; Thales distinguished real and apparent constellation risings
+    and settings; Meton, Eudoxus, and others computed signs and weather; Greek parapegmata
+    were set up for peasants and sailors, then borrowed by Romans, while a rustic
+    sidereal calendar taught sign risings, sacrifices, and festivals.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif confidence is moderated
+    because the passage is a scholarly introduction about astronomy and calendars
+    rather than a mythic narrative. Comparison claims are limited to comparisons explicitly
+    made or asserted in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy IDs were added. The only available symbol taxonomy used is serpent for the Great Serpent constellation; the principal motif-family reference is seasonal_cycle.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l189-l280
+  passage_sha256=021a048effb7b877b84b5290cbd09c648f86d3d39f8090c4b6970a190ffc9e92
+

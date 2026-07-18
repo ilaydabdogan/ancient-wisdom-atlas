@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l12234-l12333
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'LIBER V. / NOTES: / LIBER VI. / NOTES:; lines 12234-12333'
+  start: '12234'
+  end: '12333'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of notes on Ovid's Fasti concerning Vesta, sacrificial
+    customs, the Vestalia, millers and bakers, crowned asses and millstones, bread
+    offerings, and an etiological story in which an ass wakes sleeping Vesta and exposes
+    Priapus. The notes also cite Greek Hestia traditions and discuss textual uncertainty
+    about ass sacrifice or entrails connected with Vesta.
+  language: English with Latin and Greek quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes identify Vesta with the Greek Hestia and associate her cultic force
+    with altars and hearths; they also cite a Greek practice of beginning and ending
+    sacrifices with Hestia.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes describe an old custom of making offerings to Vesta during sacrifices
+    to other gods, and mention sacred food being sent on a clean plate to Vesta's
+    temple.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the Vestalia, mills stopped working, millstones were garlanded, asses were
+    crowned, and bread was hung around the asses' necks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The notes connect millers and bakers with the Vestalia and describe older
+    bread-making by hot ashes or a heated potsherd before the later use of furnaces.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A cited etiological story says Priapus tried to assault sleeping Vesta, but
+    an ass cried out at the wrong time for Priapus, waking Vesta and exposing him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The cited tradition says Lampsacenes sacrificed an ass to Priapus in revenge,
+    while Romans crowned the ass with bread in Vestal rites to honor preserved chastity.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The commentary treats some verses about ass sacrifice or entrails as textually
+    difficult and notes doubt about Roman ass sacrifice to Priapus or ass entrails
+    offered to Vesta.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vesta / Hestia
+  description: Vesta is identified with the Greek Hestia, associated with altars and
+    hearths, receives offerings, and appears as the sleeping deity protected in the
+    Priapus story.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Millers and bakers
+  description: The notes state that millers and bakers kept the Vestalia, connected
+    with bread production.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ass / asses
+  description: Asses are crowned and given bread at the Vestalia; in the etiological
+    story an ass cries out and wakes Vesta.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Priapus
+  description: Priapus is described in the cited story as attempting to assault sleeping
+    Vesta before being exposed by the ass's cry.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Lampsacenes
+  description: The cited tradition says the people of Lampsacus sacrificed an ass
+    to Priapus as revenge for the ass's exposure of him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Romans
+  description: The cited tradition says Romans crowned the ass with bread in Vestal
+    rites in honor of preserved chastity.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hearth and altar deity
+  assigned_to:
+  - fig:1
+  basis: Vesta/Hestia is associated with altars and hearths.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of sacrificial offerings and sacred food
+  assigned_to:
+  - fig:1
+  basis: The notes mention offerings to Vesta at sacrifices to other gods and sacred
+    food sent to her temple.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: festival craft participants
+  assigned_to:
+  - fig:2
+  basis: The notes state that millers and bakers kept the Vestalia because of their
+    connection with bread-making.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: festival-honored animals
+  assigned_to:
+  - fig:3
+  basis: Asses were crowned and had bread hung around their necks at the Vestalia.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: alarm animal protecting Vesta
+  assigned_to:
+  - fig:3
+  basis: The ass's cry wakes Vesta and exposes Priapus in the cited story.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: attempted assailant
+  assigned_to:
+  - fig:4
+  basis: The cited story says Priapus tried to assault sleeping Vesta.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: sacrificing community
+  assigned_to:
+  - fig:5
+  basis: The cited tradition says Lampsacenes sacrificed an ass to Priapus.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: sleeping threatened deity
+  assigned_to:
+  - fig:1
+  basis: Vesta is the sleeping figure whom Priapus tries to violate before the ass
+    wakes her.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Vestal rite observers
+  assigned_to:
+  - fig:6
+  basis: The cited tradition says Romans crown the ass with bread in Vestal rites.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hearth and altar fire
+  literal_form: hearths, altars, hot ashes, heated baking surface
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: sacred food and bread
+  literal_form: sacred food sent on a clean plate; bread hung around asses' necks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: festival garlands and crowns
+  literal_form: garlands on millstones and crowns on asses
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: ass
+  literal_form: crowned asses at Vestalia; the ass whose cry wakes Vesta
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: mill and millstones
+  literal_form: mills stopped working; millstones wreathed with garlands
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Vesta receives sacrificial attention
+  summary: The notes describe Vesta/Hestia as a deity of hearths and altars and describe
+    old sacrificial customs in which offerings or sacred food are directed to Vesta.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Vestalia rites for mills, bread, and asses
+  summary: At the Vestalia, mills cease work, millstones are garlanded, asses are
+    crowned, and bread is hung around their necks; the notes connect this with millers,
+    bakers, and bread-making.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ass wakes Vesta and exposes Priapus
+  summary: In the cited etiological story, Priapus attempts to assault sleeping Vesta,
+    but an ass cries out, wakes her, and reveals Priapus's ambush.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Divergent ritual consequences for the ass
+  summary: The cited tradition links the same ass story to Lampsacene sacrifice of
+    an ass to Priapus and Roman crowning of the ass with bread in Vestal rites.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrificial food directed to hearth goddess
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The notes describe offerings to Vesta during sacrifices to other gods and
+    sacred food being sent to her temple.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is commentary on Ovid rather than a full ritual prescription.
+- id: motif:2
+  label: annual festival honoring work animals and tools
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Vestalia is described as a festival during which mills stop, millstones
+    are garlanded, asses are crowned, and bread is hung around the asses' necks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: 'The supplied taxonomy ref is approximate: the passage concerns a calendar
+    festival, not an explicit mythic seasonal death-rebirth cycle.'
+- id: motif:3
+  label: animal alarm preserves sleeping deity's chastity
+  taxonomy_refs: []
+  basis: The cited story says an ass's cry wakes sleeping Vesta and exposes Priapus's
+    attempted assault.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family exactly matches this animal-warning motif.
+- id: motif:4
+  label: ritual aetiology for animal sacrifice and animal honor
+  taxonomy_refs:
+  - sacrifice
+  basis: The Priapus-Vesta-ass story is used to explain Lampsacene ass sacrifice to
+    Priapus and Roman bread-crowning of the ass in Vestal rites.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The commentary flags textual difficulty and doubts around some ass-sacrifice
+    details; the Roman bread-crowning is clearer than the disputed entrails/sacrifice
+    issue.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns Roman Vesta with Greek Hestia and presents
+    them as sharing hearth, altar, and sacrificial-order functions.
+  claim_level: same_function
+  target: Greek Hestia tradition
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based on the commentary's cited authorities, not on an
+    independent comparative argument within Ovid's verse alone.
+- id: claim:2
+  claim: The passage links Lampsacene ass sacrifice to Priapus and Roman bread-crowning
+    of the ass at Vestal rites to the same Priapus-Vesta-ass etiological story.
+  claim_level: same_motif
+  target: Lampsacene Priapus rite and Roman Vestalia ass rite
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The commentary notes textual problems and doubts about some sacrificial
+    details, so the comparison should be reviewed against the underlying Latin lines
+    and cited Lactantius passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: note 304 within lines 12234-12333
+  quote_or_summary: The note cites authorities saying Vesta is what Greeks call Hestia,
+    that her force pertains to altars and hearths, and that Greek sacrifices begin
+    and end with Hestia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: notes 307-310 within lines 12234-12333
+  quote_or_summary: The notes discuss sacrificial feasts, the old custom of offering
+    to Vesta at sacrifices to other gods, and a portion of sacred food sent on a clean
+    plate to Vesta's temple.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: note 311 within lines 12234-12333
+  quote_or_summary: "“At the Vestalia, the mills stopped working, the mill-stones
+    were wreathed with garlands, and the asses were likewise crowned, and had bread
+    hung about their necks.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source; short quotation from supplied
+    passage.
+- id: ev:4
+  type: summary
+  locator: notes 315-317 within lines 12234-12333
+  quote_or_summary: The notes cite ancient methods of baking bread in hot ashes or
+    under a heated potsherd, mention later furnaces, and state that this explains
+    why millers and bakers kept the Vestalia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: note 345-346 and Lactantius citation within lines 12234-12333
+  quote_or_summary: The cited story says Priapus tried to assault sleeping Vesta;
+    an ass's untimely cry woke her and exposed him. The same note says Lampsacenes
+    sacrificed an ass to Priapus in revenge, while Romans crowned the ass with bread
+    in Vestal rites to honor preserved chastity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: note 345-346 within lines 12234-12333
+  quote_or_summary: The commentary calls the distich textually difficult, notes lack
+    of proof for ass entrails offered at Vesta's altar, and quotes doubt that Romans
+    sacrificed an ass to Priapus or offered ass entrails to Vesta.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Ritual details about Vestalia, Vesta/Hestia, bread, mills, and crowned asses
+    are explicit in the supplied notes. Motif assignment is more tentative because
+    the passage is commentary with external citations and flags textual uncertainty
+    about ass-sacrifice details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No claim is made that disputed ass entrails were actually offered to Vesta; that point is retained only as a caution from the commentary.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l12234-l12333
+  passage_sha256=0135060a379566020858b90318f1996e26b359024a8c7ea55a5a81525fab2fd0
+

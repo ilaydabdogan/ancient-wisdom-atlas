@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0441
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-time-governing-conflict
+  motif_id: sacred_time_governing_conflict
+  label: Sacred time governing conflict
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns calendrical or sacred temporal order regulating when
+    conflict is permitted or constrained.
+  cautions: May also touch sacred_law if the passage emphasizes legal command rather
+    than ritual time.
+  suggested_aliases:
+  - sacred time regulates conflict
+  - holy time governing warfare
+  - ritual time and conflict limits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-time-grounded-in-divine-rest
+  motif_id: sacred_time_grounded_in_divine_rest
+  label: Sacred time grounded in divine rest
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: Divine rest establishes a sacred temporal rhythm, closely matching sabbath
+    and sacred-time cycle patterns.
+  cautions: If the passage is specifically covenantal Sabbath law, covenant or sacred_law
+    may be secondary mappings.
+  suggested_aliases:
+  - sabbath grounded in divine rest
+  - divine rest sanctifies time
+  - holy time from divine rest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-time-increases-ritual-merit
+  motif_id: sacred_time_increases_ritual_merit
+  label: Sacred time increases ritual merit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif describes intensified ritual value during a holy period, a
+    clear sacred-time function.
+  cautions: If the emphasis is on reward, merit accounting, or judgment, divine_judgment
+    may be a related secondary group.
+  suggested_aliases:
+  - holy time increases merit
+  - ritual merit intensified by sacred time
+  - auspicious time for ritual reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-time-protected-from-manipulation
+  motif_id: sacred_time_protected_from_manipulation
+  label: sacred time protected from manipulation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protecting sacred time from manipulation frames calendrical order as
+    a binding sacred law or prohibition.
+  cautions: Could also be indexed under sacred_time if the passage emphasizes ritual
+    calendar structure more than legal protection.
+  suggested_aliases:
+  - prohibition of manipulating sacred time
+  - calendar manipulation forbidden
+  - sacred calendar protected by law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-time-suspends-violence
+  motif_id: sacred_time_suspends_violence
+  label: sacred time suspends violence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: high
+  rationale: A holy period temporarily suspending violence is a temporal ritual order
+    shaping social action.
+  cautions: May overlap with sacred_law or covenant if the source treats the suspension
+    chiefly as commandment or treaty obligation.
+  suggested_aliases:
+  - holy time suspends violence
+  - sacred truce
+  - ritual calendar restrains warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tower-built-from-accepted-stones
+  motif_id: sacred_tower_built_from_accepted_stones
+  label: sacred tower built from accepted stones
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif involves sacred construction, but accepted stones may symbolize
+    chosen persons or moral testing rather than craft itself.
+  cautions: Likely from an allegorical apocalyptic passage; review whether to map
+    to sacred_craft, divine_judgment, sacred_law, or exclude as passage-specific allegory.
+  suggested_aliases:
+  - accepted stones in sacred building
+  - chosen stones build sacred tower
+  - sacred construction from tested stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tower-under-construction-until-the-end
+  motif_id: sacred_tower_under_construction_until_the_end
+  label: Sacred tower under construction until the end
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: medium
+  rationale: A sacred tower in ongoing construction fits sacred building imagery,
+    but the eschatological timing may be more important than construction.
+  cautions: May be an over-specific allegorical detail about church/community formation
+    and end-time completion; verify passage function before broad indexing.
+  suggested_aliases:
+  - unfinished sacred tower
+  - eschatological sacred construction
+  - sacred tower completed at the end
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-transmission-of-a-heavenly-message-through-divine-cities-and-writing
+  motif_id: sacred_transmission_of_a_heavenly_message_through_divine_cities_and_writing
+  label: Sacred transmission of a heavenly message through divine cities and writing
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is transmission of heavenly or divine knowledge through
+    writing and sacred locations.
+  cautions: Composite label; if the emphasis is scribal textual transmission rather
+    than mythic revelation, consider _meta_textual or storytelling_as_power.
+  suggested_aliases:
+  - heavenly message transmitted in writing
+  - divine writing transmits sacred knowledge
+  - sacred written revelation through divine cities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree-spared-as-bird-refuge
+  motif_id: sacred_tree_spared_as_bird_refuge
+  label: sacred tree spared as bird refuge
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred tree is already handled under world-tree or sacred-center imagery,
+    with the bird refuge preserved as local detail.
+  cautions: If the tree is spared for ecological, etiological, or animal-helper reasons
+    without cosmic-center function, this may be too specific for motif queries.
+  suggested_aliases:
+  - sacred tree as bird refuge
+  - spared sacred tree
+  - bird refuge tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-trees-explained-by-divine-boat-construction
+  motif_id: sacred_trees_explained_by_divine_boat_construction
+  label: sacred trees explained by divine boat construction
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines sacred trees, etiological explanation, and divine
+    construction; the main motif depends on passage context.
+  cautions: Could map to sacred_craft if divine boat-building is central, axis_mundi
+    if tree sacrality is central, or cosmic_origin if it explains origins; single
+    occurrence is over-specific.
+  suggested_aliases:
+  - divine boat construction explains sacred trees
+  - sacred trees from divine boat building
+  - etiology of sacred trees through boat construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; preserve
+  local detail in notes rather than promoting new canonical motifs.
+- Sacred-time labels mostly fit the existing sacred_time group, with sacred_law as
+  a secondary consideration when the passage emphasizes prohibition or legal order.
+- Tower and tree-construction labels may be allegorical or etiological composites
+  and should receive human evidence review before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0441
+  input_sha256: d72c5dcd6630844e2e61c707e396faec59e5c912b3e1dcbd7916aa817deb10a7
+

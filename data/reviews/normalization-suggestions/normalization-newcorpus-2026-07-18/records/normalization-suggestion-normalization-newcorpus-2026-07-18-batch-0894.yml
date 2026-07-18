@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0894
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmic-time-conversion-between-world-and-light
+  motif_id: cosmic_time_conversion_between_world_and_light
+  label: Cosmic time conversion between World and Light
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a specialized cosmological or metaphysical time relation,
+    but its narrative function is unclear from the wording alone.
+  cautions: May be a Gnostic doctrinal abstraction rather than a reusable motif; source
+    context is needed before mapping to sacred_time, cosmic_origin, sacred_knowledge,
+    or duality.
+  suggested_aliases:
+  - cosmic time conversion
+  - world and light time relation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-waters-above-and-beneath-the-firmament
+  motif_id: cosmic_waters_above_and_beneath_the_firmament
+  label: cosmic waters above and beneath the firmament
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Waters arranged above and below the firmament fit creation-order cosmology
+    and the separation of primordial elements.
+  cautions: Do not map to flood_and_renewal unless destructive inundation and renewal
+    are present; sacred_waters may be a secondary symbolic facet.
+  suggested_aliases:
+  - waters above and below
+  - firmament waters
+  - primordial waters divided
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmogonic-origin-of-heaven-earth-and-deity
+  motif_id: cosmogonic_origin_of_heaven_earth_and_deity
+  label: Cosmogonic origin of heaven, earth, and deity
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif directly concerns the origin of cosmic domains and divine beings,
+    matching creation and cosmogony.
+  cautions: If the passage centers on a specific deity's birth rather than cosmic
+    ordering, sacred_birth or mother_goddess may be relevant as secondary mappings.
+  suggested_aliases:
+  - origin of heaven earth and gods
+  - cosmogonic emergence of deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmogony-or-creation-of-the-world-as-referenced-topic
+  motif_id: cosmogony_or_creation_of_the_world_as_referenced_topic
+  label: Cosmogony or creation of the world as referenced topic
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'as referenced topic' reads like a topical index or passage-summary
+    artifact rather than a distinct narrative motif.
+  cautions: If the underlying passage narrates creation rather than merely referencing
+    it, remap to cosmic_origin and preserve the specific creation mechanism.
+  suggested_aliases:
+  - creation as referenced topic
+  - cosmogony topic reference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmos-depicted-on-a-crafted-martial-object
+  motif_id: cosmos_depicted_on_a_crafted_martial_object
+  label: Cosmos depicted on a crafted martial object
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A crafted object bearing a cosmic image fits sacred craft, especially
+    when the artifact mediates world-order symbolism.
+  cautions: Could also relate to sacred_treasures if the object confers power or authority;
+    if merely a descriptive ekphrasis, it may be too episode-specific for broad motif
+    queries.
+  suggested_aliases:
+  - cosmic image on weapon
+  - world depicted on shield
+  - crafted martial cosmogram
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmos-fashioned-from-a-primordial-giant-s-body
+  motif_id: cosmos_fashioned_from_a_primordial_giant_s_body
+  label: Cosmos fashioned from a primordial giant's body
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: narrower_than
+  confidence: high
+  rationale: The cosmos made from a primordial giant's body is a clear instance of
+    world formation through a primordial body or dismemberment.
+  cautions: Map to cosmic_origin only as a broader parent; the distinctive body-to-world
+    transformation should be preserved.
+  suggested_aliases:
+  - world made from giant body
+  - cosmos from primordial body
+  - primordial giant dismemberment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coveted-hoard-hidden-in-a-river
+  motif_id: coveted_hoard_hidden_in_a_river
+  label: Coveted hoard hidden in a river
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hidden coveted hoard is best treated as a treasure or power-object
+    motif; the river is likely the concealment setting.
+  cautions: If the river itself functions as a boundary, underworld passage, or curse-bearing
+    medium, sacred_waters or curse_blessing_speech may be relevant; the label is somewhat
+    episode-specific.
+  suggested_aliases:
+  - hidden river hoard
+  - treasure concealed in river
+  - coveted hoard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-account
+  motif_id: creation_account
+  label: creation account
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: high
+  rationale: The label is a broad alias for a narrative or doctrinal account of cosmic
+    creation.
+  cautions: Preserve local specifics, such as creation by speech, mound, waters, egg,
+    or divine generation, if passage evidence provides them.
+  suggested_aliases:
+  - creation narrative
+  - cosmogony account
+  - world creation account
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-and-differentiation-of-nations-from-clay
+  motif_id: creation_and_differentiation_of_nations_from_clay
+  label: Creation and differentiation of nations from clay
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creation of peoples from clay is an anthropogonic origin pattern, and
+    differentiation of nations fits origin of peoples within the creation complex.
+  cautions: Could warrant later grouping with human creation or ancestral origins
+    if many labels recur; do not collapse the clay-material detail if it is important
+    in the source.
+  suggested_aliases:
+  - humans or nations created from clay
+  - peoples differentiated from clay
+  - clay origin of nations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-and-downfall-of-humanity
+  motif_id: creation_and_downfall_of_humanity
+  label: Creation and downfall of humanity
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label combines human creation with subsequent decline or downfall,
+    aligning with world-age decay and loss of primordial order.
+  cautions: If the passage emphasizes a single creation episode, cosmic_origin may
+    be primary; if downfall is punishment for transgression, divine_judgment may be
+    secondary.
+  suggested_aliases:
+  - human creation and fall
+  - downfall after creation
+  - created humanity declines
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and very broad; suggested placements
+  should preserve passage-specific creation mechanisms where available.
+- Avoid treating all water imagery as flood_and_renewal; only destructive catastrophe
+  followed by renewal should map there.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should verify source context for
+    broad or doctrinal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0894
+  input_sha256: ec7d4158776f1f04e75de2b4434627ef559ccd59167adce76ad047d4885e9215
+

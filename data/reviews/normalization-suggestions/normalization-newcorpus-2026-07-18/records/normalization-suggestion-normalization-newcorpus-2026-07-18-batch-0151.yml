@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0151
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.watching-and-mourning-over-the-beautiful-dead
+  motif_id: watching_and_mourning_over_the_beautiful_dead
+  label: watching and mourning over the beautiful dead
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on mourning and vigil over the dead, fitting the lament/mourning
+    group.
+  cautions: The beauty of the dead may be an episode detail; if the passage emphasizes
+    corpse display or funeral rite, heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - mourning_over_the_dead
+  - vigil_over_the_beautiful_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-as-medium-of-recognition-and-death
+  motif_id: water_as_medium_of_recognition_and_death
+  label: water as medium of recognition and death
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Water functions as a transformative medium, but the label also combines
+    recognition and death.
+  cautions: May belong to sacred_waters, recognition_tokens_hidden_identity, death_and_transformation,
+    or external_soul depending on the passage; do not map as flood unless destruction/renewal
+    is present.
+  suggested_aliases:
+  - water_recognition_death
+  - recognition_through_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-found-in-a-deadly-desert-through-an-animal-sign
+  motif_id: water_found_in_a_deadly_desert_through_an_animal_sign
+  label: water found in a deadly desert through an animal sign
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal sign leading to life-saving water fits guidance or miraculous
+    provision in crisis.
+  cautions: Could be a hero_journey ordeal if the focus is desert trial; animal-sign
+    detail may be too specific for broad querying.
+  suggested_aliases:
+  - animal_sign_reveals_water
+  - life_saving_water_by_animal_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-source-obtained-through-an-ancestral-water-deity
+  motif_id: water_source_obtained_through_an_ancestral_water_deity
+  label: Water source obtained through an ancestral water deity
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A deity providing or revealing a water source suggests divine intervention
+    or sacred-water agency.
+  cautions: Ancestral deity status may make ancestor_rites, sacred_waters, divine_intervention,
+    or local tutelary-spirit logic relevant; culturally specific source evidence should
+    be reviewed.
+  suggested_aliases:
+  - ancestral_water_deity_provides_water
+  - water_source_from_ancestor_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watery-tomb-and-denial-of-burial-rites
+  motif_id: watery_tomb_and_denial_of_burial_rites
+  label: watery tomb and denial of burial rites
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing group already includes denial of burial and elemental engulfment
+    as funerary-order motifs.
+  cautions: Water imagery should be preserved as evidence detail; only map to sacred_waters
+    if water itself is ritually or cosmologically central.
+  suggested_aliases:
+  - denial_of_burial_by_water
+  - watery_tomb_without_funeral_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-as-false-security-against-death
+  motif_id: wealth_as_false_security_against_death
+  label: wealth as false security against death
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  rationale: 'The motif expresses moral reckoning: wealth cannot avert death or sacred
+    accountability.'
+  cautions: May be an ethical teaching rather than a narrative motif; if it is only
+    doctrinal commentary, consider excluding from pattern queries or mapping to sacred_knowledge
+    as teaching.
+  suggested_aliases:
+  - wealth_cannot_avert_death
+  - false_security_of_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-traverses-layered-cosmos-and-returns
+  motif_id: weapon_traverses_layered_cosmos_and_returns
+  label: weapon traverses layered cosmos and returns
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon moving through cosmic layers and returning functions as a sacred
+    power object with supernatural agency.
+  cautions: Could also relate to axis_mundi or divine_warrior if the passage emphasizes
+    cosmic structure or sacred combat more than the object.
+  suggested_aliases:
+  - cosmic_traversing_weapon
+  - returning_cosmic_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-concealed-in-a-tree-and-disguised-as-corpses
+  motif_id: weapons_concealed_in_a_tree_and_disguised_as_corpses
+  label: weapons concealed in a tree and disguised as corpses
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Concealed weapons may be power objects, but the tree and corpse disguise
+    create a composite scene.
+  cautions: Likely over-specific; review whether the key function is hidden weapons,
+    sacred tree, disguise, funerary taboo, or episode-specific stratagem.
+  suggested_aliases:
+  - concealed_weapons_in_tree
+  - weapons_disguised_as_corpses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-pass-through-underworld-people-without-effect
+  motif_id: weapons_pass_through_underworld_people_without_effect
+  label: Weapons pass through Underworld people without effect
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes an encounter with underworld beings during otherworld
+    or underworld contact.
+  cautions: The weapon ineffectiveness may be an episode detail; if it marks the nature
+    of spirits rather than a journey, afterlife_passage or otherworld may be better.
+  suggested_aliases:
+  - ineffective_weapons_against_underworld_people
+  - weapons_fail_in_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whirlwind-as-medium-for-dream-spirit-pursuit-or-capture
+  motif_id: whirlwind_as_medium_for_dream_spirit_pursuit_or_capture
+  label: Whirlwind as medium for dream-spirit pursuit or capture
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Dream-spirit pursuit or capture points to altered perception and spirit
+    agency.
+  cautions: Culturally sensitive and highly specific; may involve soul loss, external_soul,
+    divine_intervention, or local spirit beliefs rather than a generic dream motif.
+  suggested_aliases:
+  - dream_spirit_pursuit_by_whirlwind
+  - whirlwind_spirit_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; preserve local evidence details
+  rather than promoting them to canonical motifs.
+- Avoid treating all water imagery as flood or all underworld contact as resurrection;
+  suggested placements are functional, not transmission claims.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for batch 0151; human review recommended
+    for culturally specific spirit, ancestral deity, and composite object-scene labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0151
+  input_sha256: 25e6406da6888ed2ee34402f6524a4bf6177a440e5b97f6c85c8baa801605ea4
+

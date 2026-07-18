@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1064
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gifted-weapon-threatened-against-its-giver
+  motif_id: gifted_weapon_threatened_against_its_giver
+  label: Gifted weapon threatened against its giver
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: A weapon turned against its giver may mark violated trust or hostile
+    reversal of a gift relationship.
+  cautions: Single occurrence and highly episode-specific; could instead be combat
+    irony, sacred treasure misuse, or ordinary plot detail.
+  suggested_aliases:
+  - weapon turned against giver
+  - gift reversal in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gold-distribution-before-destructive-revenge
+  motif_id: gold_distribution_before_destructive_revenge
+  label: gold distribution before destructive revenge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The label frames wealth distribution as a prelude to retaliatory violence
+    in a heroic conflict setting.
+  cautions: May be too specific to one saga episode; if the gold gift is funerary,
+    oath-bound, or treasure-cursed, other groups may fit better.
+  suggested_aliases:
+  - treasure distribution before revenge
+  - wealth gift before vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.golden-chain-test-of-supreme-power
+  motif_id: golden_chain_test_of_supreme_power
+  label: Golden chain test of supreme power
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: medium
+  rationale: A test demonstrating supreme power fits cosmic sovereignty and the authority
+    of a highest ruler.
+  cautions: The golden chain object may be an evidence detail; avoid mapping to sacred_treasures
+    unless the chain itself confers power beyond the test.
+  suggested_aliases:
+  - chain test of sovereignty
+  - test of supreme divine power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.great-war-as-centre-of-heroic-legend-cycle
+  motif_id: great_war_as_centre_of_heroic_legend_cycle
+  label: Great war as centre of heroic legend cycle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes the organizing role of a war in a legend cycle rather
+    than a symbolic or narrative motif within the story.
+  cautions: If passages describe the war as ritually or cosmically decisive, preserve
+    those details under sacred_combat or divine_warrior instead.
+  suggested_aliases:
+  - central war of heroic cycle
+  - heroic legend cycle centered on war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.greedy-or-belated-imitation-of-another-s-reward
+  motif_id: greedy_or_belated_imitation_of_another_s_reward
+  label: greedy or belated imitation of another's reward
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes envy, failed imitation, and greed-reversal
+    patterns closely matching this label.
+  cautions: If the passage centers on divine punishment rather than failed imitation,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - greedy imitation of reward
+  - belated imitation fails
+  - envy-driven imitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-for-fallen-companion-redirected-into-revenge
+  motif_id: grief_for_fallen_companion_redirected_into_revenge
+  label: grief for fallen companion redirected into revenge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core affect is mourning for a fallen companion, with revenge as the
+    resulting action.
+  cautions: If the revenge sequence is the main recurring pattern, sacred_combat or
+    divine_warrior may be useful secondary groups.
+  suggested_aliases:
+  - mourning redirected into vengeance
+  - revenge for fallen companion
+  - grief-driven revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grieving-envoy-sent-between-enemy-camps
+  motif_id: grieving_envoy_sent_between_enemy_camps
+  label: grieving envoy sent between enemy camps
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: low
+  rationale: The grief element suggests lament, but the envoy-between-camps scene
+    is very contextual.
+  cautions: Could be diplomacy, supplication, truce negotiation, mourning, or narrative
+    transition; source context is needed before indexing.
+  suggested_aliases:
+  - mourning envoy between camps
+  - grieving messenger in war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grieving-hero-speaks-to-companion
+  motif_id: grieving_hero_speaks_to_companion
+  label: grieving hero speaks to companion
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hero addressing a companion in grief is a lament or mourning speech
+    pattern.
+  cautions: If the companion is dead and answers, descent, afterlife passage, or restless
+    dead may also apply; label alone only supports lament.
+  suggested_aliases:
+  - heroic lament to companion
+  - grieving address to companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-lady-in-a-garden-during-war
+  motif_id: guarded_lady_in_a_garden_during_war
+  label: guarded lady in a garden during war
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: A guarded woman in wartime may belong to love, captivity, or recovery-of-beloved
+    patterns, but the label lacks narrative function.
+  cautions: Could be a passage-specific scene, gendered captivity motif, guarded threshold,
+    or abducted beloved; culturally sensitive review recommended.
+  suggested_aliases:
+  - guarded beloved in garden
+  - captive lady in garden during war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-or-barred-threshold-during-battle
+  motif_id: guarded_or_barred_threshold_during_battle
+  label: guarded or barred threshold during battle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guarded or barred threshold in battle foregrounds blocked passage across
+    a charged boundary.
+  cautions: If the focus is tactical defense rather than liminal passage, sacred_combat
+    may be a better parent; confirm whether a guardian role is present.
+  suggested_aliases:
+  - barred battle threshold
+  - guarded threshold in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence heroic-war labels and may be episode-level
+  evidence rather than durable motif groups.
+- Where revenge or battle is present, avoid automatically mapping to sacred_combat
+  unless the passage frames combat as ritually, morally, or cosmically significant.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check source passages for
+    episode-specific labels and secondary mappings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1064
+  input_sha256: e698a2036e65c2e39ef62527209b41211503045616cd6721946da5441ae80377
+

@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.native-american-aw-aw-tam-indian-nights-lloyd-gutenberg-l1224-l1233
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+passage_locator:
+  label: THE STORY OF THE CREATION / JUHWERTA MAHKAI'S SONG OF CREATION / NOTES ON
+    STORY OF CREATION / THE STORY OF THE FLOOD; lines 1224-1233
+  start: '1224'
+  end: '1233'
+  translation: 'Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas
+    of Arizona'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: People play together and kick one another in sport. The Apaches become
+    angry, say they will leave for the mountains, live on what they can find, and
+    remain happy through good dreams. Other people settle on the Gila and toward the
+    Rio Colorado; builders of adobe-and-stone houses live in the Gila valley between
+    the mountains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people play together and kick each other in sport.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Maricopas practice this kicking sport “to this day.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Apaches become angry and announce that they will leave for the mountains.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Apaches say they will eat what they can get and dream good dreams.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Some people reside on the Gila, and some go west to the Rio Colorado.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Some people build vahahkkees, described as houses made out of adobe and stones.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The adobe-and-stone house builders live in the Gila valley between mountains
+    said to be present now.
+  category: setting
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Apaches
+  description: A group that becomes angry during play and says it will leave for the
+    mountains.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maricopas
+  description: A group cited as practicing the kicking sport in the narrator’s present.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Some of the people
+  description: People who settle on the Gila or go west to the Rio Colorado.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Builders of vahahkkees
+  description: People who build adobe-and-stone houses and live in the Gila valley.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: departing mountain group
+  assigned_to:
+  - fig:1
+  basis: They announce they will leave the others and go into the mountains.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: present-day sport exemplar
+  assigned_to:
+  - fig:2
+  basis: Their sport is used as an explanatory comparison for the kicking play.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: river-region settlers
+  assigned_to:
+  - fig:3
+  basis: They take residence on the Gila or move west to the Rio Colorado.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: house-building valley dwellers
+  assigned_to:
+  - fig:4
+  basis: They build vahahkkees and live in the valley of the Gila.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: mountains
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: rivers or river regions
+  literal_form: the Gila; the Rio Colorado
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: adobe-and-stone houses
+  literal_form: vahahkkees, or houses out of adobe and stones
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: good dreams
+  literal_form: good dreams
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Play, anger, and Apache departure
+  summary: During shared play involving kicking, the Apaches become angry and say
+    they will leave for the mountains, live on available food, and be happy through
+    good dreams.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Settlement by river regions and in the Gila valley
+  summary: Some people settle on the Gila, some go west to the Rio Colorado, and builders
+    of adobe-and-stone vahahkkees live in the Gila valley between the mountains.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Departure of an angered group to the mountains
+  taxonomy_refs:
+  - departure
+  basis: The Apaches become angry and declare they will leave the others and go into
+    the mountains.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a brief departure statement and does not describe
+    a full journey or return.
+- id: motif:2
+  label: Dispersion and settlement of peoples in named regions
+  taxonomy_refs: []
+  basis: Different groups take up residence on the Gila, move west to the Rio Colorado,
+    or live in the Gila valley as house builders.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No supplied taxonomy family directly matches settlement dispersion; label
+    is descriptive only.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself connects the kicking play to a continuing Maricopa sport
+    practice.
+  claim_level: same_function
+  target: Maricopa kicking sport practiced “to this day”
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal ethnographic-style continuity claim within the
+    passage, not evidence for historical contact or a broader comparative motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1224-1228
+  quote_or_summary: People play together, kick one another “as the Maricopas do in
+    sport to this day”; the Apaches become angry and say they will leave for the mountains
+    and dream good dreams.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; short excerpt summarized with minimal quotation.
+- id: ev:2
+  type: summary
+  locator: lines 1230-1233
+  quote_or_summary: Some people settle on the Gila; some go west to the Rio Colorado;
+    builders of vahahkkees, adobe-and-stone houses, live in the Gila valley between
+    the mountains.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labeling is limited because
+    the passage is brief and mostly describes departure and settlement rather than
+    a developed mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references limited to supplied available motif families and symbols.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-aw-aw-tam-indian-nights-lloyd-gutenberg__l1224-l1233
+  passage_sha256=e4eb1db2e89a3a586e36c60a81bee1ae178583b9b6fad4112798d31884838442
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0840
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-defenders-described-through-animal-and-tree-similes
+  motif_id: heroic_defenders_described_through_animal_and_tree_similes
+  label: heroic defenders described through animal and tree similes
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes poetic similes used to characterize defenders rather
+    than a narrative motif involving animals or sacred trees.
+  cautions: If the passage gives animals or trees active symbolic or supernatural
+    roles, review under shapeshifter, sacred_combat, or axis_mundi instead.
+  suggested_aliases:
+  - heroic animal and tree similes
+  - animal and tree similes for warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-destruction-of-destructive-beasts
+  motif_id: heroic_destruction_of_destructive_beasts
+  label: heroic destruction of destructive beasts
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero destroying dangerous beasts fits sacred combat where a warrior
+    defeats threatening beings and restores order.
+  cautions: If the beast is not cosmic or morally destructive, this may be ordinary
+    heroic combat; consider sacred_combat if the battle context is ritual or martial
+    rather than divine.
+  suggested_aliases:
+  - beast-slaying hero
+  - heroic beast destruction
+  - destructive beast slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-identification-through-standards-and-colored-horses
+  motif_id: heroic_identification_through_standards_and_colored_horses
+  label: heroic identification through standards and colored horses
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Standards and distinctive horses function as visible tokens identifying
+    heroes in battle or procession.
+  cautions: Horse color may be passage-specific evidence; if the emphasis is martial
+    display rather than identity proof, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - hero identified by standard
+  - hero identified by colored horse
+  - battlefield identity tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-mastery-of-a-wild-beast
+  motif_id: heroic_mastery_of_a_wild_beast
+  label: heroic mastery of a wild beast
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Subduing a wild beast is a heroic combat or dominance act over a dangerous
+    nonhuman opponent.
+  cautions: Could belong to initiation if beast mastery marks a rite of passage, or
+    to animal-helper patterns if the beast becomes an ally.
+  suggested_aliases:
+  - wild beast subdued by hero
+  - hero masters beast
+  - beast mastery ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-mastery-of-sea-and-dangerous-animals
+  motif_id: heroic_mastery_of_sea_and_dangerous_animals
+  label: heroic mastery of sea and dangerous animals
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Mastery over dangerous animals and sea hazards can function as heroic
+    domination of chaotic or threatening forces.
+  cautions: The sea element may point to sacred_waters or hero_journey if the passage
+    emphasizes water crossing, navigation, or ordeal rather than combat.
+  suggested_aliases:
+  - hero masters sea animals
+  - mastery of dangerous sea creatures
+  - sea beast mastery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-mastery-over-dangerous-animals-by-gaze-or-presence
+  motif_id: heroic_mastery_over_dangerous_animals_by_gaze_or_presence
+  label: heroic mastery over dangerous animals by gaze or presence
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: The heroic mastery fits warrior dominance, but the specific mechanism
+    of gaze or presence may indicate charisma, taboo power, or supernatural authority.
+  cautions: Needs passage evidence to distinguish sacred combat from theophanic presence,
+    magical compulsion, animal taming, or a poetic exaggeration.
+  suggested_aliases:
+  - dangerous animals subdued by gaze
+  - animal mastery by heroic presence
+  - heroic gaze subdues beasts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-animal-exposed-by-small-visible-sign
+  motif_id: hidden_animal_exposed_by_small_visible_sign
+  label: Hidden animal exposed by small visible sign
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A small visible sign reveals a hidden identity or concealed being, matching
+    recognition by token or visible proof.
+  cautions: If the animal is transformed or disguised, shapeshifter may be a secondary
+    mapping; if merely a hunting detail, it may be too specific.
+  suggested_aliases:
+  - hidden being exposed by visible sign
+  - concealed animal revealed by sign
+  - small sign reveals hidden animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-inland-people-discovered-by-dogs
+  motif_id: hidden_inland_people_discovered_by_dogs
+  label: hidden inland people discovered by dogs
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe animal-aided discovery, ethnographic geography,
+    or a source-specific encounter rather than a stable motif.
+  cautions: Culturally contextual label; avoid reducing a people to an animal-discovery
+    motif without source review. Could fit animal_helpers or otherworld only if supernatural
+    guidance or hidden-realm structure is present.
+  suggested_aliases:
+  - dogs discover hidden people
+  - animal-aided discovery of hidden people
+  - hidden community found by dogs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-instrument-summons-supernatural-horses
+  motif_id: hidden_instrument_summons_supernatural_horses
+  label: Hidden instrument summons supernatural horses
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden instrument with the power to summon supernatural horses functions
+    as a power object.
+  cautions: If the sound itself is central, enchanting_music may be a better or secondary
+    group; if the horses guide or rescue, divine_intervention may also apply.
+  suggested_aliases:
+  - magical instrument summons horses
+  - summoning instrument
+  - supernatural horses summoned by hidden object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-or-covered-bundle-revealing-abundance-and-animals
+  motif_id: hidden_or_covered_bundle_revealing_abundance_and_animals
+  label: Hidden or covered bundle revealing abundance and animals
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A covered bundle that reveals abundance and animals functions as a container
+    or enclosed object holding transformative provision.
+  cautions: Review Hopi context carefully; if the key is inexhaustible provision,
+    divine_intervention may be secondary, while ceremonial bundle specificity should
+    be preserved as local evidence.
+  suggested_aliases:
+  - covered bundle reveals abundance
+  - hidden bundle of animals and plenty
+  - sacred bundle of provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic animal-combat or animal-discovery
+  details; keep placements provisional until passage evidence confirms narrative function.
+- Where animal imagery is only simile or descriptive rhetoric, exclude from motif
+  pattern queries rather than mapping to animal or transformation groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended especially for culturally
+    contextual Inuit and Hopi labels and for poetic-simile exclusions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0840
+  input_sha256: 600b292fc9b03050b9ccb4a869ba1fdc729be538c5db9a00e01cbbd134398668
+

@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1641
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wilderness-transformed-into-substitute-homeland
+  motif_id: wilderness_transformed_into_substitute_homeland
+  label: wilderness transformed into substitute homeland
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A wilderness becoming a substitute homeland suggests exile, wandering,
+    and reconstitution of home during a journey.
+  cautions: Could instead be sacred geography, royal exile, or passage-specific setting
+    detail; source context is needed.
+  suggested_aliases:
+  - exile_wilderness_as_home
+  - substitute_homeland_in_exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wine-as-sacramental-mediator
+  motif_id: wine_as_sacramental_mediator
+  label: Wine as sacramental mediator
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: high
+  rationale: Wine functioning sacramentally fits sacred drink or intoxicant as a mediator
+    of divine, ritual, or mystical experience.
+  cautions: If the passage emphasizes offering rather than substance, sacrifice or
+    sacred_exchange may be secondary.
+  suggested_aliases:
+  - sacramental_wine
+  - wine_as_sacred_substance
+  - wine_as_divine_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.winter-den-killing-before-awakening
+  motif_id: winter_den_killing_before_awakening
+  label: winter den killing before awakening
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve seasonal dormancy, animal denning, killing, and
+    awakening, but the narrative function is unclear.
+  cautions: Could be hunting taboo, seasonal cycle, animal transformation, initiation,
+    or an over-specific episode; review Indigenous source context carefully.
+  suggested_aliases:
+  - killing_in_winter_den_before_awakening
+  - winter_den_awakening_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wise-youth-vindicated-before-authorities
+  motif_id: wise_youth_vindicated_before_authorities
+  label: Wise youth vindicated before authorities
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A youth whose wisdom is proven before authorities fits wisdom as socially
+    tested or publicly vindicated knowledge.
+  cautions: If the key pattern is child destiny, map secondarily to miraculous_child;
+    if it is legal acquittal, divine_judgment may be relevant.
+  suggested_aliases:
+  - wise_child_vindicated
+  - youthful_wisdom_before_authority
+  - wisdom_vindicated_before_rulers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-filling-magical-container
+  motif_id: wish_filling_magical_container
+  label: wish-filling magical container
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A magical container that grants or fills wishes is a container holding
+    abundance or transformative power.
+  cautions: If the object primarily confers general power or authority rather than
+    containing abundance, sacred_treasures may be secondary.
+  suggested_aliases:
+  - wish_granting_container
+  - magical_abundance_container
+  - self_filling_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-fulfilling-cow-of-abundance
+  motif_id: wish_fulfilling_cow_of_abundance
+  label: wish-fulfilling cow of abundance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: child
+  confidence: high
+  rationale: The group already includes abundance-giving cow and animal source of
+    abundance aliases.
+  cautions: If the cow is treated as a sacred treasure, divine animal, or cosmic source,
+    additional review mappings may be useful.
+  suggested_aliases:
+  - abundance_giving_cow
+  - wish_granting_cow
+  - animal_source_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-fulfilling-feast-of-abundance
+  motif_id: wish_fulfilling_feast_of_abundance
+  label: Wish-fulfilling feast of abundance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A miraculous feast of abundance fits the existing miraculous or inexhaustible
+    provision complex.
+  cautions: If the feast is ritual reciprocity or hospitality rather than miraculous
+    provision, sacred_exchange or hospitality_test_stranger_guest may fit better.
+  suggested_aliases:
+  - miraculous_feast_of_abundance
+  - inexhaustible_feast
+  - wish_fulfilling_food_supply
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-fulfilling-food-and-objects-in-paradise
+  motif_id: wish_fulfilling_food_and_objects_in_paradise
+  label: Wish-fulfilling food and objects in paradise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: Wish-fulfilling provisions in paradise describe abundance within a blessed
+    otherworldly realm.
+  cautions: If paradise is specifically a postmortem destination in a mapped soul
+    journey, afterlife_passage may be an important secondary group.
+  suggested_aliases:
+  - paradisal_abundance
+  - wish_fulfilling_paradise_provisions
+  - abundant_food_and_objects_in_paradise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-fulfillment-by-spoken-command
+  motif_id: wish_fulfillment_by_spoken_command
+  label: wish-fulfillment by spoken command
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on spoken words that directly effect a desired change,
+    matching performative sacred speech.
+  cautions: If the power comes from a magical object or helper rather than speech
+    itself, sacred_treasures or divine_intervention may be better.
+  suggested_aliases:
+  - performative_wish_command
+  - spoken_wish_fulfillment
+  - wish_granting_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-granting-object-with-limits-and-procedures
+  motif_id: wish_granting_object_with_limits_and_procedures
+  label: Wish-granting object with limits and procedures
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A power object granting wishes under rules fits sacred or magical objects
+    that confer special ability on the bearer.
+  cautions: If the object is specifically a vessel or container, sacred_vessel should
+    be preferred; preserve limits and procedures as evidence detail.
+  suggested_aliases:
+  - wish_granting_object
+  - limited_wish_object
+  - procedural_wish_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Wish-granting abundance labels may need a future cross-cutting abundance/provision
+  facet, but current groups can hold these items provisionally.
+- Several labels have single occurrences; preserve granular wording as evidence notes
+  rather than promoting canonical taxonomy motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Inuit winter-den item and paradise/afterlife distinction.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1641
+  input_sha256: 2f776527b03994d0e8f2a1ca1ab26d58abcd356ff9eaf3293e461f2658f66535
+

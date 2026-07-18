@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1468
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.loyal-refusal-to-surrender-a-companion
+  motif_id: loyal_refusal_to_surrender_a_companion
+  label: loyal refusal to surrender a companion
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on loyalty under threat, but current groups lack a
+    clear loyalty/companionship motif.
+  cautions: Could fit sacred_combat, covenant, sacrifice, or heroic ethics depending
+    on whether refusal occurs in battle, oath, or self-sacrifice context.
+  suggested_aliases:
+  - companion loyalty under threat
+  - refusal to betray companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_combat
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-retainer-aids-deserted-lord
+  motif_id: loyal_retainer_aids_deserted_lord
+  label: loyal retainer aids deserted lord
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A retainer preserving service to an abandoned lord supports legitimate
+    hierarchy and lordship under crisis.
+  cautions: If the passage emphasizes personal loyalty rather than kingship or rule,
+    covenant or heroic-combat ethics may be better.
+  suggested_aliases:
+  - faithful retainer
+  - retainer loyalty to deserted lord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-spouse-choosing-captivity
+  motif_id: loyal_spouse_choosing_captivity
+  label: loyal spouse choosing captivity
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse willingly sharing captivity foregrounds faithful love tested
+    by suffering or confinement.
+  cautions: Could instead be a social-ethical loyalty motif if love is not the primary
+    narrative function.
+  suggested_aliases:
+  - spousal fidelity in captivity
+  - loyal spouse shares captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lucky-egg-as-deliverance-object
+  motif_id: lucky_egg_as_deliverance_object
+  label: lucky egg as deliverance object
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The egg functions as a power object that brings rescue or deliverance.
+  cautions: Do not map to cosmic_egg unless the egg creates or contains a world, deity,
+    or cosmic origin.
+  suggested_aliases:
+  - magic egg deliverance object
+  - egg as rescue token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-feather-as-supernatural-token
+  motif_id: luminous_feather_as_supernatural_token
+  label: luminous feather as supernatural token
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A luminous feather used as a supernatural token fits sacred or magical
+    power objects.
+  cautions: If the feather proves identity, secondary relation to recognition_tokens_hidden_identity
+    may be useful; if it guides, divine_intervention may be relevant.
+  suggested_aliases:
+  - supernatural feather token
+  - luminous power object
+  - magic feather
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-guide-in-a-pathless-night-wood
+  motif_id: luminous_guide_in_a_pathless_night_wood
+  label: luminous guide in a pathless night wood
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural luminous guide directs a traveler through danger or disorientation.
+  cautions: If the wood is an enchanted realm or threshold, otherworld or hero_journey
+    may be secondary placements.
+  suggested_aliases:
+  - supernatural light guide
+  - luminous guide in darkness
+  - night-wood guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luxury-retinue-as-proof-of-noble-status
+  motif_id: luxury_retinue_as_proof_of_noble_status
+  label: Luxury retinue as proof of noble status
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A retinue displaying noble rank functions as social proof of legitimate
+    elite or royal status.
+  cautions: May be a passage-specific status detail rather than a symbolic motif if
+    no legitimacy conflict or recognition scene is present.
+  suggested_aliases:
+  - retinue proves noble status
+  - status displayed by retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lying-tale-of-impossible-wonders
+  motif_id: lying_tale_of_impossible_wonders
+  label: lying tale of impossible wonders
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fabricated tale of wonders centers on narrative performance and the
+    social effects of storytelling.
+  cautions: If the lie is mainly deception rather than narrative power, trickster
+    may be a better placement.
+  suggested_aliases:
+  - false tale of wonders
+  - lying wonder-tale
+  - impossible wonder story
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.macabre-game-with-human-remains
+  motif_id: macabre_game_with_human_remains
+  label: Macabre game with human remains
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is vivid but context-dependent: it may mark desecration, heroic
+    boasting, ritualized violence, or horror imagery.'
+  cautions: Potentially over-specific; review source evidence before mapping to sacred_combat,
+    heroic_funeral_rites, divine_judgment, or exclusion.
+  suggested_aliases:
+  - game with human remains
+  - corpse-game motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - heroic_funeral_rites
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-abundance-producing-artifact
+  motif_id: magic_abundance_producing_artifact
+  label: Magic abundance-producing artifact
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The normalization already treats forged or wondrous abundance objects
+    under sacred craft.
+  cautions: If the artifact is primarily a treasure conferring power rather than a
+    crafted abundance source, sacred_treasures may be secondary.
+  suggested_aliases:
+  - forged abundance object
+  - wondrous abundance artifact
+  - magic object producing plenty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence Germanic loyalty/status labels may reflect heroic-social
+  ethics not yet represented by a dedicated group; human review should decide whether
+  to consolidate them or treat as contextual evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Initial normalization placement suggestions generated for batch 1468.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1468
+  input_sha256: 9013ed978455852553259f930aa1fff05671ca3676e3451a97a040aab5cd9a29
+

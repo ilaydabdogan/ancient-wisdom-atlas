@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l237-l256
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER XII / CHAPTER XIII / CHAPTER XIV / CHAPTER XV; lines 237-256
+  start: '237'
+  end: '256'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents segment listing topics for chapters
+    on the medicine-man or shaman, including healing, breath, hereditary office, training,
+    tigers, and magic-working; and on dances, including invitations, assemblies, dance
+    steps, grievance songs, riddles, intoxication, and a cannibal dance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chapter XIV is organized around the medicine-man, identified in the heading
+    as a shaman.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Chapter XIV topics include remedies, cures, powers and duties, breath,
+    ceremonial healing, hereditary office, training, tigers, magic-working, bad magic,
+    influence, methods of magic-working, and magical cures.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chapter XV is organized around Indian dances and associated songs, preparations,
+    invitations, assemblies, dance steps, reasons for dances, special dances, dance
+    staves, and arrangements of dancers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Chapter XV topics include a method of airing a grievance, a plaintiff’s
+    song of complaint, a tribal black list, a manioc-gathering dance and song, a Muenane
+    Riddle Dance, riddles and mimicry, dance intoxication, a favourite dance, and
+    a cannibal dance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: medicine-man / shaman
+  description: A figure named in the chapter heading in relation to remedies, cures,
+    breath, ceremonial healing, hereditary office, training, tigers, magic-working,
+    bad magic, influence, and magical cures.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chief
+  description: A figure named in connection with an invitation for dances.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: dancers
+  description: Participants named in relation to dance steps and arrangement of dancers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: plaintiff
+  description: A figure named in relation to a song of complaint.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: tigers
+  description: Animals named in the heading phrase about the medicine-man and tigers.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: healer
+  assigned_to:
+  - fig:1
+  basis: The heading links the medicine-man with remedies, cures, ceremonial healing,
+    and magical cures.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: magic-worker
+  assigned_to:
+  - fig:1
+  basis: The heading lists magic-working, bad magic, method of magic-working, and
+    magical cures among the medicine-man topics.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dance inviter
+  assigned_to:
+  - fig:2
+  basis: The heading lists the Chief’s invitation among dance topics.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: dance participants
+  assigned_to:
+  - fig:3
+  basis: The heading lists dance step and arrangement of dancers.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: complainant singer
+  assigned_to:
+  - fig:4
+  basis: The heading lists a plaintiff’s song of complaint.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: breath
+  literal_form: breath
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dance staves
+  literal_form: dance staves
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: manioc
+  literal_form: manioc
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Medicine-man topics
+  summary: The contents entry for Chapter XIV lists the medicine-man or shaman and
+    related topics of healing, breath, office, training, tigers, and magic-working.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dance topics
+  summary: The contents entry for Chapter XV lists Indian dances, songs, preparations,
+    invitations, assembled numbers, dance steps, grievance procedures, riddles, intoxication,
+    and a cannibal dance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Shamanic healing and magic-working
+  taxonomy_refs: []
+  basis: The chapter heading explicitly links the medicine-man or shaman with remedies,
+    cures, ceremonial healing, breath, magic-working, bad magic, and magical cures.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is inferred from a contents heading only; the passage does not narrate
+    a specific healing episode.
+- id: motif:2
+  label: Communal dance with songs and ritual preparations
+  taxonomy_refs: []
+  basis: The chapter heading lists dances, songs, elaborate preparations, invitation,
+    assembled numbers, dance steps, special dances, dance staves, and arrangement
+    of dancers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a topical heading rather than a narrated ritual scene.
+- id: motif:3
+  label: Complaint or grievance expressed through song
+  taxonomy_refs: []
+  basis: The chapter heading lists a method of airing a grievance and a plaintiff’s
+    song of complaint.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only the topic labels, not the content or performance
+    context of the complaint song.
+- id: motif:4
+  label: Riddle dance and mimicry
+  taxonomy_refs: []
+  basis: The chapter heading lists the Muenane Riddle Dance, Indian riddles, and mimicry.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The contents entry does not provide examples of riddles or mimicry.
+- id: motif:5
+  label: Cannibal dance
+  taxonomy_refs: []
+  basis: The chapter heading explicitly lists the cannibal dance and describes a festival
+    associated with savagery.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wording reflects the source’s ethnographic framing; the passage is
+    a heading and not a detailed account.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 237-244; CHAPTER XIV contents entry
+  quote_or_summary: Chapter XIV lists topics concerning the medicine-man as shaman,
+    remedies and cures, powers and duties, breath, ceremonial healing, hereditary
+    office, training, tigers, magic-working, bad magic, influence, methods, and magical
+    cures.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 246-256; CHAPTER XV contents entry
+  quote_or_summary: Chapter XV lists topics concerning Indian dances, songs, preparations,
+    the Chief’s invitation, assemblies, dance steps, reasons and special dances, dance
+    staves, dancer arrangement, grievance and complaint songs, tribal black list,
+    manioc-gathering dance and song, Muenane Riddle Dance, riddles, mimicry, intoxication,
+    a favourite dance, cannibal dance, and the fascination of the Amazon.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a table-of-contents segment rather than a narrative passage,
+    so motifs are topical candidates only and require review against the chapter text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support comparison beyond topical motif identification.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l237-l256
+  passage_sha256=1110043269d31d4acb19dedb76e3c8d1f9205258c93efd243cb1e737ca6d4eea
+

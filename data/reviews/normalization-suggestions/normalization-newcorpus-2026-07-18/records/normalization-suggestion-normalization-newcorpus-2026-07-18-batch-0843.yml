@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0843
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hunter-abandons-pursuit-after-encounter-with-a-magical-animal
+  motif_id: hunter_abandons_pursuit_after_encounter_with_a_magical_animal
+  label: hunter abandons pursuit after encounter with a magical animal
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: A magical animal interrupts ordinary hunting and functions as a boundary-crossing
+    animal encounter, close to existing magical-animal variants under shapeshifter.
+  cautions: Single occurrence; if the animal is a guardian, omen, or spirit rather
+    than transformed being, divine_intervention or threshold_guardian may fit better.
+  suggested_aliases:
+  - magical animal encounter ends pursuit
+  - hunter deterred by magical animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunter-pursues-wounded-animal-and-suffers-disabling-fall
+  motif_id: hunter_pursues_wounded_animal_and_suffers_disabling_fall
+  label: Hunter pursues wounded animal and suffers disabling fall
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a hunting taboo, animal retribution, ordeal, or
+    episode-specific accident rather than a stable motif.
+  cautions: Needs passage evidence to determine whether the wounded animal is supernatural,
+    whether punishment is moralized, or whether this is only a plot detail.
+  suggested_aliases:
+  - hunter injured while pursuing wounded animal
+  - animal pursuit leads to disabling fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ice-edge-animal-pursuit
+  motif_id: ice_edge_animal_pursuit
+  label: Ice-edge animal pursuit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as a local setting plus chase detail without enough function
+    to place confidently.
+  cautions: Could involve threshold danger, subsistence hunting, magical animal encounter,
+    or ordinary narrative geography; do not map solely from the ice-edge setting.
+  suggested_aliases:
+  - animal pursuit at ice edge
+  - ice-edge hunting chase
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-animal-warnings-during-escape
+  motif_id: ignored_animal_warnings_during_escape
+  label: Ignored animal warnings during escape
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal provides warning or guidance during danger, aligning with supernatural
+    or animal-helper intervention when the warning is narratively meaningful.
+  cautions: If the animal is merely a talking fable character or the focus is disobedience
+    and punishment, sacred_law or divine_judgment may be secondary; verify supernatural
+    status.
+  suggested_aliases:
+  - animal warning ignored
+  - ignored animal helper warning
+  - animal guide warning refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-warning-followed-by-animal-creation
+  motif_id: ignored_warning_followed_by_animal_creation
+  label: ignored warning followed by animal creation
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key outcome is the creation or origin of an animal after a warning
+    is ignored, fitting etiological creation/origin patterns.
+  cautions: If the emphasis is moral consequence rather than animal origin, divine_judgment
+    may also be relevant; handle Navajo-specific context carefully.
+  suggested_aliases:
+  - animal origin after ignored warning
+  - ignored warning creates animal
+  - etiological animal creation after disobedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imaginative-transformation-into-heroes
+  motif_id: imaginative_transformation_into_heroes
+  label: imaginative transformation into heroes
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may refer to literary imagination, role play,
+    apotheosis, or identity transformation.
+  cautions: Could be a textual/commentary artifact if it describes interpretation
+    rather than an in-story transformation; source evidence is needed.
+  suggested_aliases:
+  - imagined heroic transformation
+  - transformation into heroes through imagination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitation-of-a-trick-leads-to-loss
+  motif_id: imitation_of_a_trick_leads_to_loss
+  label: Imitation of a trick leads to loss
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Failed imitation of a trick is a trickster/fable reversal pattern where
+    deceptive skill cannot be copied safely.
+  cautions: If no trickster figure is present, it may be a broader moral exemplum
+    about envy or foolish imitation; pride_and_downfall could be secondary.
+  suggested_aliases:
+  - failed imitation of trick
+  - trick imitation punished
+  - copying a trick leads to loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitative-subsistence-and-animal-actions-in-play
+  motif_id: imitative_subsistence_and_animal_actions_in_play
+  label: imitative subsistence and animal actions in play
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could describe play, ritual imitation, pedagogy, animal mimesis,
+    or ethnographic commentary rather than a clear motif.
+  cautions: Culturally sensitive context; verify whether this is an in-story transformative
+    act, ritual performance, or analyst-generated description before mapping.
+  suggested_aliases:
+  - animal actions imitated in play
+  - subsistence play imitation
+  - imitative animal play
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-animals-mourn-a-slain-human-companion
+  motif_id: immortal_animals_mourn_a_slain_human_companion
+  label: Immortal animals mourn a slain human companion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: medium
+  rationale: The central function is mourning for a slain companion; animal immortality
+    specifies the mourners rather than changing the lament pattern.
+  cautions: If the animals are divine horses or sacred companions in heroic warfare,
+    divine_warrior or heroic_funeral_rites may be secondary mappings.
+  suggested_aliases:
+  - animals mourn slain companion
+  - immortal animals lament human death
+  - animal companions mourn hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-animal-herding-task_solved-by-a-magical-recall-object
+  motif_id: impossible_animal_herding_task_solved_by_a_magical_recall_object
+  label: Impossible animal-herding task solved by a magical recall object
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical object solves an impossible task by controlling or recalling
+    animals, fitting power-object use more than general animal transformation.
+  cautions: If the focus is an initiation bride-task or ordeal, initiation or sacred_love
+    may be secondary; object function should be confirmed.
+  suggested_aliases:
+  - magical object recalls animals
+  - impossible herding task solved by power object
+  - animal recall object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-encounter or hunting details;
+  source evidence is needed before promoting any animal-specific subgroup.
+- For animal warnings and magical animals, distinguish animal-helper guidance, transformed
+  beings, threshold guardians, and ordinary fable animals.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require human evidence
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0843
+  input_sha256: e616c7548974fc9f6595b83935c925f55f7b674d33b90ce8fad7c52be648efbf
+

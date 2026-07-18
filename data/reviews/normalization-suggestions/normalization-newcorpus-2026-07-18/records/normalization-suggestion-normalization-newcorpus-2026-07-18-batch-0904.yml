@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0904
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.disappearance-memorialized-by-tree-planting
+  motif_id: disappearance_memorialized_by_tree_planting
+  label: disappearance memorialized by tree planting
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be memorial ritual, tree symbolism, disappearance, or
+    local etiological detail; function is unclear from wording alone.
+  cautions: Single occurrence and possibly passage-specific. Do not map to axis_mundi
+    or death_and_transformation unless the tree mediates realms or the disappearance
+    entails postmortem transformation.
+  suggested_aliases:
+  - tree planting as memorial
+  - memorial tree for disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disappearing-castle-beneath-a-closing-mountain
+  motif_id: disappearing_castle_beneath_a_closing_mountain
+  label: disappearing castle beneath a closing mountain
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A castle vanishing beneath a mountain suggests an enchanted hidden realm
+    adjacent to ordinary space.
+  cautions: If the mountain functions mainly as cosmic axis or imprisoning underworld
+    entrance, axis_mundi or descent may be secondary; label is highly specific.
+  suggested_aliases:
+  - hidden castle under mountain
+  - enchanted castle beneath mountain
+  - vanishing mountain castle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.discovery-of-a-water-source-in-the-wilderness
+  motif_id: discovery_of_a_water_source_in_the_wilderness
+  label: discovery of a water source in the wilderness
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: In this tradition, wilderness water discovery often functions as miraculous
+    provision or guidance in crisis.
+  cautions: If no sacred agency or trial is present, it may be a travel detail; if
+    water marks transformation or crossing, sacred_waters may be secondary.
+  suggested_aliases:
+  - water found in wilderness
+  - miraculous water in wilderness
+  - wilderness water provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disk_earth-encircled-by-cosmic-waters
+  motif_id: disk_earth_encircled_by_cosmic_waters
+  label: disk-earth encircled by cosmic waters
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif describes cosmological structure involving earth and surrounding
+    cosmic waters, fitting creation/cosmos ordering imagery.
+  cautions: Do not treat as flood_and_renewal unless destructive inundation and renewal
+    are explicit.
+  suggested_aliases:
+  - earth encircled by cosmic waters
+  - world disk surrounded by ocean
+  - cosmic waters around the earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dispute-with-rain-over-nourishment
+  motif_id: dispute_with_rain_over_nourishment
+  label: Dispute with Rain over nourishment
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Rain may be personified, a weather power, or a ritual/ecological actor;
+    existing groups do not cleanly capture a dispute with rain over food.
+  cautions: Culturally specific personification and ecological context need source
+    review. Could be sacred_exchange if ritual reciprocity is central, or divine_intervention
+    if rain acts as a spirit/deity.
+  suggested_aliases:
+  - personified rain dispute
+  - conflict with rain over food
+  - rain as nourishment power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-edge-of-world-land-preserves-golden-age-customs
+  motif_id: distant_edge_of_world_land_preserves_golden_age_customs
+  label: distant edge-of-world land preserves golden-age customs
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on survival of golden-age order amid later decline,
+    a world-ages pattern.
+  cautions: If the emphasis is enchanted geography rather than temporal decline, otherworld
+    may be a secondary mapping.
+  suggested_aliases:
+  - edge-of-world golden age land
+  - remote land preserving golden age
+  - golden age customs at world edge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-fortified-realm-beyond-the-sea
+  motif_id: distant_fortified_realm_beyond_the_sea
+  label: distant fortified realm beyond the sea
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A remote realm beyond the sea fits enchanted or otherworld geography
+    when it is narratively charged.
+  cautions: If it is only a place description or military setting, exclude or treat
+    as contextual. If sea-crossing is the key ordeal, sacred_waters or hero_journey
+    may be secondary.
+  suggested_aliases:
+  - fortified realm beyond the sea
+  - remote sea-beyond realm
+  - distant overseas stronghold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-homeland-at-the-meeting-of-earth-and-sky
+  motif_id: distant_homeland_at_the_meeting_of_earth_and_sky
+  label: distant homeland at the meeting of earth and sky
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A homeland located where earth and sky meet evokes a cosmological boundary
+    or contact point between realms.
+  cautions: May be origin geography, otherworld, or ethnographic place-memory depending
+    on source evidence; avoid flattening culturally specific homeland traditions.
+  suggested_aliases:
+  - homeland where earth meets sky
+  - earth-sky meeting place
+  - distant sky-edge homeland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-light-leading-to-a-perilous-house
+  motif_id: distant_light_leading_to_a_perilous_house
+  label: Distant light leading to a perilous house
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The light functions as a lure drawing travelers toward a dangerous threshold
+    or dwelling.
+  cautions: If no guardian or threshold ordeal is present, this may be a folktale
+    episode detail. Could also relate to sacred_fire only if the light is sacred manifestation
+    rather than lure.
+  suggested_aliases:
+  - luring light to dangerous house
+  - perilous house signaled by light
+  - distant light as fatal lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distress-at-sea-deliverance-and-relapse
+  motif_id: distress_at_sea_deliverance_and_relapse
+  label: Distress at sea, deliverance, and relapse
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence of danger, rescue, and renewed wrongdoing fits moral reckoning
+    and warning against relapse after divine aid.
+  cautions: If the passage emphasizes rescue rather than moral relapse, divine_intervention
+    or sacred_waters may be secondary. Do not map to flood unless world-renewing catastrophe
+    is present.
+  suggested_aliases:
+  - sea peril deliverance and relapse
+  - deliverance at sea followed by unbelief
+  - rescue from sea and moral relapse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for broad query grouping, not evidence
+  of transmission or common origin.
+- Several labels are single-occurrence and geographically or culturally specific;
+  source passage review is recommended before adding aliases to durable indexes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Suggested best-fit existing groups where function is clear; flagged ambiguous
+    ecological, memorial, and cosmological-place labels for human review or cautious
+    secondary mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0904
+  input_sha256: 53bb6e98f83bc2f78de33f706fa72b72d1dd254923d83ee03bbcc2a396bd2973
+

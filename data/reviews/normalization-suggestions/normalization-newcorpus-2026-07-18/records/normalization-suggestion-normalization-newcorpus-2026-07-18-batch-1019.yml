@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1019
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blood-marked-heroic-shield
+  motif_id: blood_marked_heroic_shield
+  label: blood-marked heroic shield
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: low
+  rationale: A marked shield is a heroic power object or identity-bearing war object,
+    but the label is very specific.
+  cautions: Could instead be a combat evidence detail under divine_warrior or sacred_combat
+    if the shield has no sacred or identity function.
+  suggested_aliases:
+  - blood-marked shield
+  - heroic shield marked with blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-reveals-concealed-night-battle-at-dawn
+  motif_id: blood_reveals_concealed_night_battle_at_dawn
+  label: blood reveals concealed night battle at dawn
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-specific plot clue rather than a durable symbolic
+    motif.
+  cautions: If blood functions as proof, recognition token, or divine sign in the
+    source, consider sacred_treasures or recognition_tokens_hidden_identity instead.
+  suggested_aliases:
+  - blood reveals hidden combat
+  - dawn reveals night battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-revenge-after-massacre
+  motif_id: blood_revenge_after_massacre
+  label: Blood revenge after massacre
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud and Vengeance Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: Blood revenge after collective killing is a recurring vengeance-duty
+    structure not cleanly covered by sacred_combat or divine_judgment.
+  cautions: Needs review for whether the passage emphasizes kin obligation, legal
+    retaliation, heroic combat, or moral reckoning.
+  suggested_aliases:
+  - blood revenge
+  - vengeance after massacre
+  - retaliatory kin vengeance
+  suggested_new_group:
+    id: blood_feud_vengeance_cycle
+    label: Blood Feud and Vengeance Cycle
+    description: Retaliatory violence pursued as kin duty, inherited obligation, or
+      social repair after killing, massacre, or injury, often escalating across families
+      or groups.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - betrayal_violated_trust
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing combat groups cover battle and heroic
+      violence, while sacred_law covers normative order; neither specifically captures
+      vendetta as inherited retaliatory obligation.
+- suggestion_id: normalization.suggestion.blood-revenge-and-kanaima
+  motif_id: blood_revenge_and_kanaima
+  label: blood revenge and Kanaima
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The Kanaima reference is culturally specific and may name a spirit, vengeance
+    practice, social role, or local complex.
+  cautions: Requires source and cultural review before mapping; avoid flattening Kanaima
+    into generic revenge or monster categories.
+  suggested_aliases:
+  - Kanaima vengeance
+  - blood revenge involving Kanaima
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-revenge-as-hereditary-cycle
+  motif_id: blood_revenge_as_hereditary_cycle
+  label: blood revenge as hereditary cycle
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud and Vengeance Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: The hereditary cycle wording directly identifies vendetta as an inherited
+    recurring obligation.
+  cautions: Human review should check whether this is narrative action or ethnographic
+    commentary attached to one passage.
+  suggested_aliases:
+  - hereditary blood revenge
+  - inherited vengeance cycle
+  - blood feud cycle
+  suggested_new_group:
+    id: blood_feud_vengeance_cycle
+    label: Blood Feud and Vengeance Cycle
+    description: Retaliatory violence pursued as kin duty, inherited obligation, or
+      social repair after killing, massacre, or injury, often escalating across families
+      or groups.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - betrayal_violated_trust
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing combat groups cover battle and heroic
+      violence, while sacred_law covers normative order; neither specifically captures
+      vendetta as inherited retaliatory obligation.
+- suggestion_id: normalization.suggestion.blood-vengeance-by-a-monster-s-kin
+  motif_id: blood_vengeance_by_a_monster_s_kin
+  label: Blood-vengeance by a monster's kin
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud and Vengeance Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: The key function is kin-based revenge after killing, even though the
+    avenger is monstrous.
+  cautions: If the source emphasizes monster combat more than kin vengeance, sacred_combat
+    or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - monster kin vengeance
+  - blood vengeance by kin
+  - avenging monster kin
+  suggested_new_group:
+    id: blood_feud_vengeance_cycle
+    label: Blood Feud and Vengeance Cycle
+    description: Retaliatory violence pursued as kin duty, inherited obligation, or
+      social repair after killing, massacre, or injury, often escalating across families
+      or groups.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    related_group_ids:
+    - divine_warrior
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing combat groups cover battle and heroic
+      violence, but the kin-obligation and feud-cycle structure is more specific than
+      ordinary sacred combat.
+- suggestion_id: normalization.suggestion.bloody-eagle-execution-of-a-captured-enemy
+  motif_id: bloody_eagle_execution_of_a_captured_enemy
+  label: Bloody eagle execution of a captured enemy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a culturally and historically sensitive execution label and may
+    be episode-specific or debated evidence.
+  cautions: Do not normalize as a generic sacrifice or combat motif without confirming
+    ritual, literary, or punitive function in the source.
+  suggested_aliases:
+  - blood eagle execution
+  - ritualized execution of captured enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boar-marked-protective-war-gear
+  motif_id: boar_marked_protective_war_gear
+  label: Boar-marked protective war gear
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective marked war gear functions as a power object conferring protection
+    or martial identity.
+  cautions: If the boar symbol is the main focus, a future animal-symbol or war-animal
+    group may be useful; with current groups, keep the object function primary.
+  suggested_aliases:
+  - protective war gear marked with boar
+  - boar-marked armor
+  - boar-crested protective gear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-and-counter-warning-before-battle
+  motif_id: boast_and_counter_warning_before_battle
+  label: boast and counter-warning before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pre-battle boasting and warning are charged speech acts that shape combat
+    expectations and social honor.
+  cautions: If the words are merely dialogue rather than binding, prophetic, or honor-defining
+    speech, this may be an over-specific scene detail under sacred_combat.
+  suggested_aliases:
+  - pre-battle boast and warning
+  - battle boast with counter-warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-and-counterboast-before-single-combat
+  motif_id: boast_and_counterboast_before_single_combat
+  label: boast and counterboast before single combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Formal boast exchange before duel functions as performative speech framing
+    combat, honor, and outcome.
+  cautions: Could be indexed secondarily under sacred_combat when the duel structure
+    is more important than the speech act.
+  suggested_aliases:
+  - pre-duel boast exchange
+  - counterboast before single combat
+  - flyting before duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several violence labels are single-occurrence and scene-specific; preserve as evidence
+  details unless source review shows recurrence across traditions.
+- Blood-feud and vendetta labels recur enough in this batch to justify a provisional
+  new group candidate, but human review should decide whether to add it or fold it
+  under sacred_combat/sacred_law.
+- Culturally specific labels such as Kanaima and bloody eagle should receive source-sensitive
+  human review before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1019
+  input_sha256: b2a2bb78c714fde975f02c9859967f1e9b3bec922e2e6522101ea73e5a791833
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1581
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sincere-repentance-and-removal-of-evil-deeds
+  motif_id: sincere_repentance_and_removal_of_evil_deeds
+  label: Sincere repentance and removal of evil deeds
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repentance and removal of evil deeds concerns moral reckoning, purification,
+    and repair after wrongdoing.
+  cautions: Could also fit covenant or sacred_law if the passage emphasizes legal
+    obligation, confession, or divine-human bond rather than judgment.
+  suggested_aliases:
+  - repentance_and_removal_of_sins
+  - repentance_as_moral_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-absent-dynastic-survivor
+  motif_id: single_absent_dynastic_survivor
+  label: single absent dynastic survivor
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: An absent survivor of a dynasty may preserve lineage, succession, or
+    legitimate rule.
+  cautions: Label is sparse and may be a historical/person-specific detail rather
+    than a motif; review whether the survivor functions narratively as legitimate
+    heir, remnant, exile, or mere chronicle detail.
+  suggested_aliases:
+  - dynastic_survivor
+  - surviving_heir
+  - absent_royal_survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-appointed-repentance-after-serious-sin
+  motif_id: single_appointed_repentance_after_serious_sin
+  label: Single appointed repentance after serious sin
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An appointed repentance after grave sin is a structured moral-repair
+    response to transgression.
+  cautions: If the passage centers on ecclesial penance or a one-time rule, sacred_law
+    or covenant may be better secondary mappings; single occurrence may be over-specific.
+  suggested_aliases:
+  - appointed_repentance
+  - penitential_repair_after_sin
+  - repentance_after_serious_sin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-against-an-overwhelming-host
+  motif_id: single_champion_against_an_overwhelming_host
+  label: Single champion against an overwhelming host
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A lone champion confronting a superior host is a heroic battle pattern
+    within ritualized or epic warfare.
+  cautions: Do not map to divine_warrior unless divine agency or cosmic order is emphasized;
+    may be a conventional battle scene if no sacred or ordeal function is present.
+  suggested_aliases:
+  - lone_champion_against_army
+  - single_warrior_against_host
+  - hero_against_overwhelming_odds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-attacks-the-opposing-host
+  motif_id: single_champion_attacks_the_opposing_host
+  label: Single champion attacks the opposing host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The label describes a lone-warrior episode in an epic combat setting,
+    fitting sacred or ritual warfare grouping.
+  cautions: May be too generic as a battle tactic unless the passage marks champion
+    combat as an ordeal, vow, ford-duel, or heroic crisis.
+  suggested_aliases:
+  - single_champion_attacks_host
+  - lone_warrior_assaults_army
+  - champion_against_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-checks-or-turns-back-hosts
+  motif_id: single_champion_checks_or_turns_back_hosts
+  label: Single champion checks or turns back hosts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A champion halting or repelling armies is a recurring heroic combat function
+    within epic warfare.
+  cautions: Could also relate to divine_warrior if the champion’s defense maintains
+    cosmic or sacred order; otherwise preserve as a narrower combat detail.
+  suggested_aliases:
+  - lone_champion_turns_back_army
+  - single_warrior_halts_host
+  - champion_repels_hosts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-defeats-many-and-captures-the-commander
+  motif_id: single_champion_defeats_many_and_captures_the_commander
+  label: single champion defeats many and captures the commander
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is a lone champion overcoming many opponents in epic
+    combat.
+  cautions: Commander capture is probably episode-specific evidence; avoid promoting
+    the full sequence unless it recurs across sources.
+  suggested_aliases:
+  - single_champion_defeats_many
+  - lone_champion_captures_commander
+  - hero_defeats_many
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-defeats-overwhelming-defenders
+  motif_id: single_champion_defeats_overwhelming_defenders
+  label: Single champion defeats overwhelming defenders
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A lone champion defeating numerous defenders belongs to heroic single-combat
+    and epic warfare patterns.
+  cautions: If the defenders are monsters or spiritually empowered beings, divine_warrior
+    or conditional_invulnerability_hidden_weakness may be relevant as secondary mapping.
+  suggested_aliases:
+  - single_champion_defeats_many_defenders
+  - lone_warrior_overcomes_defenders
+  - champion_against_overwhelming_defenders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-defeats-successive-avengers
+  motif_id: single_champion_defeats_successive_avengers
+  label: single champion defeats successive avengers
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Successive revenge challengers defeated by one champion is an epic combat
+    sequence centered on warrior ordeal.
+  cautions: Could overlap with vengeance or feud structures not currently separated;
+    source context should decide whether combat, revenge, or judgment is primary.
+  suggested_aliases:
+  - champion_defeats_successive_avengers
+  - single_warrior_defeats_revenge_challengers
+  - successive_avengers_defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-holding-fords-against-an-army
+  motif_id: single_champion_holding_fords_against_an_army
+  label: Single champion holding fords against an army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Ford defense by a lone champion matches the existing sacred_combat complex,
+    especially ford-duel and cattle-raid crisis patterns.
+  cautions: The ford threshold could be meaningful, but map to threshold_guardian
+    only if the champion primarily guards passage as a liminal figure rather than
+    fighting a battle.
+  suggested_aliases:
+  - lone_champion_holds_ford
+  - ford_defense_by_single_champion
+  - single_warrior_blocks_army_at_ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-champion labels appear to be granular variants of the same epic combat
+  pattern; consider consolidating them under sacred_combat as aliases or children
+  rather than promoting each as a canonical motif.
+- Repentance labels likely belong near divine_judgment, covenant, and sacred_law,
+  but passage evidence should determine whether the primary function is moral reckoning,
+  legal penance, purification, or restored bond.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for sparse single-occurrence
+    labels and culturally specific penitential terminology.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1581
+  input_sha256: 47968d3d6270bcebd76cc69aa7359696224ede6ddb90c9928f09322a6be35d00
+

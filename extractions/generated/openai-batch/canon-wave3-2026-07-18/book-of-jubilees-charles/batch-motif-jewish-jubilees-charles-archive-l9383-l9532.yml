@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l9383-l9532
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTERS V. 29-VI. 4 49 / CHAPTER VI. 5-16 51 / CHAPTER VI. 17-23 53 / CHAPTER
+    VI. 24-31 55; lines 9383-9532
+  start: '9383'
+  end: '9532'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: And all the days of the commandment will be two and fifty weeks of days,
+    and (these will make) the entire year complete.
+  summary: The passage presents a calendrical commandment in which memorial observances
+    move through a fourfold sequence, the complete year consists of fifty-two weeks
+    of days, and the ordinance is engraved and ordained on the heavenly tables. It
+    adds that the commandment must not be neglected from year to year. Editorial notes
+    explain this as a 364-day year with four seasons and discuss possible civil and
+    ecclesiastical calendar systems.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage refers to memorial observances passing in sequence from the first
+    to the second, from the second to the third, and from the third to the fourth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: It states that the days of the commandment amount to fifty-two weeks of days
+    and make the complete year.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: It states that the commandment is engraved and ordained on the heavenly tables.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: It states that the commandment is not to be neglected for a single year or
+    from year to year.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An editorial note explains the calendrical scheme as four seasons, each of
+    three months or thirteen weeks, totaling twelve thirty-day months plus four intercalary
+    days, or fifty-two weeks and 364 days.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An editorial note discusses a proposed distinction between a civil year and
+    an ecclesiastical year in Jubilees and compares this with other traditions using
+    two year-types.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: An editorial note says that festivals ordained by Noah are entered on the
+    heavenly tables.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: Mentioned in an editorial note as the one by whom certain festivals
+    were ordained.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Festival ordainer
+  assigned_to:
+  - fig:1
+  basis: The editorial note states that festivals ordained by Noah are entered on
+    the heavenly tables.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Heavenly tables
+  literal_form: Heavenly tables on which the commandment is engraved and ordained,
+    and on which Noah's festivals are said to be entered.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: Fifty-two-week complete year
+  literal_form: Two and fifty weeks of days making the entire year complete.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Fourfold memorial sequence
+  literal_form: Memorials moving from first to second, second to third, and third
+    to fourth; explained in the note as four seasons or four festivals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Fourfold calendrical memorial sequence
+  summary: The passage describes memorial observances moving through a four-part sequence
+    and states that the calendrical commandment completes the year in fifty-two weeks
+    of days.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Heavenly inscription of the calendrical commandment
+  summary: The commandment is presented as engraved and ordained on heavenly tables
+    and as a yearly obligation that cannot be neglected.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Sacred calendrical cycle of a complete year
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes memorial observance through a fourfold sequence and
+    defines the complete year as fifty-two weeks of days; the editorial note explains
+    this as a four-season, 364-day year.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The four-season interpretation is supplied by the editorial note; the
+    canonical excerpt itself gives the memorial sequence and fifty-two-week year.
+- id: motif:2
+  label: Heavenly written ordinance
+  taxonomy_refs: []
+  basis: The commandment is described as engraved and ordained on heavenly tables
+    and not to be neglected from year to year.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific available taxonomy reference directly names heavenly tablets
+    or celestial inscription.
+- id: motif:3
+  label: Ancestral ordination of festivals
+  taxonomy_refs: []
+  basis: An editorial note states that festivals ordained by Noah are entered on the
+    heavenly tables, linking an ancestral figure with ritual-calendar institution.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif is drawn from the editorial note rather than from the visible
+    canonical verse text in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note cautiously compares the proposed use of two year-types
+    in Jubilees with Egyptian and later Abyssinian Jewish cases where civil and ecclesiastical
+    years coexisted.
+  claim_level: same_function
+  target: Egyptian and later Abyssinian Jewish civil/ecclesiastical calendar systems
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:8
+  confidence: low
+  limitations: 'The comparison is an editorial calendrical analogy, not a narrative-motif
+    parallel. The note itself raises an objection: Noah''s four festivals in Jubilees
+    are said to be determined by the twelve solar months rather than by the proposed
+    ecclesiastical year.'
+evidence:
+- id: ev:1
+  type: quote
+  locator: VI.29 within lines 9383-9532
+  quote_or_summary: '"from the first to the second, and from the second to the third,
+    and from the third to the fourth"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: quote
+  locator: VI.30 within lines 9383-9532
+  quote_or_summary: '"all the days of the commandment will be two and fifty weeks
+    of days, and (these will make) the entire year complete"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: VI.31 within lines 9383-9532
+  quote_or_summary: '"Thus it is engraven and ordained on the heavenly tables."'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: VI.31 within lines 9383-9532
+  quote_or_summary: '"there is no neglecting (this commandment) for a single year
+    or from year to year"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: Editorial note on VI.29-30 within lines 9383-9532
+  quote_or_summary: 'The note says the year consists of four seasons, each with three
+    months or thirteen weeks, totaling twelve months of thirty days plus four intercalary
+    days: fifty-two weeks or 364 days.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Editorial note on VI.29-31 within lines 9383-9532
+  quote_or_summary: The note presents Eppstein's proposal that Jubilees used both
+    a civil year and an ecclesiastical year, and adds that where two years were in
+    use among Egyptians and later Abyssinian Jews, the civil year was solar and the
+    ecclesiastical year lunar.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Editorial note on VI.29 within lines 9383-9532
+  quote_or_summary: The note states that the festivals ordained by Noah are entered
+    on the heavenly tables.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Editorial note on VI.29-31 within lines 9383-9532
+  quote_or_summary: The note objects that the four festivals ordained by Noah in Jubilees
+    VI.23-29 are determined according to the twelve solar months, not the proposed
+    ecclesiastical year.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is interleaved with editorial notes and appears OCR-derived.
+    Motifs based on the canonical calendrical statement are stronger than those based
+    only on commentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the provided passage and metadata. Cross-referenced figures such as Abram and Jacob in the editorial discussion were not modeled because they are cited only as examples for calendrical interpretation, not as actors in this passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l9383-l9532
+  passage_sha256=253e8fdd27bb1cee2e6595edd22abe68806f5c57fd1d9340c3cf94b07f4546aa
+

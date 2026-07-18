@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.native-american-aw-aw-tam-indian-nights-lloyd-gutenberg-l2632-l2652
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+passage_locator:
+  label: NOTES ON THE STORY OF VANDAIH / STORIES OF THE SECOND NIGHT / THE STORY OF
+    THE TURQUOISES AND THE RED BIRD / NOTES ON THE STORY OF THE TURQUOISES; lines
+    2632-2652
+  start: '2632'
+  end: '2652'
+  translation: 'Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas
+    of Arizona'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Turquoises seem to have been regarded by all Arizona Indians as magical and
+    lucky stones, and the Story of the Turquoises professes to give their origin.
+  summary: The notes state that turquoises were regarded as magical and lucky stones
+    and that the story explains their origin. The notes also describe the women's
+    game toe-coll, in which groups of women used willow sticks to toss paired balls
+    and played until one side was exhausted; skilled women practiced beforehand, and
+    the balls could also be made from knots in a short rope.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Turquoises are described as magical and lucky stones, and the story is said
+    to give their origin.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Toe-coll is described as an amusement of women involving tossed balls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The game equipment includes two small buckskin-covered balls tied about six
+    inches apart and a six-foot willow stick for each player.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Young and married women assembled in groups of thirty to seventy-five, dressed
+    for a ball, with hair prepared to be black and glossy.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Players tossed the balls high in the air and ran after them until one party
+    gave up from exhaustion.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Certain active women, described as keen of wit and quick of action, practiced
+    for weeks in advance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The balls were sometimes made as two large knots in a short piece of rope.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Arizona Indian groups as described in the note
+  description: The broad group said in the notes to have regarded turquoises as magical
+    and lucky stones.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Women players of toe-coll
+  description: Young and married women, thirty to seventy-five in a group, who assembled
+    to play the ball-tossing game.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Practiced active women
+  description: Active women, keen of wit and quick of action, who practiced for weeks
+    before the game.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: holders of turquoise belief
+  assigned_to:
+  - fig:1
+  basis: The notes say turquoises were regarded by all Arizona Indians as magical
+    and lucky stones.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: toe-coll players
+  assigned_to:
+  - fig:2
+  basis: The women are described as assembling in groups with willow sticks and tossing
+    the balls.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: contest participants
+  assigned_to:
+  - fig:2
+  basis: The game continues until one party gives up from exhaustion.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: trained expert players
+  assigned_to:
+  - fig:3
+  basis: Certain active, quick women are said to practice weeks in advance.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: turquoise stones
+  literal_form: turquoises described as magical and lucky stones
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: paired game balls
+  literal_form: two small buckskin-covered balls tied about six inches apart; sometimes
+    two large knots in a short rope
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: willow stick
+  literal_form: a six-foot stick of willow used by each player
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Turquoise origin note
+  summary: The notes state that turquoises were regarded as magical and lucky stones
+    and that the story gives their origin.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Toe-coll game play
+  summary: Groups of women assemble with paired balls and willow sticks, toss the
+    balls high, run after them, and continue until one side is exhausted.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Preparation and alternate ball form
+  summary: Selected active women practice weeks in advance, and the balls are sometimes
+    formed from knots in a short rope.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Origin of magical or lucky stones
+  taxonomy_refs: []
+  basis: The passage states that the Story of the Turquoises professes to give the
+    origin of turquoises, which are described as magical and lucky stones.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The actual origin narrative is not included in this passage; the note
+    only summarizes the story's claimed function.
+- id: motif:2
+  label: Women's competitive ball-tossing game
+  taxonomy_refs: []
+  basis: The passage describes a women's game with paired balls, willow sticks, teams
+    or parties, advance practice, and play ending in exhaustion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic note on a game rather than a mythic narrative
+    episode; no supplied taxonomy reference directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2632-2636
+  quote_or_summary: "“Turquoises seem to have been regarded by all Arizona Indians
+    as magical and lucky stones, and the Story of the Turquoises professes to give
+    their origin.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: summary
+  locator: 2637-2646
+  quote_or_summary: Whittemore's account describes toe-coll as a women's amusement
+    using two buckskin-covered balls tied apart and six-foot willow sticks; groups
+    of young and married women tossed the balls high and ran after them until one
+    party gave up from exhaustion.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:3
+  type: summary
+  locator: 2647-2649
+  quote_or_summary: Certain active women, keen of wit and quick of action, practiced
+    weeks in advance to make the game exciting.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:4
+  type: summary
+  locator: 2651-2652
+  quote_or_summary: The balls were sometimes made by forming two large knots in a
+    short piece of rope.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  rights_note: Public domain source; neutral summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is an editorial/ethnographic note and does not include the
+    full origin story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparison to another named text, tradition, or supplied motif family.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-aw-aw-tam-indian-nights-lloyd-gutenberg__l2632-l2652
+  passage_sha256=e9cd7e7605db65fbd3ae5fefac24ddaa0206d0572f3eba30826b5a3633c4f703
+

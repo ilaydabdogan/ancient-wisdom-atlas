@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.ethiopian-kebra-nagast-budge-archive-l10512-l10610
+source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+passage_locator:
+  label: PQ    S / H  2  115 / I    2  131 / EGYPT; lines 10512-10610
+  start: '10512'
+  end: '10610'
+  translation: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Abraham and Sarah, facing famine in Canaan, travel to Egypt. Abraham asks
+    Sarah to identify him as her brother because he fears Egyptians will kill him
+    for her beauty. Pharaoh takes Sarah after giving Abraham silver, but an angel
+    with a fiery sword confronts Pharaoh, rebukes him, and orders Sarah returned with
+    gifts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God had given Abraham glory and riches, but Abraham lacked a son.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sarah and Abraham discuss and dispute which of them is barren.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A famine occurs in Canaan; Abraham hears that food is available in Egypt and
+    has already spent his possessions in charity during the famine.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Abraham proposes going to Egypt to avoid death by famine, and Sarah agrees
+    to live or die with him; they then set out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Near Egypt, Abraham says he has heard that Egyptians are lawless and fears
+    they will kill him because of Sarah's beauty.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Abraham instructs Sarah to say that she is his sister, and Sarah agrees to
+    say and do what he asks.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Egyptians marvel at the appearance of Abraham and Sarah, ask each about the
+    other, and receive sibling-identification answers from both.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Egyptians report the arrival of the beautiful pair to Pharaoh, and Pharaoh
+    asks Abraham to give him Sarah for betrothal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Abraham consents on condition of being made content; Pharaoh gives him one
+    thousand silver taflahet and takes Sarah into his house and onto his bed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Angel of the Lord appears by night with a sword of fire, lights the chamber
+    with flame, and pursues Pharaoh with intent to slay him.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: Pharaoh begs forgiveness and says he took Sarah innocently because Abraham
+    had said she was his sister.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The Angel orders Pharaoh to return Abraham's wife, give Abraham a gift, and
+    send him away; Pharaoh returns Sarah and gives Abraham Hagar, gold, silver, and
+    costly apparel.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Abraham
+  description: A man given glory and riches by God, lacking a son, husband of Sarah,
+    who travels to Egypt and identifies Sarah as his sister.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Sarah
+  description: Abraham's wife, described as beautiful, who agrees to identify Abraham
+    as her brother and is taken by Pharaoh before being returned.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: God
+  description: The deity who had given Abraham glory and riches and whom Abraham and
+    Sarah worship before entering Egypt.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: The Egyptians
+  description: People who see Abraham and Sarah, marvel at them, question them, and
+    report them to Pharaoh.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Pharaoh, King of Egypt
+  description: The ruler who seeks Sarah as wife, gives Abraham silver, takes Sarah
+    into his house, is confronted by the Angel, and returns Sarah with gifts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Angel of the Lord
+  description: A night-appearing divine messenger carrying a sword of fire who confronts
+    Pharaoh and orders Sarah restored to Abraham.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Agar / Hagar
+  description: A handmaiden given by Pharaoh to Abraham along with gold, silver, and
+    costly apparel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Famine migrant and household leader
+  assigned_to:
+  - fig:1
+  basis: Abraham proposes leaving Canaan for Egypt to avoid death by famine and leads
+    the journey.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Endangered wife named as sister
+  assigned_to:
+  - fig:2
+  basis: Sarah is Abraham's wife but agrees to be identified as his sister and is
+    taken by Pharaoh.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Sibling-ruse speaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Abraham tells Egyptians Sarah is his sister, and Sarah says Abraham is her
+    brother.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Foreign royal suitor and taker
+  assigned_to:
+  - fig:5
+  basis: Pharaoh asks for Sarah, gives silver to Abraham, takes Sarah to make her
+    his wife, and brings her into his house.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Divine enforcer against taking another man's wife
+  assigned_to:
+  - fig:6
+  basis: The Angel confronts Pharaoh, asks why he attacks another man's wife, and
+    commands her return.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: Witnessing and reporting populace
+  assigned_to:
+  - fig:4
+  basis: The Egyptians see the pair, question them, and report their beauty to Pharaoh.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Gifted handmaiden
+  assigned_to:
+  - fig:7
+  basis: Hagar is given by Pharaoh to Abraham after the Angel's command.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: Divine benefactor and worshipped deity
+  assigned_to:
+  - fig:3
+  basis: God had given Abraham glory and riches, and Abraham and Sarah worship God
+    before entering Egypt.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fiery angelic weapon
+  literal_form: A sword of fire carried by the Angel, with fiery flame lighting the
+    chamber.
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Silver and costly gifts
+  literal_form: One thousand silver taflahet, followed later by gold, silver, and
+    costly apparel.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: Pharaoh's bedchamber
+  literal_form: Pharaoh's house, bed, and chamber where he intends to company with
+    Sarah and where the Angel appears.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Famine and decision to leave Canaan
+  summary: Abraham and Sarah are childless, famine worsens in Canaan, and Abraham
+    proposes going to Egypt for survival after spending his possessions in charity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Instruction before entering Egypt
+  summary: Near Egypt, Abraham asks Sarah to say she is his sister because he fears
+    being killed for her beauty; she agrees, and they worship God before entering
+    the city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Questioning and Pharaoh's taking of Sarah
+  summary: Egyptians question Abraham and Sarah, receive sibling answers, report their
+    beauty to Pharaoh, and Pharaoh gives silver to Abraham and takes Sarah into his
+    house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Fiery angelic intervention
+  summary: The Angel of the Lord appears by night with a fiery sword, illuminates
+    the chamber, pursues Pharaoh, and rebukes him for taking another man's wife.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Restoration and gifts
+  summary: The Angel commands Pharaoh to return Sarah, give Abraham a gift, and send
+    him home; Pharaoh returns Sarah, gives Hagar and valuables, and sends Abraham
+    away in peace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Famine-driven departure to a foreign land
+  taxonomy_refs:
+  - departure
+  basis: Famine in Canaan and food in Egypt motivate Abraham and Sarah to leave Canaan
+    for Egypt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the journey as practical survival rather than a ritual
+    departure.
+- id: motif:2
+  label: Wife-sister concealment to preserve life
+  taxonomy_refs: []
+  basis: Abraham instructs Sarah to identify herself as his sister so Egyptians will
+    not kill him, and both give sibling answers when questioned.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy ref exactly names this pattern.
+- id: motif:3
+  label: Foreign king takes the hero's wife
+  taxonomy_refs: []
+  basis: Pharaoh requests Sarah, gives Abraham silver, and takes Sarah into his house
+    to make her his wife.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage includes Abraham's fearful consent and Pharaoh's later claim
+    of innocence, so labels implying simple abduction should be used cautiously.
+- id: motif:4
+  label: Divine judgment prevents sexual transgression
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Angel of the Lord appears with fiery force, threatens Pharaoh, rebukes
+    him for taking another man's wife, and requires Sarah's return.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The judgment is threatened rather than completed; Pharaoh is spared after
+    restitution.
+- id: motif:5
+  label: Divinely ordered restitution and gift exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Angel orders Pharaoh to return Sarah and give Abraham a gift; Pharaoh
+    gives Hagar, gold, silver, and costly apparel.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The exchange is compensatory and commanded by a divine messenger; the
+    broader 'sacred_exchange' taxonomy only partially fits.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the functional pattern of a wife-sister ruse: in a foreign
+    setting, a man identifies his wife as his sister to avoid being killed; a ruler
+    takes the woman; divine intervention forces restoration.'
+  claim_level: same_function
+  target: wife-sister ruse / endangered wife in foreign court pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a pattern-level comparison only; it does not assert source
+    dependence, dating, transmission, or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10512-10523
+  quote_or_summary: God has given Abraham glory and riches, but he lacks a son; Abraham
+    and Sarah dispute barrenness; famine arises in Canaan and food is heard to be
+    in Egypt.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 10524-10539
+  quote_or_summary: Abraham has spent his possessions in charity during the famine,
+    lacks food, proposes going to Egypt to avoid death by famine, and Sarah agrees
+    to live or die with him before they set out.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 10540-10560
+  quote_or_summary: Near Egypt, Abraham tells Sarah he fears Egyptians will kill him
+    because of her beauty and asks her to say she is his sister; Sarah agrees, and
+    they worship God and enter the city.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 10561-10577
+  quote_or_summary: Egyptians marvel at Abraham and Sarah, question their relationship,
+    hear sibling answers, and report to Pharaoh that a beautiful pair has arrived.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 10578-10591
+  quote_or_summary: Pharaoh asks for Sarah, gives Abraham one thousand silver taflahet,
+    takes Sarah into his house and bed, and the Angel appears at night carrying a
+    sword of fire and lighting the chamber.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 10592-10602
+  quote_or_summary: The Angel pursues Pharaoh around the chamber; Pharaoh begs forgiveness
+    and says he took Sarah innocently because he had been told she was Abraham's sister.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 10603-10610
+  quote_or_summary: The Angel orders Pharaoh to return Abraham's wife, give a gift,
+    and send him home; Pharaoh returns Sarah, gives Hagar, gold, silver, and costly
+    apparel, and sends Abraham away in peace.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    passage-level candidates and require human review, especially where supplied taxonomy
+    categories only partially match the narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; no external parallels or source-critical claims added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:ethiopian-kebra-nagast-budge-archive__l10512-l10610
+  passage_sha256=462b7cab37a04cf24b7d73660042b670e849e35efc31552139418d1d32576988
+

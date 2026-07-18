@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l2775-l2799
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 2775-2799'
+  start: '2775'
+  end: '2799'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: While the boy sleeps, a Snake enemy enters his body and moves upward as
+    he cuts open parts of his body. His father above knows and sends wind; rain fills
+    the boy's head and heat helps force the Snake out. The boy remains alive, catches
+    the Snake, pronounces that it will crawl ashamed in the dirt, and flattens its
+    head on a rock. A note explains the boy's fear of the foetus by seasonal unborn
+    animals and the absence of his father's star cluster.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An enemy comes while the boy is sleeping, and the Snake enters his body before
+    an arrow can give an alarm.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy grasps a knife and cuts open his stomach, breast, and throat as the
+    Snake moves upward into his head.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The father above knows what is happening and sends a great wind that turns
+    the boy's head so the opened oesophagus faces the wind.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hard rain fills the corners of the boy's head, and later scorching heat makes
+    the water force the Snake's head outward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The boy repeatedly says that Old-Woman's Grandson is still alive.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: When it becomes too hot, the Snake flees, and the boy springs up and catches
+    it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The boy declares that the Snake will suffer punishment, be ashamed, crawl
+    on its body in the dirt with its head down, and avoid creatures made by Nesaru.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The boy knocks the Snake's head on a flat rock until the head is flat and
+    its eyes are close to its mouth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The explanatory note says the boy feared the foetus because it was the season
+    when young animals were still unborn and because his father's star cluster was
+    not visible with the others.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The note says the boy knew his father could not be present to help him, so
+    he did not dare to help himself.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Old-Woman's Grandson / the boy
+  description: The boy whose body the Snake enters; he cuts himself open, remains
+    alive, catches the Snake, and punishes it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Snake
+  description: The enemy that enters the boy's body, moves into his head, is forced
+    out by heat and water, and is punished by being made to crawl and having its head
+    flattened.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: father above
+  description: The boy's father above, who knows what is happening and sends a great
+    wind; the note connects him with a cluster of stars not visible at that season.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Nesaru
+  description: Named in the boy's speech as the maker of decent creatures that the
+    punished Snake will avoid.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: endangered survivor and punisher
+  assigned_to:
+  - fig:1
+  basis: The boy is invaded by the Snake, asserts he is still alive, catches the Snake,
+    and pronounces punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: body-invading serpent enemy
+  assigned_to:
+  - fig:2
+  basis: The Snake enters the sleeping boy's body, moves upward into his head, then
+    flees and is punished.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: father above and helper
+  assigned_to:
+  - fig:3
+  basis: The father above knows the boy's condition and sends a great wind; the note
+    says the boy expected his father's help but believed him absent.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: named creator in speech
+  assigned_to:
+  - fig:4
+  basis: Nesaru is named as the maker of creatures in the boy's pronouncement over
+    the Snake.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Snake / serpent
+  literal_form: Snake entering the boy's body and later punished to crawl
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: rain water in the head
+  literal_form: Hard rain and water filling the boy's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: great wind
+  literal_form: Wind sent by the father above, turning the boy's head toward it
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: scorching heat
+  literal_form: Heat that makes conditions too hot for the Snake
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: flat rock
+  literal_form: Rock used to flatten the Snake's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: father's star cluster
+  literal_form: Cluster of stars to which the boy's father belonged, absent at this
+    time of year
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Snake enters the sleeping boy's body
+  summary: The Snake comes as an enemy while the boy sleeps and enters his body before
+    an alarm can be given; the boy cuts open successive body parts as the Snake moves
+    upward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Weather and survival speech
+  summary: The father above sends wind, rain fills the boy's head, and heat later
+    helps force the Snake outward while the boy says that Old-Woman's Grandson is
+    still alive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Punishment of the Snake
+  summary: The Snake flees from the heat, the boy catches it, pronounces its future
+    shameful crawling, and flattens its head on a rock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Seasonal and stellar explanation
+  summary: The note explains the boy's fear and inaction through the season of unborn
+    young animals and the absence of the father's star cluster.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: serpent invasion and defeat
+  taxonomy_refs:
+  - serpent
+  basis: The Snake enters the boy's body, moves to his head, is forced out, caught,
+    and punished.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a specific Arikara narrative context; no broader historical
+    relation is inferred.
+- id: motif:2
+  label: celestial father aids endangered child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The father above knows the danger and sends a wind; the note links him to
+    a star cluster and to the boy's expectation of paternal help.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The father is celestial or above, but the passage does not explicitly
+    call him a deity.
+- id: motif:3
+  label: etiological punishment explaining snake traits
+  taxonomy_refs:
+  - serpent
+  basis: The boy declares that the Snake will crawl ashamed in the dirt and then flattens
+    its head so its eyes are close to its mouth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy has no separate etiological-animal-origin category,
+    so it is recorded under the serpent family.
+- id: motif:4
+  label: weather-assisted expulsion of an internal threat
+  taxonomy_refs: []
+  basis: Wind turns the opened head, rain fills it, and heat makes the Snake emerge
+    and flee.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a named taxonomy family in
+    the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with a serpent motif family because
+    the central antagonist is a Snake that invades a body and is defeated and transformed
+    by punishment.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim concerns motif grouping only; it does not imply historical
+    contact, common inheritance, or comparison to a specific external text.
+- id: claim:2
+  claim: The father above has the same narrative function as a celestial or divine
+    parent-helper pattern, since he knows the child's danger and sends aid from above.
+  claim_level: same_function
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly label the father as divine, so the
+    mapping is functional and tentative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2775-2781
+  quote_or_summary: While the boy sleeps, the enemy Snake enters his body before the
+    arrow can warn him; the boy cuts open stomach, breast, and throat as it moves
+    into his head.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 2781-2786
+  quote_or_summary: The father above knows what is happening and sends wind; rain
+    fills the boy's head, the Snake peeps out, and the boy says that Old-Woman's Grandson
+    is still alive.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 2786-2793
+  quote_or_summary: Scorching heat makes it too hot for the Snake; the boy catches
+    it, declares its punishment of crawling ashamed in the dirt, and flattens its
+    head on a rock.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 2795-2799
+  quote_or_summary: The note explains that the boy feared the foetus because young
+    animals were unborn and his father's star cluster was not visible; he thought
+    his father could not help him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif assignments
+    are conservative; the divine_parent_child mapping is tentative because the father
+    is not explicitly called a deity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or comparisons were used beyond the supplied passage metadata and available taxonomy references.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l2775-l2799
+  passage_sha256=29cb630b42b5df09d0857eab55167c11a63634b0dda02057992fa06ab46f7aea
+

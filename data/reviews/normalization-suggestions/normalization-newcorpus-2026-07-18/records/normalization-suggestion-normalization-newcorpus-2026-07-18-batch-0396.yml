@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0396
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-contest-of-signs-where-divine-power-overcomes-enchantment
+  motif_id: public_contest_of_signs_where_divine_power_overcomes_enchantment
+  label: Public contest of signs where divine power overcomes enchantment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public miracle/sign contest where divine power defeats enchantment
+    is best treated as direct sacred intervention against rival power.
+  cautions: Could also relate to prophecy_divination or sacred_knowledge if the focus
+    is validating a messenger rather than the contest itself.
+  suggested_aliases:
+  - sign_contest
+  - miracle_contest
+  - divine_power_overcomes_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-curse-inscription-against-a-luxury-bringing-king
+  motif_id: public_curse_inscription_against_a_luxury_bringing_king
+  label: public curse inscription against a luxury-bringing king
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core motif is a public curse inscription, a performative speech act
+    intended to bind or harm.
+  cautions: The luxury-bringing king detail may be passage-specific; if the inscription
+    is only epigraphic context, review for exclusion as artifact.
+  suggested_aliases:
+  - public_curse_inscription
+  - curse_against_king
+  - inscribed_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-sacred-performance-with-spectators
+  motif_id: public_sacred_performance_with_spectators
+  label: Public sacred performance with spectators
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a ritual performance setting but does not specify the
+    symbolic or narrative function.
+  cautions: Culturally sensitive ceremonial context; avoid flattening into sacrifice
+    or storytelling without source evidence. May be too generic for pattern queries.
+  suggested_aliases:
+  - public_ritual_performance
+  - sacred_performance_with_audience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-sign-contest-with-rival-ritual-specialists
+  motif_id: public_sign_contest_with_rival_ritual_specialists
+  label: public sign contest with rival ritual specialists
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest of signs between ritual specialists usually functions to demonstrate
+    superior divine agency or authorization.
+  cautions: If the emphasis is divinatory technique or ritual expertise rather than
+    divine action, prophecy_divination or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - public_sign_contest
+  - contest_with_rival_ritual_specialists
+  - miracle_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-of-sacred-transgressors-by-ritual-destruction
+  motif_id: punishment_of_sacred_transgressors_by_ritual_destruction
+  label: Punishment of sacred transgressors by ritual destruction
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on punishment for sacred transgression, aligning with
+    judgment and restoration of sacred order.
+  cautions: Ritual destruction may involve culturally specific law and should be reviewed
+    carefully; sacred_law may be a secondary placement.
+  suggested_aliases:
+  - punishment_of_sacred_transgressors
+  - ritual_destruction_of_transgressors
+  - sacred_transgression_punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punitive-curse-for-disrespecting-sacred-rites
+  motif_id: punitive_curse_for_disrespecting_sacred_rites
+  label: punitive curse for disrespecting sacred rites
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A punitive curse is a sacred speech act that enforces ritual respect
+    and taboo.
+  cautions: Also touches divine_judgment and sacred_law; cultural context should determine
+    whether the curse is spoken, ritual, or narrative consequence.
+  suggested_aliases:
+  - punitive_curse
+  - curse_for_ritual_disrespect
+  - curse_enforcing_sacred_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punitive-purification-by-dangerous-water-smoke-and-fire
+  motif_id: punitive_purification_by_dangerous_water_smoke_and_fire
+  label: punitive purification by dangerous water, smoke, and fire
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purification through dangerous elements framed as punishment fits sacred
+    judgment and moral purification.
+  cautions: Elemental details may also support sacred_waters or sacred_fire; do not
+    map to flood_and_renewal unless world destruction and renewal are present.
+  suggested_aliases:
+  - punitive_purification
+  - purification_by_water_smoke_and_fire
+  - elemental_punitive_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punitive-separation-marked-by-touch-taboo
+  motif_id: punitive_separation_marked_by_touch_taboo
+  label: punitive separation marked by touch taboo
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A touch taboo that enforces punitive separation is a ritual/legal prohibition
+    regulating purity and social order.
+  cautions: May also imply divine_judgment if the separation is a punishment from
+    sacred authority; verify whether this is narrative punishment or legal rule.
+  suggested_aliases:
+  - touch_taboo
+  - punitive_touch_taboo
+  - separation_by_touch_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pure-dwelling-required-for-holy-helpers
+  motif_id: pure_dwelling_required_for_holy_helpers
+  label: Pure dwelling required for holy helpers
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Requiring a pure dwelling for holy helpers fits purity regulation and
+    sacred order in a domestic or ritual space.
+  cautions: If the main point is angelic or spirit assistance, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - pure_dwelling_for_holy_helpers
+  - purity_required_for_sacred_assistance
+  - ritual_purity_of_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-after-killing-and-contact-with-the-slain
+  motif_id: purification_after_killing_and_contact_with_the_slain
+  label: Purification after killing and contact with the slain
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification after killing or corpse contact is a ritual purity rule
+    governing pollution and restoration of order.
+  cautions: May also relate to sacred_combat or sacrifice depending on whether the
+    killing is martial, sacrificial, or accidental.
+  suggested_aliases:
+  - purification_after_killing
+  - purification_after_contact_with_the_slain
+  - corpse_contact_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve ritual purity, taboo, curse, or culturally
+  specific ceremonial contexts; human review should check source evidence before promoting
+  granular labels.
+- Public sign-contest labels may form a recurring subpattern, but current groups can
+  hold them under divine_intervention unless recurrence warrants a dedicated group
+  later.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0396
+  input_sha256: b36b18925d04448c5e067c772efceba956ad50529d2175f664d51dfc6f61bef5
+

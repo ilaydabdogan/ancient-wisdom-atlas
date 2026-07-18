@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1230
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.odd-number-as-unlucky-household-sign
+  motif_id: odd_number_as_unlucky_household_sign
+  label: odd number as unlucky household sign
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: An unlucky household sign may reflect taboo, omen, or domestic ritual
+    rule, but the function is unclear from the label alone.
+  cautions: Single occurrence and culturally specific; may be a superstition/omen
+    detail rather than a durable motif. Could also fit prophecy_divination if interpreted
+    as omen-reading.
+  suggested_aliases:
+  - unlucky_household_sign
+  - odd_number_omen
+  - domestic_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-woman-helper-in-the-robber-s-house
+  motif_id: old_woman_helper_in_the_robber_s_house
+  label: old woman helper in the robber’s house
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a story role and setting, but not enough function
+    to choose helper, threshold guardian, hospitality, or trickster placement.
+  cautions: Likely folktale episode detail; source context needed to know whether
+    the old woman aids escape, tests the hero, betrays robbers, or serves as a liminal
+    guide.
+  suggested_aliases:
+  - old_woman_helper
+  - helper_in_robbers_house
+  - female_helper_in_dangerous_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omen-bearing-attendant-at-a-doomed-feast
+  motif_id: omen_bearing_attendant_at_a_doomed_feast
+  label: Omen-bearing attendant at a doomed feast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: An attendant carrying or announcing an omen of doom functions as a prophetic
+    or ominous sign within a feast scene.
+  cautions: If the emphasis is feast betrayal or social violation rather than omen,
+    betrayal_violated_trust or divine_judgment may be secondary. Single occurrence
+    may be episode-specific.
+  suggested_aliases:
+  - doom_omen_at_feast
+  - omen_bearer_at_feast
+  - attendant_as_omen_bearer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-righteous-or-marked-house-spared-amid-general-destruction
+  motif_id: one_righteous_or_marked_house_spared_amid_general_destruction
+  label: One righteous or marked house spared amid general destruction
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A marked or righteous household being spared during general destruction
+    fits selective judgment and preservation amid punishment.
+  cautions: Could also relate to protective_mark or ark_vessel if the mark/enclosure
+    is central; avoid assuming flood renewal unless world destruction and renewal
+    are explicit.
+  suggested_aliases:
+  - righteous_house_spared
+  - marked_house_spared
+  - selective_preservation_in_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.open-household-hospitality-with-shared-meat
+  motif_id: open_household_hospitality_with_shared_meat
+  label: open household hospitality with shared meat
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on household hospitality and food sharing, which fits
+    the hospitality/guest obligation complex.
+  cautions: If there is no test, stranger, or sacred obligation, this may be a social
+    custom note better indexed under sacred_exchange or excluded as contextual ethnography.
+  suggested_aliases:
+  - household_hospitality
+  - shared_meat_hospitality
+  - food_sharing_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-milky-way-from-a-heavenly-bridal-veil
+  motif_id: origin_of_the_milky_way_from_a_heavenly_bridal_veil
+  label: Origin of the Milky Way from a heavenly bridal veil
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains a celestial feature's origin, fitting etiological
+    cosmic origin and landscape/cosmos formation patterns.
+  cautions: Highly specific single occurrence; bridal veil imagery may also touch
+    sacred_love or sacred_marriage, but the main function is celestial etiology.
+  suggested_aliases:
+  - milky_way_etiology
+  - celestial_feature_from_bridal_veil
+  - bridal_veil_milky_way_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-platypus-from-anomalous-rejected-offspring
+  motif_id: origin_of_the_platypus_from_anomalous_rejected_offspring
+  label: Origin of the platypus from anomalous rejected offspring
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: low
+  rationale: The label is an origin story for an animal species, but existing groups
+    focus more on cosmic, landscape, or people origins than animal etiologies.
+  cautions: Culturally sensitive tradition and single occurrence; review source evidence
+    before reducing to generic creation or rejection motif. May warrant an animal-etiology
+    group if recurrent.
+  suggested_aliases:
+  - animal_species_origin
+  - platypus_origin
+  - rejected_offspring_animal_etiology
+  suggested_new_group:
+    id: animal_etiology
+    label: Animal Origins and Etiological Species Traits
+    description: Stories explaining the origin, bodily form, traits, or social status
+      of an animal species through mythic events, transformation, ancestry, rejection,
+      punishment, or unusual birth.
+    parent_group_ids:
+    - cosmic_origin
+    - shapeshifter
+    related_group_ids:
+    - sacred_law
+    - miraculous_child
+    reason_existing_groups_insufficient: cosmic_origin can hold broad etiologies,
+      but recurrent animal-species origin labels may lose important species-formation
+      and transformation meaning if treated only as cosmic creation.
+- suggestion_id: normalization.suggestion.otherwise-invulnerable-being-with-a-single-life-bearing-weak-point
+  motif_id: otherwise_invulnerable_being_with_a_single_life_bearing_weak_point
+  label: Otherwise invulnerable being with a single life-bearing weak point
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: This is a close match for apparent invulnerability limited by one vulnerable
+    or life-bearing point.
+  cautions: If the life is stored in a separate object or creature, external_soul
+    may be a secondary or better mapping.
+  suggested_aliases:
+  - single_life_bearing_weak_point
+  - invulnerable_being_with_weak_point
+  - vulnerable_point
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.palace-garden-transformed-into-portable-golden-apple-by-golden-rod
+  motif_id: palace_garden_transformed_into_portable_golden_apple_by_golden_rod
+  label: palace-garden transformed into portable golden apple by golden rod
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: low
+  rationale: A magical rod and golden apple act as power objects enabling transformation
+    or containment, but the label is very episode-specific.
+  cautions: Could fit sacred_vessel if the apple contains the palace-garden, shapeshifter
+    if transformation is central, or sacred_treasures if the rod/apple confer power.
+    Preserve details as evidence rather than canonical motif.
+  suggested_aliases:
+  - palace_garden_transformed_into_apple
+  - portable_golden_apple_container
+  - magic_rod_transforms_palace_garden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.palaces-transformed-into-eggs
+  motif_id: palaces_transformed_into_eggs
+  label: palaces transformed into eggs
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: low
+  rationale: Palaces compressed or transformed into eggs suggest containment in a
+    portable vessel-like form, with possible transformation magic.
+  cautions: Do not map to cosmic_egg unless the egg generates a world, deity, or cosmos.
+    Could be a folktale magic-object detail under shapeshifter or sacred_treasures
+    depending on context.
+  suggested_aliases:
+  - palace_transformed_into_egg
+  - building_contained_in_egg
+  - egg_as_portable_palace_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence folktale or ethnographic details;
+  preserve granular wording as evidence notes and avoid promotion without recurrence.
+- 'Object/space bucket placement was often misleading: several items are better understood
+  as judgment, hospitality, prophecy, invulnerability, or etiological origin motifs.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive or over-specific single-occurrence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1230
+  input_sha256: c5b2fa74c126792711970e15e3580075daa592444133f91d1c2d4280f798dab1
+

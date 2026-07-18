@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l5957-l5977
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: TN GOD ALONE IS GOOD 115 / COMMENTARY / IN GOD ALONE IS GOOD 117 / IN GOB
+    ALONE IS GOOD 119; lines 5957-5977
+  start: '5957'
+  end: '5977'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“Way of Devotion united unto Gnosis”"
+  summary: The commentary describes devotion and gnosis as united, glossed by Sanskrit
+    terms for devotional and knowledge paths. It then states that things are not bad
+    in themselves; rather, evil lies in human attachment to lesser goods and ignorance
+    of greater blessings accessible through spiritual vision of the Good. It adds
+    that even beautiful psychic visions of the soul do not reveal the highest blessed
+    sight.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the Way of Devotion is united with Gnosis.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage glosses the united Way of Devotion and Gnosis with the Sanskrit
+    terms Bhakti-Marga and Jnana-Marga combined.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The commentary says that things are not bad in themselves.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentary identifies evil with men being content with little goods and
+    clinging to them in ignorance of greater blessings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The greater blessings are said to be attainable if men open their spiritual
+    eyes for the True Vision of the Good.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Psychic visions of the soul are described as beautiful but insufficient to
+    reveal the Most Blessed Sight of All.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note compares another Hermetic passage that speaks of preaching the beauty
+    of Devotion and Gnosis.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: men
+  description: Human beings described as content with little goods, clinging to them
+    in ignorance, and potentially able to attain greater blessings by opening spiritual
+    eyes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: soul
+  description: The soul is associated with psychic visions that are beautiful but
+    do not disclose the highest sight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: clingers to lesser goods
+  assigned_to:
+  - fig:1
+  basis: Men are described as content with little goods and clinging desperately to
+    them.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: potential perceivers of the True Vision
+  assigned_to:
+  - fig:1
+  basis: Men could attain greater blessings if they opened their spiritual eyes for
+    the True Vision of the Good.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: bearer of psychic visions
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the psychic visions of the soul and their beauty.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spiritual eyes
+  literal_form: opening spiritual eyes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: True Vision of the Good
+  literal_form: True Vision of the Good; Most Blessed Sight of All
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Devotion and Gnosis combined
+  summary: The commentary presents devotion and gnosis as a united way, with a comparison
+    to Sanskrit devotional and knowledge paths.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attachment to lesser goods and spiritual vision
+  summary: Men cling to lesser goods in ignorance, though greater blessings are said
+    to be attainable through spiritual eyes and the True Vision of the Good; psychic
+    visions of the soul are described as insufficient for the highest sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Devotion united with gnosis
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly joins the Way of Devotion with Gnosis and compares
+    this combination to devotional and knowledge paths.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is commentary and presents a doctrinal synthesis rather than
+    a narrative episode.
+- id: motif:2
+  label: Attachment to lesser goods obscures higher blessing
+  taxonomy_refs:
+  - wisdom
+  basis: The commentary says evil lies in men clinging to little goods in ignorance
+    of greater blessings.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical-philosophical motif candidate, not a concrete mythic
+    action.
+- id: motif:3
+  label: True spiritual vision surpasses lesser psychic visions
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage contrasts spiritual eyes and the True Vision of the Good with
+    beautiful but inadequate psychic visions of the soul.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The mystical-quest classification is inferential because the passage describes
+    vision and attainment but not a full quest sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself glosses the united Way of Devotion and Gnosis by comparison
+    with Sanskrit Bhakti-Marga and Jnana-Marga combined.
+  claim_level: same_function
+  target: Sanskrit Bhakti-Marga and Jnana-Marga
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is an editorial gloss in the provided passage; it does
+    not by itself establish historical contact or common inheritance.
+- id: claim:2
+  claim: The passage’s note links this devotion-and-gnosis theme with another Hermetic
+    passage about preaching the beauty of Devotion and Gnosis.
+  claim_level: same_motif
+  target: G.H., i.27 as cited in the passage note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a short cross-reference and quotation are provided, so the broader
+    context of the compared passage is unavailable here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5957-5961
+  quote_or_summary: "“the Way of Devotion united unto Gnosis” and, in Sanskrit terms,
+    “the Bhakti-Marga and Jnana-Marga combined.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: 5962-5968
+  quote_or_summary: The commentary states that things are not bad in themselves; evil
+    is that men are content with little goods and cling to them in ignorance of greater
+    blessings.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 5968-5974
+  quote_or_summary: Greater blessings are linked to opening spiritual eyes for the
+    True Vision of the Good; even beautiful psychic visions of the soul do not hint
+    at the Most Blessed Sight of All.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: 5976-5977
+  quote_or_summary: 'The note says, “Compare G. H., i. 27,” followed by: “And I began
+    to preach to men the beauty of Devotion and of Gnosis.”'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear but mostly consists of editorial commentary and doctrinal
+    abstraction rather than mythic narrative. Motif labels are therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs are directly present in the passage. Comparison claims are limited to comparisons explicitly made by the passage itself.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l5957-l5977
+  passage_sha256=f73012a8891dea419285023d0290d044c365ac80fa09f4a748b47ab51a5a44cf
+

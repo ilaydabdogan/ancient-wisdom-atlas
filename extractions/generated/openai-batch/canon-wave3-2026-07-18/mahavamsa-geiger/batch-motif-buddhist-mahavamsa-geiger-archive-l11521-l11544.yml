@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l11521-l11544
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CHAPTER  XVI / CHAPTER  XVII / CHAPTER  XIX / THE  COMING  OF  THE  BODHI-TREE;
+    lines 11521-11544
+  start: '11521'
+  end: '11544'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The king Devanampiya-tissa goes to meet the theri after hearing where she
+    has gone, greets and speaks with her, and learns her wish. Perceiving her desire,
+    he orders a pleasing convent for bhikkhunis to be built around the thupa-house.
+    The convent is named Hatthalhaka-vihara because it is near the elephant-post.
+    Samghamitta takes up residence there. The Bodhi-tree remains for a long time in
+    Lanka, in the Mahamegha-grove, bringing benefit to the islanders and advancing
+    the doctrine, endowed with wondrous powers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king hears that she has gone to the convent, goes there himself, greets
+    her, and speaks with her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king hears the wish that caused her to go there.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Devanampiya-tissa is described as a wise, great monarch skilled in perceiving
+    the desires of others.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king orders a pleasing convent for bhikkhunis to be erected around the
+    thupa-house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The convent is said to have been built near the elephant-post and therefore
+    became known as Hatthalhaka-vihara.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Samghamitta takes up residence in the pleasing convent for bhikkhunis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The great Bodhi-tree is called the king of trees and is said to last a long
+    time in Lanka, in the Mahamegha-grove.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Bodhi-tree is said to bring about the good of the dwellers in Lanka and
+    the progress of the doctrine, and to be endowed with many wondrous powers.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Devanampiya-tissa
+  description: The wise, great monarch who visits the theri and orders a convent for
+    bhikkhunis to be built.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Samghamitta
+  description: The well-beloved great theri of lofty wisdom who takes up residence
+    in the convent for bhikkhunis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Great Bodhi-tree
+  description: The king of trees, remaining in Lanka in the Mahamegha-grove, associated
+    with benefit to the islanders, progress of doctrine, and wondrous powers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: royal patron and builder
+  assigned_to:
+  - fig:1
+  basis: Devanampiya-tissa orders the erection of the convent for bhikkhunis after
+    hearing the theri's wish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: resident theri
+  assigned_to:
+  - fig:2
+  basis: Samghamitta is named as a great theri and takes up residence in the convent.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: beneficent sacred tree
+  assigned_to:
+  - fig:3
+  basis: The Bodhi-tree is called the king of trees and is described as aiding Lanka
+    and the doctrine while endowed with wondrous powers.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Bodhi-tree
+  literal_form: tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The king meets the theri and learns her wish
+  summary: The king goes to the convent after hearing she has gone there, greets and
+    speaks with her, and hears the wish behind her visit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Founding and naming of Hatthalhaka-vihara
+  summary: Devanampiya-tissa orders a convent for bhikkhunis to be built around the
+    thupa-house; because it is near the elephant-post, it is known as Hatthalhaka-vihara.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Samghamitta resides and the Bodhi-tree endures in Lanka
+  summary: Samghamitta takes up residence in the convent, while the great Bodhi-tree
+    remains in the Mahamegha-grove, bringing benefit to Lanka and progress to the
+    doctrine.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacred tree sustaining community and doctrine
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The Bodhi-tree is called the king of trees, remains in Lanka, benefits the
+    dwellers there, advances the doctrine, and possesses wondrous powers.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a sacred tree motif, but it does not explicitly describe
+    the tree as a cosmic axis or world center.
+- id: motif:2
+  label: Royal patronage of monastic institution
+  taxonomy_refs: []
+  basis: The king perceives the theri's wish and orders a convent for bhikkhunis to
+    be erected.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a narrative pattern of religious patronage rather than a mapped
+    taxonomy motif in the supplied list.
+- id: motif:3
+  label: Etiological naming of a sacred institution
+  taxonomy_refs: []
+  basis: The convent receives the name Hatthalhaka-vihara because it was built near
+    the elephant-post.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a place-name explanation, but no wider comparative claim
+    is made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11521-11525
+  quote_or_summary: The king comes to the convent after hearing that she has gone
+    there, greets and talks with her, and hears the wish that caused her going.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 11525-11529
+  quote_or_summary: The wise monarch Devanampiya-tissa, skilled in perceiving desires,
+    orders a pleasing convent for bhikkhunis to be built around the thupa-house.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 11529-11533
+  quote_or_summary: Because the convent for bhikkhunis was built near the elephant-post,
+    it was known as Hatthalhaka-vihara.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 11535-11537
+  quote_or_summary: The well-beloved great theri Samghamitta of lofty wisdom takes
+    up residence in the pleasing convent for bhikkhunis.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 11539-11544
+  quote_or_summary: The great Bodhi-tree, called the king of trees, remains for a
+    long time in Lanka's Mahamegha-grove, bringing good to the dwellers in Lanka,
+    advancing the doctrine, and possessing many wondrous powers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Events, figures, and symbols are explicit in the passage. Motif mapping is
+    cautious, especially for sacred_tree_axis, because the passage emphasizes sacred
+    power and doctrinal benefit but not an explicit cosmic-axis function. No comparison
+    claims were extracted because the passage itself does not compare traditions or
+    motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  OCR-like spellings in the supplied passage were not used to expand beyond the provided text; summaries use normalized terms where the meaning is clear from the passage context.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l11521-l11544
+  passage_sha256=a3315b84693bccc894cf5a3ade7af2f7dc104b7fa8e048933d4ba44bc1c3daf5
+

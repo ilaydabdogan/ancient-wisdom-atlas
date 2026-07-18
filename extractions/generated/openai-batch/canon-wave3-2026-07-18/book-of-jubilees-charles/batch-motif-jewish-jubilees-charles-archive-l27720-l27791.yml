@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l27720-l27791
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: INDEX II / THE BOOK OF JUBILEES / INDEX II / THE BOOK OF JUBILEES; lines
+    27720-27791
+  start: '27720'
+  end: '27791'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index excerpt for The Book of Jubilees listing names, places, and topics
+    with references, including Levitical elements in Enoch, named wives and spouses,
+    Maccabean victories, Madai obtaining Media, the cessation of marriage with sisters
+    in Mahalalel’s time, Mastéma identified with Satan and as a prince or chief, geographic
+    entries for a sea and mountains, Melchizedek, and a Messiah from Judah.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index excerpt headed “THE BOOK OF JUBILEES.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes an entry for “Levitical elements in Enoch.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lémna is listed as the wife of Peleg.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index notes that scenes of Maccabean victories are alluded to.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Madai is listed with the note that he obtains Media.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index states that marriage with sisters ceases in Mahalalel’s time.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mastéma is equated with Satan and described as a prince or chief.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index includes geographic entries for the sea of MA&tik and the mountains
+    of Mebri.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Mélka is listed as wife of Levi, Kéinam, Nahor, and Serug.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The index includes an entry for “Messiah from Judah.”
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Lémna
+  description: Listed as wife of Peleg.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Peleg
+  description: Named as the spouse associated with Lémna.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Madai
+  description: Listed with the note that he obtains Media.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Mahalalel
+  description: Named in the index note that marriage with sisters ceases in his time.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Mastéma
+  description: Listed as Mastéma; equated with Satan and described as prince or chief.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Mélka
+  description: Listed as wife of Levi, Kéinam, Nahor, and Serug.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Levi, Kéinam, Nahor, and Serug
+  description: Named as spouses associated with Mélka in the index entry.
+  role_refs: []
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Messiah from Judah
+  description: Index entry states “Messiah from Judah.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Melchizedek
+  description: Listed as an index entry with page and note references.
+  role_refs: []
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: wife
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The passage explicitly lists Lémna as wife of Peleg and Mélka as wife of
+    Levi, Kéinam, Nahor, and Serug.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:2
+  label: obtainer of Media
+  assigned_to:
+  - fig:3
+  basis: The index entry for Madai states that he “obtains Media.”
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: prince or chief
+  assigned_to:
+  - fig:5
+  basis: The index entry for Mastéma describes him as “prince or chief.”
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: identified with Satan
+  assigned_to:
+  - fig:5
+  basis: The index entry equates Mastéma with Satan.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: Judah-associated Messiah
+  assigned_to:
+  - fig:8
+  basis: The index contains the phrase “Messiah from Judah.”
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: indexed sea
+  literal_form: MA&tik, sea of
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: indexed mountains
+  literal_form: Mebri, mountains of
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Judah-associated messianic lineage
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The index entry “Messiah from Judah” supports a cautious lineage-based messianic
+    motif candidate.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: The passage is an index entry only and gives no narrative scene, genealogy,
+    or legitimating argument beyond the phrase itself.
+- id: motif:2
+  label: Cessation of sister marriage
+  taxonomy_refs: []
+  basis: The index states that marriage with sisters ceases in Mahalalel’s time.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The excerpt gives only an index note, not the underlying narrative or
+    legal explanation.
+- id: motif:3
+  label: Territory obtained by named ancestor
+  taxonomy_refs: []
+  basis: The index entry for Madai states that he obtains Media.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not provide the narrative context for the acquisition
+    or an explicit eponymic explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 27720-27791; heading
+  quote_or_summary: "“THE BOOK OF JUBILEES”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 'lines 27720-27791; entry: Levitical elements in Enoch'
+  quote_or_summary: "“Levitical elements in Enoch”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: 'lines 27720-27791; entry: Lémna'
+  quote_or_summary: "“Lémna, wife of Peleg”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: 'lines 27720-27791; entry: Maccabean victories'
+  quote_or_summary: "“Maccabean victories, scenes of, alluded to”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: 'lines 27720-27791; entry: Madai'
+  quote_or_summary: "“Madai” and “obtains Media”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: quote
+  locator: 'lines 27720-27791; entry: Marriage with sisters'
+  quote_or_summary: "“Marriage with sisters ceases in Mahalalel’s time”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: quote
+  locator: 'lines 27720-27791; entry: Mastéma'
+  quote_or_summary: "“Mastéma” is listed with “=Satan” and “prince or chief.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:8
+  type: quote
+  locator: 'lines 27720-27791; entries: MA&tik and Mebri'
+  quote_or_summary: "“MA&tik, sea of” and “Mebri, mountains of”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: quote
+  locator: 'lines 27720-27791; entry: Mélka'
+  quote_or_summary: "“Mélka, wife of Levi”; “wife of Kéinam”; “wife of Nahor”; “wife
+    of Serug.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:10
+  type: quote
+  locator: 'lines 27720-27791; entry: Messiah from Judah'
+  quote_or_summary: "“Messiah from Judah”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:11
+  type: quote
+  locator: 'lines 27720-27791; entry: Melchizedek'
+  quote_or_summary: "“Melchizedek”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is an index rather
+    than a narrative passage. Motif candidates are therefore weak and should be checked
+    against the referenced Jubilees passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the excerpt itself does not make a comparative claim. Symbols are recorded only as literal indexed geographic forms, not as interpreted symbolic meanings.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l27720-l27791
+  passage_sha256=ece84f20fb9e053c0570ec41b9a09c8c6a9ae51550b90551cd770b37abe4b924
+

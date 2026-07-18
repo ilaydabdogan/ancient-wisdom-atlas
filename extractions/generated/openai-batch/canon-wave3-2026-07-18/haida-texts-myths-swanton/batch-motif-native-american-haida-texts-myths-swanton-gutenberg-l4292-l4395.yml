@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l4292-l4395
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: THE GIRL WHO FED A RAVEN / SOUNDING-GAMBLING-STICKS / STORY OF THE FOOD-GIVING-TOWN
+    PEOPLE / STORY OF THOSE-BORN-AT-SKEDANS; lines 4292-4395
+  start: '4292'
+  end: '4395'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A Haida-language transcribed passage in a grouped line range whose supplied
+    English locator names four story units: a girl who fed a raven, Sounding-Gambling-Sticks,
+    the Food-Giving-Town people, and Those-Born-at-Skedans. The supplied passage text
+    itself is not accompanied by an English translation in the request.'
+  language: Haida (Skidegate dialect transcription) with English locator metadata
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied locator groups four English story labels in one line range.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One supplied story label names an unnamed girl who fed a raven.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One supplied story label names Sounding-Gambling-Sticks.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: One supplied story label names the Food-Giving-Town people.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: One supplied story label names Those-Born-at-Skedans.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The supplied passage text is a Haida transcription with visible named forms
+    and quoted speech, but no English translation is included in the request.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed girl
+  description: A girl named in the English story label as the one who fed a raven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Raven
+  description: A raven named in the English story label as the being fed by the girl.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Food-Giving-Town people
+  description: A collective group named in the supplied English story label.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Those-Born-at-Skedans
+  description: A collective group named in the supplied English story label by birth
+    connection to Skedans.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: feeder of raven
+  assigned_to:
+  - fig:1
+  basis: The English story label identifies the girl as having fed a raven.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of feeding
+  assigned_to:
+  - fig:2
+  basis: The English story label identifies the raven as the being fed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: food-giving collective
+  assigned_to:
+  - fig:3
+  basis: The English story label names the group as Food-Giving-Town people.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: birth-place collective
+  assigned_to:
+  - fig:4
+  basis: The English story label names the group as Those-Born-at-Skedans.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: raven
+  literal_form: raven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gambling sticks
+  literal_form: Sounding-Gambling-Sticks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: food-giving town
+  literal_form: Food-Giving-Town
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Skedans
+  literal_form: Skedans as a place-name in the phrase Those-Born-at-Skedans
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: title-level raven feeding
+  summary: The supplied English story label identifies a premise in which an unnamed
+    girl fed a raven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: title-level gambling-sticks unit
+  summary: The supplied English story label identifies a narrative unit named for
+    Sounding-Gambling-Sticks.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: title-level food-giving town people unit
+  summary: The supplied English story label identifies a narrative unit named for
+    the Food-Giving-Town people.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:4
+  label: title-level Skedans birth group unit
+  summary: The supplied English story label identifies a narrative unit named for
+    Those-Born-at-Skedans.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: feeding a raven
+  taxonomy_refs: []
+  basis: The supplied English story label explicitly names a girl who fed a raven.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is extracted from the English locator/title only; the supplied
+    Haida passage is not translated in the request.
+- id: motif:2
+  label: sounding gambling sticks
+  taxonomy_refs: []
+  basis: The supplied English story label names Sounding-Gambling-Sticks as a story
+    unit.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The role of the object is not explained in the supplied untranslated Haida
+    text.
+- id: motif:3
+  label: food-giving community
+  taxonomy_refs: []
+  basis: The supplied English story label names the Food-Giving-Town people.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The form and narrative function of the food-giving are not available from
+    the supplied untranslated passage.
+- id: motif:4
+  label: people defined by birth at a named place
+  taxonomy_refs: []
+  basis: The supplied English story label names Those-Born-at-Skedans.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The narrative significance of birth at Skedans is not explained in the
+    supplied untranslated passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: passage locator label; lines 4292-4395
+  quote_or_summary: 'Supplied locator label: “THE GIRL WHO FED A RAVEN / SOUNDING-GAMBLING-STICKS
+    / STORY OF THE FOOD-GIVING-TOWN PEOPLE / STORY OF THOSE-BORN-AT-SKEDANS.”'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; locator metadata supplied in request.
+- id: ev:2
+  type: note
+  locator: lines 4292-4395
+  quote_or_summary: The supplied passage_text is Haida transcription without an accompanying
+    English translation in the request.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4292-4395, near end of supplied range
+  quote_or_summary: The passage includes quoted Haida speech, for example an utterance
+    beginning “Dalqꜝā′-iłgᴀłgîñ ... auwiyā′, auwiyā′,” followed by a speech formula.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: low
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited because the supplied passage text is primarily Haida
+    transcription without English translation. Motif candidates are based only on
+    the supplied English locator/story labels and should be checked against the full
+    translated edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the supplied evidence does not clearly support one. No comparison claims were made.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l4292-l4395
+  passage_sha256=47225d1952876f32b1a1ffa0dc3b5ad2897cb3205fb2516a5725c6367bc9f73f
+

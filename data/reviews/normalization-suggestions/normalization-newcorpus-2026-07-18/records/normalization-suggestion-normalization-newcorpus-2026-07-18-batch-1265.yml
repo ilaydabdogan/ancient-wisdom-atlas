@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1265
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.numbered-catalogues-of-virtues-and-errors
+  motif_id: numbered_catalogues_of_virtues_and_errors
+  label: Numbered catalogues of virtues and errors
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Structured lists of virtues and errors function as ethical instruction
+    or practical wisdom.
+  cautions: Could also fit sacred_law if framed as binding social order rather than
+    teaching; single occurrence.
+  suggested_aliases:
+  - ethical catalogue
+  - catalogue of virtues and errors
+  - numbered ethical teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-grief-tale-closure
+  motif_id: numbered_grief_tale_closure
+  label: numbered grief tale closure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a narrative or cataloguing closure device
+    rather than a symbolic motif.
+  cautions: If the passage centers on mourning itself, map evidence to lament_and_mourning
+    instead; source context needed.
+  suggested_aliases:
+  - numbered tale closure
+  - grief tale closure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omen-of-loss-or-danger
+  motif_id: omen_of_loss_or_danger
+  label: Omen of loss or danger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An omen forecasting danger or loss belongs with signs used to access
+    hidden or future knowledge.
+  cautions: If the omen is a spontaneous dream or vision, dream_and_vision may be
+    the better placement.
+  suggested_aliases:
+  - danger omen
+  - omen of impending loss
+  - ill omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parallel-temptation-episodes-in-gilgamesh-and-enkidu-cycles
+  motif_id: parallel_temptation_episodes_in_gilgamesh_and_enkidu_cycles
+  label: parallel temptation episodes in Gilgamesh and Enkidu cycles
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative observation about parallel episodes
+    in named cycles, not a reusable motif.
+  cautions: If individual passages show temptation as ordeal, extract that narrower
+    evidence separately under initiation or sacred_love as appropriate.
+  suggested_aliases:
+  - parallel temptation episodes
+  - Gilgamesh Enkidu cycle parallel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-renunciation-does-not-avert-murder
+  motif_id: peaceful_renunciation_does_not_avert_murder
+  label: Peaceful renunciation does not avert murder
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines renunciation, violence, and tragic failure; the main
+    narrative function is unclear.
+  cautions: Could map to sacred_exchange/renunciation, sacrifice, divine_judgment,
+    lament_and_mourning, or conflict depending on passage evidence.
+  suggested_aliases:
+  - renunciation fails to prevent murder
+  - failed peaceful renunciation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.penitential-self-abasement-after-transgression
+  motif_id: penitential_self_abasement_after_transgression
+  label: Penitential self-abasement after transgression
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Penitential abasement repairs a damaged moral or sacred relationship
+    through self-lowering and renunciation.
+  cautions: If framed as punishment or moral reckoning rather than repair, divine_judgment
+    may be secondary.
+  suggested_aliases:
+  - penitential abasement
+  - self-abasement after sin
+  - repentant self-humbling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.penitential-self-abasement-for-a-past-sin
+  motif_id: penitential_self_abasement_for_a_past_sin
+  label: Penitential self-abasement for a past sin
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Self-abasement for sin is a reparative offering or renunciatory act within
+    sacred relationship.
+  cautions: Very close to penitential_self_abasement_after_transgression; consider
+    aliasing rather than preserving as separate query motif.
+  suggested_aliases:
+  - penitential abasement
+  - self-abasement for sin
+  - repentant self-humbling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.penitential-self-binding-after-betrayal
+  motif_id: penitential_self_binding_after_betrayal
+  label: Penitential self-binding after betrayal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The betrayal and subsequent penitential binding center on repairing or
+    responding to violated trust.
+  cautions: If the self-binding is a vow, oath, or ascetic act, curse_blessing_speech
+    or sacred_exchange may be important secondary mappings.
+  suggested_aliases:
+  - penitential binding after betrayal
+  - self-binding after betrayal
+  - penance for betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-assignment-of-ethnic-virtues-and-arts
+  motif_id: poetic_assignment_of_ethnic_virtues_and_arts
+  label: Poetic assignment of ethnic virtues and arts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an ethnographic poetic catalogue, origin explanation,
+    or textual device rather than a motif.
+  cautions: Culturally sensitive ethnic characterization; avoid indexing without source
+    context. Could be _meta_textual, storytelling_as_power, or cosmic_origin if etiological.
+  suggested_aliases:
+  - ethnic virtues catalogue
+  - poetic ethnic characterization
+  - assignment of arts to peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-outsider-recruited-for-dangerous-task_through-food-promise
+  motif_id: poor_outsider_recruited_for_dangerous_task_through_food_promise
+  label: Poor outsider recruited for dangerous task through food promise
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines poverty, outsider status, inducement by food, and
+    dangerous task; no single existing group captures the function clearly.
+  cautions: Could involve initiation ordeal, trickster exploitation, sacred_exchange,
+    or a passage-specific plot detail. Review Native source context carefully.
+  suggested_aliases:
+  - outsider recruited by food promise
+  - food promise for dangerous task
+  - poor outsider dangerous task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract or episode-specific;
+  avoid promoting them without recurrence or source review.
+- Penitential self-abasement labels appear close enough to consolidate as aliases
+  if human review confirms the same function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review required for ambiguous,
+    culturally sensitive, or passage-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1265
+  input_sha256: 4857e7642960f4f9477fc2ffe4cc63a169f3352a5620f72248b3ba292f6687c5
+

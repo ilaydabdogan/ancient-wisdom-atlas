@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0439
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-setting-apart-of-a-prize-object
+  motif_id: sacred_setting_apart_of_a_prize_object
+  label: Sacred setting-apart of a prize object
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Setting apart a valued prize as sacred fits consecration or offering
+    within the sacrifice/sacred-exchange complex.
+  cautions: Single occurrence; if the prize object mainly confers status or authority,
+    sacred_treasures or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - consecrated_prize_object
+  - sacred_prize_dedication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-shrine-veneration-with-offerings
+  motif_id: sacred_shrine_veneration_with_offerings
+  label: sacred shrine veneration with offerings
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Shrine veneration through offerings is a ritualized gift or devotional
+    exchange with sacred presence.
+  cautions: If the shrine is specifically a tomb or relic site, sacred_treasures or
+    ancestor_rites may also be relevant.
+  suggested_aliases:
+  - shrine_offerings
+  - veneration_with_offerings
+  - devotional_offerings_at_shrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-site-display-of-competing-compositions
+  motif_id: sacred_site_display_of_competing_compositions
+  label: sacred-site display of competing compositions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on public poetic or textual display as culturally powerful
+    composition in a sacred setting.
+  cautions: May be a historical or literary-context detail rather than a mythic motif;
+    exclude if only describing venue or manuscript history.
+  suggested_aliases:
+  - sacred_site_poetic_contest
+  - display_of_competing_compositions
+  - composition_contest_at_sacred_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-social-boundaries-around-house-body-and-household-dependents
+  motif_id: sacred_social_boundaries_around_house_body_and_household_dependents
+  label: Sacred social boundaries around house, body, and household dependents
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rules regulating household, bodily, and dependent boundaries fit sacred
+    law and social order.
+  cautions: Broad composite label; preserve whether the passage concerns modesty,
+    property, purity, kinship, or household obligation.
+  suggested_aliases:
+  - sacred_household_boundaries
+  - house_body_household_dependents_boundaries
+  - ritual_social_boundaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-song-exactness-and-fixed-ritual-sequence
+  motif_id: sacred_song_exactness_and_fixed_ritual_sequence
+  label: Sacred song exactness and fixed ritual sequence
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred song with required exactness points to ritual sound power, but
+    its cultural specificity and ceremonial context need review.
+  cautions: Do not flatten Navajo ceremonial sequence into generic music magic; may
+    belong under sacred_law, sacred_knowledge, or a restricted ritual-protocol category
+    depending on evidence.
+  suggested_aliases:
+  - fixed_ritual_song_sequence
+  - ritual_song_exactness
+  - ceremonial_song_protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sound-as-meditative-symbol-of-unity
+  motif_id: sacred_sound_as_meditative_symbol_of_unity
+  label: sacred sound as meditative symbol of unity
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Meditative sacred sound symbolizing unity fits contemplative practice
+    and realization of sacred unity.
+  cautions: If the passage emphasizes mantra as performative speech rather than meditation,
+    curse_blessing_speech or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - meditative_sacred_sound
+  - sacred_sound_of_unity
+  - mantric_unity_symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-speech-bringing-auspicious-victory-and-power
+  motif_id: sacred_speech_bringing_auspicious_victory_and_power
+  label: sacred speech bringing auspicious victory and power
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: Speech that actively confers victory and power is a performative blessing
+    or sacred utterance.
+  cautions: Could overlap with divine_warrior or sacred_combat if embedded in battle
+    ritual; avoid treating all sacred recitation as combat motif.
+  suggested_aliases:
+  - victory_blessing_speech
+  - auspicious_sacred_utterance
+  - performative_speech_confers_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-speech-perceived-as-enchantment
+  motif_id: sacred_speech_perceived_as_enchantment
+  label: sacred speech perceived as enchantment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames sacred utterance as an effective or enchanting speech
+    act.
+  cautions: May be polemical, reception-focused, or commentary about listeners' perception;
+    exclude if not describing a motif within the source narrative.
+  suggested_aliases:
+  - enchanting_sacred_speech
+  - speech_as_enchantment
+  - powerful_sacred_utterance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-spring-controls-rain-and-drought
+  motif_id: sacred_spring_controls_rain_and_drought
+  label: Sacred spring controls rain and drought
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spring governing rain and drought is a sacred-water locus with weather-control
+    power.
+  cautions: If ritual coercion or offering to the spring is central, sacred_exchange
+    or divine_intervention may also apply; weather-control motifs may need future
+    grouping if recurrent.
+  suggested_aliases:
+  - rainmaking_sacred_spring
+  - weather_controlling_spring
+  - sacred_water_controls_drought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-stone-images-enlivened-in-a-mountain
+  motif_id: sacred_stone_images_enlivened_in_a_mountain
+  label: Sacred stone images enlivened in a mountain
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enlivened stone images align with animated sacred images and artificial
+    life within sacred craft.
+  cautions: Mountain setting may also point to axis_mundi; review cultural context
+    carefully before treating ceremonial images as generic animation motifs.
+  suggested_aliases:
+  - enlivened_stone_images
+  - animated_sacred_stone_images
+  - stone_images_given_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels are single-occurrence and should remain provisional evidence-level mappings
+  until recurrence or passage context is reviewed.
+- Several sacred speech and song labels overlap across curse_blessing_speech, enchanting_music,
+  sacred_knowledge, and mystical_quest; final placement should follow narrative function
+  rather than medium alone.
+- Culturally specific ceremonial labels, especially Navajo ritual-song and image contexts,
+  warrant human review before broad comparative querying.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0439
+  input_sha256: 36e409b71e818a7b40df8393b14902a2bf3eabbf6d2a331bb5846cd6d632ae89
+

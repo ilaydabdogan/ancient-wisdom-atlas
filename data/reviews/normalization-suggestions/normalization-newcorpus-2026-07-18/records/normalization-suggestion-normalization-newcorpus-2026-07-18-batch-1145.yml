@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1145
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rousing-a-hero-for-contest-or-war
+  motif_id: rousing_a_hero_for_contest_or_war
+  label: rousing a hero for contest or war
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes mobilizing a hero into contest or war, fitting the
+    heroic combat complex more than general journey or kingship.
+  cautions: Single occurrence; if the scene is only a narrative transition without
+    ritual or sacred combat force, it may be an over-specific episode detail.
+  suggested_aliases:
+  - hero_roused_for_battle
+  - rousing_the_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rousing-sleeping-heroes-for-emergency-action
+  motif_id: rousing_sleeping_heroes_for_emergency_action
+  label: rousing sleeping heroes for emergency action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could involve heroic combat mobilization, miraculous sleeper/return,
+    or a simple episode of awakening depending on source context.
+  cautions: Do not map to resurrection or death-return unless the sleep is enchanted,
+    deathlike, or eschatological; otherwise may be too specific for pattern queries.
+  suggested_aliases:
+  - sleeping_heroes_roused
+  - awakening_heroes_for_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-borrowing-of-a-wonderful-object-with-threat-of-war
+  motif_id: royal_borrowing_of_a_wonderful_object_with_threat_of_war
+  label: royal borrowing of a wonderful object with threat of war
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The wonderful object drives royal conflict, and sacred_treasures already
+    covers power objects that confer authority or ability.
+  cautions: If the emphasis is coercive diplomacy or war threat rather than the object’s
+    power, sacred_combat or royal_legitimacy may be useful secondary context.
+  suggested_aliases:
+  - contested_wonderful_object
+  - royal_claim_to_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-enemy-captured-by-noose
+  motif_id: royal_enemy_captured_by_noose
+  label: royal enemy captured by noose
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a specific capture method rather than a
+    durable symbolic or narrative motif represented in the taxonomy.
+  cautions: If the noose is a divine weapon, fate-token, or ritual binding object
+    in the passage, reconsider under sacred_treasures or curse_blessing_speech.
+  suggested_aliases:
+  - enemy_captured_by_noose
+  - noose_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-golden-apple-recognition-contest
+  motif_id: royal_golden_apple_recognition_contest
+  label: royal golden-apple recognition contest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function appears to be recognition or identity proof through
+    a contest involving a distinctive token/object.
+  cautions: If the golden apple is primarily a sacred treasure or bride-winning contest
+    object, secondary mapping to sacred_treasures or sacred_love may be appropriate.
+  suggested_aliases:
+  - golden_apple_recognition
+  - recognition_contest_with_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-hero-degraded-to-cowherd
+  motif_id: royal_hero_degraded_to_cowherd
+  label: Royal hero degraded to cowherd
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal hero’s abasement to low status can function as a trial or identity
+    reversal within a hero arc before restoration.
+  cautions: If the episode centers on hidden identity proof, recognition_tokens_hidden_identity
+    may be stronger; if only social humiliation, it may be too contextual.
+  suggested_aliases:
+  - hero_degraded_to_low_status
+  - royal_hero_in_disguise_as_cowherd
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-largesse-binds-the-warrior-community
+  motif_id: royal_largesse_binds_the_warrior_community
+  label: royal largesse binds the warrior community
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Royal gift-giving creates reciprocal obligation and cohesion, matching
+    sacred exchange and social bonding through gifts.
+  cautions: May also support royal_legitimacy if the focus is kingly authority; verify
+    that largesse is narratively significant, not merely background court custom.
+  suggested_aliases:
+  - royal_largesse
+  - gift_giving_binds_warriors
+  - lord_retainer_reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-mercy-and-pledge-after-battle
+  motif_id: royal_mercy_and_pledge_after_battle
+  label: royal mercy and pledge after battle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy followed by a pledge creates or repairs a binding social order
+    after conflict, fitting covenant and sacred bond.
+  cautions: If the passage emphasizes judgment, defeat, or kingly virtue more than
+    pledge-making, divine_judgment or royal_legitimacy may be secondary fits.
+  suggested_aliases:
+  - mercy_and_pledge_after_battle
+  - postbattle_mercy_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-reward-and-feast-after-heroic-victory
+  motif_id: royal_reward_and_feast_after_heroic_victory
+  label: Royal reward and feast after heroic victory
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reward and feast after victory express reciprocal recognition between
+    ruler and hero or warrior community.
+  cautions: Could also be an over-specific closure scene; use royal_legitimacy or
+    sacred_combat as secondary context only if the passage emphasizes kingship or
+    battle order.
+  suggested_aliases:
+  - victory_feast_and_reward
+  - hero_rewarded_after_victory
+  - royal_feast_after_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-reward-for-a-successful-healer
+  motif_id: royal_reward_for_a_successful_healer
+  label: royal reward for a successful healer
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve sacred healing, court reward, recognition, or
+    simple folktale compensation; current groups lack a clean healing-reward category.
+  cautions: If the healer uses divine aid, map to divine_intervention; if a power
+    object or sign proves healing, sacred_treasures may fit. Otherwise it may be too
+    episode-specific.
+  suggested_aliases:
+  - healer_rewarded_by_king
+  - reward_for_successful_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic or courtly episode details;
+  final placement should check whether the passage evidence shows recurring motif
+  function rather than plot mechanics.
+- For royal reward, mercy, and largesse labels, distinguish reciprocal social bonding
+  from royal legitimacy and from generic post-battle closure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    low-occurrence conflict and court-scene labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1145
+  input_sha256: d5988539876fe942c82411acc43f2c688c08f4b30432c333f6e8762d92391c2a
+

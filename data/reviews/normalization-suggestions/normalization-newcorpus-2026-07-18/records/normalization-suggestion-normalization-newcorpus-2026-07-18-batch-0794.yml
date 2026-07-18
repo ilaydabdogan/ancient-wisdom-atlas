@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0794
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-deception-or-duping
+  motif_id: animal_deception_or_duping
+  label: animal deception or duping
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal deception fits the trickster/deceptive animal strategy cluster
+    already grouped under trickster.
+  cautions: Single occurrence; confirm whether the animal is an active deceiver rather
+    than a passing plot detail.
+  suggested_aliases:
+  - animal trickery
+  - deceptive animal
+  - animal duping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-decoy-in-human-clothing
+  motif_id: animal_decoy_in_human_clothing
+  label: animal decoy in human clothing
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dressed animal decoy functions as disguise or deceptive substitution,
+    aligning with trickster stratagems.
+  cautions: Could also touch shapeshifter if the animal is mistaken for or transformed
+    into a person; review passage evidence.
+  suggested_aliases:
+  - animal decoy disguise
+  - animal in human clothing
+  - deceptive animal substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-deified-through-thunder-and-lightning-attribution
+  motif_id: animal_deified_through_thunder_and_lightning_attribution
+  label: Animal deified through thunder and lightning attribution
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal divinization with storm-power attribution,
+    but no current group clearly captures animal apotheosis or storm deity identification.
+  cautions: May be a culturally specific theological classification or commentary
+    artifact; avoid flattening Indigenous storm/animal associations without source
+    review.
+  suggested_aliases:
+  - storm animal deification
+  - animal attributed thunder and lightning
+  - animal as storm deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-derived-boat-covering-and-sail-materials
+  motif_id: animal_derived_boat_covering_and_sail_materials
+  label: animal-derived boat covering and sail materials
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a material-culture or passage detail about boat construction
+    rather than a symbolic motif.
+  cautions: If the passage frames the boat as a preserving vessel or sacred craft,
+    remap to sacred_vessel or sacred_craft; otherwise exclude from motif queries.
+  suggested_aliases:
+  - animal-skin boat materials
+  - boat covering from animal materials
+  - sail materials from animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-derived-sewing-toolkit
+  motif_id: animal_derived_sewing_toolkit
+  label: animal-derived sewing toolkit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a practical artifact catalogue detail, not a recurrent
+    mythic narrative or symbolic motif.
+  cautions: If tools are divinely given, magical, or culture-founding in the passage,
+    review for culture_hero, sacred_craft, or sacred_treasures.
+  suggested_aliases:
+  - animal-bone sewing tools
+  - sewing toolkit from animal materials
+  - animal-derived tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dietary-catalogue
+  motif_id: animal_dietary_catalogue
+  label: animal dietary catalogue
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: A catalogue of animal diets is likely descriptive or encyclopedic content
+    rather than a motif.
+  cautions: If the catalogue encodes ritual food law or taboo, review for sacred_law;
+    the current wording alone is too generic.
+  suggested_aliases:
+  - animal diet list
+  - catalogue of animal foods
+  - dietary animal catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-distraction-leading-to-loss-of-wealth
+  motif_id: animal_distraction_leading_to_loss_of_wealth
+  label: animal distraction leading to loss of wealth
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A loss caused by animal distraction may fit trickster-style deception
+    or predatory misdirection.
+  cautions: Could be an over-specific episode detail or moral exemplum about carelessness/wealth;
+    verify animal agency and deception before indexing.
+  suggested_aliases:
+  - animal distraction causes loss
+  - animal trick causes loss of wealth
+  - wealth lost through animal misdirection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-doctor-visited-by-humans-for-cures
+  motif_id: animal_doctor_visited_by_humans_for_cures
+  label: animal doctor visited by humans for cures
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif centers on animal healers, a role not cleanly represented by
+    existing trickster, shapeshifter, or divine_intervention groups.
+  cautions: Culturally sensitive healing-role material; determine whether animals
+    are spirit doctors, tutelary beings, fable characters, or ritual specialists before
+    mapping.
+  suggested_aliases:
+  - animal healer
+  - animal doctor cures humans
+  - humans visit animal doctors
+  suggested_new_group:
+    id: animal_healer
+    label: Animal Healer and Nonhuman Doctor
+    description: Animals or nonhuman beings act as healers, doctors, or sources of
+      cures for humans, often crossing boundaries between animal, spirit, and human
+      knowledge.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    related_group_ids:
+    - shapeshifter
+    - animal_helpers
+    reason_existing_groups_insufficient: Existing groups include animal helpers and
+      divine intervention, but do not preserve the specific healing-doctor role of
+      animals.
+- suggestion_id: normalization.suggestion.animal-doctors-restore-a-broken-limb
+  motif_id: animal_doctors_restore_a_broken_limb
+  label: animal doctors restore a broken limb
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a specific healing act by animal doctors and may belong with
+    a broader animal-healer pattern if supported by evidence.
+  cautions: Could be too episode-specific; review alongside related Hopi animal-doctor
+    labels before creating or mapping a group.
+  suggested_aliases:
+  - animal doctors heal injury
+  - animal healers restore limb
+  - broken limb restored by animal doctors
+  suggested_new_group:
+    id: animal_healer
+    label: Animal Healer and Nonhuman Doctor
+    description: Animals or nonhuman beings act as healers, doctors, or sources of
+      cures for humans, often crossing boundaries between animal, spirit, and human
+      knowledge.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    related_group_ids:
+    - shapeshifter
+    - animal_helpers
+    reason_existing_groups_insufficient: Existing groups do not distinguish animal
+      healing specialists from general animal helpers or divine intervention.
+- suggestion_id: normalization.suggestion.animal-drawn-sledge
+  motif_id: animal_drawn_sledge
+  label: Animal-drawn sledge
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a transport technology or setting detail rather than
+    a symbolic or narrative motif.
+  cautions: If the sledge is magical, otherworldly, or functions as a quest vehicle,
+    review under sacred_treasures, sacred_craft, or hero_journey.
+  suggested_aliases:
+  - animal-drawn sled
+  - sledge pulled by animals
+  - animal transport sledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal/material-culture details;
+  exclude or retain as evidence notes unless passage context gives them mythic function.
+- Animal-healer labels recur within the same tradition and may warrant a human-reviewed
+  candidate group, but should not be promoted without source confirmation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed especially
+    for culturally specific animal-healer and animal-deification material.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0794
+  input_sha256: a6c1c3e210bb21715aec2cc5af24f6ccfc27c8df12793c4dc01bdbf1969cdce0
+

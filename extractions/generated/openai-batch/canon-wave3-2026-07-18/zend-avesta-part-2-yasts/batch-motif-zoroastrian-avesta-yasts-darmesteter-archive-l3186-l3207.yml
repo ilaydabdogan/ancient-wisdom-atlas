@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l3186-l3207
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: HAPTAN    YA5T.  39 / ARDIBEUWT    YAST.  41 / KPIORDAD    VAST.  49 / E    2;
+    lines 3186-3207
+  start: '3186'
+  end: '3207'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage invokes holy ritual words and actions, gives fragments of the
+    Yatha Ahu Vairyo and Ashem Vohu formulas, blesses sacrifice and prayer associated
+    with Haurvatat, and asks that a man receive brightness, glory, and a blissful
+    abode among the holy Ones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names holy spells, speech, deeds, libations, and rightly-spoken
+    words.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Yatha Ahu Vairyo formula is introduced, including a statement that the
+    will of the Lord is the law of holiness.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker blesses sacrifice and prayer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker blesses the strength and vigour of Haurvatat, who is called the
+    master.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage refers to prosperity of the seasons and of the years and to masters
+    of holiness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Ashem Vohu formula is introduced, including a statement that holiness
+    is the best of all good.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A request is made that a man receive brightness, glory, and a bright, happy,
+    blissful abode of the holy Ones.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lord
+  description: Named in the translated Yatha Ahu Vairyo formula as the one whose will
+    is the law of holiness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Haurvatat
+  description: Named as associated with strength and vigour and called the master.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: that man
+  description: The unnamed recipient for whom brightness, glory, and a blissful abode
+    are requested.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: holy Ones
+  description: The beings associated with the bright, happy, blissful abode requested
+    for the man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: source of holy law
+  assigned_to:
+  - fig:1
+  basis: The formula says the will of the Lord is the law of holiness.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: blessed master
+  assigned_to:
+  - fig:2
+  basis: The speaker blesses the strength and vigour of Haurvatat, called the master.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient of requested blessing
+  assigned_to:
+  - fig:3
+  basis: The passage asks that brightness, glory, and a blissful abode be given to
+    the man.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: holy inhabitants or possessors of abode
+  assigned_to:
+  - fig:4
+  basis: The requested abode is described as the abode of the holy Ones.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: libations
+  literal_form: libations
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: holy formulas
+  literal_form: Yatha Ahu Vairyo and Ashem Vohu utterances
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: brightness and glory
+  literal_form: brightness and glory
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: blissful abode
+  literal_form: bright, all happy, blissful abode of the holy Ones
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: seasons and years
+  literal_form: seasons and years
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Invocation of holy words and ritual elements
+  summary: The passage lists holy spells, speech, deeds, libations, and rightly-spoken
+    words, then gives fragments of two sacred formulas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Blessing and request for reward
+  summary: The speaker blesses sacrifice, prayer, and the strength and vigour of Haurvatat,
+    then asks that a man receive brightness, glory, and a blissful abode of the holy
+    Ones.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual blessing and sacred exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Blessing of sacrifice and prayer is paired with a request that a man receive
+    brightness, glory, and a blissful abode.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is liturgical and fragmentary; it does not narrate a completed
+    exchange or specify the recipient's actions.
+- id: motif:2
+  label: holy speech as efficacious ritual language
+  taxonomy_refs:
+  - wisdom
+  basis: The passage foregrounds holy spells, rightly-spoken words, and named formulas
+    about holiness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The available taxonomy has no exact category for liturgical formula or
+    sacred utterance; the wisdom reference is only approximate.
+- id: motif:3
+  label: seasonal prosperity under holy mastery
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage mentions prosperity of the seasons and of the years in the context
+    of blessing.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage only briefly names seasons and years and gives no narrative
+    cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3186-3190
+  quote_or_summary: '"holy spells, the speech, the deeds, the libations, and the rightly-spoken
+    words."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3192-3194
+  quote_or_summary: '"Yatha ahu vairyo: The will of the Lord is the law of holiness"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3196-3200
+  quote_or_summary: The speaker blesses sacrifice and prayer, and the strength and
+    vigour of Haurvatat, the master, with reference to prosperity of the seasons and
+    years and masters of holiness.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3202-3203
+  quote_or_summary: '"Ashem Vohu: Holiness is the best of all good"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3205-3207
+  quote_or_summary: A request asks that a man be given brightness and glory and a
+    bright, happy, blissful abode of the holy Ones.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is short, liturgical, and appears excerpted from a larger sequence;
+    figures and motifs are therefore limited to directly named or clearly implied
+    elements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l3186-l3207
+  passage_sha256=463bc7f78b0bfcf8ab50b42533aa0ec948c850da109368e281a11d198a67e481
+

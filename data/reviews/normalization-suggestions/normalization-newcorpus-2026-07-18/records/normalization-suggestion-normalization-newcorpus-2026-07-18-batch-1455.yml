@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1455
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.knot-and-breath-magic-used-to-harm
+  motif_id: knot_and_breath_magic_used_to_harm
+  label: Knot-and-breath magic used to harm
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: Harmful knot-and-breath magic may function as a performative speech or
+    breath act that binds or harms.
+  cautions: Could be sorcery, apotropaic counter-magic, ritual prohibition, or passage-specific
+    polemic; source context is needed before indexing.
+  suggested_aliases:
+  - harmful_knot_magic
+  - breath_magic_to_harm
+  - binding_magic_by_knots
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.koshchei-linked-with-punchkin-and-a-heartless-giant
+  motif_id: koshchei_linked_with_punchkin_and_a_heartless_giant
+  label: Koshchei linked with Punchkin and a heartless giant
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative linkage among named tale figures rather
+    than a reusable narrative motif.
+  cautions: If the passage actually centers on the heart hidden outside the body,
+    index that evidence under external_soul instead of this comparative label.
+  suggested_aliases:
+  - comparative_link_koshchei_punchkin_heartless_giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.labor-accomplished-while-the-beneficiary-sleeps
+  motif_id: labor_accomplished_while_the_beneficiary_sleeps
+  label: labor accomplished while the beneficiary sleeps
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Hidden labor completed during sleep may indicate supernatural aid or
+    intervention on behalf of a beneficiary.
+  cautions: May instead be fairy craft, helper-animal aid, magical task completion,
+    or an ordinary plot device; no clear existing group captures it without evidence.
+  suggested_aliases:
+  - hidden_helper_labor_during_sleep
+  - supernatural_task_completed_while_sleeping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-a-fallen-equal
+  motif_id: lament_for_a_fallen_equal
+  label: Lament for a fallen equal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label is a specific lament for a dead peer, fitting the existing
+    lament and mourning group.
+  cautions: Preserve the peer/equal relationship as evidence detail; may overlap with
+    heroic funeral or sacred combat if ritual honors or battle context dominate.
+  suggested_aliases:
+  - mourning_a_fallen_equal
+  - lament_for_dead_peer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-a-slain-sworn-companion
+  motif_id: lament_for_a_slain_sworn_companion
+  label: lament for a slain sworn companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A lament for a slain companion is a granular mourning motif already covered
+    by the lament group.
+  cautions: If the sworn bond or vengeance obligation is central, also consider sacred_combat
+    or covenant-related indexing.
+  suggested_aliases:
+  - lament_for_dead_companion
+  - mourning_slain_sworn_companion
+  - companion_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-the-irreplaceable-slain-spouse
+  motif_id: lament_for_the_irreplaceable_slain_spouse
+  label: lament for the irreplaceable slain spouse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif centers on grief for a slain spouse, a specific form of lament
+    and mourning.
+  cautions: If the passage emphasizes love beyond death rather than grief expression,
+    sacred_love may be a secondary fit.
+  suggested_aliases:
+  - spousal_lament
+  - lament_for_slain_spouse
+  - mourning_irreplaceable_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-of-accumulated-kin-loss
+  motif_id: lament_of_accumulated_kin_loss
+  label: Lament of accumulated kin-loss
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label describes mourning over repeated family loss, fitting the existing
+    lament and mourning group.
+  cautions: Could overlap with fate, feud, or tragic lineage motifs depending on the
+    source; keep accumulated kin-loss as a detail.
+  suggested_aliases:
+  - lament_for_multiple_kin_losses
+  - cumulative_kin_loss_lament
+  - mourning_accumulated_family_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-of-one-left-behind
+  motif_id: lament_of_one_left_behind
+  label: lament of one left behind
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: A survivor's lament belongs broadly under mourning and tragic recognition.
+  cautions: The cause of separation is unclear; if exile, abandonment, or otherworld
+    departure is primary, hero_journey, sacred_love, or afterlife_passage may also
+    matter.
+  suggested_aliases:
+  - survivor_lament
+  - lament_by_the_one_left_behind
+  - mourning_after_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-over-a-fallen-great-power
+  motif_id: lament_over_a_fallen_great_power
+  label: Lament over a fallen great power
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on lament over collapse or loss, fitting the broad
+    lament group.
+  cautions: If the fallen power is a city, empire, king, or cosmic power under judgment,
+    divine_judgment or royal_legitimacy may be important secondary mappings.
+  suggested_aliases:
+  - lament_for_fallen_power
+  - mourning_a_fallen_empire
+  - lament_over_fallen_greatness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-over-a-slain-comrade-opponent
+  motif_id: lament_over_a_slain_comrade_opponent
+  label: lament over a slain comrade-opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Mourning a slain figure who is both comrade and opponent is a specific
+    tragic lament pattern.
+  cautions: The ambiguous comrade-opponent role may also relate to sacred_combat or
+    heroic honor; preserve the relational nuance.
+  suggested_aliases:
+  - lament_for_slain_comrade_opponent
+  - mourning_enemy_comrade
+  - tragic_lament_for_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most lament labels are granular relationship-specific variants and can be grouped
+  under lament_and_mourning while preserving the kinship, spouse, companion, or opponent
+  role as evidence detail.
+- Koshchei/Punchkin/heartless giant appears to be a comparative or scholarly linkage,
+  not a motif; the underlying external-soul pattern should be indexed separately if
+  present in passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for magical-harm and
+    hidden-labor labels due to source-context dependence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1455
+  input_sha256: f491c1c3dd8984329fcd5854040e07c31cd5959d2a26d5bebe1b54ae45230850
+

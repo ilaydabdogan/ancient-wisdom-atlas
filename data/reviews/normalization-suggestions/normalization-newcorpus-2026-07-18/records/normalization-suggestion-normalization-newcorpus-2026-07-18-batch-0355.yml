@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0355
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.idol-impotence-contrasted-with-divine-capability
+  motif_id: idol_impotence_contrasted_with_divine_capability
+  label: Idol impotence contrasted with divine capability
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: medium
+  rationale: The label concerns polemic against idols and false worship, which existing
+    normalization already flags as needing review near covenant, divine judgment,
+    and sacred law.
+  cautions: May be theological argument or passage-specific polemic rather than a
+    reusable narrative motif; avoid flattening culturally specific anti-idolatry language
+    into generic sacred-object imagery.
+  suggested_aliases:
+  - idol impotence
+  - false god contrasted with divine power
+  - idols powerless before God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol-substitution-of-divine-glory
+  motif_id: idol_substitution_of_divine_glory
+  label: Idol substitution of divine glory
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: medium
+  rationale: Substituting an idol for divine glory reads as broken sacred relationship
+    or covenantal transgression rather than an object motif alone.
+  cautions: Could also map to divine_judgment if punishment is central, or sacred_law
+    if framed as prohibition; source evidence is needed.
+  suggested_aliases:
+  - idolatry as substitution of divine glory
+  - false worship replacing divine presence
+  - idol as covenant breach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idolatrous-attachment-to-named-gods
+  motif_id: idolatrous_attachment_to_named_gods
+  label: Idolatrous attachment to named gods
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The motif appears to describe prohibited attachment to other gods, which
+    may fit sacred law or covenantal loyalty depending on passage framing.
+  cautions: The label is tradition-specific and evaluative; human review should determine
+    whether it is a motif, doctrinal commentary, or source polemic.
+  suggested_aliases:
+  - attachment to false gods
+  - devotion to named idols
+  - idolatrous loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idolatrous-calf-and-destruction-of-false-god
+  motif_id: idolatrous_calf_and_destruction_of_false_god
+  label: idolatrous calf and destruction of false god
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The calf episode combines false worship, covenant breach, and destruction
+    of an idol; the broader reusable pattern is broken sacred bond or idolatry review.
+  cautions: Likely episode-specific; do not promote the calf detail unless recurring
+    across sources. Could also relate to divine_judgment or sacred_law.
+  suggested_aliases:
+  - golden calf destroyed
+  - destruction of false god
+  - idolatrous calf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illiteracy-treated-as-a-sign-of-divine-mission
+  motif_id: illiteracy_treated_as_a_sign_of_divine_mission
+  label: illiteracy treated as a sign of divine mission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A human limitation functioning as proof of divine commissioning fits
+    divine intervention or guidance in legitimating a messenger role.
+  cautions: Could also fit royal/prophetic legitimacy or sacred knowledge if the emphasis
+    is revelation despite illiteracy; preserve the local sign-of-mission detail.
+  suggested_aliases:
+  - unlettered messenger as divine sign
+  - human limitation as proof of mission
+  - illiteracy as prophetic sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitation-of-sacred-revelation
+  motif_id: imitation_of_sacred_revelation
+  label: Imitation of sacred revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Counterfeit or imitated revelation concerns contested access to sacred
+    speech and knowledge.
+  cautions: If the passage centers on punishment for false prophecy, divine_judgment
+    may be secondary; if it is literary criticism, it may be a commentary artifact.
+  suggested_aliases:
+  - counterfeit revelation
+  - false revelation
+  - imitated sacred speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitation-of-the-sacred-sufferer
+  motif_id: imitation_of_the_sacred_sufferer
+  label: Imitation of the sacred sufferer
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Imitating a sacred sufferer frames suffering as devotional participation
+    or self-offering, fitting the sacrifice complex.
+  cautions: Could fit initiation or mystical_quest if the emphasis is discipleship
+    transformation rather than sacrificial suffering.
+  suggested_aliases:
+  - imitatio of sacred suffering
+  - participation in holy suffering
+  - discipleship through suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immediate-fulfillment-of-divine-word
+  motif_id: immediate_fulfillment_of_divine_word
+  label: immediate fulfillment of divine word
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on divine speech taking immediate effect, matching
+    performative sacred speech.
+  cautions: If the label refers specifically to prophecy validation, prophecy_divination
+    may be a secondary group.
+  suggested_aliases:
+  - divine word fulfilled at once
+  - effective divine speech
+  - performative divine utterance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immobile-artisan-made-object-contrasted-with-divine-power
+  motif_id: immobile_artisan_made_object_contrasted_with_divine_power
+  label: Immobile artisan-made object contrasted with divine power
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: medium
+  rationale: The artisan-made object aspect relates to crafted sacred objects, but
+    the function is anti-idol contrast with divine agency.
+  cautions: May belong better with a reviewed idolatry/false worship cluster under
+    sacred_law or covenant; do not treat all crafted images as sacred craft without
+    passage support.
+  suggested_aliases:
+  - crafted idol contrasted with divine power
+  - immobile idol
+  - artisan object as powerless god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-divine-first-human-pair
+  motif_id: immortal_divine_first_human_pair
+  label: immortal divine first human pair
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A first human pair with divine or immortal status functions as an origin-of-humanity
+    motif.
+  cautions: Could also fit survivor_pair or sacred_twins if narrative evidence emphasizes
+    post-catastrophe renewal or paired duality rather than first ancestry.
+  suggested_aliases:
+  - first human pair
+  - divine primordial couple
+  - immortal ancestral pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several idolatry labels are evaluative and tradition-specific; review whether they
+  should remain under existing idol needs_human_review handling or become a dedicated
+  anti-idolatry/false-worship normalization cluster.
+- No transmission or shared-origin claim is implied by any placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; idolatry-related labels need careful
+    human review for motif vs theological/commentary artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0355
+  input_sha256: 9a06a1b1954855f1b8c89bdd16b83d3336c116f0e8b80747300ebd5a33818fb5
+

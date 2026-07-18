@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l1614-l1738
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: XX THE BOOK OF JUBILEES / INTRODUCTION XXV / XXX THE BOOK OF JUBILEES / INTRODUCTION
+    XXXV; lines 1614-1738
+  start: '1614'
+  end: '1738'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a critical introduction discussing textual repetitions,
+    dislocations, poetic portions of Jubilees, and the book's dependence on earlier
+    writings and traditions. It notes that a Day of Atonement passage is linked with
+    final judgment, renewal of the world, and special grace for Israel if they observe
+    the day. It also states that Jubilees is the work of one author, largely based
+    on Genesis and other earlier Jewish writings, including the Book of Noah and the
+    Book of Enoch.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies dittographies in the Ethiopic version and discusses
+    possible Hebrew, Greek, and Latin evidence for repetitions or duplicate renderings.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes possible dislocations or transpositions in Jubilees,
+    including prose lines within a poem and a Day of Atonement passage that may be
+    interpolated or moved from another location.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Jubilees v.10-12 refers to final judgment and renewal
+    of the world, while v.17-18 turns to special grace for Israel on the Day of Atonement
+    if they observe it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that a substantial portion of Jubilees was originally written
+    in verse and lists passages arranged as verse.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage identifies the apocalypse in Jubilees xxiii.23-31 as a poem of
+    ten stanzas, with the first nine as tristichs and the last as a tetrastich.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that Jubilees is the work of one author but is largely
+    based on earlier books and traditions, with the narrative of Genesis forming the
+    bulk of the book.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that the author borrows material from the Book of Noah
+    and had before him portions of the Book of Enoch.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Israel
+  description: A collective group said to receive special grace on the Day of Atonement
+    if they observe it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: author of Jubilees
+  description: The single author described as using earlier books and traditions,
+    including Genesis, the Book of Noah, and the Book of Enoch.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: conditional observer and recipient of grace
+  assigned_to:
+  - fig:1
+  basis: Israel is said to receive special grace on the Day of Atonement if they observe
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: author using earlier traditions
+  assigned_to:
+  - fig:2
+  basis: The passage describes one author whose work is based on earlier books and
+    traditions and who borrows from or uses other Jewish writings.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Day of Atonement
+  literal_form: ritual day or festival
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Day of Atonement, judgment, and grace
+  summary: The introduction discusses a passage on the Day of Atonement, connects
+    its surrounding context with final judgment and renewal of the world, and says
+    the writer turns to the special grace accorded to Israel if they observe the day.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Poetic and apocalyptic structure
+  summary: The passage says parts of Jubilees were originally in verse and identifies
+    the apocalypse in xxiii.23-31 as a structured poem of ten stanzas.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Dependence on earlier books and traditions
+  summary: The passage describes Jubilees as a single-author work based on Genesis
+    and other earlier Jewish writings, including the Book of Noah and the Book of
+    Enoch.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: final judgment and renewal of the world
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly says that Jubilees v.10-12 refers to the final judgment
+    and the renewal of the world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a secondary introduction summarizing another passage of
+    Jubilees rather than narrating the judgment scene itself.
+- id: motif:2
+  label: ritual atonement conferring special grace on Israel
+  taxonomy_refs: []
+  basis: The passage says the writer turns aside to show special grace accorded to
+    Israel on the Day of Atonement if they observe it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is inferred from the introduction's summary; the ritual details
+    are not quoted in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: Jubilees is presented as a single-author work largely based on earlier books
+    and traditions, especially the Genesis narrative.
+  claim_level: historical_contact
+  target: Genesis and Old Testament source traditions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a literary-dependence claim in the introduction, not a passage-level
+    comparison of a specific mythic episode.
+- id: claim:2
+  claim: The author of Jubilees is said to borrow specified material from the Book
+    of Noah.
+  claim_level: historical_contact
+  target: Book of Noah
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt names borrowed sections but does not provide the full contents
+    of those borrowed passages.
+- id: claim:3
+  claim: The author of Jubilees is said to have used portions of the Book of Enoch.
+  claim_level: historical_contact
+  target: Book of Enoch
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt identifies source use but does not compare individual motifs
+    or narrative details.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1614-1634
+  quote_or_summary: The introduction discusses dittographies in the Ethiopic version,
+    possible earlier repetitions in Hebrew or Greek, duplicate renderings, and Latin
+    evidence used to identify or remove repetitions.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1636-1645
+  quote_or_summary: The introduction discusses dislocations, including prose lines
+    within a poem and Jubilees v.17-18 as a Day of Atonement passage that may be interpolated
+    or transposed.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1645-1653
+  quote_or_summary: "“10°-12 refer to the final judgment and the renewal of the world”;
+    the writer then shows “the special grace accorded to Israel on that day if they
+    observe the Day of Atonement.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 1659-1675
+  quote_or_summary: The introduction states that a notable portion of Jubilees was
+    originally written in verse and lists many passages arranged as verse.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1684-1694
+  quote_or_summary: The introduction identifies Jubilees xxiii.23-31 as an apocalypse
+    made of ten stanzas, the first nine tristichs and the last a tetrastich.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1717-1726
+  quote_or_summary: "“Our book is the work of one author, but is largely based on
+    earlier books and traditions”; Genesis forms “the bulk of the book.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: quote
+  locator: lines 1728-1738
+  quote_or_summary: The introduction says the author “borrows” from the Book of Noah
+    and “had before him” much of the Book of Enoch sections listed there.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The excerpt is an introduction and source-critical discussion rather than
+    a primary narrative passage. Motif extraction is therefore limited to explicit
+    summaries within the passage, especially final judgment, world renewal, Day of
+    Atonement grace, poetic apocalypse, and named literary dependencies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol references were assigned; the available symbol list does not match the literal elements in this passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l1614-l1738
+  passage_sha256=a4d38be85fc43856b6a5f3a00e6316ae1bef3f19c977793068a6280f40aeb40e
+

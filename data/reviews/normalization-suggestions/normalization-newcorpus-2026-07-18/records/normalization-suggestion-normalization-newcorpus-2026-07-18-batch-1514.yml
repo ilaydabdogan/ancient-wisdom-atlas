@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1514
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pandora-and-the-origin-of-evil-and-labor
+  motif_id: pandora_and_the_origin_of_evil_and_labor
+  label: Pandora and the origin of evil and labor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pandora's jar/box releasing evils matches the existing sacred-vessel
+    alias for a forbidden container releasing destructive forces.
+  cautions: The label is also an etiological account of labor and evil; if the passage
+    emphasizes gendered creation, divine punishment, or world decline more than the
+    container, human review may choose another mapping.
+  suggested_aliases:
+  - forbidden container releases evils
+  - Pandora's jar
+  - origin of evil through opened vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-abundance-of-food-drink-consorts-attendants-and-luxury
+  motif_id: paradisal_abundance_of_food_drink_consorts_attendants_and_luxury
+  label: paradisal abundance of food, drink, consorts, attendants, and luxury
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A paradise described by abundant food, drink, attendants, and luxury
+    fits an otherworld or blessed realm of supernatural abundance.
+  cautions: Because this is Islamic paradise imagery, avoid flattening theological
+    afterlife doctrine into fairy/enchanted-realm assumptions; afterlife_passage may
+    be secondary if the passage concerns postmortem destination or judgment.
+  suggested_aliases:
+  - paradisal abundance
+  - blessed realm abundance
+  - afterlife luxury abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-abundance-without-ordinary-need
+  motif_id: paradisal_abundance_without_ordinary_need
+  label: Paradisal abundance without ordinary need
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing otherworld group already includes marvelous lands with abundant
+    food and drink, matching need-free paradisal plenty.
+  cautions: If abundance functions as miraculous provision within the ordinary world
+    rather than an otherworld location, divine_intervention or sacred_substance may
+    be better.
+  suggested_aliases:
+  - need-free paradisal abundance
+  - marvelous land abundance
+  - abundance without need
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-abundant-grove
+  motif_id: paradisal_abundant_grove
+  label: paradisal abundant grove
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A paradisal grove is best treated as a blessed or enchanted otherworld
+    setting marked by abundance.
+  cautions: If the grove is specifically a sacred tree, cosmic axis, or ritual site,
+    axis_mundi or sacred_tree_axis may be a secondary mapping; source context is needed.
+  suggested_aliases:
+  - paradise grove
+  - abundant heavenly grove
+  - enchanted grove of abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-homeland-sought
+  motif_id: paradisal_homeland_sought
+  label: Paradisal homeland sought
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Seeking a paradisal homeland may be a quest, migration, origin homeland,
+    afterlife destination, or lost paradise motif, and the label alone does not identify
+    the function.
+  cautions: Nahua cultural context and source evidence are needed; do not force this
+    into otherworld, cosmic_origin, or hero_journey without knowing whether it is
+    mythic migration, eschatology, pilgrimage, or homeland ideology.
+  suggested_aliases:
+  - quest for paradisal homeland
+  - sought blessed homeland
+  - lost paradise homeland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-investiture-by-attendants
+  motif_id: paradisal_investiture_by_attendants
+  label: paradisal investiture by attendants
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Investiture by attendants in paradise sounds like a postmortem reception
+    or status transformation within an afterlife sequence.
+  cautions: If the passage emphasizes reward, luxury, or paradise as a realm rather
+    than staged passage, otherworld may be the broader query group; handle Islamic
+    afterlife imagery with theological specificity.
+  suggested_aliases:
+  - afterlife investiture
+  - paradisal reception by attendants
+  - heavenly investiture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradox-of-cutting-that-increases-length
+  motif_id: paradox_of_cutting_that_increases_length
+  label: Paradox of cutting that increases length
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a paradoxical transformation, but the narrative function
+    is unclear from wording alone.
+  cautions: Could be trickster logic, magical growth, riddle/wisdom, or an over-specific
+    episode detail; source context is required before placement.
+  suggested_aliases:
+  - cutting increases length
+  - paradoxical increase by cutting
+  - magical lengthening by cutting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pardon-for-submission-and-destruction-for-resistance
+  motif_id: pardon_for_submission_and_destruction_for_resistance
+  label: Pardon for submission and destruction for resistance
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conditional mercy for submission and destruction for resistance expresses
+    sovereign authority and social order under a ruler.
+  cautions: If the agent is explicitly divine or moral-cosmic rather than royal/political,
+    divine_judgment may be preferable; if it is only battle policy, sacred_combat
+    may be secondary.
+  suggested_aliases:
+  - submission pardoned resistance destroyed
+  - sovereign mercy and punishment
+  - conditional pardon for submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parody-of-a-mythic-threat
+  motif_id: parody_of_a_mythic_threat
+  label: parody of a mythic threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a literary mode or interpretive relation to another
+    mythic threat rather than a motif in the story world.
+  cautions: If the passage contains a recurrent comic deflation pattern with narrative
+    function, it may need review under trickster or storytelling_as_power, but as
+    worded it is a commentary artifact.
+  suggested_aliases:
+  - comic parody of threat
+  - mythic threat parody
+  - parodic mythic danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partially-living-rod-as-sign-of-recoverable-moral-condition
+  motif_id: partially_living_rod_as_sign_of_recoverable_moral_condition
+  label: Partially living rod as sign of recoverable moral condition
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A rod that is partly alive and functions as a sign of moral recovery
+    is a power object or sacred sign indicating spiritual condition.
+  cautions: May also involve sacred tree/axis imagery, resurrection, or divine judgment
+    depending on whether the rod's life, moral test, or judgment is central; label
+    is highly specific.
+  suggested_aliases:
+  - living rod as moral sign
+  - reviving rod sign
+  - sacred rod indicating repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Paradisal abundance labels cluster around otherworld/afterlife imagery, but traditions
+  differ; preserve theological and cultural specificity during review.
+- Several single-occurrence labels are over-specific and should remain evidence details
+  unless they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    paradise, Nahua homeland, and paradox labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1514
+  input_sha256: e81b94839d3ea245889493f81fa2e872fce918ff50276e9085b26aa9b5b2657c
+

@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l12719-l13006
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: WATERTON, CHARLES. / WESTERMARCK, EDWARD. / WOODROFFE, JOSEPH F. / INDEX;
+    lines 12719-13006
+  start: '12719'
+  end: '13006'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains the end of a bibliography and the opening of the index.
+    The index lists topics and page references, including agriculture, Amazons legends,
+    animals, anthropophagy, birth customs including twins, burial, chiefs, children
+    stolen by spirits and tigers, dances including initiation and Jurupari, death,
+    fire, floods and flood traditions, and folk tales including animal stories.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists bibliographic works by Alfred R. Wallace, Charles Waterton,
+    Edward Westermarck, and Joseph F. Woodroffe.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes an entry for legends of Amazons.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes animal entries such as jaguar, tapir, peccary, birds, and
+    other animals.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes anthropophagy entries for dances, feasts, practices, and
+    reasons.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes birth customs and mentions the birth of twins.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes burial customs and death-related entries, including homicide
+    and infanticide.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The index states that children are stolen by spirits and tigers.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The index lists dance varieties including animal, harvest, initiation, Jurupari,
+    riddle, and war dances.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The index includes an entry on fire, including fire by friction and a note
+    that the method of making fire was unknown.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The index includes floods and traditions of floods.
+  category: other
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: The index includes folk tales and animal stories.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Amazons
+  description: A legendary subject listed in the index.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: spirits and tigers
+  description: Agents named in the index as stealing children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: children
+  description: A group indexed with birth, treatment, capture, marriage, toys, and
+    stealing by spirits and tigers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: twins
+  description: Children born as twins, referenced under the birth entry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jurupari
+  description: Named in the index as a dance variety.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: animals
+  description: Animals are listed as index topics and as subjects of folk tales or
+    animal stories.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:12
+roles:
+- id: role:1
+  label: legendary subject
+  assigned_to:
+  - fig:1
+  basis: The index entry is for legends of Amazons.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: child-stealing agents
+  assigned_to:
+  - fig:2
+  basis: The index states that children are stolen by spirits and tigers.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: stolen group
+  assigned_to:
+  - fig:3
+  basis: The children entry includes stealing by spirits and tigers.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: birth-category figures
+  assigned_to:
+  - fig:4
+  basis: The birth entry mentions the birth of twins.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: named ritual-dance topic
+  assigned_to:
+  - fig:5
+  basis: The dance index lists Jurupari among dance varieties.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: folk-tale subjects
+  assigned_to:
+  - fig:6
+  basis: The folk-tales entry includes animal stories.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire; fire by friction; plan of fire; method of making fire unknown.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+- id: sym:2
+  label: flood water
+  literal_form: Floods and traditions of floods.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+- id: sym:3
+  label: forest
+  literal_form: Forest as an indexed setting, including description, danger, tracks,
+    noises, silence, and travellers lost in it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:4
+  label: jaguar or tiger
+  literal_form: Jaguar is listed among animals; tigers are named in the child-stealing
+    entry.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: flood traditions
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The index explicitly lists floods and traditions of floods.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The passage is an index entry only; it does not summarize the flood tradition
+    or mention renewal.
+- id: motif:2
+  label: children stolen by spirits and tigers
+  taxonomy_refs: []
+  basis: The children entry includes stealing by spirits and tigers.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: No narrative details are present in this index passage.
+- id: motif:3
+  label: twins at birth
+  taxonomy_refs: []
+  basis: The birth entry mentions the birth of twins.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not state that the twins are sacred, heroic, or mythic;
+    no sacred-twins taxonomy reference is assigned.
+- id: motif:4
+  label: initiation dance
+  taxonomy_refs:
+  - initiation
+  basis: The dance index lists initiation dances and Jurupari among dance varieties.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The index gives only topic labels and page references, not ritual sequence
+    or meaning.
+- id: motif:5
+  label: anthropophagy feasts and dances
+  taxonomy_refs: []
+  basis: The anthropophagy entry lists dances, feasts, practices, and reasons.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not provide the ritual or narrative context for anthropophagy.
+- id: motif:6
+  label: animal folk tales
+  taxonomy_refs: []
+  basis: The folk-tales entry includes animal stories, and the index includes many
+    named animals.
+  evidence_refs:
+  - ev:3
+  - ev:12
+  confidence: medium
+  cautions: No animal tale is narrated in this passage, and no specific trickster
+    or shapeshifting pattern is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12719-12734
+  quote_or_summary: Bibliographic entries list Wallace, Waterton, Westermarck, and
+    Woodroffe with works and publication details.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: quote
+  locator: Index, Amazons entry
+  quote_or_summary: "“Amazons, legends of, 239-40”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:3
+  type: summary
+  locator: Index, Animals and Birds entries
+  quote_or_summary: The index lists animals and named species including jaguar, tapir,
+    peccary, capybara, birds, condor, and parrots.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:4
+  type: quote
+  locator: Index, Anthropophagy entry
+  quote_or_summary: "“Anthropophagy-- dances, 204-5; feasts, 119-23; practices, 119;
+    reasons for, 120-21, 177”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:5
+  type: quote
+  locator: Index, Birth entry
+  quote_or_summary: "“Birth-- customs, 146-52, 273 ... of twins, 120, 150, 244”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:6
+  type: quote
+  locator: Index, Burial entry
+  quote_or_summary: "“Burial, 175-7, 224; customs, 74, 81, 176, 226”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:7
+  type: summary
+  locator: Index, Death entry
+  quote_or_summary: The death entry lists death, how regarded, death of a chief, homicide,
+    and infanticide.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:8
+  type: quote
+  locator: Index, Children entry
+  quote_or_summary: "“Children ... stealing by spirits and tigers of, 219-20, 224,
+    232”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:9
+  type: summary
+  locator: Index, Dances entry
+  quote_or_summary: The dance entry lists dance varieties including animal, harvest,
+    initiation, Jurupari, riddle, and war dances.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:10
+  type: quote
+  locator: Index, Fire entry
+  quote_or_summary: "“Fire, 48-50, 133, 136; by friction, 48; method of making unknown,
+    48; plan of, 49, 50”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:11
+  type: quote
+  locator: Index, Floods entry
+  quote_or_summary: "“Floods, 22, 32; traditions of, 238-9”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:12
+  type: quote
+  locator: Index, Folk tales entry
+  quote_or_summary: "“Folk tales, 221-3, 231, 236-45; animal stories, 243-4”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:13
+  type: summary
+  locator: Index, Forest entry
+  quote_or_summary: The forest entry lists forest description, tracks, dangers for
+    travellers, being lost, noises, silence, and depressing influence.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited because the passage is primarily bibliography and index
+    material. Motif candidates are inferred only from index headings and subentries,
+    not from narrated myths or ethnographic descriptions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims are made because the passage itself provides index labels and page references but no comparative argument or detailed narrative pattern.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l12719-l13006
+  passage_sha256=5284f7bba9b6538cae5e6586d630c0dcb69a56a85ed2e8079feee189a49a48b7
+

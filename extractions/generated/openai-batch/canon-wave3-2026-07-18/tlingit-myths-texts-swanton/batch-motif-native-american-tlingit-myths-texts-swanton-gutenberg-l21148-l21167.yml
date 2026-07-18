@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.native-american-tlingit-myths-texts-swanton-gutenberg-l21148-l21167
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 21148-21167'
+  start: '21148'
+  end: '21167'
+  translation: Tlingit Myths and Texts
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage names a nephew, Xᴀtgāwḗt, who burns his uncle, takes the uncle’s
+    bones and property, and brings the bones to Yakutat. The nephew is said to be
+    not different from the uncle; he also seizes the ʟǃếnᴀxx̣ī́dᴀq, catches her while
+    going for an ax handle, acts concerning the ʟǃếnᴀxx̣ī́dᴀq better than his uncle,
+    and becomes richer than his uncle.
+  language: English with Tlingit interlinear text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A nephew named Xᴀtgāwḗt is identified.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The nephew burns his uncle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The nephew takes his uncle’s bones and all of his uncle’s property.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The nephew takes his uncle’s bones to Yakutat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The nephew is described as not different from the uncle.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The nephew also seizes the ʟǃếnᴀxx̣ī́dᴀq.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The nephew catches the ʟǃếnᴀxx̣ī́dᴀq when he goes for an ax handle.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The nephew is said to have acted concerning the ʟǃếnᴀxx̣ī́dᴀq better than
+    his uncle and to have become richer than his uncle.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Xᴀtgāwḗt
+  description: A named nephew who burns his uncle, takes his bones and property, seizes
+    the ʟǃếnᴀxx̣ī́dᴀq, and becomes richer than his uncle.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: uncle
+  description: The uncle of Xᴀtgāwḗt; he is burned, and his bones and property are
+    taken. He is used as a point of comparison for the nephew.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the ʟǃếnᴀxx̣ī́dᴀq
+  description: An entity referred to with the English gloss 'her'; she is seized and
+    caught by the nephew.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: named nephew
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Xᴀtgāwḗt as the nephew.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: uncle whose remains and property are taken
+  assigned_to:
+  - fig:2
+  basis: The uncle is burned, and his bones and property are taken by the nephew.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: actor who surpasses the uncle
+  assigned_to:
+  - fig:1
+  basis: The nephew is described as not different from the uncle, acting better concerning
+    the ʟǃếnᴀxx̣ī́dᴀq, and becoming richer than the uncle.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: comparative predecessor
+  assigned_to:
+  - fig:2
+  basis: The uncle is the figure against whom the nephew’s likeness, success, and
+    wealth are compared.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: seized female-referred entity
+  assigned_to:
+  - fig:3
+  basis: The ʟǃếnᴀxx̣ī́dᴀq is seized and caught, with the gloss using 'her.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: uncle’s bones
+  literal_form: bones
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: uncle’s property
+  literal_form: property
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Yakutat
+  literal_form: place name
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ax handle
+  literal_form: ax handle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wealth
+  literal_form: becoming rich
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Burning of the uncle and taking of remains
+  summary: Xᴀtgāwḗt is named as a nephew; he burns his uncle and takes the uncle’s
+    bones and property.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bones taken to Yakutat
+  summary: The nephew takes the uncle’s bones to Yakutat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Seizing of the ʟǃếnᴀxx̣ī́dᴀq
+  summary: The nephew, described as not different from his uncle, seizes and catches
+    the ʟǃếnᴀxx̣ī́dᴀq while going for an ax handle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Nephew surpasses uncle in wealth
+  summary: The nephew is said to have acted concerning the ʟǃếnᴀxx̣ī́dᴀq better than
+    his uncle and to have become richer than his uncle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Nephew repeats and surpasses uncle’s pattern
+  taxonomy_refs: []
+  basis: The passage explicitly states that the nephew was not different from the
+    uncle, that he also seized the ʟǃếnᴀxx̣ī́dᴀq, and that he became richer than
+    his uncle.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The wider narrative context is not included, so the uncle’s prior actions
+    are only inferable from the passage’s comparative wording.
+- id: motif:2
+  label: Taking a slain relative’s remains and property
+  taxonomy_refs: []
+  basis: The nephew burns his uncle and takes both the uncle’s bones and all of his
+    property.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the ritual, legal, or moral significance
+    of burning, bones, or property transfer.
+- id: motif:3
+  label: Capture of a named female-referred entity linked to later wealth
+  taxonomy_refs: []
+  basis: The nephew seizes and catches the ʟǃếnᴀxx̣ī́dᴀq and is subsequently said
+    to become richer than his uncle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage does not define the ʟǃếnᴀxx̣ī́dᴀq or explicitly state that
+    the capture causes the wealth.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the nephew is explicitly compared with the uncle as similar
+    to him and then as surpassing him in relation to the ʟǃếnᴀxx̣ī́dᴀq and wealth.
+  claim_level: same_function
+  target: internal uncle-nephew repetition and surpassing pattern
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison only; the line range does not provide
+    enough context to compare securely with an external motif family or another tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21148-21151
+  quote_or_summary: The passage identifies Xᴀtgāwḗt as the nephew and says he burned
+    his uncle.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 21152-21155
+  quote_or_summary: The nephew takes his uncle’s bones and all his uncle’s property,
+    and takes the bones to Yakutat.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 21156-21159
+  quote_or_summary: The nephew is said to be not different from the uncle, and he
+    too seizes the ʟǃếnᴀxx̣ī́dᴀq.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 21160-21163
+  quote_or_summary: When the nephew goes for an ax handle, he catches the ʟǃếnᴀxx̣ī́dᴀq,
+    glossed as 'her.'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 21164-21167
+  quote_or_summary: The nephew acts concerning the ʟǃếnᴀxx̣ī́dᴀq better than his
+    uncle and becomes richer than his uncle.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The interlinear gloss provides enough information for literal extraction,
+    but the passage is a short footnote-range excerpt with limited narrative context.
+    The identity and significance of the ʟǃếnᴀxx̣ī́dᴀq remain uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not securely support the listed taxonomy categories without additional context.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-tlingit-myths-texts-swanton-gutenberg__l21148-l21167
+  passage_sha256=8d0cf2356be2fa2ac9e206ee198344e7e278516de55c36a89fd03357eef0d81f
+

@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0886
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blocked-access-to-water
+  motif_id: blocked_access_to_water
+  label: Blocked access to water
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Water as a contested or inaccessible resource may fit sacred_waters if
+    it marks boundary, danger, purification, or transformation.
+  cautions: Label alone may describe a plot obstacle, ecological detail, or local
+    etiological episode rather than a stable motif.
+  suggested_aliases:
+  - water_access_blocked
+  - inaccessible_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blocked-ascent-to-hidden-upper-waterfalls
+  motif_id: blocked_ascent_to_hidden_upper_waterfalls
+  label: blocked ascent to hidden upper waterfalls
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif combines upward movement with a hidden water-place, suggesting
+    an ascent or threshold ordeal if the passage emphasizes blocked access to a higher
+    realm.
+  cautions: Highly contextual; could instead belong to sacred_waters, otherworld,
+    threshold_guardian, or be a landscape-specific episode.
+  suggested_aliases:
+  - blocked_ascent_to_hidden_waters
+  - inaccessible_upper_waterfalls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-defiled-water-after-slaughter
+  motif_id: blood_defiled_water_after_slaughter
+  label: blood-defiled water after slaughter
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Blood polluting water may fit ritual purity, taboo, or sacred-law concerns
+    if defilement has ritual consequences.
+  cautions: Could also be a violent aftermath detail under sacred_combat or sacrifice;
+    source context is needed before treating it as ritual pollution.
+  suggested_aliases:
+  - blood_polluted_water
+  - water_defiled_by_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-draining-nocturnal-attacker
+  motif_id: blood_draining_nocturnal_attacker
+  label: blood-draining nocturnal attacker
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a vampiric or night-demon attack, but no existing
+    group directly covers predatory undead or blood-draining monsters.
+  cautions: May fit restless_dead_haunting_vengeance if the attacker is undead, sacred_substance/sacred_law
+    if blood symbolism is central, or a future monster/predator group if many recur.
+  suggested_aliases:
+  - vampiric_nocturnal_attacker
+  - blood_draining_night_demon
+  - blood_sucking_attacker
+  suggested_new_group:
+    id: nocturnal_blood_draining_attacker
+    label: Nocturnal Blood-Draining Attacker
+    description: A night-associated being, revenant, demon, or monster attacks living
+      persons by draining blood or life-force.
+    parent_group_ids:
+    - restless_dead_haunting_vengeance
+    related_group_ids:
+    - sacred_law
+    - death_and_transformation
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover restless dead and blood
+      taboos, but not the recurring predatory function of a blood-draining nocturnal
+      being.
+- suggestion_id: normalization.suggestion.blood-rain-over-battlefield
+  motif_id: blood_rain_over_battlefield
+  label: blood rain over battlefield
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood rain over a battlefield functions as an ominous portent or supernatural
+    sign associated with violence.
+  cautions: If the passage treats it as divine punishment or cosmic disorder, divine_judgment
+    or chaos may be secondary; avoid mapping to flood without renewal catastrophe.
+  suggested_aliases:
+  - blood_rain_omen
+  - battlefield_blood_rain
+  - bloody_rain_portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bloodied-water-as-sign-of-violent-defeat
+  motif_id: bloodied_water_as_sign_of_violent_defeat
+  label: Bloodied water as sign of violent defeat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Bloodied water serves as visible evidence or sign of combat and defeat.
+  cautions: May be too scene-specific; if the focus is omen rather than battle result,
+    dream_and_vision could be secondary.
+  suggested_aliases:
+  - bloodied_water_defeat_sign
+  - water_bloodied_by_battle
+  - bloody_water_after_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-mountain-overturner-undone-by-a-mountain-challenge
+  motif_id: boastful_mountain_overturner_undone_by_a_mountain_challenge
+  label: boastful mountain-overturner undone by a mountain challenge
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is boastful overreach followed by defeat through the
+    very domain of the boast.
+  cautions: Mountain imagery may also relate to cosmic_mountain, but the narrative
+    function is hubris and reversal rather than axis mundi.
+  suggested_aliases:
+  - boastful_overreacher_undone_by_challenge
+  - mountain_boast_humbled
+  - hubristic_mountain_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-part-transformed-into-a-star
+  motif_id: body_part_transformed_into_a_star
+  label: body part transformed into a star
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: high
+  rationale: This is a close variant of the existing indexed pattern where a dead
+    body part becomes a celestial form.
+  cautions: If the transformation occurs during cosmogony from a primordial body,
+    primordial_sacrifice or cosmic_origin may also be relevant.
+  suggested_aliases:
+  - body_part_of_the_dead_transformed_into_stars
+  - catasterism_from_body_part
+  - dead_body_part_becomes_star
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.borrowed-foreign-sky-deity
+  motif_id: borrowed_foreign_sky_deity
+  label: borrowed foreign sky deity
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label makes a borrowing or classification claim rather than naming
+    a narrative or symbolic motif.
+  cautions: Keep transmission claims out of motif normalization; preserve only as
+    provenance or scholarly note if evidence supports it.
+  suggested_aliases:
+  - foreign_sky_deity_borrowing_claim
+  - borrowed_sky_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-antagonist-empowered-by-water
+  motif_id: bound_antagonist_empowered_by_water
+  label: Bound antagonist empowered by water
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: Water functions as a source of supernatural empowerment for a constrained
+    hostile figure.
+  cautions: Could belong to conditional_invulnerability_hidden_weakness, sacred_substance,
+    or a monster-binding motif depending on whether water is a vulnerability, life-source,
+    or magical condition.
+  suggested_aliases:
+  - water_empowered_bound_antagonist
+  - bound_enemy_strengthened_by_water
+  - water_as_power_source_for_bound_foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use water or blood as scene evidence; final placement
+  should distinguish symbolic element, ritual purity, omen, combat evidence, and passage/threshold
+  function.
+- Do not infer flood_and_renewal from water imagery unless world-destruction and renewal
+  are present.
+- The proposed nocturnal blood-draining attacker candidate should only be considered
+  if similar vampire/revenant predator labels recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence nature and element labels
+    often need source context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0886
+  input_sha256: 38e3a360c3240a99d5f3ad3916a11b4e668c6a6e237c65c8104b4bcdbaf550a5
+

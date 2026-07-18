@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1294
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.believers-threatened-by-royal-torture
+  motif_id: believers_threatened_by_royal_torture
+  label: believers threatened by royal torture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Persecution by a ruler may frame later vindication or judgment, but the
+    label alone only names threatened violence.
+  cautions: Could belong to sacred_combat, martyrdom/persecution if added, royal tyranny,
+    or be passage-specific; source evidence needed.
+  suggested_aliases:
+  - persecuted_believers
+  - royal_persecution_of_believers
+  - faithful_threatened_by_torture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.believing-community-as-strengthening-seed
+  motif_id: believing_community_as_strengthening_seed
+  label: Believing community as strengthening seed
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label sounds like a didactic or parabolic image of faithful communal
+    growth rather than a clear narrative motif.
+  cautions: May be a metaphor/commentary artifact; could fit sacred_law or covenant
+    if it expresses community formation under divine order.
+  suggested_aliases:
+  - faithful_community_as_seed
+  - believers_as_seed
+  - community_growth_seed_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.believing-witness-vindicated-after-rejection
+  motif_id: believing_witness_vindicated_after_rejection
+  label: Believing witness vindicated after rejection
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rejected faithful witness later vindicated fits judgment, moral reckoning,
+    and reversal of wrongful rejection.
+  cautions: If the passage emphasizes prophetic speech or testimony more than judgment,
+    prophecy_divination or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - rejected_witness_vindicated
+  - faithful_witness_vindication
+  - vindication_after_rejection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficent-deity-aiding-humans
+  motif_id: beneficent_deity_aiding_humans
+  label: Beneficent deity aiding humans
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: Direct helpful action by a deity toward humans is a clear divine intervention
+    or guidance pattern.
+  cautions: If the aid founds a technology, law, or ritual, culture_hero or sacred_knowledge
+    may also be relevant.
+  suggested_aliases:
+  - helpful_deity_aids_humans
+  - divine_aid_to_humans
+  - beneficent_divine_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-spouse-under-special-mourning-prohibitions
+  motif_id: bereaved_spouse_under_special_mourning_prohibitions
+  label: bereaved spouse under special mourning prohibitions
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Special prohibitions for a bereaved spouse are ritual or social rules
+    governing death pollution and mourning conduct.
+  cautions: May also relate to ancestor_rites or lament_and_mourning; culturally specific
+    mortuary rules should be reviewed carefully.
+  suggested_aliases:
+  - mourning_taboo_for_bereaved_spouse
+  - widow_or_widower_mourning_prohibitions
+  - bereavement_ritual_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-woman-lamenting-destroyed-kin
+  motif_id: bereaved_woman_lamenting_destroyed_kin
+  label: Bereaved woman lamenting destroyed kin
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on grief and lament for slain or destroyed kin, matching
+    the mourning group.
+  cautions: If the lament triggers vengeance or recompense, sacred_combat or divine_judgment
+    may be secondary.
+  suggested_aliases:
+  - lament_for_destroyed_kin
+  - woman_laments_slain_kin
+  - kin_destruction_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-woman-s-lament-and-refusal-of-consolation
+  motif_id: bereaved_woman_s_lament_and_refusal_of_consolation
+  label: bereaved woman's lament and refusal of consolation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Persistent lament and refusal of comfort is a direct variant of mourning
+    and tragic grief.
+  cautions: Could be over-specific if tied to one episode; preserve refusal of consolation
+    as evidence detail.
+  suggested_aliases:
+  - refusal_of_consolation_in_mourning
+  - inconsolable_bereaved_woman
+  - prolonged_lament_without_consolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-woman-seeks-recompense-after-slaughter-of-kin
+  motif_id: bereaved_woman_seeks_recompense_after_slaughter_of_kin
+  label: Bereaved woman seeks recompense after slaughter of kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A demand for recompense after kin slaughter belongs to feud, vengeance,
+    and warrior-order conflict patterns.
+  cautions: If the focus is grief rather than retaliatory settlement, lament_and_mourning
+    is a better primary group; source context needed.
+  suggested_aliases:
+  - recompense_for_slain_kin
+  - kin_slaughter_recompense_claim
+  - bereaved_woman_demands_compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.berserker-frenzy-and-temporary-invulnerability
+  motif_id: berserker_frenzy_and_temporary_invulnerability
+  label: Berserker frenzy and temporary invulnerability
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: Temporary battle invulnerability fits the broader invulnerability complex,
+    with frenzy as the local mechanism.
+  cautions: Could also belong under divine_warrior or sacred_combat if the emphasis
+    is martial ecstasy rather than protection from harm.
+  suggested_aliases:
+  - berserker_invulnerability
+  - battle_frenzy_invulnerability
+  - temporary_warrior_invulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrayal-by-brothers-after-a-rescue
+  motif_id: betrayal_by_brothers_after_a_rescue
+  label: Betrayal by brothers after a rescue
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: narrower_than
+  confidence: high
+  rationale: The core pattern is a trusted kin group betraying a rescuer after aid
+    has been given.
+  cautions: Sibling rivalry or hero_journey may be secondary if the betrayal drives
+    exile, quest, or recognition.
+  suggested_aliases:
+  - brothers_betray_rescuer
+  - sibling_betrayal_after_rescue
+  - betrayal_after_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should remain provisional until source passages
+  confirm whether they are durable motifs or episode-specific details.
+- Persecution/vindication labels may indicate a recurring martyr-witness pattern,
+  but existing groups can provisionally hold them under divine_judgment pending broader
+  review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1294
+  input_sha256: b7d292b9bbd85fd3ce6a8f3761927724922028067542768791b7183ad2c6574d
+

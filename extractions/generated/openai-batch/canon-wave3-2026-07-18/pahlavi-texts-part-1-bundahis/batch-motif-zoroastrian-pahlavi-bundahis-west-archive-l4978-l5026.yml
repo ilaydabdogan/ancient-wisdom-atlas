@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l4978-l5026
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    X,    2 -XI,  5.  33 / Chapter  XII. / CHAPTER   XII,   1-6.  35
+    / D    2; lines 4978-5026
+  start: '4978'
+  end: '5026'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“they take account of the soul at that place”"
+  summary: 'The passage describes cosmic geography: a sky-substance and water from
+    Hugar in the wide-formed ocean; Aaka-i-Daitik, the judicial peak at the middle
+    of the world, where the Cinvar bridge stands and souls are accounted; and the
+    Arezur ridge of Alburn at the gate of hell, where demons gather. Translator notes
+    connect the bridge with Avestan and Pahlavi traditions of the soul’s path to the
+    other world and describe Alburn/Arezur as part of a mythic mountain geography.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A sky-substance is placed in the midst of the wide-formed ocean, and water
+    from Hugar pours down into the ocean.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aaka-i-Daitik is called the judicial peak, is located at the middle of the
+    world, and is described as a hundred men high.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Cinvar bridge stands on Aaka-i-Daitik.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The soul is accounted at the place of Aaka-i-Daitik and the bridge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Arezur ridge of the Alburn mountain is described as a summit at the gate
+    of hell.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Demons are said to hold their concourse continually at the Arezur ridge or
+    gate of hell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A translator note identifies the bridge as the path of the soul to the other
+    world, with different outcomes for a righteous soul and a wicked soul.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A translator note describes Alburn as a mythic mountain that surrounds the
+    earth and treats Arezur as a place where demons chiefly congregate.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the soul
+  description: The soul is accounted at Aaka-i-Daitik; the note describes the soul
+    as passing by the bridge toward the other world.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: demons
+  description: Demons hold their concourse at the Arezur ridge, a summit at the gate
+    of hell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: judged soul
+  assigned_to:
+  - fig:1
+  basis: The passage says they take account of the soul at Aaka-i-Daitik, the judicial
+    peak.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: afterlife bridge traveler
+  assigned_to:
+  - fig:1
+  basis: The translator note explains the bridge as the path of the soul to the other
+    world.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: demonic assembly participants
+  assigned_to:
+  - fig:2
+  basis: The passage states that demons hold their concourse at the Arezur ridge or
+    gate of hell.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wide-formed ocean
+  literal_form: Ocean in whose midst the sky-substance is located and into which water
+    pours.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water from Hugar
+  literal_form: Water said to be from Hugar and to pour down into the ocean.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Aaka-i-Daitik, the judicial peak
+  literal_form: A peak at the middle of the world, a hundred men high.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Cinvar bridge
+  literal_form: Bridge standing on Aaka-i-Daitik; the note describes it as the soul’s
+    path to the other world.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: Arezur ridge and gate of hell
+  literal_form: A ridge or summit of Alburn at the gate of hell.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Alburn mountain
+  literal_form: Mountain named with Arezur; the note describes it as a mythic mountain
+    surrounding the earth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:7
+  label: sky-substance
+  literal_form: A substance of the sky located in the midst of the wide-formed ocean.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Cosmic waters and sky-substance
+  summary: The passage locates a sky-substance in the wide-formed ocean and says water
+    from Hugar pours down into that ocean.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Judicial peak and bridge of the soul
+  summary: Aaka-i-Daitik is placed at the middle of the world; the Cinvar bridge stands
+    on it, and the soul is accounted there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Demon concourse at the gate of hell
+  summary: The Arezur ridge of Alburn is described as a summit at the gate of hell
+    where demons continually gather.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: world-middle judicial mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  - world_center
+  basis: Aaka-i-Daitik is a peak at the middle of the world, and it is the place where
+    the soul is accounted.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt names the peak and its function but gives only a brief description
+    of the larger cosmography.
+- id: motif:2
+  label: soul judgment at an afterlife bridge
+  taxonomy_refs:
+  - divine_judgment
+  - afterlife_journey_map
+  basis: The passage places soul-accounting at the judicial peak where the bridge
+    stands; the note identifies the bridge as the soul’s path to the other world.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not name the judges or give a full judgment procedure.
+- id: motif:3
+  label: bifurcated bridge outcome for righteous and wicked souls
+  taxonomy_refs:
+  - afterlife_journey_map
+  - duality
+  basis: The translator note states that a righteous soul passes easily by the bridge
+    into paradise, while a wicked soul drops from the bridge into hell.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This detail is supplied in the translator note rather than the main passage
+    text.
+- id: motif:4
+  label: demon assembly at infernal boundary
+  taxonomy_refs: []
+  basis: Arezur ridge is placed at the gate of hell, where demons continually hold
+    their concourse.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No listed taxonomy family directly matches this boundary-gathering motif.
+- id: motif:5
+  label: encircling mythic mountain geography
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The note describes Alburn as a mythic mountain surrounding the earth and
+    associates Arezur with it.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The encircling-earth detail appears in the note, not in the main passage
+    sentence.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s Cinvar bridge is identified in the note with the Avestan cinvato-peretu/Cinvat
+    bridge tradition, where the bridge functions as the soul’s path to the other world.
+  claim_level: same_motif
+  target: Avestan Cinvat bridge / cinvato-peretu tradition, including the Gathas as
+    cited in the note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the translator note included in the passage;
+    the excerpt itself provides only a compressed description of the bridge.
+- id: claim:2
+  claim: The note cites a Pahlavi Vendidad passage in which the bridge is associated
+    with Cakait-i-Daitik and Alburn, giving a nearby textual parallel for the bridge
+    as an afterlife crossing route.
+  claim_level: same_function
+  target: Pahlavi Vendidad XIX bridge passage as cited in the note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the translator’s quoted/paraphrased note is available here, not
+    the full parallel passage.
+- id: claim:3
+  claim: The note connects Arezur with Vendidad references and with a tradition that
+    places demon congregation on a northern range of mythic Alburn.
+  claim_level: same_function
+  target: Vendidad Arezur/Alburn demon-congregation tradition as cited in the note
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited Vendidad references are not quoted in detail in this passage;
+    the comparison rests on the translator’s summary.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4978-4982
+  quote_or_summary: A sky-substance is said to be in the midst of the wide-formed
+    ocean, and water from Hugar pours down into the ocean.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4982-4986
+  quote_or_summary: "“Aaka-i-Daitik (‘the judicial peak’) is that of the middle of
+    the world ... on which the Ainvar bridge stands; and they take account of the
+    soul at that place.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 4986-4989
+  quote_or_summary: "“The Arezur ridge [of the Alburn mountain] is a summit at the
+    gate of hell, where they always hold the concourse of the demons.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: note
+  locator: lines 4999-5008, translator note to bridge
+  quote_or_summary: The note identifies the bridge with the Avestan cinvato-peretu,
+    says it is the path of the soul to the other world, and states that the righteous
+    pass over it into paradise while the wicked drop into hell.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from translator note.
+- id: ev:5
+  type: note
+  locator: lines 5009-5016, translator note to Arezur
+  quote_or_summary: The note cites Vendidad references and says Arezur may be the
+    extreme northern range of mythic Alburn, which surrounds the earth, and is the
+    place where demons chiefly congregate.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from translator note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main details are explicit, but the passage is fragmentary and includes OCR/transliteration
+    irregularities. Several broader motif and comparison fields rely on translator
+    notes within the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used beyond the supplied passage text, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l4978-l5026
+  passage_sha256=b49e46d671073df7f6696c2bf3a71b032107601beb828832f5900398b1ce6424
+

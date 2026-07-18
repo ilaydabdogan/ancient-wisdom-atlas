@@ -1,0 +1,331 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1337
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.counterplot-against-plotters
+  motif_id: counterplot_against_plotters
+  label: counterplot against plotters
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A counterplot may be trickster deception, divine judgment, court intrigue,
+    or ordinary narrative reversal depending on source context.
+  cautions: Single occurrence and too context-dependent to place without knowing whether
+    sacred agency, moral reckoning, or trickster boundary-crossing is central.
+  suggested_aliases:
+  - counterplot
+  - plotters outwitted
+  - deceptive reversal against deceivers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.country-of-the-young-as-legendary-place
+  motif_id: country_of_the_young_as_legendary_place
+  label: Country of the Young as legendary place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: The Country of the Young is an enchanted otherworldly realm marked by
+    timelessness and youth rather than an ordinary geographic place.
+  cautions: If the passage maps a postmortem route or death realm, afterlife_passage
+    may be a secondary mapping; avoid treating the place-name alone as evidence of
+    underworld descent.
+  suggested_aliases:
+  - Country of the Young
+  - Tir na nOg
+  - land of youth
+  - legendary otherworld place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courageous-human-knowingly-receives-an-uncanny-visitor
+  motif_id: courageous_human_knowingly_receives_an_uncanny_visitor
+  label: Courageous human knowingly receives an uncanny visitor
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Receiving an uncanny visitor likely functions as a hospitality or stranger-guest
+    test, with courage marking the host's response to danger.
+  cautions: If no hospitality obligation or test is present, this may instead be threshold
+    encounter, supernatural intrusion, or an over-specific episode detail.
+  suggested_aliases:
+  - uncanny visitor received knowingly
+  - brave host receives supernatural guest
+  - hospitality to uncanny visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courses-of-heavenly-luminaries
+  motif_id: courses_of_heavenly_luminaries
+  label: Courses of heavenly luminaries
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cosmological order, calendrical sacred time, visionary
+    astronomy, or textual exposition rather than a narrative motif.
+  cautions: 'Review source evidence: in pseudepigraphic contexts this may be an apocalyptic
+    cosmography or revelation map, not simply celestial symbolism.'
+  suggested_aliases:
+  - heavenly luminary courses
+  - paths of sun and moon
+  - celestial courses
+  - astral order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - cosmic_origin
+    - dream_and_vision
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.court-pleasures-rejected-after-loss
+  motif_id: court_pleasures_rejected_after_loss
+  label: court pleasures rejected after loss
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Renouncing courtly pleasures after loss expresses grief and mourning
+    through withdrawal from social enjoyment.
+  cautions: If the rejection is ascetic discipline rather than grief, mystical_quest
+    or renunciation may fit better; if it is only courtly plot detail, keep as evidence
+    note.
+  suggested_aliases:
+  - renunciation of pleasure after loss
+  - mourning withdrawal from court pleasures
+  - courtly grief withdrawal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mystical_quest
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.court-plot-surrounding-a-royal-summons
+  motif_id: court_plot_surrounding_a_royal_summons
+  label: court plot surrounding a royal summons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A royal summons embedded in court intrigue may concern kingship, betrayal,
+    deception, or ordinary narrative mechanics.
+  cautions: Single occurrence; do not map to royal_legitimacy unless the summons affects
+    sacred rule, succession, or sanctioned authority.
+  suggested_aliases:
+  - royal summons intrigue
+  - court conspiracy around summons
+  - summons as court plot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - betrayal_violated_trust
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtly-renewal-through-cleansing-and-re-clothing
+  motif_id: courtly_renewal_through_cleansing_and_re_clothing
+  label: Courtly renewal through cleansing and re-clothing
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Cleansing and re-clothing mark a status transformation or social reintegration,
+    fitting initiation broadly.
+  cautions: If the episode is funerary, royal enthronement, or purification rite,
+    death_and_transformation, royal_legitimacy, or sacrifice/purification may be better
+    secondary mappings.
+  suggested_aliases:
+  - renewal by cleansing and clothing
+  - ritual re-clothing after purification
+  - courtly purification and reintegration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - royal_legitimacy
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtly-tale-for-hospitality-frame
+  motif_id: courtly_tale_for_hospitality_frame
+  label: Courtly tale-for-hospitality frame
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tale exchanged within a hospitality frame foregrounds storytelling
+    as a socially potent act of exchange or obligation.
+  cautions: If hospitality itself is the main ordeal, hospitality_test_stranger_guest
+    may be a secondary or better fit; may be a frame-structure artifact rather than
+    motif.
+  suggested_aliases:
+  - tale exchanged for hospitality
+  - hospitality storytelling frame
+  - courtly narrative as guest exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtly-trophy-gift-to-a-lady
+  motif_id: courtly_trophy_gift_to_a_lady
+  label: courtly trophy gift to a lady
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A trophy gift to a lady may encode courtly love, martial proof, exchange,
+    or episode-specific chivalric convention.
+  cautions: Do not map solely from the object or recipient; review whether the gift
+    proves identity, wins love, marks combat honor, or is just narrative detail.
+  suggested_aliases:
+  - trophy gift to beloved
+  - martial trophy as courtly gift
+  - courtly gift of battle prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_combat
+    - sacred_exchange
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coyote-demon-killing-with-etiological-subtitle
+  motif_id: coyote_demon_killing_with_etiological_subtitle
+  label: Coyote demon-killing with etiological subtitle
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Coyote killing a demon could fit trickster, culture hero, sacred combat,
+    or an etiological origin episode, but the label also includes possible subtitle
+    metadata.
+  cautions: Culturally specific Coyote material should be reviewed carefully; remove
+    the 'etiological subtitle' artifact if it is editorial rather than passage content.
+  suggested_aliases:
+  - Coyote kills demon
+  - trickster demon-slaying
+  - Coyote etiological demon-slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - culture_hero
+    - sacred_combat
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several single-occurrence labels appear episode-specific
+  or frame/commentary-like and need source evidence before durable mapping.
+- No transmission or borrowing claims are implied by these suggested placements.
+- Check generated tradition string for courses_of_heavenly_luminaries; output preserves
+  supplied tradition and flags no historical conclusion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch contains multiple courtly or plot-mechanic labels that may be evidence
+    notes rather than reusable motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1337
+  input_sha256: 8117329e27d61dfe62991c013a60b235a21ea1f84f00da929eb135b964bb1baf
+

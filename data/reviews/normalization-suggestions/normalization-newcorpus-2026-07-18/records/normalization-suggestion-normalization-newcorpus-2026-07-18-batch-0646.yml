@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0646
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.siege-gate-breaking-and-sack-of-a-stronghold
+  motif_id: siege_gate_breaking_and_sack_of_a_stronghold
+  label: Siege, gate-breaking, and sack of a stronghold
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A siege and sack is a warfare episode; existing sacred_combat holds raid,
+    battle, duel, and crisis-combat patterns.
+  cautions: Single occurrence and may be ordinary battle narration unless ritually
+    or mythically charged.
+  suggested_aliases:
+  - siege_and_sack
+  - gate_breaking_siege
+  - fall_of_stronghold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.siege-of-a-fortified-city
+  motif_id: siege_of_a_fortified_city
+  label: siege of a fortified city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A fortified-city siege is a military conflict pattern and fits the existing
+    broad sacred_combat group.
+  cautions: Label is broad and may be a plot setting rather than a reusable motif;
+    review for sacred or order-establishing function.
+  suggested_aliases:
+  - city_siege
+  - fortified_city_under_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.siege-scarcity-and-defilement-sign
+  motif_id: siege_scarcity_and_defilement_sign
+  label: Siege scarcity and defilement sign
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines siege hardship with ritual defilement or prophetic
+    sign, which could point to judgment, sacred law, or combat.
+  cautions: Needs passage evidence to determine whether the core motif is warfare,
+    divine judgment, ritual impurity, or prophetic sign-act.
+  suggested_aliases:
+  - siege_famine_defilement
+  - defilement_sign_during_siege
+  - siege_scarcity_as_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silenced-captive-taken-to-a-foreign-king
+  motif_id: silenced_captive_taken_to_a_foreign_king
+  label: Silenced captive taken to a foreign king
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly specific captivity or court-transfer episode rather
+    than a durable mythic motif.
+  cautions: If the silence is a prophetic sign, humiliation rite, or legal judgment
+    in context, human review may map it elsewhere.
+  suggested_aliases:
+  - captive_taken_to_foreign_king
+  - silenced_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silent-ordered-host-contrasted-with-clamorous-mixed-host
+  motif_id: silent_ordered_host_contrasted_with_clamorous_mixed_host
+  label: Silent ordered host contrasted with clamorous mixed host
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may encode an army-order contrast, ethnic characterization,
+    or literary description rather than a motif.
+  cautions: Potentially a passage-specific rhetorical contrast; avoid mapping to duality
+    unless symbolic opposition is explicit.
+  suggested_aliases:
+  - ordered_host_vs_clamorous_host
+  - silent_army_contrasted_with_noisy_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sin-transferred-to-natural-and-social-bearers
+  motif_id: sin_transferred_to_natural_and_social_bearers
+  label: sin transferred to natural and social bearers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transfer of sin to substitute bearers aligns with scapegoat, ritual transfer,
+    and expulsion patterns already under sacrifice.
+  cautions: If the passage emphasizes cosmic moral accounting rather than ritual transfer,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - sin_transfer_to_bearers
+  - transference_of_sin
+  - sin_borne_by_substitutes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sincere-incapacity-excused
+  motif_id: sincere_incapacity_excused
+  label: sincere incapacity excused
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Excusing inability under sincere intention is a legal-ethical rule within
+    sacred law and obligation.
+  cautions: May be doctrinal or commentary-like rather than narrative motif; preserve
+    as ethical-law evidence if retained.
+  suggested_aliases:
+  - incapacity_excused_by_sincerity
+  - sincere_inability_excused
+  - excused_incapacity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-challenge-for-honor
+  motif_id: single_combat_challenge_for_honor
+  label: single-combat challenge for honor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Single combat and honor challenge are already represented in sacred_combat
+    aliases and duel-related children.
+  cautions: If the focus is personal reputation rather than ritually significant warfare,
+    keep as granular evidence rather than promoting.
+  suggested_aliases:
+  - honor_duel
+  - single_combat_for_honor
+  - champion_challenge_for_honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sky-touching-mountain-city
+  motif_id: sky_touching_mountain_city
+  label: Sky-touching mountain city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A mountain city touching the sky evokes a vertical sacred center connecting
+    earth and heaven.
+  cautions: If it is merely hyperbolic city description, exclude or treat as setting
+    detail; if royal city imagery dominates, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - sky_reaching_mountain_city
+  - mountain_city_touching_heaven
+  - heaven_touching_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-child-at-the-fall-of-a-city
+  motif_id: slain_child_at_the_fall_of_a_city
+  label: slain child at the fall of a city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could signify war atrocity, dynastic extinction, sacrifice,
+    lament, or episode-specific tragedy.
+  cautions: Needs source evidence before mapping; avoid folding into miraculous_child
+    unless the child has sacred destiny.
+  suggested_aliases:
+  - child_slain_at_city_fall
+  - death_of_child_during_sack
+  - slain_child_in_fallen_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence siege or war-scene details; map
+  to sacred_combat only when the passage gives them mythic, ritual, or order-defining
+  function.
+- Do not infer transmission or borrowing from shared siege, duel, or captivity imagery.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source passages should be checked for
+    over-specific military narration versus reusable motif function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0646
+  input_sha256: 9b56f91c4354b1d6d1ce63f75b803bf96ed066ec931bc0dbc9b9f1504e412b6c
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1393
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-treasure-or-gold-as-bane
+  motif_id: fatal_treasure_or_gold_as_bane
+  label: Fatal treasure or gold as bane
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on treasure or gold as a power object whose possession
+    brings destruction rather than blessing.
+  cautions: Could instead belong under curse_blessing_speech if the treasure is explicitly
+    cursed, or divine_judgment if the fatality is moral punishment.
+  suggested_aliases:
+  - cursed_treasure
+  - gold_as_bane
+  - fatal_gold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-treasure-turns-against-its-holder
+  motif_id: fatal_treasure_turns_against_its_holder
+  label: Fatal treasure turns against its holder
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A treasure functioning destructively toward its possessor fits the sacred
+    or dangerous power-object complex.
+  cautions: Review whether the agency lies in the treasure itself, a curse, greed,
+    betrayal, or fate; secondary mapping may be needed.
+  suggested_aliases:
+  - cursed_treasure_turns_against_holder
+  - fatal_power_object
+  - treasure_as_bane
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-visit-to-a-hostile-court
+  motif_id: fatal_visit_to_a_hostile_court
+  label: fatal visit to a hostile court
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a journey into danger, courtly betrayal, political
+    conflict, or an episode-specific plot detail.
+  cautions: Needs source context before mapping to hero_journey, betrayal_violated_trust,
+    sacred_combat, or royal_legitimacy; may be too specific for pattern queries.
+  suggested_aliases:
+  - hostile_court_visit
+  - fatal_guest_visit
+  - journey_to_enemy_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-vulnerability-through-sleep-while-hunting
+  motif_id: fatal_vulnerability_through_sleep_while_hunting
+  label: Fatal vulnerability through sleep while hunting
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as a highly contextual death scene rather than a stable symbolic
+    motif from the label alone.
+  cautions: Could fit conditional_invulnerability_hidden_weakness if sleep exposes
+    a specific vulnerability, or divine_judgment/death_by_fate if the death is framed
+    as destined or punitive.
+  suggested_aliases:
+  - sleeping_hunter_vulnerability
+  - fatal_sleep_while_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-as-universal-governor
+  motif_id: fate_as_universal_governor
+  label: Fate as universal governor
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The label expresses fate as an overriding cosmic determinant, which is
+    the broad conceptual field already covered by fate/destiny motifs.
+  cautions: If not death-related, the group label is narrower than the motif; consider
+    related mapping to fate_figures_cosmic_weaving or sacred_time if cosmic governance
+    is personified or temporal.
+  suggested_aliases:
+  - fate_governs_all
+  - universal_fate
+  - destiny_as_cosmic_governor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-fixed-by-the-norns
+  motif_id: fate_fixed_by_the_norns
+  label: fate fixed by the Norns
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: high
+  rationale: The Norns are personified fate figures who determine destiny, directly
+    matching the fate-figures group.
+  cautions: If the passage centers on a specific death caused by fate, death_by_fate
+    may be a secondary parent.
+  suggested_aliases:
+  - norns_fix_fate
+  - norns_determine_destiny
+  - fate_set_by_norns
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-overruling-human-intention
+  motif_id: fate_overruling_human_intention
+  label: Fate overruling human intention
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes destiny overriding human agency, a core function
+    of the fate/destiny complex.
+  cautions: Use caution if the passage is philosophical teaching rather than a narrative
+    death or doom motif; sacred_knowledge may be relevant for doctrinal framing.
+  suggested_aliases:
+  - destiny_overrules_intention
+  - fate_overrides_human_will
+  - human_intention_overruled_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-set-longing-by-norns
+  motif_id: fate_set_longing_by_norns
+  label: Fate-set longing by Norns
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: medium
+  rationale: The Norns act as fate-setting figures, even though the specific outcome
+    is longing rather than death.
+  cautions: If longing drives a love plot, sacred_love may be a secondary mapping;
+    preserve the Norns detail rather than reducing it to generic emotion.
+  suggested_aliases:
+  - norns_set_longing
+  - destined_longing
+  - fated_love_by_norns
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fateful-drink
+  motif_id: fateful_drink
+  label: fateful drink
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A fateful drink could be sacred substance, betrayal through drink, enchantment,
+    intoxication, oath, or death-triggering object depending on context.
+  cautions: Do not map solely from the broad label; review whether the drink causes
+    knowledge, sleep, betrayal, love, death, or ritual transformation.
+  suggested_aliases:
+  - destiny_drink
+  - fatal_drink
+  - enchanted_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.favor-owed-to-the-poor
+  motif_id: favor_owed_to_the_poor
+  label: Favor owed to the poor
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: An obligation to repay or honor the poor fits reciprocity, ethical giving,
+    and sacred social obligation.
+  cautions: If framed as law or moral duty rather than reciprocal exchange, sacred_law
+    or covenant may be better secondary placements.
+  suggested_aliases:
+  - obligation_to_the_poor
+  - reciprocity_with_the_poor
+  - debt_of_favor_to_the_poor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several fate labels can be placed provisionally, but distinguish impersonal fate,
+  personified Norns, and death-specific destiny during human review.
+- Single-occurrence Norse treasure labels may indicate a cursed-object subpattern;
+  current sacred_treasures can hold them unless more examples justify a new group.
+- Avoid inferring transmission or common origin from these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_normalizer
+  reviewed_at: ''
+  notes: Provisional suggestions only; low-confidence travel, sleep, and drink labels
+    require source evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1393
+  input_sha256: 4b4f1505e0e2572ec6967382e47c6a2ea3282cbd1b568e146f2e127de81694a0
+

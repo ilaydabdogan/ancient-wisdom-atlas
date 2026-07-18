@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0566
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.apostolic-judgment-and-full-submission
+  motif_id: apostolic_judgment_and_full_submission
+  label: Apostolic judgment and full submission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests sacred or apostolic authority requiring submission,
+    possibly a judgment scene.
+  cautions: Context is needed to distinguish divine judgment, prophetic/apostolic
+    authority, legal obedience, or a passage-specific theological claim.
+  suggested_aliases:
+  - apostolic_authority_and_submission
+  - prophetic_judgment_and_submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apostolic-mission-rejected-by-a-city
+  motif_id: apostolic_mission_rejected_by_a_city
+  label: Apostolic mission rejected by a city
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rejected apostolic mission fits the existing prophet-call and divine
+    guidance/intervention complex.
+  cautions: If the passage emphasizes punishment of the city, divine_judgment should
+    be a secondary or alternate mapping; if only a narrative episode, it may be over-specific.
+  suggested_aliases:
+  - prophetic_mission_rejected_by_a_city
+  - rejected_apostolic_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-a-powerful-external-king-for-advice-and-aid
+  motif_id: appeal_to_a_powerful_external_king_for_advice_and_aid
+  label: appeal to a powerful external king for advice and aid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: The motif involves kingly authority and counsel, but its mythic function
+    is unclear.
+  cautions: May be a political plot detail rather than a recurring symbolic motif;
+    verify whether the external king confers legitimacy, judgment, protection, or
+    merely practical aid.
+  suggested_aliases:
+  - external_king_as_adviser_and_ally
+  - appeal_to_foreign_king_for_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-animal-sovereigns-for-justice
+  motif_id: appeal_to_animal_sovereigns_for_justice
+  label: appeal to animal sovereigns for justice
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: Animal rulers are invoked as adjudicating authorities, which fits judgment
+    and moral reckoning by nonhuman sovereigns.
+  cautions: Could also involve animal fable sovereignty or enchanted otherworld courts;
+    source evidence should confirm that justice, not merely animal hierarchy, is central.
+  suggested_aliases:
+  - animal_sovereigns_as_judges
+  - appeal_to_animal_rulers_for_justice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-retinue-receives-cultic-honors
+  motif_id: armed_retinue_receives_cultic_honors
+  label: Armed retinue receives cultic honors
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A martial group receiving cultic honors fits the sacralization of armed
+    service and warrior status.
+  cautions: If the honors are funerary or memorial, heroic_funeral_rites may be a
+    better fit; if royal bodyguard ideology is central, royal_legitimacy may also
+    apply.
+  suggested_aliases:
+  - cultic_honors_for_armed_retinue
+  - martial_retinue_sacralized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.army-arrayed-for-siege-of-a-fortified-city
+  motif_id: army_arrayed_for_siege_of_a_fortified_city
+  label: Army arrayed for siege of a fortified city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A formal siege array is a warfare scene and can sit under sacred combat
+    when the source frames the battle mythically or ritually.
+  cautions: May be a generic battle description or passage artifact if no sacred,
+    heroic, or cosmic function is present.
+  suggested_aliases:
+  - siege_of_a_fortified_city
+  - army_arrayed_for_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assembly-order-as-omen-of-social-state
+  motif_id: assembly_order_as_omen_of_social_state
+  label: assembly order as omen of social state
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The arrangement of an assembly is read as a sign revealing social or
+    political condition, fitting omen interpretation.
+  cautions: If the focus is social hierarchy rather than divinatory reading, sacred_law
+    or royal_legitimacy may be more relevant; source context is needed.
+  suggested_aliases:
+  - social_order_read_as_omen
+  - assembly_arrangement_as_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assertion-of-equal-dignity-against-insulting-social-rank
+  motif_id: assertion_of_equal_dignity_against_insulting_social_rank
+  label: Assertion of equal dignity against insulting social rank
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social dignity and rank, which may fit sacred social
+    order if ethically or ritually framed.
+  cautions: Could be a moral/social theme, a dialogue detail, or modern abstraction
+    rather than a mythic motif; verify recurrence and sacred framing.
+  suggested_aliases:
+  - equal_dignity_against_rank_insult
+  - challenge_to_insulting_social_rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.asylum-city-for-the-unintentional-killer
+  motif_id: asylum_city_for_the_unintentional_killer
+  label: Asylum city for the unintentional killer
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A refuge city for accidental killing is a legal-sacred institution regulating
+    violence, guilt, and social repair.
+  cautions: Could also relate to covenant law or divine judgment, but the primary
+    function is sacred legal asylum.
+  suggested_aliases:
+  - city_of_refuge_for_unintentional_killer
+  - asylum_for_accidental_homicide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempt-to-control-celestial-order
+  motif_id: attempt_to_control_celestial_order
+  label: attempt to control celestial order
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Trying to command celestial order suggests overreach against cosmic limits,
+    fitting hubris if punished or humbled.
+  cautions: If successful or ritualized, sacred_time, cosmic_origin, or divine_intervention
+    may be better; do not assume downfall without passage evidence.
+  suggested_aliases:
+  - control_of_celestial_order
+  - hubristic_control_of_cosmic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence and power/order themed; several may
+  be episode-specific rather than durable motifs.
+- For apostolic and prophetic labels, review source context to distinguish divine
+  intervention, divine judgment, covenantal obedience, and theological commentary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for low-confidence
+    social-rank and apostolic-authority items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0566
+  input_sha256: 8b66ed09f5c880517c5503ed12806fcceb025fa266dc9243e7c1e9930b3991d8
+

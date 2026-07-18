@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1354
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.destruction-of-cult-images-before-settlement
+  motif_id: destruction_of_cult_images_before_settlement
+  label: destruction of cult images before settlement
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Destruction of cult images may express sacred order responding to idolatry
+    or impurity before occupying land.
+  cautions: Could be a conquest/legal-purity detail, polemical artifact, or passage-specific
+    command; verify source function before indexing.
+  suggested_aliases:
+  - cult image destruction
+  - icon destruction before settlement
+  - destruction of idols before settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-mankind
+  motif_id: destruction_of_mankind
+  label: destruction of mankind
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: broader_label
+  confidence: medium
+  rationale: A divine or cosmic destruction of humanity fits catastrophe and renewal
+    when the old human order is threatened or remade.
+  cautions: Do not assume flood or renewal unless present; if only punishment without
+    restoration, divine_judgment may be the better primary group.
+  suggested_aliases:
+  - destruction of humanity
+  - near destruction of mankind
+  - cosmic destruction of humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-mankind-title
+  motif_id: destruction_of_mankind_title
+  label: destruction of mankind title
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording indicates a title or textual label rather than a motif in
+    the passage itself.
+  cautions: If a passage actually narrates humanity's destruction, map that evidence
+    separately under flood_and_renewal or divine_judgment.
+  suggested_aliases:
+  - Destruction of Mankind title
+  - 'title: destruction of mankind'
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-the-witch-in-the-fiery-well
+  motif_id: destruction_of_the_witch_in_the_fiery_well
+  label: Destruction of the witch in the fiery well
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label suggests defeat of a dangerous magical antagonist, possibly
+    a combat or ordeal episode.
+  cautions: Highly episode-specific; fiery well may indicate underworld, punishment,
+    purification, or just setting. Source context needed before mapping to combat,
+    sacred_fire, or descent.
+  suggested_aliases:
+  - witch destroyed in fiery well
+  - destruction of magical antagonist in fiery well
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-by-product-of-churning-a-life-substance
+  motif_id: destructive_by_product_of_churning_a_life_substance
+  label: destructive by-product of churning a life substance
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core image is a powerful life-substance whose production yields a
+    dangerous or destructive substance.
+  cautions: Could belong to cosmic_origin, sacred_craft, or divine_judgment depending
+    on whether churning creates the world, an elixir, poison, or a ritual product.
+  suggested_aliases:
+  - dangerous by-product of life substance
+  - poison from churning life substance
+  - destructive product of sacred substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-horn-against-fortifications
+  motif_id: destructive_horn_against_fortifications
+  label: Destructive horn against fortifications
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A horn used to break fortifications functions as a power object or weapon
+    with extraordinary destructive efficacy.
+  cautions: If the emphasis is battle rather than object power, sacred_combat or divine_warrior
+    may be better secondary mappings.
+  suggested_aliases:
+  - fortress-destroying horn
+  - destructive war horn
+  - horn that breaks fortifications
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-labor-followed-by-sale-into-servitude
+  motif_id: destructive_labor_followed_by_sale_into_servitude
+  label: destructive labor followed by sale into servitude
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a very specific plot sequence rather than a reusable
+    mythic motif in the current taxonomy.
+  cautions: If source evidence shows a recurring ordeal, punishment, or enslavement
+    pattern, reconsider under initiation, divine_judgment, or sacred_law.
+  suggested_aliases:
+  - destructive work followed by enslavement
+  - destructive labor and servitude
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-rage-redirected-into-landscape-alteration
+  motif_id: destructive_rage_redirected_into_landscape_alteration
+  label: destructive rage redirected into landscape alteration
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Violent action causing landscape change fits the group's etiological
+    landscape-formation and place-origin scope.
+  cautions: If emphasis is emotional discipline or heroic fury rather than place formation,
+    this may be an episode detail; preserve rage-specific wording as evidence.
+  suggested_aliases:
+  - rage alters landscape
+  - landscape formed by destructive rage
+  - violent emotion reshapes land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detachable-hearts-removed-nightly
+  motif_id: detachable_hearts_removed_nightly
+  label: detachable hearts removed nightly
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A removable heart implies separable life-force or vital organ externalized
+    from the body.
+  cautions: Confirm whether removal controls life, vulnerability, sleep, or enchantment;
+    if merely grotesque magic, shapeshifter or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - removable hearts
+  - detachable heart as life-token
+  - heart removed from body at night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detached-head-of-an-enchantress
+  motif_id: detached_head_of_an_enchantress
+  label: Detached head of an enchantress
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A detached magical head may function as an oracular, dangerous, or power-bearing
+    object, but the narrative role is unclear.
+  cautions: Could instead be body horror, death transformation, external soul, witch
+    antagonist, or passage-specific detail; needs source evidence.
+  suggested_aliases:
+  - severed head of enchantress
+  - magical detached head
+  - enchanted severed head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have only one occurrence and appear episode-specific; preserve local
+  evidence without promoting to taxonomy motifs unless recurrence is shown.
+- For destruction labels, distinguish cosmic catastrophe, moral judgment, combat victory,
+  and textual-title artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements generated from labels only; human review should verify
+    source function and avoid inferring transmission.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1354
+  input_sha256: bc5143c78244461d2501141ebcc9eeb9494645255394b81daf84eae3fe2a9dbe
+

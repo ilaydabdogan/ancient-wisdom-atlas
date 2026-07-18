@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1235
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recognition-by-ring-dropped-into-a-cup
+  motif_id: recognition_by_ring_dropped_into_a_cup
+  label: recognition by ring dropped into a cup
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A ring placed in a cup functions as a token that enables recognition
+    or identity proof.
+  cautions: Single occurrence; preserve cup/ring scene as evidence detail rather than
+    a separate canonical motif.
+  suggested_aliases:
+  - recognition through ring token
+  - recognition by personal token in vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-hidden-maternal-lineage-through-remembered-house-objects
+  motif_id: recognition_of_hidden_maternal_lineage_through_remembered_house_objects
+  label: recognition of hidden maternal lineage through remembered house objects
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Remembered household objects serve as identity or kinship proofs revealing
+    hidden lineage.
+  cautions: Lineage and domestic-object specificity may be culturally contextual;
+    review source evidence before treating as a broad motif.
+  suggested_aliases:
+  - recognition through remembered objects
+  - recognition of hidden lineage by household objects
+  - kinship recognition by memory of objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-leader-by-elevated-observer-and-distinctive-mark
+  motif_id: recognition_of_leader_by_elevated_observer_and_distinctive_mark
+  label: recognition of leader by elevated observer and distinctive mark
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The distinctive mark is an identity proof used to recognize a leader.
+  cautions: The elevated observer may be only scene mechanics; if leadership recognition
+    authorizes rule, secondary relation to royal_legitimacy may be relevant.
+  suggested_aliases:
+  - recognition by distinctive mark
+  - leader recognized by visible token
+  - recognition by bodily or visible sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-a-ring-token
+  motif_id: recognition_through_a_ring_token
+  label: Recognition through a ring token
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A ring token is a straightforward recognition object proving identity,
+    kinship, or prior encounter.
+  cautions: Preserve the ring as evidence detail; do not create a ring-specific group
+    unless the pattern recurs widely.
+  suggested_aliases:
+  - recognition by ring
+  - ring as recognition token
+  - identity proof by ring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurrent-four-and-eight-tribal-numbering
+  motif_id: recurrent_four_and_eight_tribal_numbering
+  label: recurrent four-and-eight tribal numbering
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe symbolic numbering, social organization, or an
+    editorial observation rather than a narrative motif.
+  cautions: Review cultural and source context carefully; if it is only a repeated
+    structural count, it may be a passage or indexing artifact.
+  suggested_aliases:
+  - four and eight tribal numbering
+  - ritual number pattern in tribal groups
+  - recurrent numerical grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-anansi-story-title-cycle
+  motif_id: recurring_anansi_story_title_cycle
+  label: Recurring Anansi story-title cycle
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes recurrence of story titles or cycle organization,
+    not a symbolic or narrative motif within a passage.
+  cautions: Preserve for corpus/provenance metadata if useful; do not use as motif
+    evidence for Anansi or trickster patterns.
+  suggested_aliases:
+  - Anansi story-title cycle
+  - recurring Anansi title cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-chant-formula
+  motif_id: recurring_chant_formula
+  label: recurring chant formula
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A recurring chant formula could be performative sacred speech, ritual
+    song, or a textual-form artifact depending on evidence.
+  cautions: If the chant itself binds, blesses, curses, or transforms, map to curse_blessing_speech
+    or enchanting_music; if it only marks repeated wording, exclude as textual artifact.
+  suggested_aliases:
+  - repeated chant formula
+  - ritual chant formula
+  - formulaic chant repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-jack-story-title-cycle
+  motif_id: recurring_jack_story_title_cycle
+  label: Recurring Jack story-title cycle
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns recurring story-title cycle organization rather than
+    a passage-level motif.
+  cautions: Preserve as corpus metadata if needed; do not use as motif evidence for
+    Jack, trickster, or hero patterns without passage content.
+  suggested_aliases:
+  - Jack story-title cycle
+  - recurring Jack title cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-magic-cup
+  motif_id: recurring_magic_cup
+  label: Recurring magic cup
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: narrower_than
+  confidence: medium
+  rationale: A magic cup is a sacred or powerful container, fitting the vessel/container
+    group.
+  cautions: Function is unspecified; if the cup proves identity, provides abundance,
+    heals, or holds danger, secondary mappings may change.
+  suggested_aliases:
+  - magic cup
+  - power cup
+  - sacred cup
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-sympathetic-orphans
+  motif_id: recurring_sympathetic_orphans
+  label: Recurring sympathetic orphans
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a recurring character type rather than a clear narrative
+    function in the current groups.
+  cautions: Could relate to persecuted child, miraculous child, social care, or folktale
+    role depending on plot; source context is needed.
+  suggested_aliases:
+  - sympathetic orphan figures
+  - orphan protagonists
+  - recurring orphan characters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Recognition-token labels in this batch mostly fit the existing recognition_tokens_hidden_identity
+  group; preserve object-specific details as evidence notes.
+- Labels beginning with 'recurring' often indicate corpus repetition or title-cycle
+  artifacts rather than motifs; several require source-level review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and culturally contextual
+    items should be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1235
+  input_sha256: 25e4d5ca76a9cdc367ee7e8f7577a7c06ac244ae93e1fbcb17748e6dbad56b44
+

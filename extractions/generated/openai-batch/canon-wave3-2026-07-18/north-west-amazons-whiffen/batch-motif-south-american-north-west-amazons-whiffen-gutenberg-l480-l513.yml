@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l480-l513
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: LIST OF BOOKS REFERRED TO                                            313
+    / INDEX                                                                315 / LIST
+    OF ILLUSTRATIONS / PLATE NO.                                                    FACING
+    PAGE; lines 480-513
+  start: '480'
+  end: '513'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a list of illustrations and maps, naming plates of Okaina
+    dances, pan-pipes, Witoto groups by a double-stemmed palm tree, Witoto types,
+    combs, a Boro tribesman, a Menimehe captive, and several maps of routes, watersheds,
+    and Amazon River affluents.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two illustration entries are titled Okaina Dance and face pages 202 and 204.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One illustration entry is titled Pan-pipes and faces page 210.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One illustration entry names a group of Witoto women and a group of Witoto
+    men by a double-stemmed palm tree, facing page 232.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The illustration list includes Witoto types, a Witoto from Kotue River, and
+    a Witoto woman with leg ligatures.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The illustration list includes combs: an Andoke comb with a nutshell cup
+    for rubber latex, a Witoto comb, and a Boro comb.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The illustration list includes a Boro tribesman from the Pama River and a
+    Menimehe captive.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The map list includes an approximate route plan, a sketch map, a diagrammatic
+    watershed map showing language groups, and maps of Amazon River affluents.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Group of Witoto women
+  description: 'A listed plate subject: group of Witoto women by a double-stemmed
+    palm tree.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Group of Witoto men
+  description: 'A listed plate subject: group of Witoto men by a double-stemmed palm
+    tree.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Witoto individuals/types
+  description: Listed plate subjects include Witoto types, a Witoto from Kotue River,
+    and a Witoto woman with leg ligatures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Boro tribesman from the Pama River
+  description: A listed plate subject identified as a Boro tribesman from the Pama
+    River.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Menimehe captive
+  description: A listed plate subject identified as a Menimehe captive.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: illustrated Witoto group
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage lists groups of Witoto women and men as plate subjects.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: illustrated Witoto individual or type
+  assigned_to:
+  - fig:3
+  basis: The passage lists Witoto types, a Witoto from Kotue River, and a Witoto woman
+    with leg ligatures.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: illustrated Boro tribesman
+  assigned_to:
+  - fig:4
+  basis: The passage names a Boro tribesman from the Pama River as a plate subject.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: captive
+  assigned_to:
+  - fig:5
+  basis: The passage explicitly identifies the Menimehe figure as a captive.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: double-stemmed palm tree
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pan-pipes
+  literal_form: musical instrument
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: combs
+  literal_form: combs, including Andoke, Witoto, and Boro combs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: maps of route, watershed, and river affluents
+  literal_form: maps
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Okaina dance illustration entries
+  summary: The list names two Okaina Dance plates.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Witoto groups by palm tree
+  summary: The list names plates of Witoto women and men positioned by a double-stemmed
+    palm tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Material-culture illustration entries
+  summary: The list names pan-pipes and combs as illustrated objects.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:4
+  label: Map entries
+  summary: The list names maps of a route, a watershed showing language groups, and
+    Amazon River affluents.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 480-486
+  quote_or_summary: Illustration entries list two Okaina Dance plates, a Pan-pipes
+    plate, and a plate of Witoto women and men by a double-stemmed palm tree.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 488-497
+  quote_or_summary: Illustration entries list Witoto types and individuals, combs
+    from Andoke, Witoto, and Boro contexts, a Boro tribesman from the Pama River,
+    a Menimehe captive, and a Witoto woman with leg ligatures.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 499-513
+  quote_or_summary: Map entries include an approximate route plan, a sketch map, a
+    diagrammatic Issa-Japura watershed map showing language groups, and maps of Amazon
+    River affluents.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a list of illustrations and maps, not a mythic narrative.
+    Literal objects and depicted subjects are extractable, but no motif candidates
+    or comparison claims are supported by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No sacred or symbolic interpretation is inferred for the palm tree, pan-pipes, combs, captives, or maps beyond their literal appearance in the list.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l480-l513
+  passage_sha256=120bbaa9dffafc83d0fa97438a4aad4205e6aefcd0a6f27ff12c725748928ef9
+

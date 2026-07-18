@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1385
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.falling-objects-misrecognized-as-natural-signs
+  motif_id: falling_objects_misrecognized_as_natural_signs
+  label: falling objects misrecognized as natural signs
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe omen interpretation, comic misrecognition, or
+    an episode-specific misunderstanding; function is unclear.
+  cautions: Single occurrence and vague wording; map to prophecy_divination only if
+    the objects are treated as omens or signs with sacred/fateful meaning.
+  suggested_aliases:
+  - misrecognized_falling_objects
+  - natural_sign_misrecognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falling-supernatural-or-giant-church-builder
+  motif_id: falling_supernatural_or_giant_church_builder
+  label: Falling supernatural or giant church-builder
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural or giant builder of a church fits the construction/craft
+    complex involving nonhuman or sacred agency.
+  cautions: The 'falling' element may be an episode-specific defeat or accident; if
+    the focus is giant downfall rather than construction, pride_and_downfall or exclusion
+    may be better.
+  suggested_aliases:
+  - supernatural_church_builder
+  - giant_church_builder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falling-tokens-from-an-abducted-woman
+  motif_id: falling_tokens_from_an_abducted_woman
+  label: Falling tokens from an abducted woman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Dropped or falling tokens from an abducted woman function as identity,
+    trail, or proof objects enabling recognition or rescue.
+  cautions: If the passage emphasizes abduction and love-quest more than token proof,
+    sacred_love or hero_journey may be relevant secondary mappings.
+  suggested_aliases:
+  - dropped_tokens_from_abducted_beloved
+  - tokens_left_by_abducted_woman
+  - abducted_woman_recognition_tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-abstainer-drawn-into-transgressive-feasting
+  motif_id: false_abstainer_drawn_into_transgressive_feasting
+  label: False abstainer drawn into transgressive feasting
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on violated abstinence, taboo, and transgressive consumption,
+    fitting sacred law or ritual/ethical prohibition.
+  cautions: Could be a comic hypocrisy tale or moral exemplum rather than a sacred-law
+    motif; source context should confirm taboo or religious transgression.
+  suggested_aliases:
+  - hypocritical_abstainer_transgresses
+  - abstinence_violated_by_feasting
+  - transgressive_feasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-after-failed-detention
+  motif_id: false_accusation_after_failed_detention
+  label: False accusation after failed detention
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The normalization already groups false accusation and vindication patterns
+    under moral reckoning and judgment.
+  cautions: If no vindication, sacred judgment, or moral reversal occurs, this may
+    be an over-specific plot device rather than a motif.
+  suggested_aliases:
+  - false_accusation_after_escape
+  - accusation_following_failed_detainment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-causes-expulsion-into-the-forest
+  motif_id: false_accusation_causes_expulsion_into_the_forest
+  label: false accusation causes expulsion into the forest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: False accusation belongs with the existing false-accusation moral reckoning
+    cluster; expulsion is the consequence that drives ordeal.
+  cautions: If the forest exile is the main transformative pattern, hero_journey or
+    initiation may be relevant; avoid over-indexing if it is only a plot transition.
+  suggested_aliases:
+  - false_accusation_leads_to_exile
+  - false_accusation_and_forest_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-required-proof-and-vindication
+  motif_id: false_accusation_required_proof_and_vindication
+  label: False accusation, required proof, and vindication
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: high
+  rationale: This is a clear variant of the existing false_accusation_vindication
+    cluster under divine judgment.
+  cautions: May also involve sacred_law if proof procedures are legal/ritual rather
+    than narrative moral reversal.
+  suggested_aliases:
+  - false_accusation_vindication
+  - proof_required_for_false_accusation
+  - vindication_after_false_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-reversed-by-hidden-prior-gift
+  motif_id: false_accusation_reversed_by_hidden_prior_gift
+  label: False accusation reversed by hidden prior gift
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A false charge overturned by concealed evidence fits false accusation
+    and vindication under moral reckoning.
+  cautions: The hidden gift may also function as a recognition/proof token; add secondary
+    mapping there if the object proves identity or prior relationship.
+  suggested_aliases:
+  - false_accusation_reversed_by_token
+  - hidden_gift_vindicates_accused
+  - false_accusation_vindication_by_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-used-to-isolate-a-loyal-helper
+  motif_id: false_accusation_used_to_isolate_a_loyal_helper
+  label: False accusation used to isolate a loyal helper
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is false accusation, already represented in the divine_judgment
+    group as moral wrongdoing and possible vindication.
+  cautions: Could instead be betrayal/violated trust if the helper relationship is
+    central and no judgment or vindication follows.
+  suggested_aliases:
+  - false_accusation_against_loyal_helper
+  - accusation_isolates_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusations-create-impossible-tasks
+  motif_id: false_accusations_create_impossible_tasks
+  label: false accusations create impossible tasks
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Impossible tasks function as ordeals or tests imposed after accusation,
+    aligning with initiation and transformative trial.
+  cautions: False accusation may warrant secondary divine_judgment mapping if vindication
+    or moral reckoning is central; consider a future impossible_tasks group if many
+    variants recur.
+  suggested_aliases:
+  - impossible_tasks_from_false_accusation
+  - accusation_imposes_impossible_tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence false-accusation variants. Existing
+  divine_judgment aliases already include false_accusation_vindication, so most can
+  be provisionally grouped there unless source evidence shows a different main function.
+- Avoid treating episode-specific objects or settings, such as forest expulsion or
+  hidden gifts, as canonical unless they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    context for single-occurrence and over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1385
+  input_sha256: 54774b2bae83fbe147d14f8a6957e722c3c6aa9cbf47a64eae99c81a1a9cddc6
+

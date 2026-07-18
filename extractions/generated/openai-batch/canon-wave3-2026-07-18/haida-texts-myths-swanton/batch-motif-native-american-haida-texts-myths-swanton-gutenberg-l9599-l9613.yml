@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l9599-l9613
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: RAVEN TRAVELING / A-SLENDER-ONE-WHO-WAS-GIVEN-AWAY / THE ONE ABANDONED FOR
+    EATING THE FLIPPER OF A HAIR SEAL / SACRED-ONE-STANDING-AND-MOVING, STONE-RIBS,
+    AND UPWARD; lines 9599-9613
+  start: '9599'
+  end: '9613'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: true Haida “hero tales.”
+  summary: The passage is editorial commentary identifying a story complex as especially
+    important among Haida stories, contrasting it with Tsimshian-associated and widely
+    distributed Raven material, emphasizing its insular Haida heroes and places, and
+    giving transmission and name notes for Stone-ribs and Upward.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The story is described as practically including three stories and as one of
+    the most important and interesting Haida stories.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts two preceding stories as largely Tsimshian and the Raven
+    story as not confined to the Queen Charlotte Islands.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the heroes and places in this story are strictly insular
+    and form true Haida hero tales.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The first two sections are described as particularly important and especially
+    well known.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A second version of the Stone-ribs story is said to come from a man of Ninstints,
+    where descendants of the people of Łg̣adᴀ′n afterward lived and where the myth
+    was especially treasured.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sī′xa, translated as “Upward,” is explained as meaning more strictly “About-in-the-air,”
+    perhaps referring to the hero’s escape from his house in the form of a cinder.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: "“Stone-ribs” is given as the translation for G̣odᴀñxē′wat; g̣ō′dᴀñ is also
+    applied to one who discovers hidden things, and xē′wī is the word for rib."
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: insular Haida heroes
+  description: Heroes in the story are described as strictly insular and part of true
+    Haida hero tales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Upward / Sī′xa
+  description: A named hero whose name is translated “Upward” and explained as “About-in-the-air,”
+    possibly connected with escape from a house in the form of a cinder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Stone-ribs / G̣odᴀñxē′wat
+  description: A named story figure or story subject whose name is translated “Stone-ribs”;
+    the passage also discusses a second version of the Stone-ribs story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: local hero-tale figures
+  assigned_to:
+  - fig:1
+  basis: The passage calls the figures heroes and says they form true Haida hero tales
+    with strictly insular places.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hero associated with upward/air imagery
+  assigned_to:
+  - fig:2
+  basis: The passage calls Upward a hero and connects the name Sī′xa with “About-in-the-air”
+    and a possible cinder-form escape.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named story subject
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the story of Stone-ribs and explains the name G̣odᴀñxē′wat
+    as “Stone-ribs.”
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: cinder-form escape
+  literal_form: cinder
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: upward/about-in-the-air name image
+  literal_form: Sī′xa / “Upward” / “About-in-the-air”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: stone-ribs name image
+  literal_form: G̣odᴀñxē′wat / “Stone-ribs”; g̣ō′dᴀñ associated with discovering hidden
+    things and xē′wī with rib
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: editorial classification as insular Haida hero tales
+  summary: The passage classifies the story complex as especially important and as
+    centered on insular Haida heroes and places.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ninstints transmission context for Stone-ribs
+  summary: The passage notes that a second Stone-ribs version came from a man of Ninstints
+    and that the myth was especially treasured there.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: name explanation for Upward
+  summary: The passage explains the name Sī′xa as “About-in-the-air” and suggests
+    it may refer to an escape from a house in cinder form.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: localized Haida hero tale
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage explicitly describes the story as involving insular heroes and
+    places and as forming true Haida hero tales.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is editorial commentary and does not describe the heroes’
+    deeds or culture-hero functions in detail.
+- id: motif:2
+  label: escape in another form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage says the name Upward may refer to the hero escaping from his
+    house in the form of a cinder.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is presented as a possible explanation of a name, not as a full narrative
+    episode in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Raven story as not confined to the Queen Charlotte
+    Islands, implying a wider distribution of that Raven story outside the local Haida
+    setting.
+  claim_level: same_motif
+  target: Raven story beyond the Queen Charlotte Islands
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external Raven versions or detailed parallels are given in the passage;
+    the claim is limited to the passage’s statement of wider distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9599-9604
+  quote_or_summary: The passage says the story practically includes three, is highly
+    important among Haida stories, contrasts preceding Tsimshian and wider Raven material,
+    and calls the current heroes and places strictly insular Haida hero tales.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 9604-9608
+  quote_or_summary: The first two sections are described as important and well known;
+    the second Stone-ribs version is linked to a man of Ninstints, descendants of
+    Łg̣adᴀ′n, and a local context where the myth was treasured.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 9608-9611
+  quote_or_summary: Sī′xa, translated “Upward,” is explained as meaning “About-in-the-air,”
+    perhaps referring to the hero’s escape from his house in the form of a cinder.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 9611-9613
+  quote_or_summary: "“Stone-ribs” is given as the translation of G̣odᴀñxē′wat; g̣ō′dᴀñ
+    can also refer to one who discovers hidden things, and xē′wī means rib."
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is mainly editorial and linguistic commentary, so figure, motif,
+    and symbol extraction is limited and should be checked against the surrounding
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external parallels were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l9599-l9613
+  passage_sha256=32c26a0e304ec95b8a07c7ef82590ab32dca9b108d0df4c6ed5292b84249b6c7
+

@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1137
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-suitor-becomes-enemy
+  motif_id: rejected_suitor_becomes_enemy
+  label: rejected suitor becomes enemy
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred love, bride choice, rivalry, revenge, or conflict
+    depending on the episode evidence.
+  cautions: Single occurrence and relationally specific; do not map to sacred_combat
+    unless the rejection triggers ritualized or heroic warfare.
+  suggested_aliases:
+  - suitor_rejection_turns_to_enmity
+  - rejected_suitor_as_antagonist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_combat
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-supplication-and-ransom-in-war
+  motif_id: rejected_supplication_and_ransom_in_war
+  label: rejected supplication and ransom in war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: child
+  confidence: high
+  rationale: The existing covenant group already contains supplication, ransom refusal,
+    and mercy/refusal variants.
+  cautions: If the passage emphasizes battlefield honor more than supplication ethics,
+    sacred_combat may be a secondary review relation.
+  suggested_aliases:
+  - supplication_and_ransom_refused
+  - supplicant_ransom_refused_in_war
+  - mercy_refused_to_suppliant_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-warner-opposed-by-unbelieving-elites
+  motif_id: rejected_warner_opposed_by_unbelieving_elites
+  label: Rejected warner opposed by unbelieving elites
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rejected divine warner fits the existing prophet-call and sacred guidance
+    complex under divine intervention.
+  cautions: May also fit prophecy_divination or divine_judgment if the passage emphasizes
+    warning content or punishment after rejection.
+  suggested_aliases:
+  - rejected_prophetic_warner
+  - prophet_opposed_by_elites
+  - warner_rejected_by_unbelievers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-warning-before-disaster
+  motif_id: rejected_warning_before_disaster
+  label: rejected warning before disaster
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring a warning before catastrophe commonly functions as moral reckoning
+    or judgment after refused counsel.
+  cautions: If the warning is an omen or formal prophecy, prophecy_divination may
+    be a better primary group; if only tactical advice, it may be too contextual.
+  suggested_aliases:
+  - ignored_warning_before_disaster
+  - warning_rejected_before_catastrophe
+  - unheeded_counsel_before_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-warning-prophet
+  motif_id: rejected_warning_prophet
+  label: Rejected warning prophet
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label aligns with a prophet or sacred messenger whose guidance is
+    rejected.
+  cautions: Review whether the emphasis is prophetic office, divine warning, elite
+    rejection, or subsequent judgment before final indexing.
+  suggested_aliases:
+  - rejected_prophet
+  - rejected_prophetic_warning
+  - unheeded_warning_prophet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rekindling-dormant-heroic-valor
+  motif_id: rekindling_dormant_heroic_valor
+  label: Rekindling dormant heroic valor
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns restoration of heroic warrior capacity for sacred
+    or epic combat.
+  cautions: If the scene is primarily exhortation, memory, or ethical teaching rather
+    than renewed combat, sacred_knowledge or hero_journey may be better.
+  suggested_aliases:
+  - heroic_valor_reawakened
+  - dormant_warrior_power_restored
+  - renewed_heroic_courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.release-of-a-bound-helper-and-deferred-reward
+  motif_id: release_of_a_bound_helper_and_deferred_reward
+  label: release of a bound helper and deferred reward
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A freed helper later aiding or rewarding the rescuer fits supernatural
+    guidance or intervention through a helper figure.
+  cautions: If the helper is an animal, spirit, or magical being, a more specific
+    helper motif may be warranted if many variants recur.
+  suggested_aliases:
+  - freed_helper_rewards_rescuer
+  - released_bound_helper_returns_aid
+  - deferred_reward_from_released_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - animal_helpers
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.released-magical-helper-rewards-rescuer-with-aid
+  motif_id: released_magical_helper_rewards_rescuer_with_aid
+  label: Released magical helper rewards rescuer with aid
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_intervention group includes animal helpers and supernatural
+    aid; this is a clear helper-aid variant.
+  cautions: May also express sacred_exchange because rescue creates reciprocal obligation;
+    preserve the release-and-reward sequence in notes.
+  suggested_aliases:
+  - freed_magical_helper_rewards_rescuer
+  - released_helper_gives_aid
+  - rescuer_rewarded_by_magical_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-combat-ending-in-a-fatal-enchanted-shot
+  motif_id: reluctant_combat_ending_in_a_fatal_enchanted_shot
+  label: reluctant combat ending in a fatal enchanted shot
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core event is combat with supernatural weaponry, fitting sacred or
+    heroic combat better than general death motifs.
+  cautions: Highly episode-specific; preserve reluctance and enchanted shot as evidence
+    details unless similar variants recur.
+  suggested_aliases:
+  - fatal_enchanted_shot_in_combat
+  - reluctant_fatal_combat
+  - enchanted_projectile_kills_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_treasures
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-greeting-of-a-feared-warrior
+  motif_id: reluctant_greeting_of_a_feared_warrior
+  label: reluctant greeting of a feared warrior
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a scene-level social reaction to a warrior rather than
+    a durable mythic motif.
+  cautions: If the greeting marks a formal challenge, recognition, taboo, or threshold
+    encounter, review under sacred_combat or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - fearful_greeting_of_warrior
+  - reluctant_salutation_to_feared_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and conflict-adjacent; preserve
+  episode details but avoid promoting them to canonical motifs without recurrence.
+- 'Rejected-warning labels should be distinguished by function: prophetic office,
+  ignored counsel, and divine judgment are related but not identical.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should confirm whether conflict
+    labels are sacred/ritual motifs or narrative details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1137
+  input_sha256: fdf0145b1d184e869cb150ad4cdae65e6e7149fb3bf4b59106aa94bc6927bfb7
+

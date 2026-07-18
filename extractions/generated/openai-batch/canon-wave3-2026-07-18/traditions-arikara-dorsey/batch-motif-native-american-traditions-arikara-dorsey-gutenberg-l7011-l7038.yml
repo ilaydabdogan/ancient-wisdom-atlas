@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l7011-l7038
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 7011-7038'
+  start: '7011'
+  end: '7038'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man who has gained chief status from deeds actually done with the help
+    of the Scalped-Man fears exposure. He gathers men at night and plans to capture
+    the Scalped-Man, though they think this is wrong. The Scalped-Man, who has been
+    watching for betrayal, overhears the plan, returns to his cave, takes his things,
+    moves away, and is never seen again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Scalped-Man had not really been scalped; he had been slightly wounded
+    on the top of his head and had stayed away from the people, becoming accustomed
+    to being alone.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The friend feared that people would learn the Scalped-Man had done the killing
+    and pony-capturing for which the friend had become chief, and that the friend
+    would then be viewed as a coward.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At night, the friend invited men and announced that he intended to capture
+    the Scalped-Man, who dwelt in the Bad Lands and had assisted him in obtaining
+    ponies and killing people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The men in the village thought the capture plan was wrong and did not want
+    to do it, but the friend remained determined.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The next morning, people surrounded the bank where the Scalped-Man lived,
+    and the man went into the cave, but the Scalped-Man was gone.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Scalped-Man had come to the man's lodge during the night council to listen,
+    because he watched around the lodge each night to see whether the man would betray
+    him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After hearing the plan, the Scalped-Man returned to his cave, picked up his
+    things, moved away from that country, and was never seen again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Scalped-Man
+  description: A man slightly wounded on the top of his head, living apart in the
+    Bad Lands by a cave, who had assisted the friend with killing and capturing ponies
+    and who later departed after overhearing the plan to capture him.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Friend of the Scalped-Man / the man
+  description: A man who had become a chief because of great acts attributed to him,
+    feared exposure, summoned men at night, and planned to capture the Scalped-Man.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Men in the village / people
+  description: Men invited to the night meeting who thought the plan was wrong, and
+    people who went out the next morning to surround the Scalped-Man's dwelling place.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Hidden helper
+  assigned_to:
+  - fig:1
+  basis: The passage says the Scalped-Man assisted the friend in obtaining ponies
+    and killing people, and that the friend feared discovery of this help.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Beneficiary of unearned credit
+  assigned_to:
+  - fig:2
+  basis: The friend had become chief for acts that the passage attributes to the Scalped-Man.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Planner of betrayal or capture
+  assigned_to:
+  - fig:2
+  basis: The friend summoned men and stated his intention to capture the Scalped-Man
+    despite knowing the Scalped-Man had assisted him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Target who escapes after overhearing
+  assigned_to:
+  - fig:1
+  basis: The Scalped-Man listened to the capture plans and moved away before the people
+    came for him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Reluctant participants
+  assigned_to:
+  - fig:3
+  basis: The men thought the plan was wrong and did not want to do it, but the next
+    morning the people went out and surrounded the dwelling place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Cave dwelling
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Bad Lands dwelling place
+  literal_form: Bad Lands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Night council
+  literal_form: night meeting at the man's lodge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fear of exposure and night plan
+  summary: The friend fears that people will learn the Scalped-Man was responsible
+    for the deeds that made him chief, so he gathers men at night and announces a
+    plan to capture the Scalped-Man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Attempted capture at the cave
+  summary: The next morning people surround the bank where the Scalped-Man lived,
+    and the man enters the cave, but the Scalped-Man is already gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Overheard betrayal and disappearance
+  summary: The Scalped-Man, already watching for betrayal, overhears the council plans,
+    returns to his cave, gathers his things, moves away, and is never seen again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Betrayed hidden helper
+  taxonomy_refs: []
+  basis: A helper whose deeds made another man a chief becomes the target of that
+    man's plan to capture him after the man fears exposure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives no explicit moral or ritual interpretation; the motif
+    label summarizes the narrated relationship only.
+- id: motif:2
+  label: False credit for heroic deeds
+  taxonomy_refs: []
+  basis: The friend has become chief for great acts, while the passage states that
+    the Scalped-Man did the killing and pony-capturing connected with those acts.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not state how the public originally attributed the deeds
+    to the friend.
+- id: motif:3
+  label: Overheard plot enables escape
+  taxonomy_refs: []
+  basis: The Scalped-Man listens to the night council, learns of the plan to catch
+    him, removes his belongings, and is gone before the captors arrive.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe pursuit after the failed capture.
+- id: motif:4
+  label: Departure after betrayal
+  taxonomy_refs:
+  - departure
+  basis: After hearing the plan to capture him, the Scalped-Man moves away from the
+    country and is never seen again.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy family is broad; the passage presents a practical
+    withdrawal rather than an explicitly sacred or cosmological departure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7011-7019
+  quote_or_summary: The friend fears exposure because the Scalped-Man was only slightly
+    wounded, had lived apart, and had done the killing and pony-capturing for which
+    the friend had become chief.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 7020-7025
+  quote_or_summary: The friend summons men at night, says he intends to capture the
+    Scalped-Man dwelling in the Bad Lands, and says the Scalped-Man had assisted him;
+    the village men think the plan wrong, but the friend is determined.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 7027-7030
+  quote_or_summary: The next morning people surround the bank where the Scalped-Man
+    lived, and the man goes into the cave, but the Scalped-Man is gone.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 7030-7034
+  quote_or_summary: During the night meeting, the Scalped-Man had gone to the man's
+    lodge to listen; he regularly watched the lodge to see whether the man would betray
+    him, and he heard the capture plans.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 7035-7038
+  quote_or_summary: The Scalped-Man returned to his cave, gathered his things, moved
+    away from that country, and was never seen again.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the provided passage. Motif labels are cautious
+    and mostly not tied to the supplied taxonomy except for the broad departure family.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Comparisons to other traditions or motif indexes were not added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l7011-l7038
+  passage_sha256=1edaafc10e61c8dc2d96a5872093622154d0b2a12dd4e844da80c950d11f0682
+

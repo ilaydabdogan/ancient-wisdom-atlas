@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0516
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.miraculous-heavenly-provision
+  motif_id: miraculous_heavenly_provision
+  label: miraculous heavenly provision
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_intervention group already includes miraculous_provision
+    and inexhaustible_provision aliases; heavenly provision is direct sacred aid in
+    human affairs.
+  cautions: If the passage emphasizes sacred food as ritual substance rather than
+    aid, sacred_substance may be a secondary relation.
+  suggested_aliases:
+  - miraculous provision
+  - heavenly provision
+  - miraculous_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-provision-at-childbirth
+  motif_id: miraculous_provision_at_childbirth
+  label: Miraculous provision at childbirth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Provision at childbirth supports an extraordinary birth scene and protected
+    holy child pattern.
+  cautions: Could also belong under divine_intervention if the focus is divine aid
+    to the mother rather than the child's sacred birth; review passage emphasis.
+  suggested_aliases:
+  - miraculous childbirth provision
+  - divine provision at birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-provision-of-descending-food
+  motif_id: miraculous_provision_of_descending_food
+  label: Miraculous provision of descending food
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Food descending from heaven is a clear instance of miraculous provision
+    by sacred powers, already covered by divine_intervention aliases.
+  cautions: If the descending food is treated as a sacred or intoxicating ritual substance,
+    sacred_substance may be relevant as a secondary group.
+  suggested_aliases:
+  - descending heavenly food
+  - miraculous food provision
+  - food from heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-provision-through-sand-flour-and-bread
+  motif_id: miraculous_provision_through_sand_flour_and_bread
+  label: Miraculous provision through sand, flour, and bread
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is miraculous food provision through unlikely material,
+    fitting divine intervention and miraculous provision.
+  cautions: The sand/flour/bread details are granular evidence; if the emphasis is
+    transformation of substance, sacred_substance or sacred_craft may be secondary
+    but not primary from label alone.
+  suggested_aliases:
+  - miraculous bread provision
+  - miraculous food from unlikely material
+  - provision through flour and bread
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-prison-opened-by-a-secret-name
+  motif_id: monstrous_prison_opened_by_a_secret_name
+  label: Monstrous prison opened by a secret name
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Access through a secret name fits sacred or esoteric knowledge, especially
+    words of power required for passage or release.
+  cautions: Could also relate to afterlife_passage if this is a postmortem gate sequence,
+    or threshold_guardian if the prison/monster is the main motif; source context
+    needed.
+  suggested_aliases:
+  - secret name opens prison
+  - name of power opens threshold
+  - opening by secret name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - threshold_guardian
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moralized-demonic-influence-over-speech-and-anger
+  motif_id: moralized_demonic_influence_over_speech_and_anger
+  label: moralized demonic influence over speech and anger
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes demonology, ethical psychology, speech, and anger; the
+    dominant motif cannot be determined from the label alone.
+  cautions: May fit sacred_law, divine_judgment, curse_blessing_speech, or a spirit-affliction
+    pattern depending on whether the passage is moral teaching, possession, or ritual
+    protection.
+  suggested_aliases:
+  - demonic influence over anger
+  - demonic influence over speech
+  - anger as demonic influence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-memory-awakened-by-a-war-object
+  motif_id: mourning_memory_awakened_by_a_war_object
+  label: mourning memory awakened by a war-object
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is grief and memory triggered by an object associated
+    with warfare or loss, fitting lament and mourning.
+  cautions: If the object functions as a relic, identity token, or power object rather
+    than a grief trigger, sacred_treasures or recognition_tokens_hidden_identity may
+    be secondary.
+  suggested_aliases:
+  - war object awakens mourning
+  - object-triggered mourning memory
+  - martial relic evokes grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - recognition_tokens_hidden_identity
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-appellations-for-named-disciples
+  motif_id: multiple_appellations_for_named_disciples
+  label: multiple appellations for named disciples
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This appears to be a naming, identification, or textual-reference detail
+    about disciples rather than a symbolic or narrative motif.
+  cautions: If the appellations perform ritual rank, lineage, or authority in the
+    source, review for sacred_law or royal_legitimacy, but do not index as a motif
+    from the label alone.
+  suggested_aliases:
+  - alternate names for disciples
+  - disciple appellations
+  - multiple names of disciples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-royal-weddings-after-revelation
+  motif_id: multiple_royal_weddings_after_revelation
+  label: multiple royal weddings after revelation
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines revelation, royal marriage, and narrative resolution;
+    the main function is unclear without source evidence.
+  cautions: Could fit sacred_love or sacred_marriage if union establishes order, royal_legitimacy
+    if dynastic authority is central, or storytelling_as_power if it is merely tale
+    closure.
+  suggested_aliases:
+  - royal weddings after revelation
+  - weddings following revelation
+  - revelation followed by royal marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-and-song-that-charm-all-nature
+  motif_id: music_and_song_that_charm_all_nature
+  label: music and song that charm all nature
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: alias
+  confidence: high
+  rationale: The group already contains music_that_charms_nature and related aliases
+    for supernatural music affecting nature.
+  cautions: If the song is primarily sacred teaching or narrative performance, storytelling_as_power
+    or sacred_knowledge may be secondary, but the charm function is clear.
+  suggested_aliases:
+  - music that charms nature
+  - song that charms nature
+  - enchanting music charms all nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Miraculous provision labels should generally consolidate under divine_intervention
+  unless the passage foregrounds birth destiny, sacred substance, or ritual food.
+- Several single-occurrence composite labels need source review before promotion;
+  preserve granular wording as evidence notes rather than new taxonomy families.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous composite
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0516
+  input_sha256: f9e79c20fa21a005f1292b30150a9c87a00258c414451a4e3fe1dc05164a493a
+

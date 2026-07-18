@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1007
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.absent-heroic-ally-delayed-by-innumerable-enemies
+  motif_id: absent_heroic_ally_delayed_by_innumerable_enemies
+  label: Absent heroic ally delayed by innumerable enemies
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a battle-support complication within heroic conflict
+    rather than a distinct sacred motif.
+  cautions: Single occurrence and plot-specific; preserve as episode evidence unless
+    recurring as a delayed-ally combat pattern.
+  suggested_aliases:
+  - delayed heroic ally
+  - absent ally delayed by enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-heroic-hunt
+  motif_id: abundant_heroic_hunt
+  label: abundant heroic hunt
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A heroic hunt may be combat, provisioning, status display, or otherworld
+    encounter depending on passage context.
+  cautions: No existing hunting group is present; do not map to sacred_combat unless
+    the hunt functions as ordeal or ritualized heroic contest.
+  suggested_aliases:
+  - heroic hunt
+  - abundant hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accusation-after-unauthorized-battle
+  motif_id: accusation_after_unauthorized_battle
+  label: Accusation after unauthorized battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on violation of authorized martial order and subsequent
+    social or legal accusation.
+  cautions: If the passage emphasizes heroic combat consequences rather than law/order,
+    sacred_combat may be a secondary mapping.
+  suggested_aliases:
+  - unauthorized battle accusation
+  - accusation following illicit combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-hero-reduced-from-martial-life-to-menial-labor
+  motif_id: aged_hero_reduced_from_martial_life_to_menial_labor
+  label: Aged hero reduced from martial life to menial labor
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a heroic decline or social reversal theme not cleanly covered
+    by current groups.
+  cautions: May fit lament, pride/downfall, royal legitimacy, or a future aging-hero
+    group depending on whether the passage stresses humiliation, social order, or
+    tragic memory.
+  suggested_aliases:
+  - aged hero reduced to labor
+  - heroic decline into menial labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-hero-remembers-former-prowess-and-yields-to-younger-competitors
+  motif_id: aged_hero_remembers_former_prowess_and_yields_to_younger_competitors
+  label: Aged hero remembers former prowess and yields to younger competitors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes reflective recognition of lost heroic capacity more
+    than combat itself.
+  cautions: If the scene functions mainly as succession or contest protocol, royal_legitimacy
+    or sacred_combat may be better secondary mappings.
+  suggested_aliases:
+  - aged hero recalls former prowess
+  - old hero yields to younger rivals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-hero-s-solitary-final-combat
+  motif_id: aged_hero_s_solitary_final_combat
+  label: aged hero's solitary final combat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero's final combat aligns with warrior death and sacred/heroic combat
+    patterns already grouped under divine_warrior.
+  cautions: If the emphasis is fatal destiny rather than warrior role, death_by_fate
+    may be relevant; if purely secular battle, sacred_combat may be safer.
+  suggested_aliases:
+  - solitary final combat
+  - old hero's last fight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-hero-s-solitary-final-monster-combat-preparation
+  motif_id: aged_hero_s_solitary_final_monster_combat_preparation
+  label: aged hero's solitary final monster-combat preparation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Preparation for a final monster fight is a granular variant of heroic
+    sacred combat against chaos or monstrous threat.
+  cautions: Highly episode-specific; preserve monster-combat preparation as evidence
+    detail rather than a separate canonical motif.
+  suggested_aliases:
+  - final monster-combat preparation
+  - aged hero prepares for last monster fight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-survivor-laments-a-vanished-heroic-age
+  motif_id: aged_survivor_laments_a_vanished_heroic_age
+  label: aged survivor laments a vanished heroic age
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The label clearly centers on lament and tragic memory of a lost heroic
+    world.
+  cautions: Could also relate to world_ages_cosmic_decline if the passage frames the
+    heroic age as cosmic degeneration rather than personal memory.
+  suggested_aliases:
+  - lament for vanished heroic age
+  - aged survivor's heroic-age lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-survivor-s-lament-for-lost-heroic-time
+  motif_id: aged_survivor_s_lament_for_lost_heroic_time
+  label: aged survivor’s lament for lost heroic time
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: alias
+  confidence: high
+  rationale: This is essentially an alias of aged survivor lamenting a vanished heroic
+    age and belongs with lament and tragic recognition.
+  cautions: Consider consolidating with the near-duplicate vanished-heroic-age label
+    during review.
+  suggested_aliases:
+  - aged survivor laments a vanished heroic age
+  - lament for lost heroic time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-warrior-knowingly-accepts-fatal-combat
+  motif_id: aged_warrior_knowingly_accepts_fatal_combat
+  label: aged warrior knowingly accepts fatal combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Knowing acceptance of fatal combat points to foreknown or accepted warrior
+    death under destiny.
+  cautions: If the passage emphasizes martial honor more than fate, divine_warrior
+    or sacred_combat may be better primary placement.
+  suggested_aliases:
+  - warrior accepts fatal combat
+  - foreknown fatal combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic-age or aged-warrior details;
+  preserve as evidence notes unless more cross-source recurrence appears.
+- A future review may consider whether 'aged hero / heroic decline' deserves a group,
+  but current evidence here is too sparse and context-dependent.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission or common-origin claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1007
+  input_sha256: 3447c3988dab281a35dda5c69cc43b0458a71cf09e393e7901e8c3b02ba9693a
+

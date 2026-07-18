@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1622
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.triad-of-sorrow-joy-and-sleep
+  motif_id: triad_of_sorrow_joy_and_sleep
+  label: triad of sorrow, joy, and sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a Celtic triadic classification, an emotional
+    pattern, or music/sleep enchantment, but function is unclear without passage context.
+  cautions: Single occurrence and possibly a formal/literary triad rather than a motif;
+    compare with triadic_music_of_sorrow_joy_and_sleep before mapping.
+  suggested_aliases:
+  - three modes of sorrow joy and sleep
+  - triad of emotional and sleep effects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - lament_and_mourning
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-constitution-of-manifest-and-latent-reality
+  motif_id: triadic_constitution_of_manifest_and_latent_reality
+  label: Triadic constitution of manifest and latent reality
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a metaphysical doctrine about reality's structure rather
+    than a clear narrative motif; it may belong near sacred knowledge or cosmic origin
+    depending on source evidence.
+  cautions: Doctrinal abstraction may be too philosophical or passage-specific for
+    motif queries; avoid flattening Hindu categories into generic duality or creation
+    without evidence.
+  suggested_aliases:
+  - threefold manifest and latent reality
+  - triadic structure of reality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - cosmic_origin
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-music-of-sorrow-joy-and-sleep
+  motif_id: triadic_music_of_sorrow_joy_and_sleep
+  label: triadic music of sorrow, joy, and sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music producing sorrow, joy, and sleep fits sound as supernatural or
+    affective power, especially the sleep-inducing component.
+  cautions: If the triad is only a formal catalog of musical modes, preserve as evidence
+    detail rather than a broad magical-music motif.
+  suggested_aliases:
+  - threefold music of sorrow joy and sleep
+  - music causing sorrow joy and sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-repetition
+  motif_id: triadic_repetition
+  label: Triadic repetition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label names a narrative or rhetorical structure rather than a symbolic
+    motif with a specific function.
+  cautions: If the repeated threefold action itself has ritual or narrative consequences,
+    remap the concrete action rather than the formal repetition.
+  suggested_aliases:
+  - threefold repetition
+  - triadic narrative repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-repetition-of-helpers-visits-and-measures
+  motif_id: triadic_repetition_of_helpers_visits_and_measures
+  label: triadic repetition of helpers, visits, and measures
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines helper visits, repeated measures, and a threefold
+    structure; the useful motif depends on what the helpers do narratively.
+  cautions: May be an over-specific plot summary or formal folktale pattern; could
+    relate to divine_intervention, hero_journey, or storytelling_as_power depending
+    on source context.
+  suggested_aliases:
+  - three helper visits
+  - threefold helper sequence
+  - triadic helper repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hero_journey
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribal-tutelary-celestial-patrons
+  motif_id: tribal_tutelary_celestial_patrons
+  label: Tribal tutelary celestial patrons
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Tutelary patrons of a tribe fit the guardian or protective sacred-agent
+    role already folded under divine_intervention.
+  cautions: Celestial patronage may also involve astral cult, genealogy, or communal
+    identity; review source context and culturally sensitive wording.
+  suggested_aliases:
+  - tribal tutelary patrons
+  - celestial patron spirits
+  - communal celestial guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-obligation-and-adjustment
+  motif_id: tribute_obligation_and_adjustment
+  label: Tribute obligation and adjustment
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Tribute obligations could express sacred law, political order, covenantal
+    reciprocity, or a historical administrative detail.
+  cautions: Likely contextual and possibly socio-historical rather than mythic; source
+    evidence is needed before mapping to sacred_law, covenant, or royal_legitimacy.
+  suggested_aliases:
+  - tribute obligation
+  - adjusted tribute duty
+  - tribute assessment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - royal_legitimacy
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triple-mourning-cry
+  motif_id: triple_mourning_cry
+  label: triple mourning cry
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: A mourning cry is a direct expression of grief or lament; the triple
+    form can be preserved as local detail.
+  cautions: Do not promote the number three alone as a motif unless repeated across
+    sources with clear ritual significance.
+  suggested_aliases:
+  - threefold mourning cry
+  - triple lament cry
+  - three cries of mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triple-wilderness-cry-leading-to-adventure
+  motif_id: triple_wilderness_cry_leading_to_adventure
+  label: Triple wilderness cry leading to adventure
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cry from the wilderness that initiates an adventure functions as a
+    call to departure or quest.
+  cautions: If the cry is a supernatural summons, prophecy, or threshold test, secondary
+    mapping to divine_intervention or threshold_guardian may be appropriate.
+  suggested_aliases:
+  - wilderness cry as call to adventure
+  - threefold cry initiating quest
+  - triple summons from the wilderness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - threshold_guardian
+    - divine_call
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trophies-linked-to-restoration-of-the-people
+  motif_id: trophies_linked_to_restoration_of_the_people
+  label: Trophies linked to restoration of the people
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Trophies may be sacred power objects, combat proofs, or ritual items
+    enabling communal restoration; the label lacks enough functional detail.
+  cautions: Culturally sensitive Navajo context requires source review; avoid reducing
+    ceremonial restoration to generic trophies or war spoils.
+  suggested_aliases:
+  - restorative trophies
+  - trophy objects restoring the people
+  - victory trophies and communal renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_combat
+    - death_and_transformation
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch use triadic/triple wording. Treat the number-three structure
+  as evidence detail unless the passage shows a recurring ritual or narrative function.
+- Items marked needs_human_review are mostly single-occurrence abstractions or culturally
+  contextual labels where source evidence is required before a durable mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1622
+  input_sha256: e1c6d02d20cae65d154f8e801651bf631f3e09a2af63bf01db239ee37ae6f24c
+

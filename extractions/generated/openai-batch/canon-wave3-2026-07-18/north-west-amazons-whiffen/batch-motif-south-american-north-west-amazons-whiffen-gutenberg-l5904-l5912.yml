@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l5904-l5912
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER X / CHAPTER XI / CHAPTER XII / CHAPTER XIII; lines 5904-5912
+  start: '5904'
+  end: '5912'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“Ceremonial bathing always takes place after a funeral”"
+  summary: The passage suggests that concerns about cannibal customs as insults to
+    the dead may affect burial practices, including lack of grave signs and burial
+    inside the house as protection, despite belief in danger from a returning spirit.
+    It adds that everyone bathes ceremonially after a funeral for purification.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author suggests that cannibal customs as insults to the dead may influence
+    burial practices and the absence of signs on graves.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Burial in the house is described as possibly serving as a protective measure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the people recognize danger in the spirit’s return.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The author notes that belief in danger from the returning spirit would more
+    naturally favor burial outside the house.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Ceremonial bathing occurs after a funeral, and everyone participates for purification.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: the Indians
+  description: The people whose burial customs and funeral bathing are being described
+    by the author.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the dead
+  description: The deceased persons whose graves and possible insults to them are
+    discussed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: returning spirit
+  description: A spirit whose return is regarded as dangerous.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: burial practitioners
+  assigned_to:
+  - fig:1
+  basis: The passage discusses the people’s burial practices, including house burial
+    and grave marking.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased subject of burial and possible insult
+  assigned_to:
+  - fig:2
+  basis: The passage refers to insults to the dead and signs upon graves.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dangerous returning spirit
+  assigned_to:
+  - fig:3
+  basis: The passage states that the spirit’s return is recognized as dangerous.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: funeral purification participants
+  assigned_to:
+  - fig:1
+  basis: The passage states that everyone takes part in ceremonial bathing after a
+    funeral for purification.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: house burial
+  literal_form: burial in the house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unmarked grave
+  literal_form: absence of sign upon a grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ceremonial bathing for purification
+  literal_form: bathing after a funeral
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Protective house burial and unmarked grave
+  summary: The passage presents house burial and lack of grave signs as possibly related
+    to protection from insult to the dead, even though fear of a returning spirit
+    would seem to encourage burial outside the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Post-funeral ceremonial bathing
+  summary: After a funeral, all participants bathe ceremonially for purification.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: protective burial in the house
+  taxonomy_refs: []
+  basis: The passage explicitly describes burial in the house as possibly serving
+    as a protective measure.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The author frames the explanation as possible rather than certain.
+- id: motif:2
+  label: fear of the returning spirit
+  taxonomy_refs: []
+  basis: The passage states that the people recognize danger in the spirit’s return.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not narrate an actual return, only a belief about danger.
+- id: motif:3
+  label: post-funeral purification bathing
+  taxonomy_refs: []
+  basis: The passage states that ceremonial bathing always follows a funeral and is
+    done for purification.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a ritual pattern in an ethnographic description, not a mythic
+    narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5904-5909
+  quote_or_summary: The author suggests that concern over cannibal customs as insults
+    to the dead may explain absence of grave signs and house burial as protection,
+    even though belief in a dangerous returning spirit would seem to support extramural
+    burial.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: 5911-5912
+  quote_or_summary: "“Ceremonial bathing always takes place after a funeral, in which
+    every one takes part for the purpose of purification.”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and primarily ethnographic. Ritual patterns are explicit,
+    but broader motif classification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-tradition comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l5904-l5912
+  passage_sha256=637aee77db9df176944110115015f13bba3de1c577d19d1c8abee821c85d8b5b
+

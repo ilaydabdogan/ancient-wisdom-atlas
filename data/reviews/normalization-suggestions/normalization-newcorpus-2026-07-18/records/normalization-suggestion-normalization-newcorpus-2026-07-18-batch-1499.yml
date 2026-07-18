@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1499
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.neglected-time-limit-through-pleasure
+  motif_id: neglected_time_limit_through_pleasure
+  label: neglected time limit through pleasure
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an enchanted sojourn where pleasure causes loss
+    of ordinary time or failure to return on schedule.
+  cautions: Could also be a moral warning, taboo violation, or passage-specific plot
+    detail; source context is needed before mapping.
+  suggested_aliases:
+  - time_limit_forgotten_in_enchanted_pleasure
+  - pleasure_causes_failure_to_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nested-containment-of-the-life-object
+  motif_id: nested_containment_of_the_life_object
+  label: nested containment of the life-object
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A life-object hidden inside nested containers is a classic external-soul
+    or separable-life pattern.
+  cautions: Preserve nesting details as evidence; do not treat the containers as sacred
+    vessels unless their container function is central beyond hiding the life-token.
+  suggested_aliases:
+  - life_object_hidden_in_nested_containers
+  - nested_external_soul_container
+  - external_life_token_in_nested_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-disappears-while-watchers-sleep
+  motif_id: newborn_disappears_while_watchers_sleep
+  label: Newborn disappears while watchers sleep
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: The disappearing newborn may be an extraordinary infancy or threatened/hidden
+    child motif.
+  cautions: Could instead be fairy abduction, changeling lore, divine intervention,
+    or an over-specific episode detail; source evidence is needed.
+  suggested_aliases:
+  - newborn_vanishes_during_sleeping_watch
+  - infant_disappears_while_guardians_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-assassination-of-a-rebel-prophetic-claimant
+  motif_id: night_assassination_of_a_rebel_prophetic_claimant
+  label: night assassination of a rebel prophetic claimant
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific political-historical episode rather than
+    a reusable symbolic motif.
+  cautions: If the passage emphasizes prophecy, martyrdom, or divine judgment, review
+    separately; avoid flattening named or sectarian historical material into a generic
+    motif.
+  suggested_aliases:
+  - assassination_of_prophetic_claimant
+  - night_killing_of_rebel_claimant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-attack-against-an-unguarded-camp
+  motif_id: night_attack_against_an_unguarded_camp
+  label: night attack against an unguarded camp
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A night attack on a camp is a warfare/raid scenario that fits the broad
+    sacred_combat grouping when mythically significant.
+  cautions: May be ordinary battle detail if no sacred, heroic, fated, or ritual function
+    is present; preserve as granular evidence rather than promoting.
+  suggested_aliases:
+  - night_attack_on_camp
+  - unguarded_camp_attacked_at_night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-concealment-before-public-exposure
+  motif_id: night_concealment_before_public_exposure
+  label: night concealment before public exposure
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to identify whether concealment is disguise,
+    shame, punishment, trickery, or recognition setup.
+  cautions: Could fit trickster, hidden identity, divine judgment, or be an episode
+    artifact; review passage function before mapping.
+  suggested_aliases:
+  - concealment_until_public_revelation
+  - hidden_at_night_before_exposure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-devotion-and-hoped-for-exalted-station
+  motif_id: night_devotion_and_hoped_for_exalted_station
+  label: Night devotion and hoped-for exalted station
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Night devotion aimed at exalted spiritual standing fits disciplined contemplative
+    practice within the mystical quest complex.
+  cautions: If the passage is legal instruction or a specific liturgical command rather
+    than quest symbolism, sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - night_vigil_for_spiritual_exaltation
+  - devotional_night_prayer_for_exalted_station
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-massacre-of-sleeping-camp
+  motif_id: night_massacre_of_sleeping_camp
+  label: night massacre of sleeping camp
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A massacre of a sleeping camp is a violent raid or warfare episode fitting
+    the broad combat group when narratively significant.
+  cautions: Could be a historical or etiological incident rather than a motif; culturally
+    sensitive source review is needed before broad comparison.
+  suggested_aliases:
+  - sleeping_camp_massacred_at_night
+  - night_massacre_of_camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-raid-by-hostile-outsiders
+  motif_id: night_raid_by_hostile_outsiders
+  label: Night raid by hostile outsiders
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hostile night raid is a raid/warfare pattern that can sit under sacred_combat
+    for broad querying.
+  cautions: The outsider framing may be culturally or contextually loaded; verify
+    whether it is mythic structure, social memory, or episode detail.
+  suggested_aliases:
+  - hostile_outsider_night_raid
+  - night_raid_by_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-raid-on-sleeping-enemies
+  motif_id: night_raid_on_sleeping_enemies
+  label: night raid on sleeping enemies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A raid on sleeping enemies is a warfare tactic and heroic-combat episode
+    fitting the existing sacred_combat group.
+  cautions: If the narrative focus is dishonor, vengeance, or divine punishment, add
+    secondary review for divine_warrior or divine_judgment; do not promote as a standalone
+    motif from one occurrence.
+  suggested_aliases:
+  - sleeping_enemies_attacked_at_night
+  - night_attack_on_sleeping_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several night-attack labels appear to be granular variants of raid or massacre scenes;
+  consider consolidating under sacred_combat unless passage evidence makes them historical
+  artifacts or moral judgment episodes.
+- Single-occurrence, culturally specific violence labels should remain provisional
+  and reviewed for source context before broad comparative use.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1499
+  input_sha256: 1f9d428ec667b163f3a63d16e083f373d29289e75e5ccf3809f30df12adb2454
+

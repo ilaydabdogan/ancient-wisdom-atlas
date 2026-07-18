@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1070
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-defeats-monster-threatening-the-hall-community
+  motif_id: hero_defeats_monster_threatening_the_hall_community
+  label: hero defeats monster threatening the hall-community
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero defeating a monster that threatens a community fits sacred combat
+    against disorder or monstrous threat.
+  cautions: The hall-community detail may be episode-specific; if the focus is ordinary
+    heroic combat rather than cosmic or sacred order, sacred_combat may be the better
+    parent.
+  suggested_aliases:
+  - monster threatening community defeated by hero
+  - heroic monster-slaying protecting hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-defeats-multiple-challengers-without-weapons
+  motif_id: hero_defeats_multiple_challengers_without_weapons
+  label: hero defeats multiple challengers without weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a heroic combat feat within a challenge or ordeal
+    setting.
+  cautions: Weaponless victory may be a local proof of strength rather than a durable
+    motif; preserve as evidence detail unless it recurs.
+  suggested_aliases:
+  - weaponless defeat of challengers
+  - heroic unarmed victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-defeats-royal-champion-by-bodily-force
+  motif_id: hero_defeats_royal_champion_by_bodily_force
+  label: hero defeats royal champion by bodily force
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Defeating a royal champion by physical force is a combat ordeal tied
+    to heroic status and possibly kingship.
+  cautions: Could also relate to royal_legitimacy if the victory determines succession
+    or authority; label alone emphasizes combat method.
+  suggested_aliases:
+  - hero defeats royal champion
+  - bodily-force victory over champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-delays-action-to-protect-martial-reputation
+  motif_id: hero_delays_action_to_protect_martial_reputation
+  label: hero delays action to protect martial reputation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns heroic honor strategy rather than a clear existing
+    sacred-combat structure.
+  cautions: May be an episode-specific characterization or social-code detail; could
+    fit sacred_combat, divine_warrior, or sacred_law depending on passage evidence.
+  suggested_aliases:
+  - delay to protect warrior reputation
+  - martial honor delays action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-delays-response-through-feasting
+  motif_id: hero_delays_response_through_feasting
+  label: hero delays response through feasting
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a scene-level plot delay involving feasting rather than
+    a reusable mythic motif.
+  cautions: If feasting is a ritual obligation, hospitality test, or betrayal setting,
+    remap with source evidence; do not index from the delay alone.
+  suggested_aliases:
+  - delayed response by feasting
+  - feasting before action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-dies-at-the-hands-of-kinsmen
+  motif_id: hero_dies_at_the_hands_of_kinsmen
+  label: hero dies at the hands of kinsmen
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: low
+  rationale: Norse heroic death by kin may participate in fated heroic doom, already
+    covered by death_by_fate.
+  cautions: Label does not state fate; if the focus is kin-slaying, feud, betrayal,
+    or heroic funeral, human review may prefer betrayal_violated_trust, sacred_combat,
+    or lament_and_mourning.
+  suggested_aliases:
+  - hero slain by kinsmen
+  - kin-caused heroic death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-disables-magician-and-the-enchantment-ends
+  motif_id: hero_disables_magician_and_the_enchantment_ends
+  label: Hero disables magician and the enchantment ends
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The hero overcomes a magical antagonist, ending harmful supernatural
+    obstruction through combat action.
+  cautions: Could belong to a future enchantment-breaking group if many similar labels
+    recur; avoid mapping to sacred_knowledge unless the method is knowledge-based.
+  suggested_aliases:
+  - enchantment broken by defeating magician
+  - magician disabled and spell ends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-disables-supernatural-attacker-with-special-cast
+  motif_id: hero_disables_supernatural_attacker_with_special_cast
+  label: Hero disables supernatural attacker with special cast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A special martial technique used against a supernatural attacker fits
+    heroic sacred combat.
+  cautions: The special cast may be a culturally specific weapon technique; preserve
+    granular wording and review before making it canonical.
+  suggested_aliases:
+  - special cast disables supernatural attacker
+  - heroic special throw against supernatural foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-dispels-an-obstructing-fog-with-a-magic-weapon
+  motif_id: hero_dispels_an_obstructing_fog_with_a_magic_weapon
+  label: Hero dispels an obstructing fog with a magic weapon
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a magic weapon as a power object that removes supernatural
+    obstruction.
+  cautions: If the passage emphasizes journey obstruction or ordeal rather than the
+    weapon, hero_journey or initiation may be relevant secondary mappings.
+  suggested_aliases:
+  - magic weapon dispels fog
+  - power object clears supernatural obstruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-encircled-by-many-enemies-and-rescued-by-comrades
+  motif_id: hero_encircled_by_many_enemies_and_rescued_by_comrades
+  label: hero encircled by many enemies and rescued by comrades
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The scene is a battlefield peril and rescue, broadly within heroic combat.
+  cautions: Likely an episode-specific battle detail unless the rescue structure recurs;
+    do not infer sacred meaning without context.
+  suggested_aliases:
+  - hero surrounded and rescued
+  - comrades rescue encircled hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence heroic combat details; suggested
+  placements favor broad sacred_combat/divine_warrior indexing while preserving over-specific
+  wording for review.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; several combat-scene labels may need exclusion
+    if source evidence shows they are plot details rather than recurring motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1070
+  input_sha256: 373f291af1c5b4412452e1dc967c22d7315447319caff216a17a90e299efa29f
+

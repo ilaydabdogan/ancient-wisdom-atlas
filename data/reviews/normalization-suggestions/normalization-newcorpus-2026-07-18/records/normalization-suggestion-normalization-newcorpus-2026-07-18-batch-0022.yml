@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0022
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.common-ancestral-origin-of-clans
+  motif_id: common_ancestral_origin_of_clans
+  label: common ancestral origin of clans
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label matches existing origin-of-peoples and eponymous-ancestor children
+    already grouped under cosmic_origin.
+  cautions: If the passage centers on ancestor rites or clan identity rather than
+    etiological origins, human review may choose another placement.
+  suggested_aliases:
+  - ancestral_origins
+  - genealogical_origin_of_clans
+  - eponymous_clan_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-burial-and-mingled-ashes-of-bonded-companions
+  motif_id: common_burial_and_mingled_ashes_of_bonded_companions
+  label: Common burial and mingled ashes of bonded companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Joint burial and mingled ashes are mortuary memorial acts for bonded
+    companions, fitting heroic funeral rites.
+  cautions: May also express sacred love or companion loyalty if the passage emphasizes
+    the bond more than funerary practice.
+  suggested_aliases:
+  - joint_burial_of_companions
+  - mingled_ashes_of_companions
+  - common_burial_of_bonded_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-lament-after-warrior-deaths
+  motif_id: communal_lament_after_warrior_deaths
+  label: Communal lament after warrior deaths
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label is a clear communal mourning response to fallen warriors, matching
+    existing lament variants.
+  cautions: If the passage emphasizes burial honors or funeral sequence, heroic_funeral_rites
+    may be a secondary placement.
+  suggested_aliases:
+  - collective_lament_for_fallen_warriors
+  - communal_lament_for_warrior_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-lament-and-elite-burial-preparation
+  motif_id: communal_lament_and_elite_burial_preparation
+  label: communal lament and elite burial preparation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label combines public lament with preparation of an elite burial,
+    fitting funerary rites and memorialization.
+  cautions: Composite label; lament_and_mourning may be equally relevant if grief
+    expression is the main evidence.
+  suggested_aliases:
+  - elite_burial_preparation_with_communal_lament
+  - communal_mourning_and_burial_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-mourning-for-a-dead-leader
+  motif_id: communal_mourning_for_a_dead_leader
+  label: communal mourning for a dead leader
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Public grief for a dead leader is a direct instance of communal lament
+    and mourning.
+  cautions: If the death also legitimizes succession or political order, royal_legitimacy
+    may be a secondary facet.
+  suggested_aliases:
+  - public_mourning_for_dead_leader
+  - communal_lament_for_dead_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-tomb-raised-over-funeral-pyres
+  motif_id: communal_tomb_raised_over_funeral_pyres
+  label: communal tomb raised over funeral pyres
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Raising a tomb over pyres is a mortuary memorial act within the funeral-rites
+    complex.
+  cautions: The communal tomb detail may be too specific for canonical promotion;
+    preserve as evidence detail.
+  suggested_aliases:
+  - tomb_raised_over_funeral_pyres
+  - communal_funerary_mound
+  - memorial_tomb_over_pyres
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compassionate-tree-associated-nature-spirit-promises-luck
+  motif_id: compassionate_tree_associated_nature_spirit_promises_luck
+  label: compassionate tree-associated nature spirit promises luck
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes tree spirit, nature-spirit agency, compassion, and fortune-bestowal
+    without a clear existing narrative function.
+  cautions: Could fit divine_intervention, axis_mundi, otherworld, sacred_tree_axis,
+    or a local nature-spirit motif; review source evidence and cultural specificity.
+  suggested_aliases:
+  - tree_spirit_promises_luck
+  - benevolent_nature_spirit_bestows_luck
+  - compassionate_tree_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.complete-survival-of-the-returning-war-band
+  motif_id: complete_survival_of_the_returning_war_band
+  label: Complete survival of the returning war band
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A war band's total survival may imply protective divine action or miraculous
+    preservation if framed as such.
+  cautions: May be a passage-specific battle outcome rather than a motif; if no sacred
+    agency or ordeal-return function is present, exclude from pattern queries.
+  suggested_aliases:
+  - miraculous_survival_of_war_band
+  - returning_war_band_survives_intact
+  - complete_survival_after_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-death-of-a-ruler-by-displayed-helmet
+  motif_id: concealed_death_of_a_ruler_by_displayed_helmet
+  label: Concealed death of a ruler by displayed helmet
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: narrower_than
+  confidence: medium
+  rationale: Concealing a ruler's death by displaying regalia concerns continuity
+    of rule and royal authority after death.
+  cautions: The helmet detail is highly specific; if the focus is heroic death in
+    battle, divine_warrior or heroic_funeral_rites may be better secondary mappings.
+  suggested_aliases:
+  - concealed_ruler_death_by_regalia
+  - displayed_helmet_conceals_king_death
+  - postmortem_display_of_royal_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-in-the-grave-until-divine-wrath-passes
+  motif_id: concealment_in_the_grave_until_divine_wrath_passes
+  label: Concealment in the grave until divine wrath passes
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sheltering in death or grave-space from divine wrath,
+    linking mortality with sacred judgment.
+  cautions: Could also relate to death_and_transformation or resurrection if the passage
+    includes later restoration; do not treat grave concealment alone as descent-return.
+  suggested_aliases:
+  - grave_concealment_from_divine_wrath
+  - hidden_in_grave_until_wrath_passes
+  - death_as_refuge_from_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, highly contextual death/funeral
+  labels; preserve granular wording as evidence notes rather than promoting new canonical
+  motifs.
+- 'For composite labels combining lament and burial, choose the group based on the
+  passage''s dominant function: grief expression maps to lament_and_mourning; mortuary
+  sequence or memorial construction maps to heroic_funeral_rites.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for tree-spirit, complete-survival,
+    and grave-concealment items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0022
+  input_sha256: 88b5310160a2d19c2518020031febb3775feab8edcc9ba30a63434dbf3c9eb3f
+

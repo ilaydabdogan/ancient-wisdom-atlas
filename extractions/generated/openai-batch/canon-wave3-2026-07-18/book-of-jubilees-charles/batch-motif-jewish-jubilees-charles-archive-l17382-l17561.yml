@@ -1,0 +1,450 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l17382-l17561
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: THE BOOK OF JUBILEES / CHAPTER XXII. 15-21 141 / CHAPTER XXII. 22-30 143
+    / CHAPTER XXIII. 1-12 145; lines 17382-17561
+  start: '17382'
+  end: '17561'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Abraham completing his life old and righteous, contrasts
+    earlier forefathers’ long lives with the post-Flood decline of human lifespan,
+    foretells that generations up to the great judgment will age quickly and lose
+    knowledge, lists accumulating calamities and sufferings for an evil generation,
+    and says sons will accuse fathers and elders of sin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Abraham is said to have lived 175 years and completed his life old and full
+    of days.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The forefathers’ lives are measured as nineteen jubilees, and after the Flood
+    lifespans begin to decrease and old age comes more quickly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Abraham is described as perfect in his deeds with the Lord and well-pleasing
+    in righteousness.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Future generations until the day of the great judgment are said to grow old
+    before completing two jubilees, and their knowledge is said to forsake or vanish
+    from them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A life of a jubilee and a half is described as long in those days, while most
+    days are characterized by pain, sorrow, tribulation, and absence of peace.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage lists successive calamities, including wounds, illness, weather
+    afflictions, famine, death, sword, captivity, and other pains.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The listed calamities are said to come on an evil generation that transgresses
+    on the earth and performs uncleanness, fornication, pollution, and abominations.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The evil generation is said to compare the forefathers’ many years, even up
+    to a thousand, with present lives of seventy or eighty years that are evil and
+    without peace.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In that generation, sons are said to convict their fathers and elders of sin,
+    unrighteousness, words of their mouth, and great wickednesses.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Abraham
+  description: A patriarch who completes 175 years, is old and full of days, and is
+    described as perfect in deeds with the Lord and righteous.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Forefathers
+  description: Earlier ancestral generations whose lives are described as lasting
+    many jubilees and, in later speech, even up to a thousand years.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Future evil generation
+  description: Generations arising until the day of the great judgment, aging quickly,
+    losing knowledge, suffering calamities, and transgressing on the earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Sons
+  description: Members of the generation who convict their fathers and elders of sin
+    and wickedness.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Fathers and elders
+  description: Older figures accused by their sons of sin, unrighteousness, and wickedness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: The Lord
+  description: The divine figure in relation to whom Abraham’s deeds and righteousness
+    are described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: righteous patriarchal exception
+  assigned_to:
+  - fig:1
+  basis: Abraham is singled out as an exception and described as perfect in deeds
+    and righteous.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine figure
+  assigned_to:
+  - fig:6
+  basis: Abraham’s deeds are described as being with the Lord and pleasing in righteousness.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ancestral benchmark of long life
+  assigned_to:
+  - fig:2
+  basis: The forefathers’ lives are used as the standard of earlier long lifespans.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: declining and transgressing generation
+  assigned_to:
+  - fig:3
+  basis: The generation ages quickly, loses knowledge, receives calamities, and is
+    described as evil and transgressing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: accusing descendants
+  assigned_to:
+  - fig:4
+  basis: The sons convict fathers and elders of sin and wickedness.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: accused elders
+  assigned_to:
+  - fig:5
+  basis: Fathers and elders are the objects of the sons’ accusations.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Flood as chronological boundary
+  literal_form: the Flood
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Day of the great judgment
+  literal_form: the day of the great judgment
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Jubilee lifespan measure
+  literal_form: three jubilees and four weeks of years; nineteen jubilees; four jubilees;
+    two jubilees; a jubilee and a-half
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Cascading calamities
+  literal_form: calamity, wound, tribulation, evil tidings, illness, overthrow, snow,
+    frost, ice, fever, chills, torpor, famine, death, sword, captivity
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Abraham’s completed life and righteousness
+  summary: Abraham completes 175 years, is old and full of days, and is described
+    as perfect with the Lord and righteous.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Decline of lifespan after the Flood and before judgment
+  summary: The passage contrasts the forefathers’ long lives with post-Flood decline
+    and foretells further decline until the day of the great judgment.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Speech of shortened life and cumulative suffering
+  summary: The generation speaks of short, troubled lives without peace, and the passage
+    lists many calamities that come upon an evil generation.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sons accuse fathers and elders
+  summary: Sons convict fathers and elders of sin, unrighteousness, and wickedness.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Post-Flood contraction of human lifespan
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage says that after the Flood human lifespans began to decrease from
+    the forefathers’ longer lives.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The Flood itself is not narrated in this passage; it functions here as
+    a chronological marker for lifespan decline.
+- id: motif:2
+  label: Moral corruption linked with shortened life and suffering
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links wickedness, transgression, and evil works with quick aging,
+    loss of peace, and many calamities called evil judgments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states the relation but does not narrate a single explicit
+    sentencing scene.
+- id: motif:3
+  label: Eschatological judgment horizon
+  taxonomy_refs:
+  - divine_judgment
+  basis: The future generations are described as continuing until the day of the great
+    judgment.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Details of the judgment are not developed in this excerpt.
+- id: motif:4
+  label: Knowledge forsaking an aged generation
+  taxonomy_refs:
+  - wisdom
+  basis: The text says the future generations’ knowledge will forsake them or vanish
+    because of old age.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage speaks of knowledge loss, not a full wisdom quest or wisdom
+    figure.
+- id: motif:5
+  label: Righteous patriarchal exception amid corrupt generations
+  taxonomy_refs: []
+  basis: Abraham is treated as an exception to the general decline and is described
+    as perfect and righteous before the Lord.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explicitly mention covenant in this excerpt.
+- id: motif:6
+  label: Intergenerational rebuke of sinful elders
+  taxonomy_refs: []
+  basis: The sons convict their fathers and elders of sin, unrighteousness, and wickedness.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the accusation pattern but not its outcome within the
+    excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editor identifies the wording about Abraham being old and full of days
+    with Genesis xxv.8 as a textual parallel.
+  claim_level: linguistic_similarity
+  target: Genesis xxv.8
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a cited textual parallel in the editorial note; it does not
+    by itself establish a broader comparative-mythological relationship.
+- id: claim:2
+  claim: The editor identifies the seventy- or eighty-year lifespan and sorrowful
+    days with Psalm xc.10.
+  claim_level: linguistic_similarity
+  target: Psalm xc.10
+  evidence_refs:
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim rests on the explicit editorial note and shared wording;
+    direction of dependence is not assessed here.
+- id: claim:3
+  claim: The editor compares the sons’ rebuke of fathers and elders with Ethiopic
+    Enoch xc.6-8 as another depiction of related Maccabean-era reform conflict.
+  claim_level: same_function
+  target: Ethiopic Enoch xc.6-8
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is based on the editorial commentary; the Jubilees
+    passage itself is direct speech/prose, while the Enoch material is described as
+    allegorical.
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXIII.8-10
+  quote_or_summary: Abraham lives 175 years and is old and full of days; forefathers’
+    lifespans are nineteen jubilees; after the Flood lifespans decrease; Abraham is
+    described as perfect in deeds with the Lord and righteous.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: XXIII.11-12
+  quote_or_summary: Generations until the day of the great judgment grow old quickly
+    before completing two jubilees; their knowledge forsakes or vanishes; a jubilee
+    and a-half is considered long, and days are pain, sorrow, tribulation, and without
+    peace.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: XXIII.13
+  quote_or_summary: The passage lists repeated calamities and evil judgments, including
+    illness, overthrow, snow, frost, ice, famine, death, sword, captivity, and pains.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: XXIII.14-15
+  quote_or_summary: All these calamities come on an evil generation that transgresses
+    and performs uncleanness and abominations; the generation contrasts the forefathers’
+    long lives with present lives of seventy or eighty years, evil and without peace.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: XXIII.16
+  quote_or_summary: Sons in that generation convict their fathers and elders of sin,
+    unrighteousness, words of their mouth, and great wickednesses.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: Editorial note on XXIII.8
+  quote_or_summary: The note cites Genesis xxv.8 as a comparison for Abraham’s death
+    formula and also refers to Jubilees xxi.1.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; editorial note summarized.
+- id: ev:7
+  type: note
+  locator: Editorial notes on XXIII.12 and XXIII.15
+  quote_or_summary: The notes identify Psalm xc.10 as a parallel for the statements
+    that days are pain and sorrow and that life is seventy or eighty years.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; editorial note summarized.
+- id: ev:8
+  type: note
+  locator: Editorial note on XXIII.16
+  quote_or_summary: The note interprets the verse in relation to the Chasids and Maccabean
+    movement and compares similar events depicted allegorically in Ethiopic Enoch
+    xc.6-8.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; editorial note summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Canonical observations are clear; motif taxonomy links are cautious, especially
+    where the Flood is only a chronological marker and where comparison claims rely
+    on editorial notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, available taxonomy references, and included editorial notes where explicitly cited as notes.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l17382-l17561
+  passage_sha256=f7cb2ec00b354ff4496d832a58e325a1093ab7ea73067af944076b230fb31de7
+

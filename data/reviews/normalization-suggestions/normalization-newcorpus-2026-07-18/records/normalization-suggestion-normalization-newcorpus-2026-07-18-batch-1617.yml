@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1617
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tooth-identification-by-induced-laughter
+  motif_id: tooth_identification_by_induced_laughter
+  label: tooth identification by induced laughter
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Induced laughter reveals a bodily sign used to identify someone, matching
+    recognition by bodily evidence or hidden identity proof.
+  cautions: Single occurrence; if laughter is primarily trickery rather than identity
+    proof, trickster may be a secondary context.
+  suggested_aliases:
+  - recognition by teeth
+  - bodily sign recognition
+  - identity revealed by laughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.toponymic-localization-mythic-geography-catalogue
+  motif_id: toponymic_localization_mythic_geography_catalogue
+  label: Toponymic localization / mythic geography catalogue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: low
+  rationale: Existing cosmic_origin group already contains place-name etiologies and
+    mythic landscape localization children.
+  cautions: May be a catalogue or editorial geography artifact rather than a narrative
+    motif; review source evidence before indexing in pattern queries.
+  suggested_aliases:
+  - toponymic localization
+  - mythic geography catalogue
+  - place-name localization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.toponymic-naming-from-a-carried-companion
+  motif_id: toponymic_naming_from_a_carried_companion
+  label: Toponymic naming from a carried companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A place name arising from an event involving a companion fits the existing
+    place-name etiological cluster under cosmic_origin.
+  cautions: Highly specific; preserve the carried-companion detail as evidence rather
+    than promoting it canonically unless it recurs.
+  suggested_aliases:
+  - place-name origin from carried companion
+  - toponymic naming from journey event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.torch-signal-initiating-attack
+  motif_id: torch_signal_initiating_attack
+  label: Torch signal initiating attack
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The attack context places it nearest the warfare and combat group, but
+    the torch signal is a tactical trigger rather than a broad sacred motif.
+  cautions: Likely an episode-specific battle detail; exclude or keep only as evidence
+    if no ritual, omen, or sacred-combat function is present.
+  suggested_aliases:
+  - fire signal for attack
+  - battle signal by torch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.torture-or-binding-with-possible-scandinavian-parallel
+  motif_id: torture_or_binding_with_possible_scandinavian_parallel
+  label: Torture or binding with possible Scandinavian parallel
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The wording mixes an action motif with a comparative parallel claim,
+    so the usable motif cannot be separated without source review.
+  cautions: Do not encode the Scandinavian parallel as transmission evidence; separate
+    any actual binding/torture motif from commentary before mapping.
+  suggested_aliases:
+  - binding torture
+  - comparative binding parallel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.total-destruction-of-a-retinue
+  motif_id: total_destruction_of_a_retinue
+  label: Total destruction of a retinue
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A retinue annihilated in conflict fits the combat and heroic-war cluster
+    more than death-return or judgment.
+  cautions: May be only a plot outcome; use divine_warrior or lament_and_mourning
+    only if heroic honor, burial, or mourning is emphasized.
+  suggested_aliases:
+  - annihilation of war band
+  - destruction of companions
+  - retinue wiped out
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totem-and-clan-organization-of-play
+  motif_id: totem_and_clan_organization_of_play
+  label: totem and clan organization of play
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social organization through totem and clan categories,
+    but no current group cleanly covers totemic social structure.
+  cautions: Culturally sensitive and potentially ethnographic rather than narrative;
+    requires expert review before normalization.
+  suggested_aliases:
+  - totemic clan play organization
+  - clan organization by totem
+  suggested_new_group:
+    id: totemic_social_order
+    label: Totemic Social Order and Clan Relations
+    description: Totemic identities, clan or phratry relations, exogamy rules, alliances,
+      oppositions, and ritual-social organization structured by ancestral or species
+      affiliations.
+    parent_group_ids:
+    - sacred_law
+    - duality
+    related_group_ids:
+    - cosmic_origin
+    - sacred_exchange
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover sacred law, ancestry,
+      and duality, but not the recurring social-ritual structure of totemic clan relations.
+- suggestion_id: normalization.suggestion.totem-wizard-stick-guarding-camp-front
+  motif_id: totem_wizard_stick_guarding_camp_front
+  label: Totem wizard-stick guarding camp front
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines totemic affiliation, a ritual object, magic, and camp
+    protection; placement depends on source context.
+  cautions: Culturally sensitive terminology and object-specific detail; could be
+    sacred_treasures, sacred_law/apotropaic protection, or totemic social order.
+  suggested_aliases:
+  - totemic protective stick
+  - wizard-stick guarding camp
+  - camp-front apotropaic object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-alliance-and-opposition
+  motif_id: totemic_alliance_and_opposition
+  label: Totemic alliance and opposition
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Social Order and Clan Relations
+  relationship: child
+  confidence: medium
+  rationale: Alliance and opposition among totemic groups is a social-ritual structure
+    not captured by existing combat or duality groups alone.
+  cautions: Needs human review for culturally appropriate labeling and to avoid flattening
+    specific Aboriginal kinship systems.
+  suggested_aliases:
+  - totemic alliances
+  - totemic opposition
+  - clan alliance and opposition
+  suggested_new_group:
+    id: totemic_social_order
+    label: Totemic Social Order and Clan Relations
+    description: Totemic identities, clan or phratry relations, exogamy rules, alliances,
+      oppositions, and ritual-social organization structured by ancestral or species
+      affiliations.
+    parent_group_ids:
+    - sacred_law
+    - duality
+    related_group_ids:
+    - cosmic_origin
+    - sacred_exchange
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups can cover law or opposition
+      abstractly, but do not preserve totemic social organization as the primary motif.
+- suggestion_id: normalization.suggestion.totemic-exogamy-by-phratry
+  motif_id: totemic_exogamy_by_phratry
+  label: Totemic exogamy by phratry
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Social Order and Clan Relations
+  relationship: child
+  confidence: medium
+  rationale: Exogamy by phratry is a sacred social-law structure tied to totemic identity,
+    better preserved in a totemic social-order group.
+  cautions: Requires culturally informed review; do not treat as a generic marriage
+    motif without evidence for its local kinship and ritual meaning.
+  suggested_aliases:
+  - phratry exogamy
+  - totemic marriage rule
+  - totemic kinship law
+  suggested_new_group:
+    id: totemic_social_order
+    label: Totemic Social Order and Clan Relations
+    description: Totemic identities, clan or phratry relations, exogamy rules, alliances,
+      oppositions, and ritual-social organization structured by ancestral or species
+      affiliations.
+    parent_group_ids:
+    - sacred_law
+    - duality
+    related_group_ids:
+    - cosmic_origin
+    - sacred_exchange
+    - sacred_love
+    reason_existing_groups_insufficient: Sacred_law can hold prohibitions generally,
+      but it loses the specific totemic kinship and phratry structure.
+batch_notes:
+- Several Australian Aboriginal totemic labels appear to need culturally informed
+  review and may justify a dedicated normalization group rather than forced placement
+  under generic sacred_law or duality.
+- Labels containing explicit comparative-parallel language should be separated into
+  motif content versus commentary before indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional suggestions only; human taxonomy review recommended, especially
+    for totemic and culturally sensitive items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1617
+  input_sha256: 6cb2a7b626cda60315f74035ff3c20a6b8b28ed7af5893664b105ea88718ed9e
+

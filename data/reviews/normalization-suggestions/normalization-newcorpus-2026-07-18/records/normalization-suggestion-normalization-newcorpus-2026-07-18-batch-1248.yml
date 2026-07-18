@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1248
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.uncanny-marked-host
+  motif_id: uncanny_marked_host
+  label: Uncanny marked host
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve hospitality, a threshold encounter, spirit marking,
+    or a dangerous host, but function is unclear.
+  cautions: Single occurrence and culturally specific; source evidence is needed before
+    mapping to hospitality_test_stranger_guest, threshold_guardian, divine_intervention,
+    or sacred_law.
+  suggested_aliases:
+  - marked_host
+  - uncanny_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfamiliar-night-house-as-perilous-lodging
+  motif_id: unfamiliar_night_house_as_perilous_lodging
+  label: Unfamiliar night house as perilous lodging
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous lodging functions as a threshold space where entry into an
+    unfamiliar house creates peril or ordeal.
+  cautions: If the passage focuses on hospitality obligations rather than liminal
+    danger, hospitality_test_stranger_guest may be a better fit; preserve house-at-night
+    detail as evidence.
+  suggested_aliases:
+  - perilous_lodging
+  - dangerous_night_house
+  - unfamiliar_house_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veiled-sufi-symbolism-of-everyday-things
+  motif_id: veiled_sufi_symbolism_of_everyday_things
+  label: veiled Sufi symbolism of everyday things
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Veiled symbolic interpretation of ordinary things fits a mystical path
+    where everyday images disclose sacred knowledge.
+  cautions: May be a commentary or interpretive artifact if not grounded in a passage
+    motif; review whether the label describes narrative symbolism or scholarly explanation.
+  suggested_aliases:
+  - veiled_mystical_symbolism
+  - everyday_things_as_sufi_symbols
+  - sufi_symbolic_reading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-against-a-supernatural-household-after-a-destructive-hunt
+  motif_id: vengeance_against_a_supernatural_household_after_a_destructive_hunt
+  label: Vengeance against a supernatural household after a destructive hunt
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines vengeance, supernatural household, and hunt aftermath
+    in an episode-specific sequence.
+  cautions: Could map to sacred_combat, divine_judgment, otherworld, or betrayal/violated
+    trust depending on source function; avoid promoting this composite label without
+    recurrence.
+  suggested_aliases:
+  - vengeance_after_destructive_hunt
+  - supernatural_household_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-overthrow-of-a-ruling-house
+  motif_id: violent_overthrow_of_a_ruling_house
+  label: violent overthrow of a ruling house
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Overthrow of a ruling house concerns rupture, transfer, or contestation
+    of legitimate rule.
+  cautions: If treated as ordinary political history rather than mythic authorization
+    or sacred kingship, it may be too contextual for motif queries; source evidence
+    should confirm symbolic function.
+  suggested_aliases:
+  - overthrow_of_ruling_house
+  - dynastic_overthrow
+  - violent_dynastic_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-bodily-signs-govern-boundary-between-clean-and-unclean
+  motif_id: visible_bodily_signs_govern_boundary_between_clean_and_unclean
+  label: Visible bodily signs govern boundary between clean and unclean
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Visible bodily signs determining clean/unclean status fit purity regulation
+    and sacred law.
+  cautions: May also relate to ritual_prohibition or divine_judgment if framed as
+    transgression; preserve bodily-sign specificity as legal evidence.
+  suggested_aliases:
+  - bodily_signs_of_impurity
+  - visible_clean_unclean_boundary
+  - purity_status_by_bodily_marks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-garment-marker-as-reminder-of-commandments
+  motif_id: visible_garment_marker_as_reminder_of_commandments
+  label: Visible garment marker as reminder of commandments
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A garment marker that reminds wearers of commandments is a material practice
+    reinforcing sacred law and covenant obligations.
+  cautions: Could be cross-indexed with sacred_treasures if treated as a power object,
+    but the core function is legal remembrance rather than object power.
+  suggested_aliases:
+  - commandment_garment_marker
+  - visible_marker_of_commandments
+  - ritual_garment_reminder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-punitive-marks-for-wicked-classes
+  motif_id: visible_punitive_marks_for_wicked_classes
+  label: visible punitive marks for wicked classes
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Punitive marks identifying wicked classes function as visible signs of
+    moral judgment or punishment.
+  cautions: Needs context to distinguish eschatological judgment, social polemic,
+    bodily stigma, or commentary; handle culturally sensitive classification carefully.
+  suggested_aliases:
+  - punitive_marks_for_the_wicked
+  - visible_marks_of_judgment
+  - marks_of_the_wicked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.voluntary-dependent-adoption-within-a-household
+  motif_id: voluntary_dependent_adoption_within_a_household
+  label: voluntary dependent adoption within a household
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a household social arrangement, but its mythic or
+    ritual function is not clear.
+  cautions: May be kinship practice, adoption narrative, dependency relation, or ethnographic
+    detail rather than a reusable motif; source context required.
+  suggested_aliases:
+  - dependent_adoption
+  - household_adoption
+  - voluntary_adoption_into_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wagering-away-possessions-and-body-parts
+  motif_id: wagering_away_possessions_and_body_parts
+  label: Wagering away possessions and body parts
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Wagering body parts and possessions suggests ordeal, loss, sacrifice,
+    trickster contest, or moral downfall, but the label alone does not identify the
+    function.
+  cautions: Could fit sacrifice, pride_and_downfall, trickster, sacred_exchange, or
+    initiation depending on whether the wager is ritual offering, deception, punishment,
+    or test.
+  suggested_aliases:
+  - body_part_wager
+  - wagering_body_parts
+  - gambling_away_possessions_and_body_parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local evidence notes and avoid promoting composites without recurrence.
+- 'Objects/spaces bucket placement is sometimes misleading here: many labels are better
+  reviewed by function such as sacred law, kingship, threshold ordeal, or judgment.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous Inuit
+    and Celtic-Irish household/host labels and the Zuni wagering label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1248
+  input_sha256: '069f3361404bbdeb3d767338dd97a1d143010de884a2a5d02c271836ec9b723f'
+

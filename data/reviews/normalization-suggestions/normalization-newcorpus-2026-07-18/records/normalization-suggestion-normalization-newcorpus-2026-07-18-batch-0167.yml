@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0167
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-sacred-text-authorship
+  motif_id: contested_sacred_text_authorship
+  label: contested sacred text authorship
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns attribution or authorship of a sacred text, not a
+    narrative or symbolic motif.
+  cautions: Preserve as provenance or textual-history metadata if useful; do not use
+    as motif evidence.
+  suggested_aliases:
+  - disputed sacred text authorship
+  - contested textual attribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continued-aid-from-an-exiled-animal-helper
+  motif_id: continued_aid_from_an_exiled_animal_helper
+  label: continued aid from an exiled animal helper
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes animal helpers as supernatural guidance or
+    aid in human affairs.
+  cautions: If the passage emphasizes the helper's exile or animal-agency more than
+    supernatural aid, it may need later animal-helper or exile-specific review.
+  suggested_aliases:
+  - exiled animal helper continues aid
+  - animal helper aid after exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrasting-animal-pair-requests-different-weather
+  motif_id: contrasting_animal_pair_requests_different_weather
+  label: contrasting animal pair requests different weather
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes animal pair opposition and weather-request ritual without
+    enough evidence to choose duality, sacred exchange, or animal-helper placement.
+  cautions: May be an over-specific tale detail, a weather etiological motif, or a
+    ritual coercion/request pattern; source context is needed.
+  suggested_aliases:
+  - opposed animal weather requests
+  - animal pair asks for different weather
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-praise-and-compulsory-worship
+  motif_id: cosmic_praise_and_compulsory_worship
+  label: Cosmic praise and compulsory worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Compulsory worship frames ritual obligation as part of sacred order,
+    while cosmic praise broadens it to creation-wide obedience.
+  cautions: If the passage primarily depicts all beings praising God rather than legal
+    obligation, theophany or cosmic_order review may be more appropriate.
+  suggested_aliases:
+  - universal praise and obligatory worship
+  - creation-wide worship obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-solar-journey-halted-by-divine-crisis
+  motif_id: cosmic_solar_journey_halted_by_divine_crisis
+  label: Cosmic solar journey halted by divine crisis
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The solar journey belongs with sacred solar light imagery already present
+    under sacred_fire.
+  cautions: If the halted journey marks cosmic disorder, night-sea descent, or divine
+    kingship crisis, secondary review under chaos, descent, or royal_legitimacy may
+    be needed.
+  suggested_aliases:
+  - interrupted solar journey
+  - sun journey halted by divine crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.costumed-or-disguised-arrival-before-a-challenge
+  motif_id: costumed_or_disguised_arrival_before_a_challenge
+  label: Costumed or disguised arrival before a challenge
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise or costuming changes visible identity before an ordeal, fitting
+    the broader transformation/identity-shift group.
+  cautions: If the disguise is ritual costume rather than narrative identity change,
+    initiation or sacred_law may be better; verify challenge context.
+  suggested_aliases:
+  - disguised arrival before challenge
+  - ritual costume before ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counselor-recalls-hero-from-grief-to-conquest
+  motif_id: counselor_recalls_hero_from_grief_to_conquest
+  label: counselor recalls hero from grief to conquest
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A counselor redirects the hero from grief back into action, functioning
+    as a turning point in the heroic arc.
+  cautions: Could also index under lament_and_mourning if grief remains central, or
+    sacred_combat if the conquest is the dominant motif.
+  suggested_aliases:
+  - counsel restores grieving hero to action
+  - advisor recalls hero from mourning to conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtly-gift-exchange-before-departure
+  motif_id: courtly_gift_exchange_before_departure
+  label: courtly gift exchange before departure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on reciprocal gift-giving that establishes bonds before
+    a journey or departure.
+  cautions: If gifts are merely courtly scene-setting rather than binding exchange,
+    this may be too specific for motif queries; royal_legitimacy may apply if kingship/status
+    is emphasized.
+  suggested_aliases:
+  - gift exchange before departure
+  - departure preceded by courtly gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtship-at-a-royal-court-ending-in-promised-betrothal
+  motif_id: courtship_at_a_royal_court_ending_in_promised_betrothal
+  label: courtship at a royal court ending in promised betrothal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The courtship and betrothal pattern fits the existing love, marriage-choice,
+    and bride-winning cluster under sacred_love.
+  cautions: The royal-court setting may be episode-specific; if the betrothal legitimizes
+    succession or alliance, royal_legitimacy may be a secondary fit.
+  suggested_aliases:
+  - royal court courtship and betrothal
+  - promised betrothal after courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtship-encounter-at-cleansing-water
+  motif_id: courtship_encounter_at_cleansing_water
+  label: Courtship encounter at cleansing water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core event is a courtship encounter, while cleansing water provides
+    symbolic setting rather than the main narrative function.
+  cautions: If the water rite is central as purification or threshold crossing, sacred_waters
+    may be an important secondary mapping.
+  suggested_aliases:
+  - courtship at cleansing water
+  - love encounter by purifying water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear bucketed under journey/homecoming only because
+  they include departure, arrival, or travel settings; suggested placements favor
+  the primary motif function instead.
+- Single-occurrence, highly contextual labels should remain provisional and be checked
+  against passage evidence before broad Pattern Explorer use.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous animal-weather,
+    ritual-costume, and cosmic-worship labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0167
+  input_sha256: 0b26acab2d7cf7bb94e8f0aba16e2cc7296aac95b9afce8b63363893f7d7e51e
+

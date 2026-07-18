@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.native-american-traditions-arikara-dorsey-gutenberg-l7301-l7323
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 7301-7323'
+  start: '7301'
+  end: '7323'
+  translation: Traditions of the Arikara
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents tale 68, “The Water-Dogs,” told by Young-Hawk. A young
+    man named Poor-Bear sees a water-dog carry her young from the river toward a spring
+    and dies shortly afterward. An old woman later hears dogs chattering in the river
+    water, becomes frightened, tells the story, becomes sick, and dies shortly afterward.
+    The passage states that water-dogs are rarely seen and are believed to be powerful
+    in killing people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tale is identified as “The Water-Dogs” and is associated with the note
+    “Told by Young-Hawk.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A young man sleeps outside a lodge, hears dogs barking at night, and sees
+    by moonlight a dog coming out of the river.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dog carries her little ones in her mouth, one at a time, from the river
+    into the hills to a spring.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The young man is named Poor-Bear and dies shortly after seeing the dogs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An old woman goes to get water from the river at or near the place where the
+    water-dogs were seen and hears dogs chattering in the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The old woman becomes frightened, goes home with the water, tells the story,
+    becomes sick, and dies shortly afterward.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Water-dogs are described as rarely seen and as supposed to be very powerful
+    in killing people; people who see them generally die.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Poor-Bear
+  description: A young man who sleeps outside the lodge, sees a water-dog carrying
+    young from the river, and dies shortly afterward.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: old woman
+  description: A woman who goes to the river for water, hears dogs chattering in the
+    water, becomes frightened, tells the story, becomes sick, and dies shortly afterward.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: water-dogs
+  description: Rarely seen dogs or water-dogs associated with the river water; one
+    is seen carrying her young, and the group is said to be powerful in killing people.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: human witness or hearer of water-dogs
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Poor-Bear sees the water-dog, and the old woman hears dogs chattering in
+    the water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: person who dies shortly after the encounter
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both Poor-Bear and the old woman die shortly after their respective encounters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: dangerous rare water beings
+  assigned_to:
+  - fig:3
+  basis: The passage says water-dogs are hardly ever seen and are supposed to be powerful
+    in killing people.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: water-born mother carrying young
+  assigned_to:
+  - fig:3
+  basis: A dog comes out of the river carrying her little ones in her mouth, one at
+    a time, toward a spring.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water
+  literal_form: river water and spring
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water-dogs
+  literal_form: dogs or water-dogs in river water, rarely seen and dangerous to people
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Poor-Bear sees the water-dog at night
+  summary: At night, in moonlight, Poor-Bear hears barking and sees a dog come out
+    of the river carrying her young one at a time into the hills to a spring; he dies
+    shortly afterward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Old woman hears dogs in the river
+  summary: An old woman drawing river water at or near the same place hears dogs chattering
+    in the water, becomes frightened, tells the story at home, becomes sick, and dies
+    shortly afterward.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: fatal encounter with rarely seen water-dogs
+  taxonomy_refs: []
+  basis: Two people who encounter the water-dogs die shortly afterward, and the passage
+    states that people who see them generally die.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the pattern through this local account; no external
+    motif index or comparative tradition is cited in the passage.
+- id: motif:2
+  label: dangerous hidden beings in river water
+  taxonomy_refs: []
+  basis: The water-dogs emerge from or are heard in the river water, are rarely seen,
+    and are said to be powerful in killing people.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses the term water-dogs but does not further classify them
+    as spirits, monsters, or deities.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7301-7304
+  quote_or_summary: The passage includes the note “Told by Young-Hawk” and the tale
+    title “The Water-Dogs.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 7305-7313
+  quote_or_summary: Poor-Bear, sleeping outside the lodge, sees by moonlight a dog
+    come from the river carrying her young toward a spring; he dies shortly afterward.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 7313-7318
+  quote_or_summary: An old woman drawing water from the river hears dogs chattering
+    in the water, becomes frightened, tells the story, becomes sick, and dies shortly
+    afterward.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 7320-7323
+  quote_or_summary: Water-dogs are said to be powerful in killing people, rarely seen,
+    and generally fatal to those who see them.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is direct from the supplied passage. Motif labels
+    are candidate descriptive labels only; no comparison claims are made because the
+    passage itself does not compare this account to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy reference applied only to the explicit water setting and imagery; no motif-family taxonomy reference was assigned.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-traditions-arikara-dorsey-gutenberg__l7301-l7323
+  passage_sha256=cf01051bc53aba3e5fb5a3633e4f7f314724249f92b53af16315e56316e70b42
+

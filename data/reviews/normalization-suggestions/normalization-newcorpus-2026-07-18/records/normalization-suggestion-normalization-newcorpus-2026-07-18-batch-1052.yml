@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1052
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-claimants-punished-after-failed-test
+  motif_id: false_claimants_punished_after_failed_test
+  label: false claimants punished after failed test
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed impostors are exposed by a test and punished, matching judgment
+    and moral reckoning more than combat itself.
+  cautions: If the emphasis is identity proof rather than punishment, recognition_tokens_hidden_identity
+    may be a secondary fit.
+  suggested_aliases:
+  - impostors_exposed_and_punished
+  - false_claimants_fail_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-crisis-used-to-redirect-the-hero
+  motif_id: false_crisis_used_to_redirect_the_hero
+  label: false crisis used to redirect the hero
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fabricated crisis used to alter a hero's course is a deception strategy,
+    fitting trickster or stratagem logic.
+  cautions: If it only marks a plot detour in a quest, hero_journey may be preferable;
+    source context is needed.
+  suggested_aliases:
+  - deceptive_crisis_redirects_hero
+  - false_alarm_redirects_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-divination-for-reward
+  motif_id: false_divination_for_reward
+  label: false divination for reward
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns fraudulent use of divinatory authority for gain, best
+    kept with divination practices.
+  cautions: May also involve greed punished or false prophecy if the passage centers
+    on moral reckoning rather than divination.
+  suggested_aliases:
+  - fraudulent_divination_for_reward
+  - mercenary_false_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-embassy-creates-a-war-pretext
+  motif_id: false_embassy_creates_a_war_pretext
+  label: false embassy creates a war pretext
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive embassy producing a pretext for war is a strategic deceit
+    motif already close to deceptive war stratagem aliases.
+  cautions: If the war itself is sacred or ritually framed, sacred_combat may be a
+    secondary mapping.
+  suggested_aliases:
+  - deceptive_embassy_as_war_pretext
+  - false_diplomacy_starts_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-heart-and-true-heart-test
+  motif_id: false_heart_and_true_heart_test
+  label: false heart and true heart test
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false and true heart used in a test functions as material proof for
+    identity or truth.
+  cautions: If the heart is an external life-token or vulnerable soul-object, external_soul
+    may be more important; verify passage evidence.
+  suggested_aliases:
+  - heart_test_reveals_truth
+  - false_heart_true_heart_identity_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-hero-usurps-monster-slayer-s-reward
+  motif_id: false_hero_usurps_monster_slayer_s_reward
+  label: false hero usurps monster-slayer's reward
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A false hero claiming a slayer's reward typically depends on later proof
+    of the true hero's identity and deed.
+  cautions: Could also index under divine_judgment if punishment of the usurper is
+    central, or sacred_combat if monster-slaying dominates.
+  suggested_aliases:
+  - false_hero_claims_monster_slayer_reward
+  - usurped_monster_slayer_reward
+  - impostor_hero_exposed_by_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-hospitality-by-venomous-den-monsters
+  motif_id: false_hospitality_by_venomous_den_monsters
+  label: false hospitality by venomous den monsters
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The motif inverts hospitality: apparent welcome by dangerous hosts becomes
+    a test or trap.'
+  cautions: Venomous den monsters are culturally and contextually specific; threshold_guardian
+    or trickster may fit if the focus is monster lure rather than hospitality norm.
+  suggested_aliases:
+  - false_hospitality_as_trap
+  - monstrous_false_hospitality
+  - dangerous_host_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-night-battle-massacre-report
+  motif_id: false_night_battle_massacre_report
+  label: false night-battle massacre report
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe misinformation, a battle report, or an episode-specific
+    narrative detail rather than a stable motif.
+  cautions: Needs source context to decide between sacred_combat, trickster/deception,
+    divine_judgment, or exclusion as a plot artifact.
+  suggested_aliases:
+  - false_battle_report
+  - fabricated_massacre_report
+  - deceptive_night_battle_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-or-fragile-weapon-revealed
+  motif_id: false_or_fragile_weapon_revealed
+  label: False or fragile weapon revealed
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon's deceptive or fragile nature being revealed centers on the
+    power object's reliability in conflict.
+  cautions: If the reveal exposes a hidden weakness or special defeat condition, conditional_invulnerability_hidden_weakness
+    may be a secondary fit.
+  suggested_aliases:
+  - fragile_weapon_revealed
+  - deceptive_weapon_revealed
+  - false_weapon_exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-or-substituted-weapon-disables-combat
+  motif_id: false_or_substituted_weapon_disables_combat
+  label: false or substituted weapon disables combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapon substitution disabling combat functions within a combat ordeal
+    or martial stratagem.
+  cautions: Could map to sacred_treasures if the weapon's object status is central,
+    or trickster if deception is the main narrative engine.
+  suggested_aliases:
+  - substituted_weapon_disables_combat
+  - false_weapon_prevents_battle
+  - weapon_substitution_combat_disablement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence conflict/deception episodes;
+  preserve episode detail as aliases or evidence notes rather than promoting new canonical
+  motifs.
+- Where false identity or proof is central, recognition_tokens_hidden_identity is
+  often a better fit than the broad conflict bucket.
+- No transmission or borrowing claim is implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    evidence for episode-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1052
+  input_sha256: 043f4e2269c1e92fbdd02a8be5422db85639a444a2ef1530bac003f0d254dd87
+

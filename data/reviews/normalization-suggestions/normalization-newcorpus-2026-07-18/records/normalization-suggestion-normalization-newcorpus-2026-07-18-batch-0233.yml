@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0233
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threshold-hospitality-before-questioning
+  motif_id: threshold_hospitality_before_questioning
+  label: threshold hospitality before questioning
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on hospitality protocol toward an arrival at a threshold,
+    fitting the stranger/guest hospitality complex.
+  cautions: If the passage emphasizes boundary crossing rather than the guest obligation,
+    threshold_guardian or hero_journey may be secondary.
+  suggested_aliases:
+  - hospitality before questioning
+  - threshold hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-passage-as-buffer-closure-and-approach
+  motif_id: threshold_passage_as_buffer_closure_and_approach
+  label: threshold passage as buffer, closure, and approach
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: narrower_than
+  confidence: low
+  rationale: A threshold passage that mediates closure and approach can function as
+    a liminal transition between states.
+  cautions: The label is abstract and may be a passage-structure note rather than
+    a motif; verify whether a transformative threshold is actually narrated.
+  suggested_aliases:
+  - threshold passage
+  - liminal buffer passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-body-and-distribution-of-kinship-identities
+  motif_id: totemic_body_and_distribution_of_kinship_identities
+  label: Totemic body and distribution of kinship identities
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to concern totemic social identity and body symbolism,
+    which is not cleanly covered by current groups.
+  cautions: Culturally sensitive and source-dependent; avoid forcing into primordial_sacrifice,
+    sacred_law, or kinship motifs without evidence of narrative function.
+  suggested_aliases:
+  - totemic body
+  - distribution of kinship identities
+  - totemic kinship identity
+  suggested_new_group:
+    id: totemic_kinship_identity
+    label: Totemic Kinship and Identity
+    description: Totemic beings, bodies, species, or ancestral forms establish, distribute,
+      or mark kinship identities, social categories, obligations, or marriage rules.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_law
+    related_group_ids:
+    - ancestor_rites
+    - sacred_twins
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover ancestry, law, and
+      transformation, but none directly handles totemic social identity systems and
+      kinship categories.
+- suggestion_id: normalization.suggestion.totemic-kinship-and-exogamy
+  motif_id: totemic_kinship_and_exogamy
+  label: Totemic kinship and exogamy
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This points to totemic kinship and marriage regulation, a culturally
+    specific social-order motif not directly represented.
+  cautions: Requires human review for culturally accurate framing; may be ritual law,
+    social structure, or ethnographic commentary depending on evidence.
+  suggested_aliases:
+  - totemic exogamy
+  - totemic marriage rules
+  - totemic kinship rules
+  suggested_new_group:
+    id: totemic_kinship_identity
+    label: Totemic Kinship and Identity
+    description: Totemic beings, bodies, species, or ancestral forms establish, distribute,
+      or mark kinship identities, social categories, obligations, or marriage rules.
+    parent_group_ids:
+    - sacred_law
+    - cosmic_origin
+    related_group_ids:
+    - ancestor_rites
+    - sacred_exchange
+    reason_existing_groups_insufficient: Sacred_law is too broad and does not preserve
+      the totemic basis of kinship and exogamous obligation.
+- suggestion_id: normalization.suggestion.transient-gift-request-at-a-household
+  motif_id: transient_gift_request_at_a_household
+  label: transient gift request at a household
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A traveler or transient requesting a household gift fits guest-host obligation
+    and hospitality testing.
+  cautions: If no sacred test, reciprocity, or stranger-host obligation is present,
+    it may be only a plot detail.
+  suggested_aliases:
+  - household gift request
+  - traveler gift request
+  - stranger requests gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-stories-through-recitation-travel-writing-and-dictation
+  motif_id: transmission_of_stories_through_recitation_travel_writing_and_dictation
+  label: Transmission of stories through recitation, travel, writing, and dictation
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes modes of story transmission and documentation rather
+    than a narrative or symbolic motif.
+  cautions: Preserve as provenance or transmission metadata; do not use as evidence
+    for motif similarity or borrowing.
+  suggested_aliases:
+  - story transmission through recitation
+  - travel writing and dictation transmission
+  - oral and written transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.travel-across-unstable-ice-by-improvised-crossings
+  motif_id: travel_across_unstable_ice_by_improvised_crossings
+  label: travel across unstable ice by improvised crossings
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a highly specific travel hazard and improvised crossing,
+    but its mythic function is unclear.
+  cautions: May fit hero_journey or initiation if the crossing is an ordeal; otherwise
+    likely a contextual travel detail.
+  suggested_aliases:
+  - unstable ice crossing
+  - improvised ice crossing
+  - perilous ice travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.travel-involving-watercraft-or-river-obstacles
+  motif_id: travel_involving_watercraft_or_river_obstacles
+  label: Travel involving watercraft or river obstacles
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Watercraft and river obstacles point to water as a boundary or passage
+    medium during travel.
+  cautions: Do not map to flood_and_renewal unless catastrophic destruction and renewal
+    are present; may be ordinary journey detail if no transformation or peril.
+  suggested_aliases:
+  - river obstacle passage
+  - watercraft journey
+  - passage by watercraft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.travel-narrative-incorporating-local-legends-and-foundations
+  motif_id: travel_narrative_incorporating_local_legends_and_foundations
+  label: travel narrative incorporating local legends and foundations
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a narrative or compositional feature of a travel
+    account rather than a discrete mythic motif.
+  cautions: Individual embedded local legends or foundation myths may still warrant
+    separate motif indexing under cosmic_origin, culture_hero, or royal_legitimacy.
+  suggested_aliases:
+  - travel narrative with local legends
+  - local foundations in travel narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.travel-prohibition-concerning-sealed-vessel-plugs
+  motif_id: travel_prohibition_concerning_sealed_vessel_plugs
+  label: Travel prohibition concerning sealed vessel plugs
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines travel taboo with a sealed vessel, potentially sacred_law
+    or sacred_vessel, but the function is unclear.
+  cautions: Culturally specific and over-detailed; review source evidence to determine
+    whether this is a ritual prohibition, dangerous container motif, or contextual
+    instruction.
+  suggested_aliases:
+  - sealed vessel travel prohibition
+  - vessel plug taboo
+  - travel taboo with sealed vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several journey-bucket labels are actually hospitality, textual-transmission, water-boundary,
+  or social-order items rather than journey motifs.
+- Totemic kinship labels should receive culturally informed human review before any
+  taxonomy change; a provisional new group is suggested only to preserve meaning if
+  similar labels recur.
+- Highly specific travel-hazard labels should not be promoted without recurrence or
+  evidence of ritual, initiatory, or transformative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive totemic and Navajo taboo labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0233
+  input_sha256: e5c1db8b3ca1e5b7aac019c6cd6a90f9c2c77056b36110d229b748bb182a0bb5
+

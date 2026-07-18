@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0066
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.final-surrender-of-spirit-at-death
+  motif_id: final_surrender_of_spirit_at_death
+  label: final surrender of spirit at death
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on the moment of death as release or surrender of spirit,
+    fitting death as transition or transformation.
+  cautions: Could be a devotional passage detail rather than a recurring motif; if
+    the emphasis is obedience or sacrifice, sacrifice may be a secondary mapping.
+  suggested_aliases:
+  - spirit_surrender_at_death
+  - death_as_release_of_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.final-touch-of-the-dead-child-by-bereaved-parents
+  motif_id: final_touch_of_the_dead_child_by_bereaved_parents
+  label: final touch of the dead child by bereaved parents
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The final contact with a dead child expresses grief and mourning rather
+    than afterlife navigation or resurrection.
+  cautions: Highly episode-specific; preserve as evidence detail unless similar mourning-touch
+    scenes recur across sources.
+  suggested_aliases:
+  - mourning_touch_of_dead_child
+  - bereaved_parents_touch_dead_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-as-punitive-death
+  motif_id: fire_as_punitive_death
+  label: fire as punitive death
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punitive death by fire is best treated as a judgment or moral reckoning
+    pattern when punishment is central.
+  cautions: If the fire renews or destroys a world/order, flood_and_renewal or world_destroying_fire
+    may be relevant; if it is merely a death method, avoid overindexing.
+  suggested_aliases:
+  - punitive_fire_death
+  - death_by_judging_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-death-and-lower-world-rulership-variant
+  motif_id: first_death_and_lower_world_rulership_variant
+  label: First death and lower-world rulership variant
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: low
+  rationale: A first death linked to lower-world rulership concerns the organization
+    of the realm of the dead or postmortem order.
+  cautions: The word 'variant' may signal a comparative note; Navajo lower-world concepts
+    need culturally specific review before final mapping.
+  suggested_aliases:
+  - first_dead_lower_world_ruler
+  - first_death_underworld_rulership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-fate-of-death
+  motif_id: fixed_fate_of_death
+  label: fixed fate of death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: alias
+  confidence: high
+  rationale: The label directly matches death understood as fixed or destined by fate.
+  cautions: Check whether the passage includes personified fate or weaving; if so,
+    fate_figures_cosmic_weaving may be a secondary mapping.
+  suggested_aliases:
+  - fated_death
+  - decreed_death
+  - fixed_death_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.floating-shrouded-corpse
+  motif_id: floating_shrouded_corpse
+  label: floating shrouded corpse
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label names an image of a corpse but does not state its narrative
+    function: omen, haunting, burial denial, water-death, or passage detail.'
+  cautions: May be too specific or source-contextual for pattern queries; review whether
+    it marks restless dead, denied burial, or merely descriptive imagery.
+  suggested_aliases:
+  - shrouded_corpse_afloat
+  - floating_corpse_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flyting-and-death-prophecy-before-battle
+  motif_id: flyting_and_death_prophecy_before_battle
+  label: flyting and death-prophecy before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A verbal contest and prophecy before battle functions as a ritualized
+    combat prelude and doom announcement.
+  cautions: Could also map to prophecy_divination or curse_blessing_speech depending
+    on whether the emphasis is foretelling, performative insult, or battle ordeal.
+  suggested_aliases:
+  - death_prophecy_before_battle
+  - ritual_flyting_before_combat
+  - pre_battle_doom_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.following-spouse-totem-spirit-reconciles-hereditary-descent
+  motif_id: following_spouse_totem_spirit_reconciles_hereditary_descent
+  label: following spouse-totem spirit reconciles hereditary descent
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines spouse, totem spirit, and hereditary descent in a
+    culturally specific way not safely resolved from wording alone.
+  cautions: Requires careful cultural and source review; may involve kinship law,
+    totemic ancestry, spirit guidance, or commentary rather than a general motif.
+  suggested_aliases:
+  - spouse_totem_spirit_descent
+  - totem_spirit_and_hereditary_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-described-as-gift-from-a-star-spirit
+  motif_id: food_described_as_gift_from_a_star_spirit
+  label: food described as gift from a star spirit
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food given by a spirit is a supernatural provision or divine/spirit intervention
+    pattern.
+  cautions: If the star identity is cosmologically central, dream_and_vision, sacred_substance,
+    or cosmic_origin may be relevant; review local star-spirit context.
+  suggested_aliases:
+  - star_spirit_food_gift
+  - food_from_star_spirit
+  - spirit_gift_of_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-disguised-as-a-corpse
+  motif_id: food_disguised_as_a_corpse
+  label: food disguised as a corpse
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate deception, taboo food, trickster strategy, corpse
+    imagery, or ritual inversion, but the function is unclear.
+  cautions: Do not map to death motifs merely because a corpse image appears; source
+    context is needed to determine whether this is trickster, sacred_law, or passage-specific
+    detail.
+  suggested_aliases:
+  - corpse_disguised_food
+  - food_as_corpse_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; preserve granular wording
+  as evidence notes even when mapped to a broad group.
+- Culturally specific Australian Aboriginal totem/spirit labels should receive human
+  review before broad normalization.
+- Do not infer transmission or common origin from these suggested placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human taxonomy review required for
+    ambiguous and culturally sensitive items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0066
+  input_sha256: 308b42244e1ca88f0fbd601fade3d8b367459d9d1c4b9c150add8f0099774770
+

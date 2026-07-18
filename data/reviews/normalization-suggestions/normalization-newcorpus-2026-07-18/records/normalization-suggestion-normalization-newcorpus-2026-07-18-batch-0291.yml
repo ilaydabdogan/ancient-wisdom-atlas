@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0291
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-creator-and-sovereign-first-and-last-speaker
+  motif_id: divine_creator_and_sovereign_first_and_last_speaker
+  label: Divine creator and sovereign first-and-last speaker
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on divine sovereignty and cosmic rulership, with creator
+    speech as an aspect of supreme authority.
+  cautions: Could also support cosmic_origin or curse_blessing_speech if the passage
+    emphasizes creation by word rather than sovereignty.
+  suggested_aliases:
+  - divine_first_and_last_speaker
+  - creator_sovereign_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-decree-assigned-to-angelic-execution
+  motif_id: divine_decree_assigned_to_angelic_execution
+  label: divine decree assigned to angelic execution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Angelic agents carrying out a divine decree are instruments of divine
+    action in human or cosmic affairs.
+  cautions: If the emphasis is fate, predestination, or written decree rather than
+    angelic agency, fate-related or sacred-knowledge placement may be better.
+  suggested_aliases:
+  - angelic_execution_of_divine_decree
+  - divine_command_executed_by_angels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-decree-inscribed-in-a-preserved-record
+  motif_id: divine_decree_inscribed_in_a_preserved_record
+  label: divine decree inscribed in a preserved record
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A preserved record of divine decree concerns sacred writing, hidden knowledge,
+    and authoritative divine inscription.
+  cautions: May also belong with fate_figures_cosmic_weaving or curse_blessing_speech
+    if the passage stresses destiny or performative decree over the preserved record.
+  suggested_aliases:
+  - preserved_record_of_divine_decree
+  - inscribed_divine_decree
+  - heavenly_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-decree-removing-social-blame
+  motif_id: divine_decree_removing_social_blame
+  label: Divine decree removing social blame
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine ruling that removes blame functions as sacred legal or ethical
+    ordering of social responsibility.
+  cautions: Could map to covenant or divine_judgment if the passage frames the decree
+    as divine adjudication rather than legal dispensation.
+  suggested_aliases:
+  - divine_exemption_from_blame
+  - divine_legal_dispensation
+  - sacred_decree_removing_blame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-defense-of-a-sacred-city-and-mountain
+  motif_id: divine_defense_of_a_sacred_city_and_mountain
+  label: Divine defense of a sacred city and mountain
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine protection of a sacred urban-mountain center against threat fits
+    sacred combat and divine warrior defense of cosmic order.
+  cautions: The sacred city and mountain imagery may also support axis_mundi or cosmic_mountain;
+    avoid reducing the place symbolism to combat if defense is secondary.
+  suggested_aliases:
+  - divine_defense_of_sacred_city
+  - god_defends_sacred_mountain
+  - sacred_city_under_divine_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-deflection-of-a-lethal-weapon
+  motif_id: divine_deflection_of_a_lethal_weapon
+  label: divine deflection of a lethal weapon
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A god directly averting a weapon is a clear intervention in mortal affairs.
+  cautions: If the scene primarily establishes heroic invulnerability or battlefield
+    destiny, conditional_invulnerability_hidden_weakness or death_by_fate may be relevant
+    secondary mappings.
+  suggested_aliases:
+  - divine_weapon_deflection
+  - god_averts_lethal_weapon
+  - supernatural_deflection_of_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-deliverance-through-wind-and-unseen-hosts
+  motif_id: divine_deliverance_through_wind_and_unseen_hosts
+  label: Divine deliverance through wind and unseen hosts
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Deliverance through supernatural forces and unseen hosts is direct divine
+    guidance or rescue.
+  cautions: Could also support divine_warrior if the unseen hosts act in battle, or
+    sacred_fire/sacred_waters only if elemental symbolism is foregrounded.
+  suggested_aliases:
+  - divine_deliverance_by_unseen_hosts
+  - supernatural_battle_aid
+  - divine_wind_deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-disarming-before-mortal-killing
+  motif_id: divine_disarming_before_mortal_killing
+  label: divine disarming before mortal killing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity alters the conditions of combat by disarming a figure before
+    a mortal killing.
+  cautions: If the episode centers on heroic combat outcome or sacredly sanctioned
+    death, divine_warrior or death_by_fate may be appropriate secondary groups.
+  suggested_aliases:
+  - god_disarms_victim_before_killing
+  - divine_intervention_in_mortal_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-disclosure-of-a-concealed-secret
+  motif_id: divine_disclosure_of_a_concealed_secret
+  label: Divine disclosure of a concealed secret
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: A hidden matter revealed by divine agency fits sacred knowledge and revelation
+    of concealed truth.
+  cautions: If disclosed in a dream, vision, oracle, or legal judgment, dream_and_vision,
+    prophecy_divination, or divine_judgment may be secondary placements.
+  suggested_aliases:
+  - divine_revelation_of_secret
+  - revealed_concealed_secret
+  - sacred_disclosure_of_hidden_matter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-dispensation-from-oaths
+  motif_id: divine_dispensation_from_oaths
+  label: Divine dispensation from oaths
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Oaths are binding sacred speech acts, and divine release from them modifies
+    that performative bond.
+  cautions: Could also fit sacred_law or covenant if the passage emphasizes legal
+    dispensation, atonement, or restoration of sacred obligation.
+  suggested_aliases:
+  - release_from_oaths
+  - divine_release_from_vow
+  - dispensation_from_sacred_oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern divine decree, legal dispensation, or angelic
+  agency; placements should be checked against passage evidence to distinguish sacred
+  law, sacred knowledge, fate, and direct intervention.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional mappings supplied for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0291
+  input_sha256: 6142d9e6eaea8f5969d9f9a926798e3544407f74405575eeef92ed38330e5398
+

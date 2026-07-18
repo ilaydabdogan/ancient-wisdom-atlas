@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1479
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marine-mammal-hunting-equipment-assemblage
+  motif_id: marine_mammal_hunting_equipment_assemblage
+  label: marine-mammal hunting equipment assemblage
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an ethnographic or material-culture inventory rather
+    than a narrative or symbolic motif.
+  cautions: If the passage gives the equipment ritual, ancestral, transformation,
+    or sacred-power function, re-review under sacred_craft, sacred_treasures, or sacred_exchange.
+  suggested_aliases:
+  - hunting equipment assemblage
+  - marine mammal hunting gear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marital-acceptance-by-verbal-address
+  motif_id: marital_acceptance_by_verbal_address
+  label: marital acceptance by verbal address
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: Acceptance by spoken address suggests a speech act that changes social
+    or marital status.
+  cautions: May instead be a legal/customary detail or courtship episode; map to sacred_love
+    only if the passage centers love, marriage choice, or union rather than the performative
+    utterance.
+  suggested_aliases:
+  - verbal marital acceptance
+  - marriage acceptance by address
+  - performative marriage speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marital-fidelity-under-threat
+  motif_id: marital_fidelity_under_threat
+  label: marital fidelity under threat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on fidelity within a threatened marital bond, fitting
+    love tested under pressure.
+  cautions: If the passage frames fidelity primarily as dharma, vow, or ethical law,
+    sacred_law or covenant may be a better secondary mapping.
+  suggested_aliases:
+  - threatened marital fidelity
+  - spousal fidelity under ordeal
+  - wife or spouse fidelity under threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-catalogue-of-allies-by-appearance-and-equipment
+  motif_id: martial_catalogue_of_allies_by_appearance_and_equipment
+  label: Martial catalogue of allies by appearance and equipment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A catalogue by appearance and equipment is likely a literary enumeration
+    or descriptive passage feature, not a reusable mythic motif.
+  cautions: If specific equipment functions as a sacred treasure or recognition token,
+    index that object separately rather than the catalogue form.
+  suggested_aliases:
+  - martial catalogue
+  - catalogue of allies
+  - warrior equipment catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-display-at-a-wedding-feast
+  motif_id: martial_display_at_a_wedding_feast
+  label: martial display at a wedding feast
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: A formal martial display at a feast may ritualize warrior status and
+    combat readiness in a socially charged setting.
+  cautions: Could be an over-specific episode detail; if the emphasis is marriage
+    alliance or bride-winning, sacred_love may be more relevant.
+  suggested_aliases:
+  - wedding feast martial display
+  - warrior display at wedding
+  - martial performance at feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-display-before-noble-women
+  motif_id: martial_display_before_noble_women
+  label: martial display before noble women
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label may describe warrior performance for spectators, but its mythic
+    function is unclear from wording alone.
+  cautions: May be courtly display, courtship, heroic reputation-building, or a passage-specific
+    descriptive detail; avoid mapping without evidence of ritualized combat or status
+    ordeal.
+  suggested_aliases:
+  - warrior display before women
+  - martial performance before noble women
+  - combat display for female spectators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-display-before-royal-spectators
+  motif_id: martial_display_before_royal_spectators
+  label: Martial display before royal spectators
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: A martial display before royalty may function as public validation of
+    warrior status within royal order.
+  cautions: If the passage centers combat prowess rather than royal authorization,
+    sacred_combat is the better parent; if merely descriptive, exclude as passage
+    detail.
+  suggested_aliases:
+  - warrior display before royalty
+  - martial performance before royal spectators
+  - combat display at court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-duel-displaced-by-verbal-magic
+  motif_id: martial_duel_displaced_by_verbal_magic
+  label: Martial duel displaced by verbal magic
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is magical or performative speech replacing physical
+    combat as the decisive power.
+  cautions: Also related to sacred_combat; do not reduce to combat if the passage
+    emphasizes incantation, curse, song, or verbal power.
+  suggested_aliases:
+  - verbal magic replaces duel
+  - spell duel instead of martial combat
+  - combat displaced by incantation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-summons-by-conch-and-cosmic-tumult
+  motif_id: martial_summons_by_conch_and_cosmic_tumult
+  label: martial summons by conch and cosmic tumult
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A conch summons and cosmic tumult mark warfare as ritually and cosmically
+    charged.
+  cautions: If the sound itself compels, transforms, or summons supernatural powers,
+    enchanting_music or curse_blessing_speech may be useful secondary mappings.
+  suggested_aliases:
+  - conch martial summons
+  - battle summons by conch
+  - cosmic tumult at battle call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-gameboard-of-precious-materials
+  motif_id: marvelous_gameboard_of_precious_materials
+  label: Marvelous gameboard of precious materials
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: low
+  rationale: A marvelous precious object may function as a power object or treasure
+    if it carries authority, enchantment, or otherworldly value.
+  cautions: If it is only decorative inventory or scene description, exclude as an
+    over-specific object detail; if used for fate, contest, or divination, re-review
+    for prophecy_divination or sacred_knowledge.
+  suggested_aliases:
+  - precious gameboard
+  - marvelous board game object
+  - otherworldly gameboard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several martial-display labels are single-occurrence and may be descriptive court
+  or feast details rather than stable motifs; human review should check narrative
+  function before indexing.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions based on labels only; source context should decide
+    whether over-specific martial and object labels remain queryable.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1479
+  input_sha256: '0248f30499e5c55931c2c7d4c948183ec81ddecc1b6862fdf9aef09637fa09a1'
+

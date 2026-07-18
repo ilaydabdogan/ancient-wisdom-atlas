@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1297
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blood-covered-messenger-reports-offstage-massacre
+  motif_id: blood_covered_messenger_reports_offstage_massacre
+  label: Blood-covered messenger reports offstage massacre
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-reporting or staging detail rather than a
+    reusable symbolic motif.
+  cautions: If the passage emphasizes messenger testimony, blood-guilt, or ritual
+    pollution, remap under a relevant narrative group after evidence review.
+  suggested_aliases:
+  - bloody_messenger_report
+  - messenger_reports_massacre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-crying-from-the-ground
+  motif_id: blood_crying_from_the_ground
+  label: blood crying from the ground
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood crying from the ground functions as hidden wrongdoing demanding
+    moral reckoning or divine response.
+  cautions: May also support sacred_law if framed as blood pollution, or curse_blessing_speech
+    if the cry is treated as performative testimony.
+  suggested_aliases:
+  - blood_as_witness
+  - blood_cries_out_for_judgment
+  - murdered_blood_testifies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-explains-a-permanently-red-place
+  motif_id: blood_explains_a_permanently_red_place
+  label: blood explains a permanently red place
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological landscape-color explanation, matching existing
+    place-name and landscape-formation etiologies under cosmic_origin.
+  cautions: Culturally specific Dreaming or ancestral-place evidence should be preserved;
+    if the focus is sacred blood substance rather than place etiology, sacred_substance
+    or sacred_law may be secondary.
+  suggested_aliases:
+  - blood_etiology_for_red_landscape
+  - red_place_explained_by_blood
+  - blood_colored_landscape_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-generated-avenging-or-armed-beings
+  motif_id: blood_generated_avenging_or_armed_beings
+  label: Blood-generated avenging or armed beings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: New beings generated from shed blood are a death-to-life transformation
+    with vengeance or combat function.
+  cautions: If the armed beings chiefly serve cosmic battle, sacred_combat or divine_warrior
+    may be relevant; if cosmogonic, consider primordial_sacrifice.
+  suggested_aliases:
+  - beings_born_from_blood
+  - blood_birth_of_avengers
+  - armed_beings_from_shed_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-guilt-denial-and-acceptance
+  motif_id: blood_guilt_denial_and_acceptance
+  label: blood-guilt denial and acceptance
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Acceptance or denial of blood-guilt centers on moral accountability after
+    violence.
+  cautions: Could be a legal or theological discourse artifact; map to sacred_law
+    if the evidence emphasizes juridical liability rather than divine reckoning.
+  suggested_aliases:
+  - bloodguilt_accountability
+  - denial_of_blood_guilt
+  - acceptance_of_blood_guilt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-origin-red-flower-and-stone-monument
+  motif_id: blood_origin_red_flower_and_stone_monument
+  label: Blood-origin red flower and stone monument
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains natural and monumental features as originating from
+    blood, an etiological landscape/object origin pattern.
+  cautions: Over-specific composite; preserve flower and stone details as evidence.
+    If transformation of the dead is central, death_and_transformation may be secondary.
+  suggested_aliases:
+  - blood_origin_of_red_flower
+  - blood_origin_of_stone_monument
+  - blood_landscape_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-pollution-of-land-and-atonement-by-the-shedder-s-blood
+  motif_id: blood_pollution_of_land_and_atonement_by_the_shedder_s_blood
+  label: Blood pollution of land and atonement by the shedder’s blood
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a purity-law and atonement pattern concerning blood pollution,
+    land, and required reparation.
+  cautions: Also overlaps sacrifice and divine_judgment; choose secondary mappings
+    if the passage stresses sacrificial atonement or punishment.
+  suggested_aliases:
+  - blood_pollution_of_land
+  - atonement_by_shedder_blood
+  - land_polluted_by_bloodguilt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-reddens-the-ford
+  motif_id: blood_reddens_the_ford
+  label: Blood reddens the ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A ford reddened by blood fits the existing ford-duel and combat-crisis
+    complex under sacred_combat.
+  cautions: If the label functions only as landscape color etiology, cosmic_origin
+    may be better; if it marks pollution, sacred_law may be secondary.
+  suggested_aliases:
+  - bloody_ford
+  - ford_reddened_by_blood
+  - bloodstained_combat_ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-signal-that-releases-distant-helpers
+  motif_id: blood_signal_that_releases_distant_helpers
+  label: blood signal that releases distant helpers
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The function could be signal magic, pact activation, spirit release,
+    or helper summons, and no existing group clearly captures it from the label alone.
+  cautions: Review culturally specific evidence before mapping; could relate to divine_intervention,
+    sacred_exchange, curse_blessing_speech, or sacred_substance depending on mechanism.
+  suggested_aliases:
+  - blood_signal_summons_helpers
+  - blood_activated_helper_release
+  - blood_as_summoning_signal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-stanching-incantation
+  motif_id: blood_stanching_incantation
+  label: Blood-stanching incantation
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: An incantation that stops bleeding is a performative speech act producing
+    bodily or ritual effect.
+  cautions: If the source emphasizes healing ritual more than speech power, divine_intervention
+    or sacred_law may be secondary; preserve the blood-stanching function as evidence
+    detail.
+  suggested_aliases:
+  - incantation_to_stop_blood
+  - blood_stopping_charm
+  - healing_spell_stanches_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence blood motifs; preserve local evidence and avoid
+  creating a broad blood taxonomy group unless recurrence shows distinct functions
+  beyond sacred_law, sacrifice, divine_judgment, and sacred_substance.
+- Blood as witness, pollution, generation, combat trace, and etiological coloring
+  should not be merged solely because they share blood imagery.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific Australian Aboriginal and Afro-Caribbean labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1297
+  input_sha256: 1e7ca91321882d1d027d076ecc23be3c19166c068bcb0be9bfb5398da6f899f9
+

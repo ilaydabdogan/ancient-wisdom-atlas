@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0292
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-dream-sent-to-a-human-leader
+  motif_id: divine_dream_sent_to_a_human_leader
+  label: Divine dream sent to a human leader
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dream sent by a divine source functions as revelatory altered perception
+    and guidance.
+  cautions: If the passage emphasizes rulership authorization more than revelation,
+    royal_legitimacy or divine_intervention may be secondary.
+  suggested_aliases:
+  - divine_dream
+  - god_sent_dream
+  - revelatory_dream_to_leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-empowerment-for-war
+  motif_id: divine_empowerment_for_war
+  label: Divine empowerment for war
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine power granted for warfare fits sacred combat and divine-warrior
+    functions.
+  cautions: Could instead be divine_intervention if the focus is aid rather than the
+    warrior role; review culturally specific war-sacred context.
+  suggested_aliases:
+  - divine_battle_empowerment
+  - sacred_empowerment_for_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-empowerment-of-a-favored-champion
+  motif_id: divine_empowerment_of_a_favored_champion
+  label: divine empowerment of a favored champion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A champion favored and empowered by a god belongs with sacred combat
+    and divinely aided warrior figures.
+  cautions: If the episode primarily authorizes status or kingship, royal_legitimacy
+    may be relevant as a secondary mapping.
+  suggested_aliases:
+  - god_favored_champion
+  - divinely_aided_champion
+  - favored_champion_empowered_by_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-empowerment-of-a-warrior-hero
+  motif_id: divine_empowerment_of_a_warrior_hero
+  label: Divine empowerment of a warrior hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: The motif describes a warrior hero strengthened by divine power, a clear
+    divine-warrior/sacred-combat variant.
+  cautions: Do not merge with general divine_intervention unless the combat function
+    is absent.
+  suggested_aliases:
+  - divinely_empowered_warrior
+  - god_aided_warrior_hero
+  - warrior_hero_empowered_by_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-empowerment-of-battle-animals-and-chariot
+  motif_id: divine_empowerment_of_battle_animals_and_chariot
+  label: Divine empowerment of battle animals and chariot
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divinely empowered war gear and animals serve the sacred-combat function
+    of strengthening a warrior in battle.
+  cautions: The chariot/animal details may be over-specific evidence; consider sacred_treasures
+    only if the object itself is the focus.
+  suggested_aliases:
+  - divinely_empowered_chariot
+  - divinely_empowered_battle_animals
+  - god_strengthened_war_chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-empowerment-of-warriors-through-speech-and-touch
+  motif_id: divine_empowerment_of_warriors_through_speech_and_touch
+  label: Divine empowerment of warriors through speech and touch
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Speech and touch are the means by which divine power is conferred for
+    battle, fitting sacred combat.
+  cautions: If the speech act itself binds or transforms independently, curse_blessing_speech
+    may be a secondary relation.
+  suggested_aliases:
+  - divine_touch_empowers_warriors
+  - divine_speech_empowers_warriors
+  - battle_empowerment_by_speech_and_touch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-encouragement-of-warriors
+  motif_id: divine_encouragement_of_warriors
+  label: divine encouragement of warriors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine encouragement of warriors is battlefield aid within the sacred-combat
+    complex.
+  cautions: May be a narrative detail rather than durable motif unless divine encouragement
+    materially changes battle outcome.
+  suggested_aliases:
+  - god_encourages_warriors
+  - divine_battle_exhortation
+  - divine_morale_aid_in_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-enemy-slayers-who-continue-to-aid-humans
+  motif_id: divine_enemy_slayers_who_continue_to_aid_humans
+  label: Divine enemy-slayers who continue to aid humans
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: medium
+  rationale: Enemy-slaying divine figures who continue aiding humans function as protective
+    culture heroes or benefactors.
+  cautions: Could also map to divine_warrior if combat is central, or divine_intervention
+    if continuing aid is emphasized; review Navajo context carefully.
+  suggested_aliases:
+  - divine_enemy_slayer_helpers
+  - protective_enemy_slaying_culture_heroes
+  - divine_slayers_aid_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-enforcer-as-the-eye-of-a-god
+  motif_id: divine_enforcer_as_the_eye_of_a_god
+  label: Divine enforcer as the Eye of a god
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: An agent acting as a god's Eye and enforcer carries out divine punishment
+    or order-maintenance.
+  cautions: Egyptian Eye-of-the-god imagery is culturally specific and may also involve
+    theophany, royal power, or protective divine intervention.
+  suggested_aliases:
+  - eye_of_god_enforcer
+  - divine_eye_as_enforcer
+  - god_eye_punitive_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-epiphany-with-cryptic-rescue-instruction
+  motif_id: divine_epiphany_with_cryptic_rescue_instruction
+  label: Divine epiphany with cryptic rescue instruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine epiphany is a manifestation of sacred presence, here paired
+    with revelatory rescue instruction.
+  cautions: If the rescue instruction drives an initiation or quest episode, initiation
+    or hero_journey may be secondary; preserve cryptic-instruction detail.
+  suggested_aliases:
+  - divine_epiphany_with_instruction
+  - rescue_instruction_from_divine_manifestation
+  - cryptic_divine_rescue_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around divine empowerment in battle; current divine_warrior/sacred_combat
+  groups can hold them without creating a new group.
+- Avoid treating divine aid in warfare as evidence of transmission; these are functional
+  taxonomy placements only.
+- Where labels contain culturally specific divine roles, final review should check
+  source context before collapsing local meanings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for batch 0292.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0292
+  input_sha256: a886546f8f49188761fe9468cc1bd62fe4cf8be8319479c02efffd2298cd2596
+

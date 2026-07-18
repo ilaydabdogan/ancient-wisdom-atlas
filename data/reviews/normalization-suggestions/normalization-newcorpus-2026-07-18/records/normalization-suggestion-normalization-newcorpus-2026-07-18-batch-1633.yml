@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1633
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vanishing-quarry-after-being-shot
+  motif_id: vanishing_quarry_after_being_shot
+  label: Vanishing quarry after being shot
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve animal spirit, failed hunt, transformation, or passage-specific
+    hunting detail; label alone does not identify function.
+  cautions: Single occurrence; review source context before mapping to shapeshifter,
+    divine_intervention, or a hunting/animal-spirit group.
+  suggested_aliases:
+  - disappearing hunted animal
+  - vanishing game after being wounded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vanishing-supernatural-stronghold
+  motif_id: vanishing_supernatural_stronghold
+  label: Vanishing supernatural stronghold
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural stronghold that disappears fits enchanted or otherworldly
+    space unstable at the boundary of ordinary reality.
+  cautions: If the stronghold is primarily a battle target, illusion, or divine intervention
+    episode, secondary review may be needed.
+  suggested_aliases:
+  - disappearing enchanted stronghold
+  - vanishing otherworld fortress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vanishing-supernatural-woman-when-approached-or-mounted
+  motif_id: vanishing_supernatural_woman_when_approached_or_mounted
+  label: vanishing supernatural woman when approached or mounted
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate an enchanted lure, taboo encounter, shapeshifting
+    being, or sexualized supernatural boundary test.
+  cautions: Culturally and contextually sensitive; avoid forcing into sacred_love
+    or shapeshifter without passage evidence.
+  suggested_aliases:
+  - vanishing supernatural woman
+  - disappearing female spirit when approached
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vanquishing-enemies-by-eating-them
+  motif_id: vanquishing_enemies_by_eating_them
+  label: vanquishing enemies by eating them
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Eating enemies is presented as the means of defeating them, so the central
+    function is combat victory through extraordinary consumption.
+  cautions: If ingestion transforms, absorbs power, or has ritual-sacrificial meaning,
+    death_and_transformation or sacrifice may be relevant secondary mappings.
+  suggested_aliases:
+  - enemy defeat by consumption
+  - devouring enemies in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-calendrical-reckonings
+  motif_id: variant_calendrical_reckonings
+  label: variant calendrical reckonings
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes variant calculation or scholarly comparison rather
+    than a narrative or symbolic motif.
+  cautions: If the source passage itself mythologizes calendrical cycles, index that
+    evidence under sacred_time instead.
+  suggested_aliases:
+  - calendar variant reckoning
+  - variant calendar calculation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-genealogy-with-inserted-generation
+  motif_id: variant_genealogy_with_inserted_generation
+  label: variant genealogy with inserted generation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label records a textual or genealogical variant, not a reusable mythic
+    motif.
+  cautions: If an inserted generation has narrative significance for royal legitimacy
+    or ancestry, preserve that separately under the relevant motif.
+  suggested_aliases:
+  - genealogical variant with inserted generation
+  - inserted generation in genealogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-manuscript-endings
+  motif_id: variant_manuscript_endings
+  label: Variant manuscript endings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Manuscript-ending variation is a transmission or editorial artifact rather
+    than a motif pattern.
+  cautions: Specific narrative events in an alternate ending should be indexed separately
+    if needed.
+  suggested_aliases:
+  - alternate manuscript endings
+  - variant textual endings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vast-being-s-object-mistaken-for-a-building
+  motif_id: vast_being_s_object_mistaken_for_a_building
+  label: vast being's object mistaken for a building
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a giant-scale perception motif, but no current group clearly
+    covers giants, scale inversion, or comic misrecognition.
+  cautions: May be an episode-specific detail; review whether it functions as otherworld
+    encounter, trickster humor, or giant lore before adding a group.
+  suggested_aliases:
+  - giant object mistaken for building
+  - scale misrecognition of giant's object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vegetal-golden-lamp-stand-with-seven-lamps
+  motif_id: vegetal_golden_lamp_stand_with_seven_lamps
+  label: vegetal golden lamp stand with seven lamps
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred lampstand with multiple lamps primarily fits divine light and
+    ritual fire imagery.
+  cautions: The object is highly specific and may also function as temple furnishing,
+    world-tree symbolism, or sacred treasure; preserve details as evidence.
+  suggested_aliases:
+  - seven-branched sacred lampstand
+  - vegetal lampstand with seven lamps
+  - menorah as sacred light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-after-enforced-guest-stay
+  motif_id: vengeance_after_enforced_guest_stay
+  label: vengeance after enforced guest-stay
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The enforced guest-stay makes hospitality or guest-right violation the
+    setting for later vengeance.
+  cautions: If the passage emphasizes feud, retaliation, or battle more than guest
+    obligation, sacred_combat or divine_judgment may be secondary.
+  suggested_aliases:
+  - revenge for forced hospitality
+  - vengeance after coerced guesting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; source evidence should
+  decide whether they are motif patterns or passage details.
+- Transmission or manuscript-variant labels are best excluded from motif pattern queries
+  and preserved only as textual provenance.
+reviewer_status:
+  status: needs_human_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human taxonomy review required for
+    ambiguous supernatural encounter and giant-scale items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1633
+  input_sha256: 4a4423cc5a49e38e4120f1ac42555d0e463c291da6152294935ef9e63b76c706
+

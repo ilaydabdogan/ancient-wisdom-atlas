@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1031
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.compelled-apology-after-punitive-victory
+  motif_id: compelled_apology_after_punitive_victory
+  label: compelled apology after punitive victory
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A punitive victory followed by compelled apology may function as moral
+    reckoning and restoration of order.
+  cautions: Single occurrence; could be only a battle-resolution detail unless sacred
+    or moral judgment is explicit.
+  suggested_aliases:
+  - forced apology after defeat
+  - punitive victory and submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compelled-combat-between-foster-brothers-or-friends
+  motif_id: compelled_combat_between_foster_brothers_or_friends
+  label: Compelled combat between foster-brothers or friends
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forced combat between bonded companions fits the tragic crisis structure
+    of ritualized heroic combat.
+  cautions: May also involve fate, geis, kinship tragedy, or violated bonds; confirm
+    combat is ritually or mythically charged, not merely plot conflict.
+  suggested_aliases:
+  - forced combat between friends
+  - compelled duel between foster-brothers
+  - tragic combat between companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.composite-two-part-romance-joined-by-shared-hero
+  motif_id: composite_two_part_romance_joined_by_shared_hero
+  label: composite two-part romance joined by shared hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes narrative composition or redactional structure rather
+    than a symbolic motif.
+  cautions: Preserve as textual/provenance note if useful; do not use as evidence
+    for romance, hero journey, or transmission claims.
+  suggested_aliases:
+  - composite romance structure
+  - two-part romance with shared hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comrades-rescue-and-shield-a-threatened-warrior
+  motif_id: comrades_rescue_and_shield_a_threatened_warrior
+  label: Comrades rescue and shield a threatened warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Comrades protecting a warrior is a heroic battle-function within the
+    divine-warrior or heroic-combat field.
+  cautions: Likely an over-specific combat scene unless it recurs or carries ritual/heroic
+    significance; could also fit sacred_combat if the battle context is central.
+  suggested_aliases:
+  - battlefield rescue of threatened warrior
+  - comrades shield fallen or threatened warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-identity-before-combat
+  motif_id: concealed_identity_before_combat
+  label: concealed identity before combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealed identity before combat belongs with hidden identity and recognition
+    structures when identity affects the duel.
+  cautions: If no recognition token or identity proof appears, it may be only a combat-disguise
+    detail; consider sacred_combat as secondary context.
+  suggested_aliases:
+  - hidden identity before duel
+  - combat under concealed identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-identity-tested-by-behavioral-trials
+  motif_id: concealed_identity_tested_by_behavioral_trials
+  label: Concealed identity tested by behavioral trials
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Behavioral trials are identity proofs, fitting the recognition and hidden-identity
+    group.
+  cautions: If the trial primarily transforms status rather than proves identity,
+    initiation may be a secondary mapping.
+  suggested_aliases:
+  - identity proven by behavioral tests
+  - hidden identity revealed through trials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-innate-token-on-the-hero-s-body
+  motif_id: concealed_innate_token_on_the_hero_s_body
+  label: Concealed innate token on the hero's body
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: An innate bodily mark used as a concealed token is a close variant of
+    recognition by scar or bodily identity proof.
+  cautions: If the mark confers destiny rather than recognition, miraculous_child
+    or royal_legitimacy may be relevant secondary groups.
+  suggested_aliases:
+  - concealed bodily recognition mark
+  - innate body token
+  - recognition by hidden bodily mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-mistreated-heroine-revealed-by-magical-tokens
+  motif_id: concealed_mistreated_heroine_revealed_by_magical_tokens
+  label: concealed mistreated heroine revealed by magical tokens
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Magical tokens reveal a concealed identity, matching the recognition-token
+    group.
+  cautions: The mistreated heroine context may also involve persecuted child/household
+    persecution, but the central motif label is token-based recognition.
+  suggested_aliases:
+  - heroine revealed by magical tokens
+  - magical tokens prove concealed identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-violence-behind-a-diplomatic-invitation
+  motif_id: concealed_violence_behind_a_diplomatic_invitation
+  label: Concealed violence behind a diplomatic invitation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peaceful invitation masking violence turns the breached trust or guest-protection
+    bond into the narrative engine.
+  cautions: Could also fit deceptive war stratagem under trickster if framed as tactical
+    deception rather than violated hospitality or diplomacy.
+  suggested_aliases:
+  - treacherous diplomatic invitation
+  - invitation masking violence
+  - ambush under truce
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-wound-revealed-by-the-weapon-s-need
+  motif_id: concealed_wound_revealed_by_the_weapon_s_need
+  label: Concealed wound revealed by the weapon’s need
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A hidden wound exposed through a weapon belongs broadly to heroic wounds
+    and martial proof within the warrior complex.
+  cautions: Highly specific and culturally contextual; may be better as evidence detail
+    unless the wound functions as identity proof, vulnerability, or geis-related fate.
+  suggested_aliases:
+  - hidden wound revealed by weapon
+  - concealed heroic wound exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence combat-scene labels; preserve as evidence details
+  unless recurrence or mythic function is confirmed.
+- Identity-token items should generally prefer recognition_tokens_hidden_identity
+  over generic conflict placement when recognition or proof is central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context for
+    combat, identity, and betrayal functions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1031
+  input_sha256: 841a36c7bcfd02aa100b41ebb22f2d0001ade5949525ebd839dcf4a7c950c391
+

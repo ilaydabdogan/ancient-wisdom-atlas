@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0554
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tournament-prize-claimed-on-behalf-of-a-maiden
+  motif_id: tournament_prize_claimed_on_behalf_of_a_maiden
+  label: Tournament prize claimed on behalf of a maiden
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve courtly love, contest reward, or legal speech/claim,
+    but the narrative function is unclear from the wording alone.
+  cautions: Single occurrence and possibly episode-specific; avoid mapping to sacred_love
+    or royal_legitimacy without passage evidence.
+  suggested_aliases:
+  - tournament prize claimed for a lady
+  - prize claimed on behalf of maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tournament-prize-contested-through-a-beloved-lady-s-claim
+  motif_id: tournament_prize_contested_through_a_beloved_lady_s_claim
+  label: Tournament prize contested through a beloved lady's claim
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to combine contest adjudication, courtly love, and a speech
+    claim; no existing group clearly captures the whole function.
+  cautions: Single occurrence and highly contextual; may be an evidence detail under
+    sacred_love, sacred_combat, or royal_legitimacy depending on source context.
+  suggested_aliases:
+  - beloved lady claims tournament prize
+  - contested tournament prize through lady's claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-or-restoration-of-an-epithet-between-same-named-figures
+  motif_id: transfer_or_restoration_of_an_epithet_between_same_named_figures
+  label: Transfer or restoration of an epithet between same-named figures
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an onomastic or editorial observation about names
+    and epithets rather than a narrative motif.
+  cautions: If the passage uses name restoration as identity proof or royal legitimation,
+    remap to recognition_tokens_hidden_identity or royal_legitimacy after review.
+  suggested_aliases:
+  - epithet transfer between same-named figures
+  - restored epithet between namesakes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-counsel-against-a-loyal-ally
+  motif_id: treacherous_counsel_against_a_loyal_ally
+  label: treacherous counsel against a loyal ally
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Treacherous advice against a loyal ally makes violated trust and betrayal
+    the central engine.
+  cautions: Could also involve royal court intrigue or performative speech; verify
+    whether the betrayal, not merely bad advice, drives the episode.
+  suggested_aliases:
+  - treacherous advice against loyal ally
+  - counsel betrays loyal ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-counsel-to-surround-and-kill-a-lone-hero
+  motif_id: treacherous_counsel_to_surround_and_kill_a_lone_hero
+  label: treacherous counsel to surround and kill a lone hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on deceptive counsel leading to the betrayal and killing
+    of a vulnerable hero.
+  cautions: If the source emphasizes combat tactics rather than broken trust, sacred_combat
+    may be a secondary or better placement.
+  suggested_aliases:
+  - treacherous advice to kill lone hero
+  - ambush counsel against lone hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-counsellor-incites-royal-kin-slaying
+  motif_id: treacherous_counsellor_incites_royal_kin_slaying
+  label: Treacherous counsellor incites royal kin-slaying
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A counsellor's betrayal incites lethal rupture within kinship and royal
+    trust networks.
+  cautions: Royal succession or legitimacy may be important in context; consider royal_legitimacy
+    if the episode determines rule or inheritance.
+  suggested_aliases:
+  - treacherous counselor incites kin-slaying
+  - evil counsellor prompts royal kin murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-dwelling-maiden-enticed-to-descend-by-speech-and-talisman
+  motif_id: tree_dwelling_maiden_enticed_to_descend_by_speech_and_talisman
+  label: Tree-dwelling maiden enticed to descend by speech and talisman
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines tree/axis imagery, persuasive speech, talismanic object,
+    and maiden descent, with no clear dominant function.
+  cautions: May fit axis_mundi, sacred_treasures, sacred_love, trickster, or recognition_tokens_hidden_identity
+    depending on evidence; over-specific composite label.
+  suggested_aliases:
+  - maiden in tree enticed downward
+  - tree maiden lured by speech and talisman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribal-organization-through-named-gentes
+  motif_id: tribal_organization_through_named_gentes
+  label: tribal organization through named gentes
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe social-order classification or ethnographic organization
+    rather than a mythic narrative motif.
+  cautions: Culturally sensitive and source-dependent; if it explains named clan origins,
+    cosmic_origin/ancestral origins may fit, but do not infer that from the label
+    alone.
+  suggested_aliases:
+  - organization through named gentes
+  - named gentes as tribal organization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trick-as-named-story-action
+  motif_id: trick_as_named_story_action
+  label: Trick as named story action
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A named trick action fits the trickster/deception complex if it is an
+    actual narrative act.
+  cautions: The wording may be a generated label or story-action tag rather than a
+    reusable motif; exclude if it only marks plot mechanics.
+  suggested_aliases:
+  - named trick action
+  - trick as story action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truce-secured-by-token-oath-and-provisions
+  motif_id: truce_secured_by_token_oath_and_provisions
+  label: Truce secured by token, oath, and provisions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A truce secured by oath and exchange objects functions as a binding agreement
+    that organizes social order.
+  cautions: If the token mainly proves identity or authority, recognition_tokens_hidden_identity
+    or sacred_treasures may be secondary mappings.
+  suggested_aliases:
+  - oath-secured truce with token
+  - truce sealed by token and provisions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, courtly or episode-specific labels; human review
+  should check whether they are reusable motifs or evidence notes.
+- The review bucket appears broad/misaligned for many items; placements prioritize
+  motif function over the supplied bucket.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0554
+  input_sha256: 7b51ba86215a033d4a36eeab9bb07237ff7a6dcff2e44b05e5b35ed6ee58064d
+

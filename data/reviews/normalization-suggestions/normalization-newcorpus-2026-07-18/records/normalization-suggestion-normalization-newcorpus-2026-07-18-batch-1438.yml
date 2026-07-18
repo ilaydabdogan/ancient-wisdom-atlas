@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1438
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ice-edge-and-tide-hole-hunting-landscape
+  motif_id: ice_edge_and_tide_hole_hunting_landscape
+  label: ice-edge and tide-hole hunting landscape
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a culturally specific subsistence landscape rather
+    than a symbolic motif; function is unclear from wording alone.
+  cautions: Review Inuit source context carefully; avoid reducing hunting ecology
+    to generic sacred waters or boundary motifs without evidence of ritual, transformation,
+    or passage.
+  suggested_aliases:
+  - ice-edge hunting landscape
+  - tide-hole hunting landscape
+  - sea-ice hunting boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ice-mediated-routes-and-boundaries
+  motif_id: ice_mediated_routes_and_boundaries
+  label: ice-mediated routes and boundaries
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ice may function as route, threshold, seasonal environment, or ethnographic
+    setting; the motif function is not specified.
+  cautions: Do not map to sacred_waters or threshold_guardian unless the passage shows
+    boundary crossing, danger, ritual significance, or transformation.
+  suggested_aliases:
+  - ice routes and boundaries
+  - sea-ice routes
+  - ice as boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_time
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-abundant-realm-contrasted-with-the-ordinary-land
+  motif_id: ideal_abundant_realm_contrasted_with_the_ordinary_land
+  label: Ideal abundant realm contrasted with the ordinary land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: An ideal abundant realm contrasted with ordinary land fits the enchanted
+    otherworld or blessed realm pattern already represented in the group.
+  cautions: If the passage is only utopian moral comparison rather than an accessed
+    otherworld, consider sacred_love, sacred_time, or exclusion as commentary.
+  suggested_aliases:
+  - abundant otherworld
+  - ideal abundant realm
+  - marvelous abundant land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.identical-castle-attendants
+  motif_id: identical_castle_attendants
+  label: Identical castle attendants
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Identical attendants may signal enchantment, doubling, or a passage-specific
+    court detail, but the narrative function is unclear.
+  cautions: Could be otherworldly atmosphere, duality, disguise, or merely descriptive;
+    source evidence is needed before mapping.
+  suggested_aliases:
+  - doubling of castle attendants
+  - identical attendants
+  - enchanted identical retainers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - duality
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.identity-confusion-after-loss-of-clothing
+  motif_id: identity_confusion_after_loss_of_clothing
+  label: identity confusion after loss of clothing
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of clothing causing identity confusion concerns visible markers
+    of identity and recognition failure.
+  cautions: If clothing loss causes species or status transformation, shapeshifter
+    may be a secondary mapping; if it is only comic nudity or humiliation, it may
+    be too contextual.
+  suggested_aliases:
+  - identity loss through clothing loss
+  - clothing as identity marker
+  - recognition failure after loss of clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.identity-tokens-retained-from-infancy
+  motif_id: identity_tokens_retained_from_infancy
+  label: Identity tokens retained from infancy
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: Tokens preserved from infancy are classic identity proofs supporting
+    later recognition of kinship, status, or origin.
+  cautions: May also relate to miraculous_child if the infancy context includes threatened
+    or sacred destiny; keep token function primary.
+  suggested_aliases:
+  - infancy identity tokens
+  - childhood recognition tokens
+  - tokens retained from infancy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idleness-prevents-gain
+  motif_id: idleness_prevents_gain
+  label: idleness prevents gain
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label reads as a wisdom or ethical teaching about conduct and consequence
+    rather than a narrative event.
+  cautions: If the passage is a proverb only, consider whether it should remain as
+    wisdom evidence rather than a query motif; sacred_law may fit if framed as obligation.
+  suggested_aliases:
+  - idleness blocks gain
+  - sloth prevents reward
+  - industry over idleness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol-destroyed-by-saint
+  motif_id: idol_destroyed_by_saint
+  label: idol destroyed by saint
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Idol destruction by a holy figure may express divine judgment, sacred
+    combat, reform, or hagiographic polemic; taxonomy already flags idol labels for
+    review.
+  cautions: Culturally and religiously sensitive; avoid treating the idol as only
+    forbidden knowledge. Review whether this is narrative miracle, anti-idolatry reform,
+    local cult suppression, or textual polemic.
+  suggested_aliases:
+  - saint destroys idol
+  - holy figure demolishes idol
+  - idol demolition by saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol-destruction-by-a-reforming-prophet
+  motif_id: idol_destruction_by_a_reforming_prophet
+  label: idol destruction by a reforming prophet
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: A prophet destroying idols may fit sacred law, covenantal reform, or
+    divine judgment, but the current idol alias requires human review.
+  cautions: Religiously sensitive and context-dependent; distinguish prophetic reform
+    narrative from commentary on other traditions or polemical classification.
+  suggested_aliases:
+  - prophet destroys idols
+  - reforming prophet demolishes idols
+  - anti-idolatry reform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_judgment
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol-intercession-rejected-and-idols-demolished
+  motif_id: idol_intercession_rejected_and_idols_demolished
+  label: Idol intercession rejected and idols demolished
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines rejection of intercession with idol demolition, suggesting
+    sacred law or divine judgment but needing source context.
+  cautions: Composite and religiously sensitive; review whether the focus is failed
+    intercession, reform of worship, divine judgment, or an episode-specific polemical
+    detail.
+  suggested_aliases:
+  - rejected idol intercession
+  - idols demolished after rejected intercession
+  - anti-idol intercession rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_judgment
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; recommendations should
+  be treated as provisional review placements, not taxonomy edits.
+- Ice-related Inuit labels require source-sensitive human review because they may
+  be ecological/subsistence setting details rather than symbolic motifs.
+- Idol-destruction labels should be reviewed carefully for religious polemic, hagiographic
+  convention, and whether a durable anti-idolatry/reform group is needed.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1438
+  input_sha256: bccc8790f47df9650c08ab83abc536c79fc0f6821153d60e9e68cfbfbd8a80ee
+

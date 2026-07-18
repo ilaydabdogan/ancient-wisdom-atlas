@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.native-american-tlingit-myths-texts-swanton-gutenberg-l21297-l21347
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 21297-21347'
+  start: '21297'
+  end: '21347'
+  translation: Tlingit Myths and Texts
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“He is really a man of the rocks.” ... “Don’t you see it was a rock man’s
+    son?”"
+  summary: A community returns a saved male to the rock where he was found. After
+    he is placed back on the same rock, the rescuers return home, the rain stops,
+    the world is calm, and townspeople explain him as a rock man's son.
+  language: English with romanized Tlingit interlinear text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The town people say of the male that he is really a man of the rocks.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The town people agree to take him back to the place where he had been found.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After he had been brought in, the weather was very rainy.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The people who saved him get into a canoe, carry him back, and put him on
+    the same rock from which they had taken him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the rescuers return home, the world is calm and the rain has ceased.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The town people ask one another what it had been, no one knows, and they finally
+    say it was a rock man's son.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed saved male
+  description: A male referred to as “him,” saved by people, returned to the same
+    rock, and identified in speech as a man of the rocks or a rock man's son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: town people
+  description: The community who agree to return the male, talk about the event, ask
+    what it was, and offer the explanation that he was a rock man's son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: people who saved him
+  description: The people who saved the male, travel by canoe, carry him back, put
+    him on the same rock, and return home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: rock man
+  description: A speech-referenced figure implied by the town people's final phrase
+    “a rock man's son.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: rock-associated returned person
+  assigned_to:
+  - fig:1
+  basis: He is called a man of the rocks and a rock man's son, and is returned to
+    the same rock where he was found.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: community witnesses and interpreters
+  assigned_to:
+  - fig:2
+  basis: They agree to return him, discuss the event, and give the final explanation.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: rescuers and carriers
+  assigned_to:
+  - fig:3
+  basis: They had saved him, transport him by canoe, set him on the rock, and go home.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: asserted rock parent
+  assigned_to:
+  - fig:4
+  basis: The town people's final explanation calls the returned male a rock man's
+    son.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: same rock
+  literal_form: The very same rock from which he had been taken and on which he is
+    placed again.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: canoe
+  literal_form: The canoe used by the people who saved him to carry him back.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rain
+  literal_form: Very rainy weather before the return, followed by rain ceasing after
+    the return.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Recognition and decision to return
+  summary: The town people describe the saved male as a man of the rocks and agree
+    to take him back to the place where he was found.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Canoe journey back to the rock
+  summary: In rainy conditions, the people who saved him travel by canoe and place
+    him on the same rock from which he had been taken.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Calm after return and communal explanation
+  summary: The rescuers return home, the world is calm, the rain has ceased, and the
+    town people conclude that the male was a rock man's son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Return to the place where found
+  taxonomy_refs:
+  - return
+  basis: The community decides to take the saved male back and the rescuers put him
+    on the very same rock from which he had been taken.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes the return clearly, but does not state a formal
+    ritual procedure.
+- id: motif:2
+  label: Rock-associated child or kin
+  taxonomy_refs: []
+  basis: The male is called a man of the rocks and later explained as a rock man's
+    son.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The identification is the town people's conclusion after uncertainty;
+    no rock parent acts directly in this passage.
+- id: motif:3
+  label: Calming of weather after restoration to origin
+  taxonomy_refs: []
+  basis: The passage says it was very rainy before the return, then after he is put
+    back and the rescuers reach home, the world is calm and the rain has ceased.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The causal connection is suggested by narrative sequence, but the passage
+    does not explicitly explain the mechanism.
+comparison_claims:
+- id: claim:1
+  claim: At a broad functional level, the episode fits a return pattern in which an
+    anomalous or other-than-human-associated person is restored to an original place
+    and normal conditions follow.
+  claim_level: same_function
+  target: return motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison only; the passage provides no external
+    parallel, transmission evidence, or explicit taxonomy.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 21297-21347
+  quote_or_summary: "“He is really a man of the rocks.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 21297-21347
+  quote_or_summary: The town people agree to take him back to where he had been found;
+    the rescuers carry him by canoe and put him on the same rock from which he had
+    been taken.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: 21297-21347
+  quote_or_summary: "“After he had been brought in it was very rainy.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: 21297-21347
+  quote_or_summary: "“The world was now calm. The rain also had ceased.”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: 21297-21347
+  quote_or_summary: "“What could it have been?” ... “Don’t you see it was a rock man’s
+    son?”"
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and figures are clear. Motif labels involving rock kinship
+    and weather restoration require human review because the passage gives a communal
+    explanation but limited causal interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact claim is made.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-tlingit-myths-texts-swanton-gutenberg__l21297-l21347
+  passage_sha256=dfb2c60b6c5c2ce5b3f5c9f697c26d6acc46390ed8591b70badaa43f1840795c
+

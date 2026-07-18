@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0333
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-god-made-from-precious-metal
+  motif_id: false_god_made_from_precious_metal
+  label: false god made from precious metal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A precious-metal false god is an object of contested sacred power, close
+    to the existing idol child under sacred_treasures.
+  cautions: Could instead be sacred_law or divine_judgment if the passage focuses
+    on prohibition or condemnation rather than the object.
+  suggested_aliases:
+  - metal idol
+  - precious-metal idol
+  - false god as crafted object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-gods-as-lifeless-created-objects
+  motif_id: false_gods_as_lifeless_created_objects
+  label: False gods as lifeless created objects
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label treats false gods as manufactured sacred objects, matching
+    the idol/object side of sacred_treasures.
+  cautions: If the main function is polemic against idolatry or createdness, source
+    review may prefer sacred_law or divine_judgment.
+  suggested_aliases:
+  - lifeless idols
+  - created false gods
+  - false gods as objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-gods-challenged-by-proof-and-cosmic-ruin
+  motif_id: false_gods_challenged_by_proof_and_cosmic_ruin
+  label: False gods challenged by proof and cosmic ruin
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The challenge to false gods and associated cosmic ruin functions as sacred
+    reckoning against false worship.
+  cautions: Composite label; if cosmic ruin is eschatological, flood_and_renewal or
+    world_ages_cosmic_decline may be secondary, but not implied by wording alone.
+  suggested_aliases:
+  - false gods judged
+  - idols challenged by proof
+  - false worship and cosmic ruin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-patrons-fail-before-divine-sovereignty
+  motif_id: false_patrons_fail_before_divine_sovereignty
+  label: False patrons fail before divine sovereignty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif contrasts failed lesser patrons with ultimate divine sovereignty,
+    fitting the cosmic-sovereignty group.
+  cautions: Could be divine_judgment if the passage emphasizes punishment or exposure
+    rather than sovereignty itself.
+  suggested_aliases:
+  - false patrons defeated by divine sovereignty
+  - failed protectors before supreme ruler
+  - false intercessors fail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-profession-exposed-by-divine-witness
+  motif_id: false_profession_exposed_by_divine_witness
+  label: false profession exposed by divine witness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A false claim exposed by divine witness is a clear moral reckoning and
+    disclosure of hidden wrongdoing.
+  cautions: If the witness is specifically a cosmic witness, duality may be a secondary
+    relation; passage evidence needed.
+  suggested_aliases:
+  - hypocrisy exposed by divine witness
+  - false claim exposed
+  - divine witness reveals false profession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-prophecy-claiming-divine-authorization
+  motif_id: false_prophecy_claiming_divine_authorization
+  label: false prophecy claiming divine authorization
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: The label concerns a prophetic role or claim to divine authorization,
+    even though the claim is false.
+  cautions: If the passage centers on condemnation of deception, divine_judgment should
+    be secondary.
+  suggested_aliases:
+  - false prophecy
+  - false prophet claims divine sanction
+  - unauthorized prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-sacred-restrictions-over-food-and-animals
+  motif_id: false_sacred_restrictions_over_food_and_animals
+  label: False sacred restrictions over food and animals
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Food and animal restrictions are ritual/legal rules, here marked as false
+    or unauthorized sacred law.
+  cautions: May overlap with divine_judgment if the passage emphasizes punishment
+    for inventing prohibitions.
+  suggested_aliases:
+  - false dietary restrictions
+  - unauthorized food taboos
+  - false animal prohibitions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-sale-or-corruption-of-sacred-writing
+  motif_id: false_sale_or_corruption_of_sacred_writing
+  label: false sale or corruption of sacred writing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred writing is a vehicle of sacred knowledge, and its corruption concerns
+    misuse or concealment of that knowledge.
+  cautions: Could be a textual-artifact note if about manuscript transmission rather
+    than moral corruption within the narrative or teaching.
+  suggested_aliases:
+  - corruption of scripture
+  - sale of sacred writing
+  - misuse of sacred text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-sanctuary-that-harms-and-divides-the-faithful
+  motif_id: false_sanctuary_that_harms_and_divides_the_faithful
+  label: False sanctuary that harms and divides the faithful
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sanctuary functions as a sacred center, here inverted into a harmful
+    or divisive false center.
+  cautions: If the emphasis is communal betrayal or legal condemnation, betrayal_violated_trust
+    or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - false sanctuary
+  - divisive sanctuary
+  - harmful sacred center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-teaching-as-harmful-growth-outside-divine-planting
+  motif_id: false_teaching_as_harmful_growth_outside_divine_planting
+  label: false teaching as harmful growth outside divine planting
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: False teaching is a corrupted form of transmitted sacred knowledge, expressed
+    through plant-growth metaphor.
+  cautions: Preserve the planting/growth image as evidence detail; do not map to sacred_tree_axis
+    unless the plant functions as a cosmic connector.
+  suggested_aliases:
+  - false teaching as harmful growth
+  - corrupt doctrine as alien planting
+  - teaching outside divine planting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels share an idolatry/false-authority theme, but existing groups can
+  provisionally hold them without creating a new group.
+- For Islamic and biblical polemical labels, review should distinguish object motif,
+  legal prohibition, prophecy claim, and divine judgment rather than merging all under
+  idolatry.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-model
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    labels are narrative motifs, doctrinal polemic, or commentary artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0333
+  input_sha256: fc9bd4eaf64e310f217bb3eeffb681aa5046fb279b343afecca09cd659d95643
+

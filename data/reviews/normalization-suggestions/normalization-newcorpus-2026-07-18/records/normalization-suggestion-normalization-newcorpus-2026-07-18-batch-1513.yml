@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1513
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.overwhelming-odds-in-a-walled-stronghold
+  motif_id: overwhelming_odds_in_a_walled_stronghold
+  label: Overwhelming odds in a walled stronghold
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A siege or defense against overwhelming odds is a martial ordeal, best
+    held under the broad sacred combat group.
+  cautions: May be an episode-specific battle detail unless the stronghold or odds
+    have ritual or mythic significance.
+  suggested_aliases:
+  - siege_against_overwhelming_odds
+  - heroic_defense_of_a_stronghold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-supernatural-arrow-volley
+  motif_id: overwhelming_supernatural_arrow_volley
+  label: overwhelming supernatural arrow volley
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural weapon attack in battle fits divine or heroic sacred combat
+    imagery.
+  cautions: Could instead be a specific weapon episode under sacred_combat; confirm
+    whether the arrows are divine, magical, or merely hyperbolic.
+  suggested_aliases:
+  - supernatural_arrow_volley
+  - divine_weapon_volley
+  - overwhelming_arrow_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pack-that-summons-an-army
+  motif_id: pack_that_summons_an_army
+  label: Pack that summons an army
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A pack that can summon an army is a power object conferring supernatural
+    military aid.
+  cautions: If the pack is mainly a container releasing beings, sacred_vessel may
+    be a secondary fit.
+  suggested_aliases:
+  - magic_pack_summons_army
+  - army_summoning_object
+  - supernatural_pack_of_soldiers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pagan-christian-dialogue-frame
+  motif_id: pagan_christian_dialogue_frame
+  label: Pagan-Christian dialogue frame
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a literary or religious dialogue frame rather than
+    a mythic narrative motif.
+  cautions: Preserve as contextual or reception metadata if useful; do not use as
+    evidence for motif comparison.
+  suggested_aliases:
+  - religious_dialogue_frame
+  - conversion_dialogue_frame
+  - pagan_christian_framing_device
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-archer-deities
+  motif_id: paired_archer_deities
+  label: Paired archer deities
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: role_variant
+  confidence: medium
+  rationale: The main reusable feature is the divine pair; archer role is a local
+    specification.
+  cautions: If they are siblings or twins, sacred_twins may be better; if the focus
+    is plague or combat by arrows, divine_warrior may be secondary.
+  suggested_aliases:
+  - divine_archer_pair
+  - paired_bow_deities
+  - twin_archer_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-differently-described-human-figures
+  motif_id: paired_differently_described_human_figures
+  label: paired differently described human figures
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only indicates a descriptive pair, without clear narrative
+    function or symbolic opposition.
+  cautions: May be a passage artifact, character description, duality motif, sibling
+    pair, or recognition contrast depending on context.
+  suggested_aliases:
+  - contrasting_human_pair
+  - differentiated_pair_of_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-figures
+  motif_id: paired_figures
+  label: Paired figures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: broader_label
+  confidence: medium
+  rationale: A generic pair is best held under duality when no sibling, twin, or functional
+    role is specified.
+  cautions: Too broad for precise indexing; review passage for sacred twins, divine
+    pair, combat pair, lovers, or mere character listing.
+  suggested_aliases:
+  - figure_pair
+  - paired_beings
+  - mythic_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-guardians-with-alternating-sleep
+  motif_id: paired_guardians_with_alternating_sleep
+  label: paired guardians with alternating sleep
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif centers on guardianship of a boundary or protected place, with
+    alternating sleep as the specific mechanism.
+  cautions: If no guarded threshold or passage is involved, it may be an over-specific
+    episode detail under duality or paired figures.
+  suggested_aliases:
+  - alternating_sleep_guardians
+  - paired_watchmen
+  - ever_watched_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-rabbit-figures
+  motif_id: paired_rabbit_figures
+  label: paired rabbit figures
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal identity and pairing but gives no narrative
+    function such as trickster, helper, twin, or opposition.
+  cautions: Culturally specific animal figures should not be flattened into generic
+    duality or trickster without source evidence.
+  suggested_aliases:
+  - rabbit_pair
+  - paired_hare_figures
+  - rabbit_twins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-sevenfold-companies
+  motif_id: paired_sevenfold_companies
+  label: paired sevenfold companies
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label signals paired groups and numerological structure, but the
+    motif function is not clear from the wording.
+  cautions: May fit duality, sacred combat, ritual company structure, or a passage-specific
+    enumeration; source context is needed.
+  suggested_aliases:
+  - paired_groups_of_seven
+  - sevenfold_companies_in_pair
+  - dual_sevenfold_bands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence martial or pairing labels; preserve local details
+  but avoid promoting over-specific battle scenes or character listings without recurrence.
+- Generic paired-figure labels should be reviewed for function before mapping to duality,
+  sacred_twins, sacred_love, or sacred_combat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for low-context paired
+    and culturally specific animal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1513
+  input_sha256: 4603b8b21644078a746a5e6ef180bdb895d1509c51602c9fb56d3e0f8a1ffafe
+

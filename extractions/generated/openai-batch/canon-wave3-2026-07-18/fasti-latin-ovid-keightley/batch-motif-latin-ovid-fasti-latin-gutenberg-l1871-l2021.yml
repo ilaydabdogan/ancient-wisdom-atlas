@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l1871-l2021
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: MAIUS. LIB. V. / JUNIUS. LIB. VI. / P. OVIDII NASONIS FASTORUM / LIBER I.;
+    lines 1871-2021
+  start: '1871'
+  end: '2021'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Pax ades, et toto mitis in orbe mane.
+  summary: The poem turns to the altar of Peace, invokes Pax as garlanded with Actian
+    foliage, asks that enemies and triumphs cease, describes arms restrained by arms
+    and trumpets used only in procession, and commands priests to offer incense, a
+    white victim, and prayers that the house providing peace may endure with peace.
+    The speaker then closes the first part of the work with its month.
+  language: Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The poem says its own song leads the speaker to the altar of Peace.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated date is the second day from the end of the month.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pax is addressed as garlanded around her hair with Actian foliage and is asked
+    to be present and remain gentle throughout the world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says that when enemies are lacking, the cause for triumph should
+    also be lacking, and that Peace will be a greater glory for commanders than war.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The soldier is told to bear arms only with which to restrain arms, and the
+    trumpet is to be heard only as part of a procession.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Priests are instructed to add incense to peaceful flames and a white victim
+    is to fall after being struck on the forehead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The priests are told to ask the gods with pious vows that the house which
+    provides peace may endure together with peace.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The speaker states that the first part of his labor is complete and that the
+    small book ends with its month.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pax
+  description: Peace personified, garlanded with Actian foliage, invoked to be present
+    and remain gentle throughout the world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: sacerdotes
+  description: Priests addressed by the speaker and instructed to add incense to flames
+    and to ask the gods with vows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: miles
+  description: A soldier who is to bear arms only for restraining arms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: duces
+  description: Commanders for whom Peace is said to be a greater glory than war.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: dei
+  description: Gods to be asked with pious vows for the endurance of the house and
+    peace.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: domus quae praestat pacem
+  description: The house that provides peace and for whose endurance prayers are requested.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Aeneadae / Roma
+  description: The Aeneadae and Rome are mentioned as the objects of the world's fear
+    or love.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: personified peace invoked as divine presence
+  assigned_to:
+  - fig:1
+  basis: Pax is directly addressed, described with garlanded hair, and asked to come
+    and remain gentle over the whole world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual officiants
+  assigned_to:
+  - fig:2
+  basis: The priests are commanded to add incense to flames and to ask the gods with
+    vows.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: armed restrainer of arms
+  assigned_to:
+  - fig:3
+  basis: The soldier is told to carry arms only with which to restrain arms.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipients of peaceful glory
+  assigned_to:
+  - fig:4
+  basis: Peace is said to be a greater glory for commanders than war.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine recipients of vows
+  assigned_to:
+  - fig:5
+  basis: The passage instructs priests to ask the gods with pious vows.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: house linked to the endurance of peace
+  assigned_to:
+  - fig:6
+  basis: The prayer asks that the house which provides peace may endure with peace.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Roman collective named through Aeneadic descent
+  assigned_to:
+  - fig:7
+  basis: The passage says the world should fear the Aeneadae and, if any land fears
+    Rome too little, should love her.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: altar of Peace
+  literal_form: Pacis ara
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Actian foliage
+  literal_form: frondes Actiacae garlanding Pax's hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sacrificial flames
+  literal_form: pacalibus flammis
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: incense
+  literal_form: tura added by priests
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: white sacrificial victim
+  literal_form: alba victima with struck forehead falling
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: arms restrained by arms
+  literal_form: arma carried only to coerce arma
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: processional trumpet
+  literal_form: tuba heard only in pompa
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Arrival at the altar and invocation of Pax
+  summary: The speaker says the poem leads to the altar of Peace, gives the calendar
+    placement, and invokes Pax as garlanded with Actian foliage to be present and
+    gentle throughout the world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Peace displacing war and triumph
+  summary: The speaker asks that absence of enemies remove the cause of triumph, presents
+    Peace as greater glory for commanders than war, restricts the soldier's arms to
+    restraining arms, and limits the trumpet to procession.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sacrifice and vows for enduring peace
+  summary: Priests are instructed to add incense to peaceful flames, offer a white
+    victim, and pray to the gods that the house providing peace may endure with peace.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Closure of the book's first part
+  summary: The speaker says the first part of the work is finished and the small book
+    ends together with its month.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: personified Peace invoked at an altar
+  taxonomy_refs: []
+  basis: Pax is treated as an addressed presence with garlanded hair and is invoked
+    at the altar of Peace to remain gentle across the world.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage personifies Pax clearly, but does not provide a broader mythic
+    narrative about her origin or deeds.
+- id: motif:2
+  label: ritual sacrifice for peace
+  taxonomy_refs:
+  - sacrifice
+  basis: Priests offer incense, sacrificial flames, and a white victim, and make pious
+    vows connected to peace.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes ritual actions concisely and does not narrate the
+    full sacrificial procedure.
+- id: motif:3
+  label: offerings and vows seeking divine support
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Material offerings and prayers to the gods are directed toward the requested
+    endurance of the house and peace.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The reciprocal logic is implied by prayer and offering, but no explicit
+    divine promise or response appears in the excerpt.
+- id: motif:4
+  label: political house legitimized by peace
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage asks the gods that the house which provides peace may endure
+    with peace, linking political continuity with the cultic appeal to Peace.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt names the house only generically as 'domus' and does not explicitly
+    identify a dynasty within the quoted lines.
+- id: motif:5
+  label: war instruments converted to peaceful order
+  taxonomy_refs: []
+  basis: The soldier's arms are restricted to restraining arms, and the trumpet is
+    to be sounded only in procession rather than battle.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a civic-poetic motif of pacification rather than a full mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1871-1874; Fasti I.709-712
+  quote_or_summary: The song leads to the altar of Peace; the date is given as the
+    second day from the end of the month; Pax, garlanded with Actian foliage, is asked
+    to come and remain gentle throughout the world.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1875-1878; Fasti I.713-718
+  quote_or_summary: The speaker asks that lack of enemies also remove the reason for
+    triumph, calls Peace a greater glory for commanders than war, restricts arms to
+    restraining arms, and says the world should fear the Aeneadae or love Rome.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 1879-1882; Fasti I.719-722
+  quote_or_summary: "“Tura, sacerdotes, pacalibus addite flammis, / Albaque percussa
+    victima fronte cadat”; priests are then told to ask the gods that the house providing
+    peace endure with peace."
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1883-1884; Fasti I.723-724
+  quote_or_summary: The speaker says the first part of his work is complete and that
+    the small book ends with its month.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual details are explicit. Broader motif labels such as sacred
+    exchange and royal legitimacy require caution because the excerpt is short and
+    the house is not named in these lines. No comparison claims were added because
+    the supplied passage does not itself argue a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses the supplied Latin passage and source metadata only; editorial notes in the passage_text were not used for independent motif claims.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l1871-l2021
+  passage_sha256=e569f517bdf9716872cca343a6e7a48bad9b3cbd5f66c5d9376d25ee5ed504ec
+

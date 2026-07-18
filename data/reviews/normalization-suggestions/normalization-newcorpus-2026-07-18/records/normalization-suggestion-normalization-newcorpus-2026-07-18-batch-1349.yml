@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1349
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.defiant-leader-rejects-enclosure-and-chooses-open-attack
+  motif_id: defiant_leader_rejects_enclosure_and_chooses_open_attack
+  label: defiant leader rejects enclosure and chooses open attack
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a tactical combat decision by a leader, but it is
+    unclear whether the episode has sacred, ritual, heroic, or merely strategic significance.
+  cautions: Single occurrence and highly contextual; may be a battle-scene detail
+    rather than a reusable motif.
+  suggested_aliases:
+  - leader chooses open combat
+  - rejection of defensive enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-appears-in-human-guise-to-validate-an-image
+  motif_id: deity_appears_in_human_guise_to_validate_an_image
+  label: Deity appears in human guise to validate an image
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity manifesting in human form to authorize or confirm an image is
+    a direct divine manifestation with validation function.
+  cautions: Could also relate to sacred_craft or animated/cult image motifs if the
+    image itself is central; review source context before narrowing.
+  suggested_aliases:
+  - deity in human guise
+  - divine validation of image
+  - theophany validating cult image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-as-refuge-for-oppressed-seekers
+  motif_id: deity_as_refuge_for_oppressed_seekers
+  label: Deity as refuge for oppressed seekers
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The deity functions as protector and aid for vulnerable or oppressed
+    people, matching divine intervention/guidance in human affairs.
+  cautions: If framed as ethical obligation or covenantal justice rather than direct
+    protection, sacred_law or divine_judgment may be relevant secondary placements.
+  suggested_aliases:
+  - divine refuge for the oppressed
+  - god as refuge
+  - divine protection of seekers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-dispatched-to-heal-an-afflicted-princess
+  motif_id: deity_dispatched_to_heal_an_afflicted_princess
+  label: deity dispatched to heal an afflicted princess
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine being sent to heal an afflicted person is a clear case of divine
+    action in human affairs.
+  cautions: The princess detail is likely contextual; if the source emphasizes kingship
+    diplomacy or royal legitimacy, add a secondary review note.
+  suggested_aliases:
+  - divine healing mission
+  - deity sent to heal
+  - supernatural healing of afflicted princess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-divided-into-multiple-parts
+  motif_id: deity_divided_into_multiple_parts
+  label: deity divided into multiple parts
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Division of a deity could indicate dismemberment, emanation, multiple
+    forms, cosmic manifestation, or theological classification.
+  cautions: Do not assume primordial sacrifice or death/rebirth without evidence of
+    death, sacrifice, or world-creation from the parts.
+  suggested_aliases:
+  - deity divided into parts
+  - divine multiplicity
+  - deity manifesting in parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-fashions-the-human-body-and-heart
+  motif_id: deity_fashions_the_human_body_and_heart
+  label: Deity fashions the human body and heart
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: A deity creating the human body and heart is an anthropogonic creation
+    motif under cosmic origin.
+  cautions: If the passage centers on craft technique or divine artisan role, sacred_craft
+    may be a useful secondary relation.
+  suggested_aliases:
+  - divine fashioning of humans
+  - creation of human body and heart
+  - anthropogony by deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-s-movement-mapped-onto-volcanic-geography
+  motif_id: deity_s_movement_mapped_onto_volcanic_geography
+  label: deity’s movement mapped onto volcanic geography
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label appears etiological, connecting divine movement with the formation
+    or meaning of a volcanic landscape.
+  cautions: May be a place-specific sacred geography note rather than a broad creation
+    motif; if pilgrimage or sacred center is central, axis_mundi may fit better.
+  suggested_aliases:
+  - divine movement forms landscape
+  - volcanic sacred geography
+  - deity mapped onto volcanic landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-transformed-into-stone
+  motif_id: deity_transformed_into_stone
+  label: Deity transformed into stone
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity changing into stone is a transformation of form, fitting the
+    shapeshifter/transformation group.
+  cautions: If the stone becomes a cult object, sacred_treasures or sacred_craft may
+    be secondary; if transformation follows death, death_and_transformation may be
+    better.
+  suggested_aliases:
+  - deity changed into stone
+  - divine petrification
+  - god transformed into stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-turned-into-stone
+  motif_id: deity_turned_into_stone
+  label: Deity turned into stone
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: alias
+  confidence: high
+  rationale: This is effectively an alias of deity_transformed_into_stone and belongs
+    with transformation of bodily form.
+  cautions: Preserve as an alias rather than a separate motif unless source evidence
+    distinguishes voluntary transformation from imposed petrification.
+  suggested_aliases:
+  - deity transformed into stone
+  - god turned to stone
+  - divine petrification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-answer-after-courtly-persuasion
+  motif_id: delayed_answer_after_courtly_persuasion
+  label: delayed answer after courtly persuasion
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a scene-level courtly dialogue or narrative pacing
+    detail rather than a symbolic or recurring mythic motif.
+  cautions: If the delayed answer is tied to oath, vow, prophecy, or performative
+    speech, review for curse_blessing_speech or royal_legitimacy instead.
+  suggested_aliases:
+  - delayed courtly reply
+  - courtly persuasion before answer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; placements should be
+  treated as provisional evidence-indexing suggestions, not taxonomy edits.
+- For deity-to-stone labels, consider consolidating aliases during review to avoid
+  duplicate granular motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch 1349; human review recommended
+    for ambiguous theological and episode-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1349
+  input_sha256: 2a591c1cbf2fd6f2c454fbae168e3be16e60c3c1380036a79c86e546c23691ac
+

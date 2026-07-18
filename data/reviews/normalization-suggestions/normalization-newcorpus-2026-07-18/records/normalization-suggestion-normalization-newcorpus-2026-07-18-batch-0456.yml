@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0456
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.traitorous-kinsman-spared-after-intercession-but-ritually-weakened
+  motif_id: traitorous_kinsman_spared_after_intercession_but_ritually_weakened
+  label: Traitorous kinsman spared after intercession but ritually weakened
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship betrayal, mercy/intercession, and ritual weakening;
+    covenant/social bond repair is a possible parent but not secure.
+  cautions: Highly episode-specific and may belong under betrayal_violated_trust,
+    sacred_law, sacrifice, or heroic/legal punishment depending on source context.
+  suggested_aliases:
+  - traitorous kinsman spared
+  - intercession followed by ritual weakening
+  - ritual weakening of spared traitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformation-of-hoarded-winnings-into-blessings
+  motif_id: transformation_of_hoarded_winnings_into_blessings
+  label: Transformation of hoarded winnings into blessings
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hoarded gain becomes blessing, suggesting a transformation of possession
+    into reciprocal or sacred benefit.
+  cautions: If the passage emphasizes moral punishment for hoarding, divine_judgment
+    or greed reversal may be more appropriate.
+  suggested_aliases:
+  - hoarded winnings transformed into blessings
+  - wealth transformed into blessing
+  - sacralized winnings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformation-of-sacred-life-sign-into-christian-emblem
+  motif_id: transformation_of_sacred_life_sign_into_christian_emblem
+  label: Transformation of sacred life sign into Christian emblem
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe reinterpretation or reception of a symbol
+    into a Christian emblem rather than a narrative motif.
+  cautions: If the source passage narrates an actual sacred sign transforming, review
+    under sacred_treasures or sacred_law; avoid using this as a transmission claim.
+  suggested_aliases:
+  - sacred life sign reinterpreted as Christian emblem
+  - Christianization of sacred life sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-a-sacred-text-through-translation-and-patronage
+  motif_id: transmission_of_a_sacred_text_through_translation_and_patronage
+  label: transmission of a sacred text through translation and patronage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual transmission, translation, and patronage history,
+    not a mythic or ritual motif.
+  cautions: Preserve as provenance or manuscript-history metadata if useful; do not
+    index as evidence of motif transmission.
+  suggested_aliases:
+  - sacred text transmission through translation
+  - translation and patronage of sacred text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trapping-victims-in-ritual-structures-and-killing-by-fire-and-smoke
+  motif_id: trapping_victims_in_ritual_structures_and_killing_by_fire_and_smoke
+  label: trapping victims in ritual structures and killing by fire and smoke
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: uncertain
+  confidence: low
+  rationale: The ritual setting and killing by fire may point to sacrifice, but the
+    label could also describe violence or punishment.
+  cautions: Culturally sensitive and highly specific; confirm whether the victims
+    are sacrificial offerings, enemies, initiates, or narrative victims before mapping.
+  suggested_aliases:
+  - victims trapped in ritual structures
+  - killing by ritual fire and smoke
+  - fire-smoke killing in ritual structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-murder-near-a-sacred-temple-followed-by-blood-atonement
+  motif_id: treacherous_murder_near_a_sacred_temple_followed_by_blood_atonement
+  label: Treacherous murder near a sacred temple followed by blood atonement
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Blood atonement after a sacred-space murder fits the sacrifice/atonement
+    complex.
+  cautions: May also require secondary indexing under divine_judgment or sacred_law
+    if pollution, sanctuary violation, or legal reparation is central.
+  suggested_aliases:
+  - blood atonement after temple murder
+  - sacred-space murder requiring atonement
+  - treacherous killing and blood expiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-associated-funerary-rite-for-the-divine-body
+  motif_id: tree_associated_funerary_rite_for_the_divine_body
+  label: Tree-associated funerary rite for the divine body
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: uncertain
+  confidence: low
+  rationale: The funerary rite points to mortuary memorialization, while the tree
+    and divine body may carry axis or death-transformation meanings.
+  cautions: Could fit death_and_transformation, axis_mundi, sacred_tree_axis, or ancestor
+    rites depending on whether the tree is a ritual place, embodiment, or cosmic connector.
+  suggested_aliases:
+  - tree funerary rite for divine body
+  - funerary tree and divine body
+  - divine body tree burial rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-associated-with-temple-space
+  motif_id: tree_associated_with_temple_space
+  label: tree associated with temple space
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred tree in temple space plausibly functions as part of the sacred
+    center or world-axis complex.
+  cautions: If the tree is merely a local object in a temple without cosmological
+    or ritual-center function, this may be too broad.
+  suggested_aliases:
+  - temple tree
+  - tree in sacred temple space
+  - sacred tree associated with temple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-deposition-of-ritual-offerings
+  motif_id: tree_deposition_of_ritual_offerings
+  label: tree deposition of ritual offerings
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Depositing offerings at or in a tree is a ritual giving practice that
+    creates or maintains sacred relation.
+  cautions: If the tree itself is the dominant sacred center, axis_mundi may be a
+    secondary mapping; preserve tree-specific evidence.
+  suggested_aliases:
+  - offerings deposited at a tree
+  - ritual offerings at sacred tree
+  - tree offering deposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-inhabited-by-fortune-or-misfortune-according-to-sacred-time
+  motif_id: tree_inhabited_by_fortune_or_misfortune_according_to_sacred_time
+  label: tree inhabited by fortune or misfortune according to sacred time
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The decisive feature is fortune or misfortune changing according to sacred
+    time, with the tree as the inhabited locus.
+  cautions: Could also relate to axis_mundi or tutelary spirits if the tree-being
+    is central; source context needed for spirit agency.
+  suggested_aliases:
+  - sacred-time tree of fortune and misfortune
+  - tree inhabited according to sacred time
+  - fortune-misfortune tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence composite descriptions; preserve as evidence
+  details unless recurring across sources.
+- Tree-related items should not be automatically collapsed into sacred_tree_axis unless
+  the passage supports world-axis, sacred-center, or realm-connecting function.
+- Transmission, translation, and reception labels should remain outside motif pattern
+  queries unless the source narrates a symbolic event rather than scholarly history.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally sensitive and episode-specific
+    items flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0456
+  input_sha256: da7ef11f58ae4a6d271033036dd9543719ebc47a75b263b3f2504e1197997ecb
+

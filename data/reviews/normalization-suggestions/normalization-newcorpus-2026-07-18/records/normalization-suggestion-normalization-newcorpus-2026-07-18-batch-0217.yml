@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0217
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.quest-for-rain-or-water
+  motif_id: quest_for_rain_or_water
+  label: Quest for rain or water
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a journey ordeal, divine provision/rainmaking episode, or sacred-waters
+    motif depending on source evidence.
+  cautions: Single occurrence; do not infer flood, pilgrimage, or water-crossing function
+    from the label alone.
+  suggested_aliases:
+  - water quest
+  - quest for rain
+  - search for water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_waters
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-scattered-body-parts
+  motif_id: quest_for_scattered_body_parts
+  label: quest for scattered body parts
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: A search for scattered body parts usually serves restoration, reassembly,
+    or postmortem transformation after dismemberment.
+  cautions: If the passage emphasizes cosmic creation from body parts, primordial_sacrifice
+    may be a secondary or better mapping.
+  suggested_aliases:
+  - quest for dismembered body
+  - reassembly of scattered body parts
+  - search for body parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - primordial_sacrifice
+    - sacrifice
+    - resurrection
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-to-find-greater-fools
+  motif_id: quest_to_find_greater_fools
+  label: quest to find greater fools
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label resembles a folktale wisdom or comic exemplum structured as
+    a quest, fitting narrative instruction better than sacred journey.
+  cautions: May be a humorous tale-type rather than a mythic motif; exclude or review
+    if it is only plot cataloging.
+  suggested_aliases:
+  - greater fools quest
+  - search for greater fools
+  - fool-seeking quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - hero_journey
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.radiant-heroic-arrival-mistaken-for-the-sun
+  motif_id: radiant_heroic_arrival_mistaken_for_the_sun
+  label: Radiant heroic arrival mistaken for the sun
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The key image is radiant solar-like presence attached to a heroic arrival,
+    aligning with divine light symbolism.
+  cautions: Over-specific scene label; if the passage emphasizes royal display or
+    warrior prestige, divine_warrior or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - solar heroic arrival
+  - hero mistaken for sun
+  - radiant hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raiding-and-captive-taking-after-conquest
+  motif_id: raiding_and_captive_taking_after_conquest
+  label: raiding and captive-taking after conquest
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Raiding and captive-taking after conquest belongs most closely with warfare
+    and conflict patterns.
+  cautions: May be a historical or ethnographic event detail rather than a symbolic
+    motif; review for ritual or narrative recurrence.
+  suggested_aliases:
+  - post-conquest raiding
+  - captive taking after conquest
+  - raiding after victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-accompanying-the-arrival-of-a-holy-guest
+  motif_id: rain_accompanying_the_arrival_of_a_holy_guest
+  label: rain accompanying the arrival of a holy guest
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Rain attending a holy guest suggests sacred presence or blessing manifested
+    through weather.
+  cautions: Could also be hospitality-test symbolism if the guest's reception is the
+    narrative focus; avoid treating all rain as sacred waters.
+  suggested_aliases:
+  - rain at holy guest arrival
+  - weather sign of holy guest
+  - rain blessing guest arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_waters
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rainbow-bridge-road-between-realms
+  motif_id: rainbow_bridge_road_between_realms
+  label: rainbow bridge road between realms
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: high
+  rationale: A rainbow bridge connecting realms functions as a world-link or axis
+    between levels of reality.
+  cautions: If the passage emphasizes guarded passage, threshold_guardian may be a
+    secondary mapping; if upward travel dominates, ascent may apply.
+  suggested_aliases:
+  - rainbow bridge
+  - bridge between realms
+  - road between worlds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ascent
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellion-against-divinely-mediated-leadership
+  motif_id: rebellion_against_divinely_mediated_leadership
+  label: Rebellion against divinely mediated leadership
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns contested authority grounded in divine mediation,
+    fitting sacred kingship or legitimate rule.
+  cautions: If punishment for rebellion is central, divine_judgment should be secondary
+    or primary; context needed for leadership type.
+  suggested_aliases:
+  - rebellion against sacred leadership
+  - challenge to divinely mediated authority
+  - revolt against divine representative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.receding-water-during-a-thirsty-journey
+  motif_id: receding_water_during_a_thirsty_journey
+  label: Receding water during a thirsty journey
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mark journey ordeal, elusive water, taboo consequence,
+    or landscape etiological detail.
+  cautions: Single culturally specific occurrence; review source evidence before mapping
+    to sacred_waters or hero_journey.
+  suggested_aliases:
+  - receding water on journey
+  - water withdrawing from thirsty travelers
+  - elusive water during travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_waters
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocity-and-reconciliation-in-friendship
+  motif_id: reciprocity_and_reconciliation_in_friendship
+  label: reciprocity and reconciliation in friendship
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on reciprocal repair of relationship, matching sacred
+    exchange and reconciliation logic.
+  cautions: May be an ethical or social theme rather than a sacred motif; if oath
+    or obligation is central, covenant may be secondary.
+  suggested_aliases:
+  - friendship reciprocity
+  - reconciliation between friends
+  - reciprocal friendship repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and over-specific; preserve local evidence notes
+  and avoid promoting them to canonical motifs without recurrence.
+- For water/rain labels, distinguish weather blessing, water quest, passage through
+  waters, primordial waters, and flood renewal.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for narrative
+    function before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0217
+  input_sha256: 7bb1d33dd5f8ed332d712d2aecb07dd2645e9ce024d2cc0ca32d7e7b75efad4e
+

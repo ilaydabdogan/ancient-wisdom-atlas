@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l3960-l3987
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: EPIO  SONGS   OF  RUSSIA. / EPIC  SONGS   OF  RUSSIA.  95 / EPIC  SONGS   OF  EUSSIA.  97
+    / THE    ONE    AND    FORTY   PILGRIMS.; lines 3960-3987
+  start: '3960'
+  end: '3987'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Forty bogatyrs and one, led by young Kasydn Mikailovich, assemble on an
+    open plain and sit in a circle in a green meadow to hold counsel and recount exploits.
+    Kasydn rebukes the warriors for sinning through needless killing and bloodshed,
+    proposes dispersing the host, going to Jerusalem to pray, kissing the grave of
+    the Lord, bathing in the Jordan River for forgiveness of sins, and taking a great
+    vow. The vow statement is cut off within the supplied passage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Many great and mighty heroes assemble on an open plain: forty bogatyrs and
+    one.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Young Kasydn Mikailovich is identified as the ataman of the group.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group halts in a green meadow, dismounts from their steeds, sits in a
+    circle, and holds counsel.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The heroes recount journeys, visits to lands and hordes, and killings of Tatars
+    and infidels.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kasydn Mikailovich tells the warriors they have sinned against God by slaying
+    many heads without avail and shedding hot blood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Kasydn proposes that the host disperse and go to Jerusalem to pray in the
+    holy sanctuary.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Kasydn proposes kissing the grave of the Lord and bathing in the Jordan River
+    so that their sins may be forgiven.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Kasydn says the heroes should lay a great vow upon themselves; the supplied
+    passage cuts off as the vow begins with a prohibition against robbing.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: forty bogatyrs and one
+  description: A group of many great and mighty heroes, also called mighty warriors,
+    assembled on the open plain.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: young Kasydn Mikailovich
+  description: The young ataman of the forty bogatyrs and one; he addresses the warriors
+    and proposes a penitential journey and vow.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: God
+  description: The divine being against whom Kasydn says the warriors have sinned
+    and to whom they should pray in Jerusalem.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the Lord
+  description: Mentioned through the grave that the pilgrims are to kiss.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: warrior company
+  assigned_to:
+  - fig:1
+  basis: The passage calls the group great and mighty heroes, bogatyrs, and mighty
+    warriors.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ataman or leader
+  assigned_to:
+  - fig:2
+  basis: Kasydn Mikailovich is explicitly named as their ataman.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: potential pilgrims
+  assigned_to:
+  - fig:1
+  basis: Kasydn proposes that the warriors go to Jerusalem, pray, kiss the grave of
+    the Lord, and bathe in Jordan River.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: moral admonisher and proposer of pilgrimage
+  assigned_to:
+  - fig:2
+  basis: Kasydn rebukes the warriors for sin and proposes the journey and vow.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: divine addressee of prayer
+  assigned_to:
+  - fig:3
+  basis: The warriors are said to have sinned against God and are told to pray God
+    in the holy sanctuary.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: holy referent of the grave
+  assigned_to:
+  - fig:4
+  basis: The proposed rite includes kissing the grave of the Lord.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: one and forty
+  literal_form: forty bogatyrs and one
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: green meadow council circle
+  literal_form: green meadow; heroes seated in a circle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Jerusalem city and holy sanctuary
+  literal_form: Jerusalem city; holy sanctuary
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: grave of the Lord
+  literal_form: grave of the Lord
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Jordan River bathing
+  literal_form: Jordan river; bathing in the river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: great vow
+  literal_form: a great vow laid upon the heroes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Assembly on the open plain
+  summary: Forty bogatyrs and one, led by young Kasydn Mikailovich, assemble on the
+    open plain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Meadow council and recounting of exploits
+  summary: The heroes halt in a green meadow, dismount, sit in a circle, hold counsel,
+    and recount journeys and violent exploits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Kasydn's rebuke and penitential proposal
+  summary: Kasydn tells the warriors that they have sinned by needless killing and
+    bloodshed, then proposes dispersing the host, going to Jerusalem for prayer and
+    rites, bathing in the Jordan for forgiveness, and taking a great vow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: warriors turn from bloodshed toward pilgrimage
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: After recounting violent exploits, Kasydn rebukes the heroes for sin and
+    proposes that they disperse the host and go to Jerusalem for prayer and forgiveness
+    rites.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the proposal but does not yet show the group carrying
+    it out within the supplied lines.
+- id: motif:2
+  label: purification through bathing in a sacred river
+  taxonomy_refs: []
+  basis: Kasydn says they should bathe in the Jordan River so that their sins may
+    be forgiven.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The available motif-family taxonomy has no exact purification-river entry;
+    the symbol taxonomy supports water only as a symbol, not as a motif family.
+- id: motif:3
+  label: collective vow after moral rebuke
+  taxonomy_refs: []
+  basis: Kasydn says the mighty heroes must lay a great vow upon themselves after
+    acknowledging sin and before the proposed pilgrimage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The content of the vow is incomplete in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports comparison to a penitential pilgrimage pattern: a warrior
+    company is urged to leave martial life temporarily or permanently and seek forgiveness
+    at Jerusalem-associated holy places and in the Jordan River.'
+  claim_level: same_function
+  target: penitential pilgrimage and purification journey pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt contains the exhortation and proposed rites, not
+    the completed pilgrimage; no historical-contact claim is supported by the passage
+    alone.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3960-3964
+  quote_or_summary: "“On the open plain many great and mighty heroes assembled, forty
+    bogatyrs and one; and the one was young Kasydn Mikailovich, their ataman.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3965-3968
+  quote_or_summary: The heroes halt in a green meadow, dismount from their steeds,
+    sit in a circle, and hold counsel together.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3969-3974
+  quote_or_summary: The heroes tell of journeys through lands and hordes and of slaying
+    Tatars and accursed infidels.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 3975-3980
+  quote_or_summary: 'Kasydn says: “Greatly have ye sinned against God,” because they
+    have slain many heads and shed hot blood without avail.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 3981-3986
+  quote_or_summary: Kasydn proposes dispersing the host and going to Jerusalem city
+    to pray in the holy sanctuary, kiss the grave of the Lord, and bathe in the Jordan
+    River so that sins may be forgiven.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 3986-3987
+  quote_or_summary: Kasydn says the heroes should lay a great vow on themselves; the
+    passage ends as the vow begins with a phrase about not robbing.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions and speech are clear, despite OCR errors and a truncated
+    final vow line. Motif labels are cautious because the supplied passage contains
+    a proposal rather than the completed pilgrimage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and applied only where directly supported.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l3960-l3987
+  passage_sha256=646a8fd3bad4643c9e1afec57fa19ce2f2946aab80359dee1af695144a7f7c93
+

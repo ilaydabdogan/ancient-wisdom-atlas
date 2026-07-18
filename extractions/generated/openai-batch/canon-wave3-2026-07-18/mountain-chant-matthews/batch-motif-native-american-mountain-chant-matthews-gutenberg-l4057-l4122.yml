@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.native-american-mountain-chant-matthews-gutenberg-l4057-l4122
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+passage_locator:
+  label: 'ILLUSTRATIONS / THE MOUNTAIN CHANT: A NAVAJO CEREMONY. / INTRODUCTION. /
+    SONGS OF SEQUENCE.; lines 4057-4122'
+  start: '4057'
+  end: '4122'
+  translation: 'The Mountain Chant: A Navajo Ceremony'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: The curtain of daybreak is hanging
+  summary: The passage gives Navajo song text, literal glosses, and free translations
+    for daylight songs. The dawn is described as a hanging curtain associated with
+    Daylight Boy and Daylight Girl, who are identified as dawn deities. A later daylight
+    song says that daybreak has come, Daylight Boy comes, it is day all around, and
+    Daylight Girl comes. The commentary states that these daylight songs are sung
+    at dawn in the corral before the dance ends.
+  language: Navajo transliteration with English translation and commentary
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The term translated as the central refrain is glossed as something hanging
+    like a curtain or festoon, specifically the white curtain of dawn hanging supported
+    at both ends.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Daylight Boy is identified as the Navajo dawn god.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The free translation says the curtain of daybreak hangs from the land of day
+    and around Daylight Boy, including before him, behind him, and from his voice,
+    in beauty.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Daylight Girl is identified as the dawn goddess and is associated with the
+    land of yellow light.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: 'The last daylight song presents a sequence: daybreak, Daylight Boy comes,
+    it is day all around, and Daylight Girl comes.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The refrain in the last daylight song is explained as a lullaby-like meaningless
+    expression indicating sleepiness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The daylight songs are sung at dawn in the corral before the dance ceases.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Daylight Boy
+  description: Identified in the gloss as the Navajo dawn god; in the free translation
+    he is associated with the hanging curtain of daybreak and in the later song he
+    comes at daybreak.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Daylight Girl
+  description: Identified in the gloss as the dawn goddess; the free translation associates
+    her with the land of yellow light, and the later song says she comes after it
+    is day.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: dawn god
+  assigned_to:
+  - fig:1
+  basis: The translation note explicitly identifies Daylight Boy as the Navajo dawn
+    god.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dawn goddess
+  assigned_to:
+  - fig:2
+  basis: The translation note explicitly identifies Daylight Girl as the dawn goddess.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: arriving daylight figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The last daylight song says Daylight Boy comes at daybreak and Daylight Girl
+    comes after it is day all around.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: curtain of daybreak
+  literal_form: A white curtain or festoon of dawn hanging supported at both ends.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: daybreak and daylight
+  literal_form: The place or land of dawn/day, daybreak, and day all around.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: land of yellow light
+  literal_form: The land of yellow light, glossed as horizontal terrestrial yellow,
+    associated with Daylight Girl.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Curtain of dawn with Daylight Boy
+  summary: The dawn is described as a hanging curtain connected with Daylight Boy,
+    the land of day, his front and back, and his voice, with repeated emphasis on
+    beauty.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Parallel Daylight Girl stanza
+  summary: The song repeats the daybreak-curtain pattern for Daylight Girl, associating
+    her with the land of yellow light.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Last daylight song sequence
+  summary: 'The song frames daybreak with a lullaby refrain: Daylight Boy comes, daylight
+    becomes all around, and Daylight Girl comes.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ritual dawn performance setting
+  summary: The commentary states that the daylight songs are sung at dawn in the corral
+    before the dance ceases.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dawn manifested as a hanging curtain
+  taxonomy_refs: []
+  basis: The passage glosses the refrain as a curtain or festoon and the free translation
+    repeatedly describes the curtain of daybreak as hanging.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as song imagery and gloss; no broader symbolic
+    interpretation is explicitly supplied.
+- id: motif:2
+  label: gendered pair of dawn deities
+  taxonomy_refs:
+  - duality
+  basis: Daylight Boy and Daylight Girl are identified as dawn god and dawn goddess,
+    and both appear in parallel daylight-song sequences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to duality is broad; the passage supports a male/female
+    pair but does not state a general doctrine of dualism.
+- id: motif:3
+  label: ritual song at the dawn threshold
+  taxonomy_refs: []
+  basis: The commentary states that the daylight songs are sung just at dawn in the
+    corral before the dance ceases.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives performance timing and setting but does not elaborate
+    a full ritual transition interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4073-4085; paragraph 248
+  quote_or_summary: The translation note glosses the refrain as hanging like a curtain
+    or festoon, specifically the white curtain of dawn; it identifies Daylight Boy
+    as the Navajo dawn god and Daylight Girl as the dawn goddess, and explains the
+    land/place of dawn and land of yellow light.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 4087-4101; paragraph 249
+  quote_or_summary: 'Free translation includes: “The curtain of daybreak is hanging”;
+    it links this with Daylight Boy, the land of day, before and behind him, his voice,
+    and then with Daylight Girl from the land of yellow light.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+  rights_note: Public domain source; brief quotation and summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4103-4119; paragraphs 250-252
+  quote_or_summary: 'The last daylight song is translated as: lullaby; it is daybreak;
+    Daylight Boy comes; now it is day; Daylight Girl comes. The note explains the
+    refrain as a lullaby-like expression indicating sleepiness.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 4120-4122; paragraph 253
+  quote_or_summary: "“As the daylight songs are sung just at dawn, in the corral,
+    before the dance ceases, their significance is apparent.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is supported by translation notes and free translations.
+    Motif labels are cautious and passage-level; no external comparative claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly connect the songs to another corpus or motif family beyond the limited candidate taxonomy mapping for a gendered dawn pair.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-mountain-chant-matthews-gutenberg__l4057-l4122
+  passage_sha256=f138e83381c76f717baef1853d6bd9b238911f95e659279b971c5b68df258c83
+

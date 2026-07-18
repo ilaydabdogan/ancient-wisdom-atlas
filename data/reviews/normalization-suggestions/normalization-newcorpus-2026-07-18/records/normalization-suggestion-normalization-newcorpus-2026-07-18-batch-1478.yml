@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1478
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.malicious-gaze-as-near-physical-attack
+  motif_id: malicious_gaze_as_near_physical_attack
+  label: Malicious gaze as near-physical attack
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A harmful gaze resembles evil-eye danger and apotropaic/purity concerns
+    already folded under sacred_law.
+  cautions: If the passage centers on curse speech, sorcery, or interpersonal aggression
+    rather than ritual protection, review for curse_blessing_speech or conflict context.
+  suggested_aliases:
+  - evil_eye_as_attack
+  - harmful_gaze
+  - malicious_gaze
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.manifest-signs-accompany-messengers-and-are-followed-by-divided-reception
+  motif_id: manifest_signs_accompany_messengers_and_are_followed_by_divided_reception
+  label: manifest signs accompany messengers and are followed by divided reception
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred signs accompanying messengers fit divine action and guidance in
+    human affairs, with reception forming the narrative response.
+  cautions: Composite label; if the focus is revelation, prophecy, or communal judgment,
+    secondary review under sacred_knowledge, prophecy_divination, or divine_judgment
+    may be needed.
+  suggested_aliases:
+  - signs_accompany_divine_messengers
+  - messenger_signs_and_divided_reception
+  - manifest_signs_of_messengership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.manumission-within-an-act-of-liberality
+  motif_id: manumission_within_an_act_of_liberality
+  label: manumission within an act of liberality
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Liberating a person as generosity can function as a meritorious gift
+    or ethical exchange.
+  cautions: May be a legal-ethical passage detail rather than a mythic motif; if framed
+    as law or obligation, sacred_law may fit better.
+  suggested_aliases:
+  - manumission_as_generosity
+  - liberation_as_liberality
+  - charitable_manumission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-eyed-guardian-defeated-incompletely-by-sleep-charm
+  motif_id: many_eyed_guardian_defeated_incompletely_by_sleep_charm
+  label: many-eyed guardian defeated incompletely by sleep charm
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The core role is a guardian at a boundary or obstacle who must be overcome
+    for passage.
+  cautions: The many-eyed and sleep-charm details are granular; if the sleep enchantment
+    is the main recurring element, enchanting_music or magical compulsion context
+    may be relevant.
+  suggested_aliases:
+  - many_eyed_guardian
+  - guardian_defeated_by_sleep_charm
+  - sleep_charmed_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-formed-cosmic-deity
+  motif_id: many_formed_cosmic_deity
+  label: many-formed cosmic deity
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A deity revealed in many forms matches theophany of many forms and cosmic
+    vision imagery.
+  cautions: Do not reduce all many-formed deity theology to a vision episode; review
+    whether the passage is doctrinal description, manifestation, or cosmic sovereignty.
+  suggested_aliases:
+  - theophany_of_many_forms
+  - many_formed_divine_manifestation
+  - cosmic_multiform_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-headed-giant
+  motif_id: many_headed_giant
+  label: many-headed giant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a monster type but does not specify narrative function
+    such as chaos combat, guardian role, or cosmic origin.
+  cautions: Avoid mapping to divine_warrior or chaos without evidence of sacred combat
+    or order-threatening function; may be an over-specific creature descriptor.
+  suggested_aliases:
+  - multiheaded_giant
+  - many_headed_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-headed-giant-with-cosmic-scale-features
+  motif_id: many_headed_giant_with_cosmic_scale_features
+  label: many-headed giant with cosmic-scale features
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: chaos
+  suggested_group_label: Chaos
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cosmic-scale giant imagery can mark a chaos-like or pre-cosmic being
+    threatening or preceding order.
+  cautions: If the giant's body creates the world, primordial_sacrifice is more appropriate;
+    if only a monster adversary, sacred combat/divine_warrior may be secondary.
+  suggested_aliases:
+  - cosmic_many_headed_giant
+  - multiheaded_cosmic_giant
+  - cosmic_scale_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-headed-giants
+  motif_id: many_headed_giants
+  label: many-headed giants
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Plural creature label lacks enough evidence for function, symbolism,
+    or narrative placement.
+  cautions: May duplicate many_headed_giant; review source context before grouping
+    as chaos beings, combat adversaries, or merely a creature catalog detail.
+  suggested_aliases:
+  - multiheaded_giants
+  - many_headed_monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-headed-witch-adversary-defeated-by-decapitation
+  motif_id: many_headed_witch_adversary_defeated_by_decapitation
+  label: many-headed witch adversary defeated by decapitation
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The operative pattern is defeat of a supernatural adversary through combat
+    and decapitation.
+  cautions: Could belong under a future monster-slaying group if such labels recur;
+    many-headed witch detail should remain evidence, not a broad motif by itself.
+  suggested_aliases:
+  - supernatural_adversary_defeated_by_decapitation
+  - many_headed_adversary_slaying
+  - witch_adversary_decapitated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mara-as-tempter-linked-to-recurrent-crushing-and-fetters
+  motif_id: mara_as_tempter_linked_to_recurrent_crushing_and_fetters
+  label: Mara as tempter linked to recurrent crushing and fetters
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: Mara as tempter functions as an obstacle to liberation on a contemplative
+    or awakening path.
+  cautions: The crushing and fetters wording is composite and may refer to doctrinal
+    imagery of bondage; review whether the passage emphasizes temptation, punishment,
+    or psychological affliction.
+  suggested_aliases:
+  - mara_as_tempter
+  - tempter_obstructs_liberation
+  - fetters_as_spiritual_bondage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; preserve granular details as
+  evidence notes even when mapping to an existing group.
+- Creature-type labels without stated narrative function should remain human-review
+  items rather than being forced into chaos or combat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1478
+  input_sha256: 21783aca8d57aba3263f49d96a125e4a8678722c320a80d739bc46c07e5d45d4
+

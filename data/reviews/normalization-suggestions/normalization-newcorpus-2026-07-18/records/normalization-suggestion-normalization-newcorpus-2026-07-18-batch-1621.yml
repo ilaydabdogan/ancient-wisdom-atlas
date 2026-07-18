@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1621
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.treasure-distribution-to-avert-followers-wrath
+  motif_id: treasure_distribution_to_avert_followers_wrath
+  label: treasure distribution to avert followers' wrath
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is redistributive giving to repair or stabilize a social
+    bond.
+  cautions: If the passage centers on kingship obligation or war-band politics, royal_legitimacy
+    may be a secondary fit; single occurrence is very contextual.
+  suggested_aliases:
+  - redistribution_to_appease_followers
+  - treasure_distribution_as_social_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-enticement-after-resistance
+  motif_id: treasure_enticement_after_resistance
+  label: Treasure enticement after resistance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only indicates treasure as persuasion after refusal, but not
+    whether this is temptation, bribery, reward, or deceptive lure.
+  cautions: Needs passage evidence before mapping to sacred_treasures, sacred_exchange,
+    trickster, or sacred_love; may be an over-specific plot detail.
+  suggested_aliases:
+  - treasure_as_enticement
+  - treasure_lure_after_refusal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-gain-conditioned-by-charitable-distribution
+  motif_id: treasure_gain_conditioned_by_charitable_distribution
+  label: Treasure gain conditioned by charitable distribution
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Acquisition is made conditional on charitable redistribution, a clear
+    reciprocity and moral-exchange pattern.
+  cautions: Could also support sacred_law if framed as ethical command, or divine_judgment
+    if failure is punished.
+  suggested_aliases:
+  - charitable_distribution_condition_for_treasure
+  - treasure_gain_through_generosity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-guarded-by-non-human-beings
+  motif_id: treasure_guarded_by_non_human_beings
+  label: treasure guarded by non-human beings
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A guarded treasure is a power-object complex where non-human guardians
+    restrict access.
+  cautions: If the guardian is the main motif, threshold_guardian may be equally important;
+    if the beings are otherworld inhabitants, consider otherworld as secondary.
+  suggested_aliases:
+  - guarded_treasure
+  - nonhuman_guardians_of_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-guardian-slain-from-a-hidden-position
+  motif_id: treasure_guardian_slain_from_a_hidden_position
+  label: Treasure-guardian slain from a hidden position
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The action centers on killing a guardian in combat or ambush to gain
+    access to treasure.
+  cautions: Very episode-specific; if the guardian is monstrous or liminal, threshold_guardian
+    or divine_warrior may be secondary; preserve hidden-position detail as evidence
+    rather than canonical motif.
+  suggested_aliases:
+  - ambush_of_treasure_guardian
+  - treasure_guardian_slain_by_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-offered-as-incentive-for-lethal-attack
+  motif_id: treasure_offered_as_incentive_for_lethal_attack
+  label: treasure offered as incentive for lethal attack
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Treasure functions as payment or inducement for violence within a combat
+    narrative.
+  cautions: If the emphasis is broken loyalty or manipulation, betrayal_violated_trust
+    may be better; if purely transactional, sacred_exchange may be secondary.
+  suggested_aliases:
+  - treasure_bounty_for_killing
+  - treasure_payment_for_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-stolen-hoarded-and-redistributed-after-liberation
+  motif_id: treasure_stolen_hoarded_and_redistributed_after_liberation
+  label: Treasure stolen, hoarded, and redistributed after liberation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The recurring object is treasure whose possession, hoarding, theft, and
+    redistribution drive the episode.
+  cautions: Composite label; redistribution may fit sacred_exchange, while theft may
+    fit trickster or sacred_theft depending on passage function.
+  suggested_aliases:
+  - hoarded_treasure_recovered_and_redistributed
+  - stolen_hoard_liberated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-that-overcomes-its-possessors
+  motif_id: treasure_that_overcomes_its_possessors
+  label: treasure that overcomes its possessors
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A treasure with destructive agency or doom-bearing power belongs with
+    sacred or dangerous power objects.
+  cautions: If the point is greed punished, divine_judgment or pride_and_downfall
+    may be better; if explicitly cursed, curse_blessing_speech should be related.
+  suggested_aliases:
+  - cursed_treasure_overcomes_possessor
+  - doom_bearing_treasure
+  - destructive_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-won-from-a-slain-adversary
+  motif_id: treasure_won_from_a_slain_adversary
+  label: treasure won from a slain adversary
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The treasure is obtained as spoil through the defeat of an opponent in
+    combat.
+  cautions: May be an ordinary battle-spoils detail unless the treasure has sacred
+    power, confers authority, or drives the narrative.
+  suggested_aliases:
+  - treasure_as_battle_spoil
+  - spoils_from_slain_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triad-of-marvelous-gifts
+  motif_id: triad_of_marvelous_gifts
+  label: triad of marvelous gifts
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: high
+  rationale: Marvelous gifts are power objects; the triadic form can be preserved
+    as local structure.
+  cautions: If the gifts are exchanged to form an obligation, sacred_exchange may
+    be secondary; do not create a triad motif unless the threefold structure recurs.
+  suggested_aliases:
+  - three_marvelous_gifts
+  - triad_of_power_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters around treasure as object, exchange medium, inducement, or battle
+  spoil; source context should decide whether sacred_treasures, sacred_exchange, sacred_combat,
+  or divine_judgment is primary.
+- Several labels are single-occurrence and episode-specific; preserve combat, ambush,
+  or redistribution details as evidence notes unless recurrence is demonstrated.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for composite treasure
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1621
+  input_sha256: 10ae5308b8f0bf886e42f99f08f34a1437042b134c18730c97cf9e33bdbe64c8
+

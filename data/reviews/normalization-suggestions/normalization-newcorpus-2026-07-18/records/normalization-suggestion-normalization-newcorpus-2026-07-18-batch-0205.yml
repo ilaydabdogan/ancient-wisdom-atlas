@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0205
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.merciful-robber-protects-holy-travelers
+  motif_id: merciful_robber_protects_holy_travelers
+  label: Merciful robber protects holy travelers
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A robber protecting holy travelers may function as providential aid on
+    a journey, but the label could also be episode-specific moral reversal.
+  cautions: Single occurrence; verify whether the robber is divinely directed, converted,
+    or simply a narrative helper before indexing.
+  suggested_aliases:
+  - holy travelers protected by merciful outlaw
+  - unexpected protector of sacred travelers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-promised-or-requested-then-vengeance-enacted
+  motif_id: mercy_promised_or_requested_then_vengeance_enacted
+  label: Mercy promised or requested, then vengeance enacted
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns on a promised or requested mercy being violated by vengeance,
+    fitting broken obligation and mercy-refusal patterns already under covenant.
+  cautions: Could also support betrayal_violated_trust or divine_judgment if the passage
+    emphasizes treachery or moral reckoning rather than mercy obligation.
+  suggested_aliases:
+  - mercy request followed by vengeance
+  - violated mercy promise
+  - mercy refused through vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-through-exile-of-potential-avengers
+  motif_id: mercy_through_exile_of_potential_avengers
+  label: mercy through exile of potential avengers
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exiling rather than killing potential avengers is a mercy/clemency and
+    social-order decision, close to mercy-toward-enemy variants in covenant.
+  cautions: If the narrative focus is forced wandering or origin migration, hero_journey
+    may be a secondary placement; confirm the mercy function from source evidence.
+  suggested_aliases:
+  - exile as mercy
+  - clemency by sparing avengers
+  - potential avengers spared by exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.message-bearer-forces-passage-through-battle
+  motif_id: message_bearer_forces_passage_through_battle
+  label: message-bearer forces passage through battle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: The messenger's compelled passage through battle is primarily a martial
+    ordeal or combat-threshold scene rather than a general journey motif.
+  cautions: Could be over-specific if merely a plot incident; use hero_journey only
+    if the passage through battle marks transformative quest movement.
+  suggested_aliases:
+  - messenger passes through battle
+  - battle passage by message bearer
+  - envoy forces passage through combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-mediated-request-for-hospitality
+  motif_id: messenger_mediated_request_for_hospitality
+  label: messenger-mediated request for hospitality
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on soliciting hospitality, a recognized sacred guest/host
+    obligation, with messenger mediation as a local detail.
+  cautions: If there is no test, obligation, or guest-host moral stakes, this may
+    be a passage-specific diplomatic detail.
+  suggested_aliases:
+  - request for hospitality by messenger
+  - envoy requests guest-right
+  - mediated hospitality appeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-arrival-and-discovery-of-an-already-existing-city
+  motif_id: migration_arrival_and_discovery_of_an_already_existing_city
+  label: migration arrival and discovery of an already existing city
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Migration and city discovery may be an origin or settlement etiology,
+    but the label does not show whether the city has sacred, ancestral, or cosmological
+    function.
+  cautions: Could be historical/geographical narrative rather than motif; avoid mapping
+    to cosmic_origin unless it explains people, land, city, or sacred order origins.
+  suggested_aliases:
+  - migration discovery of preexisting city
+  - arrival at already existing city
+  - settlement discovery during migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-city-conquest-through-sacred-proclamation
+  motif_id: miraculous_city_conquest_through_sacred_proclamation
+  label: Miraculous city conquest through sacred proclamation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred proclamation effecting conquest is a performative speech act
+    that transforms political or military reality.
+  cautions: Could also support divine_intervention or sacred_combat if the miracle
+    or battle is more central than the proclamation itself.
+  suggested_aliases:
+  - city conquered by sacred proclamation
+  - performative proclamation conquers city
+  - miraculous conquest by holy speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-crossing-through-divided-waters
+  motif_id: miraculous_crossing_through_divided_waters
+  label: Miraculous crossing through divided waters
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a clear passage-through-waters and waters-divided motif, marking
+    miraculous boundary crossing and deliverance.
+  cautions: Do not map to flood_and_renewal unless the passage includes destruction
+    of an old world/order by flood; divided waters alone are not a flood.
+  suggested_aliases:
+  - passage through divided waters
+  - waters divided for crossing
+  - miraculous water passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-deception-and-animated-image-enforcing-worship
+  motif_id: miraculous_deception_and_animated_image_enforcing_worship
+  label: miraculous deception and animated image enforcing worship
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animated image component fits existing artificial or animated cult-image
+    motifs under sacred craft.
+  cautions: The worship-enforcement and deception aspects may require secondary review
+    under idol, forbidden_knowledge, divine_judgment, or trickster depending on source
+    framing.
+  suggested_aliases:
+  - animated image enforces worship
+  - deceptive animated cult image
+  - miraculous animated idol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-water-crossing-and-wilderness-provision
+  motif_id: miraculous_water_crossing_and_wilderness_provision
+  label: Miraculous water crossing and wilderness provision
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The compound label combines miraculous water crossing with supernatural
+    provision, both forms of divine aid during a journey.
+  cautions: Consider splitting evidence between sacred_waters and divine_intervention;
+    use sacred_waters if crossing is primary, divine_intervention if provision/guidance
+    is primary.
+  suggested_aliases:
+  - water crossing and miraculous provision
+  - wilderness provision after water crossing
+  - divine aid in crossing and provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and journey-contextual; placements
+  should be checked against passage evidence before broad Pattern Explorer indexing.
+- Mercy-related labels may belong to covenant, sacred_law, betrayal_violated_trust,
+  or divine_judgment depending on whether the key function is clemency, broken obligation,
+  treachery, or punishment.
+- Compound labels such as miraculous_water_crossing_and_wilderness_provision may need
+  evidence-level splitting across multiple existing groups rather than a new taxonomy
+  motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0205
+  input_sha256: 7638cbcbf102421b19a6bf25367d83a8b2bb24aa4d9652898af41629e9409ad3
+

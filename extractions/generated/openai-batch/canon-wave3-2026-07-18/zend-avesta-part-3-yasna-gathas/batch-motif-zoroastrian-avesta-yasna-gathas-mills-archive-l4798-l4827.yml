@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l4798-l4827
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA    XXXI.  47 / YASNA    XXXI.  49 / YASNA    XXXI.  51 / YASNA    XXXI.;
+    lines 4798-4827
+  start: '4798'
+  end: '4827'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: to the wise are these things clear
+  summary: A wise and discerning person, not blinded by the perverter, follows Righteous
+    Order in words and actions through Ahura Mazda's Good Mind and holy Kingdom, and
+    is described as especially helpful and vigorous toward Ahura Mazda.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that certain things are clear to the wise and to one discerning
+    with his mind.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The discerning person is described as not blinded by the perverter.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The person follows the Righteous Order in both words and actions with Ahura
+    Mazda's Good Mind and holy Kingdom.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Such a person is said to be most helpful and vigorous toward Ahura Mazda.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: wise discerning person
+  description: A wise person discerning with his mind who follows Righteous Order
+    in words and actions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Ahura Mazda
+  description: The divine addressee whose Good Mind and holy Kingdom are invoked and
+    toward whom the righteous person is helpful.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the perverter
+  description: A figure mentioned as one who blinds, from which the discerning person
+    is not blinded.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine addressee
+  assigned_to:
+  - fig:2
+  basis: Ahura Mazda is directly addressed, and the passage refers to 'Thy Good Mind'
+    and 'Thy Kingdom.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: wise righteous follower
+  assigned_to:
+  - fig:1
+  basis: The figure is wise, discerning with mind, and follows Righteous Order in
+    words and actions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: blinding perverter
+  assigned_to:
+  - fig:3
+  basis: The passage says the discerning one is not blinded by the perverter.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: wise adherence to Righteous Order
+  summary: The passage presents a wise and discerning person who, through Ahura Mazda's
+    Good Mind and holy Kingdom, follows Righteous Order in speech and action and becomes
+    helpful to Ahura Mazda.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom and discernment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes the wise person and the one discerning with the mind,
+    for whom the matters are clear.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is didactic and theological rather than narrative; the motif
+    is expressed as an ethical-religious quality.
+- id: motif:2
+  label: righteous speech and action
+  taxonomy_refs: []
+  basis: The person follows Righteous Order in both words and actions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this pattern.
+- id: motif:3
+  label: devotional service through righteousness
+  taxonomy_refs: []
+  basis: The righteous person is described as especially helpful and vigorous toward
+    Ahura Mazda.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not specify a concrete ritual or narrative service; the
+    pattern is inferred from ethical alignment and helpfulness.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4798-4801
+  quote_or_summary: '"to the wise are these things clear" and to the one discerning
+    with his mind.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4800-4802
+  quote_or_summary: '"not blinded by the perverter"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4802-4805
+  quote_or_summary: '"With Thy Good Mind and Thy (holy) Kingdom he follows the Righteous
+    Order both in his words and his actions."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4805-4807
+  quote_or_summary: '"to Thee, O Ahura Mazda! such a man shall be the most helpful
+    and vigorous being"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports observations about wisdom, discernment, Righteous
+    Order, and Ahura Mazda. Motif labels beyond the supplied 'wisdom' taxonomy are
+    descriptive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbols are directly present in the passage. The 'perverter' figure is included because it is explicitly mentioned, though its phrasing is parenthetical/bracketed in the supplied translation.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l4798-l4827
+  passage_sha256=d4236c66a29a248b7faf0d4af6d28ef6fa2737adb3d22602e22862494c92d820
+

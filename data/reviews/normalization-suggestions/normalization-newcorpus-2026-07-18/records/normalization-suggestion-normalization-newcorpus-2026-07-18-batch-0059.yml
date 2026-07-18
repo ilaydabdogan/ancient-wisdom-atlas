@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0059
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.expelled-soul-fragmented-into-present-day-human-type
+  motif_id: expelled_soul_fragmented_into_present_day_human_type
+  label: Expelled soul fragmented into present-day human type
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves soul fragmentation and possible human-type etiology,
+    but the function is unclear from wording alone.
+  cautions: Could be soul-loss, death transformation, creation/etiology, or a passage-specific
+    comparative artifact; source evidence is needed.
+  suggested_aliases:
+  - soul_fragmentation_etiology
+  - fragmented_soul_as_human_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - soul_loss_restoration
+    - death_and_transformation
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-communal-lament-for-high-status-dead
+  motif_id: extended_communal_lament_for_high_status_dead
+  label: extended communal lament for high-status dead
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A communal lament for the dead is a direct instance of mourning and public
+    grief for a significant figure.
+  cautions: High-status detail may also touch royal funeral or memorial practice,
+    but lament is the dominant function in the label.
+  suggested_aliases:
+  - communal_lament_for_high_status_dead
+  - collective_lament_for_elite_dead
+  - extended_funeral_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-death-hidden-in-nested-egg-chain
+  motif_id: external_death_hidden_in_nested_egg_chain
+  label: External death hidden in nested egg-chain
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: narrower_than
+  confidence: high
+  rationale: Death or life hidden outside the body in nested containers fits the external
+    soul/life-token complex.
+  cautions: Preserve egg-chain and nesting as evidence detail; do not map to cosmic_egg
+    unless creation from an egg is present.
+  suggested_aliases:
+  - external_death_in_egg
+  - nested_external_soul_egg_chain
+  - death_hidden_in_nested_egg
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-heart-or-externalized-death
+  motif_id: external_heart_or_externalized_death
+  label: external heart or externalized death
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: An external heart or externalized death is a close label variant of life
+    or soul stored outside the body.
+  cautions: If the passage treats the heart as a sacred object rather than life dependency,
+    sacred_treasures may be secondary.
+  suggested_aliases:
+  - external_heart
+  - externalized_death
+  - heart_as_external_life_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-hidden-death-in-nested-containers-and-animals
+  motif_id: external_hidden_death_in_nested_containers_and_animals
+  label: External hidden death in nested containers and animals
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: narrower_than
+  confidence: high
+  rationale: A hidden death placed in containers or animals matches externalized life/death
+    bound to receptacles outside the body.
+  cautions: Nested containers and animal receptacles are useful details; avoid treating
+    the animal element as shapeshifting unless bodily transformation is present.
+  suggested_aliases:
+  - external_death_in_nested_containers
+  - hidden_death_in_animals
+  - nested_external_life_receptacles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-life-or-death-bound-to-an-egg-or-heart
+  motif_id: external_life_or_death_bound_to_an_egg_or_heart
+  label: External life or death bound to an egg or heart
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: Life or death bound to an external egg or heart is a standard external-soul/life-token
+    pattern.
+  cautions: Egg and heart should remain granular evidence; cosmic_egg or sacred_substance
+    should not be inferred without supporting context.
+  suggested_aliases:
+  - life_bound_to_egg_or_heart
+  - death_bound_to_egg_or_heart
+  - external_life_token_egg_heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-life-or-death-hidden-in-a-distant-object
+  motif_id: external_life_or_death_hidden_in_a_distant_object
+  label: external life or death hidden in a distant object
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: A life or death hidden in a distant object directly matches the external
+    soul/life-token group.
+  cautions: Distant hiding may indicate quest structure as secondary, but the core
+    motif is externalized vulnerability.
+  suggested_aliases:
+  - life_hidden_in_distant_object
+  - death_hidden_in_distant_object
+  - external_life_in_hidden_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-object-containing-the-antagonist-s-death
+  motif_id: external_object_containing_the_antagonist_s_death
+  label: External object containing the antagonist's death
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: role_variant
+  confidence: high
+  rationale: An antagonist's death contained in an object is an externalized life/vulnerability
+    token.
+  cautions: The antagonist role may connect to monster defeat or conditional invulnerability,
+    but placement should remain with external_soul unless the loophole structure dominates.
+  suggested_aliases:
+  - antagonist_death_in_external_object
+  - villain_death_token
+  - external_death_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - conditional_invulnerability_hidden_weakness
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-soul-hidden-in-a-beetle-and-guarded-by-a-relative
+  motif_id: external_soul_hidden_in_a_beetle_and_guarded_by_a_relative
+  label: External soul hidden in a beetle and guarded by a relative
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: narrower_than
+  confidence: high
+  rationale: A soul hidden outside the body in an animal/insect receptacle belongs
+    to the external soul complex.
+  cautions: Beetle and guardian-relative details are over-specific evidence; consider
+    threshold_guardian only if the guarding role structures the ordeal.
+  suggested_aliases:
+  - external_soul_in_beetle
+  - soul_hidden_in_guarded_insect
+  - guarded_external_soul_in_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-soul-hidden-in-an-insect
+  motif_id: external_soul_hidden_in_an_insect
+  label: external soul hidden in an insect
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: narrower_than
+  confidence: high
+  rationale: A soul hidden in an insect is an animal-receptacle variant of a separable
+    external soul.
+  cautions: Do not map to shapeshifter unless the person becomes the insect; here
+    the key function is soul storage.
+  suggested_aliases:
+  - soul_hidden_in_insect
+  - external_soul_in_insect
+  - insect_as_external_soul_receptacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most Slavic and Mongol items in this batch are close variants of the accepted external_soul
+  group and can likely be consolidated as aliases or children while preserving object/animal
+  details as evidence.
+- The Germanic soul-fragmentation item is the main uncertain case because it may be
+  etiological, anthropological, or a generated passage artifact.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    context for single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0059
+  input_sha256: 46ce62181e99a711914a4cdc549f31da9bca317191e1e9376d4d2b4de1ed6c8f
+

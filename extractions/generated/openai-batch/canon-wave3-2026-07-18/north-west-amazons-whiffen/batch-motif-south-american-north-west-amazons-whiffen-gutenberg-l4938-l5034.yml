@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l4938-l5034
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER VIII / CHAPTER IX / CHAPTER X / CHAPTER XI; lines 4938-5034
+  start: '4938'
+  end: '5034'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes birth-related customs and beliefs among Northwest
+    Amazonian peoples as reported by Whiffen: small family size, abstinence during
+    pregnancy and lactation, high infant mortality, newborn submersion in water, pregnancy
+    food tabus based on the belief that eaten animals affect the child, paternal abstinence,
+    forest birth outside the house, female attendance, cord cutting, and the mother''s
+    bathing after birth.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that families normally have two or three children and connects
+    spacing between children with abstinence during pregnancy and lactation.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage attributes limited family size mainly to high infant mortality
+    and says the infant is immediately submerged in the nearest stream after birth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says newborn submersion can lead to infanticide when a child is
+    unwanted or visibly deformed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports a belief that food eaten by parents can influence the
+    birth, appearance, or character of the child.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mother is subject to pregnancy food restrictions that vary by tribe, including
+    prohibitions on animal foods or particular animals.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: 'Examples of prohibited foods are linked to feared animal traits: tapir traits,
+    capybara-like teeth, paca-like spots, and deformity from bush-deer flesh.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says dietary prohibitions are treated as tabus because transgression
+    is believed to cause deformed or malignant offspring.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Among some tribes, the father must abstain from meat shortly before and after
+    the child’s birth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: No birth takes place inside the house; the expectant mother goes into the
+    forest, alone or with female assistance, and men are not permitted to be present.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: North of the Japura, assisting matrons are described as having their faces
+    painted red.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: In the forest the woman makes a small clearing, spreads leaves as a bed, ties
+    and severs the umbilical cord, bathes in nearby water, and returns to the house.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: expectant mother
+  description: A pregnant or birthing woman who observes food restrictions, gives
+    birth outside the house, severs the cord, bathes, and returns home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: unborn child or newborn infant
+  description: The child is believed to be affected by parental diet, is submerged
+    in a stream at birth, and may be killed if unwanted or visibly deformed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: father or husband
+  description: The father is described as abstaining from intercourse during pregnancy
+    and lactation and, among some tribes, abstaining from meat before and after birth;
+    men are excluded from the birth scene.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: female attendant or matrons
+  description: A trusted older woman, or matrons in some groups, may accompany and
+    assist the mother in the forest; some matrons north of the Japura have red-painted
+    faces.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: birth-giver under taboo
+  assigned_to:
+  - fig:1
+  basis: The mother follows pregnancy food restrictions and gives birth in the forest
+    outside the house.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:2
+  label: vulnerable infant affected by birth customs
+  assigned_to:
+  - fig:2
+  basis: The infant is described as subject to food-related prenatal effects, stream
+    submersion, and possible infanticide.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: paternal abstainer
+  assigned_to:
+  - fig:3
+  basis: The father abstains from intercourse during pregnancy and lactation and,
+    in some tribes, from meat around birth.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: excluded male from birth scene
+  assigned_to:
+  - fig:3
+  basis: The husband and all men are not permitted to be present at birth.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: female birth attendant
+  assigned_to:
+  - fig:4
+  basis: The passage says the mother may be accompanied by a trusted older woman or
+    assisted by matrons.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: birth water
+  literal_form: nearest stream or nearest water used for infant submersion and the
+    mother’s bathing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: forest birth place
+  literal_form: forest shelter and small clearing outside the house
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: animal food as trait-bearing substance
+  literal_form: tapir, capybara, paca, bush-deer, peccary, and other animal foods
+    restricted during pregnancy
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: red-painted faces
+  literal_form: red-painted faces of assisting matrons north of the Japura
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: leaf bed
+  literal_form: bed of leaves spread in the forest clearing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: cord-severing implements
+  literal_form: fibre-string, teeth, or wooden knife used in tying and severing the
+    umbilical cord
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Family size and reproductive abstinence
+  summary: The author discusses small family size, pregnancy and lactation abstinence,
+    and spacing between children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Newborn submersion
+  summary: Immediately after birth, the infant is submerged in the nearest stream;
+    the passage links the practice with infant mortality and possible infanticide.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pregnancy food tabus
+  summary: Pregnancy diet is restricted because parental food is believed to influence
+    the child’s body or character, with specific animals linked to specific feared
+    traits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Forest birth outside the house
+  summary: When birth is imminent, the mother leaves the house for the forest, sometimes
+    with female attendants, while men are excluded.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Cord cutting and maternal bath
+  summary: The mother prepares leaves in a clearing, ties and severs the cord, bathes
+    in nearby water, and returns to the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: birth taboo and reproductive abstinence
+  taxonomy_refs: []
+  basis: The passage describes abstinence during pregnancy and lactation and additional
+    restrictions connected to childbirth.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage frames these as ethnographic customs rather than a narrated
+    myth.
+- id: motif:2
+  label: newborn water submersion as survival test
+  taxonomy_refs: []
+  basis: The infant is immediately submerged in the nearest stream, and the passage
+    links this to survival and possible infanticide.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The author interprets the practice as a test of fitness; the passage does
+    not present an indigenous explanation for the submersion.
+- id: motif:3
+  label: dietary taboo transmitting animal traits to unborn child
+  taxonomy_refs: []
+  basis: The passage states that parental diet is believed to affect the child and
+    gives several examples of animal foods producing corresponding bodily traits or
+    deformity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Examples are reported through the ethnographer and may combine several
+    tribal practices.
+- id: motif:4
+  label: paternal birth abstinence linked to couvade
+  taxonomy_refs: []
+  basis: The father’s meat abstinence before and after birth is described as evidence
+    of a special father-child connection and is explicitly linked by the author to
+    couvade to be discussed later.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The full couvade practice is not described in this passage.
+- id: motif:5
+  label: forest birth with male exclusion
+  taxonomy_refs: []
+  basis: Birth is said never to occur in the house; the mother goes to the forest,
+    sometimes with women attendants, and no husband or man may be present.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage reports practice variation among named groups.
+- id: motif:6
+  label: post-birth water cleansing
+  taxonomy_refs: []
+  basis: After severing the cord, the mother goes to the nearest water, bathes, and
+    returns home.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage describes the action but does not state a symbolic or ritual
+    interpretation for the bath.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the belief that parental food affects the child
+    as a cross-cultural pattern shared with many other peoples, while applying it
+    to the Northwest Amazonian cases described here.
+  claim_level: same_function
+  target: cross-cultural parental-diet birth-influence pattern
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is the author’s broad ethnographic generalization and
+    does not identify specific external traditions in this passage.
+- id: claim:2
+  claim: Within the passage, several named or localized Northwest Amazonian groups
+    are presented as sharing pregnancy food-taboo functions while varying in the specific
+    prohibited foods.
+  claim_level: same_function
+  target: nearby Northwest Amazonian pregnancy food-taboo practices
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The source is a single ethnographic account and gives uneven detail
+    for each group.
+- id: claim:3
+  claim: The author connects paternal meat abstinence around birth with the couvade
+    pattern by noting a special father-child connection and saying the couvade will
+    be recorded later.
+  claim_level: same_function
+  target: couvade-related paternal birth restriction pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the abstinence and authorial linkage appear in this passage; the
+    fuller couvade practice is outside the supplied text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4938-4956
+  quote_or_summary: Chapter heading names birth customs, couvade, and initiation;
+    the discussion states that families usually have two or three children and that
+    husbands abstain from intercourse during pregnancy and lactation, spacing births.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4957-4963
+  quote_or_summary: The author attributes limited family size mainly to high infant
+    mortality; the infant is immediately submerged in the nearest stream, a custom
+    said to allow infanticide of an unwanted or deformed child.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4973-4981
+  quote_or_summary: The passage says these Indians share a belief that food eaten
+    by parents influences the birth, appearance, or character of the child; mothers
+    observe pregnancy food restrictions that vary by tribe.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4982-4991
+  quote_or_summary: Examples of restricted foods include tapir, capybara, paca, bush-deer,
+    peccary, and, for Witoto women in the last month, a diet limited to small fish,
+    cassava, and fruits.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4992-5001
+  quote_or_summary: Dietary laws are strictly held; deformed or disfigured birth is
+    described as disgraceful, and the taboo penalty is deformed or malignant progeny
+    because the consumer absorbs characteristics of what is eaten.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5002-5007
+  quote_or_summary: Among some tribes the father also abstains from meat shortly before
+    and after birth; the author notes this as a father-child connection relevant to
+    couvade.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5008-5017
+  quote_or_summary: Birth never occurs in the house. The mother goes to the forest
+    alone or with female help; north of the Japura assisting matrons have red-painted
+    faces; no husband or man may be present.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5018-5034
+  quote_or_summary: In the forest the woman makes a clearing, spreads leaves, gives
+    birth, ties the cord with fibre-string, bites or cuts it with a wooden knife,
+    bathes in nearby water, and returns to the house.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography with clear birth customs and tabus.
+    Motif labels are candidates because the text reports practices and beliefs rather
+    than mythic narrative. Comparison claims are limited to comparisons made or implied
+    within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy symbol ref 'water' was applied to literal water uses; no motif-family taxonomy refs were assigned because the available motif list did not clearly match the described birth tabus without over-interpretation.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l4938-l5034
+  passage_sha256=27e496e42b75665d80192f7984aba36a0ae8e355429300ce2f42017e13439825
+

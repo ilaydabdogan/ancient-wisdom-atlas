@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0353
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-agency-subordinated-to-divine-will
+  motif_id: human_agency_subordinated_to_divine_will
+  label: human agency subordinated to divine will
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Abstract theological claim about agency and divine will; placement depends
+    on whether the passage frames fate, judgment, obedience, or mystical surrender.
+  cautions: May be doctrinal commentary rather than a narrative motif; review Islamic
+    theological context carefully.
+  suggested_aliases:
+  - human agency under divine will
+  - submission of human will to divine will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - death_by_fate
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-free-will-under-divine-power
+  motif_id: human_free_will_under_divine_power
+  label: Human free will under divine power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a theological tension rather than a clear motif event
+    or image.
+  cautions: Could map to divine_judgment, sacred_law, or death_by_fate only if source
+    evidence shows moral reckoning, command, or destiny rather than abstract doctrine.
+  suggested_aliases:
+  - free will under divine sovereignty
+  - human choice under divine power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-imam-identified-with-god
+  motif_id: human_imam_identified_with_god
+  label: Human Imam identified with God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A culturally and doctrinally sensitive claim about divine-human identification
+    that needs source context before grouping.
+  cautions: May be polemical, mystical, sectarian, or interpretive rather than a motif;
+    do not normalize without human review.
+  suggested_aliases:
+  - imam as divine manifestation
+  - human religious leader identified with divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - royal_legitimacy
+    - divine_intervention
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-life-as-divine-test-and-guided-choice
+  motif_id: human_life_as_divine_test_and_guided_choice
+  label: Human life as divine test and guided choice
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Life framed as a divine test aligns with moral evaluation and sacred
+    reckoning.
+  cautions: If the passage emphasizes guidance and law more than testing, sacred_law
+    or covenant may be secondary; if purely doctrinal, review before indexing.
+  suggested_aliases:
+  - life as divine test
+  - divine testing of human choice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-life-course-under-divine-determination
+  motif_id: human_life_course_under_divine_determination
+  label: Human life course under divine determination
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: A life course determined by divine decree fits the existing fate/destiny
+    field, though broader than death alone.
+  cautions: Existing group centers on death by fate; use only if the passage treats
+    destiny as governing human life, not merely divine providence or ethical guidance.
+  suggested_aliases:
+  - life under divine decree
+  - divinely determined life course
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-life-from-divine-breath-and-clay
+  motif_id: human_life_from_divine_breath_and_clay
+  label: human life from divine breath and clay
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Creation of human life from earth or clay and divine breath is an anthropogonic
+    creation motif.
+  cautions: Could also relate to sacred_craft if the emphasis is divine fashioning;
+    preserve breath-and-clay detail as evidence.
+  suggested_aliases:
+  - human creation from clay and divine breath
+  - divine breath animates clay human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-religious-difference-under-divine-mercy
+  motif_id: human_religious_difference_under_divine_mercy
+  label: Human religious difference under divine mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as ethical-theological teaching about plural difference
+    and mercy rather than a clear narrative motif.
+  cautions: Sensitive doctrinal category; may fit covenant, sacred_law, or divine_judgment
+    only if tied to concrete sacred order, command, or reckoning in the passage.
+  suggested_aliases:
+  - religious difference under divine mercy
+  - divine mercy toward human difference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-warrior-as-divine-instrument
+  motif_id: human_warrior_as_divine_instrument
+  label: Human warrior as divine instrument
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A human warrior acting as an instrument of divine purpose belongs with
+    sacred combat and divine-warrior roles.
+  cautions: If the emphasis is divine guidance rather than combat, divine_intervention
+    may be a secondary mapping; avoid equating human agency with divine identity.
+  suggested_aliases:
+  - warrior as instrument of divine will
+  - human agent of divine combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humanity-fashioned-by-divine-creators-from-earth-or-clay
+  motif_id: humanity_fashioned_by_divine_creators_from_earth_or_clay
+  label: humanity fashioned by divine creators from earth or clay
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Humanity formed from earth or clay by divine creators is a creation-of-humans
+    motif within cosmic origins.
+  cautions: If the passage emphasizes manufacture or animation rather than cosmogony,
+    sacred_craft may also be relevant.
+  suggested_aliases:
+  - humans fashioned from clay
+  - divine creation of humans from earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humanity-made-in-divine-image-with-dominion
+  motif_id: humanity_made_in_divine_image_with_dominion
+  label: Humanity made in divine image with dominion
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns the created status and cosmic role of humanity within
+    an origin account.
+  cautions: Dominion may also point to sacred_law or royal_legitimacy if the passage
+    stresses mandate, rule, or ethical stewardship rather than creation.
+  suggested_aliases:
+  - humanity in divine image
+  - human dominion in creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic labels are abstract theological formulations rather than narrative
+  motifs; human review should verify passage evidence before broad indexing.
+- Do not use these placements to infer transmission or doctrinal equivalence across
+  traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions only; culturally sensitive divine-will and imam-identification
+    labels require source-aware review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0353
+  input_sha256: ad995b2d1c3c3772b89577d04ab3b07c8b38e85f469d57b2b3f484433877283d
+

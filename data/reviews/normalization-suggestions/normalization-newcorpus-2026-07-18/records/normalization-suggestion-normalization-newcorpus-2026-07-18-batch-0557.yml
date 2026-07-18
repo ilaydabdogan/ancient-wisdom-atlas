@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0557
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unborn-child-coaxed-into-birth-by-speech-and-charm-object
+  motif_id: unborn_child_coaxed_into_birth_by_speech_and_charm_object
+  label: unborn child coaxed into birth by speech and charm object
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines birth, performative speech, and a charm object; placement
+    depends on whether birth, speech power, or ritual object is central.
+  cautions: Culturally specific Australian Aboriginal evidence should be reviewed
+    before broad indexing; single occurrence and composite wording may be over-specific.
+  suggested_aliases:
+  - speech_coaxes_birth
+  - charm_object_assists_birth
+  - performative_birth_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - curse_blessing_speech
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncertain-unnamed-lawgiving-ruler
+  motif_id: uncertain_unnamed_lawgiving_ruler
+  label: Uncertain unnamed lawgiving ruler
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording emphasizes uncertainty and lack of identification, suggesting
+    a cataloging or interpretive note rather than a reusable motif.
+  cautions: If source evidence shows a ruler establishing sacred law, reconsider under
+    royal_legitimacy or sacred_law.
+  suggested_aliases:
+  - unnamed_lawgiver
+  - uncertain_lawgiver
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncontrolled-abundance-caused-by-missing-stopping-knowledge
+  motif_id: uncontrolled_abundance_caused_by_missing_stopping_knowledge
+  label: uncontrolled abundance caused by missing stopping knowledge
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function turns on incomplete or missing knowledge needed
+    to control a marvelous abundance-producing power.
+  cautions: Could also relate to divine_intervention or sacred_substance if the abundance
+    itself is the focus; preserve the missing-stopping-formula detail.
+  suggested_aliases:
+  - missing_stopping_formula
+  - uncontrolled_magic_abundance
+  - incomplete_control_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.undertaking-enabled-by-counsel-and-patronage
+  motif_id: undertaking_enabled_by_counsel_and_patronage
+  label: undertaking enabled by counsel and patronage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Counsel could indicate wisdom, patronage could indicate divine or social
+    support, but the label is too general to place confidently.
+  cautions: May be a passage-specific plot connector rather than a motif; source evidence
+    needed to identify whether advice, patronage, or quest structure matters.
+  suggested_aliases:
+  - counsel_and_patronage
+  - patron_enabled_undertaking
+  - advice_enables_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unequal-division-of-hunted-spoils
+  motif_id: unequal_division_of_hunted_spoils
+  label: Unequal division of hunted spoils
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Unequal spoils division may signal violated reciprocity, conflict provocation,
+    or social ranking, but the function is unclear from the label alone.
+  cautions: Not obviously a wisdom/revelation motif; may be an episode detail unless
+    it triggers feud, judgment, or sacred exchange failure.
+  suggested_aliases:
+  - disputed_spoils_division
+  - unequal_share_of_hunt
+  - spoils_distribution_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - betrayal_violated_trust
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfailing-fatal-sword
+  motif_id: unfailing_fatal_sword
+  label: Unfailing fatal sword
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: high
+  rationale: A sword with unfailing fatal power is a weapon-as-power-object motif
+    fitting sacred treasures.
+  cautions: If the sword mainly enacts fate or doom, secondary review under death_by_fate
+    may be useful.
+  suggested_aliases:
+  - fatal_sword
+  - unerring_sword
+  - doom_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unified-prophetic-revelation-lineage
+  motif_id: unified_prophetic_revelation_lineage
+  label: Unified prophetic revelation lineage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns continuity of prophetic revelation through a lineage,
+    fitting prophecy as structured access to sacred knowledge.
+  cautions: Could be doctrinal/theological framing rather than narrative motif; avoid
+    using placement as a transmission claim.
+  suggested_aliases:
+  - prophetic_lineage
+  - continuity_of_revelation
+  - unified_revelation_chain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unlikely-humble-envoy-with-crucial-knowledge
+  motif_id: unlikely_humble_envoy_with_crucial_knowledge
+  label: Unlikely humble envoy with crucial knowledge
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on crucial knowledge carried by an unexpected low-status
+    messenger or envoy.
+  cautions: If the envoy's mission, not the knowledge, is central, divine_intervention
+    or hero_journey may be better; single occurrence may be too contextual.
+  suggested_aliases:
+  - humble_envoy_with_knowledge
+  - lowly_messenger_reveals_key_knowledge
+  - unexpected_knowledge_bearer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-kin-seeking-provisions
+  motif_id: unrecognized_kin_seeking_provisions
+  label: unrecognized kin seeking provisions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unrecognized kin implies hidden identity and potential recognition, with
+    provisions as the encounter context.
+  cautions: If the passage emphasizes hospitality, famine relief, or family obligation
+    more than recognition, consider sacred_exchange or hospitality_test_stranger_guest.
+  suggested_aliases:
+  - unrecognized_kin
+  - hidden_kinship_encounter
+  - kin_unrecognized_during_request_for_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uprooted-wicked-lineage-versus-immortal-chaste-memory
+  motif_id: uprooted_wicked_lineage_versus_immortal_chaste_memory
+  label: Uprooted wicked lineage versus immortal chaste memory
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between destroyed wicked lineage and enduring righteous
+    memory functions as moral reckoning across generations.
+  cautions: The wording is abstract and possibly exegetical; if it is a wisdom saying
+    rather than narrative event, sacred_knowledge may be a secondary fit.
+  suggested_aliases:
+  - wicked_lineage_uprooted
+  - righteous_memory_endures
+  - moral_memory_versus_destroyed_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract; suggested placements
+  should remain provisional until passage evidence confirms narrative function.
+- Review bucket assignment to wisdom/speech/revelation appears loose for some items,
+  especially hunted spoils, fatal sword, and unrecognized kin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0557
+  input_sha256: 6413396af9e1d2c59fb8fce821d5eebaa8ae98b74d1746358314a5d2114a4682
+

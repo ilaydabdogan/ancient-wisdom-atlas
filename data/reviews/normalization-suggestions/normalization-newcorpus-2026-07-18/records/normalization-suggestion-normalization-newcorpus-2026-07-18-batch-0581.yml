@@ -1,0 +1,329 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0581
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cross-cultural-misjudgment-of-a-revered-teacher
+  motif_id: cross_cultural_misjudgment_of_a_revered_teacher
+  label: Cross-cultural misjudgment of a revered teacher
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe misunderstanding of a sage's status or teaching,
+    but the motif function is unclear from wording alone.
+  cautions: Could fit sacred_knowledge, divine_judgment, pride_and_downfall, or be
+    a passage-specific cross-cultural commentary artifact; source evidence needed.
+  suggested_aliases:
+  - misjudgment_of_revered_teacher
+  - unrecognized_sage
+  - teacher_misunderstood_by_outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cruel-outsider-ruler-disrupting-a-peaceful-local-order
+  motif_id: cruel_outsider_ruler_disrupting_a_peaceful_local_order
+  label: Cruel outsider ruler disrupting a peaceful local order
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A violent or illegitimate ruler disrupting order concerns failed or abusive
+    sovereignty and the legitimacy of rule.
+  cautions: If the story emphasizes moral punishment of the ruler, divine_judgment
+    may be a secondary mapping; if merely colonial or historical detail, review before
+    indexing.
+  suggested_aliases:
+  - tyrannical_outsider_ruler
+  - illegitimate_ruler_disrupts_order
+  - abusive_sovereign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cruel-ruler-encoded-by-weapon-of-destruction
+  motif_id: cruel_ruler_encoded_by_weapon_of_destruction
+  label: Cruel ruler encoded by weapon of destruction
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to connect rulership with a destructive weapon, but
+    'encoded by' suggests interpretive or textual classification rather than a clear
+    narrative motif.
+  cautions: May be a symbolic reading, iconographic note, or passage artifact; do
+    not map to sacred_treasures or royal_legitimacy without evidence that the weapon
+    functions narratively.
+  suggested_aliases:
+  - destructive_weapon_symbolizes_cruel_ruler
+  - weapon_as_sign_of_tyranny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_treasures
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.culprit-pronounces-her-own-punishment
+  motif_id: culprit_pronounces_her_own_punishment
+  label: Culprit pronounces her own punishment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A wrongdoer unknowingly or explicitly declaring the penalty that falls
+    on them is a judgment and moral-reversal pattern.
+  cautions: May also involve performative speech if the pronouncement itself binds
+    the outcome; merge with near-duplicate culprit_pronounces_own_punishment variants
+    during review.
+  suggested_aliases:
+  - culprit_pronounces_own_punishment
+  - self_pronounced_punishment
+  - wrongdoer_declares_own_sentence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.culprit-pronounces-own-punishment
+  motif_id: culprit_pronounces_own_punishment
+  label: Culprit pronounces own punishment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The culprit's own words becoming their sentence fits moral reckoning
+    and reversal of wrongdoing.
+  cautions: Duplicate or near-duplicate of gendered and unknowingly-pronounced variants;
+    preserve wording only as evidence detail if needed.
+  suggested_aliases:
+  - culprit_pronounces_her_own_punishment
+  - culprit_unknowingly_pronounces_own_punishment
+  - self_sentencing_culprit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.culprit-unknowingly-pronounces-own-punishment
+  motif_id: culprit_unknowingly_pronounces_own_punishment
+  label: culprit unknowingly pronounces own punishment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Unwitting self-sentencing is a strong moral reckoning pattern where hidden
+    guilt is exposed through the culprit's own judgment.
+  cautions: Also touches performative sacred speech, but the main function is judgment;
+    consolidate with duplicate labels.
+  suggested_aliases:
+  - culprit_pronounces_own_punishment
+  - self_pronounced_punishment
+  - unwitting_self_sentence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curing-operation-by-sucking-and-biting
+  motif_id: curing_operation_by_sucking_and_biting
+  label: Curing operation by sucking and biting
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a specific healing technique, but the current taxonomy
+    lacks a stable ritual-healing group distinct from divine intervention or sacred
+    law.
+  cautions: Culturally specific healing practice; avoid flattening into generic sacrifice
+    or divine intervention without evidence of spirit expulsion, soul restoration,
+    or sacred agency.
+  suggested_aliases:
+  - sucking_cure
+  - biting_cure
+  - ritual_healing_by_sucking
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Sacred Cure
+    description: Healing rites, sacred cures, extraction practices, spirit-mediated
+      remedies, or ritual operations that restore bodily, social, or spiritual health.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - soul_loss_restoration
+    - sacrifice
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover divine intervention,
+      soul restoration, expulsion, and sacred law, but not recurring healing techniques
+      whose main function is cure rather than judgment, sacrifice, or quest.
+- suggestion_id: normalization.suggestion.dance-making
+  motif_id: dance_making
+  label: dance-making
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether dance functions as ritual
+    power, possession, performance, social order, or a passage artifact.
+  cautions: Afro-Caribbean ritual contexts may be culturally specific; source evidence
+    is needed before creating or assigning a dance/ritual performance motif.
+  suggested_aliases:
+  - ritual_dance
+  - dance_as_ritual_action
+  - dance_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - storytelling_as_power
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.danger-of-looking-back-under-an-evil-eye
+  motif_id: danger_of_looking_back_under_an_evil_eye
+  label: danger of looking back under an evil eye
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition against looking back under dangerous gaze conditions fits
+    taboo, apotropaic protection, and ritual danger under sacred law.
+  cautions: Could instead be an ordeal or threshold rule if tied to journey passage;
+    preserve evil-eye and looking-back details as local evidence.
+  suggested_aliases:
+  - looking_back_taboo
+  - evil_eye_looking_back_danger
+  - prohibited_backward_gaze
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-father-in-law-kills-suitors-and-guests
+  motif_id: dangerous_father_in_law_kills_suitors_and_guests
+  label: dangerous father-in-law kills suitors and guests
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The father-in-law's killing of suitors and guests makes kinship hospitality
+    and guest safety into a dangerous test.
+  cautions: If the focus is bride-winning ordeal rather than guest-host violation,
+    sacred_love or initiation may be better secondary mappings; review culturally
+    specific kinship context.
+  suggested_aliases:
+  - dangerous_host_kills_suitors
+  - deadly_father_in_law_test
+  - suitor_killing_father_in_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should remain provisional until source passages
+  confirm narrative function.
+- The three culprit-pronounces-own-punishment labels are near-duplicates and should
+  likely be consolidated under one normalized child or alias of divine_judgment, with
+  curse_blessing_speech as related.
+- Healing and dance labels are culturally sensitive and too broad without passage
+  evidence; human review should avoid overgeneralizing local ritual practice.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0581
+  input_sha256: 515a51af8bfe1320b43d497fc2b4b0f557eb7d173b803f976a1f71ad60fca244
+

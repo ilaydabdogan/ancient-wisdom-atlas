@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0405
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repentance-alms-and-purification-leading-to-mercy
+  motif_id: repentance_alms_and_purification_leading_to_mercy
+  label: Repentance, alms, and purification leading to mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repentance, alms, and purification function as acts that repair sacred
+    relationship and lead to mercy.
+  cautions: Could also map to covenant, sacred_law, or divine_judgment if the passage
+    emphasizes law, obligation, or moral reckoning more than ritual repair.
+  suggested_aliases:
+  - repentance_and_almsgiving
+  - purification_leading_to_mercy
+  - acts_of_repentance_restore_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-and-ritual-reintegration
+  motif_id: repentance_and_ritual_reintegration
+  label: Repentance and ritual reintegration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repentance followed by reintegration describes restoration of sacred
+    or communal relationship through ritualized repair.
+  cautions: If reintegration is primarily legal or communal boundary status, sacred_law
+    or covenant may be better secondary placements.
+  suggested_aliases:
+  - ritual_reintegration_after_repentance
+  - repentance_restores_community
+  - penitential_reintegration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-with-apostolic-intercession-and-divine-mercy
+  motif_id: repentance_with_apostolic_intercession_and_divine_mercy
+  label: repentance with apostolic intercession and divine mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key added feature is sacred mediation or intercession bringing divine
+    mercy into human affairs.
+  cautions: Could fit sacred_exchange if repentance is the central action; apostolic
+    wording should be reviewed for source-specific role and sensitivity.
+  suggested_aliases:
+  - intercession_for_repentant_sinner
+  - prophetic_intercession_and_mercy
+  - repentance_through_sacred_intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-of-apostates-by-a-divinely-favored-community
+  motif_id: replacement_of_apostates_by_a_divinely_favored_community
+  label: Replacement of apostates by a divinely favored community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community is displaced after apostasy and replaced by a favored group,
+    expressing judgment and moral reordering.
+  cautions: May also involve covenantal election or sacred social order; avoid broad
+    comparative claims from a single theological label.
+  suggested_aliases:
+  - apostate_community_replaced
+  - divinely_favored_replacement_community
+  - judgment_on_apostasy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-from-harpies-and-pursuit-halted-by-divine-intervention
+  motif_id: rescue_from_harpies_and_pursuit_halted_by_divine_intervention
+  label: rescue from Harpies and pursuit halted by divine intervention
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly centers on divine intervention stopping a pursuit
+    and enabling rescue.
+  cautions: Harpies and pursuit are episode-specific details; if indexed for monster
+    encounter or rescue ordeal, a secondary conflict/hero_journey mapping may be useful.
+  suggested_aliases:
+  - divine_intervention_halts_pursuit
+  - supernatural_rescue_from_harpies
+  - pursuit_stopped_by_divine_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-a-damaged-or-incomplete-sacred-canon
+  motif_id: restoration_of_a_damaged_or_incomplete_sacred_canon
+  label: Restoration of a damaged or incomplete sacred canon
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe textual restoration or canon repair rather
+    than a narrative motif.
+  cautions: If a source narrates miraculous recovery of lost scripture, sacred_knowledge
+    or divine_intervention may apply; verify passage evidence before exclusion.
+  suggested_aliases:
+  - restored_sacred_canon
+  - canon_restoration
+  - recovery_of_damaged_scripture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-sacred-inscription-brings-divine-reward
+  motif_id: restoration_of_sacred_inscription_brings_divine_reward
+  label: Restoration of sacred inscription brings divine reward
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoring a sacred inscription is a pious act that produces divine reward,
+    fitting reciprocal sacred repair.
+  cautions: Could also map to sacred_knowledge if the inscription's content or preservation
+    of sacred writing is central.
+  suggested_aliases:
+  - restoring_sacred_text_brings_reward
+  - pious_restoration_of_inscription
+  - divine_reward_for_preserving_inscription
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-through-prayer-at-water-before-renewed-combat
+  motif_id: restoration_through_prayer_at_water_before_renewed_combat
+  label: Restoration through prayer at water before renewed combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Prayer brings restoration before renewed combat, indicating sacred aid
+    in human conflict.
+  cautions: Water and combat are important local details; secondary links to sacred_waters
+    or divine_warrior may be warranted if the passage emphasizes purification or sacred
+    battle.
+  suggested_aliases:
+  - prayer_restores_warrior_before_combat
+  - restoration_by_prayer_at_water
+  - divine_aid_before_renewed_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restored-zion-and-inherited-dwelling
+  motif_id: restored_zion_and_inherited_dwelling
+  label: Restored Zion and inherited dwelling
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe restoration of sacred community, promised inheritance,
+    place theology, or a passage-specific Zion reference.
+  cautions: Could fit covenant, divine_judgment, world_center, royal_legitimacy, or
+    be too place-specific; source context is needed.
+  suggested_aliases:
+  - restored_sacred_city
+  - inheritance_of_restored_dwelling
+  - zion_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-divine-presence-behind-a-veil
+  motif_id: restricted_divine_presence_behind_a_veil
+  label: Restricted divine presence behind a veil
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns divine presence made manifest but ritually restricted
+    behind a boundary or veil.
+  cautions: If the veil functions mainly as temple geography or sacred center, axis_mundi/world_center
+    may be a secondary mapping; if primarily purity regulation, sacred_law may fit.
+  suggested_aliases:
+  - veiled_divine_presence
+  - divine_presence_behind_veil
+  - restricted_access_to_sacred_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several repentance and mercy labels may eventually justify a penitence/atonement
+  subgroup if they recur, but current existing groups can hold them without new taxonomy
+  changes.
+- Single-occurrence place-specific and text-restoration labels should be checked against
+  passage evidence before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended for Zion restoration, sacred canon restoration,
+    and culturally specific repentance/intercession wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0405
+  input_sha256: 83735381e58d3c21f92e3b84d229d57e92b74f349d00ddac8036833063380398
+

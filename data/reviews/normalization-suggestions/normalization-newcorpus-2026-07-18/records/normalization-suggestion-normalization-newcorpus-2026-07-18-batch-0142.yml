@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0142
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tragic-heroine-s-lament-and-death
+  motif_id: tragic_heroine_s_lament_and_death
+  label: tragic heroine's lament and death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on lament joined to death, fitting the mourning and
+    tragic-recognition complex.
+  cautions: Single occurrence; if the passage emphasizes heroic death, sacrifice,
+    or love beyond death, secondary placement may be needed.
+  suggested_aliases:
+  - heroine_lament_and_death
+  - tragic_lament_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trance-specialist-invokes-a-spirit-helper-against-ghosts
+  motif_id: trance_specialist_invokes_a_spirit_helper_against_ghosts
+  label: trance specialist invokes a spirit helper against ghosts
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: A spirit helper acting against ghosts resembles supernatural aid or tutelary-spirit
+    intervention.
+  cautions: Culturally specific shamanic/trance terminology and ghost ritual context
+    require careful review; could instead fit ancestor rites, restless dead, exorcism/ritual
+    expulsion, or sacred law.
+  suggested_aliases:
+  - spirit_helper_against_ghosts
+  - ritual_specialist_invokes_spirit_helper
+  - trance_medium_spirit_aid_against_ghosts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-a-royal-woman-after-defeat-or-death
+  motif_id: transfer_of_a_royal_woman_after_defeat_or_death
+  label: Transfer of a royal woman after defeat or death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern succession, marriage alliance, captivity, gendered
+    social order, or postwar transfer rather than a death motif.
+  cautions: Potentially sensitive and context-dependent; avoid reducing the royal
+    woman to an object motif without source evidence. Could relate to royal_legitimacy,
+    sacred_love, sacred_combat, or social order.
+  suggested_aliases:
+  - royal_woman_transferred_after_defeat
+  - widowed_or_defeated_queen_transfer
+  - postwar_transfer_of_royal_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transferred-corpse-causing-mistaken-culpability
+  motif_id: transferred_corpse_causing_mistaken_culpability
+  label: transferred corpse causing mistaken culpability
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mistaken culpability around a corpse fits the existing false-accusation
+    and moral-reckoning cluster under divine judgment.
+  cautions: May be a comic or plot-device detail rather than sacred judgment; preserve
+    corpse-transfer specificity as evidence only.
+  suggested_aliases:
+  - corpse_transfer_false_culpability
+  - mistaken_guilt_from_moved_corpse
+  - false_culpability_after_corpse_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformation-into-ghost-with-gender-change
+  motif_id: transformation_into_ghost_with_gender_change
+  label: transformation into ghost with gender change
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: Postmortem change into a ghost is a death-transformation pattern, with
+    gender change adding transformation content.
+  cautions: Needs source review for culturally specific gender and ghost concepts;
+    could also fit restless_dead_haunting_vengeance or shapeshifter depending on whether
+    the ghost acts after death.
+  suggested_aliases:
+  - postmortem_gender_change
+  - ghost_transformation_with_gender_change
+  - gender_changed_ghost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformative-hellfire
+  motif_id: transformative_hellfire
+  label: transformative hellfire
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hellfire that transforms belongs to punishment, purification, or postmortem
+    moral reckoning.
+  cautions: Do not map to world_destroying_fire unless cosmic destruction or world
+    renewal is explicit; could also relate to afterlife_passage if part of a mapped
+    postmortem route.
+  suggested_aliases:
+  - purifying_hellfire
+  - postmortem_transformative_fire
+  - hellfire_as_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transgression-followed-by-supernatural-kick-returning-protagonist-home
+  motif_id: transgression_followed_by_supernatural_kick_returning_protagonist_home
+  label: Transgression followed by supernatural kick returning protagonist home
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: return
+  suggested_group_label: Return
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The narrative function is a forced supernatural return home after boundary
+    violation or transgression.
+  cautions: Highly episode-specific and possibly comic; could fit divine_judgment
+    if the kick is punishment, or otherworld if it expels the protagonist from an
+    enchanted realm.
+  suggested_aliases:
+  - supernatural_forced_return_home
+  - transgression_and_forced_return
+  - expulsion_home_after_taboo_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmigration-of-the-soul-through-bodies
+  motif_id: transmigration_of_the_soul_through_bodies
+  label: transmigration of the soul through bodies
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Transmigration and Reincarnation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Movement of a soul through multiple bodies is not well captured by resurrection,
+    external soul, or simple death-transformation.
+  cautions: Requires careful tradition-specific review; in some contexts it may be
+    doctrinal polemic, philosophical anthropology, or commentary rather than narrative
+    motif.
+  suggested_aliases:
+  - soul_transmigration
+  - metempsychosis
+  - reincarnation_through_bodies
+  suggested_new_group:
+    id: soul_transmigration_reincarnation
+    label: Soul Transmigration and Reincarnation
+    description: A soul, self, or life-principle passes through successive bodies,
+      births, species, or embodied states after death or across cosmic cycles.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - soul_loss_restoration
+    - external_soul
+    - sacred_knowledge
+    - mystical_quest
+    reason_existing_groups_insufficient: Existing groups cover death-return, resurrection,
+      soul loss, and externalized life, but not repeated rebirth or passage of the
+      same soul through successive bodies.
+- suggestion_id: normalization.suggestion.treacherous-brother-as-instigator-of-death
+  motif_id: treacherous_brother_as_instigator_of_death
+  label: Treacherous brother as instigator of death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: role_variant
+  confidence: high
+  rationale: The core motif is kin betrayal causing death, a clear violated-trust
+    pattern.
+  cautions: If the sibling relation drives cosmic opposition or foundation myth, sacred_twins/sibling_pair
+    may be a secondary mapping; if emphasis is fate, death_by_fate may also apply.
+  suggested_aliases:
+  - brother_betrayal_causes_death
+  - fraternal_treachery_leads_to_death
+  - kinsman_instigates_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-counsel-leading-to-execution-and-death
+  motif_id: treacherous_counsel_leading_to_execution_and_death
+  label: treacherous counsel leading to execution and death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deadly counsel that leads to execution centers on betrayal through advice
+    and violated trust.
+  cautions: Could also fit divine_judgment if the execution is legal/moral reckoning,
+    or royal_legitimacy if counsel affects rulership; source context should decide
+    secondary indexing.
+  suggested_aliases:
+  - deadly_treacherous_counsel
+  - betraying_counsel_leads_to_execution
+  - false_counsel_causes_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence, so suggestions should be treated
+  as provisional evidence-level placements rather than taxonomy edits.
+- Several labels combine death with legal, social, or plot functions; placement follows
+  the apparent narrative function rather than the presence of death language alone.
+- Culturally specific spirit, trance, gender, and Islamic afterlife/doctrinal labels
+  need human review before durable normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch-0142; no taxonomy changes
+    applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0142
+  input_sha256: 7e258a3f08ee77428fdebda9672de6b8be24a534eb986789dc0b1cd553ee4602
+

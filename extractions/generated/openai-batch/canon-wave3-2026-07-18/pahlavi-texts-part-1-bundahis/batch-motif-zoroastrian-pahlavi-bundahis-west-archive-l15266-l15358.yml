@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15266-l15358
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    11,8-11.  249 / CHAPTER    II,   12-19.  251 / CHAPTER    II,   20-32.  25
+    / CHAPTER    II,    33-38.  255; lines 15266-15358
+  start: '15266'
+  end: '15358'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives rules about corpse pollution: how dead matter affects
+    substances, ground, and water; what to do when a dog or person dies in a house
+    where a ceremony is prepared; how fire must be protected and kept from a corpse;
+    when a wall may or may not be cut; and how prepared or unprepared food in the
+    house is treated afterward.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that some material polluted by dead matter conveys pollution
+    downward through the ground toward water.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dung-fuel, ashes, flour, and other powdered things are described as becoming
+    wholly polluted when dead matter comes upon them, while not making the ground
+    polluted.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In a house where the sanded ceremony is prepared, if a dog or a person passes
+    away, the first stated duty is to preserve the fire from harm.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If it is possible to carry away the fire while passing within three steps
+    of the corpse, the passage says it is still to be carried away and the wall is
+    not to be cut.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Roshan is cited for a wall-related rule: an earthen one is to be cut into,
+    while a mortar one is not to be cut; damaging the wall is not counted below or
+    above.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage classifies bringing fire within three steps from the corpse as
+    a Tanapuhar sin, and says that when exudation happens to the corpse it is worthy
+    of death.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The prepared food in the house is declared useless, while unprepared food
+    is usable for a period described as nine nights.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note states that under ordinary circumstances fire must not be brought within
+    thirty steps of a corpse, while the described case allows for a practical choice
+    of the lesser harm.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: dead matter / corpse
+  description: Dead matter or a corpse is the object whose contact brings pollution
+    to substances and creates rules for the handling of fire, walls, and food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: fire
+  description: The fire in the ritual house is to be preserved from harm and carried
+    away, but not brought within the prohibited distance from the corpse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: dog or person who passes away
+  description: A dog or person may pass away in the house where the sanded ceremony
+    is prepared; a note explains that the verb is used for the death of good people
+    or animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Roshan
+  description: Roshan is cited as the authority or commentary giving a rule about
+    whether a wall is to be cut.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: source of corpse pollution
+  assigned_to:
+  - fig:1
+  basis: Dead matter or a corpse is described as polluting substances, affecting ground
+    or water, and requiring distance from the fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: protected ritual fire
+  assigned_to:
+  - fig:2
+  basis: The passage says the first business after a death in the ritual house is
+    to preserve the fire from harm and carry it away under specified limits.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: role:3
+  label: deceased being in ritual house
+  assigned_to:
+  - fig:3
+  basis: The dog or person is the being whose death in the house triggers the fire-preservation
+    procedure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: commentarial authority
+  assigned_to:
+  - fig:4
+  basis: Roshan is introduced with a statement about cutting an earthen or mortar
+    wall, and a note identifies Roshan as a commentator or commentary.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire protected from corpse pollution
+  literal_form: fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: water receiving downward pollution
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: corpse or dead matter
+  literal_form: dead matter / corpse
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: three-step corpse boundary
+  literal_form: three steps from the corpse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: nine-night food interval
+  literal_form: nine nights
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: ground as medium or boundary of pollution
+  literal_form: ground
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dead matter and material pollution
+  summary: 'The passage distinguishes how dead matter pollutes different materials:
+    some convey pollution downward through the ground toward water, while powdered
+    substances become polluted throughout themselves without polluting the ground.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Death in a ritual house and removal of fire
+  summary: When a dog or person dies in a house where the ceremony is prepared, the
+    fire must be preserved and may be carried away under the stated three-step constraint;
+    the text also defines an offence involving bringing fire too close to the corpse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: scene:3
+  label: Wall treatment according to Roshan
+  summary: Roshan’s cited rule distinguishes between an earthen wall that may be cut
+    into and a mortar wall that is not to be cut, with a note about damaging the wall.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Food status after death in the house
+  summary: After the death in the house, prepared food is useless, while unprepared
+    food remains usable for nine nights.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Corpse impurity transmitted through contact and material media
+  taxonomy_refs: []
+  basis: Dead matter is said to pollute touched space or substances, with different
+    rules for ground-connected material and powdered substances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is legal-ritual rather than narrative; motif labeling is descriptive.
+- id: motif:2
+  label: Protection of ritual fire from corpse contamination
+  taxonomy_refs: []
+  basis: After a death in the ritual house, the first business is preserving the fire
+    from harm, and the fire must not be brought within the prohibited distance from
+    the corpse.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The available taxonomy has a fire symbol, but no exact motif-family reference
+    for this ritual rule.
+- id: motif:3
+  label: Ritual boundary around a corpse
+  taxonomy_refs: []
+  basis: The passage uses a three-step minimum boundary for carrying the fire and
+    classifies bringing the fire within that boundary as a sin; a note contrasts this
+    with a thirty-step ordinary rule.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The rule is spatial and legal; no broader mythic journey or underworld
+    pattern is stated.
+- id: motif:4
+  label: Practical hierarchy of ritual harms
+  taxonomy_refs: []
+  basis: The passage prefers carrying the fire away under difficult conditions rather
+    than cutting the wall, and the note frames this as choosing the lesser of two
+    evils.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: This motif relies partly on the translator’s explanatory note rather than
+    only on the main text.
+- id: motif:5
+  label: Postmortem household food interdiction and timed usability
+  taxonomy_refs: []
+  basis: Prepared food in the affected house is useless, while unprepared food remains
+    usable for nine nights.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states the rule but does not explain its symbolic rationale.
+comparison_claims:
+- id: claim:1
+  claim: A note says that Pahlavi Vendidad V, 134 contains nearly the same text as
+    the sections on a death in the ritual house and removal of the fire, supporting
+    a cautious same-rule comparison within a nearby Zoroastrian legal corpus.
+  claim_level: same_motif
+  target: Pahlavi Vendidad V, 134
+  evidence_refs:
+  - ev:4
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by a note in the passage; the actual Vendidad
+    text is not included here for direct verification.
+- id: claim:2
+  claim: A note connects the corpse-distance rule for fire with Vendidad VIII, 17,
+    where fire is said not to be brought within thirty steps of a corpse under ordinary
+    circumstances; this has the same ritual function as the three-step rule in the
+    passage.
+  claim_level: same_function
+  target: Vendidad VIII, 17
+  evidence_refs:
+  - ev:8
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the note’s summary of Vendidad VIII, 17 is available in the supplied
+    passage, and the distances differ by circumstance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15266-15274; §36 fragment
+  quote_or_summary: Some substance affected by dead matter pollutes the space it comes
+    upon and, because it is connected with the ground, conveys pollution down to the
+    water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 15275-15283; §37
+  quote_or_summary: Dung-fuel, ashes, flour, and other powdered things are connected
+    with their own substance but separated from the ground; when dead matter comes
+    upon them, the whole is polluted, but the ground is not polluted.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 15284-15299; §38
+  quote_or_summary: In a house where the sanded ceremony is prepared, if a dog or
+    person passes away, the fire is first to be preserved from harm; if possible,
+    it is carried away even within three steps of the corpse, and the wall is not
+    to be cut.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: note
+  locator: lines 15300-15314; note to §38
+  quote_or_summary: The note explains that the verb translated 'passes away' is used
+    for the death of good people or animals, and adds that Pahlavi Vendidad V, 134
+    contains nearly the same text as §§38-39.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence from translator
+    note.
+- id: ev:5
+  type: summary
+  locator: lines 15318-15322 and 15340-15348; §39 and note
+  quote_or_summary: Roshan says that an earthen one is to be cut into, but a mortar
+    one is not to be cut; the note identifies Roshan as the name of a commentator
+    or commentary often quoted in Pahlavi translations and explains wall-damaging
+    terminology.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 15322-15327; §40
+  quote_or_summary: Bringing the fire within three steps from the corpse is called
+    a Tanapuhar sin; when exudation happens to the corpse, it is described as worthy
+    of death.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 15327-15329; §41
+  quote_or_summary: Prepared food in that house is all useless, while food not prepared
+    is usable for the length of nine nights.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: note
+  locator: lines 15330-15358; notes to §§38-40
+  quote_or_summary: A note states that under ordinary circumstances fire must not
+    be brought within thirty steps of a corpse, citing Vendidad VIII, 17, and explains
+    that the law allows a practical choice of the lesser harm in difficult cases.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence from translator
+    note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage begins mid-sentence and is primarily ritual-legal material with
+    translator notes. Motif labels are descriptive and should be reviewed by a human
+    specialist.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family IDs were assigned because the supplied motif-family list lacks an exact ritual-pollution or corpse-contamination category. Symbol taxonomy refs were used only for fire and water where directly supported.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15266-l15358
+  passage_sha256=302ccd0bb5f6c2cc82ccea9e548c1a8fff9ea98f18cf5f01151869b1a763f6fd
+

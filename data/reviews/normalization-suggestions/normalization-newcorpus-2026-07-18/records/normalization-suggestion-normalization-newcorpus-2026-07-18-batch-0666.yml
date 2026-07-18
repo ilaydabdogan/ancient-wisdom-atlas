@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0666
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wounded-warrior-seeking-vengeance
+  motif_id: wounded_warrior_seeking_vengeance
+  label: wounded warrior seeking vengeance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wounded warrior pursuing vengeance fits the martial honor and sacred
+    combat cluster already represented under divine_warrior.
+  cautions: Single occurrence; if the passage emphasizes feud obligation rather than
+    sacred or heroic combat, sacred_combat or covenant/social order may be better.
+  suggested_aliases:
+  - wounded warrior vengeance
+  - vengeance for martial injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrathful-ruler-demands-total-destruction-of-enemies
+  motif_id: wrathful_ruler_demands_total_destruction_of_enemies
+  label: wrathful ruler demands total destruction of enemies
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: A ruler ordering total destruction of enemies functions as punitive judgment
+    and coercive restoration of order.
+  cautions: If the ruler is primarily a historical or court figure rather than divine
+    or sacral authority, this may be a political narrative detail rather than a motif.
+  suggested_aliases:
+  - wrathful royal destruction
+  - ruler demands annihilation of enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-commoner-petitions-authority-for-justice
+  motif_id: wronged_commoner_petitions_authority_for_justice
+  label: Wronged commoner petitions authority for justice
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wronged low-status figure appealing to authority centers on justice,
+    social order, and rightful adjudication.
+  cautions: Could map to divine_judgment if divine or postmortem reckoning is central,
+    or be excluded if it is only a legal episode without sacred framing.
+  suggested_aliases:
+  - petition for justice by wronged commoner
+  - low-status petitioner seeks justice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-queen-s-delayed-vengeance
+  motif_id: wronged_queen_s_delayed_vengeance
+  label: Wronged queen's delayed vengeance
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Delayed vengeance after a royal wrong can serve as eventual moral reckoning
+    and restoration of violated order.
+  cautions: This is culturally and narratively context-dependent; may fit betrayal_violated_trust,
+    sacred_combat, or lament depending on the source episode.
+  suggested_aliases:
+  - delayed royal vengeance
+  - wronged queen avenges injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-queen-subjected-to-public-disgrace
+  motif_id: wronged_queen_subjected_to_public_disgrace
+  label: Wronged queen subjected to public disgrace
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines royal status, wrongful humiliation, and public disgrace
+    but does not show the main narrative function.
+  cautions: Could involve false accusation, violated honor, gendered persecution,
+    sacred law, or a passage-specific plot detail; source evidence is needed before
+    grouping.
+  suggested_aliases:
+  - public disgrace of a wronged queen
+  - humiliated innocent queen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongful-parental-rejection-followed-by-punishment-and-reconciliation
+  motif_id: wrongful_parental_rejection_followed_by_punishment_and_reconciliation
+  label: wrongful parental rejection followed by punishment and reconciliation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wrongful rejection followed by punishment and reconciliation forms a
+    moral consequence and social repair sequence.
+  cautions: If reconciliation and restored kinship are central, this may also relate
+    to covenant or family motifs not currently well represented.
+  suggested_aliases:
+  - parental rejection punished and reconciled
+  - wrongful kin rejection repaired
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongful-punishment-of-the-substitute
+  motif_id: wrongful_punishment_of_the_substitute
+  label: wrongful punishment of the substitute
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests misdirected punishment or scapegoat logic, but the
+    substitute's role is unclear.
+  cautions: Could fit sacrifice/scapegoat, divine_judgment, trickster deception, or
+    a local narrative artifact; review source context carefully.
+  suggested_aliases:
+  - misdirected punishment of substitute
+  - substitute wrongly punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.yoking-fire-breathing-bulls-to-plough
+  motif_id: yoking_fire_breathing_bulls_to_plough
+  label: yoking fire-breathing bulls to plough
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Yoking dangerous fire-breathing bulls is a heroic task or ordeal that
+    tests worthiness and transforms status.
+  cautions: The fire and bulls are important evidence details; do not map to sacred_fire
+    unless fire itself carries ritual or divine-presence function.
+  suggested_aliases:
+  - heroic yoking of fire-breathing bulls
+  - dangerous ploughing ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-looking-hero-praised-as-unmatched
+  motif_id: youthful_looking_hero_praised_as_unmatched
+  label: youthful-looking hero praised as unmatched
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a descriptive praise formula for a hero rather than a reusable
+    narrative motif.
+  cautions: If the passage uses youth as a sign of hidden identity, sacred birth,
+    or destined heroism, reconsider under miraculous_child or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - unmatched youthful hero
+  - youthful heroic praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-religious-authority-honored-beyond-age
+  motif_id: youthful_religious_authority_honored_beyond_age
+  label: Youthful religious authority honored beyond age
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: role_variant
+  confidence: medium
+  rationale: A young sacred figure honored beyond age fits the miraculous child pattern
+    where childhood displays extraordinary authority or wisdom.
+  cautions: If the figure is not a child but a young adult officeholder, sacred_knowledge
+    or royal_legitimacy may be better.
+  suggested_aliases:
+  - youthful sacred authority
+  - child religious authority honored beyond age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence royal justice or vengeance labels; human review
+  should check whether they are stable motifs or episode-specific plot summaries.
+- Avoid treating vengeance or punishment as divine_judgment unless the passage frames
+  it as sacred, moral, cosmic, or socially restorative reckoning.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0666
+  input_sha256: 14cc1c20b7aedd24c03ef4aa1c67b1ae45b9a81efc4cf1731fc44c9c6eb06336
+

@@ -1,0 +1,203 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l7967-l7980
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CHAPTER  VII / THE   CONSECRATING   OF   VIJAYA / CHAPTER  VIII / THE   CONSECRATING   OF  PANDUVASUDEVA;
+    lines 7967-7980
+  start: '7967'
+  end: '7980'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The monarch consecrates Subhaddakaccana as his queen, gives the maidens
+    who came with her to the followers who came with him, and lives happily. The chapter
+    closes with a colophon naming it as the consecrating of Panduvasudeva and includes
+    notes on location and textual parallels.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A monarch consecrates Subhaddakaccana, described as of noble stature, as his
+    own queen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The monarch gives the maidens who arrived with Subhaddakaccana to the followers
+    who had come with him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After these acts, the monarch lives happily.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The chapter ending names the chapter as the consecrating of Panduvasudeva
+    and states that the Mahavamsa was compiled for the serene joy and emotion of the
+    pious.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note states that the wording is exactly like verse 13 to stress a parallel
+    in the proceedings, and that verse 26 is based on verses 14 and 16.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the monarch / Panduvasudeva
+  description: The male monarch who consecrates Subhaddakaccana, gives the accompanying
+    maidens to his followers, and is named by the chapter ending as Panduvasudeva.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Subhaddakaccana
+  description: A woman of noble stature consecrated by the monarch as his own queen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the maidens accompanying Subhaddakaccana
+  description: Maidens who arrived with Subhaddakaccana and are given to the followers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the monarch's followers
+  description: Followers who came with the monarch and receive the maidens who arrived
+    with Subhaddakaccana.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: consecrating monarch
+  assigned_to:
+  - fig:1
+  basis: He consecrates Subhaddakaccana as queen and is called the monarch.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: consecrated queen
+  assigned_to:
+  - fig:2
+  basis: Subhaddakaccana is consecrated as the monarch's own queen.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: accompanying maidens given to followers
+  assigned_to:
+  - fig:3
+  basis: The maidens arrived with Subhaddakaccana and are given by the monarch to
+    the followers.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: followers receiving maidens
+  assigned_to:
+  - fig:4
+  basis: The followers came with the monarch and receive the maidens.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Consecration of the queen and assignment of her companions
+  summary: The monarch consecrates Subhaddakaccana as queen, gives her accompanying
+    maidens to his followers, and thereafter lives happily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: royal consecration and queen-making
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: 'The passage centers on a royal consecration: Subhaddakaccana is consecrated
+    as queen, and the chapter ending frames the chapter as the consecrating of Panduvasudeva.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage reports consecration and queenship, but does not explicitly
+    discuss lineage, divine sanction, or political legitimacy.
+- id: motif:2
+  label: distribution of companions to royal followers
+  taxonomy_refs: []
+  basis: After consecrating Subhaddakaccana as queen, the monarch gives the maidens
+    who arrived with her to the followers who came with him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives no details about the maidens' consent, marriage rites,
+    reciprocity, or wider social function.
+comparison_claims:
+- id: claim:1
+  claim: The supplied note explicitly says the wording matches verse 13 in order to
+    stress a parallel in the proceedings.
+  claim_level: linguistic_similarity
+  target: Mahavamsa 8.13, as referenced in the supplied note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared verse is not included in the supplied passage; the claim
+    relies only on the note's statement.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7967-7970
+  quote_or_summary: The monarch consecrates Subhaddakaccana as his queen, gives her
+    accompanying maidens to the followers who came with him, and lives happily.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 7972-7975
+  quote_or_summary: The chapter closes by naming itself 'The Consecrating of Panduvasudeva'
+    in the Mahavamsa and states its devotional purpose.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 7979-7980
+  quote_or_summary: A note says the wording is exactly like verse 13 to emphasize
+    a parallel in proceedings, and that verse 26 is based on verses 14 and 16.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions are explicit and brief. Motif assignment to royal legitimacy
+    is plausible but limited because the passage does not spell out legitimating ideology.
+    The comparison claim is based on an editorial note, with the compared verses absent
+    from the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol from the provided list is explicitly present in this passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l7967-l7980
+  passage_sha256=41354f88aaa05157f223ad6e819d12fb7ae1d36c8451f2adb8d7eb147506a943
+

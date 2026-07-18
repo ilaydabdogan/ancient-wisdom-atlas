@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1613
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.three-granted-wishes
+  motif_id: three_granted_wishes
+  label: three granted wishes
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Wish Granting and Magical Boons
+  relationship: child
+  confidence: medium
+  rationale: Granted wishes are a recurring folktale boon pattern not cleanly covered
+    by sacred_treasures or divine_intervention when the focus is the wish itself.
+  cautions: Single occurrence here; verify whether the source emphasizes a magical
+    donor, foolish choice, moral test, or divine favor.
+  suggested_aliases:
+  - granted wishes
+  - wish granting
+  - magical wishes
+  - three wishes
+  suggested_new_group:
+    id: wish_granting_magical_boons
+    label: Wish Granting and Magical Boons
+    description: A supernatural donor, object, spell, or encounter grants wishes or
+      boons whose use tests desire, wisdom, restraint, or moral character.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    related_group_ids:
+    - sacred_exchange
+    - sacred_knowledge
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover power objects and divine
+      intervention, but not the narrative structure of granted wishes and their consequences.
+- suggestion_id: normalization.suggestion.three-magical-objects-taken-from-quarrelling-robbers
+  motif_id: three_magical_objects_taken_from_quarrelling_robbers
+  label: three magical objects taken from quarrelling robbers
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core reusable element is acquisition of multiple magical power objects.
+  cautions: The quarrelling robbers and number three may be episode-specific; if deception
+    or arbitration is central, trickster may be a secondary fit.
+  suggested_aliases:
+  - magical objects won from robbers
+  - three power objects
+  - magical treasures acquired from quarrel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-magical-shots-with-cosmic-misdirection
+  motif_id: three_magical_shots_with_cosmic_misdirection
+  label: Three magical shots with cosmic misdirection
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines magic weapon use, repeated shots, and cosmic misdirection
+    without enough context to identify the function.
+  cautions: Could belong to sacred_combat, divine_warrior, sacred_knowledge, or a
+    culture-specific spell episode; review passage evidence before grouping.
+  suggested_aliases:
+  - magical shots
+  - three enchanted shots
+  - cosmic misdirection in shooting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-straps-forming-a-cross-and-possible-trinity-allusion
+  motif_id: three_straps_forming_a_cross_and_possible_trinity_allusion
+  label: Three straps forming a cross and possible Trinity allusion
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'possible Trinity allusion' signals an interpretive commentary
+    note rather than a stable motif.
+  cautions: If the source explicitly uses a cross-shaped protective object or ritual
+    binding, remap to sacred_law, sacred_treasures, or curse_blessing_speech as appropriate.
+  suggested_aliases:
+  - possible Trinity allusion
+  - three straps forming a cross
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-successive-guarded-enchanted-castles
+  motif_id: three_successive_guarded_enchanted_castles
+  label: three successive guarded enchanted castles
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Successive guarded enchanted castles function as repeated thresholds
+    that must be entered, confronted, or passed.
+  cautions: If the emphasis is the enchanted realm rather than guarded passage, otherworld
+    may be a secondary mapping; number three may be formulaic detail.
+  suggested_aliases:
+  - guarded enchanted castles
+  - successive guarded castles
+  - three enchanted thresholds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-wishes-squandered-and-reversed
+  motif_id: three_wishes_squandered_and_reversed
+  label: three wishes squandered and reversed
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Wish Granting and Magical Boons
+  relationship: child
+  confidence: high
+  rationale: 'This is a specific consequence pattern within granted-wish tales: wishes
+    are misused and undone.'
+  cautions: Could also support pride_and_downfall if the passage frames the waste
+    as moral folly; preserve reversal detail as a child or alias.
+  suggested_aliases:
+  - wasted wishes
+  - squandered wishes
+  - reversed wishes
+  - three wishes wasted
+  suggested_new_group:
+    id: wish_granting_magical_boons
+    label: Wish Granting and Magical Boons
+    description: A supernatural donor, object, spell, or encounter grants wishes or
+      boons whose use tests desire, wisdom, restraint, or moral character.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    related_group_ids:
+    - sacred_exchange
+    - sacred_knowledge
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover power objects and divine
+      intervention, but not the narrative structure of granted wishes and their misuse.
+- suggestion_id: normalization.suggestion.three-wishes-wasted-through-foolish-wishing
+  motif_id: three_wishes_wasted_through_foolish_wishing
+  label: three wishes wasted through foolish wishing
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Wish Granting and Magical Boons
+  relationship: child
+  confidence: high
+  rationale: Foolish wishing is a recognizable subpattern of magical wish-granting
+    tales.
+  cautions: May overlap with pride_and_downfall or wisdom-folly teaching depending
+    on source framing.
+  suggested_aliases:
+  - foolish wishing
+  - wasted wishes
+  - three wishes squandered
+  - misused magical wishes
+  suggested_new_group:
+    id: wish_granting_magical_boons
+    label: Wish Granting and Magical Boons
+    description: A supernatural donor, object, spell, or encounter grants wishes or
+      boons whose use tests desire, wisdom, restraint, or moral character.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    related_group_ids:
+    - sacred_exchange
+    - sacred_knowledge
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover power objects and divine
+      intervention, but not the narrative structure of granted wishes and folly in
+      using them.
+- suggestion_id: normalization.suggestion.threefold-acquisition-from-the-forest
+  motif_id: threefold_acquisition_from_the_forest
+  label: threefold acquisition from the forest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is too general: it names a repeated acquisition scene but
+    not what is gained or why it matters.'
+  cautions: Could map to sacred_treasures, otherworld, animal_helpers, initiation,
+    or hero_journey depending on what the forest acquisitions are.
+  suggested_aliases:
+  - three acquisitions in the forest
+  - threefold forest gifts
+  - forest acquisition sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-appointed-visits-with-color-sequence
+  motif_id: threefold_appointed_visits_with_color_sequence
+  label: Threefold appointed visits with color sequence
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sequence of three visits and colors may be a formulaic episode, test,
+    courtship, or symbolic vision, but the function is unclear.
+  cautions: Do not map only from the number three or color sequence; review whether
+    visits involve initiation, sacred_love, prophecy, or recognition.
+  suggested_aliases:
+  - three appointed visits
+  - three visits with color sequence
+  - color-sequenced visits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-capture-challenge
+  motif_id: threefold_capture_challenge
+  label: Threefold capture challenge
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A repeated capture challenge is plausibly an ordeal or test that must
+    be overcome.
+  cautions: If the capture is comic trickery, predator-prey strategy, or martial contest,
+    trickster or sacred_combat may be better; source context needed.
+  suggested_aliases:
+  - three capture tests
+  - threefold capture test
+  - repeated capture challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are folktale-formulaic uses of the number three; placement should
+  follow narrative function, not numerology alone.
+- Consider adding a durable normalization group for wish-granting and magical boons
+  if similar wish labels recur across batches.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should verify passage evidence
+    for over-specific threefold sequence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1613
+  input_sha256: dbd8975dcd0335e65e28c577cf7dff25d409bf778589a8e59503fb7354121c80
+

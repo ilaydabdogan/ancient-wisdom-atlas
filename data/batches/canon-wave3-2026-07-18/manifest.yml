@@ -1,0 +1,517 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: canon-wave3-2026-07-18
+created_at: '2026-07-18T10:19:01Z'
+updated_at: '2026-07-18T15:13:08Z'
+artifacts:
+  passages_path: data/batches/canon-wave3-2026-07-18/passages.jsonl
+  requests_index_path: data/batches/canon-wave3-2026-07-18/requests/index.yml
+  request_map_path: data/batches/canon-wave3-2026-07-18/request-map.jsonl
+  results_dir: data/batches/canon-wave3-2026-07-18/results
+  ingested_results_path: data/batches/canon-wave3-2026-07-18/ingested-results.jsonl
+  generated_extractions_dir: extractions/generated/openai-batch/canon-wave3-2026-07-18
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-18T14:16:21Z'
+  realtime_concurrency: 48
+  last_ingest_at: '2026-07-18T15:13:08Z'
+pipeline: motif_extraction
+status: results_downloaded
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+    - texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+    - texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+    - texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+    - texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+    - texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md
+    - texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+    - texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+    - texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md
+    - texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+    - texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+    - texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+    - texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+    - texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+    - texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+    - texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+    - texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+    - texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md
+    - texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+    - texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+    - texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: canon-wave3-2026-07-18
+counts:
+  source_texts_segmented: 25
+  passages: 4291
+  requests_prepared: 4291
+  request_shards: 5
+  skipped_ingested_requests: 0
+  ingested_records: 4208
+  failed_ingestions: 2
+source_texts:
+- path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  source_text_id: south_american.north_west_amazons.whiffen_gutenberg
+  title: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal Tribes'
+  tradition: amazonian
+  culture: witoto_boro_northwest_amazon_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1915, US public domain per Project Gutenberg. Recording context
+      - firsthand field observation of Witoto and Bora groups before rubber-boom devastation;
+      chapters on religion, dance-songs, and belief include paraphrased mythology
+      but limited verbatim narrative; period colonial framing ("cannibal tribes")
+      requires source-critical handling. One of very few pre-1930 English Amazonian
+      field records.
+  sha256: 2c972cc178e0776786721cd460963f4aaefed6e437906a651d2aa37729ae7119
+  passage_count: 166
+- path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  source_text_id: andamanese.andaman_islanders.radcliffe_brown_gutenberg
+  title: 'The Andaman Islanders: A Study in Social Anthropology'
+  tradition: andamanese
+  culture: great_andamanese_ethnography_with_legends
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1922, US public domain per Project Gutenberg. Recording context
+      - Radcliffe-Brown collected legends directly in the field; the myths chapters
+      give systematic tale-by-tale recordings in close English paraphrase with informant
+      and locality notes, plus his interpretive apparatus (keep extraction to the
+      tale recordings, not his theory).
+  sha256: 5e6aa9bd4df75157916d8d839a159a9563904c88fb6844caf01995265182f5ba
+  passage_count: 172
+- path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  source_text_id: buddhist.mahavamsa.geiger_archive
+  title: The Mahavamsa, or The Great Chronicle of Ceylon
+  tradition: buddhist
+  culture: sinhala_theravada_chronicle_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912, US public domain. Geiger's introduction precedes the chronicle;
+      extraction should separate apparatus from text.
+  sha256: e67ce2f84db90f75fcdec27373a8e3bcce960f6f835e655c0f12ac857faffd75
+  passage_count: 179
+- path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  source_text_id: caucasian.folk_tales.dirr_menzies_archive
+  title: Caucasian Folk-Tales
+  tradition: caucasian
+  culture: caucasus_oral_tradition_early_20th_century_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1925 (London and New York), US public domain (pre-1930). Community-uploaded
+      scan rather than a library scan; verify completeness against the printed edition
+      at conversion.
+  sha256: c63e717d19a024e7d31789daeeeadf758ecba74245d0bbd3f03346768dfbd4e1
+  passage_count: 161
+- path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  source_text_id: greek.didache.bryennios_hitchcock_brown_gutenberg
+  title: Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles
+  tradition: christian
+  culture: early_christian_koine_greek_original_language
+  text_language: Ancient Greek
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: 'original-language extraction program: translator-effect control. Contains
+      the full Koine Greek text alongside the 1884 English translation - a matched
+      original+translation pair in one document, ideal for direct translator-effect
+      comparison. Note: PG has no ancient-Greek Homer (its Greek Iliad #36248 and
+      Odyssey #30613-16 are MODERN Greek verse translations by Pallis/Polylas, and
+      Greek NT #31802 is Pallis modern Greek - all unsuitable as originals; Homer
+      in ancient Greek remains an open target).'
+  sha256: f10cd40c22b7eb2c61231dad6211e00de73dce6d40b81b42226045d84220e43b
+  passage_count: 9
+- path: texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md
+  source_text_id: chinese.confucius.analects_chinese_gutenberg
+  title: 論語
+  tradition: confucian
+  culture: classical_chinese_confucian_original_language
+  text_language: Chinese
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: 'original-language extraction program: translator-effect control. Ancient
+      Chinese text, public domain; clean Unicode traditional characters verified.
+      Pairs with Legge''s Chinese Classics and SBE volumes (Shu King, Shih King, Li
+      Ki) already ingested in English.'
+  sha256: ac499dbe2a264de669e4a817a046cc9a3328356570a5d67241d753ccebde2bf0
+  passage_count: 5
+- path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  source_text_id: ethiopian.kebra_nagast.budge_archive
+  title: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  tradition: ethiopian_christian
+  culture: ethiopian_geez_national_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1922, US public domain (pre-1930). Budge's introduction precedes
+      the translation; extraction should separate apparatus from text.
+  sha256: a41d1ff88828c7b0da0b3e24b0d812ebe0b8776312a5daba41822342f6223dd6
+  passage_count: 162
+- path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  source_text_id: hermetic.corpus_hermeticum.mead_archive
+  title: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  tradition: hermetic
+  culture: greco_egyptian_hermetism
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/thricegreatesth02meadgoog
+    training_use: allowed
+    full_text: allowed
+    notes: 1906 publication predates 1930 and is public domain in the USA; Google
+      scan header notes the book has entered the public domain. OCR text requires
+      cleanup of commentary and apparatus during conversion.
+  sha256: eccbec1b837e76e8baa6847bc2ae5234fe29d722ecfb43370820869fe5d88df6
+  passage_count: 242
+- path: texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md
+  source_text_id: sanskrit.vishnu_sahasranama.itrans_gutenberg
+  title: Sri Vishnu Sahasranaamam
+  tradition: hindu
+  culture: sanskrit_devotional_recitation_original_language
+  text_language: Sanskrit
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: 'original-language extraction program: translator-effect control. Ancient
+      Sanskrit text, public domain; romanized ITRANS scheme rather than Devanagari.
+      Queued as the only clean Sanskrit-language text on PG: no PD-clean digital Sanskrit
+      Bhagavad Gita was found this expedition (archive.org candidates are post-1929
+      editions or Devanagari scans with unusable OCR) - Gita in Sanskrit remains an
+      open target (try GRETIL/sanskritdocuments.org provenance next).'
+  sha256: 6f67c73058367c129cf3153a21c0a33b0d1a6f7a5888961d2fe0e0180080d93e
+  passage_count: 3
+- path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  source_text_id: jewish.jubilees.charles_archive
+  title: The Book of Jubilees, or, The Little Genesis
+  tradition: jewish_pseudepigrapha
+  culture: second_temple_jewish_rewritten_scripture
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/cu31924060029984
+    training_use: allowed
+    full_text: allowed
+    notes: Item page states no known copyright restrictions in the United States;
+      1902 publication predates 1930. OCR text requires cleanup of scholarly apparatus
+      and footnotes during conversion.
+  sha256: 1b1c9ba5317af550268ea1685d250ef426a0fdcc072327d437e61cb2b9b98de0
+  passage_count: 213
+- path: texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md
+  source_text_id: native_american.winnebago_medicine_dance.radin_gutenberg
+  title: The Ritual and Significance of the Winnebago Medicine Dance
+  tradition: native_american_great_lakes
+  culture: hochunk_medicine_rite_first_person_account
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Recording context - insider account of
+      the Medicine Dance (Medicine Rite) from a Ho-Chunk member, translated by Radin;
+      note the fuller The Winnebago Tribe (37th ARBAE, 1923) was NOT queued because
+      the only clean archive.org scan is a 1970 University of Nebraska reprint - retry
+      with a GPO-original scan in a future expedition.
+  sha256: df5eab5886a5a374b07f65a034e33dfe3d617b0bfb63c703c20a9c00c2a168f3
+  passage_count: 35
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  source_text_id: native_american.haida_texts_myths.swanton_gutenberg
+  title: 'Haida Texts and Myths: Skidegate Dialect'
+  tradition: native_american_northwest_coast
+  culture: haida_skidegate_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - verbatim
+      dictated texts from named Haida narrators with close English translation; island
+      lineage with distinct mythology (Raven travelling, ocean-being cosmology).
+  sha256: 6b8926f5c4ec178541c4569297b0a1f55c3fae97ad141bbfd3b8b37978b3bd28
+  passage_count: 221
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  source_text_id: native_american.tlingit_myths_texts.swanton_gutenberg
+  title: Tlingit Myths and Texts
+  tradition: native_american_northwest_coast
+  culture: tlingit_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - field-recorded
+      from named Tlingit narrators (Katishan and others), English translations close
+      to dictation plus some interlinear native-language texts; among the best verbatim
+      Northwest Coast collections.
+  sha256: 81a5be7ae425ebeee9a8af62fa71cc451bf09500ca3db9b2b5f106d95d2f2162
+  passage_count: 269
+- path: texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md
+  source_text_id: native_american.traditions_arikara.dorsey_gutenberg
+  title: Traditions of the Arikara
+  tradition: native_american_plains
+  culture: arikara_field_recorded_traditions
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1904, US public domain per Project Gutenberg. Recording context
+      - dictated narratives with named narrators, companion collection to the Skidi
+      Pawnee volume (Caddoan-speaking lineage).
+  sha256: ca96ac74c5d71df746be6a61afe0b5565b9dea04064639c732363049445663b5
+  passage_count: 140
+- path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  source_text_id: native_american.myths_of_cherokee.mooney_gutenberg
+  title: Myths of the Cherokee
+  tradition: native_american_southeast
+  culture: cherokee_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - field-recorded
+      from named Cherokee informants with myth-by-myth provenance notes; close English
+      paraphrase of dictation rather than interlinear texts, with extensive annotations.
+  sha256: 7445dab760f6795581277b73d29808bcece884f4fd2efeb60ec5bad3736af59c
+  passage_count: 327
+- path: texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md
+  source_text_id: native_american.aw_aw_tam_indian_nights.lloyd_gutenberg
+  title: 'Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona'
+  tradition: native_american_southwest
+  culture: akimel_oodham_dictated_myth_cycle
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain per Project Gutenberg. Recording context
+      - complete Pima myth cycle as dictated by a single traditional narrator and
+      rendered through a native interpreter; near-verbatim session-by-session record;
+      cross-checks Russell's independently recorded Pima creation cycle.
+  sha256: 46aedb28ac7d907e904a5454636ef7fe65dd76d9f6ac1104b3f8c86a38e935be
+  passage_count: 74
+- path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+  source_text_id: native_american.mountain_chant.matthews_gutenberg
+  title: 'The Mountain Chant: A Navajo Ceremony'
+  tradition: native_american_southwest
+  culture: navajo_chantway_ceremony_and_myth
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - the
+      origin myth of the Mountain Chant taken from the chanter, full ceremony description
+      over nine days, and song texts given in Navajo with translations; among the
+      earliest careful chantway records.
+  sha256: 6a4d79856bcd474ad082c96313934f783e1f80e2bf0b51a9c205dc0514467eac
+  passage_count: 50
+- path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  source_text_id: latin.vergil.aeneid_latin_gutenberg
+  title: Aeneidos
+  tradition: roman
+  culture: augustan_roman_epic_original_language
+  text_language: Latin
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: 'original-language extraction program: translator-effect control. Ancient
+      Latin text, public domain; PG transcription of a standard edition. Direct original-language
+      control for the already-ingested Mackail English Aeneid.'
+  sha256: 5006c1c4ecdcc60532886d380af4fb355b5235e995ba986771c4e50c6e4e8d30
+  passage_count: 97
+- path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  source_text_id: latin.ovid.fasti_latin_gutenberg
+  title: Fasti
+  tradition: roman
+  culture: augustan_roman_religious_calendar_original_language
+  text_language: Latin
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: 'original-language extraction program: translator-effect control. Latin
+      verse text is original-language; surrounding apparatus (preface, notes) is 19th-century
+      English - extraction should target the Latin books. Queued in place of Metamorphoses:
+      PG has NO Latin Metamorphoses (only English translations #21765/#26073/#28621),
+      and archive.org Latin scans are blackletter-era or Loeb mixed-language; Fasti
+      is Ovid''s most ritual-dense work regardless.'
+  sha256: 56aa0b5c13d3d30fea12fe9f2e218c12746727316abcc89bd02006601dbcb580
+  passage_count: 131
+- path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  source_text_id: sikh.sikh_religion.macauliffe_v1_archive
+  title: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  tradition: sikh
+  culture: sikh_scripture_and_hagiography_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1909, US public domain. Volume 1 of 6 covers the life of Guru
+      Nanak and translates the Japji and many Adi Granth hymns; hagiographic narrative
+      interleaves with scripture translation and extraction should distinguish them.
+  sha256: c790b2f297852724ccae949ed83225af091eb83e70380bfd5aacc024eaae500c
+  passage_count: 453
+- path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  source_text_id: slavic.epic_songs_of_russia.hapgood_archive
+  title: The Epic Songs of Russia
+  tradition: slavic
+  culture: russian_oral_epic_tradition
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/epicsongsofrussi00hapguoft
+    training_use: allowed
+    full_text: allowed
+    notes: 1886 publication predates 1930 and is public domain in the USA. OCR text
+      requires cleanup during conversion.
+  sha256: 3b5eef8e074b3a51abb579e882430cf1ea84f66feff04a62f46f9b03e54c4edb
+  passage_count: 214
+- path: texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md
+  source_text_id: chinese.laozi.daodejing_chinese_gutenberg
+  title: 道德經
+  tradition: taoist
+  culture: classical_chinese_taoist_original_language
+  text_language: Chinese
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: 'original-language extraction program: translator-effect control. Ancient
+      Chinese text, public domain; clean Unicode traditional characters verified.
+      Original-language control for Legge''s SBE English Taoist/Confucian translations
+      already in the corpus.'
+  sha256: 4ba022ed66010f6e55c1a79eb5ba6bf6418e4adcce6975c72d845aa4c6c2f860
+  passage_count: 2
+- path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  source_text_id: zoroastrian.pahlavi.bundahis_west_archive
+  title: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  tradition: zoroastrian
+  culture: middle_persian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1880, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: 870b05e121f5beb6bef97b345d32afd5c285a71aaf8d296794a66f325a7a0685
+  passage_count: 363
+- path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  source_text_id: zoroastrian.avesta.yasts_darmesteter_archive
+  title: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  tradition: zoroastrian
+  culture: ancient_iranian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1883, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: 396524ea5c8e1f56b351e6e4fded398011c1ca85e737952631ea204849baa820
+  passage_count: 271
+- path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  source_text_id: zoroastrian.avesta.yasna_gathas_mills_archive
+  title: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous
+    Fragments'
+  tradition: zoroastrian
+  culture: ancient_iranian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1887, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: 455949dd9289308cecc78ae323d5041ae32f28e1da8e71a86c57917851f099a6
+  passage_count: 332
+

@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0479
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.catastrophic-final-slaying-of-named-leaders-and-warriors
+  motif_id: catastrophic_final_slaying_of_named_leaders_and_warriors
+  label: catastrophic final slaying of named leaders and warriors
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Final mass slaying of leaders and warriors fits heroic or sacred combat
+    death more than wisdom or revelation.
+  cautions: Single occurrence and named-leader detail may be episode-specific; if
+    tied to cosmic end-time battle, divine_judgment or flood_and_renewal may be secondary.
+  suggested_aliases:
+  - final slaying of warriors
+  - catastrophic warrior death
+  - leaders slain in final battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-and-kine-sought-for-army-provisioning
+  motif_id: cattle_and_kine_sought_for_army_provisioning
+  label: cattle and kine sought for army provisioning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as logistical provisioning detail rather than a symbolic
+    or narrative motif.
+  cautions: If the source frames the search as a raid, contest, or sacred cattle-taking
+    episode, map instead to sacred_combat under cattle_raid variants.
+  suggested_aliases:
+  - army provisioning by cattle
+  - cattle sought for host provisioning
+  - kine for army supply
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-or-cows-as-contested-provision-in-a-cattle-driving-narrative
+  motif_id: cattle_or_cows_as_contested_provision_in_a_cattle_driving_narrative
+  label: cattle or cows as contested provision in a cattle-driving narrative
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Contested cattle in an Irish cattle-driving narrative aligns with the
+    existing cattle-raid/sacred-combat cluster.
+  cautions: Provisioning language may be merely contextual; confirm that conflict,
+    raid, contest, or martial stakes drive the episode.
+  suggested_aliases:
+  - contested cattle provision
+  - contested cows in cattle-driving narrative
+  - cattle as contested resource
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-or-cattle-taking-named-as-central-narrative-subject
+  motif_id: cattle_raid_or_cattle_taking_named_as_central_narrative_subject
+  label: cattle raid or cattle-taking named as central narrative subject
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: The group already includes cattle_raid_catalyst and multiple cattle-raid
+    aliases as sacred combat patterns.
+  cautions: The phrase 'named as central narrative subject' may reflect title or classification
+    metadata; exclude if it is only a textual label and not passage content.
+  suggested_aliases:
+  - cattle raid
+  - cattle-taking
+  - central cattle raid narrative
+  - cattle raid as narrative subject
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-undertaken-to-provision-a-larger-host
+  motif_id: cattle_raid_undertaken_to_provision_a_larger_host
+  label: Cattle raid undertaken to provision a larger host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A cattle raid undertaken for a host is a specific variant of the existing
+    cattle-raid combat cluster.
+  cautions: Preserve the provisioning motive as evidence detail; do not treat it as
+    sacred exchange unless ritual reciprocity is explicit.
+  suggested_aliases:
+  - cattle raid for provisioning
+  - raid to provision a host
+  - cattle-taking for army supply
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-oracle-and-dream-revelation
+  motif_id: cave_oracle_and_dream_revelation
+  label: cave oracle and dream revelation
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dream revelation is the clearest function; the cave is likely a revelation
+    setting or liminal space.
+  cautions: Could also relate to prophecy_divination if the oracle role is institutional,
+    or descent if the cave functions as an underworld threshold.
+  suggested_aliases:
+  - dream revelation in a cave
+  - cave oracle
+  - oracular dream in cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-bodies-as-named-figures
+  motif_id: celestial_bodies_as_named_figures
+  label: celestial bodies as named figures
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe celestial personification, star ancestors, etiological
+    astronomy, or named beings in a tradition-specific cosmology.
+  cautions: Culturally sensitive and too broad from label alone; avoid flattening
+    Aboriginal celestial traditions into a generic motif without source evidence.
+  suggested_aliases:
+  - named celestial figures
+  - celestial personification
+  - stars as named beings
+  - named figures in the sky
+  suggested_new_group:
+    id: celestial_personification
+    label: Celestial Personification and Star Figures
+    description: Celestial bodies such as stars, sun, moon, or planets appear as named
+      persons, ancestors, animals, or socially significant beings within cosmological
+      narrative.
+    parent_group_ids:
+    - cosmic_origin
+    - dream_and_vision
+    related_group_ids:
+    - sacred_time
+    - duality
+    - theophany
+    reason_existing_groups_insufficient: Existing groups include celestial guides
+      or witnesses as children, but no broad group covers celestial bodies as personified
+      named beings without forcing them into dreams, omens, or creation.
+- suggestion_id: normalization.suggestion.celestial-helper-honors-dream-promise-by-bringing-dawn
+  motif_id: celestial_helper_honors_dream_promise_by_bringing_dawn
+  label: celestial helper honors dream-promise by bringing dawn
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A celestial helper fulfilling a dream promise by bringing dawn is supernatural
+    aid acting in human affairs.
+  cautions: If the emphasis is prophetic dream content rather than aid, dream_and_vision
+    should be the primary group; if dawn symbolism dominates, sacred_fire or sacred_time
+    may be secondary.
+  suggested_aliases:
+  - celestial helper brings dawn
+  - dream promise fulfilled by dawn
+  - supernatural helper honors promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-weight-as-dream-symbol-of-a-person
+  motif_id: celestial_weight_as_dream_symbol_of_a_person
+  label: Celestial weight as dream-symbol of a person
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The core pattern is symbolic dream imagery that represents a person.
+  cautions: The celestial-weight image is highly specific and should remain evidence
+    detail, not a new canonical motif unless it recurs.
+  suggested_aliases:
+  - dream symbol of a person
+  - celestial dream-symbol
+  - heavenly weight as dream image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-last-night-dance-song
+  motif_id: ceremonial_last_night_dance_song
+  label: Ceremonial last-night dance song
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label indicates a culturally specific ceremonial song/dance sequence,
+    but its function is unclear from the label alone.
+  cautions: Culturally sensitive ritual material; do not map generically to enchanting_music
+    or sacred_song without evidence of supernatural sound power, healing, initiation,
+    or narrative transmission.
+  suggested_aliases:
+  - last-night dance song
+  - ceremonial dance song
+  - night ceremony song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were bucketed under wisdom/revelation but appear to belong to combat,
+  provisioning, ritual, or celestial-personification review areas.
+- 'Cattle-raid labels should be consolidated carefully: map narrative raid/contest
+  functions to sacred_combat, but exclude mere provisioning logistics or title metadata.'
+- Culturally specific Aboriginal and Navajo labels need source-aware human review
+  before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0479
+  input_sha256: 59fd57a0b2f219b9deead64285d9f583b3e7408d2b22ecc1b2b88257bf320f0b
+

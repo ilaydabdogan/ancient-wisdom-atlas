@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l13304-l13525
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'NOTES: / LIBER VI. / NOTES: / INDEX RERUM ET VERBORUM NOTATU DIGNIORUM.;
+    lines 13304-13525'
+  start: '13304'
+  end: '13525'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Alphabetical index entries, from Dardania through Kalendae, listing names,
+    cult titles, calendar terms, ritual vocabulary, places, animals, and objects with
+    references to book and line numbers in Ovid's Fasti.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section arranged alphabetically, giving lemmas and
+    book-line references rather than a continuous narrative.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists generic and named divine entries, including Dea, Deae, Deus,
+    Deorum Mater, Diana, Flora, Fortuna, Janus, Juno, Jupiter, and Vesta.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:13
+- id: obs:3
+  text: The index includes Roman calendar vocabulary and festival terms, including
+    day classifications, Equiria, Feralia, feriae, Idus, Kalendae, Junius, and Junonius
+    mensis.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: obs:4
+  text: The index includes ritual and offering vocabulary such as hostia, Soli mactatus,
+    forda bos, fibrae, februa, and flamen-related entries.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:5
+  text: The index lists animals or animal-associated entries, including dolphin, horses,
+    bull, and swallow.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes fire or hearth vocabulary, including focus, foci, ignes,
+    and fulmen-related entries.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index includes water-related terms or places, including Juturna's lake
+    and named rivers or waters.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The phrase draconigena urbs, a dragon-born city, appears as an index entry.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index includes paired or twin-related language, including gemellipara,
+    duo semina rerum, Gemini, and Iliadae fratres.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The index names mythic or legendary figures such as Dardanus, Dido/Elissa,
+    Electra, Evander, Ganymedes, Hercules, Hippolytus, Ino, and Iulus.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Deorum Mater
+  description: Indexed as 'Deorum Mater' with a book-line reference.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:2
+  name_or_label: Diana / Dictynna
+  description: Diana is indexed with multiple references, and Dictynna is also listed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Flora
+  description: Indexed as Flora.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:13
+- id: fig:4
+  name_or_label: Fortuna / Fors
+  description: Indexed as Fortuna and Fors, with related Fortuna titles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:13
+- id: fig:5
+  name_or_label: Janus
+  description: Indexed as Janus, with related Janus/Janiculum entries nearby.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:13
+- id: fig:6
+  name_or_label: Juno
+  description: Indexed as Juno with titles including Lucina, Moneta, and Sospita;
+    related month entries are also present.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:13
+- id: fig:7
+  name_or_label: Jupiter
+  description: Indexed as Jupiter with several titles, including Capitolinus, Elicius,
+    Pistor, Stator, Stygius, Tonans, and Victor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:13
+- id: fig:8
+  name_or_label: Hercules
+  description: Indexed as Hercules and also as Hercules Custos.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Gemini
+  description: Indexed as Gemini.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+- id: fig:10
+  name_or_label: Vesta
+  description: Appears in the entry 'Iliaci ... Vesta'.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Juturna
+  description: Appears in the entry for Juturna and Juturna's lake.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: indexed mother-deity figure
+  assigned_to:
+  - fig:1
+  basis: The figure is explicitly indexed as 'Mother of the Gods'.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: indexed divine or cult figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:10
+  - fig:11
+  basis: The passage lists these names among divine, cult-title, or calendar-religious
+    index entries.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:13
+- id: role:3
+  label: indexed heroic figure
+  assigned_to:
+  - fig:8
+  basis: Hercules is named in the index and also appears with the title Custos.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: indexed paired or twin figure
+  assigned_to:
+  - fig:9
+  basis: The lemma Gemini denotes a pair or twins in the index context.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: hearth and fire
+  literal_form: focus; foci; ignes; fulmen-related entries
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: lake and waters
+  literal_form: Juturnae lacus; named rivers or waters including Ganges and Hebrus
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: ritual victim or offering
+  literal_form: hostia; forda bos; equus Soli mactatus
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:4
+  label: calendar days and festivals
+  literal_form: dies fastus/nefastus and related day classes; Equiria; Feralia; feriae;
+    Idus; Kalendae
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:5
+  label: dragon-born city
+  literal_form: draconigena urbs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: twin or paired language
+  literal_form: gemellipara; duo semina rerum; Gemini; Iliadae fratres
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: horses and horse rites
+  literal_form: equi and equus entries, including Soli mactatus
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:11
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: ritual calendar and seasonal festival ordering
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The index clusters calendar classifications, months, named festivals, and
+    month-related divine entries.
+  evidence_refs:
+  - ev:3
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The passage is an index, not a narrative explanation of a seasonal myth.
+- id: motif:2
+  label: mother goddess
+  taxonomy_refs:
+  - mother_goddess
+  basis: The index includes Deorum Mater and related goddess entries, including Dea
+    Magna and gemellipara among Dea epithets.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The passage only indexes titles and references; it does not narrate a
+    mother-goddess episode.
+- id: motif:3
+  label: sacrifice and ritual offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The index includes hostia, an animal mactatus to the Sun, forda bos, fibrae,
+    februa, and priestly entries.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The index gives vocabulary and references, not a full sacrificial scene.
+- id: motif:4
+  label: twins or paired generation
+  taxonomy_refs:
+  - sacred_twins
+  basis: The index includes gemellipara, Gemini, Iliadae fratres, and duo semina rerum.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: Twin or paired language is present, but the passage does not give the
+    underlying story or ritual function.
+- id: motif:5
+  label: dragon or serpent-associated foundation image
+  taxonomy_refs:
+  - serpent
+  basis: The index includes the phrase draconigena urbs, literally a dragon-born city.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: Only an index phrase is present; the passage does not describe the dragon
+    or a serpent narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13304-13525
+  quote_or_summary: Alphabetical index entries from Dardania through Kalendae give
+    lemmas followed by book and line references.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: 13306-13318
+  quote_or_summary: The Dea and Deae entries list many divine female epithets, including
+    Bona, docta, gemellipara, Magna, muta, turrigera, and others.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 13319-13336
+  quote_or_summary: The passage lists Dei, Deus with many epithets, Deorum Mater,
+    Diana, Dictynna, and calendar-day categories such as fastus and nefastus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 13304-13520
+  quote_or_summary: Named figures in the index include Dardanus, Dido/Elissa, Electra,
+    Evander, Ganymedes, Hercules, Hippolytus, Ino, Iulus, and others.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: 13325-13448
+  quote_or_summary: Animal-associated entries include Dolphin, many equi/equus entries,
+    forda bos, and hirundo.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: quote
+  locator: 13439-13503
+  quote_or_summary: '"focus vi, 301"; "Iliaci, foci iii, 142. ignes iii, 29 ... Vesta
+    vi, 227"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: summary
+  locator: 13425-13524
+  quote_or_summary: Water-related entries include Ganges, Hebrus, Ionium, and Juturna/Juturnae
+    lacus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:8
+  type: quote
+  locator: '13351'
+  quote_or_summary: '"draconigena urbs, iii. 865."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; short excerpt.
+- id: ev:9
+  type: quote
+  locator: 13330; 13476
+  quote_or_summary: '"Deorum Mater iv. 263."; "Idaeus, judex vi, 44. Parens iv, 182."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; short excerpt.
+- id: ev:10
+  type: summary
+  locator: 13312-13514
+  quote_or_summary: Twin or paired entries include gemellipara, duo semina rerum,
+    Gemini, and Iliadae fratres.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:11
+  type: summary
+  locator: 13366-13474
+  quote_or_summary: Ritual and offering-related entries include equus Soli mactatus,
+    februa, fibrae, flamen/flaminica, forda bos, and hostia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:12
+  type: summary
+  locator: 13334-13525
+  quote_or_summary: Calendar terms include December, dies ater/comitialis/fastus/ferales/intercisus/nefastus/nundinalis/parentales/sementiva,
+    Equiria, Feralia, feriae, Idus, and Kalendae.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+- id: ev:13
+  type: summary
+  locator: 13436-13518
+  quote_or_summary: Divine or cult entries include Flora, Fortuna/Fors, Janus, Juno
+    with Lucina/Moneta/Sospita, Junonale tempus, Junonius mensis, and Jupiter with
+    several titles.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is an index, so literal extraction of terms is reliable, but
+    motif identification is necessarily cautious and based on indexed vocabulary rather
+    than narrated episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims or narrative scenes were extracted because the supplied passage contains index entries rather than a continuous mythic episode.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l13304-l13525
+  passage_sha256=d8feeb183633d8121bcc8e7105e3e25ba1a6128f484dbad6bbc8b72269232d22
+

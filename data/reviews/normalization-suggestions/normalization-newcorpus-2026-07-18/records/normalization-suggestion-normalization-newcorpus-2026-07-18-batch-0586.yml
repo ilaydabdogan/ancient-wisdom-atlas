@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0586
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.disproportionate-violent-response-destroys-the-ruler-s-own-palace
+  motif_id: disproportionate_violent_response_destroys_the_ruler_s_own_palace
+  label: disproportionate violent response destroys the ruler’s own palace
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler's excessive violent response rebounds destructively on his own
+    seat of power, fitting moral consequence and judgment logic.
+  cautions: If the passage is only a battle tactic or comic accident, this may be
+    too contextual for motif querying.
+  suggested_aliases:
+  - violent_overreaction_rebounds_on_ruler
+  - ruler_destroyed_by_own_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dispute-settlement-at-law-council
+  motif_id: dispute_settlement_at_law_council
+  label: Dispute settlement at law council
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A law council resolving disputes belongs with law, social order, and
+    communal adjudication.
+  cautions: May be a historical or saga-institutional detail rather than a symbolic
+    motif; review source context before broad indexing.
+  suggested_aliases:
+  - legal_dispute_settlement
+  - council_judgment
+  - law_assembly_dispute_resolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dissatisfied-petitioner-seeking-longer-life
+  motif_id: dissatisfied_petitioner_seeking_longer_life
+  label: dissatisfied petitioner seeking longer life
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on dissatisfaction with allotted lifespan and petitioning
+    for extended life, fitting incomplete or contested deathlessness/longevity themes.
+  cautions: Could instead be divine judgment, fate, or a bargaining episode depending
+    on who is petitioned and why longer life is denied or granted.
+  suggested_aliases:
+  - petition_for_longer_life
+  - longevity_petition
+  - dissatisfaction_with_allotted_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-bride-as-remedy-for-an-aging-king
+  motif_id: distant_bride_as_remedy_for_an_aging_king
+  label: Distant bride as remedy for an aging king
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: A bride sought as a restorative remedy links marriage quest, desire,
+    and renewal of an aging ruler.
+  cautions: Highly episode-specific; may instead belong to royal_legitimacy, immortality_without_renewal,
+    or healing quest if the bride's function is political or magical rather than love/marriage.
+  suggested_aliases:
+  - bride_as_rejuvenating_remedy
+  - marriage_as_royal_renewal
+  - distant_bride_quest_for_aging_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-bride-in-a-solar-edge-kingdom
+  motif_id: distant_bride_in_a_solar_edge_kingdom
+  label: distant bride in a solar-edge kingdom
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The bride motif aligns broadly with bride quest and sacred love, while
+    the solar-edge setting is likely local episode detail.
+  cautions: Could map to otherworld or sacred_fire/solar imagery if the solar kingdom
+    is the primary motif; keep the location detail as evidence rather than canonicalizing
+    it.
+  suggested_aliases:
+  - distant_bride_in_solar_realm
+  - bride_at_edge_of_sun_realm
+  - remote_bride_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-ruler-invites-healer-to-his-city
+  motif_id: distant_ruler_invites_healer_to_his_city
+  label: Distant ruler invites healer to his city
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: In Christian apocryphal context, an invited healer likely functions as
+    sacred or divinely guided healing entering a ruler's domain.
+  cautions: The label alone may be only a travel or court episode; if no supernatural
+    healing or sacred agency is present, exclude or map to hero_journey instead.
+  suggested_aliases:
+  - ruler_summons_healer
+  - healer_invited_to_distant_city
+  - royal_invitation_to_healer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-bed-shaking-produces-snow
+  motif_id: domestic_bed_shaking_produces_snow
+  label: Domestic bed-shaking produces snow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a weather-producing domestic action, but no existing
+    group cleanly captures household acts causing seasonal weather.
+  cautions: May be a folktale etiological detail, magical domestic labor motif, or
+    passage-specific generated artifact; source evidence is needed before creating
+    a weather-magic group.
+  suggested_aliases:
+  - domestic_action_causes_snow
+  - bed_shaking_weather_magic
+  - household_act_produces_winter_weather
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-labor-contrasted-with-martial-honor
+  motif_id: domestic_labor_contrasted_with_martial_honor
+  label: domestic labor contrasted with martial honor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: The contrast defines warrior honor against domestic labor, fitting the
+    martial-role and honor field around divine_warrior/sacred combat.
+  cautions: May be a gender-role or social commentary theme rather than mythic combat;
+    review whether sacred or heroic honor is actually central.
+  suggested_aliases:
+  - martial_honor_contrasted_with_domestic_labor
+  - warrior_status_vs_household_work
+  - domestic_role_martial_role_contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doom-of-a-house-after-oath-breaking
+  motif_id: doom_of_a_house_after_oath_breaking
+  label: doom of a house after oath-breaking
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: Oath-breaking triggers doom on a lineage or house, matching binding speech
+    acts and their consequences.
+  cautions: Could also index secondarily under covenant or divine_judgment if the
+    oath is a sacred bond or punishment is explicitly divine.
+  suggested_aliases:
+  - oath_breaking_dooms_a_house
+  - broken_oath_brings_lineage_doom
+  - house_cursed_after_oath_breaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-city-threatened-by-water-fire-and-apparitions
+  motif_id: doomed_city_threatened_by_water_fire_and_apparitions
+  label: doomed city threatened by water, fire, and apparitions
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A city menaced by elemental disasters and apparitions reads as ominous
+    judgment or portents of civic destruction.
+  cautions: Do not force flood_and_renewal unless actual world/order destruction and
+    renewal are present; if the apparitions are prophetic signs, dream_and_vision
+    may be secondary.
+  suggested_aliases:
+  - omens_of_doomed_city
+  - elemental_portents_threaten_city
+  - city_doom_marked_by_water_fire_apparitions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and episode-specific; preserve local detail
+  in evidence notes and avoid promoting to taxonomy families without recurrence.
+- Power/kingship bucket labels here often resolve to sacred_law, divine_judgment,
+  curse_blessing_speech, sacred_love, or divine_warrior depending on narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed especially for Slavic bride
+    labels and Germanic weather/domestic-action label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0586
+  input_sha256: 625d68ef0e4fb766e4869fbb28ea593cc0e6ccc7a1e27994e8ecb2aaddef05d8
+

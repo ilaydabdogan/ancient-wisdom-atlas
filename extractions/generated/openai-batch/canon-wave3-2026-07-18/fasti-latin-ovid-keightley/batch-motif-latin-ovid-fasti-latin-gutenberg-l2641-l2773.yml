@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l2641-l2773
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: MAIUS. LIB. V. / JUNIUS. LIB. VI. / P. OVIDII NASONIS FASTORUM / LIBER I.;
+    lines 2641-2773
+  start: '2641'
+  end: '2773'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on Ovid's Fasti discuss Roman honorific titles, the title
+    Augustus, temple dedication ritual, palace threshold insignia, the Carmentalia
+    and childbirth-related Carmentes, and the vow/restoration of the Temple of Concord
+    under Camillus and Tiberius.
+  language: English with Latin lemmata
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists Roman figures and honorific titles connected with military
+    victories, family names, and civic status.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title Augustus is explained through Greek sebastos and described as exceeding
+    ordinary human titles.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Pontifex is described as holding a temple door-post during dedication.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An oak-leaf garland is said to hang over the Palatium door as a sign of protection,
+    with laurel on each side as a sign of victory.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Carmentalia are said to be repeated on a calendar date, with matronae
+    and covered two-wheeled carriages mentioned in connection with the feast.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The notes connect the Carmentalia with women in difficult labour and with
+    altars to two Carmentes named Postverta and Prosa or Prorsa.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Temple of Concord is described as vowed by L. Furius Camillus and later
+    repaired and dedicated anew by Tiberius.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Germany is personified as offering dishevelled hair after defeat by Roman
+    arms under Tiberius' auspices.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Imperial sacredness is stated through the note that everything belonging to
+    the emperor was sacratum and sanctum, and Augustus is called Jove's vicegerent
+    on earth.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Augustus
+  description: Identified with the title Augustus; associated with a title beyond
+    ordinary human status, Palatium threshold insignia, and being called Jove's vicegerent
+    on earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Tiberius
+  description: Said to bear the name Augustus, to repair and dedicate the Temple of
+    Concord, to be the dux connected with victory over Germany, and to have sacred
+    hands in the temple context.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Pontifex
+  description: An unnamed Pontifex who holds a temple door-post during dedication.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Matronae
+  description: Roman mothers or married women mentioned in connection with the Carmentalia
+    and carpenta.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Carmenta
+  description: A nymph or goddess named in the Carmentalia notes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Postverta and Prosa or Prorsa
+  description: Two Carmentes whose altars are linked with averting the danger of difficult
+    labour.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: L. Furius Camillus
+  description: Named as the person who vowed the ancient Temple of Concord.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Germany or the Germans personified
+  description: A defeated nation represented as holding forth dishevelled locks after
+    Roman victory.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sacralized imperial authority
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Augustus is treated as a title beyond human status; imperial belongings are
+    sacred; Tiberius bears the Augustan name and acts in a temple dedication context.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: temple-dedicating priest
+  assigned_to:
+  - fig:3
+  basis: The Pontifex holds a door-post when dedicating a temple.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Carmentalia goddess or nymph
+  assigned_to:
+  - fig:5
+  basis: Carmenta is identified as a nymph or goddess in notes on the Carmentalia.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: childbirth-peril deities
+  assigned_to:
+  - fig:6
+  basis: Altars to the two Carmentes are said to avert the danger of difficult labour.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: temple founder or restorer
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Camillus vowed the Temple of Concord, while Tiberius repaired and dedicated
+    it anew.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: defeated personified nation
+  assigned_to:
+  - fig:8
+  basis: Germany is represented as vanquished and surrendering dishevelled hair.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: ritual participants in Carmentalia context
+  assigned_to:
+  - fig:4
+  basis: Matronae are mentioned in the note on the Carmentalia.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: oak-leaf garland of protection
+  literal_form: oak-leaf garland over the Palatium door
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: laurels of victory
+  literal_form: laurel standing on each side of the Palatium door
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: temple door-post held in dedication
+  literal_form: door-post held by the Pontifex
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: carpentum
+  literal_form: covered two-wheel carriage
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: altars to the Carmentes
+  literal_form: altars set up to Postverta and Prosa or Prorsa
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Temple of Concord
+  literal_form: temple vowed by Camillus and restored by Tiberius
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: surrendered German hair
+  literal_form: dishevelled locks offered by defeated Germany
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Augustan title and sacred threshold signs
+  summary: The notes explain Augustus as a venerated title, mention a Pontifex holding
+    a door-post in temple dedication, and describe oak and laurel insignia at the
+    Palatium door.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: Carmentalia and childbirth danger
+  summary: The Carmentalia are described with matronae, carpenta, Carmenta, and two
+    Carmentes whose altars avert dangers of difficult labour.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Temple of Concord, Tiberian restoration, and defeated Germany
+  summary: The Temple of Concord is traced from Camillus' vow to Tiberius' restoration
+    and dedication, with Tiberius' peace and German victory symbolized by the surrender
+    of hair.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacralized imperial rulership and titulature
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The title Augustus is treated as more than a human title, imperial objects
+    are sacred, and Augustus is described as Jove's vicegerent on earth.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage is an editorial note, not a continuous mythic narrative.
+- id: motif:2
+  label: protective and victorious foliage at a ruler's threshold
+  taxonomy_refs: []
+  basis: The oak-leaf garland and paired laurels at the Palatium door are explicitly
+    glossed as signs of protection and victory.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a symbolic architectural or honorific detail rather than a narrative
+    episode.
+- id: motif:3
+  label: ritual protection in childbirth through named female deities
+  taxonomy_refs:
+  - sacred_birth
+  basis: Altars to the two Carmentes are linked with averting danger in difficult
+    labour, and the Carmentalia notes center on matronae and birth-position deities.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns childbirth ritual and danger, not a miraculous or
+    heroic birth narrative.
+- id: motif:4
+  label: political concord sacralized through temple vow and restoration
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Temple of Concord is associated with civil discord in its first vow and
+    with Tiberius' restoration, victories, and peace.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The claim rests on the note's political-religious framing of the temple
+    rather than an explicit mythic story.
+- id: motif:5
+  label: defeated enemy surrendering a distinctive emblem
+  taxonomy_refs: []
+  basis: Germany is personified as surrendering dishevelled hair, and the note states
+    that conquered nations are said to surrender things for which they are distinguished.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a Roman poetic-political trope in the note; no broader comparative
+    taxonomy is asserted.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links Latin Augustus with Greek sebastos as a linguistic
+    rendering based on veneration.
+  claim_level: linguistic_similarity
+  target: Greek sebastos as rendering of Augustus
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an etymological or translational note, not evidence of a shared
+    narrative motif.
+- id: claim:2
+  claim: The Carmentalia childbirth explanation is aligned with nearby Roman antiquarian
+    accounts in Servius, Macrobius, Varro, and Aulus Gellius concerning Carmentes
+    and difficult labour.
+  claim_level: same_function
+  target: Roman antiquarian tradition on Carmentes and childbirth altars
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage summarizes external authorities through editorial commentary;
+    it does not quote the full parallel passages.
+- id: claim:3
+  claim: Germany's surrendered hair is compared within the note to a broader Roman
+    poetic pattern in which conquered peoples surrender distinctive attributes, such
+    as Parthian bows.
+  claim_level: same_function
+  target: Roman trope of conquered nations surrendering distinctive emblems
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to examples supplied in the note and does
+    not establish historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 595-606
+  quote_or_summary: Notes identify Roman figures and titles including Numidae, Numantina,
+    Drusus/Germanicus, Caesar, Torquatus, Corvinus, Magnus, and Maximus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: 608-614
+  quote_or_summary: The notes say Greeks rendered Augustus as sebastos and that the
+    name was beyond any human title; a Pontifex holds a door-post in dedication; an
+    oak-leaf garland symbolizes protection and laurels victory at the Palatium.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; short excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: 617-636
+  quote_or_summary: The Carmentalia are repeated on the 15th; matronae and carpenta
+    are mentioned; Carmenta is a nymph or goddess; altars to two Carmentes, Postverta
+    and Prosa/Prorsa, avert the danger of difficult labour.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 637-650
+  quote_or_summary: The ancient Temple of Concord was vowed by L. Furius Camillus
+    and repaired and dedicated anew by Tiberius; the notes mention its Capitol/Forum
+    setting, Tiberius' sacred hands, peace, and victory framing.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: '645'
+  quote_or_summary: Germany is described as holding forth dishevelled locks, vanquished
+    by Roman arms under Tiberius' auspices; the note adds that conquered nations surrender
+    things for which they are distinguished.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; short excerpt summarized.
+- id: ev:6
+  type: quote
+  locator: 640, 650
+  quote_or_summary: The notes state that everything belonging to the emperor was sacratum
+    and sanctum and gloss 'Magni Jovis' as Augustus, Jove's vicegerent on earth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; short excerpt summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage consists of editorial notes rather than the continuous
+    Latin poem; extraction is limited to motifs and symbols explicitly present in
+    those notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, taxonomy IDs, or comparison claims beyond the supplied passage and available taxonomy list were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l2641-l2773
+  passage_sha256=cb00ffc79a1781c79b7607e51a1b4b3649b85c4e636f95f02d176dffee2467d2
+

@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l23417-l23512
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: PAHLAVI    TEXTS. / INDEX. / PAHLAVI    TEXTS. / SI.  21,  2,  7,  8.; lines
+    23417-23512
+  start: '23417'
+  end: '23512'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment lists topics and cross-references including zodiac signs,
+    carriers of the dead, ceremonies after death, chiefs of creation, childbirth and
+    children, clothing corpses and spirits, confession of sin, and conflicts of evil
+    with parts of creation such as sky, water, earth, plants, animals, man, and fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment that gives topic headings with references
+    to sections of Pahlavi texts.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cancer and Capricornus are listed as indexed zodiacal topics with references.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Carriers of the dead are indexed in several configurations: single, one with
+    a dog, two, and four.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ceremonies are indexed, including ceremonies after a death and ceremonies
+    of nine nights.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Chiefs of creation and spiritual chieftainships are listed as indexed topics.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Clothing corpses, clothing for spirits, and purifying clothing are listed
+    as indexed topics.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Confession of sin is listed as an indexed topic.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Conflicts of evil are indexed with sky, water, earth, plants, animals, man,
+    and fire.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: carriers of the dead
+  description: 'An indexed group described by number or configuration: single, one
+    with a dog, two, and four.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: dog
+  description: A dog is mentioned in the indexed configuration of one carrier of the
+    dead with a dog.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: chiefs of creation
+  description: An indexed group associated with creation and with spiritual chieftainship
+    references.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: evil
+  description: Evil is the indexed subject of conflicts with sky, water, earth, plants,
+    animals, man, and fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: dead-carrier
+  assigned_to:
+  - fig:1
+  basis: The index heading is 'Carriers of the dead' and lists configurations of such
+    carriers.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: associated animal in a death-carrier entry
+  assigned_to:
+  - fig:2
+  basis: The dog is mentioned only in the configuration 'one with a dog' under carriers
+    of the dead.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: chief of creation
+  assigned_to:
+  - fig:3
+  basis: The index lists 'Chiefs of creation' and related spiritual references.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: conflicting force
+  assigned_to:
+  - fig:4
+  basis: The index lists 'Conflicts of evil' with several domains or beings.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: dead
+  literal_form: the dead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dog
+  literal_form: dog
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water
+  literal_form: water
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: sky
+  literal_form: sky
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Indexing of death-related practices
+  summary: The index groups topics concerning carriers of the dead, ceremonies after
+    death, ceremonies of nine nights, clothing corpses, clothing for spirits, and
+    purifying clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:2
+  label: Indexing of cosmic conflicts of evil
+  summary: The index lists conflicts of evil with sky, water, earth, plants, animals,
+    man, and fire.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:3
+  label: Indexing of creation chiefs
+  summary: The index lists chiefs of creation and spiritual chieftainships as topics
+    with references.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: death-related ritual handling
+  taxonomy_refs: []
+  basis: The passage groups index entries for carriers of the dead, ceremonies after
+    death, ceremonies of nine nights, clothing corpses, clothing for spirits, and
+    purifying clothing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage is an index, not a narrative or ritual description; it names
+    topics without explaining their sequence or meaning.
+- id: motif:2
+  label: cosmic conflict between evil and creation domains
+  taxonomy_refs:
+  - duality
+  - chaos
+  basis: The index explicitly lists conflicts of evil with sky, water, earth, plants,
+    animals, man, and fire.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The index does not give the episodes themselves; the mapping to broader
+    motif families is based only on the indexed conflict terminology.
+- id: motif:3
+  label: spiritual administration of creation
+  taxonomy_refs: []
+  basis: The index lists chiefs of creation and spiritual chieftainships.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage only provides index headings and references, so the nature
+    of the chieftainship is not described here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23417-23512
+  quote_or_summary: The supplied passage is an index section headed 'PAHLAVI TEXTS'
+    and consists of alphabetized topic entries with textual references.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 23423-23431
+  quote_or_summary: '"Cancer" and "Capricornus" are listed with references.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 23433-23436
+  quote_or_summary: The entry for carriers of the dead lists single carriers, one
+    with a dog, two carriers, and four carriers.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 23447-23455
+  quote_or_summary: The index lists ceremonial references and ceremonies after a death,
+    including ceremonies of nine nights.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 23462-23469
+  quote_or_summary: The index lists chiefs of creation, spiritual chiefs, and spiritual
+    and temporal chieftainships.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 23484-23492
+  quote_or_summary: The entry for clothing includes clothing corpses, clothing for
+    spirits, and purifying clothing.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 23504
+  quote_or_summary: '"Confession of sin" is listed as an index entry.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 23505-23512
+  quote_or_summary: The index lists conflicts of evil with the sky, water, earth,
+    plants, animals, man, and fire.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is an index. Motif
+    identification is tentative because the passage only names indexed topics and
+    cross-references, without giving narrative or doctrinal context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself provides index cross-references but does not make explicit comparative claims beyond topic grouping.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l23417-l23512
+  passage_sha256=6bd2b280d4942389015fb351e5ce0e5801c9533286570d2166a18eb3013d417e
+

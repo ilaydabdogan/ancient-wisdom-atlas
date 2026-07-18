@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0449
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spring-or-watercourse-inhabited-by-water-god
+  motif_id: spring_or_watercourse_inhabited_by_water_god
+  label: spring or watercourse inhabited by water god
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred watercourse inhabited by a divine being fits water as a sacred
+    or numinous place rather than flood or generic theophany.
+  cautions: Single occurrence; if the source emphasizes a local tutelary being more
+    than water symbolism, divine_intervention may be a secondary fit.
+  suggested_aliases:
+  - water deity inhabiting spring
+  - sacred spring inhabited by deity
+  - watercourse as divine dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standardized-sacred-measurements
+  motif_id: standardized_sacred_measurements
+  label: standardized sacred measurements
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Sacred measurement could refer to ritual order, sacred craft, cosmology,
+    or passage-specific ceremonial detail.
+  cautions: Needs source evidence before mapping; may be an ethnographic or descriptive
+    artifact if no recurring symbolic function is present.
+  suggested_aliases:
+  - ritual measurement
+  - sacred dimensions
+  - standardized ceremonial measures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-and-water-as-signs-of-divine-power
+  motif_id: storm_and_water_as_signs_of_divine_power
+  label: Storm and water as signs of divine power
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Storm and water function as signs manifesting divine power, aligning
+    with theophany more than a flood-renewal narrative.
+  cautions: If the passage stresses punishment or moral reckoning, divine_judgment
+    should be considered; do not force flood_and_renewal without world-destruction
+    and renewal.
+  suggested_aliases:
+  - storm-water theophany
+  - storm as divine manifestation
+  - waters as sign of divine power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-as-divine-sign-praise-and-punishment
+  motif_id: storm_as_divine_sign_praise_and_punishment
+  label: Storm as divine sign, praise, and punishment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label explicitly includes punishment, so storm imagery functions
+    as divine reckoning and warning.
+  cautions: Also overlaps theophany and sacred_fire/divine light if the emphasis is
+    manifestation rather than judgment; preserve praise aspect in notes.
+  suggested_aliases:
+  - storm as divine punishment
+  - storm as divine sign
+  - storm theophany and warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-god-releases-imprisoned-waters
+  motif_id: storm_god_releases_imprisoned_waters
+  label: storm god releases imprisoned waters
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A storm god releasing held waters typically centers on divine combat
+    or victory restoring cosmic order.
+  cautions: Could also index under sacred_waters or cosmic_origin if the passage emphasizes
+    released waters as creation or fertility rather than combat.
+  suggested_aliases:
+  - storm deity releases waters
+  - liberation of imprisoned waters
+  - divine release of waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-saint-replacing-or-absorbing-thunder-god-functions
+  motif_id: storm_saint_replacing_or_absorbing_thunder_god_functions
+  label: storm saint replacing or absorbing thunder-god functions
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes interpretive replacement or absorption of deity
+    functions rather than a narrative motif in a passage.
+  cautions: Preserve as reception or syncretism note if useful; do not use as taxonomy
+    evidence for transmission claims.
+  suggested_aliases:
+  - saint absorbs thunder-god functions
+  - storm saint replaces thunder god
+  - syncretic thunder-god function
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storming-divine-power-over-mountain-and-heavens
+  motif_id: storming_divine_power_over_mountain_and_heavens
+  label: storming divine power over mountain and heavens
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Storming power over mountain and heavens presents divine manifestation
+    across cosmic heights.
+  cautions: If the mountain is the main sacred center, axis_mundi/cosmic_mountain
+    may be secondary; if combat is present, divine_warrior may fit better.
+  suggested_aliases:
+  - storm theophany over mountain
+  - divine storm over heavens
+  - storm power on sacred mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strength-contests-between-a-god-and-a-giant
+  motif_id: strength_contests_between_a_god_and_a_giant
+  label: strength contests between a god and a giant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest between god and giant is an agonistic divine encounter, fitting
+    sacred combat or ritualized contest.
+  cautions: If the episode is comic deception or boundary testing rather than combat,
+    trickster or initiation may be a better secondary mapping.
+  suggested_aliases:
+  - god-giant strength contest
+  - divine giant contest
+  - contest of strength with giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitution-of-affordable-offering
+  motif_id: substitution_of_affordable_offering
+  label: substitution of affordable offering
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns substitution within offering practice, a clear ritual
+    variant of sacrifice.
+  cautions: May also relate to covenant or sacred_law if framed as legal accommodation
+    rather than sacrificial symbolism.
+  suggested_aliases:
+  - substitute offering
+  - affordable sacrificial substitute
+  - graded offering substitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.subterranean-ritual-altar-chamber
+  motif_id: subterranean_ritual_altar_chamber
+  label: subterranean ritual altar chamber
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A subterranean altar chamber is a ritualized below-ground sacred space,
+    fitting descent or chthonic threshold use.
+  cautions: If the focus is altar offering rather than underground passage, sacrifice
+    or world_center may be secondary; single occurrence may be too site-specific.
+  suggested_aliases:
+  - underground ritual chamber
+  - subterranean altar space
+  - chthonic altar chamber
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Storm motifs in this batch split between theophany, divine judgment, divine warrior,
+  and sacred waters depending on function; avoid treating all storm or water imagery
+  as flood renewal.
+- Several labels are single-occurrence and may need source review before final indexing,
+  especially sacred measurements and site-specific ritual chambers.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0449
+  input_sha256: 06ffabc1e8c33fda98da0754a2c1a0c9d01023ec2d6dea747e14c4d230611bc6
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1628
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unfortunate-youth-appointed-as-cattle-herder
+  motif_id: unfortunate_youth_appointed_as_cattle_herder
+  label: Unfortunate youth appointed as cattle herder
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an episode-specific role assignment, a low-status ordeal,
+    or a tale setup rather than a durable motif.
+  cautions: Single occurrence; needs source context before mapping to hero_journey,
+    initiation, sacred_combat/cattle themes, or exclusion as plot detail.
+  suggested_aliases:
+  - unlucky youth as herder
+  - low-status herding appointment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfulfilled-vengeance-and-threat-against-a-protected-elder
+  motif_id: unfulfilled_vengeance_and_threat_against_a_protected_elder
+  label: unfulfilled vengeance and threat against a protected elder
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines vengeance, failed threat, and protected elder status;
+    the primary narrative function is unclear.
+  cautions: Could belong with divine_judgment, sacred_law, sacred_combat, or kinship/social-order
+    motifs depending on whether protection is sacred, social, or tactical.
+  suggested_aliases:
+  - failed vengeance against protected elder
+  - threat to protected elder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ungrateful-rescued-man-betrays-benefactor
+  motif_id: ungrateful_rescued_man_betrays_benefactor
+  label: Ungrateful rescued man betrays benefactor
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is betrayal of a benefactor after rescue, making violated
+    obligation and trust the engine of the episode.
+  cautions: If the passage centers on moral punishment of ingratitude, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - rescued man betrays benefactor
+  - ingratitude after rescue
+  - benefactor betrayed by rescued person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unhealed-salty-remainder
+  motif_id: unhealed_salty_remainder
+  label: unhealed salty remainder
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is too compressed to identify whether it concerns judgment,
+    etiological landscape, purification failure, or a passage artifact.
+  cautions: Likely needs passage evidence; if it refers to a salt remnant from destruction,
+    cosmic_origin/etiology or divine_judgment may fit, but do not infer from wording
+    alone.
+  suggested_aliases:
+  - salty remnant
+  - unhealed salt remainder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unified-celestial-praise
+  motif_id: unified_celestial_praise
+  label: Unified celestial praise
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Celestial beings united in praise often marks revealed heavenly liturgy
+    or encounter with divine presence.
+  cautions: If it is only a liturgical statement rather than a witnessed revelation,
+    sacred_song or sacred_knowledge may be more appropriate; current groups lack a
+    direct heavenly-liturgy category.
+  suggested_aliases:
+  - celestial liturgical praise
+  - heavenly unified praise
+  - angelic praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unified-epic-assembled-from-separate-lays
+  motif_id: unified_epic_assembled_from_separate_lays
+  label: unified epic assembled from separate lays
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual compilation or scholarly reconstruction rather
+    than a narrative motif.
+  cautions: Preserve as provenance or literary-history metadata, not as evidence for
+    mythic pattern queries.
+  suggested_aliases:
+  - epic compilation from lays
+  - separate lays assembled into epic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uninhabitable-extreme-zones
+  motif_id: uninhabitable_extreme_zones
+  label: Uninhabitable extreme zones
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Extreme uninhabitable regions often function as cosmographic zones defining
+    the ordered world and its limits.
+  cautions: If the passage treats these zones as an otherworld, exile setting, or
+    ordeal landscape rather than cosmology, otherworld or hero_journey may be better.
+  suggested_aliases:
+  - cosmic extreme zones
+  - uninhabitable world margins
+  - inhospitable cosmographic zones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-praise-of-deity
+  motif_id: universal_praise_of_deity
+  label: Universal praise of deity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Universal praise expresses theological recognition of divine reality
+    and can function as sacred teaching or revealed cosmology.
+  cautions: If the passage emphasizes worship practice or heavenly liturgy, a future
+    praise/liturgy group may be useful; avoid reducing it to theophany unless divine
+    manifestation is witnessed.
+  suggested_aliases:
+  - all beings praise deity
+  - cosmic praise of God
+  - universal divine praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-preaching-to-the-four-regions
+  motif_id: universal_preaching_to_the_four_regions
+  label: Universal preaching to the four regions
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on transmission of saving or sacred teaching across
+    the whole ordered world.
+  cautions: If the four-region structure is mainly cosmographic, cosmic_origin or
+    axis_mundi may be secondary; if it is missionary narrative, existing groups only
+    partly cover it.
+  suggested_aliases:
+  - preaching to the four quarters
+  - universal proclamation to four regions
+  - teaching sent to the four directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-stillness-or-suspended-motion
+  motif_id: universal_stillness_or_suspended_motion
+  label: universal stillness or suspended motion
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cosmic stillness commonly marks an overwhelming sacred event or divine
+    manifestation interrupting ordinary time.
+  cautions: If the episode concerns apocalyptic judgment, miracle at birth, or sacred
+    time suspension, divine_judgment, miraculous_child, or sacred_time may be better
+    secondary mappings.
+  suggested_aliases:
+  - cosmic stillness
+  - suspended cosmic motion
+  - world stilled by sacred event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; placements
+  should be treated as provisional until passage evidence is checked.
+- The taxonomy currently has no direct canonical group for heavenly liturgy, universal
+  praise, or missionary proclamation; these were placed under nearest sacred-knowledge/theophany
+  groups rather than creating a new group from sparse evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1628
+  input_sha256: 8fdc7deb111fd4918f973342581287b458fbac6896c0ea9b1535e02fd0f14b60
+

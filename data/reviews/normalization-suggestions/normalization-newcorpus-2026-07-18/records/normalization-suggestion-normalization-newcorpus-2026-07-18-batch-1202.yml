@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1202
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.challenge-obligation-marked-by-inscribed-stone
+  motif_id: challenge_obligation_marked_by_inscribed_stone
+  label: challenge obligation marked by inscribed stone
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal challenge creating obligation fits ritualized combat and challenge
+    structures better than a general object motif.
+  cautions: Single occurrence; if the inscribed stone is mainly an identity or authority
+    object, sacred_treasures or recognition_tokens_hidden_identity may be better secondary
+    contexts.
+  suggested_aliases:
+  - inscribed stone challenge
+  - challenge obligation token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-challenge-and-answering-champion
+  motif_id: champion_challenge_and_answering_champion
+  label: Champion challenge and answering champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Champion challenge and response is a ritualized martial encounter, already
+    near existing champion-duel aliases under sacred_combat.
+  cautions: Preserve whether this is a formal duel, verbal challenge, or obligation
+    episode; do not merge with divine_warrior unless sacred/cosmic combat is explicit.
+  suggested_aliases:
+  - champion challenge
+  - answering champion
+  - champion challenge and response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-protective-gesture-during-demonic-threat
+  motif_id: christian_protective_gesture_during_demonic_threat
+  label: Christian protective gesture during demonic threat
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective religious gesture against demons fits the existing apotropaic
+    protection cluster folded under sacred_law.
+  cautions: Culturally specific Christian framing should be preserved; if the gesture
+    functions as direct divine aid, divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - apotropaic Christian gesture
+  - protective sign against demons
+  - demonic threat protective gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christianization-as-chronological-and-identity-marker
+  motif_id: christianization_as_chronological_and_identity_marker
+  label: Christianization as chronological and identity marker
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historical or editorial periodization and identity
+    marking rather than a narrative or symbolic motif.
+  cautions: May be useful as contextual metadata for colonial-era source framing,
+    but should not drive motif pattern queries.
+  suggested_aliases:
+  - Christianization chronology marker
+  - Christian identity marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.church-centered-town-foundation-and-possession
+  motif_id: church_centered_town_foundation_and_possession
+  label: Church-centered town foundation and possession
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be sacred center, sacred law, colonial settlement history, or local
+    land-possession etiology depending on source evidence.
+  cautions: Single occurrence and culturally/historically specific; avoid flattening
+    colonial Christian town organization into generic world_center without passage
+    evidence of cosmological centrality.
+  suggested_aliases:
+  - church-centered town foundation
+  - sacred town possession
+  - church as settlement center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circle-center-catching-game-with-replacement
+  motif_id: circle_center_catching_game_with_replacement
+  label: circle-center catching game with replacement
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a game or performance pattern, but its mythic function
+    is not clear from wording alone.
+  cautions: May be an ethnographic play description rather than a motif; only map
+    if the game encodes ritual replacement, initiation, cosmic center, or social order
+    in the passage.
+  suggested_aliases:
+  - circle-center replacement game
+  - catching game with replacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claimed-supernatural-abduction-during-sleep
+  motif_id: claimed_supernatural_abduction_during_sleep
+  label: claimed supernatural abduction during sleep
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural abduction during sleep suggests removal into a nonordinary
+    or enchanted realm, matching otherworld abduction/sojourn patterns.
+  cautions: The word 'claimed' may signal unreliable narration or commentary; if the
+    passage emphasizes dream revelation rather than actual abduction, dream_and_vision
+    may fit better.
+  suggested_aliases:
+  - supernatural sleep abduction
+  - sleep abduction by supernatural beings
+  - otherworld abduction during sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-migration-and-settlement-near-springs
+  motif_id: clan_migration_and_settlement_near_springs
+  label: clan migration and settlement near springs
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be an origin/migration tradition, sacred-water settlement pattern,
+    or place-history detail; source function is needed.
+  cautions: Handle Hopi migration and clan settlement traditions carefully; do not
+    reduce to sacred_waters unless springs have explicit ritual or cosmological significance.
+  suggested_aliases:
+  - clan migration to springs
+  - settlement near sacred springs
+  - migration and spring settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-servant-rescues-household-from-concealed-danger
+  motif_id: clever_servant_rescues_household_from_concealed_danger
+  label: clever servant rescues household from concealed danger
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: role_variant
+  confidence: medium
+  rationale: A clever subordinate using wit to avert hidden danger fits trickster-like
+    cleverness and reversal patterns.
+  cautions: If the episode primarily tests loyalty or household order, betrayal_violated_trust
+    or sacred_law may be relevant; avoid assuming trickster identity solely from cleverness.
+  suggested_aliases:
+  - clever servant rescue
+  - servant discovers concealed danger
+  - wit rescues household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cliff-or-cave-habitation-as-fortified-dwelling-pattern
+  motif_id: cliff_or_cave_habitation_as_fortified_dwelling_pattern
+  label: Cliff or cave habitation as fortified dwelling pattern
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase describes a habitation or settlement pattern rather than a
+    symbolic cave/descent motif.
+  cautions: If a passage treats the cave or cliff dwelling as sacred origin, underworld
+    threshold, refuge, or axis site, remap that evidence to descent, axis_mundi, or
+    cosmic_origin as appropriate.
+  suggested_aliases:
+  - fortified cliff dwelling pattern
+  - cave habitation pattern
+  - cliff habitation pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence and several read as contextual, ethnographic,
+  or historical labels rather than durable motif candidates.
+- Objects/spaces labels should not be mapped to axis_mundi, descent, or sacred_waters
+  unless the passage evidence gives the place or object a clear symbolic or narrative
+  function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    settlement, Christianization, and game/performance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1202
+  input_sha256: 7aaf894a33e611a510e7711c279254d7890e27257356ead2d64687c13efb6145
+

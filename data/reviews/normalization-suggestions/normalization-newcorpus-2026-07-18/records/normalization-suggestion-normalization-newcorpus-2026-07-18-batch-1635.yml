@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1635
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vengeance-for-the-slain-friend-over-lamentation
+  motif_id: vengeance_for_the_slain_friend_over_lamentation
+  label: Vengeance for the slain friend over lamentation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Prioritizing revenge for a slain companion fits the existing avenging-a-slain-companion
+    combat complex.
+  cautions: Could also be lament_and_mourning if the passage centers on grief rather
+    than retaliatory action.
+  suggested_aliases:
+  - avenging_a_slain_companion
+  - vengeance_for_slain_companion
+  - revenge_over_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-wrong
+  motif_id: vengeance_for_wrong
+  label: vengeance for wrong
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish sacred justice, feud, personal
+    revenge, or narrative conflict.
+  cautions: Do not map to divine_judgment unless sacred or moral reckoning is explicit;
+    may be ordinary plot action.
+  suggested_aliases:
+  - revenge_for_injury
+  - requital_for_wrong
+  - vengeance_for_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-killing-for-a-fallen-companion
+  motif_id: vengeance_killing_for_a_fallen_companion
+  label: vengeance killing for a fallen companion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a close match to the existing sacred_combat alias avenging_a_slain_companion.
+  cautions: If the passage emphasizes heroic mourning or funeral obligation, also
+    consider lament_and_mourning or heroic_funeral_rites.
+  suggested_aliases:
+  - avenging_a_slain_companion
+  - vengeance_for_fallen_companion
+  - revenge_killing_for_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-sought-through-substitute-agents
+  motif_id: vengeance_sought_through_substitute_agents
+  label: vengeance sought through substitute agents
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The key feature may be vengeance, proxy agency, manipulation, or legal/social
+    delegation depending on context.
+  cautions: Could fit sacred_combat, trickster, divine_judgment, or ordinary feud
+    narrative; source evidence is needed.
+  suggested_aliases:
+  - proxy_vengeance
+  - vengeance_by_substitute_agents
+  - revenge_through_agents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-enclosure-and-burning-of-a-hall
+  motif_id: vengeful_enclosure_and_burning_of_a_hall
+  label: vengeful enclosure and burning of a hall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A retaliatory hall-burning is a violent feud or warfare episode, best
+    preserved under sacred_combat if ritually or heroically framed.
+  cautions: Highly episode-specific; if it is only a plot tactic, preserve as evidence
+    rather than promote as a broad motif.
+  suggested_aliases:
+  - hall_burning_as_vengeance
+  - vengeful_hall_burning
+  - enclosure_and_burning_of_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-lord-pursues-perceived-offender
+  motif_id: vengeful_lord_pursues_perceived_offender
+  label: Vengeful lord pursues perceived offender
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label depends on whether the lord’s pursuit is unjust accusation,
+    royal authority, feud, or moral reckoning.
+  cautions: Could map to royal_legitimacy, divine_judgment, sacred_combat, or false-accusation
+    motifs depending on evidence.
+  suggested_aliases:
+  - lord_pursues_perceived_offender
+  - vengeful_pursuit_by_ruler
+  - retaliatory_pursuit_for_perceived_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-mutilation-for-accidental-injury
+  motif_id: vengeful_mutilation_for_accidental_injury
+  label: Vengeful mutilation for accidental injury
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern disproportionate retaliation, bodily punishment,
+    legal injustice, or a folktale ordeal.
+  cautions: Sensitive violent-body label; avoid normalizing under divine_judgment
+    unless the passage frames it as sacred or moral justice.
+  suggested_aliases:
+  - disproportionate_revenge_for_accidental_injury
+  - retaliatory_mutilation
+  - vengeful_bodily_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-old-woman-after-slain-kin
+  motif_id: vengeful_old_woman_after_slain_kin
+  label: vengeful old woman after slain kin
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The label combines revenge for kin with a specific avenger role, but
+    the narrative function is unclear.
+  cautions: Could fit sacred_combat, lament_and_mourning, trickster, or a local figure-type;
+    avoid reducing it to age/gender role alone.
+  suggested_aliases:
+  - kin_vengeance_by_old_woman
+  - old_woman_avenges_slain_kin
+  - vengeful_kin_avenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-requital-for-the-slaying-of-a-benefactor
+  motif_id: vengeful_requital_for_the_slaying_of_a_benefactor
+  label: vengeful requital for the slaying of a benefactor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Avenging a slain benefactor foregrounds violated reciprocal obligation
+    and requital for a broken bond.
+  cautions: If the passage centers on battle retaliation rather than obligation to
+    a benefactor, sacred_combat may be the better group.
+  suggested_aliases:
+  - requital_for_slaying_of_benefactor
+  - vengeance_for_slain_benefactor
+  - avenging_a_benefactor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.verbal-quarrel-through-reciprocal-insults
+  motif_id: verbal_quarrel_through_reciprocal_insults
+  label: verbal quarrel through reciprocal insults
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Reciprocal insults may be ordinary dialogue, ritualized contest speech,
+    or performative sacred speech depending on context.
+  cautions: Map to curse_blessing_speech only if the insults bind, curse, transform,
+    or have ritual force; otherwise may be a passage artifact.
+  suggested_aliases:
+  - ritual_insult_exchange
+  - reciprocal_verbal_abuse
+  - verbal_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence vengeance or feud details; human
+  review should verify whether they are recurring motifs or passage-level plot summaries.
+- Avoid treating vengeance as divine_judgment unless the source explicitly frames
+  retaliation as sacred, cosmic, legal, or moral reckoning.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements emphasize existing sacred_combat and reciprocal-obligation
+    groups where clear; broad or context-dependent vengeance labels remain for human
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1635
+  input_sha256: f6fb3a1d6164ed5964702c9883396f2c6c38c2b194b04ab5784ad8295f89be6d
+

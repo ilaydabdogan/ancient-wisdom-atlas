@@ -1,0 +1,555 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l1807-l1908
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER I / INTRODUCTORY / CHAPTER II / CHAPTER III; lines 1807-1908
+  start: '1807'
+  end: '1908'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes an Amazonian maloka homestead: a single large thatched
+    communal house in a forest clearing, few external signs of occupancy, temporary
+    use followed by abandonment and burning, relocation for soil and security reasons,
+    hidden paths away from rivers, a cleared dancing ground, and construction from
+    local forest materials including poles, lianas, palm leaves, bamboo, and water-soaked
+    bindings.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The traveller emerges from forest gloom into a clearing containing a tribal
+    headquarters.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The homestead is generally not a village or cluster of huts but one large
+    thatched, ridge-roofed house standing in the open.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The great house is described as the home of about three score Indians.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'Few immediate signs of occupancy appear outside: little litter, no village
+    dogs or domestic fowls, and only a child or old woman may retreat into the maloka.'
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The house and its contents are treated as temporary rather than permanent.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After about two or three years, when the house falls into disrepair, the people
+    do not patch it; the house is burnt and the group departs to a new site.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Women carry the few tribal possessions and their infants during relocation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Fresh agricultural ground must be cleared every few years because successive
+    crops exhaust soil fertility.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Paths converging on a homestead create a security risk because a track can
+    guide an enemy to the settlement.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The chosen site is never near a river because rivers are treated as highways
+    for a possible enemy, while smaller streams suffice for ordinary purposes.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Paths to the habitation are concealed; the river path may be interrupted by
+    fallen trees and resumed by devious ways through thicket.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: A plot in front of the house is often cleared as a dancing ground, though
+    some tribes use an indoor dancing space instead.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The house roof is supported by four large poles, a central ridge-pole, additional
+    posts, cross-beams, and lashings.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: 'Forest materials provide the main building elements: tree trunks for posts
+    and beams, lianas for bindings, Bussu palm leaves for thatch, and bamboo strips
+    for holding palm leaves.'
+  category: object
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:15
+  text: Lianas used for binding beams and poles are soaked in water to make them supple.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:16
+  text: The thatch is made of loose rows of doubled palm leaves inserted into slit
+    bamboo; when the shingling ceases to be waterproof, the house is abandoned.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: traveller or stranger
+  description: An approaching outsider who emerges from the forest into the clearing;
+    the passage also mentions a stranger’s approach.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Indians or tribesmen of the maloka
+  description: The communal inhabitants of the great house, described as about three
+    score people, who use, abandon, relocate, and build such houses.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: women with infants
+  description: Women who are loaded with the few tribal possessions and carry infants
+    when the group leaves the old house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: possible enemy or hostile visitors
+  description: A threatening outside presence whose possible approach shapes settlement
+    location, concealment, and path design.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: naked child or startled old woman
+  description: Possible occupants who may run into the darkness of the maloka when
+    a stranger approaches.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: communal residents
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The great house is the home of about three score Indians, and the passage
+    describes resident figures retreating into the maloka.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: relocating household group
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The group abandons and burns the house, with women carrying possessions and
+    infants, then departs for a new site.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: builders and thatch makers
+  assigned_to:
+  - fig:2
+  basis: The passage attributes construction and thatch-making actions to the Indians
+    and describes their use of forest materials.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: defensive threat
+  assigned_to:
+  - fig:4
+  basis: Enemies or hostile visitors are cited as reasons for avoiding rivers, hiding
+    habitations, concealing paths, and moving when paths become visible.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: approaching observer
+  assigned_to:
+  - fig:1
+  basis: The passage is framed through the traveller emerging into the clearing and
+    the stranger’s approach to the homestead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: maloka or great communal house
+  literal_form: A large thatched, ridge-roofed house standing in a clearing and serving
+    as the home of about three score Indians.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire used in abandonment
+  literal_form: The old house is burnt before the group departs to build another habitation.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: forest clearing
+  literal_form: A cleared site in the forest where the maloka stands, with an additional
+    cleared plot used as a dancing ground.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:4
+  label: river as enemy highway
+  literal_form: Rivers are avoided as settlement sites because they are described
+    as highways for a possible enemy; smaller streams are sufficient for ordinary
+    needs.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hidden broken path and fallen tree
+  literal_form: The path from the river may stop at a fallen tree, continue by concealed
+    devious routes, and be broken more than once before reaching the house.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: dancing ground
+  literal_form: A cleared plot in front of the house, or in some cases a space inside
+    the house, used for dancing.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: forest building materials
+  literal_form: Tree trunks, lianas, Bussu palm leaves, and bamboo are used to make
+    the house frame and thatch.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: water-softened lianas
+  literal_form: Lianas are soaked in water so they can be used to tie beams and poles.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: waterproof shingled thatch
+  literal_form: Rows of doubled palm leaves in slit bamboo create waterproof shingling;
+    when it fails, the house is abandoned.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: approach to the maloka clearing
+  summary: An outsider comes out of the forest into a clearing and sees a single large
+    thatched communal house rather than a village cluster.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: quiet exterior signs of residence
+  summary: The exterior shows little litter or domestic animal activity; a child or
+    old woman may retreat into the dark interior when a stranger approaches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: abandonment and burning before relocation
+  summary: After several years, the house is not repaired; possessions and infants
+    are carried, the house is burnt, and the group goes to a new site.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: movement for cultivation and security
+  summary: The group periodically needs new agricultural ground and also moves because
+    visible paths can expose the homestead to enemies.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: concealed inland siting and interrupted paths
+  summary: The settlement is placed away from rivers, and paths from the river are
+    hidden and broken by obstacles such as fallen trees.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: clearing of dancing space
+  summary: A dancing ground is often cleared in front of the house, though some groups
+    instead use an indoor dancing space.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: construction and thatching of the great house
+  summary: The house is made with large poles, ridge-pole, cross-beams, liana lashings,
+    Bussu palm leaves, and bamboo-supported rows of palm-leaf thatch.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: temporary communal dwelling and repeated relocation
+  taxonomy_refs:
+  - departure
+  basis: The passage states that the house and contents are temporary, the people
+    do not repair the house after two or three years, and the whole group departs
+    to seek a new site.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic settlement pattern, not a mythic narrative; the
+    taxonomy link is limited to the literal departure/relocation element.
+- id: motif:2
+  label: burning the old house before founding a new one
+  taxonomy_refs: []
+  basis: The house is burnt when it is no longer maintained, and the group then seeks
+    a new site on which to build another habitation.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives no ritual or symbolic explanation for the burning.
+- id: motif:3
+  label: hidden homestead protected by broken paths
+  taxonomy_refs: []
+  basis: The homestead and paths are deliberately concealed; paths from the river
+    can be interrupted by fallen trees and indirect routes to reduce enemy access.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The pattern is described as practical defense rather than as a mythic
+    labyrinth or initiation pattern.
+- id: motif:4
+  label: communal great house with dancing space
+  taxonomy_refs: []
+  basis: A single great house serves as the communal home, and a dancing ground is
+    commonly cleared in front, though sometimes dancing space is inside.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: No sacred or ceremonial interpretation beyond the literal dancing function
+    is supplied in this passage.
+- id: motif:5
+  label: forest-made house from local vegetal materials
+  taxonomy_refs: []
+  basis: 'The house is constructed from materials found in the surrounding forest:
+    tree trunks, lianas, palm leaves, and bamboo, with lianas soaked for binding.'
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a material-culture pattern rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the common single-great-house homestead is contrasted
+    with some lower Apaporis groups that are said to have clusters of huts.
+  claim_level: same_function
+  target: lower Apaporis settlement variation
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no named groups or further details about the lower
+    Apaporis exception.
+- id: claim:2
+  claim: 'The dancing-space function is described as varying by group: some clear
+    an outside dancing ground, while some use space inside the house.'
+  claim_level: same_function
+  target: outside versus indoor dancing space among some tribes
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not specify which tribes use each arrangement or whether
+    the difference has ritual significance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1813-1818
+  quote_or_summary: The traveller emerges into a clearing; the tribal headquarters
+    usually has no village cluster but one large thatched ridge-roofed house, home
+    to about three score Indians, with an exception noted for some lower Apaporis
+    tribes.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1820-1832
+  quote_or_summary: The homestead exterior has little litter, no domestic dogs or
+    fowls, and a child or old woman may run into the dark maloka when a stranger approaches;
+    otherwise the place appears silent and solitary.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1837-1846
+  quote_or_summary: The house and its contents are temporary; after about two or three
+    years the people do not repair the disused house, women carry possessions and
+    infants, the house is burnt, and the group departs to build elsewhere.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1848-1859
+  quote_or_summary: Clearing new agricultural land is periodically necessary because
+    crops exhaust the soil; paths worn toward the homestead create danger because
+    secrecy is security and a track can guide an enemy, so moving may be precautionary.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1861-1873
+  quote_or_summary: Sites are not chosen near rivers because rivers are enemy highways;
+    habitations and paths are hidden, and river paths may be stopped by fallen trees,
+    resume through thickets, and be broken several times.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 1875-1880
+  quote_or_summary: A plot in front of the house is often cleared as a dancing ground,
+    but some tribes use dancing space inside the house; an outside floor becomes trodden
+    down and sun-baked.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 1882-1894
+  quote_or_summary: The house is constructed with four large poles, a central ridge-pole,
+    posts and cross-beams lashed together; forest materials include tree trunks, lianas,
+    Bussu palm leaves, and water-soaked lianas used as bindings.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 1896-1908
+  quote_or_summary: Thatch is made by inserting doubled palm leaves into slit bamboo
+    strips and layering them into waterproof shingling; when waterproofing fails the
+    house is abandoned, and the roof consists of loose rows of fronds.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a descriptive ethnographic account rather than a mythic narrative.
+    Literal extraction is strong; motif labels are best treated as practical settlement
+    and material-culture patterns pending human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported taxonomy references were used.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l1807-l1908
+  passage_sha256=f6a6d5314cc21c73c3b58bfaccf4f18dc6b509b9ad07693cb42f015e47507477
+

@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0039
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-from-shame-after-battle-fought-on-one-s-account
+  motif_id: death_from_shame_after_battle_fought_on_one_s_account
+  label: death from shame after battle fought on one's account
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death caused by shame after others fight for one centers on grief, tragic
+    recognition, and social-emotional collapse after heroic conflict.
+  cautions: Single occurrence and culturally specific heroic context; could also relate
+    to sacred_combat if the battle obligation is the main function.
+  suggested_aliases:
+  - death from shame
+  - shame death after proxy battle
+  - tragic shame after deaths for one
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-shame-after-deaths-for-one-s-sake
+  motif_id: death_from_shame_after_deaths_for_one_s_sake
+  label: Death from shame after deaths for one's sake
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes fatal shame or grief in response to deaths incurred
+    on one's behalf, fitting tragic mourning and recognition.
+  cautions: May be an over-specific duplicate of the previous shame-death motif; merge
+    only after source comparison.
+  suggested_aliases:
+  - death from shame after others die
+  - fatal shame for deaths on one's behalf
+  - death from shame after deaths for one's sake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-sorrow-and-grief
+  motif_id: death_from_sorrow_and_grief
+  label: death from sorrow and grief
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Fatal grief is a direct variant of lament and mourning where sorrow itself
+    becomes death-causing.
+  cautions: If the source frames the death as fated or supernaturally imposed, death_by_fate
+    or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - fatal grief
+  - death from grief
+  - death from sorrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-from-terror-at-a-returning-apparition
+  motif_id: death_from_terror_at_a_returning_apparition
+  label: death from terror at a returning apparition
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: A returning apparition that frightens someone to death fits active haunting
+    by the dead or revenant presence.
+  cautions: If the apparition is not a dead person, divine_intervention or otherworld
+    may be better; retain terror-death as evidence detail.
+  suggested_aliases:
+  - fatal fright from apparition
+  - death by revenant terror
+  - apparition causes death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-goddess-reference
+  motif_id: death_goddess_reference
+  label: Death-goddess reference
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be only a named divine reference, not a narrative motif
+    or functional pattern.
+  cautions: Review source evidence to see whether the death goddess acts as judge,
+    ruler of the dead, fate figure, or is merely mentioned.
+  suggested_aliases:
+  - death goddess
+  - goddess of death
+  - female death deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-governed-by-prophecy
+  motif_id: death_governed_by_prophecy
+  label: Death governed by prophecy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: A prophesied death functions as death determined by foreknown destiny
+    beyond ordinary human control.
+  cautions: If the passage emphasizes the prophetic institution or seer role, prophecy_divination
+    should be a secondary mapping.
+  suggested_aliases:
+  - prophesied death
+  - foretold death
+  - death determined by prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-guardian-announces-fated-lifespan
+  motif_id: death_guardian_announces_fated_lifespan
+  label: Death-guardian announces fated lifespan
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: role_variant
+  confidence: high
+  rationale: A death-guardian declaring a fixed lifespan expresses death as fated
+    and announced by a boundary or death-associated figure.
+  cautions: Could also relate to threshold_guardian if the figure controls passage,
+    or prophecy_divination if the announcement is oracular.
+  suggested_aliases:
+  - fated lifespan announced
+  - death guardian prophecy
+  - guardian announces death fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-haunted-dwelling-abandoned-or-destroyed
+  motif_id: death_haunted_dwelling_abandoned_or_destroyed
+  label: Death-haunted dwelling abandoned or destroyed
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dwelling made dangerous by death or haunting fits unresolved dead presence
+    affecting the living and requiring spatial response.
+  cautions: May instead be a mortuary taboo, pollution, or culturally specific protection
+    practice; review sensitively before broad indexing.
+  suggested_aliases:
+  - death-haunted house
+  - abandoned haunted dwelling
+  - destroyed death-polluted dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-in-water-preferred-to-captivity
+  motif_id: death_in_water_preferred_to_captivity
+  label: death in water preferred to captivity
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines chosen death, water, and avoidance of captivity; existing
+    groups do not identify the main narrative function without context.
+  cautions: Could be sacrifice, sacred_waters, heroic honor, escape from oppression,
+    or an episode-specific detail; avoid mapping to flood or descent solely because
+    water is present.
+  suggested_aliases:
+  - death preferred to captivity
+  - self-chosen drowning rather than capture
+  - water death to avoid captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-letter-transformed-into-marriage-order
+  motif_id: death_letter_transformed_into_marriage_order
+  label: death letter transformed into marriage order
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A written order or token is altered so that an intended death command
+    becomes a marriage command, making the document a decisive identity/order-bearing
+    object.
+  cautions: This may fit a future forged-message or deceptive-letter group better;
+    death is the content of the letter, not necessarily the motif's outcome.
+  suggested_aliases:
+  - altered death letter
+  - forged death order becomes marriage order
+  - message transformed from death to marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be episode-specific;
+  preserve granular wording as evidence notes where mapped.
+- Do not infer flood, descent, or afterlife motifs merely from the presence of death
+  or water; use the narrative function shown by source evidence.
+- Death-goddess and chosen water-death items need source review before stable query
+  placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review required for culturally
+    specific death, haunting, and fate contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0039
+  input_sha256: 885ad1979dcd5827fc0f993431dedee47a29c66e717a4d0be84a11ac3e941c74
+

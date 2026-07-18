@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l22086-l22183
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    XIX,    7- XX,   I.  393 / CHAPTER    XX,  2-1 1.  395 / CHAPTER    XX,   I  2
+    -XXI,   2.  397 / Chapter    XXI; lines 22086-22183
+  start: '22086'
+  end: '22183'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Fre^iin wished to slay As-i Dahak, but Auharmazd tells him not to do so because
+    the earth would become full of noxious creatures.
+  summary: The passage first states that Fre^iin wanted to slay As-i Dahak, but Auharmazd
+    forbade it for the time being, warning that the earth would become full of noxious
+    creatures. It then introduces an indication of the midday shadow and gives a zodiacal
+    sequence of solar positions with corresponding lengths of a man's shadow in feet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fre^iin wishes to slay As-i Dahak.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Auharmazd speaks to Fre^iin and tells him not to slay As-i Dahak at that time.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated reason for not slaying As-i Dahak is that the earth would become
+    full of noxious creatures.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The next section introduces an indication of the midday shadow.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The shadow lengths are listed according to the sun's positions in zodiac signs
+    from Cancer through Gemini.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The shadow is measured in feet of a man and ranges in the list from one foot
+    to ten feet before decreasing again.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Fre^iin
+  description: A named figure who wishes to slay As-i Dahak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: As-i Dahak
+  description: A named being whom Fre^iin wishes to slay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Auharmazd
+  description: A named divine speaker who forbids the immediate slaying of As-i Dahak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: man
+  description: The human body is used as the reference for measuring midday shadow
+    length by feet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: would-be slayer
+  assigned_to:
+  - fig:1
+  basis: Fre^iin is said to have wished to slay As-i Dahak.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intended victim whose death is delayed
+  assigned_to:
+  - fig:2
+  basis: As-i Dahak is the figure whom Fre^iin wishes to slay, but Auharmazd says
+    not to slay him now.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine prohibitor
+  assigned_to:
+  - fig:3
+  basis: Auharmazd tells Fre^iin not to slay As-i Dahak now and gives the consequence.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: measure-bearing human reference
+  assigned_to:
+  - fig:4
+  basis: The shadow is described as a number of feet of the man.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: midday shadow
+  literal_form: The midday shadow whose length is indicated and measured.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sun in zodiac signs
+  literal_form: The sun's positions in Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius,
+    Capricornus, Aquarius, Pisces, Aries, Taurus, and Gemini.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: human foot as measure
+  literal_form: A man's foot used as the unit for shadow length.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: noxious creatures
+  literal_form: Creatures said to fill the earth if As-i Dahak is slain then.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Auharmazd delays the slaying of As-i Dahak
+  summary: Fre^iin wants to slay As-i Dahak, but Auharmazd commands him not to do
+    it then because the earth would become full of noxious creatures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Zodiacal table of midday shadows
+  summary: The passage gives a sequence of the sun's zodiacal positions and assigns
+    each position a corresponding length of a man's midday shadow in feet.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: deferred slaying to prevent worse harm
+  taxonomy_refs: []
+  basis: Auharmazd forbids the immediate killing of As-i Dahak because that action
+    would cause the earth to become full of noxious creatures.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief notice and does not narrate a full combat
+    or later resolution.
+- id: motif:2
+  label: zodiacal reckoning by human shadow
+  taxonomy_refs: []
+  basis: The chapter lists solar positions in zodiac signs with corresponding noon
+    shadow lengths measured by the feet of a man.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an astronomical or calendrical pattern rather than a narrative
+    myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22086-22091
+  quote_or_summary: 'Fre^iin wished to slay As-i Dahak, but Auharmazd said: ''Do not
+    slay him now, for the earth will become full of noxious creatures.'''
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: Chapter XXI, 1; lines 22095-22096
+  quote_or_summary: 'The chapter opens: ''I write the indication of the midday shadow;
+    may it be fortunate!'''
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: Chapter XXI, 2; lines 22098-22183
+  quote_or_summary: The passage lists the sun's positions from Cancer through Gemini
+    and gives a corresponding noon shadow length in feet of a man, increasing to ten
+    feet at Capricornus and then decreasing.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Narrative extraction is limited because the As-i Dahak notice is brief. The
+    shadow table is explicit, but its relevance as a motif is primarily calendrical
+    rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not provide a developed comparison to another tradition or motif family.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l22086-l22183
+  passage_sha256=6f0f291de2ec88e2e2b5d16756768c8778edc3de2ebf5ab25582b0da8e72dc5d
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0229
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.storm-driven-shipwreck-at-a-fatal-mountain-shore
+  motif_id: storm_driven_shipwreck_at_a_fatal_mountain_shore
+  label: storm-driven shipwreck at a fatal mountain shore
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A storm and shipwreck can function as a journey ordeal, but the fatal
+    mountain-shore detail is episode-specific.
+  cautions: Single occurrence; could be ordinary travel peril, divine judgment, otherworld
+    threshold, or source-specific adventure detail.
+  suggested_aliases:
+  - shipwreck ordeal
+  - storm-driven sea ordeal
+  - fatal shore landing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-ordeal-before-arrival-in-a-wondrous-land
+  motif_id: storm_ordeal_before_arrival_in_a_wondrous_land
+  label: Storm ordeal before arrival in a wondrous land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The storm functions as a liminal ordeal leading to a wondrous or enchanted
+    realm.
+  cautions: If the passage emphasizes the ordeal rather than the wondrous land, hero_journey
+    or initiation may be useful secondary mappings.
+  suggested_aliases:
+  - storm before otherworld arrival
+  - storm passage to wondrous land
+  - sea ordeal before enchanted realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-tossed-sea-journey-with-boarding-stranger-and-calming-storm
+  motif_id: storm_tossed_sea_journey_with_boarding_stranger_and_calming_storm
+  label: Storm-tossed sea journey with boarding stranger and calming storm
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The boarding stranger who calms the storm suggests supernatural intervention
+    during a perilous journey.
+  cautions: Identity of the stranger matters; if merely a disguised god manifesting
+    directly, theophany may also apply. Single occurrence and composite label.
+  suggested_aliases:
+  - storm-calming stranger
+  - supernatural stranger calms storm
+  - sea journey with divine helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stranded-travelers-enter-a-cannibal-giant-s-dwelling
+  motif_id: stranded_travelers_enter_a_cannibal_giant_s_dwelling
+  label: Stranded travelers enter a cannibal giant's dwelling
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cannibal giant's dwelling is a perilous liminal encounter that tests
+    travelers' passage or survival.
+  cautions: Could also fit hero_journey as travel ordeal or trickster if escape depends
+    on deception; preserve cannibal giant detail as evidence.
+  suggested_aliases:
+  - cannibal giant dwelling
+  - travelers trapped by giant host
+  - perilous giant-house encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stranger-arrival-tested-through-questions-of-place-and-belonging
+  motif_id: stranger_arrival_tested_through_questions_of_place_and_belonging
+  label: stranger arrival tested through questions of place and belonging
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: Questions of place and belonging test a stranger's identity or legitimate
+    social placement.
+  cautions: Could instead be hospitality testing, border interrogation, courtly recognition,
+    or a passage-specific dialogue; source evidence needed.
+  suggested_aliases:
+  - stranger identity questioning
+  - arrival tested by place questions
+  - belonging test for stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitute-victim-requested-and-refused
+  motif_id: substitute_victim_requested_and_refused
+  label: Substitute victim requested and refused
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on substitutionary victim logic, a sacrificial or surrender
+    pattern, even when refused.
+  cautions: If the scene is legal ransom, mercy refusal, or execution procedure rather
+    than ritual sacrifice, covenant or divine_judgment may fit better.
+  suggested_aliases:
+  - refused substitute victim
+  - substitutionary victim refused
+  - rejected sacrificial substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitutionary-exile-offered-and-refused
+  motif_id: substitutionary_exile_offered_and_refused
+  label: substitutionary exile offered and refused
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: Offering to take another's exile frames displacement as a substituted
+    self-surrender or duty-offering.
+  cautions: May belong under covenant, sacred_law, or hero_journey if the evidence
+    emphasizes filial duty, dharma, or exile narrative rather than sacrifice.
+  suggested_aliases:
+  - refused substitute exile
+  - vicarious exile refused
+  - substitutionary banishment offer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-arrival-of-armed-companies
+  motif_id: successive_arrival_of_armed_companies
+  label: successive arrival of armed companies
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Armed companies may introduce a martial confrontation or raid sequence,
+    but the label only describes arrival order.
+  cautions: Likely a scene-structure detail rather than a reusable motif unless arrivals
+    function ritually, genealogically, or as escalating ordeal.
+  suggested_aliases:
+  - successive armed arrivals
+  - arrival of warrior companies
+  - armed bands arrive in sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-choice-between-lesser-treasure-and-further-quest
+  motif_id: successive_choice_between_lesser_treasure_and_further_quest
+  label: successive choice between lesser treasure and further quest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A repeated choice between reward and continuing the quest is a quest-testing
+    structure.
+  cautions: If the treasure is a sacred power object, sacred_treasures may be a secondary
+    mapping; single occurrence may be too specific for canonical promotion.
+  suggested_aliases:
+  - choice between treasure and quest
+  - refusal of lesser treasure
+  - quest continuation over reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-warrior-band-arrivals-and-identifications
+  motif_id: successive_warrior_band_arrivals_and_identifications
+  label: successive warrior-band arrivals and identifications
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: over_specific_label
+  confidence: low
+  rationale: The identification element may involve recognition of arriving warrior
+    bands, but the label is mainly sequential scene staging.
+  cautions: Could fit sacred_combat if the arrivals lead to battle; otherwise may
+    be an episode outline artifact not useful for pattern queries.
+  suggested_aliases:
+  - successive warrior-band identification
+  - warrior bands arrive and are named
+  - sequential identification of armed bands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence travel-scene composites; preserve
+  as evidence details unless source review shows recurring structure.
+- Storm-at-sea labels should not be mapped to flood_and_renewal unless they involve
+  world destruction and renewal.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review should verify narrative
+    function from passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0229
+  input_sha256: 46826651b2a2a61818e840c7bb60ba867133f451d4a18650a456c41a3b08b964
+

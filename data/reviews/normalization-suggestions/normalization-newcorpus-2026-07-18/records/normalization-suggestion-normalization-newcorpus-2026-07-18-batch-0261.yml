@@ -1,0 +1,335 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0261
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.chosen-and-purified-holy-woman
+  motif_id: chosen_and_purified_holy_woman
+  label: chosen and purified holy woman
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines election, purification, and a holy female role; it
+    may involve sacred birth, divine favor, purity, or later doctrinal reverence depending
+    on source context.
+  cautions: Culturally sensitive and single occurrence; do not flatten a named holy
+    woman into generic mother_goddess or miraculous_child without passage evidence.
+  suggested_aliases:
+  - chosen holy woman
+  - purified holy woman
+  - divinely chosen woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - mother_goddess
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-emblems-and-prayer-over-a-chasm
+  motif_id: christian_emblems_and_prayer_over_a_chasm
+  label: Christian emblems and prayer over a chasm
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may describe ritual protection, sacred speech, boundary crossing,
+    or missionary-context material; the chasm may be a threshold but the function
+    is unclear.
+  cautions: Single occurrence and tradition/context sensitive; Christian emblems may
+    be a contact-era or passage-specific detail rather than a reusable motif.
+  suggested_aliases:
+  - prayer over a chasm
+  - sacred emblems at a dangerous threshold
+  - ritual prayer at a boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_treasures
+    - threshold_guardian
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.city-guardian-war-goddess-protects-people-in-wartime-movement
+  motif_id: city_guardian_war_goddess_protects_people_in_wartime_movement
+  label: City-guardian war goddess protects people in wartime movement
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A tutelary goddess directly protects a community during wartime, matching
+    divine intervention through protective civic agency.
+  cautions: Could also fit divine_warrior if the evidence emphasizes combat, or civic
+    tutelary spirit if a future subgroup is separated.
+  suggested_aliases:
+  - city guardian goddess
+  - tutelary war goddess
+  - divine protection in wartime movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.city-of-divine-presence
+  motif_id: city_of_divine_presence
+  label: city of divine presence
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A city marked by divine presence functions as a sacred center or world-organizing
+    locus.
+  cautions: If the passage focuses on temple/political legitimacy rather than cosmic
+    centrality, world_center, royal_legitimacy, or covenant may be better secondary
+    mappings.
+  suggested_aliases:
+  - sacred city of divine presence
+  - city as sacred center
+  - divine presence in the city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_center
+    - theophany
+    - royal_legitimacy
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claimed-divine-messenger-to-humanity
+  motif_id: claimed_divine_messenger_to_humanity
+  label: Claimed divine messenger to humanity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: A divine messenger role may fit revelation, divine call, or sacred knowledge,
+    but the word 'claimed' may indicate polemic or commentary rather than motif evidence.
+  cautions: Potentially doctrinally and culturally sensitive; verify whether this
+    is a narrative role, theological assertion, or external characterization before
+    indexing.
+  suggested_aliases:
+  - divine messenger to humanity
+  - prophetic messenger
+  - messenger bearing revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - prophecy_divination
+    - divine_call
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claimed-divine-mission-and-heavenly-law
+  motif_id: claimed_divine_mission_and_heavenly_law
+  label: Claimed divine mission and heavenly law
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines divine calling and lawgiving; it could belong to covenant
+    or sacred law if presented as sacred command.
+  cautions: The phrasing 'claimed' may be a commentary artifact or polemical framing;
+    source evidence is needed before mapping to sacred_law or covenant.
+  suggested_aliases:
+  - divine mission and heavenly law
+  - heavenly lawgiving
+  - divinely mandated law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_call
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-specific-sacred-burdens
+  motif_id: clan_specific_sacred_burdens
+  label: Clan-specific sacred burdens
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred obligations assigned to a clan fit ritual duty and socially ordered
+    sacred law.
+  cautions: If the passage specifically concerns carrying sanctuary objects, portable_sanctuary
+    or sacred_treasures may be useful secondary mappings.
+  suggested_aliases:
+  - clan sacred obligations
+  - lineage-specific ritual burden
+  - sacred duty assigned by clan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_exchange
+    - sacred_treasures
+    - portable_sanctuary
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansed-and-perfected-sacred-building
+  motif_id: cleansed_and_perfected_sacred_building
+  label: Cleansed and perfected sacred building
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A purified sacred building likely functions as a sanctified center or
+    temple-like locus of divine presence.
+  cautions: If the emphasis is construction rather than sanctification, sacred_craft
+    may fit; if purification rite is central, sacrifice or sacred_law may be secondary.
+  suggested_aliases:
+  - purified sacred building
+  - perfected sanctuary
+  - cleansed temple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacrifice
+    - sacred_law
+    - world_center
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansing-after-bloodshed-before-feast-and-offering
+  motif_id: cleansing_after_bloodshed_before_feast_and_offering
+  label: cleansing after bloodshed before feast and offering
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification after bloodshed before ritual feasting and offering fits
+    sacrificial purification and sacred exchange.
+  cautions: May also involve sacred_law if framed as pollution rule, or divine_judgment
+    if bloodshed requires moral reckoning.
+  suggested_aliases:
+  - purification after bloodshed
+  - cleansing before feast and offering
+  - bloodshed purification rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cloud-honey-healing-by-wind-goddess
+  motif_id: cloud_honey_healing_by_wind_goddess
+  label: cloud-honey healing by wind goddess
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing supplied through a goddess and numinous substance is best held
+    under divine intervention, with sacred substance as a related field.
+  cautions: The cloud-honey detail may be locally specific; if the substance itself
+    is ritually central, sacred_substance may be a stronger mapping.
+  suggested_aliases:
+  - divine honey healing
+  - wind goddess healing
+  - healing by sacred honey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_exchange
+    - mother_goddess
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and combine role, ritual action,
+  and local context; suggested placements should be treated as provisional.
+- Labels using 'claimed' may encode commentary or polemic rather than motif content
+  and need source review before normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated suggestions only; culturally sensitive religious labels
+    require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0261
+  input_sha256: '018ea1500b9f586cf3ea65cd69f0aa4f54c6f525f71805049eec395544123760'
+

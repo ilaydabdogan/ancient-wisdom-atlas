@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1450
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.invulnerability-broken-by-an-overlooked-exception
+  motif_id: invulnerability_broken_by_an_overlooked_exception
+  label: invulnerability broken by an overlooked exception
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: This is a close wording variant of the existing hidden-weakness/omitted-exception
+    invulnerability group.
+  cautions: Confirm the passage involves a specific loophole or exception rather than
+    general defeat of a strong foe.
+  suggested_aliases:
+  - conditional_boon_fatal_loophole
+  - boon_with_omitted_vulnerability
+  - invulnerability_boon_with_overlooked_human_vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-hounds-set-on-a-fugitive-s-track
+  motif_id: invulnerable_hounds_set_on_a_fugitive_s_track
+  label: invulnerable hounds set on a fugitive's track
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines pursuit, animal agents, and invulnerability; the narrative
+    function is unclear from the label alone.
+  cautions: Could fit conditional_invulnerability_hidden_weakness if the hounds' invulnerability
+    is central, hero_journey if the focus is fugitive pursuit, or animal-helper/monster
+    pursuit if source evidence supports it. Single occurrence and very specific.
+  suggested_aliases:
+  - invulnerable pursuer animals
+  - supernatural hounds pursue fugitive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-perfected-body
+  motif_id: invulnerable_perfected_body
+  label: invulnerable perfected body
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: medium
+  rationale: The body made invulnerable belongs with invulnerability motifs, though
+    the label does not itself mention a hidden weakness or exception.
+  cautions: If the passage emphasizes yogic perfection, immortality, or divine embodiment
+    rather than combat vulnerability, sacred_knowledge, mystical_quest, or death_and_transformation
+    may be better secondary contexts.
+  suggested_aliases:
+  - invulnerable body
+  - weapon-resistant perfected body
+  - perfected body immune to harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.iron-teeth-for-monstrous-pursuit
+  motif_id: iron_teeth_for_monstrous_pursuit
+  label: iron teeth for monstrous pursuit
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an over-specific monster-pursuit detail without a clear
+    existing canonical group for monstrous attributes or chase episodes.
+  cautions: May be only an episode detail. If the pursuer guards a threshold, consider
+    threshold_guardian; if pursuit is a trial, consider hero_journey or initiation.
+    Do not map to sacred_treasures merely because iron is an object/material.
+  suggested_aliases:
+  - monstrous iron teeth
+  - iron-toothed pursuer
+  - supernatural pursuit by iron-toothed monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irresistible-music-compels-a-whole-assembly-to-dance
+  motif_id: irresistible_music_compels_a_whole_assembly_to_dance
+  label: irresistible music compels a whole assembly to dance
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Compulsive dancing caused by irresistible music is directly covered by
+    enchanting music and sound compulsion.
+  cautions: Preserve assembly-wide dance as evidence detail; if the dance is fatal
+    or threshold-crossing, threshold_guardian may be a related mapping.
+  suggested_aliases:
+  - sound compulsion
+  - magical music compels dancing
+  - irresistible dance music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irritant-in-the-eye-defeats-a-predator
+  motif_id: irritant_in_the_eye_defeats_a_predator
+  label: Irritant in the eye defeats a predator
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weaker figure defeating a predator through a bodily trick fits the
+    existing predator-deception and trickster-reversal cluster.
+  cautions: If no deception or trickster role is present, this may be an over-specific
+    combat detail rather than a reusable motif.
+  suggested_aliases:
+  - predator defeated by eye irritation
+  - weak prey disables predator
+  - trick blinds predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolated-champion-holding-off-an-army-while-allies-are-unavailable
+  motif_id: isolated_champion_holding_off_an_army_while_allies_are_unavailable
+  label: isolated champion holding off an army while allies are unavailable
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The isolated champion's defensive stand is a heroic combat ordeal within
+    the sacred combat/warrior crisis complex.
+  cautions: Could also relate to divine_warrior if the champion has sacred or cosmic
+    status. Single occurrence and context-specific; preserve as granular evidence.
+  suggested_aliases:
+  - lone champion holds off army
+  - single defender delays hostile force
+  - isolated heroic stand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolated-indigenous-development-of-civilisation
+  motif_id: isolated_indigenous_development_of_civilisation
+  label: Isolated indigenous development of civilisation
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a scholarly/historical-development claim, not a narrative
+    or symbolic motif.
+  cautions: Avoid using this as a motif or transmission claim. If passages describe
+    a culture hero founding civilization, map those specific episodes to culture_hero
+    instead.
+  suggested_aliases:
+  - independent development of civilization
+  - isolated cultural development
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jack-and-the-beanstalk-story-reference
+  motif_id: jack_and_the_beanstalk_story_reference
+  label: Jack and the Beanstalk story reference
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This appears to be a comparative story reference rather than a motif
+    expressed in the source passage.
+  cautions: If the source passage itself contains a giant beanstalk or vertical plant
+    ascent, remap the actual imagery to axis_mundi, ascent, or sacred_tree_axis as
+    appropriate.
+  suggested_aliases:
+  - comparative tale reference
+  - Jack and the Beanstalk comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-brothers-arrange-a-hazardous-new-task
+  motif_id: jealous_brothers_arrange_a_hazardous_new_task
+  label: Jealous brothers arrange a hazardous new task
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hazardous task imposed by jealous siblings functions as a quest ordeal
+    within a departure/trial narrative.
+  cautions: If the sibling rivalry is the central recurring structure, sacred_twins
+    or sibling_pair may be a better related group. If the task is primarily persecution
+    within the family, compare jealous_stepmother_persecuted_child but do not conflate
+    sibling and stepmother roles.
+  suggested_aliases:
+  - jealous siblings impose dangerous task
+  - hazardous task set by rival brothers
+  - sibling rivalry quest ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly episode-specific; preserve granular
+  wording as evidence even when mapped to a broad group.
+- Avoid treating comparative or historical-development statements as motifs unless
+  the passage itself contains a narrative pattern.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for ambiguous
+    pursuit and monster-detail labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1450
+  input_sha256: 7bd1198c03e5936cab14edd00a37c34ecced4c8ee377eeba357a83e9c7eeebe5
+

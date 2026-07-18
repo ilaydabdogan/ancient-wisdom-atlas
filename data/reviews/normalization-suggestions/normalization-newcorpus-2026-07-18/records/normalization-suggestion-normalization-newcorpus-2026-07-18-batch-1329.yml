@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1329
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conditional-mercy-for-surrender-of-a-singled-out-offender
+  motif_id: conditional_mercy_for_surrender_of_a_singled_out_offender
+  label: conditional mercy for surrender of a singled-out offender
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conditional mercy after surrender fits sacred or social bond repair and
+    overlaps existing mercy/supplication children under covenant.
+  cautions: Could also be a war-resolution detail under sacred_combat if the passage
+    centers siege or battle rather than mercy and restored order.
+  suggested_aliases:
+  - conditional_mercy
+  - mercy_for_surrender
+  - surrender_of_offender_for_communal_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-restoration-after-temporary-adversity
+  motif_id: conditional_restoration_after_temporary_adversity
+  label: Conditional restoration after temporary adversity
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to know whether restoration is resurrection,
+    repentance, social reinstatement, healing, or narrative reversal.
+  cautions: Needs passage evidence before mapping to death_and_transformation, divine_judgment,
+    covenant, or divine_intervention.
+  suggested_aliases:
+  - temporary_adversity_and_restoration
+  - conditional_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-restoration-through-timed-confinement
+  motif_id: conditional_restoration_through_timed_confinement
+  label: conditional restoration through timed confinement
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Timed confinement followed by restoration resembles a threshold ordeal
+    that changes status or condition.
+  cautions: If the confinement is punitive, calendrical, mortuary, or etiological
+    rather than transformative, divine_judgment, sacred_time, or exclusion may be
+    better.
+  suggested_aliases:
+  - timed_confinement_before_restoration
+  - restoration_after_confinement
+  - conditional_confinement_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confederated-enemies-and-besieged-community
+  motif_id: confederated_enemies_and_besieged_community
+  label: Confederated enemies and besieged community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A coalition of enemies besieging a community is a conflict/warfare pattern
+    and fits broad sacred_combat when narratively significant.
+  cautions: May be a historical episode detail rather than a reusable motif unless
+    the passage frames the siege as sacred testing, judgment, or deliverance.
+  suggested_aliases:
+  - besieged_community
+  - coalition_of_enemies
+  - confederated_enemy_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-and-pardon-after-recognition-of-wrongdoing
+  motif_id: confession_and_pardon_after_recognition_of_wrongdoing
+  label: Confession and pardon after recognition of wrongdoing
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: Confession and pardon repair a violated moral or social bond, matching
+    covenant's mercy and forgiveness cluster.
+  cautions: If the scene is primarily judicial punishment or divine reckoning, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - confession_and_pardon
+  - repentance_and_forgiveness
+  - recognition_of_wrongdoing_and_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-of-incarnation-and-cross-against-adversarial-denial
+  motif_id: confession_of_incarnation_and_cross_against_adversarial_denial
+  label: Confession of incarnation and cross against adversarial denial
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is doctrinal and polemical; it may describe sacred speech,
+    identity confession, or theological commentary rather than a motif.
+  cautions: Review source context carefully; if it is merely doctrinal formula or
+    apologetic framing, exclude as commentary artifact. If performative speech defeats
+    an adversary, curse_blessing_speech or sacred_knowledge may fit.
+  suggested_aliases:
+  - confession_against_denial
+  - incarnation_cross_confession
+  - doctrinal_confession_as_adversarial_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-between-maternal-claim-and-paternal-command
+  motif_id: conflict_between_maternal_claim_and_paternal_command
+  label: Conflict between maternal claim and paternal command
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a family authority conflict but not enough function to
+    place it under sacred law, miraculous child, or royal legitimacy.
+  cautions: Could be kinship ethics, succession conflict, filial duty, or episode-specific
+    plot detail; needs passage evidence.
+  suggested_aliases:
+  - maternal_claim_vs_paternal_command
+  - parental_authority_conflict
+  - family_authority_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-between-protection-of-guest-and-predator-s-claim
+  motif_id: conflict_between_protection_of_guest_and_predator_s_claim
+  label: Conflict between protection of guest and predator’s claim
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: The core tension is the host's duty to protect a guest or dependent against
+    a competing claim, matching hospitality as sacred test.
+  cautions: If the predator's role is cosmological or divine, also consider divine_judgment
+    or sacrifice; preserve predator detail as evidence.
+  suggested_aliases:
+  - guest_protection_vs_predator_claim
+  - hospitality_conflict_with_predator
+  - guest_protection_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-driven-village-relocation-and-foundation
+  motif_id: conflict_driven_village_relocation_and_foundation
+  label: conflict-driven village relocation and foundation
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social conflict, migration, and settlement foundation;
+    existing groups do not clearly capture village-founding through relocation.
+  cautions: May be an etiological settlement-history detail rather than a motif. If
+    sacred origin or place naming is emphasized, cosmic_origin may be relevant; if
+    journey ordeal is central, hero_journey may fit.
+  suggested_aliases:
+  - village_relocation_after_conflict
+  - conflict_driven_settlement_foundation
+  - migration_and_village_foundation
+  suggested_new_group:
+    id: settlement_foundation
+    label: Settlement Foundation and Relocation
+    description: Communities relocate, found villages, or establish new social space
+      after conflict, divine direction, migration, or crisis.
+    parent_group_ids:
+    - cosmic_origin
+    - hero_journey
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing origin and journey groups cover
+      etiologies and movement broadly, but not recurring communal settlement-foundation
+      sequences if many such labels recur.
+- suggestion_id: normalization.suggestion.conflict-followed-by-reconciliation
+  motif_id: conflict_followed_by_reconciliation
+  label: Conflict followed by reconciliation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conflict resolved by reconciliation fits repair of a broken bond or restored
+    sacred/social order.
+  cautions: Very broad label; if the conflict is cosmic combat, succession dispute,
+    or treaty-making, sacred_combat, royal_legitimacy, or covenant may need different
+    weighting.
+  suggested_aliases:
+  - reconciliation_after_conflict
+  - conflict_and_repair
+  - restored_bond_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and abstract; recommendations should remain
+  provisional until passage evidence confirms narrative function.
+- Avoid treating conflict or restoration labels as death/rebirth, judgment, or covenant
+  motifs unless the source evidence supplies that function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for abstract
+    and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1329
+  input_sha256: 90a78d0a3f023f3e2f9c5e9bf94148a55fb62cd5ae5acbb90a46da342da7082b
+

@@ -1,0 +1,349 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0104
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ordered-procession-by-standards-and-ancestral-houses
+  motif_id: ordered_procession_by_standards_and_ancestral_houses
+  label: ordered procession by standards and ancestral houses
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual or social ordering by lineage signs, but it
+    is not clearly a death, ancestor-rite, or procession motif from the label alone.
+  cautions: May be a passage-specific camp/order detail rather than a reusable motif;
+    source context is needed before mapping to ancestor_rites, sacred_law, or royal_legitimacy.
+  suggested_aliases:
+  - lineage procession by standards
+  - ordered procession by ancestral houses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-diagnosis-and-return-to-source-spell
+  motif_id: origin_diagnosis_and_return_to_source_spell
+  label: Origin diagnosis and return-to-source spell
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A spell that diagnoses an origin and sends harm back to its source depends
+    on specialized ritual knowledge and performative speech.
+  cautions: Could also relate to curse_blessing_speech or sacred_law if the passage
+    emphasizes the spoken spell or healing prohibition more than knowledge of origins.
+  suggested_aliases:
+  - return-to-source spell
+  - origin diagnosis spell
+  - diagnosing the origin of harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-rain-making-bird-from-a-dead-being-s-heart
+  motif_id: origin_of_a_rain_making_bird_from_a_dead_being_s_heart
+  label: origin of a rain-making bird from a dead being’s heart
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A bird emerging from a dead being's heart is a postmortem transformation
+    of body or life-substance into a new powerful form.
+  cautions: If the source emphasizes landscape or species origins, cosmic_origin may
+    be a secondary fit; review cultural specificity before broad indexing.
+  suggested_aliases:
+  - being transformed after death into rain-making bird
+  - bird originating from dead being's heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-animal-bodily-traits-through-ancestral-mishap
+  motif_id: origin_of_animal_bodily_traits_through_ancestral_mishap
+  label: Origin of animal bodily traits through ancestral mishap
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The label is etiological: it explains present animal traits through
+    an ancestral event or mishap.'
+  cautions: May be better served by a future animal-etiology group if many such labels
+    recur; do not force into death motifs unless death or postmortem transformation
+    is explicit.
+  suggested_aliases:
+  - animal trait etiology from ancestral mishap
+  - origin of animal traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-animal-markings-from-an-ancestral-mishap
+  motif_id: origin_of_animal_markings_from_an_ancestral_mishap
+  label: origin of animal markings from an ancestral mishap
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is an etiological explanation for animal markings arising from an
+    ancestral event.
+  cautions: Likely too granular for canonical taxonomy; preserve the animal-marking
+    detail as evidence. If transformation is central, shapeshifter may be a secondary
+    relation.
+  suggested_aliases:
+  - animal marking etiology
+  - origin of animal markings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-death-through-adversarial-envy
+  motif_id: origin_of_death_through_adversarial_envy
+  label: Origin of death through adversarial envy
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Human Mortality
+  relationship: child
+  confidence: medium
+  rationale: The motif concerns how mortality first enters the human condition, which
+    is distinct from death-rebirth, afterlife passage, or ordinary divine judgment.
+  cautions: Existing death_and_transformation is too focused on renewal after death;
+    divine_judgment may apply only if punishment is explicit. Human review should
+    decide whether origin-of-death variants recur enough for a group.
+  suggested_aliases:
+  - origin of death
+  - origin of mortality through envy
+  - mortality introduced by envy
+  suggested_new_group:
+    id: origin_of_death_mortality
+    label: Origin of Death and Human Mortality
+    description: Myths explaining how death, mortality, or universal human dying first
+      entered the world through mistake, message failure, transgression, envy, divine
+      speech, or other primordial cause.
+    parent_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover transformation after
+      death, afterlife travel, or judgment, but not etiologies for the first arrival
+      of mortality as a human condition.
+- suggestion_id: normalization.suggestion.origin-of-death-through-hostile-divine-speech
+  motif_id: origin_of_death_through_hostile_divine_speech
+  label: Origin of death through hostile divine speech
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Human Mortality
+  relationship: child
+  confidence: medium
+  rationale: The label explains mortality's origin through a divine utterance, fitting
+    an origin-of-death complex with a speech-act variant.
+  cautions: Could also map secondarily to curse_blessing_speech where the performative
+    utterance is central; avoid assuming judgment unless punishment is clear.
+  suggested_aliases:
+  - death introduced by divine speech
+  - hostile divine speech causes death
+  - origin of mortality by curse
+  suggested_new_group:
+    id: origin_of_death_mortality
+    label: Origin of Death and Human Mortality
+    description: Myths explaining how death, mortality, or universal human dying first
+      entered the world through mistake, message failure, transgression, envy, divine
+      speech, or other primordial cause.
+    parent_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover transformation after
+      death, afterlife travel, or judgment, but not etiologies for the first arrival
+      of mortality as a human condition.
+- suggestion_id: normalization.suggestion.origin-of-death-variants
+  motif_id: origin_of_death_variants
+  label: Origin of death variants
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Human Mortality
+  relationship: broader_label
+  confidence: medium
+  rationale: This broad label directly names variants explaining the origin of death
+    or mortality.
+  cautions: The wording may be a comparative heading rather than a passage motif;
+    review source evidence before indexing specific variants.
+  suggested_aliases:
+  - origin of death
+  - origin of mortality variants
+  - death-origin variants
+  suggested_new_group:
+    id: origin_of_death_mortality
+    label: Origin of Death and Human Mortality
+    description: Myths explaining how death, mortality, or universal human dying first
+      entered the world through mistake, message failure, transgression, envy, divine
+      speech, or other primordial cause.
+    parent_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover transformation after
+      death, afterlife travel, or judgment, but not etiologies for the first arrival
+      of mortality as a human condition.
+- suggestion_id: normalization.suggestion.origin-of-human-mortality-through-a-misdelivered-message
+  motif_id: origin_of_human_mortality_through_a_misdelivered_message
+  label: Origin of human mortality through a misdelivered message
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Human Mortality
+  relationship: child
+  confidence: high
+  rationale: A failed or misdelivered message that makes humans mortal is a clear
+    origin-of-death etiology.
+  cautions: This is not simply death_and_transformation because no renewal or return
+    is implied; message-bearer details should remain granular evidence.
+  suggested_aliases:
+  - misdelivered death message
+  - failed immortality message
+  - origin of mortality by message failure
+  suggested_new_group:
+    id: origin_of_death_mortality
+    label: Origin of Death and Human Mortality
+    description: Myths explaining how death, mortality, or universal human dying first
+      entered the world through mistake, message failure, transgression, envy, divine
+      speech, or other primordial cause.
+    parent_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover transformation after
+      death, afterlife travel, or judgment, but not etiologies for the first arrival
+      of mortality as a human condition.
+- suggestion_id: normalization.suggestion.origin-of-sin-and-universal-death-through-woman
+  motif_id: origin_of_sin_and_universal_death_through_woman
+  label: Origin of sin and universal death through woman
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Human Mortality
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to combine mortality etiology with a gendered theological
+    interpretation and may reflect commentary rather than a neutral motif.
+  cautions: Culturally and theologically sensitive wording; review passage evidence
+    and consider rephrasing at alias level rather than preserving blame language in
+    a canonical label. Could map to origin_of_death_mortality only after review.
+  suggested_aliases:
+  - origin of sin and universal death
+  - mortality introduced through primordial transgression
+  - origin of universal death
+  suggested_new_group:
+    id: origin_of_death_mortality
+    label: Origin of Death and Human Mortality
+    description: Myths explaining how death, mortality, or universal human dying first
+      entered the world through mistake, message failure, transgression, envy, divine
+      speech, or other primordial cause.
+    parent_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover transformation after
+      death, afterlife travel, or judgment, but not etiologies for the first arrival
+      of mortality as a human condition.
+batch_notes:
+- Several items cluster around origin-of-death etiologies. A new review group is suggested
+  because existing death groups emphasize descent, afterlife, transformation, or renewal
+  rather than the first entry of mortality into the world.
+- Animal-trait and animal-marking origin labels are etiological and may be better
+  tracked under cosmic_origin unless enough animal-specific etiologies recur to justify
+  a distinct group.
+- Single-occurrence, highly contextual labels should remain provisional until source
+  passages confirm motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0104
+  input_sha256: 6ab41997e1223d0829963a0e66104010c5627386d0ef4a49f6f2c98fd61ac4cd
+

@@ -1,0 +1,359 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0590
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-animal-mark-from-punishment
+  motif_id: etiological_animal_mark_from_punishment
+  label: etiological animal mark from punishment
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: 'Animal Etiology: Markings, Habits, and Habitats'
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains an animal feature through a narrative event; punishment
+    adds judgment coloring but the core pattern is animal etiology.
+  cautions: Single occurrence and culturally specific; if the passage emphasizes moral
+    punishment more than animal origin, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - animal_mark_from_punishment
+  - etiological_animal_marking
+  - origin_of_animal_markings
+  suggested_new_group:
+    id: animal_etiology_markings_habits
+    label: 'Animal Etiology: Markings, Habits, and Habitats'
+    description: Narratives explaining the origin of animal markings, colors, body
+      features, habits, species traits, or habitats, often through transformation,
+      punishment, trickster action, or a primordial event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      action, and cosmic/place origins, but none cleanly covers recurrent etiologies
+      for animal features and habits without reducing them to punishment or shapeshifting.
+- suggestion_id: normalization.suggestion.etiological-animal-marking
+  motif_id: etiological_animal_marking
+  label: etiological animal marking
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: 'Animal Etiology: Markings, Habits, and Habitats'
+  relationship: alias
+  confidence: medium
+  rationale: This is a concise label for narratives explaining why an animal bears
+    a particular mark or pattern.
+  cautions: Label alone does not show whether the cause is punishment, transformation,
+    trickster activity, or local natural-history explanation.
+  suggested_aliases:
+  - etiological_animal_marking
+  - origin_of_animal_markings
+  - animal_marking_etiology
+  suggested_new_group:
+    id: animal_etiology_markings_habits
+    label: 'Animal Etiology: Markings, Habits, and Habitats'
+    description: Narratives explaining the origin of animal markings, colors, body
+      features, habits, species traits, or habitats, often through transformation,
+      punishment, trickster action, or a primordial event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      action, and cosmic/place origins, but none cleanly covers recurrent etiologies
+      for animal features and habits without reducing them to punishment or shapeshifting.
+- suggestion_id: normalization.suggestion.etiological-explanation-of-animal-markings-or-presence
+  motif_id: etiological_explanation_of_animal_markings_or_presence
+  label: etiological explanation of animal markings or presence
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: 'Animal Etiology: Markings, Habits, and Habitats'
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains animal markings or why an animal is present in a setting,
+    fitting a broader animal-etiology group.
+  cautions: The 'presence' element may be a local place or habitat explanation; verify
+    whether it is a recurring motif or passage-specific natural-history note.
+  suggested_aliases:
+  - animal_markings_or_presence_etiology
+  - animal_presence_etiology
+  - origin_of_animal_markings
+  suggested_new_group:
+    id: animal_etiology_markings_habits
+    label: 'Animal Etiology: Markings, Habits, and Habitats'
+    description: Narratives explaining the origin of animal markings, colors, body
+      features, habits, species traits, or habitats, often through transformation,
+      punishment, trickster action, or a primordial event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      action, and cosmic/place origins, but none cleanly covers recurrent etiologies
+      for animal features and habits without reducing them to punishment or shapeshifting.
+- suggestion_id: normalization.suggestion.etiological-naming-and-landscape-marking-of-fishing-places
+  motif_id: etiological_naming_and_landscape_marking_of_fishing_places
+  label: Etiological naming and landscape marking of fishing places
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing group already includes place-name and landscape etiologies;
+    this is a local naming and landscape-marking variant.
+  cautions: The fishing-place specificity should remain evidence detail; if tied to
+    sacred geography or ritual fishing practice, secondary review may be needed.
+  suggested_aliases:
+  - place_name_etiology
+  - etiological_landscape_marking
+  - fishing_place_naming_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-of-wells-and-city
+  motif_id: etiological_naming_of_wells_and_city
+  label: Etiological naming of wells and city
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: This fits the existing place-name etiology cluster under cosmic_origin.
+  cautions: Do not treat the wells or city as cosmic centers unless the passage gives
+    them axis-mundi or sacred-center function.
+  suggested_aliases:
+  - place_name_etiology
+  - etiological_landscape_naming
+  - place_naming_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-a-fishing-poison-or-fish-taking-root
+  motif_id: etiological_origin_of_a_fishing_poison_or_fish_taking_root
+  label: etiological origin of a fishing poison or fish-taking root
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may explain the origin of a useful plant, technique, poison, or
+    fishing practice, but no existing group cleanly captures that from the label alone.
+  cautions: Could belong with culture_hero if a figure gives the technique, sacred_substance
+    if the root/poison is ritually potent, or a future practical/plant etiology group;
+    source evidence is needed.
+  suggested_aliases:
+  - origin_of_fishing_poison
+  - fish_taking_root_etiology
+  - useful_plant_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-an-animal-s-marking
+  motif_id: etiological_origin_of_an_animal_s_marking
+  label: etiological origin of an animal's marking
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: 'Animal Etiology: Markings, Habits, and Habitats'
+  relationship: alias
+  confidence: medium
+  rationale: This is a direct animal-feature origin label and matches the proposed
+    animal-etiology cluster.
+  cautions: Preserve the particular animal and narrative cause in evidence notes;
+    do not infer transformation or judgment without passage support.
+  suggested_aliases:
+  - origin_of_animal_marking
+  - animal_marking_etiology
+  - etiological_animal_marking
+  suggested_new_group:
+    id: animal_etiology_markings_habits
+    label: 'Animal Etiology: Markings, Habits, and Habitats'
+    description: Narratives explaining the origin of animal markings, colors, body
+      features, habits, species traits, or habitats, often through transformation,
+      punishment, trickster action, or a primordial event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      action, and cosmic/place origins, but none cleanly covers recurrent etiologies
+      for animal features and habits without reducing them to punishment or shapeshifting.
+- suggestion_id: normalization.suggestion.etiological-origin-of-animal-markings
+  motif_id: etiological_origin_of_animal_markings
+  label: etiological origin of animal markings
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: 'Animal Etiology: Markings, Habits, and Habitats'
+  relationship: alias
+  confidence: medium
+  rationale: This repeats the same animal-marking origin pattern across another tradition,
+    supporting a durable review group.
+  cautions: Human review should distinguish animal etiologies from broader clan, ceremonial,
+    or sacred-animal symbolism in the source.
+  suggested_aliases:
+  - origin_of_animal_markings
+  - animal_marking_etiology
+  - etiological_animal_marking
+  suggested_new_group:
+    id: animal_etiology_markings_habits
+    label: 'Animal Etiology: Markings, Habits, and Habitats'
+    description: Narratives explaining the origin of animal markings, colors, body
+      features, habits, species traits, or habitats, often through transformation,
+      punishment, trickster action, or a primordial event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      action, and cosmic/place origins, but none cleanly covers recurrent etiologies
+      for animal features and habits without reducing them to punishment or shapeshifting.
+- suggestion_id: normalization.suggestion.etiology-of-animal-markings-and-habitats
+  motif_id: etiology_of_animal_markings_and_habitats
+  label: Etiology of animal markings and habitats
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: 'Animal Etiology: Markings, Habits, and Habitats'
+  relationship: narrower_than
+  confidence: medium
+  rationale: This broadens animal-feature etiology to include habitats, fitting the
+    proposed animal-etiology group better than shapeshifter alone.
+  cautions: Habitat origin may overlap with landscape formation or sacred geography;
+    review whether the narrative primarily explains animals, places, or both.
+  suggested_aliases:
+  - animal_habitat_etiology
+  - animal_markings_and_habitats
+  - origin_of_animal_habits_and_habitats
+  suggested_new_group:
+    id: animal_etiology_markings_habits
+    label: 'Animal Etiology: Markings, Habits, and Habitats'
+    description: Narratives explaining the origin of animal markings, colors, body
+      features, habits, species traits, or habitats, often through transformation,
+      punishment, trickster action, or a primordial event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      action, and cosmic/place origins, but none cleanly covers recurrent etiologies
+      for animal features and habits without reducing them to punishment or shapeshifting.
+- suggestion_id: normalization.suggestion.etiology-of-bird-markings-and-habits
+  motif_id: etiology_of_bird_markings_and_habits
+  label: etiology of bird markings and habits
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: 'Animal Etiology: Markings, Habits, and Habitats'
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bird markings and habits are a species-specific instance of animal-feature
+    and behavior etiology.
+  cautions: If the passage centers on bird messengers, omens, or sacred birds rather
+    than origin explanation, a different group may be needed.
+  suggested_aliases:
+  - bird_markings_and_habits_etiology
+  - bird_feature_etiology
+  - origin_of_bird_markings
+  suggested_new_group:
+    id: animal_etiology_markings_habits
+    label: 'Animal Etiology: Markings, Habits, and Habitats'
+    description: Narratives explaining the origin of animal markings, colors, body
+      features, habits, species traits, or habitats, often through transformation,
+      punishment, trickster action, or a primordial event.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      action, and cosmic/place origins, but none cleanly covers recurrent etiologies
+      for animal features and habits without reducing them to punishment or shapeshifting.
+batch_notes:
+- Several labels form a coherent cross-tradition animal-etiology cluster not currently
+  represented by a dedicated canonical group.
+- Place-name and landscape etiologies can remain under cosmic_origin because that
+  group already contains toponymic and landscape-origin children.
+- The fishing-poison/root label needs source review because it may concern technology,
+  plant power, poison, culture-hero gifting, or a local passage detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional suggestions only; proposed animal_etiology_markings_habits group
+    for taxonomy-review consideration.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0590
+  input_sha256: 49412e3266e6f7bb5226d800d19e951f1f0d7551ee84fa123644ab52488bb1f8
+

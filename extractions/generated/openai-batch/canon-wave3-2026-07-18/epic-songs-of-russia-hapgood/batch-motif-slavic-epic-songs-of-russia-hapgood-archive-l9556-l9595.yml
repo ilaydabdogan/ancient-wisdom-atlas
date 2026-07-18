@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l9556-l9595
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: EPIC  SONGS   OF  RUSSIA.  241 / EPIC  SONGS   OF  RUSSIA.  243 / EPIC  SONGS   OF  RUSSIA.  245
+    / EPIC  SONGS   OF  RUSSIA.  247; lines 9556-9595
+  start: '9556'
+  end: '9595'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: At a road choice, the Old Cossack considers paths promising wealth, a wife,
+    or death, rejects wealth and marriage, and chooses the way of death. He rides
+    on into a gloomy forest, where forty thousand robbers covet his horse and try
+    to stop and rob him. Ilya answers that they cannot kill or rob the old man and
+    lists the valuables he carries or wears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The route statement distinguishes three directions: right leads to great
+    wealth, left to a wife, and straight on to death.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Old Cossack halts, marvels, and thinks over the route choice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Old Cossack says he has no need of wealth because he already has golden
+    treasure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Old Cossack rejects the prospect of gaining a wife and chooses the road
+    where he may win death.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: After riding on, he enters a gloomy forest before reaching India the Rich.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A band of forty thousand robbers is present in the forest and covets Ilya's
+    good steed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The robbers call him a good youth and Russian hero, command him to halt, and
+    attempt to rob him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ilya tells the robber horde that they may not kill or rob the old man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Ilya says he carries five hundred rubles and describes the value or weight
+    of his cross, sable cloak, cap, and sandals.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Old Cossack / Ilya
+  description: An old Cossack and Russian hero who chooses the road of death, rides
+    onward, and answers the robbers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Forty thousand robbers
+  description: A robber band in the gloomy forest that covets Ilya's steed and attempts
+    to rob him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: road-choice traveler
+  assigned_to:
+  - fig:1
+  basis: He halts at a directional choice and decides which way to ride.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Russian hero
+  assigned_to:
+  - fig:1
+  basis: The robbers address him as a Russian hero, and the narrative identifies him
+    with Ilya.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: robber horde
+  assigned_to:
+  - fig:2
+  basis: They are described as forty thousand robbers who would have robbed him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: three-way road choice
+  literal_form: right road to wealth, left road to a wife, straight road to death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: death road
+  literal_form: the way where the Old Cossack may win death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: good steed
+  literal_form: Ilya's good horse coveted by the robbers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: gloomy forest
+  literal_form: a gloomy forest entered by the hero
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: cross on breast
+  literal_form: a cross on Ilya's breast valued at five hundred rubles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Choice of the road of death
+  summary: The Old Cossack considers directions leading to wealth, a wife, or death,
+    rejects wealth and marriage, and chooses the way associated with death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Robbers in the gloomy forest
+  summary: The hero rides on into a gloomy forest, where forty thousand robbers covet
+    his horse, stop him, and try to rob him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ilya's answer to the robber horde
+  summary: Ilya tells the robbers they cannot kill or rob the old man and lists the
+    money and valuable objects associated with him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: hero deliberately chooses the death-road
+  taxonomy_refs:
+  - departure
+  basis: The hero selects the route leading to death after dismissing the alternatives
+    of wealth and wife.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the choice and departure but not the full outcome of
+    the death-road episode within this excerpt.
+- id: motif:2
+  label: threefold road choice with divergent fates
+  taxonomy_refs: []
+  basis: 'The passage presents three directions, each linked to a different fate:
+    wealth, wife, or death.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly names a crossroads or threefold-choice
+    motif.
+- id: motif:3
+  label: hero confronted by a robber horde seeking his horse
+  taxonomy_refs: []
+  basis: A large robber band covets the hero's horse, commands him to halt, and attempts
+    robbery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt stops before the confrontation is resolved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9556-9574
+  quote_or_summary: The passage states that the right path brings wealth, the left
+    a wife, and the straight path death; the Old Cossack rejects wealth and marriage
+    and chooses the way where he may win death.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 9575-9581
+  quote_or_summary: The Old Cossack rides on, passes Korela the Accursed, has not
+    yet reached India the Rich, and enters a gloomy forest where forty thousand robbers
+    covet Ilya's good steed.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 9582-9587
+  quote_or_summary: The robbers say they have never seen such a horse, tell the good
+    youth and Russian hero to halt, and would have robbed him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 9588-9595
+  quote_or_summary: Ilya addresses the robber horde, says they may not kill or rob
+    the old man, and lists five hundred rubles, a breast-cross, a sable cloak, a heavy
+    cap, and sandals.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied excerpt. Motif labels are descriptive;
+    only the broad departure taxonomy is applied, and no comparison claims are made
+    because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons or unsupported taxonomy IDs added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l9556-l9595
+  passage_sha256=9da27ea77829c8546eade3223e9c6307746377daafda057a27def68f44e0a4af
+

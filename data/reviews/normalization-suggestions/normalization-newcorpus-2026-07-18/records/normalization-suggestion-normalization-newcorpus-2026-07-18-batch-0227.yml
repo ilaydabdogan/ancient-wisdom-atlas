@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0227
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ship-as-martial-treasure-bearer
+  motif_id: ship_as_martial_treasure_bearer
+  label: Ship as martial treasure-bearer
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a journey object, martial function, and treasure-bearing
+    role without enough context to choose sacred_treasures, sacred_combat, or hero_journey.
+  cautions: Single occurrence; may be an episode-specific object description rather
+    than a reusable motif.
+  suggested_aliases:
+  - martial treasure-bearing ship
+  - ship bearing war-treasures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-named-as-beast-or-deer-like-vessel
+  motif_id: ship_named_as_beast_or_deer_like_vessel
+  label: Ship named as beast or deer-like vessel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A zoomorphic ship-name may be poetic diction, animal symbolism, or a
+    vessel motif, but the narrative function is unclear.
+  cautions: Likely over-specific unless the beast-like vessel has recurring supernatural
+    or transformative function; review source evidence before mapping to shapeshifter
+    or sacred_vessel.
+  suggested_aliases:
+  - beast-like ship
+  - deer-like vessel
+  - zoomorphic ship name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shipwreck-survival-and-companion-consumption
+  motif_id: shipwreck_survival_and_companion_consumption
+  label: shipwreck survival and companion consumption
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a survival ordeal with cannibalistic or corpse-consumption
+    detail, but no existing group cleanly captures that function.
+  cautions: Culturally sensitive and highly contextual; may fit ordeal, taboo transgression,
+    famine survival, or passage-specific narrative detail depending on evidence.
+  suggested_aliases:
+  - castaway survival with companion consumption
+  - shipwreck cannibalism survival ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shipwrecked-castaway-reaches-an-abundant-island
+  motif_id: shipwrecked_castaway_reaches_an_abundant_island
+  label: Shipwrecked castaway reaches an abundant island
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An abundant island reached after shipwreck often functions as an enchanted
+    or extraordinary realm encountered beyond ordinary travel.
+  cautions: If the island is merely a realistic refuge with no enchanted or sacred
+    qualities, treat as a travel-episode detail under hero_journey or exclude from
+    broad motif queries.
+  suggested_aliases:
+  - castaway reaches abundant island
+  - shipwreck refuge on abundant island
+  - marvelous island after shipwreck
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shipwrecked-foreign-arrivals
+  motif_id: shipwrecked_foreign_arrivals
+  label: shipwrecked foreign arrivals
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a contextual arrival event or people/place detail
+    rather than a symbolic or narrative motif.
+  cautions: If the arrivals introduce sacred knowledge, divine race identity, culture-founding,
+    or catastrophe survival, remap based on that function.
+  suggested_aliases:
+  - foreign castaway arrivals
+  - shipwrecked strangers arrive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shipwrecked-survivor-reaches-another-island
+  motif_id: shipwrecked_survivor_reaches_another_island
+  label: Shipwrecked survivor reaches another island
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shipwreck survivor reaching another island fits journey ordeal and
+    onward passage after crisis.
+  cautions: If the island is enchanted, timeless, or supernatural, otherworld may
+    be a better mapping; if purely itinerary detail, it may be too specific for pattern
+    queries.
+  suggested_aliases:
+  - shipwreck survivor reaches island
+  - castaway reaches another island
+  - island refuge after shipwreck
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shipwrecked-traveller
+  motif_id: shipwrecked_traveller
+  label: shipwrecked traveller
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Shipwreck is a travel ordeal that can mark departure from ordinary order
+    and initiate testing or transformation.
+  cautions: Broad label needs passage evidence; if no transformation, trial, or sacred
+    encounter follows, it may be only a plot circumstance.
+  suggested_aliases:
+  - shipwrecked traveler
+  - castaway traveller
+  - maritime ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-boat-resumes-its-daily-sky-journey-after-crisis
+  motif_id: solar_boat_resumes_its_daily_sky_journey_after_crisis
+  label: Solar boat resumes its daily sky journey after crisis
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: The daily solar boat journey after crisis emphasizes cyclical sacred
+    time and restoration of cosmic rhythm.
+  cautions: Could also relate to sacred_fire or death_and_transformation if the source
+    stresses solar rebirth, underworld night journey, or divine light rather than
+    temporal cycle.
+  suggested_aliases:
+  - daily solar boat journey restored
+  - solar barque resumes cycle
+  - solar journey after crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-deity-s-untouched-cattle-encountered-during-a-voyage
+  motif_id: solar_deity_s_untouched_cattle_encountered_during_a_voyage
+  label: Solar deity’s untouched cattle encountered during a voyage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Untouched divine cattle encountered on a voyage foreground taboo property
+    and prohibition under sacred law.
+  cautions: If the episode focuses on punishment for violating the taboo, divine_judgment
+    should be a secondary or alternate mapping; if only itinerary detail, preserve
+    as evidence note.
+  suggested_aliases:
+  - taboo cattle of solar deity
+  - untouched divine cattle
+  - sacred cattle encountered on voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-fire-as-divine-workmanship
+  motif_id: solar_fire_as_divine_workmanship
+  label: solar fire as divine workmanship
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Solar fire framed as divine workmanship fits fire/light as sacred presence
+    or divine creative power.
+  cautions: May also belong to sacred_craft if the workmanship of construction is
+    primary; review why it appears in the journey bucket before final placement.
+  suggested_aliases:
+  - divine workmanship as solar fire
+  - solar divine fire
+  - fire of divine craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several shipwreck labels are single-occurrence travel-episode descriptions; map
+  only when the passage shows ordeal, otherworld encounter, taboo, or transformation.
+- Avoid creating a general ship/boat group from this batch alone; the solar boat item
+  may be cyclical-cosmic rather than ordinary journey imagery.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for single-occurrence
+    and culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0227
+  input_sha256: b49b447c2b738bcc9914e74ac7236b936852129f1cf02934a6791781bff968d8
+

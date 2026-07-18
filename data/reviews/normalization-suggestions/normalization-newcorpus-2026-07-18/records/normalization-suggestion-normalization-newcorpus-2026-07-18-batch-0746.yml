@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0746
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personal-totem-linked-to-human-life-and-illness
+  motif_id: personal_totem_linked_to_human_life_and_illness
+  label: Personal totem linked to human life and illness
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: A personal totem tied to human life and illness resembles an externalized
+    life-force whose condition affects the person.
+  cautions: Culturally specific totemic concepts need careful review; may instead
+    be kinship, spirit-affiliation, or ritual healing rather than external soul.
+  suggested_aliases:
+  - totemic life-link
+  - personal totem as life-token
+  - totem linked to health
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personation-with-bodily-symbols
+  motif_id: personation_with_bodily_symbols
+  label: Personation with bodily symbols
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could refer to ritual impersonation, masked embodiment, symbolic
+    body marking, or an ethnographic description.
+  cautions: Needs source context and culturally sensitive review before mapping; avoid
+    collapsing Navajo ritual personation into generic disguise or shapeshifting.
+  suggested_aliases:
+  - ritual personation with body symbols
+  - symbolic bodily impersonation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personification-of-abstract-ideas-in-fairy-tale-machinery
+  motif_id: personification_of_abstract_ideas_in_fairy_tale_machinery
+  label: Personification of abstract ideas in fairy-tale machinery
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase reads like a formal literary-analysis note about tale machinery
+    rather than a recurring narrative motif.
+  cautions: If a passage actually features abstract powers as acting characters, review
+    under a future personification group rather than excluding the evidence entirely.
+  suggested_aliases:
+  - abstract personification as tale device
+  - fairy-tale personification machinery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personification-of-natural-forces
+  motif_id: personification_of_natural_forces
+  label: Personification of natural forces
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Natural-force personification is broad and could involve deity, cosmic
+    order, sacred fire, waters, dawn, storm, or poetic description.
+  cautions: Do not map to a specific elemental group without knowing which force and
+    narrative function are present.
+  suggested_aliases:
+  - natural forces personified
+  - personified elemental powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-body-part-complains-of-neglect
+  motif_id: personified_body_part_complains_of_neglect
+  label: personified body part complains of neglect
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A speaking body part may be a localized etiological, comic, ritual, or
+    moral motif not covered by current groups.
+  cautions: Single occurrence and culturally specific; avoid forcing into shapeshifter
+    or sacred speech unless source shows transformation or performative power.
+  suggested_aliases:
+  - speaking body part
+  - neglected body part complains
+  - body part personification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-dawn-rising-from-a-bed
+  motif_id: personified_dawn_rising_from_a_bed
+  label: Personified dawn rising from a bed
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Personified dawn marks cyclical sacred time and the daily renewal of
+    light.
+  cautions: The bed detail may be poetic formula rather than motif; could also relate
+    to sacred_fire or solar power if divine light is emphasized.
+  suggested_aliases:
+  - personified dawn
+  - dawn as woman rising
+  - daily renewal of dawn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-day-sun-and-night-as-riders-serving-baba-yaga
+  motif_id: personified_day_sun_and_night_as_riders_serving_baba_yaga
+  label: Personified Day, Sun, and Night as riders serving Baba Yaga
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Day, sun, and night as ordered riders personify the temporal cycle and
+    cosmic rhythm.
+  cautions: Because the label is episode-specific to Baba Yaga, preserve details as
+    evidence; if the focus is her liminal household, otherworld or threshold_guardian
+    may be secondary.
+  suggested_aliases:
+  - day sun and night personified
+  - riders of day sun and night
+  - temporal cycle as riders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-everyday-object
+  motif_id: personified_everyday_object
+  label: Personified everyday object
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animated or speaking object may be trickster tale, enchanted object,
+    sacred craft, or merely folktale personification.
+  cautions: Too broad from label alone; identify whether the object acts with supernatural
+    agency, moral speech, or comic function before mapping.
+  suggested_aliases:
+  - animated everyday object
+  - speaking everyday object
+  - object personification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-everyday-object-or-natural-phenomenon
+  motif_id: personified_everyday_object_or_natural_phenomenon
+  label: personified everyday object or natural phenomenon
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines object animation and natural-force personification,
+    which lead to different taxonomy placements.
+  cautions: Split only after evidence review; may be a generated catchall rather than
+    a stable motif.
+  suggested_aliases:
+  - personified object or phenomenon
+  - animated object or natural force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-famine-and-plague-follow-the-scent-of-war
+  motif_id: personified_famine_and_plague_follow_the_scent_of_war
+  label: Personified famine and plague follow the scent of war
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Famine and plague as agents following war evoke moral or cosmic consequence
+    through destructive powers.
+  cautions: If the passage is primarily anti-war allegory or poetic personification
+    without sacred judgment, it may be better reviewed as literary detail or conflict
+    aftermath.
+  suggested_aliases:
+  - personified famine and plague
+  - plague and famine as war followers
+  - war followed by famine and plague
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern personification, but the current taxonomy has
+  no stable broad group for personified abstractions, body parts, objects, or natural
+  forces. Most require source review to distinguish deity, poetic formula, folktale
+  animation, ritual personation, and commentary artifact.
+- Do not infer transmission or common origin from shared personification language.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; personation/personification labels need evidence-level
+    review before durable normalization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0746
+  input_sha256: 615a809eb7e329bf261eb861100898080a69f678a3bd37cd85a63c6666a0108f
+

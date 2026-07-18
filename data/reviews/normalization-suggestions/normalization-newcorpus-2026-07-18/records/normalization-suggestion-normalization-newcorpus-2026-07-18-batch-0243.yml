@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0243
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.adversarial-interference-nullified-by-divine-confirmation
+  motif_id: adversarial_interference_nullified_by_divine_confirmation
+  label: adversarial interference nullified by divine confirmation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on divine action overriding hostile interference in
+    human or revelatory affairs.
+  cautions: Could also involve sacred knowledge or prophecy if the confirmation is
+    specifically revelatory; source context should decide secondary mapping.
+  suggested_aliases:
+  - adversarial suggestion annulled by divine confirmation
+  - divine confirmation nullifies adversarial interference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversarial-path-leading-away-from-divine-command
+  motif_id: adversarial_path_leading_away_from_divine_command
+  label: adversarial path leading away from divine command
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes deviation from a divine command, fitting sacred law
+    and obedience to sacred order.
+  cautions: If the adversary is the primary figure, this may also relate to trickster/boundary-crosser
+    or divine judgment; avoid creating a demonology motif from one label.
+  suggested_aliases:
+  - temptation away from divine command
+  - adversarial deviation from sacred command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversarial-suggestion-annulled-by-divine-confirmation
+  motif_id: adversarial_suggestion_annulled_by_divine_confirmation
+  label: Adversarial suggestion annulled by divine confirmation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine confirmation cancels hostile suggestion, matching direct divine
+    guidance or correction.
+  cautions: Likely duplicate or close alias of adversarial_interference_nullified_by_divine_confirmation;
+    review for consolidation before indexing separately.
+  suggested_aliases:
+  - adversarial interference nullified by divine confirmation
+  - divine confirmation annuls adversarial suggestion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversary-s-vow-to-seduce-with-chosen-servants-excepted
+  motif_id: adversary_s_vow_to_seduce_with_chosen_servants_excepted
+  label: adversary's vow to seduce with chosen servants excepted
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif frames moral trial under divine limits, with protected servants
+    excepted from adversarial seduction.
+  cautions: Could fit sacred law, sacred combat, or a future temptation/adversary
+    group if many similar labels recur; this wording is culturally specific and should
+    be reviewed carefully.
+  suggested_aliases:
+  - adversary vows to seduce except chosen servants
+  - temptation bounded by divine election
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversity-prayer-followed-by-relapse-after-mercy
+  motif_id: adversity_prayer_followed_by_relapse_after_mercy
+  label: Adversity prayer followed by relapse after mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The pattern of supplication in distress followed by moral relapse after
+    mercy fits moral reckoning and consequence.
+  cautions: May also involve sacred exchange if prayer and mercy are framed as reciprocal
+    relationship; preserve relapse-after-mercy detail as evidence.
+  suggested_aliases:
+  - distress prayer followed by relapse
+  - mercy followed by renewed transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiological-naming-after-divine-battle
+  motif_id: aetiological_naming_after_divine_battle
+  label: Aetiological naming after divine battle
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already groups place-name and landscape etiologies under
+    cosmic origin; this is a naming etiology tied to divine battle.
+  cautions: If the battle itself is central, sacred_combat or divine_warrior may be
+    a stronger primary mapping; do not treat naming as evidence of creation unless
+    the passage explains an enduring place or ritual order.
+  suggested_aliases:
+  - etiological naming after divine battle
+  - place naming after divine combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiological-naming-after-divine-victory
+  motif_id: aetiological_naming_after_divine_victory
+  label: aetiological naming after divine victory
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A place or name explained by a divine victory fits the existing etiological
+    naming cluster under cosmic origin.
+  cautions: Could be secondary to divine_warrior or divine_judgment if victory, not
+    naming, is the functional center.
+  suggested_aliases:
+  - etiological naming after divine victory
+  - place naming after divine victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiology-of-island-name-and-local-ritual-mockery
+  motif_id: aetiology_of_island_name_and_local_ritual_mockery
+  label: Aetiology of island name and local ritual mockery
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines place-name etiology with a local ritual practice,
+    and the primary motif cannot be determined from the label alone.
+  cautions: May belong under cosmic_origin for naming, sacrifice/sacred_law for ritual,
+    or be too local and over-specific for pattern queries.
+  suggested_aliases:
+  - island-name etiology with ritual mockery
+  - local ritual mockery etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiology-of-ritual-instruments
+  motif_id: aetiology_of_ritual_instruments
+  label: Aetiology of ritual instruments
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The origin or explanation of ritual instruments fits sacred craft and
+    sacralized making or use of crafted objects.
+  cautions: If the passage emphasizes ritual performance rather than making/origin,
+    sacrifice, sacred_exchange, or enchanting_music may be better depending on the
+    instrument function.
+  suggested_aliases:
+  - origin of ritual instruments
+  - ritual instrument etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afflicted-supplicant-appeals-to-divine-mercy
+  motif_id: afflicted_supplicant_appeals_to_divine_mercy
+  label: afflicted supplicant appeals to divine mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supplication for mercy fits the covenant/supplication cluster already
+    containing mercy and pardon appeals.
+  cautions: If the emphasis is miraculous relief, divine_intervention may be a secondary
+    mapping; if the appeal is judged or refused, divine_judgment may be relevant.
+  suggested_aliases:
+  - supplicant appeals to divine mercy
+  - afflicted prayer for mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be generated at a high
+  level of abstraction; preserve passage evidence before promoting narrower motifs.
+- The two divine-confirmation/adversarial-suggestion labels appear to be close duplicates
+  and should be reviewed together.
+- Etiological naming labels should not be treated as transmission evidence; they only
+  indicate explanatory naming or ritual-origin functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for combined etiology/ritual
+    and adversary/temptation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0243
+  input_sha256: dba39d19174fb1bf22b23c9b0cb136b6d40fb87970cf83c0d2221e46ec1d146c
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0879
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.widowed-animal-simile-for-human-lament
+  motif_id: widowed_animal_simile_for_human_lament
+  label: widowed animal simile for human lament
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The animal image functions as a simile for human grief, so the narrative
+    function is lament rather than animal transformation.
+  cautions: Single occurrence; preserve the animal comparison as evidence detail,
+    not as an independent animal motif.
+  suggested_aliases:
+  - animal simile for lament
+  - widowed animal lament simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wild-animal-man-leaves-animal-life
+  motif_id: wild_animal_man_leaves_animal_life
+  label: Wild animal-man leaves animal life
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Leaving animal life for human social life is a status and identity transformation,
+    fitting initiation.
+  cautions: Could also relate to shapeshifter if bodily animality is literal, or culture_hero
+    if the passage emphasizes civilization brought to humans.
+  suggested_aliases:
+  - wild man civilizing initiation
+  - animal-man becomes humanized
+  - leaving animal life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wild-mountain-deity-with-music-dance-and-animal-traits
+  motif_id: wild_mountain_deity_with_music_dance_and_animal_traits
+  label: wild mountain deity with music, dance, and animal traits
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mountain setting, deity role, music/dance, and animal
+    traits without a single clear dominant function.
+  cautions: May fit enchanting_music, shapeshifter, otherworld, divine_intervention,
+    or a local deity profile; avoid overmapping from a composite description.
+  suggested_aliases:
+  - wild mountain deity
+  - animal-trait mountain deity
+  - music and dance deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witch-antagonist-drowned-at-water-by-transformed-animal
+  motif_id: witch_antagonist_drowned_at_water_by_transformed_animal
+  label: witch antagonist drowned at water by transformed animal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The transformed animal is the decisive agent, making transformation the
+    clearest reusable motif element.
+  cautions: Highly episode-specific; if the focus is punishment of the witch, divine_judgment
+    or sacred_combat may be secondary, but water drowning alone should not imply flood
+    or sacred waters.
+  suggested_aliases:
+  - transformed animal defeats witch
+  - witch drowned by transformed animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witch-defeated-by-bold-animal
+  motif_id: witch_defeated_by_bold_animal
+  label: Witch defeated by bold animal
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A bold animal overcoming a dangerous antagonist resembles animal trickster
+    or fable-reversal patterns already parked under trickster.
+  cautions: Source context is needed; the animal may be helper, warrior, trickster,
+    or simple tale protagonist. Consider future animal-helper/animal-hero grouping
+    if many recur.
+  suggested_aliases:
+  - animal defeats witch
+  - bold animal antagonist defeat
+  - animal hero defeats witch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-as-enemy-of-the-devil
+  motif_id: wolf_as_enemy_of_the_devil
+  label: wolf as enemy of the devil
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: The wolf is cast as an anti-demonic or protective agent, a role closest
+    to supernatural intervention/protection.
+  cautions: May be a local demonological animal role rather than broad divine intervention;
+    review before merging with wolf protector labels.
+  suggested_aliases:
+  - anti-devil wolf
+  - wolf opposes devil
+  - wolf as demonic adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-as-enemy-of-the-devil-and-occasional-protector
+  motif_id: wolf_as_enemy_of_the_devil_and_occasional_protector
+  label: Wolf as enemy of the Devil and occasional protector
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The protective anti-devil role aligns with supernatural protection and
+    intervention more than animal transformation.
+  cautions: Could justify a narrower animal-protector subgroup if comparable labels
+    recur; avoid assuming the wolf is divine without passage evidence.
+  suggested_aliases:
+  - protective wolf against devil
+  - anti-devil wolf protector
+  - wolf as supernatural protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-mounts-of-giantesses
+  motif_id: wolf_mounts_of_giantesses
+  label: Wolf mounts of giantesses
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific attribute of supernatural beings rather than
+    a clear narrative motif.
+  cautions: May belong with otherworld, divine_warrior, magical_animal_mount under
+    shapeshifter, or be too specific as character description; review source function.
+  suggested_aliases:
+  - wolves as mounts
+  - giantesses riding wolves
+  - supernatural wolf mounts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-token-as-sign-of-hostile-intent
+  motif_id: wolf_token_as_sign_of_hostile_intent
+  label: wolf token as sign of hostile intent
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is a token communicating intent or identity/status,
+    not the animal itself.
+  cautions: If the token is a magical power object, sacred_treasures may be secondary;
+    if it is merely heraldic detail, it may be over-specific.
+  suggested_aliases:
+  - hostile intent token
+  - wolf sign token
+  - animal token of hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-executed-by-trampling-horses
+  motif_id: woman_executed_by_trampling_horses
+  label: Woman executed by trampling horses
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific execution method rather than a reusable
+    animal or mythic motif.
+  cautions: If the passage frames the execution as divine judgment, royal punishment,
+    or ritualized killing, map that broader function instead and keep trampling by
+    horses as evidence detail.
+  suggested_aliases:
+  - execution by trampling horses
+  - death by horse trampling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are animal-coded but function better as lament, initiation,
+  token-signaling, protection, or episode-specific violence rather than as animal/transformation
+  motifs.
+- Composite one-off deity or supernatural-animal attributes should be reviewed against
+  passage evidence before creating new animal-deity or animal-helper groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0879
+  input_sha256: 0eb0dc53ee8ab4f271c15fb74f1bbd12167b9fc8bbdd5eca649b920f790edab7
+

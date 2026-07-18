@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.andamanese-andaman-islanders-radcliffe-brown-gutenberg-l11405-l11415
+source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+passage_locator:
+  label: 'CHAPTER V / THE INTERPRETATION OF ANDAMANESE CUSTOMS AND BELIEFS: CEREMONIAL
+    / CHAPTER VI / THE INTERPRETATION OF ANDAMANESE CUSTOMS AND BELIEFS: MYTHS AND
+    LEGENDS; lines 11405-11415'
+  start: '11405'
+  end: '11415'
+  translation: 'The Andaman Islanders: A Study in Social Anthropology'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes related Aka-J̌eru and Aka-Kede flood legends. In
+    one version, a flood is caused when an ancestor breaks firewood while a cicada
+    is singing. In another, Ko̱po-tera-wat, angered because other ancestors refuse
+    him honey, deliberately performs the storm-bringing action. The author states
+    that these legend elements explain the great flood by tracing it to anti-social
+    ancestral action.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Aka-J̌eru legend says that a flood was caused by one of the ancestors breaking
+    firewood while the cicada was singing.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Aka-Kede version elaborates this part of the story and gives a reason for
+    the ancestor's action.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ko̱po-tera-wat was angry with the rest of the ancestors because they refused
+    to give him any honey they had collected.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ko̱po-tera-wat deliberately performed the action that brought the storm.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The author states that these elements explain the great flood by tracing it
+    to anti-social action by one or more ancestors.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: one of the ancestors
+  description: An unnamed ancestor in the Aka-J̌eru legend who breaks firewood while
+    the cicada is singing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ko̱po-tera-wat
+  description: An ancestor in the Aka-Kede version who is angry over being refused
+    honey and deliberately performs the storm-bringing action.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: rest of the ancestors
+  description: The ancestors who collected honey and refused to give any to Ko̱po-tera-wat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: cicada
+  description: A cicada that is singing when firewood is broken in the Aka-J̌eru legend.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: flood or storm-causing ancestor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage links the ancestor's action with the flood or storm.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: angered excluded recipient
+  assigned_to:
+  - fig:2
+  basis: Ko̱po-tera-wat is described as angry because the others refused him honey.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: honey-withholding ancestors
+  assigned_to:
+  - fig:3
+  basis: The rest of the ancestors refused to give Ko̱po-tera-wat any of the collected
+    honey.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: singing cicada
+  assigned_to:
+  - fig:4
+  basis: The cicada is described as singing at the time the firewood is broken.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: great flood or storm
+  literal_form: flood; storm
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: breaking firewood during cicada song
+  literal_form: breaking firewood while the cicada was singing
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: withheld honey
+  literal_form: honey collected by the ancestors and refused to Ko̱po-tera-wat
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cicada song
+  literal_form: the cicada was singing
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Aka-J̌eru flood cause
+  summary: In the Aka-J̌eru legend as summarized, a flood is caused when an unnamed
+    ancestor breaks firewood while a cicada is singing.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aka-Kede motive for storm-bringing action
+  summary: In the Aka-Kede version as summarized, Ko̱po-tera-wat becomes angry after
+    other ancestors refuse him collected honey, and he deliberately performs the action
+    that brings the storm.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Interpretive explanation of flood origin
+  summary: The author explains that these legend elements account for the great flood
+    by attributing it to anti-social action by one or more ancestors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: great flood caused by ancestral anti-social action
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage states that the great flood is explained by tracing it to anti-social
+    action by one or more ancestors.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy item includes renewal, but this passage only reports
+    the flood or storm cause and does not describe renewal.
+- id: motif:2
+  label: withheld food leading to retaliatory catastrophe
+  taxonomy_refs: []
+  basis: In the Aka-Kede version, refusal to share collected honey angers Ko̱po-tera-wat,
+    who then deliberately performs the storm-bringing action.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a summary and does not provide the full narrative context.
+- id: motif:3
+  label: ill-timed or prohibited action brings disaster
+  taxonomy_refs: []
+  basis: The Aka-J̌eru version links the flood to breaking firewood while the cicada
+    was singing; the passage treats this as an action that brings the flood or storm.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state the rule or prohibition behind breaking
+    firewood during cicada song.
+comparison_claims:
+- id: claim:1
+  claim: The Aka-J̌eru and Aka-Kede versions share a pattern in which the great flood
+    or storm is explained as the result of an ancestor's anti-social action.
+  claim_level: same_motif
+  target: Aka-J̌eru and Aka-Kede flood-legend versions summarized in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage summarizes the legends rather than giving their full texts,
+    and it does not complete the following comparison introduced after the quoted
+    line range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11405-11408
+  quote_or_summary: In an Aka-J̌eru legend, the flood is said to have been caused
+    by an ancestor breaking firewood while the cicada was singing.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 11408-11410
+  quote_or_summary: An Aka-Kede version elaborates this part of the story and gives
+    a reason for the ancestor's action.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 11410-11413
+  quote_or_summary: Ko̱po-tera-wat was angry because the rest of the ancestors refused
+    to give him any of the honey they had collected.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 11413-11414
+  quote_or_summary: Ko̱po-tera-wat deliberately performed the action that brought
+    the storm.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 11414-11415
+  quote_or_summary: The author says these elements explain how the great flood came
+    about by tracing it to anti-social action by one or more ancestors.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is based on a short summarized passage. Motif identification
+    is cautious because the full legend context is not included and the line range
+    ends mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The final sentence continues beyond the provided range, so no claim is made about the incomplete comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:andamanese-andaman-islanders-radcliffe-brown-gutenberg__l11405-l11415
+  passage_sha256=2bfd2b2fefa2ecbac74faf54d244bcb0f24a22f08be26b325baa7149b6e33d78
+

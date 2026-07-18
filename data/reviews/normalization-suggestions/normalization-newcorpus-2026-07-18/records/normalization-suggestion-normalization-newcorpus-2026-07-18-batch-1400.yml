@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1400
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.food-theft-by-hidden-underground-route
+  motif_id: food_theft_by_hidden_underground_route
+  label: food theft by hidden underground route
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Theft through a hidden route fits trickster-style boundary crossing and
+    deceptive acquisition.
+  cautions: Single occurrence; if the underground route is primarily a chthonic passage
+    or sacred geography, descent or otherworld may be secondary.
+  suggested_aliases:
+  - hidden-route food theft
+  - underground food theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foolish-helper-causes-fatal-harm-through-literal-obedience
+  motif_id: foolish_helper_causes_fatal_harm_through_literal_obedience
+  label: Foolish helper causes fatal harm through literal obedience
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like a folktale comic-fool episode causing death, but
+    no current group cleanly covers foolish-helper literalism.
+  cautions: May be an over-specific tale-type detail; review whether it is a recurring
+    motif before creating a fool/simpleton group.
+  suggested_aliases:
+  - literal obedience causes harm
+  - foolish helper fatal mistake
+  suggested_new_group:
+    id: foolish_helper_literalism
+    label: Foolish Helper and Literal Misunderstanding
+    description: Comic or disastrous episodes where a fool, servant, helper, or simpleton
+      misunderstands instructions literally, producing harm, reversal, or unintended
+      success.
+    parent_group_ids:
+    - trickster
+    - storytelling_as_power
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing trickster and storytelling groups
+      cover deception or narrative power, but not foolish literal misunderstanding
+      as a repeated comic-folktale mechanism.
+- suggestion_id: normalization.suggestion.foolish-literal-response-to-an-inanimate-object
+  motif_id: foolish_literal_response_to_an_inanimate_object
+  label: foolish literal response to an inanimate object
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a comic foolishness motif rather than a sacred mythic
+    pattern in the current taxonomy.
+  cautions: May be too anecdotal without recurrence; could fit a future foolish-helper/simpleton
+    group if more labels cluster.
+  suggested_aliases:
+  - fool responds to object
+  - literal-minded response to object
+  suggested_new_group:
+    id: foolish_helper_literalism
+    label: Foolish Helper and Literal Misunderstanding
+    description: Comic or disastrous episodes where a fool, servant, helper, or simpleton
+      misunderstands instructions literally, producing harm, reversal, or unintended
+      success.
+    parent_group_ids:
+    - trickster
+    - storytelling_as_power
+    related_group_ids: []
+    reason_existing_groups_insufficient: No existing group specifically handles comic
+      literalism or simpleton misunderstanding.
+- suggestion_id: normalization.suggestion.foolish-literalism-leads-to-treasure-discovery
+  motif_id: foolish_literalism_leads_to_treasure_discovery
+  label: foolish literalism leads to treasure discovery
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines foolish literalism with lucky acquisition of treasure,
+    a folktale reversal not cleanly covered by sacred treasures alone.
+  cautions: Do not map to sacred_treasures unless the treasure has sacred or power-object
+    function; may be comic tale-type detail.
+  suggested_aliases:
+  - simpleton luck discovers treasure
+  - literal foolishness reveals treasure
+  suggested_new_group:
+    id: foolish_helper_literalism
+    label: Foolish Helper and Literal Misunderstanding
+    description: Comic or disastrous episodes where a fool, servant, helper, or simpleton
+      misunderstands instructions literally, producing harm, reversal, or unintended
+      success.
+    parent_group_ids:
+    - trickster
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_treasures
+    reason_existing_groups_insufficient: Sacred_treasures covers powerful objects,
+      not the comic reversal mechanism by which foolish literal action accidentally
+      succeeds.
+- suggestion_id: normalization.suggestion.foolish-sale-through-inadequate-pledge
+  motif_id: foolish_sale_through_inadequate_pledge
+  label: foolish sale through inadequate pledge
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This looks like a localized comic or legal-bargain episode rather than
+    a stable motif in existing sacred exchange categories.
+  cautions: May be a passage-specific tale detail; map to sacred_exchange only if
+    the pledge or bargain has ritual or sacred reciprocity significance.
+  suggested_aliases:
+  - foolish bargain
+  - inadequate pledge sale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foolish-younger-brother-obtains-effective-magical-agency
+  motif_id: foolish_younger_brother_obtains_effective_magical_agency
+  label: Foolish younger brother obtains effective magical agency
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A seemingly foolish younger sibling receiving effective magical aid or
+    agency fits supernatural assistance and reversal of status.
+  cautions: If the focus is sibling birth order or comic foolishness rather than supernatural
+    agency, a future simpleton/younger-sibling folktale group may be better.
+  suggested_aliases:
+  - foolish younger brother gains magic
+  - simpleton gains magical helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.footless-and-blind-paired-figures
+  motif_id: footless_and_blind_paired_figures
+  label: Footless and blind paired figures
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A paired set of complementary impairments may express structural complementarity
+    or paired opposition.
+  cautions: Low confidence; may be an over-specific tale detail, disability-coded
+    motif needing careful review, or a helper-pair episode rather than cosmic duality.
+  suggested_aliases:
+  - blind and lame pair
+  - complementary impaired pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-food-causing-bodily-affliction
+  motif_id: forbidden_food_causing_bodily_affliction
+  label: Forbidden food causing bodily affliction
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A tabooed food causing bodily harm fits ritual prohibition and sacred-law
+    consequences.
+  cautions: Review cultural context carefully; if the food is a sacred substance or
+    the affliction is divine punishment, secondary mappings may apply.
+  suggested_aliases:
+  - taboo food causes affliction
+  - forbidden food harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-fruit
+  motif_id: forbidden_fruit
+  label: forbidden fruit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The taxonomy’s sacred_substance group explicitly includes forbidden fruit
+    as a transformative substance.
+  cautions: Could also map to forbidden_knowledge or sacred_law if the passage emphasizes
+    transgressive knowledge or command violation rather than the fruit as substance.
+  suggested_aliases:
+  - forbidden food
+  - prohibited fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-lots
+  motif_id: forbidden_lots
+  label: Forbidden lots
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prohibited lot-casting fits sacred law as a banned divinatory or ritual
+    practice.
+  cautions: If the passage centers on the method of divination rather than prohibition,
+    prophecy_divination should be a related mapping.
+  suggested_aliases:
+  - forbidden lot-casting
+  - prohibited divinatory lots
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence comic folktale/simpleton labels;
+  human review should decide whether a durable foolish-helper or simpleton-literalism
+  group is warranted.
+- Avoid treating ordinary treasure or bargain episodes as sacred_treasures or sacred_exchange
+  unless the passage evidence gives them sacred, ritual, or power-object function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; multiple low-confidence single-occurrence folktale
+    items need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1400
+  input_sha256: a0189f774436b9ee0d2b07b50db74dcbbee6c202b90a483a58ab63f77742a268
+

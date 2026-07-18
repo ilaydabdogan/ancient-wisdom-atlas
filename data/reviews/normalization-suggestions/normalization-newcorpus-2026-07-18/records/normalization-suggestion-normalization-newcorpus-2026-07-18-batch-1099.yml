@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1099
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kin-killing-within-a-revenge-plot
+  motif_id: kin_killing_within_a_revenge_plot
+  label: Kin-killing within a revenge plot
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Revenge killing in heroic conflict can fit sacred_combat, but kin-killing
+    is a distinct social-tragic pattern not clearly covered.
+  cautions: Single occurrence; may need a future feud/kin-violence group or may be
+    episode-specific.
+  suggested_aliases:
+  - kinslaying_revenge
+  - revenge_killing_of_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-mourning-through-address-wailing-and-self-wounding
+  motif_id: kin_mourning_through_address_wailing_and_self_wounding
+  label: Kin mourning through address, wailing, and self-wounding
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label centers on embodied mourning practices by kin, aligning with
+    lament and mourning expressions.
+  cautions: Preserve culturally specific mourning actions as evidence detail; do not
+    generalize self-wounding without source review.
+  suggested_aliases:
+  - kin_lament_with_self_wounding
+  - mourning_wailing_and_self_wounding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-pledged-or-sold-in-exchange-for-weapon-materials
+  motif_id: kin_pledged_or_sold_in_exchange_for_weapon_materials
+  label: kin pledged or sold in exchange for weapon materials
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes an exchange of kin for martial materials, but the
+    sacred or ritual function is unclear.
+  cautions: Potentially culturally sensitive and highly contextual; could be barter,
+    sacrifice, betrayal, or episode detail depending on evidence.
+  suggested_aliases:
+  - kin_exchanged_for_weapons
+  - weapon_materials_obtained_by_pledging_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-revenge-through-reciprocal-maiming
+  motif_id: kin_revenge_through_reciprocal_maiming
+  label: Kin revenge through reciprocal maiming
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Retaliatory violence can fit sacred_combat, but reciprocal maiming as
+    kin revenge is more specific than existing children.
+  cautions: Single occurrence; may be legal retaliation, feud logic, or passage-specific
+    violence rather than a durable motif.
+  suggested_aliases:
+  - reciprocal_maiming_as_revenge
+  - kin_revenge_maiming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-survivors-pursue-blood-revenge
+  motif_id: kin_survivors_pursue_blood_revenge
+  label: Kin survivors pursue blood revenge
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Surviving kin pursuing vengeance belongs near heroic combat and avenging
+    a slain companion aliases.
+  cautions: Could justify a feud/blood-revenge group if recurrent; current group loses
+    kinship-obligation nuance.
+  suggested_aliases:
+  - blood_revenge_by_surviving_kin
+  - kin_blood_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-vengeance-as-first-heroic-deed
+  motif_id: kin_vengeance_as_first_heroic_deed
+  label: Kin-vengeance as first heroic deed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A first deed of vengeance marks heroic emergence and initiation into
+    the hero role.
+  cautions: If the passage emphasizes feud obligation over status transformation,
+    sacred_combat or a future blood-revenge group may fit better.
+  suggested_aliases:
+  - first_heroic_deed_of_vengeance
+  - heroic_initiation_by_kin_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinslaying-in-heroic-cycles
+  motif_id: kinslaying_in_heroic_cycles
+  label: Kinslaying in heroic cycles
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: broader_label
+  confidence: low
+  rationale: Heroic-cycle kinslaying is conflict-centered but lacks enough detail
+    for a precise existing group.
+  cautions: Broad generated label; could be feud tragedy, fate, betrayal, or narrative-cycle
+    commentary.
+  suggested_aliases:
+  - heroic_kinslaying
+  - kin_slaughter_in_heroic_legend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinsman-or-ally-avenges-or-completes-combat-after-a-fighter-is-disabled
+  motif_id: kinsman_or_ally_avenges_or_completes_combat_after_a_fighter_is_disabled
+  label: kinsman or ally avenges or completes combat after a fighter is disabled
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif matches heroic combat continuity and vengeance by a companion
+    or kin after a fighter falls.
+  cautions: Highly specific; preserve disabled-fighter succession detail as evidence
+    rather than new canonical child unless it recurs.
+  suggested_aliases:
+  - ally_completes_combat_after_fighter_falls
+  - kinsman_avenges_disabled_fighter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinsmen-kill-the-hero
+  motif_id: kinsmen_kill_the_hero
+  label: kinsmen kill the hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Hero death by kin occurs within heroic conflict, but may be more about
+    betrayal, fate, or tragic kinship rupture.
+  cautions: Single occurrence; do not collapse into ordinary warrior death without
+    reviewing kinship and betrayal functions.
+  suggested_aliases:
+  - hero_killed_by_kinsmen
+  - kin_betrayal_kills_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinswoman-sends-a-danger-token-to-warn-brothers-of-treachery
+  motif_id: kinswoman_sends_a_danger_token_to_warn_brothers_of_treachery
+  label: Kinswoman sends a danger-token to warn brothers of treachery
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A token is sent through kin networks to communicate hidden danger and
+    treachery, fitting recognition/proof-token functions.
+  cautions: Also related to betrayal_violated_trust; if the token itself is not used
+    for identity/proof, review as warning-message detail.
+  suggested_aliases:
+  - danger_token_warning
+  - warning_token_sent_by_kinswoman
+  - token_warning_of_treachery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around kin vengeance, blood revenge, and kinslaying. Existing
+  sacred_combat can hold them provisionally, but reviewers may consider a future feud/blood-revenge
+  group if recurrence grows.
+- Single-occurrence heroic-cycle labels should remain granular evidence unless source
+  review confirms durable cross-source patterning.
+reviewer_status:
+  status: needs_human_review
+  reviewer: model:api
+  reviewed_at: ''
+  notes: Provisional placements only; kin-violence items require human review for
+    feud, betrayal, fate, and culturally specific legal or ritual functions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1099
+  input_sha256: 3f887a4fb8d9cd47188ccc2b40066640a84ada713e6fdeb5c73c7e3e730afccb
+

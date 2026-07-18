@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1203
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.closed-house-containing-life
+  motif_id: closed_house_containing_life
+  label: Closed house containing life
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A closed dwelling containing life could be a preserving enclosure, hidden
+    life/soul, womb-like refuge, or local episode detail.
+  cautions: Source evidence is needed before mapping to sacred_vessel, ark_vessel,
+    external_soul, miraculous_child, or otherworld.
+  suggested_aliases:
+  - life hidden in closed house
+  - enclosed house preserving life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-carrier-brings-a-resource-from-another-country
+  motif_id: coerced_carrier_brings_a_resource_from_another_country
+  label: coerced carrier brings a resource from another country
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe resource acquisition, forced transport, culture-hero
+    provisioning, or an episode-specific travel detail.
+  cautions: Do not map to culture_hero or sacred_exchange unless the resource has
+    founding, sacred, or reciprocal function in the passage.
+  suggested_aliases:
+  - coerced resource carrier
+  - forced transport of distant resource
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercive-private-household-discipline-sequence
+  motif_id: coercive_private_household_discipline_sequence
+  label: Coercive private household discipline sequence
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like a passage-level plot or analytic sequence rather
+    than a stable symbolic motif.
+  cautions: If the source involves sacred law, domestic taboo, abuse, or initiation
+    discipline, preserve those specifics under a more appropriate group after human
+    review.
+  suggested_aliases:
+  - household discipline sequence
+  - private coercive discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-dowry-and-occupational-catalogue
+  motif_id: comic_dowry_and_occupational_catalogue
+  label: Comic dowry and occupational catalogue
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a comic catalogue device rather than a
+    mythic or ritual motif.
+  cautions: If dowry exchange is narratively central to marriage, bride choice, or
+    sacred exchange, review under sacred_love or sacred_exchange instead.
+  suggested_aliases:
+  - comic dowry catalogue
+  - occupational catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comically-oversized-substitute-ring
+  motif_id: comically_oversized_substitute_ring
+  label: Comically oversized substitute ring
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A substitute ring may be an identity, marriage, deception, or comic object
+    motif, but the label is too specific without context.
+  cautions: Map to recognition_tokens_hidden_identity only if the ring proves identity
+    or relationship; otherwise it may be an episode detail to exclude.
+  suggested_aliases:
+  - oversized substitute ring
+  - comic substitute ring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-as-moving-maze-or-ring
+  motif_id: communal_dance_as_moving_maze_or_ring
+  label: Communal dance as moving maze or ring
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: labyrinth_initiation
+  suggested_group_label: Labyrinth Initiation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal dance configured as a maze or ring fits labyrinthine ritual
+    movement and orientation-testing space.
+  cautions: If the passage emphasizes musical compulsion rather than maze structure,
+    enchanting_music may be a better secondary group.
+  suggested_aliases:
+  - maze dance
+  - ring dance as labyrinth
+  - communal labyrinth dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-excavation-fails-at-a-subterranean-cave-boundary
+  motif_id: communal_excavation_fails_at_a_subterranean_cave_boundary
+  label: communal excavation fails at a subterranean/cave boundary
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed attempt to penetrate a subterranean or cave boundary fits descent/underworld
+    threshold logic.
+  cautions: Culturally specific emergence or sacred geography context may instead
+    call for cosmic_origin, axis_mundi, or human review.
+  suggested_aliases:
+  - failed cave-boundary excavation
+  - blocked subterranean passage
+  - failed descent boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-legend-telling-during-a-feast
+  motif_id: communal_legend_telling_during_a_feast
+  label: communal legend-telling during a feast
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Communal legend-telling foregrounds narrative transmission and collective
+    memory, with feast setting as context.
+  cautions: If the feast exchange or hospitality obligation is more important than
+    the telling, sacred_exchange or hospitality_test_stranger_guest may be relevant.
+  suggested_aliases:
+  - legend-telling at feast
+  - communal feast storytelling
+  - feast narrative transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-meal-sharing-with-rotating-cook
+  motif_id: communal_meal_sharing_with_rotating_cook
+  label: communal meal sharing with rotating cook
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Rotating communal food preparation suggests reciprocal obligation and
+    shared provision.
+  cautions: May be ethnographic social practice rather than symbolic motif; exclude
+    if no sacred, ritual, or narrative function is present.
+  suggested_aliases:
+  - rotating cook meal sharing
+  - communal food reciprocity
+  - shared meal rotation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-post-hunt-meal-sharing
+  motif_id: communal_post_hunt_meal_sharing
+  label: communal post-hunt meal sharing
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Sharing food after a hunt can express reciprocal distribution and communal
+    obligation.
+  cautions: If the passage centers on animal taboo, killed-animal spirit relations,
+    or hunting law, sacred_law may be a better placement; verify source context.
+  suggested_aliases:
+  - post-hunt food sharing
+  - communal hunt meal
+  - shared game distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and passage-specific; human review
+  should verify whether they are motifs or evidence notes.
+- For Inuit meal-sharing labels, avoid imposing sacred significance unless the source
+  frames sharing as ritual, moral, or cosmological obligation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1203
+  input_sha256: 3c83cc27f65500315689fb952ee26246a028760c2058c4143547e67c7bb616d4
+

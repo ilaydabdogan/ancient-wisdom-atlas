@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1229
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.neglected-boundary-watch-after-a-tryst
+  motif_id: neglected_boundary_watch_after_a_tryst
+  label: neglected boundary watch after a tryst
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines boundary-keeping, sexual encounter, and neglected
+    duty; source context is needed to identify the dominant motif.
+  cautions: May be an episode-specific plot detail rather than a reusable motif; could
+    involve betrayal, sacred law, threshold danger, or love depending on passage evidence.
+  suggested_aliases:
+  - neglected watch
+  - failed boundary watch
+  - tryst causing lapse in vigilance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - betrayal_violated_trust
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neighboring-groups-linked-by-intermittent-hunting-route-contact
+  motif_id: neighboring_groups_linked_by_intermittent_hunting_route_contact
+  label: Neighboring groups linked by intermittent hunting-route contact
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic or contextual social geography rather
+    than a symbolic or narrative motif.
+  cautions: If a passage narrativizes hunting-route contact as a threshold encounter,
+    migration, alliance, or exchange episode, review manually before exclusion.
+  suggested_aliases:
+  - hunting-route contact between neighboring groups
+  - intermittent intergroup contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-household-patronage-or-adoption-after-displacement
+  motif_id: new_household_patronage_or_adoption_after_displacement
+  label: New household patronage or adoption after displacement
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe exile recovery, social protection, adoption, patronage,
+    or biographical context; no single existing group is a clear fit.
+  cautions: Could map to hero_journey if displacement and new household begin a transformative
+    journey, or to miraculous_child if an endangered child is protected.
+  suggested_aliases:
+  - adoption after displacement
+  - new patron after exile
+  - household refuge after displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - miraculous_child
+    - sacred_exchange
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-pursuit-ending-in-uncanny-bridge-encounter
+  motif_id: night_pursuit_ending_in_uncanny_bridge_encounter
+  label: night pursuit ending in uncanny bridge encounter
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bridge is a liminal crossing, and an uncanny encounter during pursuit
+    likely functions as a threshold confrontation.
+  cautions: If no guardian or passage-test is present, it may instead be an over-specific
+    chase episode or otherworld boundary scene.
+  suggested_aliases:
+  - uncanny bridge encounter
+  - bridge threshold encounter
+  - night pursuit at a bridge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - hero_journey
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-watch-at-a-threatened-camp-boundary
+  motif_id: night_watch_at_a_threatened_camp_boundary
+  label: night watch at a threatened camp boundary
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes guarded boundary vigilance, but the taxonomy has
+    no clear watchman or camp-defense group.
+  cautions: May be ordinary military staging rather than a mythic motif; if the boundary
+    is ritually charged, threshold_guardian or sacred_combat may apply.
+  suggested_aliases:
+  - night watch at boundary
+  - camp boundary watch
+  - guarding a threatened camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nile-measurement-as-annual-marker
+  motif_id: nile_measurement_as_annual_marker
+  label: Nile measurement as annual marker
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Annual Nile measurement marks cyclical sacred or agricultural time rather
+    than merely a place or object.
+  cautions: If the passage focuses on water symbolism or flood renewal rather than
+    calendrical measurement, sacred_waters or flood_and_renewal may be secondary.
+  suggested_aliases:
+  - annual Nile measurement
+  - Nilometer annual marker
+  - river measurement as ritual calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - flood_and_renewal
+    - seasonal_cycle
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noble-appearing-stranger-seeks-humble-hospitality
+  motif_id: noble_appearing_stranger_seeks_humble_hospitality
+  label: noble-appearing stranger seeks humble hospitality
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: A stranger seeking hospitality clearly fits the established hospitality-test
+    and stranger-guest complex.
+  cautions: Confirm whether the noble appearance matters as disguise, divine visitation,
+    or social status reversal; add divine_intervention only if supernatural identity
+    is evident.
+  suggested_aliases:
+  - noble stranger seeking hospitality
+  - stranger asks humble hospitality
+  - hospitality to noble-appearing guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonretaliation-in-imitation-of-the-suffering-lord
+  motif_id: nonretaliation_in_imitation_of_the_suffering_lord
+  label: Nonretaliation in imitation of the suffering Lord
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Nonretaliation as imitation of a sacred exemplar functions as an ethical
+    command within sacred social order.
+  cautions: Could also reflect covenantal teaching, martyrdom imitation, or Christian
+    doctrinal commentary; review if the passage is purely theological exposition.
+  suggested_aliases:
+  - nonretaliation as sacred imitation
+  - imitation of the suffering Lord
+  - refusal of retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacrifice
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-triad-of-island-events
+  motif_id: numbered_triad_of_island_events
+  label: numbered triad of island events
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to a textual enumeration or triadic catalog form,
+    not a narrative motif in itself.
+  cautions: If the three island events share a recurring mythic function, index those
+    specific events separately rather than the numbering format.
+  suggested_aliases:
+  - triadic island event list
+  - numbered island triad
+  - triad of island events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.observer-enters-a-royal-sleeping-chamber
+  motif_id: observer_enters_a_royal_sleeping_chamber
+  label: Observer enters a royal sleeping chamber
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific scene of entering a private royal space, but
+    its narrative function is unclear.
+  cautions: Could involve forbidden sight, dream/vision, royal legitimacy, desire,
+    intrusion, or initiation; may be too episode-specific without source evidence.
+  suggested_aliases:
+  - entry into royal sleeping chamber
+  - observer in royal bedchamber
+  - private royal chamber intrusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - dream_and_vision
+    - sacred_love
+    - forbidden_knowledge
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several objects/spaces/boundaries items are highly contextual one-off scene labels;
+  source evidence should decide whether they function as thresholds, social ethics,
+  or merely plot staging.
+- No transmission, influence, or common-origin claims are implied by these suggested
+  placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-1229.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1229
+  input_sha256: e15fcab1819dfd71de630a0853133db7714385435a8eeb9b9296232b8ee2d43f
+

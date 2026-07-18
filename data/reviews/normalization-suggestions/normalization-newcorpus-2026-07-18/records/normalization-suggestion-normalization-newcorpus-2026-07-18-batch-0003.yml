@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0003
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.afterlife-realm-descriptions-compared-across-traditions
+  motif_id: afterlife_realm_descriptions_compared_across_traditions
+  label: Afterlife realm descriptions compared across traditions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative analysis across traditions rather than
+    a narrative or symbolic motif in a passage.
+  cautions: If source passages themselves describe navigable afterlife realms, extract
+    those as afterlife_passage evidence instead.
+  suggested_aliases:
+  - comparative afterlife descriptions
+  - cross-tradition afterlife comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterlife-reversal-or-humbling-of-an-enemy
+  motif_id: afterlife_reversal_or_humbling_of_an_enemy
+  label: afterlife reversal or humbling of an enemy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Postmortem reversal or humiliation of an enemy functions as moral reckoning
+    after death.
+  cautions: Could instead belong under afterlife_passage if the passage emphasizes
+    underworld geography or encounter rather than judgment.
+  suggested_aliases:
+  - postmortem humbling of enemy
+  - afterlife reversal of enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterlife-reward-garden-with-flowing-rivers
+  motif_id: afterlife_reward_garden_with_flowing_rivers
+  label: Afterlife reward garden with flowing rivers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A rewarded garden is an afterlife destination within the mapped postmortem
+    realm complex.
+  cautions: The garden-and-rivers imagery is culturally specific and should be preserved
+    as evidence detail; do not reduce it to generic water symbolism.
+  suggested_aliases:
+  - paradisal garden with rivers
+  - afterlife garden reward
+  - garden paradise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-hero-s-final-battle-death-and-funeral-burning
+  motif_id: aged_hero_s_final_battle_death_and_funeral_burning
+  label: aged hero's final battle, death, and funeral burning
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label combines heroic death in battle with cremation or funeral honors,
+    fitting the heroic funeral complex.
+  cautions: It is an episode-specific sequence; if the emphasis is combat rather than
+    rites, sacred_combat or divine_warrior may be a secondary mapping.
+  suggested_aliases:
+  - heroic death and funeral burning
+  - final battle and cremation
+  - aged hero death rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alchemical-spiritual-transformation
+  motif_id: alchemical_spiritual_transformation
+  label: Alchemical spiritual transformation
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Alchemical transformation used spiritually aligns with interior mystical
+    change and pursuit of transformed knowledge.
+  cautions: If the passage concerns literal substance, elixir, or ritual chemistry,
+    sacred_substance or sacred_knowledge may be better secondary groups.
+  suggested_aliases:
+  - spiritual alchemy
+  - inner alchemical transformation
+  - alchemical mysticism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-seeing-spirit-and-ritualized-divine-voice
+  motif_id: all_seeing_spirit_and_ritualized_divine_voice
+  label: All-seeing spirit and ritualized divine voice
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: An all-seeing spirit and divine voice may describe manifestation of sacred
+    presence, but the ritual role is unclear.
+  cautions: Culturally sensitive source context is needed; may involve initiation,
+    sacred law, ancestor presence, or ritual performance rather than a generic theophany.
+  suggested_aliases:
+  - all-seeing spirit
+  - ritual divine voice
+  - divine voice manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-accepted-as-path-toward-vengeance-for-a-dead-husband
+  motif_id: alliance_accepted_as_path_toward_vengeance_for_a_dead_husband
+  label: Alliance accepted as path toward vengeance for a dead husband
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motive of alliance formed to pursue vengeance for the dead fits the
+    warfare and vengeance complex.
+  cautions: Highly contextual and kinship-specific; if the focus is marital grief
+    rather than vengeance, lament_and_mourning may be more relevant.
+  suggested_aliases:
+  - vengeance alliance for dead husband
+  - alliance for marital vengeance
+  - vengeance for slain spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.almsgiving-as-purification-of-wealth-and-soul
+  motif_id: almsgiving_as_purification_of_wealth_and_soul
+  label: Almsgiving as purification of wealth and soul
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Almsgiving purifies wealth and soul through sacred giving and reciprocal
+    obligation.
+  cautions: May also support sacred_law if framed primarily as commandment, or sacrifice
+    if framed as surrender of valued goods.
+  suggested_aliases:
+  - purifying almsgiving
+  - charity as soul purification
+  - alms as sacred exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-oracle-and-death-at-the-avoided-sacred-site
+  motif_id: ambiguous_oracle_and_death_at_the_avoided_sacred_site
+  label: ambiguous oracle and death at the avoided sacred site
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core structure is an ambiguous oracle whose attempted avoidance still
+    leads to the foretold death.
+  cautions: Could also map to death_by_fate if inevitability of destiny is the central
+    function; keep sacred-site detail as evidence.
+  suggested_aliases:
+  - ambiguous oracle fulfilled by avoidance
+  - oracle avoided but fulfilled
+  - death at avoided sacred site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-weapon-gift-or-return
+  motif_id: ambiguous_weapon_gift_or_return
+  label: ambiguous weapon gift or return
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A weapon gift or return may involve a power object, exchange, recognition,
+    or heroic obligation, but the function is unclear.
+  cautions: The label is too ambiguous to place confidently without passage context;
+    may be a plot detail rather than a reusable motif.
+  suggested_aliases:
+  - weapon gift
+  - returned weapon
+  - ambiguous martial gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims of transmission or common origin.
+- Several one-occurrence labels are over-specific episode summaries; preserve local
+  detail while mapping only the reusable function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended for culturally sensitive ritual-spirit language
+    and ambiguous weapon-exchange context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0003
+  input_sha256: 38786ea8bd6d9aedb60ea8e043dbb2ae19ae68d9311876efc28b6b9609f4716d
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1532
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-mission-rejected-as-sorcery-or-madness
+  motif_id: prophetic_mission_rejected_as_sorcery_or_madness
+  label: Prophetic mission rejected as sorcery or madness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif is a prophetic role and mission contested by accusations
+    of false or uncanny speech.
+  cautions: May also involve divine_judgment if rejection triggers punishment; single
+    occurrence should preserve local polemical context.
+  suggested_aliases:
+  - rejected_prophet
+  - prophetic_message_denounced_as_sorcery
+  - prophetic_mission_rejected_as_madness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-mounted-singer-reveals-past-and-future
+  motif_id: prophetic_mounted_singer_reveals_past_and_future
+  label: Prophetic mounted singer reveals past and future
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: A specialized prophetic performer reveals hidden temporal knowledge,
+    fitting prophecy/divination more than general song power.
+  cautions: Mounted singer detail may be episode-specific; if the song itself compels
+    or enchants, enchanting_music could be a secondary relation.
+  suggested_aliases:
+  - prophetic_singer
+  - seer_singer_reveals_past_and_future
+  - bardic_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-precursor-prepares-the-way
+  motif_id: prophetic_precursor_prepares_the_way
+  label: Prophetic precursor prepares the way
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: The label describes a prophetic figure whose function is anticipatory
+    revelation or preparation for another sacred figure/event.
+  cautions: Could overlap with divine_call or sacred_knowledge depending on whether
+    the emphasis is mission, revelation, or salvation-history framing.
+  suggested_aliases:
+  - forerunner_prophet
+  - prophetic_forerunner
+  - precursor_prepares_the_way
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-scriptural-explanation-of-a-mythic-event
+  motif_id: prophetic_scriptural_explanation_of_a_mythic_event
+  label: prophetic scriptural explanation of a mythic event
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: It may describe revealed interpretation of mythic events, which fits
+    sacred knowledge, but the wording may be exegetical commentary rather than a motif.
+  cautions: Review source evidence to decide whether this is an in-narrative revelation,
+    a scriptural hermeneutic, or a textual/commentary artifact.
+  suggested_aliases:
+  - revealed_explanation_of_mythic_event
+  - prophetic_interpretation_of_myth
+  - scriptural_myth_exegesis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-sign-act-embodied-by-the-messenger
+  motif_id: prophetic_sign_act_embodied_by_the_messenger
+  label: prophetic sign-act embodied by the messenger
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prophetic sign-act is an enacted form of prophetic communication or
+    warning by a messenger figure.
+  cautions: If the action is primarily performative sacred speech or vow-like binding,
+    curse_blessing_speech may be a related secondary group.
+  suggested_aliases:
+  - prophetic_sign_act
+  - enacted_prophecy
+  - embodied_prophetic_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-sign-act-of-embodied-lament
+  motif_id: prophetic_sign_act_of_embodied_lament
+  label: Prophetic sign-act of embodied lament
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The lament is functioning as an enacted prophetic sign rather than merely
+    mourning.
+  cautions: Also relates to lament_and_mourning when grief expression is central;
+    preserve the embodied-lament detail as evidence.
+  suggested_aliases:
+  - prophetic_lament_sign_act
+  - embodied_lament_as_prophecy
+  - enacted_lament_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-sign-act-through-embodied-performance
+  motif_id: prophetic_sign_act_through_embodied_performance
+  label: Prophetic sign-act through embodied performance
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Embodied performance is the medium for a prophetic sign or revelation,
+    fitting the prophecy/divination group.
+  cautions: May be too general; consider consolidating with other prophetic sign-act
+    labels after review.
+  suggested_aliases:
+  - prophetic_sign_act
+  - enacted_prophecy
+  - prophetic_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-signs-and-accountable-response
+  motif_id: prophetic_signs_and_accountable_response
+  label: Prophetic signs and accountable response
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on responsibility and reckoning after prophetic signs
+    are given.
+  cautions: If the passage primarily catalogs signs as revelation, prophecy_divination
+    or sacred_knowledge may be secondary; avoid assuming punishment without evidence.
+  suggested_aliases:
+  - accountability_after_prophetic_signs
+  - response_to_prophetic_signs
+  - rejection_or_acceptance_of_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-succession-and-repeated-rejection
+  motif_id: prophetic_succession_and_repeated_rejection
+  label: Prophetic succession and repeated rejection
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The recurring sequence of prophets and their rejection belongs to prophetic
+    mission and reception patterns.
+  cautions: May also support divine_judgment where repeated rejection leads to communal
+    punishment or moral reckoning.
+  suggested_aliases:
+  - succession_of_rejected_prophets
+  - repeated_rejection_of_prophets
+  - prophetic_succession_rejection_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-succession-and-scriptural-continuity
+  motif_id: prophetic_succession_and_scriptural_continuity
+  label: Prophetic succession and scriptural continuity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes continuity across prophetic figures and revealed
+    scripture, fitting prophetic tradition and revelation roles.
+  cautions: Could also fit sacred_knowledge if emphasis is transmission of scripture
+    rather than prophetic role succession.
+  suggested_aliases:
+  - chain_of_prophets
+  - prophetic_continuity
+  - scriptural_continuity_through_prophets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items form a coherent cluster around prophetic sign-acts, prophetic succession,
+  and response to prophetic signs; reviewers may consider adding granular aliases
+  under prophecy_divination rather than separate canonical motif families.
+- Do not treat shared prophetic terminology across biblical, Islamic, Gnostic, and
+  Celtic-Irish records as evidence of transmission in this normalization task.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    labels are narrative motifs, exegetical commentary, or over-specific generated
+    summaries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1532
+  input_sha256: 05cf5a1703c0b1a82eeced2f5b8a96e534b8abf0b097b452bb6250ee79daa0cb
+

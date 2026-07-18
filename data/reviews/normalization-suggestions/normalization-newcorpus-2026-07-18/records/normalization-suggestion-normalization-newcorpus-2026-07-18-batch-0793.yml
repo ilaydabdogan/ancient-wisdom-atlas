@@ -1,0 +1,334 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0793
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-companions-dispute-carriage-labor
+  motif_id: animal_companions_dispute_carriage_labor
+  label: Animal companions dispute carriage labor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Looks like a folktale animal-companion labor dispute, but no current
+    group cleanly covers cooperative animal bands or animal social negotiation.
+  cautions: Single occurrence and likely episode-specific; source context needed before
+    creating an animal-fable or helper-animal group.
+  suggested_aliases:
+  - animal labor dispute
+  - dispute among animal companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-companions-frighten-robbers-from-a-dwelling
+  motif_id: animal_companions_frighten_robbers_from_a_dwelling
+  label: Animal companions frighten robbers from a dwelling
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal companions cooperate to defeat or scare human antagonists, but
+    the function is fable/folktale strategy rather than an existing sacred motif.
+  cautions: May be too specific to one tale-type episode; could fit a future animal-helper
+    or trickster-stratagem group if many parallels recur.
+  suggested_aliases:
+  - animal band frightens robbers
+  - cooperative animals drive off thieves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-companions-recruited-into-a-cooperative-band
+  motif_id: animal_companions_recruited_into_a_cooperative_band
+  label: animal companions recruited into a cooperative band
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes formation of an animal-helper band, a recurring folktale
+    structure not represented by existing groups except loosely by animal_helpers.
+  cautions: Could be a narrative setup rather than a motif; review alongside related
+    animal-companion labels before adding a new group.
+  suggested_aliases:
+  - animal helper band
+  - cooperative animal companions
+  - recruited animal companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-council-attempts-to-stop-a-killer
+  motif_id: animal_council_attempts_to_stop_a_killer
+  label: Animal council attempts to stop a killer
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Council and Animal Society
+  relationship: child
+  confidence: medium
+  rationale: Animal collective deliberation and governance is distinct from trickster
+    deception, shapeshifting, or animal helpers.
+  cautions: Culturally specific animal-person traditions should be reviewed carefully;
+    do not reduce to fable unless source context supports that framing.
+  suggested_aliases:
+  - animal council
+  - council of animals
+  - animal assembly
+  suggested_new_group:
+    id: animal_council_society
+    label: Animal Council and Animal Society
+    description: Animals act as organized social agents through councils, courts,
+      assemblies, cooperative bands, or communal decisions to judge, remedy crises,
+      restrain danger, or coordinate action.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing animal-related groups emphasize
+      tricksters, shapeshifting, helpers, or specific predator reversals, not collective
+      animal governance or adjudication.
+- suggestion_id: normalization.suggestion.animal-council-seeks-remedy-for-environmental-crisis
+  motif_id: animal_council_seeks_remedy_for_environmental_crisis
+  label: Animal council seeks remedy for environmental crisis
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Council and Animal Society
+  relationship: child
+  confidence: medium
+  rationale: The core pattern is a deliberating animal council responding to communal
+    or environmental disorder.
+  cautions: May also relate to cosmic order, weather, or ecological etiologies depending
+    on passage evidence; human review should preserve local animal-person meanings.
+  suggested_aliases:
+  - animal council remedies crisis
+  - animal assembly seeks remedy
+  - animals deliberate environmental crisis
+  suggested_new_group:
+    id: animal_council_society
+    label: Animal Council and Animal Society
+    description: Animals act as organized social agents through councils, courts,
+      assemblies, cooperative bands, or communal decisions to judge, remedy crises,
+      restrain danger, or coordinate action.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - cosmic_origin
+    - divine_judgment
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups do not cover animal assemblies
+      acting as communal decision-makers in response to ecological or social crisis.
+- suggestion_id: normalization.suggestion.animal-court-adjudicates-a-human-grievance
+  motif_id: animal_court_adjudicates_a_human_grievance
+  label: Animal court adjudicates a human grievance
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Council and Animal Society
+  relationship: child
+  confidence: medium
+  rationale: An animal court exercising judgment fits animal social governance more
+    than general divine judgment or trickster action.
+  cautions: Could be a legal fable, moral exemplum, or animal-person cosmology; review
+    source context before broad indexing.
+  suggested_aliases:
+  - animal court
+  - animals adjudicate grievance
+  - animal tribunal
+  suggested_new_group:
+    id: animal_council_society
+    label: Animal Council and Animal Society
+    description: Animals act as organized social agents through councils, courts,
+      assemblies, cooperative bands, or communal decisions to judge, remedy crises,
+      restrain danger, or coordinate action.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: Divine_judgment covers sacred reckoning,
+      but not animal courts as social institutions or fable-like adjudicators.
+- suggestion_id: normalization.suggestion.animal-court-adjudicates-theft-accusation
+  motif_id: animal_court_adjudicates_theft_accusation
+  label: animal court adjudicates theft accusation
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Council and Animal Society
+  relationship: child
+  confidence: medium
+  rationale: The motif combines animal court procedure with accusation adjudication,
+    matching an animal-society governance pattern.
+  cautions: If the passage focuses on false accusation or moral vindication, divine_judgment
+    may be a secondary mapping; avoid assuming sacred court function without evidence.
+  suggested_aliases:
+  - animal court judges theft
+  - animal tribunal theft accusation
+  - animal adjudication of theft
+  suggested_new_group:
+    id: animal_council_society
+    label: Animal Council and Animal Society
+    description: Animals act as organized social agents through councils, courts,
+      assemblies, cooperative bands, or communal decisions to judge, remedy crises,
+      restrain danger, or coordinate action.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: Existing judgment groups are human/divine
+      moral reckoning and do not preserve the recurring animal-court structure.
+- suggestion_id: normalization.suggestion.animal-crop-theft-explains-present-behavior
+  motif_id: animal_crop_theft_explains_present_behavior
+  label: Animal crop theft explains present behavior
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The label is etiological: a past animal theft explains present animal
+    behavior, similar to origin/explanation motifs already grouped under cosmic_origin.'
+  cautions: If the passage emphasizes trickster theft rather than etiology, trickster
+    may be a better primary group; preserve crop-theft specificity as evidence.
+  suggested_aliases:
+  - etiology of animal behavior through crop theft
+  - animal behavior etiology
+  - animal theft etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-damage-to-a-controlled-water-place
+  motif_id: animal_damage_to_a_controlled_water_place
+  label: Animal damage to a controlled water-place
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve animal transgression, water control, environmental
+    disorder, or etiological landscape change, but function is unclear.
+  cautions: Do not map to sacred_waters or trickster without evidence that water is
+    sacred/transformative or the animal is a boundary-breaking figure.
+  suggested_aliases:
+  - animal damages water source
+  - animal transgression at water-place
+  - controlled water-place damaged
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - trickster
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dance-gathering-with-assigned-performers
+  motif_id: animal_dance_gathering_with_assigned_performers
+  label: Animal dance gathering with assigned performers
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal performance gathering may indicate ritualized animal society,
+    dance, or a tale episode, but the symbolic function is not clear from the label.
+  cautions: Could fit a future animal-society group if council/court/dance labels
+    recur; could also be local performance context rather than motif.
+  suggested_aliases:
+  - animal dance assembly
+  - animal performance gathering
+  - animal dance with assigned roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - animal_council_society
+    - enchanting_music
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a possible animal_council_society group covering animal
+  councils, courts, assemblies, and cooperative social action; review against broader
+  corpus before taxonomy changes.
+- Germanic animal-companion labels look episode-specific and may be better handled
+  together as folktale animal-helper evidence rather than mapped individually.
+- Avoid treating animal-person traditions as mere fables without source context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed for animal-society group
+    scope and culturally specific contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0793
+  input_sha256: 6738a963cb8881067aa66afa269fe2eb7f2a4fbfe62a0b611095518e493af984
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1196
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.alluring-marvel-used-as-a-snare
+  motif_id: alluring_marvel_used_as_a_snare
+  label: Alluring marvel used as a snare
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wondrous lure functioning as a trap fits the threshold/perilous lure
+    complex already represented under threshold_guardian.
+  cautions: Single occurrence; if the passage emphasizes deception rather than liminal
+    danger, trickster or sacred_treasures may be secondary.
+  suggested_aliases:
+  - perilous_lure
+  - marvel_as_snare
+  - alluring_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-foiled-by-visible-guardian-at-the-threshold
+  motif_id: ambush_foiled_by_visible_guardian_at_the_threshold
+  label: ambush foiled by visible guardian at the threshold
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: The label directly centers on a guardian at a threshold preventing hostile
+    passage.
+  cautions: Could also touch sacred_combat if the ambush or battle context is primary;
+    preserve threshold function in notes.
+  suggested_aliases:
+  - guardian_at_threshold
+  - threshold_guardian_foils_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-sages-living-and-reappearing-across-ages
+  motif_id: ancient_sages_living_and_reappearing_across_ages
+  label: Ancient sages living and reappearing across ages
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: narrower_than
+  confidence: low
+  rationale: Long-lived sages persisting across ages concerns extended life and death-transcendence,
+    closest to the immortality group.
+  cautions: May instead be sacred_knowledge, world_ages_cosmic_decline, or divine_intervention
+    depending on whether the emphasis is wisdom transmission, cyclical time, or miraculous
+    reappearance.
+  suggested_aliases:
+  - long_lived_sages
+  - sages_reappearing_across_ages
+  - deathless_sages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animated-household-object-as-supernatural-obstacle
+  motif_id: animated_household_object_as_supernatural_obstacle
+  label: animated household object as supernatural obstacle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animated manufactured or household objects are already represented within
+    sacred_craft's artificial-life and animated-object children.
+  cautions: If the object mainly blocks a passage, threshold_guardian may be a useful
+    secondary mapping; if it is merely episode detail, avoid promotion.
+  suggested_aliases:
+  - animated_object_obstacle
+  - animated_household_object
+  - supernatural_object_obstacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.answering-deity-associated-with-mirror-or-instrument
+  motif_id: answering_deity_associated_with_mirror_or_instrument
+  label: Answering deity associated with mirror or instrument
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: An answering deity mediated by an object may involve divination, theophany,
+    or a sacred power object.
+  cautions: Culturally specific evidence is needed; mirror/instrument may be a deity
+    attribute, oracle medium, or passage artifact rather than a broad motif.
+  suggested_aliases:
+  - oracular_mirror
+  - answering_deity
+  - divine_response_through_instrument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apparition-visible-to-an-outsider-but-not-to-the-household
+  motif_id: apparition_visible_to_an_outsider_but_not_to_the_household
+  label: Apparition visible to an outsider but not to the household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Selective visibility of an apparition fits altered perception or opened
+    perception more than a place/object motif.
+  cautions: If the apparition is a dead person seeking redress, restless_dead_haunting_vengeance
+    may be secondary; source context needed.
+  suggested_aliases:
+  - selective_apparition_visibility
+  - apparition_seen_by_outsider
+  - opened_perception_of_apparition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-fasting-retreat-in-a-cave
+  motif_id: ascetic_fasting_retreat_in_a_cave
+  label: Ascetic fasting retreat in a cave
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ascetic fasting in a cave functions as disciplined withdrawal for spiritual
+    transformation or revelation.
+  cautions: Could also map to descent or initiation if the cave is a liminal underworld-like
+    ordeal rather than ascetic practice.
+  suggested_aliases:
+  - cave_retreat
+  - ascetic_cave_fasting
+  - fasting_retreat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assault-and-defense-of-a-fortified-boundary
+  motif_id: assault_and_defense_of_a_fortified_boundary
+  label: assault and defense of a fortified boundary
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes conflict organized around a defended boundary, fitting
+    combat/warfare more than general sacred space.
+  cautions: If no sacred or ritual significance is present, it may be an over-specific
+    battle scene rather than a motif; threshold_guardian only if a guardian role is
+    central.
+  suggested_aliases:
+  - fortified_boundary_defense
+  - boundary_assault
+  - defense_of_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempted-binding-with-garment-object
+  motif_id: attempted_binding_with_garment_object
+  label: Attempted binding with garment-object
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A garment used to bind may be a power object, magical constraint, or
+    simple episode-specific device.
+  cautions: Too little function is visible from the label; review whether the garment
+    has sacred power, deception, legal binding, or combat restraint significance.
+  suggested_aliases:
+  - binding_garment
+  - garment_as_constraint
+  - magical_binding_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempted-murder-by-burning-house-and-hidden-escape
+  motif_id: attempted_murder_by_burning_house_and_hidden_escape
+  label: Attempted murder by burning house and hidden escape
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden escape from a lethal stratagem fits deception, counter-stratagem,
+    and boundary-crossing survival patterns.
+  cautions: May be over-specific to one episode; if emphasis is violent ordeal rather
+    than trickery, sacred_combat or hero_journey may be secondary.
+  suggested_aliases:
+  - hidden_escape_from_burning_house
+  - murder_plot_escaped_by_secret_exit
+  - foiled_burning_house_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid transmission claims.
+- Several labels have only one occurrence; preserve them as evidence details unless
+  recurrence or source context justifies stronger indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Objects/spaces batch mostly maps to existing threshold, combat, mystical,
+    vision, and object-power groups; culturally specific or underdetermined labels
+    marked for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1196
+  input_sha256: 7616c654ccd92106dac16d35930a10f4044c8a5f4e1fdc9b2c2ce27f9f5b319f
+

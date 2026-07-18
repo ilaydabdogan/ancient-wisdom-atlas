@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l1603-l1614
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: MAIUS. LIB. V. / JUNIUS. LIB. VI. / P. OVIDII NASONIS FASTORUM / LIBER I.;
+    lines 1603-1614
+  start: '1603'
+  end: '1614'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Interea Delphin clarum super aequora sidus / Tollitur...
+  summary: The passage describes animal entrails helping the gods, several birds being
+    burned or slaughtered in ritual contexts, the Dolphin rising as a bright star
+    over the waters, and the next day marking winter’s midpoint with equal time before
+    and after.
+  language: Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The entrails of an indicator or betrayer are said to have helped the gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A white dove, described as a wife taken from her husband, is often burned
+    in hot hearths.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A goose gives its liver onto plates associated with Inachus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At night a crested bird is slain for the goddess Night because it calls forth
+    the warm day with a watchful mouth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Dolphin, described as a bright star, rises over the waters and puts forth
+    its face from its native shallows.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The following daylight marks winter at its middle division, with the elapsed
+    portion equal to what remains.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: gods
+  description: Divine beings helped by the entrails.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: white dove
+  description: A white dove described as a wife taken from her husband and burned
+    in hot hearths.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: husband of the dove
+  description: The husband from whom the dove-wife is said to be taken.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: goose
+  description: A goose that gives its liver onto plates.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Inachus
+  description: Named in connection with the prepared plates receiving the goose liver.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: goddess Night
+  description: A goddess to whom a crested bird is slain at night.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: crested bird
+  description: A crested bird that calls forth the warm day and is slain for Night.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Dolphin
+  description: The Dolphin described as a bright star rising over the waters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine recipient or beneficiary
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The gods are helped by entrails; Night receives the slaughtered crested bird.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: sacrificial animal
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:7
+  basis: The dove is burned, the goose gives liver, and the crested bird is slain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: abducted spouse
+  assigned_to:
+  - fig:2
+  basis: The dove is described as a wife taken from her husband.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bereaved or separated husband
+  assigned_to:
+  - fig:3
+  basis: The husband is mentioned as the one from whom the wife is taken.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named associated figure
+  assigned_to:
+  - fig:5
+  basis: Inachus is named in relation to the plates receiving the goose liver.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: day-announcing bird
+  assigned_to:
+  - fig:7
+  basis: The crested bird calls forth the warm day with a watchful mouth.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: rising celestial figure
+  assigned_to:
+  - fig:8
+  basis: The Dolphin is called a bright star and is said to rise over the waters.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hearth fire
+  literal_form: hot hearths in which the white dove is burned
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: liver or entrails
+  literal_form: entrails and liver used in relation to divine help or offering
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: night
+  literal_form: night and the goddess Night receiving a slain crested bird
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: waters
+  literal_form: waters and native shallows beneath the rising Dolphin star
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: winter midpoint
+  literal_form: the next day marking winter’s middle division, with equal past and
+    future portions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Bird offerings and entrails
+  summary: 'The passage links divine benefit from entrails with ritual killing or
+    burning of birds: a dove, a goose, and a crested bird for Night.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Rising of the Dolphin star
+  summary: The Dolphin rises as a bright star over the waters and emerges from native
+    shallows.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Winter midpoint
+  summary: The following daylight is identified as the midpoint of winter, equalizing
+    the portion already passed with the portion to come.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice of animals to divine powers
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes birds being burned, a liver given onto plates, and
+    a bird slain for the goddess Night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives compressed calendrical-sacrificial references; the full
+    ritual context is not supplied in the excerpt.
+- id: motif:2
+  label: seasonal midpoint and cyclical division of time
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The next daylight marks winter’s middle point, with equal elapsed and remaining
+    portions.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states a calendrical marker rather than narrating a full seasonal
+    myth.
+- id: motif:3
+  label: rising celestial animal above waters
+  taxonomy_refs:
+  - ascent
+  basis: The Dolphin is described as a bright star rising over the waters and emerging
+    from native shallows.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is general; the passage presents an astronomical
+    rising, not an extended ascent narrative.
+- id: motif:4
+  label: spouse taken from husband
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The white dove is described as a wife taken from her husband before being
+    burned in hearths.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage applies marital language to the dove; it does not supply a
+    separate abduction narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1603 / printed line 450
+  quote_or_summary: "“Juveruntque deos indicis exta sui.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:2
+  type: quote
+  locator: 1604-1605
+  quote_or_summary: "“conjux abducta marito / Uritur in calidis alba columba focis.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:3
+  type: summary
+  locator: 1606-1607
+  quote_or_summary: A goose is said to give its liver onto prepared plates associated
+    with Inachus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 1608-1609 / printed line 455
+  quote_or_summary: At night a crested bird is slain for the goddess Night because
+    it calls forth the warm day with a watchful mouth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: 1610-1611
+  quote_or_summary: "“Delphin clarum super aequora sidus / Tollitur...”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:6
+  type: summary
+  locator: 1613-1614 / printed line 460
+  quote_or_summary: The next daylight marks winter’s midpoint; the elapsed and remaining
+    parts are equal.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and allusive, with compressed calendrical and ritual
+    references. Literal actions are clear, but mythic identifications and broader
+    motif assignments require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these elements with another tradition or motif family beyond the supplied taxonomy candidates.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l1603-l1614
+  passage_sha256=fd71c127df05ab0e3c99ee3f9d4be6e4bc392c898ced014f785fe799cec2b6c7
+

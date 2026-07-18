@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1439
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.idolatrous-calf-internalized-in-the-heart
+  motif_id: idolatrous_calf_internalized_in_the_heart
+  label: idolatrous calf internalized in the heart
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label appears to moralize idolatry as an inward spiritual condition,
+    which may fit sacred law, covenant violation, or forbidden worship.
+  cautions: Could be exegetical commentary on a specific passage rather than a reusable
+    motif; existing idol alias is already marked for human review.
+  suggested_aliases:
+  - internalized_idolatry
+  - idolatry_of_the_heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idols-fall-before-the-presence-of-christ
+  motif_id: idols_fall_before_the_presence_of_christ
+  label: idols fall before the presence of Christ
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Idols collapsing before Christ centers on overwhelming divine presence
+    revealed through a public sign.
+  cautions: Could also index divine_judgment if the emphasis is punishment of false
+    worship, or sacred_combat if framed as combat against demons/idols.
+  suggested_aliases:
+  - idols_collapse_before_divine_presence
+  - idols_fall_before_holy_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-maternal-prohibition-against-killing-kin
+  motif_id: ignored_maternal_prohibition_against_killing_kin
+  label: Ignored maternal prohibition against killing kin
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A prohibition against kin-killing is a social or sacred moral command
+    whose violation drives conflict.
+  cautions: The maternal speaker may be incidental; if the passage centers on tragic
+    kin-slaying or heroic combat, sacred_combat or lament_and_mourning may be better
+    secondary mappings.
+  suggested_aliases:
+  - kin_killing_prohibition_ignored
+  - taboo_against_killing_kin_violated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ill-fated-disclosure-of-a-protective-concealment
+  motif_id: ill_fated_disclosure_of_a_protective_concealment
+  label: ill-fated disclosure of a protective concealment
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns hidden identity or concealment being revealed, with
+    the disclosure changing protection or fate.
+  cautions: If the concealment involves a life-token or hidden soul, external_soul
+    may be more appropriate; if it is only plot detail, keep as evidence note.
+  suggested_aliases:
+  - protective_concealment_disclosed
+  - hidden_identity_revealed_with_fatal_result
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-and-severe-pain-figured-as-demonic-arrows
+  motif_id: illness_and_severe_pain_figured_as_demonic_arrows
+  label: Illness and severe pain figured as demonic arrows
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Illness caused by demonic projectile agency fits supernatural intervention
+    or spirit affliction, which is currently folded under divine_intervention and
+    related expulsion/healing labels.
+  cautions: Culturally specific illness aetiologies should not be flattened; may warrant
+    a future spirit-affliction/healing group if many similar labels recur.
+  suggested_aliases:
+  - demonic_arrows_cause_illness
+  - spirit_projectiles_cause_pain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-apparition-as-old-hag
+  motif_id: illness_apparition_as_old_hag
+  label: Illness apparition as old hag
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A personified illness apparition may be a supernatural harmful agent,
+    loosely fitting spirit agency under divine_intervention.
+  cautions: Could be folklore disease-personification, hag/demon figure, nightmare
+    being, or local spirit taxonomy; source evidence is needed before broad indexing.
+  suggested_aliases:
+  - illness_personified_as_hag
+  - disease_apparition_old_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-attributed-to-a-being-placing-an-object-inside-the-body
+  motif_id: illness_attributed_to_a_being_placing_an_object_inside_the_body
+  label: Illness attributed to a being placing an object inside the body
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes illness as caused by an external supernatural being
+    acting on the body, aligning with spirit injury/healing motifs under divine_intervention.
+  cautions: May belong in a more specific shamanic illness/extraction or spirit-affliction
+    group not currently present; handle culturally specific healing systems carefully.
+  suggested_aliases:
+  - intrusive_object_causes_illness
+  - supernatural_object_inserted_in_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-explained-through-ingestion-and-environmental-contact
+  motif_id: illness_explained_through_ingestion_and_environmental_contact
+  label: Illness explained through ingestion and environmental contact
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Illness explained through contact or ingestion may connect to purity,
+    taboo, or ritual danger currently grouped under sacred_law.
+  cautions: The label is broad and culturally sensitive; it may be ethnographic explanation
+    rather than a narrative motif, and Navajo-specific categories should be reviewed
+    by a human.
+  suggested_aliases:
+  - illness_from_ingestion_and_contact
+  - contact_ingestion_illness_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illusory-fairy-money-transforms-into-worthless-matter
+  motif_id: illusory_fairy_money_transforms_into_worthless_matter
+  label: illusory fairy money transforms into worthless matter
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: alias
+  confidence: high
+  rationale: The normalization group already lists fairy money becoming worthless
+    matter as an alias under otherworld exchange/enchantment.
+  cautions: If the passage emphasizes deception or trickery more than fairy otherworld
+    exchange, trickster may be a secondary relation.
+  suggested_aliases:
+  - fairy_money_that_becomes_worthless_matter
+  - enchanted_money_turns_worthless
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.image-or-picture-serving-as-the-real-object
+  motif_id: image_or_picture_serving_as_the_real_object
+  label: Image or picture serving as the real object
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: An image functioning as the real object overlaps with animated or efficacious
+    images already gathered under sacred_craft.
+  cautions: Could instead be sympathetic magic, icon power, a legal fiction, or a
+    passage artifact; review whether the image acts supernaturally or only represents
+    something.
+  suggested_aliases:
+  - efficacious_image_as_object
+  - picture_substitutes_for_real_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several illness-related labels point toward a possible future spirit-affliction
+  or ritual-healing group, but current evidence is single-occurrence and culturally
+  specific, so existing broad groups plus human review are safer.
+- Avoid treating idolatry labels as evidence of transmission; placement only reflects
+  motif function within the taxonomy.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended especially
+    for culturally specific illness and idolatry labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1439
+  input_sha256: b1c813c07d4771e0ef36a50bc07a55154327ef08aafc839e197a7f54d65741b5
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0123
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-care-for-exposed-dead
+  motif_id: ritual_care_for_exposed_dead
+  label: Ritual care for exposed dead
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Care for exposed dead fits burial or memorial rites that restore honor
+    and social order around the corpse.
+  cautions: Single occurrence; if not heroic or socially formal, ancestor_rites or
+    sacred_law may be better.
+  suggested_aliases:
+  - care_for_exposed_dead
+  - funerary_care_for_exposed_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-circling-of-the-dead
+  motif_id: ritual_circling_of_the_dead
+  label: ritual circling of the dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a mortuary gesture, but its function is unclear from
+    wording alone.
+  cautions: Could be corpse preparation, lament, purification, apotropaic boundary-making,
+    or a passage-specific ritual detail; source evidence is needed.
+  suggested_aliases:
+  - circumambulation_of_the_dead
+  - mortuary_circling_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-disposal-of-animal-parts-after-spouse-s-death
+  motif_id: ritual_disposal_of_animal_parts_after_spouse_s_death
+  label: ritual disposal of animal parts after spouse's death
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a culturally specific mortuary or mourning practice
+    involving animal remains.
+  cautions: Do not flatten without evidence; could involve spouse mourning, animal-soul
+    relations, taboo, offering, or ethnographic detail.
+  suggested_aliases:
+  - mortuary_disposal_of_animal_parts
+  - animal_parts_disposed_after_spouse_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-expulsion-of-evil-spirits-to-end-eclipse
+  motif_id: ritual_expulsion_of_evil_spirits_to_end_eclipse
+  label: Ritual expulsion of evil spirits to end eclipse
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The normalization already folds exorcism, spirit-expulsion, and communal
+    clearance rites under the ritual-expulsion complex in sacrifice.
+  cautions: Eclipse cosmology may also relate to sacred_time, cosmic_origin, or divine_intervention;
+    preserve the eclipse-specific evidence.
+  suggested_aliases:
+  - eclipse_ending_spirit_expulsion
+  - ritual_expulsion_to_end_eclipse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-harpooning-of-an-underworld-being
+  motif_id: ritual_harpooning_of_an_underworld_being
+  label: ritual harpooning of an underworld being
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual action, combat, and an underworld being, but
+    the narrative function is not clear.
+  cautions: Could fit descent, sacred_combat, sacrifice, exorcism, or a local shamanic
+    rite; human review should check source context.
+  suggested_aliases:
+  - harpooning_underworld_being
+  - ritual_combat_with_underworld_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-identification-with-deity-for-afterlife-benefit
+  motif_id: ritual_identification_with_deity_for_afterlife_benefit
+  label: Ritual identification with deity for afterlife benefit
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual identification with a deity to secure postmortem benefit fits
+    mapped afterlife passage, instruction, and transformation requirements.
+  cautions: May also touch resurrection or death_and_transformation if the ritual
+    identifies the deceased with a dying/restored deity.
+  suggested_aliases:
+  - deity_identification_for_afterlife
+  - ritual_assimilation_to_deity_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mourning-around-the-grave
+  motif_id: ritual_mourning_around_the_grave
+  label: Ritual mourning around the grave
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The focus is formalized grief at the burial place, matching lament and
+    mourning practices.
+  cautions: If the rite is primarily burial honor or memorial duty, heroic_funeral_rites
+    may be a secondary mapping.
+  suggested_aliases:
+  - grave_mourning_rite
+  - mourning_at_the_grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-preparation-of-the-corpse
+  motif_id: ritual_preparation_of_the_corpse
+  label: ritual preparation of the corpse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Corpse preparation is a funerary rite within the broader burial and memorialization
+    complex.
+  cautions: If not attached to a hero, ruler, or social-honor sequence, a future general
+    mortuary-rites group might be cleaner.
+  suggested_aliases:
+  - corpse_preparation_rite
+  - funerary_preparation_of_the_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-propriety-in-mourning-and-burial
+  motif_id: ritual_propriety_in_mourning_and_burial
+  label: Ritual propriety in mourning and burial
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The emphasis on propriety frames mourning and burial as regulated social-ritual
+    order.
+  cautions: Could also map to ancestor_rites or lament_and_mourning if the source
+    emphasizes care of the dead or grief expression over normative order.
+  suggested_aliases:
+  - proper_mourning_and_burial
+  - ritual_norms_for_mourning_and_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-rattle-associated-with-spirits-and-sickness
+  motif_id: ritual_rattle_associated_with_spirits_and_sickness
+  label: Ritual rattle associated with spirits and sickness
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates a ritual object used in spirit and illness contexts,
+    but its function is underspecified.
+  cautions: Could involve healing, spirit affliction, exorcism, sacred sound, shamanic
+    equipment, or a culturally specific object; review carefully before grouping.
+  suggested_aliases:
+  - spirit_sickness_rattle
+  - ritual_rattle_for_spirits_and_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence mortuary or ritual-practice labels; avoid promoting
+  them to taxonomy motifs without cross-source recurrence.
+- A general mortuary-rites group may eventually be useful, but this batch can mostly
+  be handled with existing funeral, mourning, afterlife, sacred-law, and ritual-expulsion
+  groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual items marked for
+    human review where function is unclear.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0123
+  input_sha256: e2bfdcee21971353891f5854c6510a4e03bc5089971aea71ead858ea483fc460
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1340
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cross-cultural-tale-transmission-and-rapid-local-adaptation
+  motif_id: cross_cultural_tale_transmission_and_rapid_local_adaptation
+  label: Cross-cultural tale transmission and rapid local adaptation
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes tale transmission and local adaptation, not a narrative
+    or symbolic motif within a source passage.
+  cautions: Preserve as provenance or scholarly context if useful; do not use as motif
+    evidence or contact proof.
+  suggested_aliases:
+  - tale_transmission_and_local_adaptation
+  - cross_cultural_transmission_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crowd-chooses-release-of-a-murderer-over-the-accused-innocent
+  motif_id: crowd_chooses_release_of_a_murderer_over_the_accused_innocent
+  label: Crowd chooses release of a murderer over the accused innocent
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene centers on wrongful collective judgment and moral inversion
+    around an innocent accused figure.
+  cautions: Could be too episode-specific; if indexed, preserve as evidence detail
+    rather than a broad canonical motif. May also relate to false accusation/vindication.
+  suggested_aliases:
+  - wrongful_release_over_innocent_accused
+  - collective_choice_against_the_innocent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crowning-after-overcoming-an-adversary
+  motif_id: crowning_after_overcoming_an_adversary
+  label: Crowning after overcoming an adversary
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Crowning after victory legitimizes authority through triumph over an
+    adversary.
+  cautions: If the crowning is metaphorical martyr vindication rather than rulership,
+    divine_judgment or resurrection may be secondary.
+  suggested_aliases:
+  - victory_crowning
+  - coronation_after_defeating_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cruel-elder-siblings-blind-and-abandon-the-youngest
+  motif_id: cruel_elder_siblings_blind_and_abandon_the_youngest
+  label: Cruel elder siblings blind and abandon the youngest
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core structure is sibling rivalry and harm within a sibling set,
+    fitting the sibling-pair complex better than general violence.
+  cautions: Highly specific and may be a folktale episode. If the focus is persecuted
+    youngest rather than sibling dyad, a broader persecuted-child/sibling-rivalry
+    group may be needed later.
+  suggested_aliases:
+  - elder_sibling_persecution_of_youngest
+  - sibling_blinding_and_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cruel-mistress-opposed-by-resistant-servant
+  motif_id: cruel_mistress_opposed_by_resistant_servant
+  label: Cruel mistress opposed by resistant servant
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social conflict, but its mythic function is unclear
+    from wording alone.
+  cautions: Could be a folktale social-order episode, moral reversal, trickster resistance,
+    or passage-specific plot detail. Do not map without source evidence.
+  suggested_aliases:
+  - resistant_servant_against_cruel_mistress
+  - servant_opposes_cruel_master
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cry-for-help-answered-by-royal-hunters
+  motif_id: cry_for_help_answered_by_royal_hunters
+  label: cry for help answered by royal hunters
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A rescue response by royal hunters may be plot mechanics rather than
+    a stable motif.
+  cautions: Could relate to divine_intervention only if supernatural guidance is present,
+    or royal_legitimacy if the rescuers’ royal role matters. Otherwise exclude as
+    episode detail.
+  suggested_aliases:
+  - rescue_by_royal_hunters
+  - cry_for_help_answered_by_hunters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cry-from-the-depths-and-hope-for-redemption
+  motif_id: cry_from_the_depths_and_hope_for_redemption
+  label: cry from the depths and hope for redemption
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The phrase uses depth/descent imagery as a condition of peril, repentance,
+    or hope for deliverance.
+  cautions: Do not treat as literal underworld descent unless the passage supports
+    it. Could instead fit sacred_exchange, covenant, or divine_judgment if framed
+    as penitential prayer.
+  suggested_aliases:
+  - cry_from_the_depths
+  - plea_from_depths_for_redemption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultural-transmission-influencing-mythology
+  motif_id: cultural_transmission_influencing_mythology
+  label: cultural transmission influencing mythology
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is an interpretive claim about transmission affecting mythology,
+    not an in-text motif.
+  cautions: Keep transmission claims outside motif normalization; preserve only as
+    scholarly annotation if needed.
+  suggested_aliases:
+  - mythology_influenced_by_cultural_transmission
+  - cultural_transmission_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cumulative-chain-of-reluctant-helpers
+  motif_id: cumulative_chain_of_reluctant_helpers
+  label: cumulative chain of reluctant helpers
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: A cumulative sequence of helpers is a recognizable tale structure, but
+    no existing group cleanly represents helper-chain structure.
+  cautions: May warrant a future folktale-structure/helper-chain group if recurrent;
+    avoid forcing into divine_intervention unless helpers are sacred or supernatural.
+  suggested_aliases:
+  - chain_of_reluctant_helpers
+  - cumulative_helper_chain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cumulative-exchange-chain-for-healing
+  motif_id: cumulative_exchange_chain_for_healing
+  label: cumulative exchange chain for healing
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a chain of exchanges that produces healing, fitting
+    reciprocity and sacred/social exchange.
+  cautions: If the healing depends on ritual medicine, spirit agency, or a folktale
+    cumulative structure, secondary review may shift placement to divine_intervention
+    or a future helper-chain group.
+  suggested_aliases:
+  - healing_through_exchange_chain
+  - cumulative_healing_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Two labels are clear meta-transmission artifacts and should be excluded from motif
+  pattern queries.
+- Several single-occurrence folktale-structure labels may need a future helper-chain
+  or social-conflict group if they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed for low-context, single-occurrence
+    folktale episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1340
+  input_sha256: c842f7aa5b467b212fcca3e08833c0597efc0c241f9cb431eba884abb48cd07d
+

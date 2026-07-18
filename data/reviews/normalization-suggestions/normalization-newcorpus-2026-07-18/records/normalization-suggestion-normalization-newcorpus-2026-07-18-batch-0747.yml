@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0747
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personified-frost-as-smith-and-rescuer
+  motif_id: personified_frost_as_smith_and_rescuer
+  label: personified frost as smith and rescuer
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: Frost as a smith suggests supernatural craft, but the rescue function
+    and elemental personification need source context.
+  cautions: Single occurrence; may instead belong under divine_intervention, sacred_fire's
+    elemental counterpart, or a future personified-nature group.
+  suggested_aliases:
+  - elemental smith rescuer
+  - personified frost
+  - supernatural smith rescuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-grief
+  motif_id: personified_grief
+  label: personified grief
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Grief personified belongs to the mourning and lament field as an embodied
+    expression of loss.
+  cautions: If Grief acts as an independent antagonist or household spirit, divine_intervention
+    or a spirit-affliction grouping may be more appropriate.
+  suggested_aliases:
+  - embodied grief
+  - grief as personified force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-ingredients-join-forces
+  motif_id: personified_ingredients_join_forces
+  label: Personified ingredients join forces
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates animated substances cooperating, but its narrative
+    function is unclear from wording alone.
+  cautions: Could be sacred_substance, sacred_craft, comic tale detail, charm formula,
+    or passage artifact; source evidence is needed.
+  suggested_aliases:
+  - animated ingredients cooperate
+  - personified substances join forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-landscape-as-witness-to-a-hidden-deed
+  motif_id: personified_landscape_as_witness_to_a_hidden_deed
+  label: Personified landscape as witness to a hidden deed
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A personified landscape witnessing hidden wrongdoing fits cosmic or sacred
+    witnesses to moral reckoning.
+  cautions: If the passage emphasizes landscape animation rather than judgment, cosmic_origin
+    or a personified-nature group may be secondary.
+  suggested_aliases:
+  - cosmic witness to hidden deed
+  - landscape witness
+  - personified earth as witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-longing-enters-the-heart
+  motif_id: personified_longing_enters_the_heart
+  label: personified longing enters the heart
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Longing entering the heart aligns with love or desire as an active transformative
+    force.
+  cautions: May be an over-specific poetic image unless it recurs as an agentive motif
+    across passages.
+  suggested_aliases:
+  - longing enters the heart
+  - embodied longing
+  - love-longing as invading force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-love-as-tormentor
+  motif_id: personified_love_as_tormentor
+  label: Personified Love as tormentor
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Love as an afflicting or tormenting force is already represented within
+    the sacred_love group.
+  cautions: If Love is a named deity acting in a distinct mythic episode, retain deity-specific
+    evidence rather than flattening to emotion symbolism.
+  suggested_aliases:
+  - love as affliction
+  - love as tormenting force
+  - personified desire tormentor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-luck-as-an-owned-and-locatable-being
+  motif_id: personified_luck_as_an_owned_and_locatable_being
+  label: Personified Luck as an owned and locatable being
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Personified Fortune and Misfortune
+  relationship: child
+  confidence: medium
+  rationale: Owned, locatable Luck is a personified fortune-being pattern not well
+    covered by fate, blessing, or divine intervention groups.
+  cautions: Single occurrence; review alongside misfortune labels before creating
+    a durable group.
+  suggested_aliases:
+  - personified luck
+  - owned luck being
+  - locatable fortune
+  suggested_new_group:
+    id: personified_fortune_misfortune
+    label: Personified Fortune and Misfortune
+    description: Luck, fortune, misfortune, poverty, grief, or affliction appears
+      as an embodied, locatable, transferable, attached, or agentive being affecting
+      a person or household.
+    parent_group_ids:
+    - divine_intervention
+    - fate_figures_cosmic_weaving
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover fate, blessing, judgment,
+      and spirit intervention, but not recurring embodied fortune or misfortune as
+      possessable or attached agents.
+- suggestion_id: normalization.suggestion.personified-misfortune-attached-to-a-household-or-person
+  motif_id: personified_misfortune_attached_to_a_household_or_person
+  label: Personified misfortune attached to a household or person
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Personified Fortune and Misfortune
+  relationship: child
+  confidence: medium
+  rationale: Misfortune as an attached personified agent matches a broader fortune/misfortune-being
+    complex.
+  cautions: Could overlap with spirit affliction, curse, or household haunting depending
+    on source evidence.
+  suggested_aliases:
+  - attached misfortune
+  - misfortune attached to household
+  - personified affliction
+  suggested_new_group:
+    id: personified_fortune_misfortune
+    label: Personified Fortune and Misfortune
+    description: Luck, fortune, misfortune, poverty, grief, or affliction appears
+      as an embodied, locatable, transferable, attached, or agentive being affecting
+      a person or household.
+    parent_group_ids:
+    - divine_intervention
+    - fate_figures_cosmic_weaving
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover fate, blessing, judgment,
+      and spirit intervention, but not recurring embodied fortune or misfortune as
+      possessable or attached agents.
+- suggestion_id: normalization.suggestion.personified-misfortune-clinging-to-a-human
+  motif_id: personified_misfortune_clinging_to_a_human
+  label: Personified misfortune clinging to a human
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Personified Fortune and Misfortune
+  relationship: child
+  confidence: medium
+  rationale: A clinging personified misfortune is a close variant of attached embodied
+    affliction or ill-luck.
+  cautions: If treated ritually as spirit contagion, sacred_law may be an alternate
+    placement; if exorcised, sacrifice/ritual_expulsion may be relevant.
+  suggested_aliases:
+  - clinging misfortune
+  - personified ill-luck clings to human
+  - attached ill-fortune
+  suggested_new_group:
+    id: personified_fortune_misfortune
+    label: Personified Fortune and Misfortune
+    description: Luck, fortune, misfortune, poverty, grief, or affliction appears
+      as an embodied, locatable, transferable, attached, or agentive being affecting
+      a person or household.
+    parent_group_ids:
+    - divine_intervention
+    - fate_figures_cosmic_weaving
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover fate, blessing, judgment,
+      and spirit intervention, but not recurring embodied fortune or misfortune as
+      possessable or attached agents.
+- suggestion_id: normalization.suggestion.personified-natural-and-elemental-domains
+  motif_id: personified_natural_and_elemental_domains
+  label: Personified natural and elemental domains
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: broader_label
+  confidence: low
+  rationale: This is a broad category-like label for personified nature rather than
+    a specific narrative function.
+  cautions: May need a future personified-nature group if many labels recur; otherwise
+    map individual instances by function such as divine_intervention, cosmic_origin,
+    sacred_waters, or sacred_fire.
+  suggested_aliases:
+  - personified elements
+  - personified natural domains
+  - animated nature domains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern personification rather than the review bucket's
+  love/family/body theme; review likely needs source evidence for agency and function.
+- Consider reviewing personified_luck and personified_misfortune items together; they
+  may justify a compact new group if additional occurrences appear.
+- Do not infer transmission or shared origin from the Slavic clustering of fortune/misfortune
+  personifications.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence personification labels
+    require passage-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0747
+  input_sha256: b8bf53e5b47af36922f0f88a6a08294113d98b8bb3321f0ca76fa30f222ce613
+

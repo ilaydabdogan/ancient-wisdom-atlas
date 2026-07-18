@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1111
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mistaken-monster-in-a-cave
+  motif_id: mistaken_monster_in_a_cave
+  label: mistaken monster in a cave
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines misrecognition, monster encounter, and cave setting;
+    function is unclear without passage evidence.
+  cautions: Could fit threshold_guardian, descent/cave, trickster deception, or an
+    episode-specific combat detail. Single occurrence; do not infer underworld descent
+    from cave alone.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-herd-boy-s-revenge-on-cruel-mistress
+  motif_id: mistreated_herd_boy_s_revenge_on_cruel_mistress
+  label: mistreated herd-boy's revenge on cruel mistress
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Revenge after mistreatment may be moral reversal, social conflict, or
+    folktale plot detail, but no existing group cleanly captures it.
+  cautions: Could relate to divine_judgment if morally framed, trickster if revenge
+    uses deception, or sacred_law if abuse of dependents is central. Single occurrence
+    and very contextual.
+  suggested_aliases:
+  - mistreated servant revenge
+  - servant revenge against cruel master
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-servant-or-herdsman-takes-magical-revenge
+  motif_id: mistreated_servant_or_herdsman_takes_magical_revenge
+  label: Mistreated servant or herdsman takes magical revenge
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This resembles the preceding mistreated-herdsman revenge pattern, but
+    magical means and moral framing require source review.
+  cautions: May belong with divine_judgment, curse_blessing_speech, trickster, or
+    a future revenge/social-reversal group if recurrent. Avoid promoting from one
+    occurrence.
+  suggested_aliases:
+  - mistreated servant revenge
+  - magical revenge by servant
+  - herdsman revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-combat-and-weapon-practice-competition
+  motif_id: mock_combat_and_weapon_practice_competition
+  label: mock combat and weapon-practice competition
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Weapon practice and mock combat are ritualized or competitive forms of
+    combat rather than actual warfare.
+  cautions: Confirm that the passage treats the practice as socially or ritually meaningful;
+    if merely descriptive training, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - ritual mock combat
+  - weapon practice competition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-epic-arming-of-warriors
+  motif_id: mock_epic_arming_of_warriors
+  label: mock-epic arming of warriors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'mock-epic' describes literary mode or parody rather than
+    a stable mythic motif.
+  cautions: If the passage evidence is an actual arming scene with ritual or heroic
+    function, review under divine_warrior or sacred_combat; as labeled, it is likely
+    a genre/commentary artifact.
+  suggested_aliases:
+  - parodic arming scene
+  - mock heroic arming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mockery-of-failed-heroic-prowess
+  motif_id: mockery_of_failed_heroic_prowess
+  label: Mockery of failed heroic prowess
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mockery following failed prowess fits humbling or failed heroic overconfidence
+    more than combat itself.
+  cautions: If the passage is chiefly a warrior honor episode, sacred_combat or divine_warrior
+    may be secondary. Single occurrence; preserve as evidence detail.
+  suggested_aliases:
+  - failed heroic prowess mocked
+  - humbling of failed warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.molten-idol-formation-and-communal-apostasy-as-a-test
+  motif_id: molten_idol_formation_and_communal_apostasy_as_a_test
+  label: Molten-idol formation and communal apostasy as a test
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif combines idol making, apostasy, and testing of communal loyalty,
+    crossing covenant, divine judgment, and idol categories.
+  cautions: The existing idol alias is already marked needs_human_review. Review religious
+    sensitivity and source context before mapping to covenant, divine_judgment, forbidden_knowledge,
+    or sacred_law.
+  suggested_aliases:
+  - communal apostasy test
+  - molten idol apostasy
+  - idol as covenant test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-blocked-by-narrow-cave-entrance-demands-food
+  motif_id: monster_blocked_by_narrow_cave_entrance_demands_food
+  label: monster blocked by narrow cave entrance demands food
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific monster-at-cave episode with unclear recurring
+    function.
+  cautions: Could involve threshold_guardian, cave/descent, trickster containment,
+    or food-demand coercion. Preserve as passage evidence unless similar monster-blocked-threshold
+    motifs recur.
+  suggested_aliases:
+  - monster blocked at cave entrance
+  - food-demanding cave monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-blood-destroys-the-weapon
+  motif_id: monster_blood_destroys_the_weapon
+  label: monster blood destroys the weapon
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A monster's destructive blood is a combat exploit detail within heroic
+    or sacred monster-slaying.
+  cautions: If the blood has independent sacred-substance or poison symbolism, secondary
+    review may be needed. Single occurrence and may be too granular for canonical
+    promotion.
+  suggested_aliases:
+  - corrosive monster blood
+  - monster blood ruins weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-body-part-used-as-proof-of-exploit
+  motif_id: monster_body_part_used_as_proof_of_exploit
+  label: Monster body part used as proof of exploit
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: The group already includes body-part trophies as proof of combat; this
+    is a close monster-slaying variant.
+  cautions: If the emphasis is social recognition rather than combat, recognition_tokens_hidden_identity
+    may be a secondary mapping.
+  suggested_aliases:
+  - body part trophy as proof
+  - monster trophy proof
+  - proof of exploit by severed body part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific conflict motifs;
+  prefer evidence preservation or human review unless an existing group has a clear
+  child/alias match.
+- Do not treat cave settings as descent/underworld motifs without evidence of threshold
+  passage, otherworld contact, or transformation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous revenge, idol/apostasy, and cave-monster labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1111
+  input_sha256: '07419eebc6499b79cdbc0294c2828be2a636559eaa50f4d4e5a6cb128e8b0d49'
+

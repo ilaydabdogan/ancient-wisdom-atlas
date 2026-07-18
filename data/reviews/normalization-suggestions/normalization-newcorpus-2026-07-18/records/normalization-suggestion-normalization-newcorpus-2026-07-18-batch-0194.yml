@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0194
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hospitality-to-the-unfed-traveler
+  motif_id: hospitality_to_the_unfed_traveler
+  label: Hospitality to the unfed traveler
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on feeding and receiving a traveler, matching the stranger-guest
+    hospitality complex.
+  cautions: Needs passage evidence that hospitality is tested, sacredly required,
+    or narratively consequential rather than a travel detail.
+  suggested_aliases:
+  - hospitality_to_traveler
+  - feeding_the_unfed_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-island-people-seize-a-ship-and-abandon-its-crew
+  motif_id: hostile_island_people_seize_a_ship_and_abandon_its_crew
+  label: Hostile island people seize a ship and abandon its crew
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: This may be a journey ordeal involving hostile strangers and abandonment,
+    but the label is highly episode-specific.
+  cautions: Could be a shipwreck/adventure detail, conflict episode, captivity motif,
+    or passage artifact; do not generalize without source context.
+  suggested_aliases:
+  - ship_seized_by_hostile_islanders
+  - crew_abandoned_after_ship_seizure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-foundation-through-bed-preparation-bride-arrival-and-ring-exchange
+  motif_id: household_foundation_through_bed_preparation_bride_arrival_and_ring_exchange
+  label: household foundation through bed preparation, bride arrival, and ring exchange
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: low
+  rationale: Bride arrival and ring exchange suggest marriage-household formation,
+    currently closest to sacred love or marriage-choice material.
+  cautions: May be a social/legal wedding detail rather than a sacred motif; if ritual
+    legitimacy is central, covenant or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - household_foundation_by_marriage_rite
+  - bride_arrival_and_ring_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol-worship-after-signs
+  motif_id: idol_worship_after_signs
+  label: Idol worship after signs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Idol worship after revealed signs frames transgression against divine
+    warning and often triggers moral reckoning.
+  cautions: Could also belong under covenant or sacred_law if the passage emphasizes
+    violation of revealed obligation; review sensitive theological wording.
+  suggested_aliases:
+  - idolatry_after_revealed_signs
+  - false_worship_after_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idolatry-as-powerless-false-worship
+  motif_id: idolatry_as_powerless_false_worship
+  label: idolatry as powerless false worship
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an evaluative theological claim about false worship rather
+    than a clear narrative action.
+  cautions: May be commentary, polemic, or doctrinal teaching; if retained, sacred_law,
+    covenant, or divine_judgment could be appropriate depending on evidence.
+  suggested_aliases:
+  - powerless_idols
+  - false_worship_of_idols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-conquest-vow-to-place-a-ruler-on-a-foreign-throne
+  motif_id: imperial_conquest_vow_to_place_a_ruler_on_a_foreign_throne
+  label: imperial conquest vow to place a ruler on a foreign throne
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is installing a ruler and legitimating foreign rule through
+    conquest and vow.
+  cautions: If the passage emphasizes warfare more than enthronement, sacred_combat
+    or divine_warrior may be secondary.
+  suggested_aliases:
+  - vow_to_install_foreign_ruler
+  - conquest_and_throne_installation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impermanence-of-pleasure-kingship-and-dwelling-places
+  motif_id: impermanence_of_pleasure_kingship_and_dwelling_places
+  label: impermanence of pleasure, kingship, and dwelling places
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Impermanence of royal and worldly enjoyments aligns with humbling reflection
+    on transient power and pleasure.
+  cautions: Could be wisdom teaching, lament, or philosophical commentary rather than
+    a narrative motif; review before indexing broadly.
+  suggested_aliases:
+  - transience_of_kingship_and_pleasure
+  - impermanence_of_worldly_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-or-perilous-mountain-crossing-enabled-by-special-horse-shoeing
+  motif_id: impossible_or_perilous_mountain_crossing_enabled_by_special_horse_shoeing
+  label: Impossible or perilous mountain crossing enabled by special horse-shoeing
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous mountain crossing enabled by special preparation functions
+    as a journey ordeal or quest obstacle.
+  cautions: Do not map to cosmic_mountain unless the mountain is a sacred axis or
+    revelation site; horseshoe detail may be over-specific evidence.
+  suggested_aliases:
+  - perilous_mountain_crossing
+  - special_horse_shoeing_for_mountain_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-vehicle-travels-faster-on-land-than-on-water
+  motif_id: impossible_vehicle_travels_faster_on_land_than_on_water
+  label: Impossible vehicle travels faster on land than on water
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: An impossible vehicle may be a wondrous crafted object enabling travel,
+    but the function is unclear.
+  cautions: Could fit sacred_treasures, divine_intervention, hero_journey, or be an
+    isolated marvel; source context needed before mapping.
+  suggested_aliases:
+  - wondrous_vehicle
+  - impossible_fast_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impregnable-metallic-fortress-as-quest-obstacle
+  motif_id: impregnable_metallic_fortress_as_quest_obstacle
+  label: impregnable metallic fortress as quest obstacle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The fortress functions as an obstacle in a quest sequence, fitting the
+    departure-trial-return journey complex.
+  cautions: If the fortress is a sacred crafted object, underworld threshold, or war
+    target, sacred_craft, threshold_guardian, or sacred_combat may be secondary.
+  suggested_aliases:
+  - impregnable_fortress_quest_obstacle
+  - metallic_fortress_obstacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, highly contextual journey labels; suggested
+  placements should be treated as provisional evidence-level mappings.
+- Idolatry labels require culturally sensitive human review because they may be theological
+  polemic or commentary rather than narrative motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0194
+  input_sha256: c95a120a0716d86a13b24285bdc7f5c7e8c50656b6e7bf3bf482ae040cd103ec
+

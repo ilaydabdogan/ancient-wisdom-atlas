@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0814
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.caged-bird-warning-against-entering-a-murderer-s-house
+  motif_id: caged_bird_warning_against_entering_a_murderer_s_house
+  label: caged bird warning against entering a murderer’s house
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The bird functions as a warning voice, but the label is highly scene-specific
+    and may be an episode detail rather than a durable motif.
+  cautions: Could fit animal helper, prophetic warning, enchanted captive, or storytelling
+    device depending on source context; no clean existing group covers it.
+  suggested_aliases:
+  - warning bird
+  - animal warning against danger
+  - caged bird as danger warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - prophecy_divination
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendar-shaped-dynastic-pattern
+  motif_id: calendar_shaped_dynastic_pattern
+  label: calendar-shaped dynastic pattern
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A dynasty patterned by calendrical structure plausibly belongs with sacred
+    time organizing social or political order.
+  cautions: May instead be a historiographic or source-structuring artifact rather
+    than a narrative motif; verify whether the calendar pattern is emic and mythic.
+  suggested_aliases:
+  - dynasty ordered by calendar
+  - calendrical kingship pattern
+  - calendar-based succession pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canine-epithet-or-dog-derived-affiliation
+  motif_id: canine_epithet_or_dog_derived_affiliation
+  label: canine epithet or dog-derived affiliation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an epithet or affiliation, not a narrative function
+    or symbolic action.
+  cautions: If the source shows dog kinship, totemic ancestry, shapeshifting, or canine
+    guardianship, preserve that evidence under a more specific motif rather than excluding
+    the passage.
+  suggested_aliases:
+  - dog epithet
+  - canine affiliation
+  - hound-derived name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-ogress-or-predator-lures-victims-to-animal-ambush
+  motif_id: cannibal_ogress_or_predator_lures_victims_to_animal_ambush
+  label: cannibal ogress or predator lures victims to animal ambush
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on predatory deception and luring victims into danger,
+    matching existing predator-deception children under trickster.
+  cautions: If the ogress is primarily a threshold monster or cannibal danger figure,
+    threshold_guardian may be a secondary fit; culturally specific being types should
+    not be flattened.
+  suggested_aliases:
+  - predator lures victims to ambush
+  - cannibal ogress lure
+  - deceptive predator ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-dangerous-animal-as-proof-for-restored-status
+  motif_id: captive_dangerous_animal_as_proof_for_restored_status
+  label: Captive dangerous animal as proof for restored status
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The captured animal functions as proof that restores identity, honor,
+    or status, aligning with identity proofs and recognition tokens.
+  cautions: If the focus is heroic capture or combat with the animal rather than proof,
+    sacred_combat or hero_journey may be better secondary mappings.
+  suggested_aliases:
+  - animal proof of status
+  - captured beast as identity proof
+  - dangerous animal as proof token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - hero_journey
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captives-held-as-caged-birds
+  motif_id: captives_held_as_caged_birds
+  label: Captives held as caged birds
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: symbolic_variant
+  confidence: low
+  rationale: This may be a metaphor for confinement rather than a distinct animal
+    or transformation motif.
+  cautions: Could fit imprisonment imagery, enchanted transformation, or passage-specific
+    poetic description; source wording is needed before indexing.
+  suggested_aliases:
+  - captives like caged birds
+  - caged-bird captivity image
+  - bird-cage imprisonment metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-animal-wind-used-as-weather-medicine
+  motif_id: captured_animal_wind_used_as_weather_medicine
+  label: captured animal wind used as weather medicine
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Weather medicine involving captured animal-wind suggests ritual weather
+    control, loosely related to rain or spirit coercion under sacred exchange.
+  cautions: Culturally sensitive ritual terminology needs human review; could require
+    a future weather-ritual group if similar labels recur.
+  suggested_aliases:
+  - animal wind medicine
+  - captured wind as ritual medicine
+  - weather medicine from animal wind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_substance
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrion-beasts-over-the-battlefield-slain
+  motif_id: carrion_beasts_over_the_battlefield_slain
+  label: carrion beasts over the battlefield slain
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Carrion animals over battlefield dead are battlefield aftermath imagery
+    tied to heroic warfare and death in combat.
+  cautions: May be poetic battle-description rather than a reusable motif; if treated
+    as omen, prophecy_divination or dream_and_vision may be secondary.
+  suggested_aliases:
+  - carrion beasts on battlefield
+  - battlefield carrion animals
+  - beasts over the battle-slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - death_by_fate
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrion-birds-as-battlefield-omens
+  motif_id: carrion_birds_as_battlefield_omens
+  label: Carrion birds as battlefield omens
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Carrion birds function as omens of battle death or outcome, fitting divinatory
+    signs of hidden or future events.
+  cautions: If the birds are simply battlefield imagery with no omen function, sacred_combat
+    is a better placement.
+  suggested_aliases:
+  - battlefield bird omen
+  - carrion bird omen
+  - birds of prey as war omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - death_by_fate
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrying-off-a-prized-animal-after-ravaging-war
+  motif_id: carrying_off_a_prized_animal_after_ravaging_war
+  label: carrying off a prized animal after ravaging war
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seizing a prized animal after war resembles cattle-raid or war-spoil
+    patterns already grouped under sacred combat.
+  cautions: If the animal is chiefly a sovereignty, abundance, or recognition object,
+    sacred_treasures or royal_legitimacy may be secondary; avoid over-reading from
+    one occurrence.
+  suggested_aliases:
+  - prized animal taken as war spoil
+  - animal seizure after war
+  - carrying off cattle or prized beast after raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - royal_legitimacy
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and animal-coded but functionally belong to
+  combat, omen, recognition, ritual weather, or textual/metaphoric categories rather
+  than a general animal motif.
+- Consider whether recurring animal-warning, animal-omen, or weather-ritual labels
+  warrant future subgroups; this batch alone is insufficient for promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion_model
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific ritual/weather terminology and metaphorical captivity labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0814
+  input_sha256: f714f473d1a1aaca538a4a8c60210da0ca8444ad3b5a792b0950766814a9fe40
+

@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1314
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.champion-volunteers-to-fight-in-place-of-commander
+  motif_id: champion_volunteers_to_fight_in_place_of_commander
+  label: Champion volunteers to fight in place of commander
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: A champion substituting for a commander is a martial role pattern within
+    heroic or sacred combat.
+  cautions: Single occurrence; if the passage emphasizes duty or self-sacrifice more
+    than combat structure, sacrifice or sacred_law may be secondary.
+  suggested_aliases:
+  - substitute_champion
+  - champion_fights_in_commander_s_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chance-selection-by-lots-in-a-helmet
+  motif_id: chance_selection_by_lots_in_a_helmet
+  label: Chance selection by lots in a helmet
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: low
+  rationale: Lot-casting is an established divinatory or decision procedure, even
+    if the helmet detail is local.
+  cautions: May be a mundane battlefield selection scene rather than sacred divination;
+    helmet detail is likely over-specific evidence.
+  suggested_aliases:
+  - selection_by_lots
+  - lot_casting_for_selection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chant-like-repetition-as-mythological-presentation
+  motif_id: chant_like_repetition_as_mythological_presentation
+  label: chant-like repetition as mythological presentation
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes presentation style or textual form rather than a
+    narrative motif.
+  cautions: If the chant itself is ritually efficacious in the passage, consider storytelling_as_power
+    or curse_blessing_speech instead.
+  suggested_aliases:
+  - chant_like_repetition
+  - repetitive_mythological_style
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.charioteer-as-decisive-martial-aid
+  motif_id: charioteer_as_decisive_martial_aid
+  label: charioteer as decisive martial aid
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: A charioteer functioning as decisive aid belongs to martial-support roles
+    within heroic combat.
+  cautions: If the charioteer gives divine counsel or revelation, divine_intervention
+    or sacred_knowledge may also be relevant.
+  suggested_aliases:
+  - decisive_charioteer_aid
+  - martial_charioteer_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.charm-uttered-with-accompanying-hand-gesture
+  motif_id: charm_uttered_with_accompanying_hand_gesture
+  label: Charm uttered with accompanying hand gesture
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: A spoken charm with gesture is a performative sacred utterance whose
+    efficacy lies in ritual speech and action.
+  cautions: If primarily protective or healing, sacred_law or divine_intervention
+    may be a secondary placement.
+  suggested_aliases:
+  - spoken_charm_with_gesture
+  - ritual_charm_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.charmed-or-treated-hunting-nets
+  motif_id: charmed_or_treated_hunting_nets
+  label: charmed or treated hunting nets
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate ritual technology, hunting magic, object treatment,
+    or ethnographic detail not covered cleanly by existing groups.
+  cautions: Culturally specific practice; source context is needed before mapping
+    to sacred_treasures, sacred_law, or curse_blessing_speech.
+  suggested_aliases:
+  - charmed_hunting_nets
+  - ritually_treated_nets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chaste-refusal-of-rescue-involving-unauthorized-touch
+  motif_id: chaste_refusal_of_rescue_involving_unauthorized_touch
+  label: chaste refusal of rescue involving unauthorized touch
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The refusal turns rescue into an issue of bodily purity, gendered obligation,
+    and social-religious norm.
+  cautions: Could also relate to sacred_love or chastity/virtue themes not yet represented
+    as a distinct group; review source sensitivity.
+  suggested_aliases:
+  - chaste_refusal_of_unauthorized_touch
+  - purity_norm_blocks_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chastity-defended-after-captivity
+  motif_id: chastity_defended_after_captivity
+  label: Chastity defended after captivity
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Defense of chastity after captivity centers on social-religious norms
+    of purity, honor, and conduct.
+  cautions: May need a future gendered chastity/virtue group if many similar labels
+    recur; avoid treating captivity alone as sacred_love.
+  suggested_aliases:
+  - chastity_after_captivity
+  - defense_of_purity_after_abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chief-invites-outsiders-to-destroy-his-own-village-or-people
+  motif_id: chief_invites_outsiders_to_destroy_his_own_village_or_people
+  label: Chief invites outsiders to destroy his own village or people
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A leader inviting destruction of his own people makes violated communal
+    trust the narrative engine.
+  cautions: Could be divine_judgment or punishment if framed as legitimate sanction;
+    Hopi source context should be reviewed carefully.
+  suggested_aliases:
+  - leader_betrays_own_people_to_outsiders
+  - chief_invites_destruction_of_village
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chief-punishes-his-own-people-through-an-outside-ambush
+  motif_id: chief_punishes_his_own_people_through_an_outside_ambush
+  label: Chief punishes his own people through an outside ambush
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe betrayal, communal punishment, political authority,
+    or moral judgment depending on source framing.
+  cautions: Needs source review to determine whether the chief acts as traitor, judge,
+    ritual agent, or episode-specific actor.
+  suggested_aliases:
+  - leader_punishes_people_by_outside_ambush
+  - chief_arranges_external_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several single-occurrence martial and social-order
+  labels may be episode-specific rather than durable motifs.
+- Do not infer transmission or shared origin from these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai
+  reviewed_at: ''
+  notes: Batch reviewed for provisional group placement only; human review recommended
+    for culturally specific Hopi and Australian Aboriginal items and gendered chastity/purity
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1314
+  input_sha256: 5b578c0d02187919b95178487b11ae0b7fac2f1c509512b1dd0ba403aa18b1e6
+

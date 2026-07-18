@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1160
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.substitute-warrior-wearing-the-champion-s-arms
+  motif_id: substitute_warrior_wearing_the_champion_s_arms
+  label: Substitute warrior wearing the champion's arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wearing another champion's arms functions as a visible identity substitution
+    or proof-token scene.
+  cautions: May be better under sacred_combat if the arms primarily matter as battlefield
+    equipment rather than hidden identity or recognition.
+  suggested_aliases:
+  - substitute warrior in champion's armor
+  - borrowed arms as identity disguise
+  - champion's arms as recognition token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substituted-hero-concealing-an-original-mythic-actor
+  motif_id: substituted_hero_concealing_an_original_mythic_actor
+  label: Substituted hero concealing an original mythic actor
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes source criticism or comparative reconstruction rather
+    than a narrative motif in the passage world.
+  cautions: If a story actually features a disguised or replacement hero, remap to
+    recognition_tokens_hidden_identity or hero_journey; avoid using this as transmission
+    evidence.
+  suggested_aliases:
+  - substituted hero as textual reconstruction
+  - original mythic actor concealed
+  - hero substitution as scholarly artifact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.subterranean-and-rock-dwelling-dwarfs
+  motif_id: subterranean_and_rock_dwelling_dwarfs
+  label: Subterranean and rock-dwelling dwarfs
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: Subterranean or rock-dwelling nonhuman beings fit an enchanted hidden
+    realm adjacent to ordinary reality.
+  cautions: If the dwarfs function mainly as smiths or makers, sacred_craft may be
+    a better or secondary mapping; if they guard thresholds, consider threshold_guardian.
+  suggested_aliases:
+  - rock-dwelling dwarfs
+  - subterranean dwarfs
+  - hidden under-earth dwarf realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-single-combat-challengers-defeated-by-one-champion
+  motif_id: successive_single_combat_challengers_defeated_by_one_champion
+  label: Successive single-combat challengers defeated by one champion
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on repeated formal single combats resolved by a dominant
+    champion, fitting the sacred/heroic combat group.
+  cautions: Could be a passage-specific battle sequence unless the combats are ritually
+    or narratively marked as trials of champion status.
+  suggested_aliases:
+  - successive challengers defeated by champion
+  - serial single combat victories
+  - champion defeats multiple challengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-single-combats-against-a-dominant-champion
+  motif_id: successive_single_combats_against_a_dominant_champion
+  label: Successive single combats against a dominant champion
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A sequence of single combats against a champion belongs with formal heroic
+    combat and ritualized warfare patterns.
+  cautions: Preserve whether the champion is divine, royal, or merely martial; divine_warrior
+    may be secondary if cosmic order is at stake.
+  suggested_aliases:
+  - serial duels against dominant champion
+  - successive challengers face champion
+  - repeated single combats with champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summons-to-imminent-battle
+  motif_id: summons_to_imminent_battle
+  label: summons to imminent battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A summons to battle functions as the initiating call for a martial ordeal
+    or ritualized conflict.
+  cautions: May be too generic if it is only a plot transition; if the summons is
+    prophetic or binding speech, prophecy_divination or curse_blessing_speech may
+    be relevant.
+  suggested_aliases:
+  - battle summons
+  - call to imminent combat
+  - martial summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.superhuman-battlefield-champion-withstands-weapons
+  motif_id: superhuman_battlefield_champion_withstands_weapons
+  label: superhuman battlefield champion withstands weapons
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: Withstanding weapons matches existing invulnerable or weapon-resistant
+    warrior variants in this group.
+  cautions: If no eventual vulnerability or exception is present, this may be broader
+    heroic prowess rather than conditional invulnerability.
+  suggested_aliases:
+  - weapon-resistant battlefield champion
+  - champion withstands weapons
+  - invulnerable warrior withstands weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.superhuman-strength-hero
+  motif_id: superhuman_strength_hero
+  label: Superhuman-strength hero
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A hero defined by extraordinary strength fits the heroic warrior role
+    when martial prowess is central.
+  cautions: This is broad and may not imply divinity or cosmic combat; consider hero_journey
+    if the strength matters mainly as part of a quest arc.
+  suggested_aliases:
+  - hero of superhuman strength
+  - extraordinarily strong hero
+  - mighty hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.superhuman-strength-proven-before-combat
+  motif_id: superhuman_strength_proven_before_combat
+  label: superhuman strength proven before combat
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pre-combat strength proof is a martial qualification scene leading
+    into heroic combat.
+  cautions: Could be a generic heroic-test motif; if the proof transforms status,
+    initiation may be a secondary mapping.
+  suggested_aliases:
+  - strength test before combat
+  - pre-combat proof of strength
+  - hero proves strength before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.superhuman-unarmed-warrior
+  motif_id: superhuman_unarmed_warrior
+  label: superhuman unarmed warrior
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: An unarmed warrior with superhuman capacity fits the exceptional sacred
+    or heroic warrior role.
+  cautions: If the key pattern is weapon resistance or impossible defeat, conditional_invulnerability_hidden_weakness
+    may be more precise; source context is needed.
+  suggested_aliases:
+  - unarmed superhuman warrior
+  - weaponless mighty warrior
+  - superhuman warrior without arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence martial scene details; map provisionally
+  to broad combat groups but avoid promoting them as canonical motifs without recurrence.
+- Distinguish battlefield role, formal single combat, invulnerability, and textual
+  reconstruction; these labels should not be merged solely because they occur in conflict
+  contexts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 1160.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1160
+  input_sha256: af9baa280878d662a4fd3e52a2d52a1c5a33ea12ee79fcdfe99449b92cfa57b3
+

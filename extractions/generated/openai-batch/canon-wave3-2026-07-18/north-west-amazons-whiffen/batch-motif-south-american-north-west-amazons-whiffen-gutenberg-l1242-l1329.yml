@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l1242-l1329
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: PLATE NO.                                                    FACING PAGE
+    / CHAPTER I / INTRODUCTORY / CHAPTER II; lines 1242-1329
+  start: '1242'
+  end: '1329'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the north-west Amazon environment: continual rainfall,
+    floods, humidity, storms, seasonal winds, whirlwinds, alluvial soil, dense vegetation,
+    decomposition, and natural processes that prevent stagnation and make the region
+    habitable.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Flooding is attributed to tremendous rainfall and very few dry days in the
+    year.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Daily storms may be preceded by a breeze and followed by a short deluge that
+    saturates belongings and vegetation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mist, heavy dew, lichens, and Hepaticæ are described as effects of constant
+    humidity and evaporation.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Electric storms include sharp thunder-showers and, on one occasion, an all-night
+    lightning display that drew the Indians' interest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Prevailing winds vary by season, and local whirlwinds can uproot trees and
+    destroy habitations.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Despite continual rain and humidity, the climate is described as not unhealthy
+    because evaporation brings fresh breezes that moderate temperature.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The soil is described as alluvial deposit from decomposed vegetable life,
+    with mud, humus, decaying wood, and almost no stone in the district.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Vegetable growth, evaporation, rain, inundations, and insects are said to
+    counter stagnation; corruption and purification are described as coexisting processes.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The narrator states that he did not hesitate to drink any water and knew of
+    no harmful result from water-drinking.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: First-person observer
+  description: The narrator observes weather, judges the Indians' reaction to lightning,
+    and reports drinking water without known ill effect.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Indians
+  description: A group described as showing interest in an unusual all-night lightning
+    display.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: observer-narrator
+  assigned_to:
+  - fig:1
+  basis: The passage uses first-person statements about observing temperature, judging
+    reactions, and drinking water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: interested witnesses to lightning
+  assigned_to:
+  - fig:2
+  basis: The Indians are said to have evinced interest during the unusual lightning
+    display.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water and rainfall
+  literal_form: floods, rain, dew, mist, rivers, inundations, and drinkable water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: lightning storm
+  literal_form: electric storm, thunder-shower, uninterrupted display of lightning
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wind and whirlwind
+  literal_form: preliminary breeze, prevailing winds, local whirlwinds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: alluvial mud and humus
+  literal_form: Pampean mud, vegetable mould, water-borne mud, dark humus, decaying
+    wood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: trees and vegetation
+  literal_form: leaves, trees, tree-trunks, great pall of vegetation, arboreal life
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Continual rain and saturation
+  summary: The passage describes a landscape where rain is frequent, floods are expected,
+    storms are short but drenching, and almost nothing becomes fully dry.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night-long lightning display
+  summary: An electric storm produces a prolonged display of lightning with little
+    or no thunder; the narrator treats the Indians' interest as evidence that it was
+    unusual.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Seasonal winds and destructive whirlwinds
+  summary: The passage lists prevailing wind directions by season and describes local
+    whirlwinds damaging forest, plantations, and houses.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Soil, vegetation, and purification processes
+  summary: The passage describes alluvial soil from decomposed vegetation and explains
+    that plant growth, rain, inundation, evaporation, and insects prevent stagnation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal alternation of wet and less-wet periods
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage distinguishes wetter months, a nominal dry season, expected storm
+    periods, and seasonal wind directions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a naturalistic climate description, not a mythic narrative of
+    seasonal transformation.
+- id: motif:2
+  label: flooded water-world with ecological renewal
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage links floods, rain, frequent inundations, and continual plant
+    succession with the region's habitability.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: low
+  cautions: The passage does not present a flood myth or cosmological renewal; the
+    link is ecological and descriptive.
+- id: motif:3
+  label: coexistence of decay and purification
+  taxonomy_refs: []
+  basis: The passage states that decomposition is continuous but is countered by vegetation,
+    evaporation, inundations, insects, and processes of purification.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an environmental pattern rather than an explicit symbolic or mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1242-1267
+  quote_or_summary: Rainfall is constant; dry weather is rare; storms bring short
+    deluges; saturation, mist, dew, lichens, and vegetation are described as pervasive.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1269-1278
+  quote_or_summary: Electric disturbances and thunder-showers are common; one all-night
+    lightning display with little or no thunder is described as unusual because the
+    Indians showed interest.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 1280-1288
+  quote_or_summary: Rain is preceded by a breeze and calm; seasonal wind directions
+    are listed; sudden local whirlwinds can uproot trees and destroy habitations.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1290-1299
+  quote_or_summary: The climate is described as not unhealthy despite humidity; evaporation
+    brings fresh breezes, while fever varies locally and can follow newly turned soil.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1301-1316
+  quote_or_summary: Amazonian basin soil is described as alluvial deposit from decomposed
+    vegetable life, with mud, humus, decaying wood, scarce stone, sandstone, clay,
+    and shingle strata.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 1318-1329
+  quote_or_summary: Ceaseless vegetable activity, evaporation, rain, inundations,
+    and insects counter stagnation; corruption and purification coexist; the narrator
+    reports drinking water without known harm.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is chiefly environmental and ethnographic rather than mythological.
+    Symbols and motifs are therefore recorded as literal environmental patterns with
+    cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparative mythological claim.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l1242-l1329
+  passage_sha256=4ea76b4ba6572b664ff4e26972bedf5b990a3fe42d666763da94da80b8f2c810
+

@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l13695-l13895
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'NOTES: / LIBER VI. / NOTES: / INDEX RERUM ET VERBORUM NOTATU DIGNIORUM.;
+    lines 13695-13895'
+  start: '13695'
+  end: '13895'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetic index section listing Latin names, places, cult terms, and
+    notable words from Ovid's Fasti, with book-and-line references. The excerpt contains
+    entries from pacales flammae through Syrtes and does not present a continuous
+    mythic narrative.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is arranged as an index of terms with book-and-line references
+    rather than as a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes entries for divine or mythic names such as Pales, Pallas
+    or Minerva, Pan, Parcae, Persephone, Quirinus, Romulus, Saturnus, Semele, and
+    Styx.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: The index includes ritual or calendar-related terms such as Palilia, pastoralia
+    sacra, Quinquatria, Rex sacrificulus, Salii, and Stultorum festa.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: obs:4
+  text: The index includes place names and geographical features such as Padus, Pelion,
+    Sacer mons, Samos, Rhenus, Rhodanus, Syracuse, and Syrtes.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: obs:5
+  text: 'The index includes fire-related entries: pacales flammae and Palilis flamma.'
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Pales
+  description: Named index entry with references to book IV.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Pallas / Minerva
+  description: Named index entry; Pallas is cross-referenced to Minerva, and signum
+    Minervae is also indexed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Pan
+  description: Named index entry with a reference to book II.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Parcae
+  description: Named index entry with a reference to book III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Persephone
+  description: Named index entry with a reference to book IV.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Quirinus
+  description: Named index entry with several references and epithets including Martigena
+    and trabeatus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Romulus
+  description: Named index entry with references to books I, III, and VI.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Saturnus
+  description: Named index entry with references to books I and IV.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Semele
+  description: Named index entry with references to books III and VI.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: indexed mythic or religious figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The passage lists these names as index entries with book-and-line references,
+    but it does not narrate their actions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire entries
+  literal_form: flammae / flamma
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mountain entries
+  literal_form: mons / colles / Pelion / Pangaea / Rhodope / Sacer mons
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: fig tree entry
+  literal_form: Rumina ficus
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: river and sea-place entries
+  literal_form: Padus, Rhenus, Rhodanus, Syrtes
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:7
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13695-13696
+  quote_or_summary: '"pacales flammae i, 719. / Pachyrios iv, 479."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 13697-13736
+  quote_or_summary: Index entries include Padus, Pales, Palilia, Palilis flamma, Palladium,
+    Pallas with cross-reference to Minerva, Pan, Parcae, Pergama, Persephone, Pelion,
+    and related names and terms.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 13737-13788
+  quote_or_summary: Index entries include figures and terms such as Phaedra, Phoebus,
+    Phryxus, Pleiades, Pollux, Pontificale, Priapus, Proca, Progne, Proteus, Pygmalion,
+    Pyrrhus, and Pythagoras Samius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 13790-13817
+  quote_or_summary: Index entries include Quirinus, Remus, Remuria, Rex nemorensis,
+    Rex sacrificulus, Rhea, Rhenus, Rhodanus, Romulus, Rubigo, Rumina ficus, and Rutuli.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 13845-13846
+  quote_or_summary: '"signa i, 2. iii, 44, 109. 650. iv, 7. v, 8, 130. / signum Minervae
+    vi, 421."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 13818-13866
+  quote_or_summary: Index entries include Sabini, Sacer mons, Salii, Saturnia, Saturnus,
+    Satyri, Semele, Sibylla, Sisyphus, Somnus, spina alba, strix, Stultorum festa,
+    Styx, and related names and terms.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 13867-13895
+  quote_or_summary: Index entries include geographical and ethnographic names such
+    as Samos, Scythae, Sidonii, Sigeum, Solymus, Sunion, Syracuse, Syri, and Syrtes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The excerpt is an index, so named figures and symbolic forms can be identified
+    as indexed terms, but no narrative scenes or motif candidates are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims are made because the passage itself does not support comparative interpretation beyond listing terms and references.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l13695-l13895
+  passage_sha256=a949fc8b06ffaa24e64e6100ddd5062b2380d1e17c5ab24616f6cdfcc31ddb5d
+

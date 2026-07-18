@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0706
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.father-son-reconciliation-through-a-mediating-brother
+  motif_id: father_son_reconciliation_through_a_mediating_brother
+  label: Father-son reconciliation through a mediating brother
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a specific family-reconciliation scene, but no existing
+    group clearly covers kin mediation apart from broader covenant or sacred exchange
+    themes.
+  cautions: Single occurrence and likely episode-specific; source context is needed
+    to know whether reconciliation has sacred, legal, or narrative-significance beyond
+    family plot resolution.
+  suggested_aliases:
+  - kin_reconciliation_by_mediator
+  - family_reconciliation_through_brother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatherless-mockery-leading-to-discovery-of-parentage
+  motif_id: fatherless_mockery_leading_to_discovery_of_parentage
+  label: Fatherless mockery leading to discovery of parentage
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mockery over fatherlessness triggers a quest or revelation of hidden
+    parentage, fitting identity proof and kinship recognition.
+  cautions: If the passage emphasizes threatened or destined childhood rather than
+    recognition, miraculous_child may be a secondary placement.
+  suggested_aliases:
+  - discovery_of_parentage
+  - hidden_parentage_revealed
+  - fatherlessness_leads_to_parentage_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.favored-child-and-sibling-hostility
+  motif_id: favored_child_and_sibling_hostility
+  label: favored child and sibling hostility
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sibling rivalry over favored status fits the sibling-pair conflict field
+    already grouped under sacred twins and sibling pairs.
+  cautions: This is broader family conflict, not necessarily twins or sacred siblings;
+    if the narrative centers on chosen destiny, miraculous_child or royal_legitimacy
+    may also be relevant.
+  suggested_aliases:
+  - sibling_hostility_to_favored_child
+  - favored_sibling_rivalry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.favored-child-and-sibling-jealousy
+  motif_id: favored_child_and_sibling_jealousy
+  label: favored child and sibling jealousy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: medium
+  rationale: Jealousy toward a favored child is a sibling-rivalry pattern, fitting
+    the sibling-pair conflict grouping.
+  cautions: Do not assume twin structure or sacred status from the label alone; source
+    evidence may point instead to prophetic destiny, divine judgment, or family ethics.
+  suggested_aliases:
+  - sibling_jealousy_of_favored_child
+  - favored_sibling_jealousy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.favored-child-persecuted-by-siblings-and-cast-into-a-pit
+  motif_id: favored_child_persecuted_by_siblings_and_cast_into_a_pit
+  label: favored child persecuted by siblings and cast into a pit
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core structure is sibling persecution of a favored child, a strong
+    sibling-rivalry pattern.
+  cautions: The pit may function as symbolic descent or death-threat, but do not map
+    to descent unless the passage treats it as transformative underworld-like entry.
+  suggested_aliases:
+  - favored_child_persecuted_by_siblings
+  - sibling_persecution_of_favored_child
+  - favored_child_cast_into_pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.favored-outsider-rewarded-with-wife-land-and-office
+  motif_id: favored_outsider_rewarded_with_wife_land_and_office
+  label: favored outsider rewarded with wife, land, and office
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reward with land and office integrates an outsider into sanctioned social
+    and political order, fitting legitimacy and status elevation.
+  cautions: The wife element may connect to bride reward or sacred_love, but the combined
+    reward package is likely courtly status legitimation; single occurrence may be
+    too specific.
+  suggested_aliases:
+  - outsider_rewarded_with_office_and_marriage
+  - outsider_elevated_by_marriage_land_and_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-servitude-in-a-bride-winning-approach
+  motif_id: feigned_servitude_in_a_bride_winning_approach
+  label: feigned servitude in a bride-winning approach
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bride-winning is already represented within sacred_love, and feigned
+    servitude is a courtship strategy within that pattern.
+  cautions: Could also involve trickster or hidden identity if disguise/deception
+    is central; preserve the servitude detail as granular evidence.
+  suggested_aliases:
+  - bride_winning_by_feigned_servitude
+  - disguised_servant_bride_winning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-personifications-of-virtues-uphold-the-tower
+  motif_id: female_personifications_of_virtues_uphold_the_tower
+  label: Female personifications of virtues uphold the tower
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may combine allegorical female personifications, virtue ethics,
+    and tower symbolism, but its narrative function is unclear.
+  cautions: Likely allegorical or visionary context; could fit sacred_law, sacred_knowledge,
+    axis_mundi, or textual allegory depending on passage evidence.
+  suggested_aliases:
+  - virtues_uphold_tower
+  - female_virtues_as_supporting_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - axis_mundi
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-relative-as-informant-of-a-wife-s-conduct
+  motif_id: female_relative_as_informant_of_a_wife_s_conduct
+  label: Female relative as informant of a wife's conduct
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a specific plot or social-role detail rather than a durable
+    symbolic or narrative motif.
+  cautions: If repeated across sources as surveillance, accusation, or marriage-test
+    structure, reconsider under sacred_law or betrayal_violated_trust; otherwise preserve
+    only as evidence detail.
+  suggested_aliases:
+  - relative_informs_on_wife
+  - wife_conduct_reported_by_female_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-barrier-crossed-to-win-a-bride
+  motif_id: fiery_barrier_crossed_to_win_a_bride
+  label: fiery barrier crossed to win a bride
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is a bride-winning ordeal, already within the sacred_love grouping;
+    the fiery barrier marks the perilous threshold of courtship.
+  cautions: If the fire functions primarily as divine presence, initiation ordeal,
+    or protective boundary, secondary mappings to sacred_fire or initiation may be
+    warranted.
+  suggested_aliases:
+  - bride_winning_through_fire
+  - fiery_threshold_to_bride
+  - perilous_barrier_to_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern family and courtship scenes that may be episode-specific;
+  preserve granular wording as evidence unless recurrence is demonstrated.
+- Sibling jealousy/persecution labels may eventually warrant a distinct sibling-rivalry
+  group if many non-twin examples recur, but current best fit is sacred_twins/sibling
+  pairs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review needed for culturally
+    specific family and allegorical contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0706
+  input_sha256: c27270a606601d057b842d1ee463a8bb45d972f7baf38eb3d2a679c766952a18
+

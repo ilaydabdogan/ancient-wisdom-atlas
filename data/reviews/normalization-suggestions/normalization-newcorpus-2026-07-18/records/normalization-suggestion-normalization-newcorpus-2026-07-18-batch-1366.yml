@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1366
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enchanted-other-country-as-offered-alternative
+  motif_id: enchanted_other_country_as_offered_alternative
+  label: enchanted other-country as offered alternative
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: An enchanted alternative country fits the otherworld/enchanted realm
+    complex, especially in Celtic material.
+  cautions: Single occurrence; verify whether it is a true otherworld offer rather
+    than an ordinary exile, political refuge, or episode-specific place detail.
+  suggested_aliases:
+  - enchanted other-country
+  - offered otherworld alternative
+  - enchanted alternative realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-restorative-sleep
+  motif_id: enchanted_restorative_sleep
+  label: enchanted restorative sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: Restorative enchanted sleep may function as a temporary death-like suspension
+    followed by renewal or healing.
+  cautions: Could instead be magical healing, fairy enchantment, or plot device; do
+    not equate sleep with death/rebirth unless restoration or transformation is explicit.
+  suggested_aliases:
+  - restorative enchanted sleep
+  - magical restorative sleep
+  - sleep as restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-sleep-causing-lost-time
+  motif_id: enchanted_sleep_causing_lost_time
+  label: Enchanted sleep causing lost time
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enchanted sleep with lost time often marks contact with an otherworldly
+    or nonordinary realm where time behaves differently.
+  cautions: If no enchanted realm or supernatural encounter is present, it may be
+    a sleep-enchantment or time-slip detail needing review.
+  suggested_aliases:
+  - lost time through enchanted sleep
+  - supernatural sleep time loss
+  - enchanted sleep time slip
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanting-music-that-heals-or-soothes-listeners
+  motif_id: enchanting_music_that_heals_or_soothes_listeners
+  label: enchanting music that heals or soothes listeners
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing group explicitly covers music or sound acting as supernatural
+    force, including emotional or bodily effects.
+  cautions: Preserve the healing/soothing function; do not collapse into sacred_song
+    unless the passage emphasizes devotional or wisdom transmission.
+  suggested_aliases:
+  - healing music
+  - soothing enchanted music
+  - music that heals listeners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encircling-barrier-preventing-escape
+  motif_id: encircling_barrier_preventing_escape
+  label: encircling barrier preventing escape
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a boundary function, but the agent and symbolic role
+    are unclear from the label alone.
+  cautions: Could be magical containment, siege tactic, ritual boundary, threshold
+    ordeal, or episode-specific obstacle; needs source context before placement.
+  suggested_aliases:
+  - magical encircling barrier
+  - barrier preventing escape
+  - containing boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enclosed-treasure-breached-by-thieves
+  motif_id: enclosed_treasure_breached_by_thieves
+  label: Enclosed treasure breached by thieves
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: low
+  rationale: The motif centers on a treasure object or hoard and its protected enclosure
+    being violated.
+  cautions: May be a theft/adventure plot detail rather than a sacred power object;
+    if treasure lacks supernatural authority or ritual value, exclude or review as
+    over-specific.
+  suggested_aliases:
+  - breached treasure enclosure
+  - stolen enclosed treasure
+  - protected treasure violated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-signaled-by-shoreline-lament
+  motif_id: encounter_signaled_by_shoreline_lament
+  label: Encounter signaled by shoreline lament
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The salient sign is a lament, a grief-expression that announces or frames
+    the encounter.
+  cautions: Shoreline may indicate a threshold or otherworld boundary; review whether
+    the encounter function is more important than the lament signal.
+  suggested_aliases:
+  - shoreline lament signal
+  - lament announcing encounter
+  - encounter marked by lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-forest-guardian
+  motif_id: encounter_with_a_forest_guardian
+  label: Encounter with a forest guardian
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: A guardian figure encountered in a forest functions as a boundary or
+    trial figure to be confronted before passage or success.
+  cautions: If the figure is primarily a monster opponent or tutelary spirit rather
+    than a threshold keeper, divine_warrior or divine_intervention may be secondary.
+  suggested_aliases:
+  - forest guardian encounter
+  - guardian of the forest
+  - liminal forest guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-goblins
+  motif_id: encounter_with_goblins
+  label: encounter with goblins
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: Goblins are nonordinary beings often tied to enchanted or otherworldly
+    encounter settings.
+  cautions: The label is creature-only and broad; if the goblins function as tricksters,
+    guardians, or attackers, a more specific functional mapping may be better.
+  suggested_aliases:
+  - goblin encounter
+  - encounter with otherworld beings
+  - encounter with enchanted beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-phantoms
+  motif_id: encounter_with_phantoms
+  label: Encounter with phantoms
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: Phantom encounters plausibly belong with active dead, haunting, or revenant
+    appearances.
+  cautions: If phantoms are illusions, fairy apparitions, or dream figures rather
+    than the dead, otherworld or dream_and_vision may be more accurate.
+  suggested_aliases:
+  - phantom encounter
+  - encounter with apparitions
+  - encounter with revenant figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should remain provisional until source
+  passages confirm narrative function.
+- For enchanted sleep labels, distinguish otherworld time distortion, healing sleep,
+  death-like suspension, and ordinary plot device.
+- 'Creature-only encounter labels should be reviewed for function: guardian, trickster,
+  hostile monster, dead/revenant, or generic otherworld being.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1366
+  input_sha256: 4bb84a813b0af52d2b52843b3834fa35a9f80251aa3e0d62350c53ffbbbb6700
+

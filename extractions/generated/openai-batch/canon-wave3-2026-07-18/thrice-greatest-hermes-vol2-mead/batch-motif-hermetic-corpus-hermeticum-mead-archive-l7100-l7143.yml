@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l7100-l7143
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE KEY / THE KEY 143 / THE KEY 145 / VOL. II. 10; lines 7100-7143
+  start: '7100'
+  end: '7143'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: the virtue of the soul is Gnosis
+  summary: The passage contrasts the vicious soul, whose ignorance leads it away from
+    deathlessness and the Good toward lower embodied forms, with the soul’s virtue,
+    Gnosis. It describes ignorance as blindness and subjection to bodily passions,
+    while the knower is called good, pious, and divine on earth. A brief dialogue
+    has Tat ask who such a person is, and Hermes begins to answer.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A soul entering the body of a man and persisting in vice does not taste deathlessness
+    or share in the Good.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same vicious soul is said to speed back and turn into a path that leads
+    to creeping things; this is called its sentence.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies the soul’s vice as ignorance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A soul without knowledge of the things that are, their nature, or the Good
+    is described as blinded by the body’s passions and tossed about.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ignorant soul becomes a slave of strange-form bodies, bears the body as
+    a load, and is ruled rather than ruling.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage identifies the soul’s virtue as Gnosis.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The one who knows is described as good, pious, and divine while still on earth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Tat asks who such a person is, and Hermes answers that he does not say much
+    or lend his ear to much; the passage then begins a warning about spending time
+    in argument and hearing arguments.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the soul
+  description: A soul discussed in relation to vice, ignorance, embodiment, and possible
+    failure to share in deathlessness and the Good.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hermes / Her.
+  description: The speaker who answers Tat’s question about the person who knows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Tat / TaL
+  description: The questioner who asks, “who is such an one, father mine?”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the one who knows
+  description: A person possessing knowledge, described as good, pious, and divine
+    while on earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: vicious or ignorant soul
+  assigned_to:
+  - fig:1
+  basis: The soul is described as persisting in vice, lacking knowledge, being blinded
+    by bodily passions, and becoming ruled by bodies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: knower possessing Gnosis
+  assigned_to:
+  - fig:4
+  basis: The passage says the virtue of the soul is Gnosis and describes the one who
+    knows as good, pious, and divine on earth.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: answering teacher
+  assigned_to:
+  - fig:2
+  basis: Hermes answers Tat’s question about who the knowing person is.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: questioner
+  assigned_to:
+  - fig:3
+  basis: Tat asks who such a person is and addresses the respondent as father.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: path to creeping things
+  literal_form: A path that leads to creeping things.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: body as load
+  literal_form: The soul bearing the body as a load.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sentence of the vicious soul
+  summary: A soul that enters a human body and persists in vice fails to taste deathlessness
+    or share the Good, then turns back toward a path leading to creeping things.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ignorance and bodily subjection
+  summary: Ignorance is named as the soul’s vice; the ignorant soul is blinded by
+    bodily passions, tossed about, enslaved to strange-form bodies, and burdened by
+    the body.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gnosis and the knower
+  summary: Gnosis is named as the soul’s virtue. The knower is called good, pious,
+    and divine on earth, and Tat asks Hermes who such a person is.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Vicious soul diverted toward lower embodied forms
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes a soul persisting in vice as failing to share deathlessness
+    and turning back toward a path that leads to creeping things.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief path image and does not provide a full
+    afterlife map; the exact mechanics of the soul’s return are not elaborated in
+    this excerpt.
+- id: motif:2
+  label: Ignorance as bondage of the soul
+  taxonomy_refs:
+  - wisdom
+  basis: Ignorance is named as the soul’s vice, causing blindness through bodily passions
+    and subjection to strange-form bodies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a doctrinal pattern rather than a fully narrated mythic episode.
+- id: motif:3
+  label: Gnosis as soul’s virtue and earthly divinization
+  taxonomy_refs:
+  - wisdom
+  basis: The passage names Gnosis as the virtue of the soul and describes the one
+    who knows as good, pious, and divine while on earth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the pattern directly but does not develop it into a
+    narrative sequence.
+- id: motif:4
+  label: Restraint from disputation as mark of the knower
+  taxonomy_refs:
+  - wisdom
+  basis: Hermes begins to define the knowing person as one who does not say much or
+    listen to much, contrasting this with time spent in arguments.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The sentence about argument continues beyond the supplied passage, so
+    the extracted motif is limited to the visible portion.
+comparison_claims:
+- id: claim:1
+  claim: A footnote in the passage links the statement that the soul’s vice is ignorance
+    with nearby Hermetic formulations describing the soul’s great ill as godlessness
+    and lack of piety as severe chastisement.
+  claim_level: same_function
+  target: C.H. xii (xiii.) 3 and below §20, as cited in the passage footnote
+  evidence_refs:
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the passage’s note, not by a developed
+    parallel in the main discourse. The terms ignorance, godlessness, and lack of
+    piety are related by function in the note but are not identical wording.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7100-7143, §8
+  quote_or_summary: A soul entering a man’s body and persisting in vice neither tastes
+    deathlessness nor shares the Good; it speeds back and turns into the path leading
+    to creeping things, described as the sentence of the vicious soul.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7100-7143, §8
+  quote_or_summary: The soul’s vice is ignorance; the soul lacking knowledge of what
+    is, of nature, and of the Good is blinded by bodily passions and tossed about.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7100-7143, §8
+  quote_or_summary: The ignorant soul is described as a slave of strange-form bodies,
+    bearing the body as a load and being ruled rather than ruling.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 7100-7143, §9
+  quote_or_summary: "“the virtue of the soul is Gnosis”; the one who knows is described
+    as good, pious, and divine while still on earth."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 7100-7143, §9
+  quote_or_summary: Tat asks who such a person is; Hermes answers that he does not
+    say much or lend his ear to much, and the passage begins a statement about spending
+    time in arguments and hearing arguments.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: note
+  locator: lines 7100-7143, footnote to §8
+  quote_or_summary: The note compares this discussion with C.H. xii (xiii.) 3, “The
+    great ill of the soul is Godlessness,” and with a later statement that lack of
+    piety is a great chastisement of the human soul.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; brief quotation from note used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main doctrinal contrasts are explicit. Confidence is reduced by OCR artifacts,
+    a fragmentary opening, and a sentence that continues beyond the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. Taxonomy references are limited to the provided motif-family list; no available symbol taxonomy was applied.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l7100-l7143
+  passage_sha256=97028e167da56eb0398a84af9d89a2fb91c6c50163fcbcca98b910bc1ddfa999
+

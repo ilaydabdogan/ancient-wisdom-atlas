@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1629
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.universal-subjection-to-fate-and-the-fruits-of-deeds
+  motif_id: universal_subjection_to_fate_and_the_fruits_of_deeds
+  label: universal subjection to fate and the fruits of deeds
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The label centers on universal fate and karmic consequences, fitting
+    the existing fate/destiny group at a broad thematic level.
+  cautions: If the passage emphasizes moral causality or karma rather than death specifically,
+    divine_judgment or sacred_law may be a better secondary placement.
+  suggested_aliases:
+  - fate_and_fruits_of_deeds
+  - karma_and_fate
+  - universal_subjection_to_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unlettered-revealer-and-miraculous-book-authentication-claim
+  motif_id: unlettered_revealer_and_miraculous_book_authentication_claim
+  label: Unlettered revealer and miraculous book-authentication claim
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif concerns revelation, sacred text, and authentication of divine
+    knowledge, but the generated wording is doctrinally specific.
+  cautions: Culturally sensitive and source-dependent; review whether this is a narrative
+    motif, theological claim, or passage-specific apologetic statement before mapping.
+  suggested_aliases:
+  - unlettered_revealer
+  - miraculous_book_authentication
+  - revelation_authenticated_by_unlettered_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unlikely-poor-suitor-relies-on-ingenuity
+  motif_id: unlikely_poor_suitor_relies_on_ingenuity
+  label: unlikely poor suitor relies on ingenuity
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: A suitor using ingenuity in courtship loosely fits the existing marriage-choice
+    and bride-winning material under sacred_love.
+  cautions: May be a folktale plot detail rather than a sacred motif; if ingenuity
+    or trickery is primary, trickster may be relevant.
+  suggested_aliases:
+  - poor_suitor_wins_by_ingenuity
+  - unlikely_suitor
+  - ingenious_bride_winning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unloosenable-bonds-that-tighten-when-handled
+  motif_id: unloosenable_bonds_that_tighten_when_handled
+  label: Unloosenable bonds that tighten when handled
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a magical or power-bearing object whose binding effect
+    controls the victim.
+  cautions: If the bonds function as a geis, curse, or oath-binding rather than an
+    object, curse_blessing_speech may be a better placement.
+  suggested_aliases:
+  - magical_bonds
+  - self_tightening_bonds
+  - unbreakable_binding_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unlucky-day-prohibitions
+  motif_id: unlucky_day_prohibitions
+  label: Unlucky-day prohibitions
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The existing sacred_time group already includes auspicious and inauspicious
+    calendar days governing actions.
+  cautions: If the emphasis is legal taboo rather than calendrical sacred time, sacred_law
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - inauspicious_day_prohibitions
+  - unlucky_calendar_days
+  - calendar_taboo_days
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unmotivated-annihilation-of-royal-kin
+  motif_id: unmotivated_annihilation_of_royal_kin
+  label: Unmotivated annihilation of royal kin
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves violence against royal kin, but its narrative function
+    is unclear without source context.
+  cautions: May be an episode-specific massacre, dynastic feud, fate motif, or textual
+    artifact; do not map to sacred combat unless warfare or ritualized violence is
+    evident.
+  suggested_aliases:
+  - annihilation_of_royal_kin
+  - slaughter_of_royal_family
+  - royal_kin_massacre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unnoticed-manuscript-brought-into-scholarly-circulation
+  motif_id: unnoticed_manuscript_brought_into_scholarly_circulation
+  label: unnoticed manuscript brought into scholarly circulation
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes manuscript discovery or scholarly circulation rather than
+    a narrative or symbolic motif.
+  cautions: Preserve for provenance or textual history, but exclude from motif pattern
+    queries.
+  suggested_aliases:
+  - manuscript_discovery_history
+  - scholarly_circulation_of_manuscript
+  - textual_provenance_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unpredictable-grace-overriding-visible-merit-or-effort
+  motif_id: unpredictable_grace_overriding_visible_merit_or_effort
+  label: Unpredictable grace overriding visible merit or effort
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The theme fits mystical transformation where divine grace exceeds ordinary
+    discipline or visible effort.
+  cautions: This may be a theological teaching rather than a narrative motif; if framed
+    as instruction, sacred_knowledge may be a secondary placement.
+  suggested_aliases:
+  - grace_over_merit
+  - unpredictable_divine_grace
+  - grace_beyond_effort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unreckonable-mass-slaughter
+  motif_id: unreckonable_mass_slaughter
+  label: unreckonable mass slaughter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Mass slaughter may belong with battle or sacred combat, but the label
+    gives only scale, not motif function.
+  cautions: Could be a descriptive battle detail rather than a reusable motif; source
+    context needed before indexing.
+  suggested_aliases:
+  - immeasurable_slaughter
+  - countless_battle_dead
+  - mass_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-supernatural-dancers-attacked-by-humans
+  motif_id: unrecognized_supernatural_dancers_attacked_by_humans
+  label: unrecognized supernatural dancers attacked by humans
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The motif involves human misrecognition of supernatural beings, but the
+    function of the attack is unclear from the label.
+  cautions: Culturally sensitive; may involve ceremonial beings or sacred performance.
+    Review source evidence before mapping to divine_intervention, theophany, or sacred_combat.
+  suggested_aliases:
+  - humans_attack_unrecognized_supernatural_beings
+  - misrecognized_supernatural_dancers
+  - attack_on_sacred_dancers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; preserve generated specificity
+  as evidence notes rather than promoting to taxonomy motifs.
+- Review culturally specific theological or ceremonial labels before broad indexing,
+  especially Islamic revelation claims and Hopi supernatural dancers.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions only; human taxonomy review recommended for ambiguous and
+    culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1629
+  input_sha256: bdc166049dd940f48ed26742d3d1aa6842bc1966480537bd72daa2f2958e8a9c
+

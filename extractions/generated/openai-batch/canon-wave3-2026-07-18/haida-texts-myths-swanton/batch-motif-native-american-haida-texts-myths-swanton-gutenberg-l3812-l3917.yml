@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l3812-l3917
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: THE CANOE PEOPLE WHO WEAR HEADDRESSES / THE GIRL WHO FED A RAVEN / SOUNDING-GAMBLING-STICKS
+    / STORY OF THE FOOD-GIVING-TOWN PEOPLE; lines 3812-3917
+  start: '3812'
+  end: '3917'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Haida-language passage spanning four titled short narratives. The supplied
+    locator names the narratives as concerning canoe people wearing headdresses, a
+    girl feeding a raven, sounding gambling sticks, and food-giving-town people. The
+    passage itself includes multiple named places or groups, repeated quoted speech
+    formulas, and named entities, but no English translation is supplied for the line
+    range.
+  language: Haida, Skidegate dialect, transcribed in Latin script
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied passage label lists four narrative titles in this line range.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One title names canoe people who wear headdresses.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One title names a girl who fed a raven.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: One title names sounding gambling sticks.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: One title names food-giving-town people.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The passage includes named town or place forms including Qāłgui lnagā-i and
+    Sqēna lnagā-i.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:7
+  text: A quoted utterance beginning “Gatꜝag̣a′-i īnᴀ′ñgī g̣astî′ñ” is repeated several
+    times in the passage.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage includes the named form Daiyū′-ał-lā′nas.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: canoe people who wear headdresses
+  description: Group named in the supplied title label.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: girl who fed a raven
+  description: Female figure named in the supplied title label as feeding a raven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: raven
+  description: Animal recipient named in the supplied title label.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: food-giving-town people
+  description: Group named in the supplied title label.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Daiyū′-ał-lā′nas
+  description: Named form appearing in the passage; specific identity is not translated
+    in the supplied text.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: headdress-wearing canoe group
+  assigned_to:
+  - fig:1
+  basis: The supplied title identifies the group as canoe people who wear headdresses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: feeder
+  assigned_to:
+  - fig:2
+  basis: The supplied title identifies the girl as the one who fed a raven.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fed animal recipient
+  assigned_to:
+  - fig:3
+  basis: The supplied title identifies the raven as the recipient of feeding.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: food-giving group
+  assigned_to:
+  - fig:4
+  basis: The supplied title identifies these people with a food-giving town.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: named passage entity
+  assigned_to:
+  - fig:5
+  basis: The named form Daiyū′-ał-lā′nas appears in the passage, but the supplied
+    text gives no English gloss in this extract.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe, named in the title phrase “canoe people”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: headdresses
+  literal_form: headdresses worn by the canoe people in the supplied title
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: raven
+  literal_form: raven named in the supplied title
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: gambling sticks
+  literal_form: sounding gambling sticks named in the supplied title
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: food-giving town
+  literal_form: food-giving town named in the supplied title
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Canoe people wearing headdresses
+  summary: The supplied title identifies a narrative unit centered on canoe people
+    who wear headdresses.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Girl feeds a raven
+  summary: The supplied title identifies a narrative unit in which a girl fed a raven.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Sounding gambling sticks
+  summary: The supplied title identifies a narrative unit centered on sounding gambling
+    sticks.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:4
+  label: Food-giving-town people
+  summary: The supplied title identifies a narrative unit concerning people associated
+    with a food-giving town.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:5
+  label: Repeated quoted formula
+  summary: Within the Haida text, a quoted utterance beginning “Gatꜝag̣a′-i īnᴀ′ñgī
+    g̣astî′ñ” is repeated.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: feeding or gift to an animal
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The supplied title states that a girl fed a raven; this supports a broad
+    exchange or gift motif only at title level.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage excerpt is not translated into English, so the social or sacred
+    status of the feeding act cannot be confirmed from the supplied text.
+- id: motif:2
+  label: food-giving community
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The supplied title names food-giving-town people, suggesting a narrative
+    focus on giving food.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the title-level description is available in English; no detailed
+    translated episode is supplied.
+- id: motif:3
+  label: ritual or game object that sounds
+  taxonomy_refs: []
+  basis: The supplied title names sounding gambling sticks, indicating a narrative
+    focus on an audible game object.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The function and narrative significance of the gambling sticks cannot
+    be determined from the untranslated passage.
+- id: motif:4
+  label: distinctive headdress-wearing boat people
+  taxonomy_refs: []
+  basis: The supplied title names canoe people who wear headdresses.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: No translated action or wider symbolic context for the canoe people or
+    headdresses is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The title-level emphasis on feeding a raven and on food-giving-town people
+    supports a cautious functional comparison with broad gift or exchange motifs.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The supplied passage is not translated; the comparison rests on English
+    title labels rather than a translated narrative sequence.
+evidence:
+- id: ev:1
+  type: citation
+  locator: 3812-3917; supplied passage label
+  quote_or_summary: 'Passage label: “THE CANOE PEOPLE WHO WEAR HEADDRESSES / THE GIRL
+    WHO FED A RAVEN / SOUNDING-GAMBLING-STICKS / STORY OF THE FOOD-GIVING-TOWN PEOPLE.”'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:2
+  type: quote
+  locator: 3812-3823
+  quote_or_summary: "“Qā′łgui lnagā′-i” appears in the Haida passage."
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:3
+  type: quote
+  locator: 3838-3851
+  quote_or_summary: The quoted formula “Gatꜝag̣a′-i īnᴀ′ñgī g̣astî′ñ” appears repeatedly.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:4
+  type: quote
+  locator: 3854-3863
+  quote_or_summary: The passage includes “Daiyū′-ał-lā′nas” and “Sqē′na lnagā′-i.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:5
+  type: quote
+  locator: 3864-3874
+  quote_or_summary: The passage includes the named form “Sg̣ā′na-sa′nʟ̣ina-stᴀ′nsîns.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:6
+  type: quote
+  locator: 3875-3888
+  quote_or_summary: The passage includes the quoted utterance “Adā′adaga-i g̣a-ix̣i′dᴀñ.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain according to supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Extraction is constrained because the supplied passage text is Haida transcription
+    without an English translation. Figures, scenes, and motifs are therefore mostly
+    limited to the English title labels and surface textual features.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include canoe, raven, headdress, gambling sticks, food, or town. Motif refs to sacred_exchange are tentative and title-based.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l3812-l3917
+  passage_sha256=7e2ff5f55be4450a02501105b2323eddb1ea5336a36dba0a84fb4f38bc3f2943
+

@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0006
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ancestral-migration-or-former-dwelling-traditions
+  motif_id: ancestral_migration_or_former_dwelling_traditions
+  label: ancestral migration or former dwelling traditions
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe origin traditions, migration memory, or ethnographic
+    commentary rather than a specific mythic motif.
+  cautions: Single occurrence; needs passage evidence to distinguish ancestral origin,
+    journey, place-memory, or textual/ethnographic artifact.
+  suggested_aliases:
+  - ancestral migration traditions
+  - former dwelling traditions
+  - ancestral dwelling memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-myth-as-prophecy-of-later-history
+  motif_id: ancestral_myth_as_prophecy_of_later_history
+  label: ancestral myth as prophecy of later history
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on ancestral narrative functioning prophetically to
+    disclose later events.
+  cautions: Could be literary interpretation rather than an in-story prophecy; review
+    whether the source presents actual foreknowledge or later exegetical framing.
+  suggested_aliases:
+  - ancestral prophecy of later history
+  - myth as historical prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-names-transmitted-through-blessing
+  motif_id: ancestral_names_transmitted_through_blessing
+  label: Ancestral names transmitted through blessing
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The key action is a blessing that transmits names, lineage, or identity
+    through performative sacred speech.
+  cautions: May also support covenant or ancestral-origin indexing if the passage
+    emphasizes lineage promise more than the speech act.
+  suggested_aliases:
+  - ancestral names by blessing
+  - name transmission through blessing
+  - blessing transmits ancestral identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-naming-and-descent-of-a-people
+  motif_id: ancestral_naming_and_descent_of_a_people
+  label: Ancestral naming and descent of a people
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: high
+  rationale: The group already includes eponymous ancestors and genealogical origin
+    of peoples from named ancestors.
+  cautions: If the passage is mainly a blessing, legal lineage, or covenantal promise,
+    secondary mapping to curse_blessing_speech or covenant may be useful.
+  suggested_aliases:
+  - genealogical origin of a people
+  - eponymous ancestral naming
+  - ancestral descent of peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-naming-from-a-journey-decision
+  motif_id: ancestral_naming_from_a_journey_decision
+  label: ancestral naming from a journey decision
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The label appears etiological: an ancestral decision during travel explains
+    a name or identity origin.'
+  cautions: Could instead belong to hero_journey if the narrative function is the
+    travel ordeal; keep the journey-decision detail as evidence.
+  suggested_aliases:
+  - etiological ancestral naming from journey
+  - journey decision names ancestor
+  - ancestral name origin through travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-or-kin-based-access-to-hidden-beings
+  motif_id: ancestral_or_kin_based_access_to_hidden_beings
+  label: ancestral or kin-based access to hidden beings
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship qualification and hidden beings, but the narrative
+    function is unclear.
+  cautions: May fit otherworld, sacred_knowledge, ancestor_rites, or divine_intervention
+    depending on whether access is genealogical privilege, ritual knowledge, spirit
+    kinship, or hidden-realm encounter.
+  suggested_aliases:
+  - kin-based access to hidden beings
+  - ancestral access to hidden beings
+  - genealogical access to spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_knowledge
+    - ancestor_rites
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-origin-remembered-before-restoration-of-wasteland
+  motif_id: ancestral_origin_remembered_before_restoration_of_wasteland
+  label: Ancestral origin remembered before restoration of wasteland
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Remembering origin precedes restoration from wasteland, a renewal-after-desolation
+    pattern.
+  cautions: Could also map to covenant if ancestral memory activates a promise, or
+    cosmic_origin if the emphasis is origin identity rather than restoration.
+  suggested_aliases:
+  - ancestral memory before restoration
+  - origin remembered before wasteland renewal
+  - ancestral origin and land restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-pair-emerging-from-water
+  motif_id: ancestral_pair_emerging_from_water
+  label: ancestral pair emerging from water
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: An ancestral pair emerging from water is an origin-of-people pattern
+    using primordial or transformative water imagery.
+  cautions: Do not force flood_and_renewal unless destruction of an old world is present;
+    sacred_waters may be a secondary symbolic group.
+  suggested_aliases:
+  - first pair emerging from water
+  - water emergence of ancestral pair
+  - ancestral emergence from waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-people-originally-living-above-the-sky
+  motif_id: ancestral_people_originally_living_above_the_sky
+  label: ancestral people originally living above the sky
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains the original location or condition of an ancestral
+    people, fitting people-origin cosmology.
+  cautions: If the passage emphasizes travel between sky and earth, axis_mundi, ascent/descent,
+    or otherworld may be relevant secondary placements.
+  suggested_aliases:
+  - sky origin of ancestral people
+  - ancestors originally above the sky
+  - people descended from sky realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-place-emergence
+  motif_id: ancestral_place_emergence
+  label: ancestral-place emergence
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The phrase suggests emergence from, or naming by, an ancestral place
+    as an origin tradition.
+  cautions: Ambiguous compact label; if it refers to a sacred cave, mountain, or underworld
+    emergence, axis_mundi or descent may also be appropriate.
+  suggested_aliases:
+  - ancestral place of emergence
+  - origin-place emergence
+  - emergence from ancestral place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern ancestral origin, naming, and migration rather
+  than death or afterlife despite the review bucket assignment.
+- For Indigenous traditions, review source context carefully before treating migration
+  or dwelling traditions as generic motif types; some may be ethnographic/historical
+  memory rather than symbolic narrative motifs.
+- Existing cosmic_origin already contains eponymous ancestor, people-origin, and etiological
+  naming children, so most naming/descent labels can be placed there provisionally.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    ancestral migration/access labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0006
+  input_sha256: 712944abeadf8aa27485e5547e92ceb4c9b9a00bac3d522b8890c75829941d49
+

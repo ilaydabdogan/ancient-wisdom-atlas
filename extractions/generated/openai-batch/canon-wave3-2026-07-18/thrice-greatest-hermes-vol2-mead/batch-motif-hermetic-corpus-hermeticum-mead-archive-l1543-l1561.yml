@@ -1,0 +1,213 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l1543-l1561
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: PCEMANDRES, THE SHEPHERD OP MEN 17 / VOL. II. / P(EM ANDRES, THE SHEPHERD
+    OF MEN 19 / COMMENTAEY; lines 1543-1561
+  start: '1543'
+  end: '1561'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A commentary section titled “Of Vision and Apocalypsis” describes the Poemandres
+    treatise as a major Trismegistic document and as the Ground-Gospel of the Poemandres
+    Communities, presented as a revelation or apocalypse received by the founder of
+    the tradition. A footnote glosses “our being” as the being of man and God, which
+    man shares with God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a commentary section headed “Of Vision and Apocalypsis.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Poemandres treatise is described as belonging to an important type of
+    Trismegistic literature.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Poemandres treatise is described as the most important document within
+    that type.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The treatise is characterized as the Ground-Gospel of the Poemandres Communities.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The treatise is said to be in the form of a revelation or apocalypse received
+    by the founder of the tradition.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note glosses “our being” as presumably the being of man and God, which man
+    shares with God.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: founder of the tradition
+  description: An unnamed founder who is said to have received the revelation or apocalypse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Poemandres Communities
+  description: Communities for whom the Poemandres treatise is described as a Ground-Gospel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: man
+  description: Mentioned in a note as sharing a “being” with God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: God
+  description: Mentioned in a note as sharing a “being” with man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of revelation or apocalypse
+  assigned_to:
+  - fig:1
+  basis: The founder is described as receiving the revelation or apocalypse.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: community defined by a foundational text
+  assigned_to:
+  - fig:2
+  basis: The treatise is characterized as the Ground-Gospel of the Poemandres Communities.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: participants in shared being
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The note explains “our being” as the being of man and God, which man shares
+    with God.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Foundational revelation received
+  summary: An unnamed founder receives a revelation or apocalypse that is associated
+    with the foundational status of the Poemandres treatise for the Poemandres Communities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Human-divine shared being glossed
+  summary: A note interprets “our being” as the being of man and God, shared by man
+    with God.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Foundational revelation or apocalypse to a tradition-founder
+  taxonomy_refs: []
+  basis: The commentary states that the Poemandres treatise takes the form of a revelation
+    or apocalypse received by the founder of the tradition.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a commentary description rather than a narrated mythic episode;
+    no direct taxonomy ref for revelation/apocalypse is supplied.
+- id: motif:2
+  label: Human-divine shared being
+  taxonomy_refs: []
+  basis: The note glosses “our being” as the being of man and God, which man shares
+    with God.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The statement occurs in a footnote and is explicitly marked as presumptive;
+    the passage provides no developed scene or symbol.
+comparison_claims:
+- id: claim:1
+  claim: The passage classifies the Poemandres treatise as part of an important type
+    of Trismegistic literature and identifies its form as revelation or apocalypse.
+  claim_level: same_function
+  target: Trismegistic revelation/apocalypse literature
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names a literary type but does not list other texts or
+    provide detailed comparative features beyond revelation/apocalypse form.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1543-1545
+  quote_or_summary: "“COMMENTAEY / Of Vision and Apocalypsis”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1546-1549
+  quote_or_summary: The commentary says the Poemandres treatise belongs to the most
+    important type of Trismegistic literature and is the most important document within
+    that type.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1550-1554
+  quote_or_summary: The commentary says the treatise constitutes the Ground-Gospel
+    of the Poemandres Communities and is in the form of a revelation or apocalypse
+    received by the founder of the tradition.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 1555-1557
+  quote_or_summary: A note glosses “our being” as presumably the being of man and
+    God, which man shares with God.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial commentary with limited narrative content. The revelation/apocalypse
+    pattern is explicit, while the human-divine shared-being motif is tentative because
+    it derives from a footnote marked as presumptive.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l1543-l1561
+  passage_sha256=e2cae4d8dd3d2fc6b15e3a277c828560c264551b0654c6206646151491e498fe
+

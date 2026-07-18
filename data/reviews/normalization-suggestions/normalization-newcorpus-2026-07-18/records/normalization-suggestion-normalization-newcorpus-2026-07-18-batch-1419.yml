@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1419
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hall-burned-by-command
+  motif_id: hall_burned_by_command
+  label: hall burned by command
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A commanded hall-burning may be warfare, vengeance, judgment, or episode-specific
+    plot action depending on context.
+  cautions: Single occurrence and no explicit sacred or ritual function; could be
+    too specific for motif queries.
+  suggested_aliases:
+  - commanded hall burning
+  - hall burning by order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hall-feast-imagery-turned-to-bloodshed
+  motif_id: hall_feast_imagery_turned_to_bloodshed
+  label: hall-feast imagery turned to bloodshed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A feast or hall scene turning violent often centers on violated bonds
+    of hospitality or trust.
+  cautions: If the passage emphasizes battle rather than betrayed feast obligations,
+    sacred_combat may be a better secondary group.
+  suggested_aliases:
+  - feast turned to bloodshed
+  - violence at feast
+  - hall feast betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.handmade-idol-polemic
+  motif_id: handmade_idol_polemic
+  label: Handmade idol polemic
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A polemic against handmade idols may express covenantal prohibition,
+    sacred law, or critique of false worship.
+  cautions: The label may be theological commentary rather than narrative motif; existing
+    idol alias is already flagged for human review.
+  suggested_aliases:
+  - idol polemic
+  - critique of handmade idols
+  - anti-idol polemic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harbor-fishing-scene
+  motif_id: harbor_fishing_scene
+  label: Harbor fishing scene
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as scenic setting or passage detail rather than a reusable
+    mythic motif.
+  cautions: If source evidence links fishing or harbor to divine intervention, initiation,
+    or sacred waters, remap with that function preserved.
+  suggested_aliases:
+  - harbor scene
+  - fishing scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmful-crop-pests-collectively-ensnared-in-a-pit
+  motif_id: harmful_crop_pests_collectively_ensnared_in_a_pit
+  label: harmful crop-pests collectively ensnared in a pit
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual pest control, trickster trapping, agricultural
+    protection, or an etiological episode.
+  cautions: Culturally specific Zuni ritual or narrative context should be reviewed
+    before assigning to sacrifice, sacred_law, or trickster.
+  suggested_aliases:
+  - crop pests trapped in pit
+  - collective ensnaring of pests
+  - ritual trapping of crop pests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmful-drink-causing-strife
+  motif_id: harmful_drink_causing_strife
+  label: harmful drink causing strife
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A drink that alters relations and causes conflict fits the broader substance-as-power
+    complex.
+  cautions: If the emphasis is betrayal at a feast or moral punishment, betrayal_violated_trust
+    or divine_judgment may be secondary.
+  suggested_aliases:
+  - strife-causing drink
+  - harmful intoxicating drink
+  - drink causing conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmful-drink-of-forgetting-with-blood-and-inscriptions
+  motif_id: harmful_drink_of_forgetting_with_blood_and_inscriptions
+  label: harmful drink of forgetting with blood and inscriptions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: narrower_than
+  confidence: medium
+  rationale: A magically charged drink causing forgetting belongs under sacred substances
+    and transformative ingestibles.
+  cautions: Blood and inscriptions may also involve performative speech, sacred law,
+    or runic knowledge; preserve those details as evidence.
+  suggested_aliases:
+  - drink of forgetting
+  - blood-inscribed drink
+  - enchanted forgetfulness drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmful-shamanic-enchantment-against-a-neighbor
+  motif_id: harmful_shamanic_enchantment_against_a_neighbor
+  label: harmful shamanic enchantment against a neighbor
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests harmful ritual speech or magic but depends on culturally
+    specific source evidence.
+  cautions: Use care with generated labels such as shamanic; may reflect outsider
+    terminology or ethnographic framing rather than a motif.
+  suggested_aliases:
+  - harmful enchantment against neighbor
+  - malefic ritual against neighbor
+  - neighbor-directed harmful magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_knowledge
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmonic-shaping-of-folk-melody
+  motif_id: harmonic_shaping_of_folk_melody
+  label: Harmonic shaping of folk melody
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes musical analysis or arrangement, not a narrative or symbolic
+    motif.
+  cautions: If a source passage treats song as supernatural force, index that separately
+    under enchanting_music or sacred_song.
+  suggested_aliases:
+  - folk melody harmonization
+  - harmonic arrangement of melody
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harp-music-under-mortal-threat
+  motif_id: harp_music_under_mortal_threat
+  label: Harp-music under mortal threat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Harp music in a death-threatening scene fits music as a force operating
+    under peril or compulsion.
+  cautions: If the music lacks supernatural effect and is only a scene detail, treat
+    as over-specific evidence rather than a motif.
+  suggested_aliases:
+  - harp music under threat
+  - music before death
+  - perilous harp music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; suggested placements
+  should be checked against passage evidence before indexing broadly.
+- Avoid treating scenic details such as harbor or hall imagery as motifs unless a
+  clear narrative function is present.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific ritual/magic labels and episode-specific violence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1419
+  input_sha256: 9f32f159a1ee5e04b8f35385199affad046ba03d13a3b06a75b6bf0f09844e27
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1252
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.broken-lord-retainer-gift-bond-and-shame
+  motif_id: broken_lord_retainer_gift_bond_and_shame
+  label: Broken lord-retainer gift bond and shame
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A broken lord-retainer gift bond centers on violated reciprocal obligation
+    and social trust.
+  cautions: Could also fit sacred_exchange if the emphasis is gift reciprocity rather
+    than betrayal or shame.
+  suggested_aliases:
+  - violated_retainer_bond
+  - broken_gift_bond
+  - lord_retainer_shame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brotherly-service-recognized-by-embrace-and-praise
+  motif_id: brotherly_service_recognized_by_embrace_and_praise
+  label: Brotherly service recognized by embrace and praise
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an ethical kinship scene, a reward for service, or a
+    passage-specific gesture.
+  cautions: No existing group cleanly covers fraternal service recognition; if the
+    scene affects succession or sacred duty, covenant, sacred_law, or royal_legitimacy
+    may be relevant.
+  suggested_aliases:
+  - brotherly_service_rewarded
+  - fraternal_service_recognized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-accumulated-griefs
+  motif_id: catalogue_of_accumulated_griefs
+  label: Catalogue of accumulated griefs
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: An accumulated list of griefs functions as lament or tragic mourning
+    when tied to loss.
+  cautions: If it is merely a rhetorical catalogue without ritual or mourning function,
+    treat as evidence detail rather than a durable motif.
+  suggested_aliases:
+  - accumulated_griefs
+  - catalogue_of_sorrows
+  - grief_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-accumulated-griefs-in-lament
+  motif_id: catalogue_of_accumulated_griefs_in_lament
+  label: catalogue of accumulated griefs in lament
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly frames accumulated griefs as part of lament.
+  cautions: Likely an over-specific expressive form; preserve wording as evidence
+    detail under the broader mourning group.
+  suggested_aliases:
+  - catalogue_of_accumulated_griefs
+  - grief_catalogue_in_lament
+  - catalogue_of_sorrows_in_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.changed-face-as-sign-of-anger
+  motif_id: changed_face_as_sign_of_anger
+  label: Changed face as sign of anger
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a localized descriptive sign of emotion rather than a reusable
+    mythic motif.
+  cautions: If facial transformation is supernatural or marks divine wrath, review
+    for divine_judgment or shapeshifter instead.
+  suggested_aliases:
+  - face_changed_by_anger
+  - anger_shown_by_changed_face
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chastity-guarded-through-inner-thought-and-marital-discipline
+  motif_id: chastity_guarded_through_inner_thought_and_marital_discipline
+  label: Chastity guarded through inner thought and marital discipline
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label frames sexual self-discipline as a sacred ethical or purity
+    obligation.
+  cautions: Could fit mystical_quest or renunciation if chastity is part of ascetic
+    transformation rather than marital law.
+  suggested_aliases:
+  - chastity_discipline
+  - marital_chastity_as_inner_discipline
+  - sexual_purity_through_thought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clothing-exchange-enables-substitution-in-lowly-service
+  motif_id: clothing_exchange_enables_substitution_in_lowly_service
+  label: Clothing exchange enables substitution in lowly service
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Clothing exchange may signal disguise, humility, substitution, or social
+    inversion depending on the episode.
+  cautions: Could map to shapeshifter if identity transformation is central, recognition_tokens_hidden_identity
+    if disguise/proof matters, or sacrifice if substitution is self-offering.
+  suggested_aliases:
+  - clothing_exchange_substitution
+  - garment_exchange_for_service
+  - substitution_through_clothing_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cockcrow-ends-or-limits-supernatural-danger
+  motif_id: cockcrow_ends_or_limits_supernatural_danger
+  label: cockcrow ends or limits supernatural danger
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Cockcrow functions as an apotropaic time-bound limit on harmful supernatural
+    forces, matching protective sacred-law variants.
+  cautions: If the emphasis is dawn as sacred time or a threshold ordeal, sacred_time
+    or threshold_guardian may be secondary.
+  suggested_aliases:
+  - cockcrow_limits_supernatural_danger
+  - dawn_cockcrow_ends_danger
+  - cockcrow_apotropaic_limit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collection-of-endangered-oral-lore
+  motif_id: collection_of_endangered_oral_lore
+  label: collection of endangered oral lore
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes documentation or preservation of tradition rather
+    than a motif inside a narrative.
+  cautions: Culturally sensitive provenance may be important, but it should not be
+    used as a symbolic pattern query.
+  suggested_aliases:
+  - endangered_oral_lore_collection
+  - collection_of_oral_tradition
+  - oral_lore_documentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commissioning-transformed-sinners
+  motif_id: commissioning_transformed_sinners
+  label: commissioning transformed sinners
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sinners transformed and then commissioned suggests moral rebirth followed
+    by a new sacred role.
+  cautions: If the passage emphasizes mission, divine command, or conversion rather
+    than rebirth, divine_intervention or initiation may be better secondary mappings.
+  suggested_aliases:
+  - transformed_sinners_commissioned
+  - repentant_sinners_given_mission
+  - moral_transformation_and_commission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ethical or expressive labels;
+  preserve granular wording as evidence notes unless recurrence supports a more durable
+  child motif.
+- Avoid treating kinship gestures, facial emotion, or editorial collection activity
+  as motif patterns without source evidence for symbolic or narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for ambiguous
+    ethical-psychological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1252
+  input_sha256: ec700606ac69f5b6d6cdc017fae9f3fa333a37492424982ed7dc611329e2389e
+

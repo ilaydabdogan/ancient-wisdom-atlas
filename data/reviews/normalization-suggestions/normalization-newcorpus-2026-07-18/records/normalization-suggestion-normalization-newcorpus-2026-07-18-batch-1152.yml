@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1152
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.single-combat-substituted-for-army-battle
+  motif_id: single_combat_substituted_for_army_battle
+  label: single combat substituted for army battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes duel combat functioning as a ritualized substitute
+    for broader warfare, matching sacred_combat's single-combat and warfare-decision
+    scope.
+  cautions: Confirm the duel has representative or decisive war function, not merely
+    an episode-specific battle detail.
+  suggested_aliases:
+  - representative_single_combat
+  - duel_substitutes_for_battle
+  - champion_combat_in_place_of_army_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-to-decide-battle
+  motif_id: single_combat_to_decide_battle
+  label: single combat to decide battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A duel that decides a battle fits the existing sacred_combat complex
+    of single combat determining collective conflict.
+  cautions: May be a narrow duplicate of other representative-duel labels; consider
+    alias consolidation.
+  suggested_aliases:
+  - single_combat_substituted_for_army_battle
+  - single_combat_to_determine_a_collective_war
+  - representative_duel_decides_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-to-determine-a-collective-war
+  motif_id: single_combat_to_determine_a_collective_war
+  label: Single combat to determine a collective war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Representative single combat deciding a war is directly within ritualized
+    warfare and collective-conflict adjudication.
+  cautions: Keep distinct from ordinary heroic duel unless the collective-war decision
+    function is explicit.
+  suggested_aliases:
+  - single_combat_to_decide_battle
+  - single_combat_substituted_for_army_battle
+  - representative_single_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-with-verbal-challenge
+  motif_id: single_combat_with_verbal_challenge
+  label: single combat with verbal challenge
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A verbal challenge preceding duel combat is a narrower scene within ritualized
+    single combat and heroic warfare.
+  cautions: If the speech act itself is binding, oath-like, or curse-like, curse_blessing_speech
+    may be a secondary mapping; otherwise the verbal detail may be over-specific.
+  suggested_aliases:
+  - champion_challenge_before_duel
+  - verbal_challenge_to_single_combat
+  - duel_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combats-with-a-monstrous-foe
+  motif_id: single_combats_with_a_monstrous_foe
+  label: Single combats with a monstrous foe
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Single combat against a monstrous foe fits the divine_warrior pattern
+    of god or hero combating monsters, demons, or chaos forces.
+  cautions: If the monster's special vulnerability is central, also review conditional_invulnerability_hidden_weakness;
+    if the duel's war-setting is central, sacred_combat may be secondary.
+  suggested_aliases:
+  - monster_duel
+  - hero_single_combat_with_monster
+  - single_combat_against_monstrous_foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-hero-against-demon-champion-and-host
+  motif_id: single_hero_against_demon_champion_and_host
+  label: single hero against demon champion and host
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A lone hero facing a demon champion and host matches sacred combat against
+    demonic forces that maintains or restores order.
+  cautions: Could also be indexed under sacred_combat if the emphasis is battlefield
+    structure rather than demon/chaos opposition.
+  suggested_aliases:
+  - lone_hero_against_demon_host
+  - hero_against_demon_champion
+  - single_hero_vs_demonic_army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-hero-at-a-ford-defeats-successive-opponents
+  motif_id: single_hero_at_a_ford_defeats_successive_opponents
+  label: Single hero at a ford defeats successive opponents
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing sacred_combat group already includes ford duel aliases;
+    a hero defeating successive opponents at a ford is a narrower ford-combat variant.
+  cautions: Ford as liminal boundary may also relate to threshold_guardian, but the
+    primary function here is repeated heroic combat.
+  suggested_aliases:
+  - ford_duel_as_crisis_point
+  - successive_ford_duels
+  - single_hero_defends_ford_against_successive_opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-hero-carries-off-a-major-feast-portion-or-prize
+  motif_id: single_hero_carries_off_a_major_feast_portion_or_prize
+  label: Single hero carries off a major feast portion or prize
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern heroic honor/status, contest prize, feast hierarchy,
+    or martial boasting, none of which is cleanly represented by an existing group.
+  cautions: May be too episode-specific unless champion's portion or feast-prize rivalry
+    recurs; review whether sacred_combat, royal_legitimacy, sacred_exchange, or pride_and_downfall
+    is the real function.
+  suggested_aliases:
+  - champions_portion
+  - hero_claims_feast_prize
+  - feast_portion_as_status_prize
+  suggested_new_group:
+    id: heroic_status_prize
+    label: Heroic Status Prize and Champion's Portion
+    description: A feast portion, trophy, prize, or honor-object marks heroic rank,
+      precedence, or public status and may trigger rivalry or combat.
+    parent_group_ids:
+    - sacred_combat
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_exchange
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing combat groups cover duels and warfare
+      but not feast-based precedence or honor prizes as the central motif.
+- suggestion_id: normalization.suggestion.single-hero-defeats-an-overwhelming-demon-host
+  motif_id: single_hero_defeats_an_overwhelming_demon_host
+  label: single hero defeats an overwhelming demon host
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A lone hero defeating a demonic host is a clear sacred-combat/divine-warrior
+    pattern against demonic or chaos forces.
+  cautions: If the passage emphasizes numerical odds rather than sacred enemy type,
+    sacred_combat may be a secondary grouping.
+  suggested_aliases:
+  - lone_hero_defeats_demon_host
+  - single_hero_vs_demonic_army
+  - hero_overcomes_overwhelming_demon_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-hero-defeats-successive-armed-attackers
+  motif_id: single_hero_defeats_successive_armed_attackers
+  label: single hero defeats successive armed attackers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A lone hero defeating successive armed opponents fits heroic combat ordeal
+    within sacred_combat, though less specifically ritualized than ford-duel labels.
+  cautions: Could be an over-specific battle feat if no ritual, threshold, or collective-conflict
+    function is present.
+  suggested_aliases:
+  - successive_single_combats
+  - single_hero_defeats_successive_opponents
+  - lone_hero_against_successive_attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels appear to be near-duplicates around representative single combat
+  deciding a battle or war; consider alias consolidation under sacred_combat.
+- For demon or monster opponents, divine_warrior is preferred when the enemy functions
+  as a demonic/chaotic force; use sacred_combat when the duel structure or battlefield
+  role is primary.
+- The feast-portion/prize label may require a new honor/status-prize group only if
+  similar Celtic or heroic feast precedence motifs recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage function
+    and avoid over-indexing single-occurrence heroic battle details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1152
+  input_sha256: f169dc70742d6be49f8bfe610de4f05c72d4d07d082172fb74745fdbbdc71c52
+

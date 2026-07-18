@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0527
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-aetiology-from-supernatural-encounter
+  motif_id: place_name_aetiology_from_supernatural_encounter
+  label: Place-name aetiology from supernatural encounter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes place-name etiology and
+    supernatural etiological place naming.
+  cautions: Single occurrence; if the encounter is mainly a theophany or local legend
+    note, secondary review may be needed.
+  suggested_aliases:
+  - supernatural_place_name_etiology
+  - place_name_etiology_from_supernatural_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-and-weather-origin-for-thunder-mountain
+  motif_id: place_name_and_weather_origin_for_thunder_mountain
+  label: Place-name and weather origin for Thunder Mountain
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label combines etiological place naming with origin of a natural/weather
+    feature, fitting cosmic_origin's etiological landscape scope.
+  cautions: Thunder Mountain may also involve sacred mountain, weather deity, or local
+    sacred geography; preserve cultural specificity in evidence notes.
+  suggested_aliases:
+  - weather_origin_etiology
+  - thunder_mountain_place_name_etiology
+  - etiological_landscape_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_mountain
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-arising-from-a-violent-event
+  motif_id: place_name_arising_from_a_violent_event
+  label: Place-name arising from a violent event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: The group already lists place_name_origin_from_violent_death_or_event
+    and related violent place-name etiologies.
+  cautions: If the violence itself is the query focus, sacred_combat or divine_warrior
+    may be useful secondary facets, but the label's function is place-name etiology.
+  suggested_aliases:
+  - place_name_origin_from_violent_event
+  - place_name_etiology_from_violent_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-arising-from-collective-mourning
+  motif_id: place_name_arising_from_collective_mourning
+  label: place-name arising from collective mourning
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explains a place-name's origin, matching the existing place-name
+    etiology cluster under cosmic_origin.
+  cautions: Collective mourning is semantically important; consider secondary relation
+    to lament_and_mourning if indexing the grief scene.
+  suggested_aliases:
+  - place_name_etiology_from_mourning
+  - place_name_origin_from_collective_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-as-repository-of-legend
+  motif_id: place_name_as_repository_of_legend
+  label: place-name as repository of legend
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a narrative-memory function of place names rather
+    than a specific etiological event.
+  cautions: Could map to cosmic_origin if an origin explanation is present, to storytelling_as_power
+    if place-name preserves tradition, or be excluded if it is commentary about legend
+    transmission.
+  suggested_aliases:
+  - legend_preserved_in_place_name
+  - toponym_as_legend_repository
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiological-account-from-violent-events
+  motif_id: place_name_etiological_account_from_violent_events
+  label: place-name etiological account from violent events
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: This is a close variant of existing violent-event place-name etiology
+    children in cosmic_origin.
+  cautions: Violent-event detail should be retained; do not collapse into combat unless
+    the passage's main motif is warfare or ritual violence.
+  suggested_aliases:
+  - place_name_origin_from_violent_event
+  - place_name_etiology_from_violent_events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiology-from-bodily-water
+  motif_id: place_name_etiology_from_bodily_water
+  label: place-name etiology from bodily water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is explaining a place-name through an origin event,
+    already covered by the group's place-name etiology cluster.
+  cautions: Bodily water may imply sacred waters, body-as-landscape, or death/birth
+    symbolism; verify source context before adding secondary mappings.
+  suggested_aliases:
+  - place_name_origin_from_bodily_water
+  - bodily_water_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - primordial_sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiology-from-heroic-action-or-speech
+  motif_id: place_name_etiology_from_heroic_action_or_speech
+  label: Place-name etiology from heroic action or speech
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes toponymic naming from heroic events; this
+    label is an etiological place-name variant.
+  cautions: If performative speech is central rather than naming etiology, curse_blessing_speech
+    or storytelling_as_power may be relevant secondary facets.
+  suggested_aliases:
+  - toponymic_naming_from_heroic_action
+  - place_name_etiology_from_heroic_speech
+  - toponymic_naming_from_heroic_events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - curse_blessing_speech
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiology-from-heroic-slayings
+  motif_id: place_name_etiology_from_heroic_slayings
+  label: Place-name etiology from heroic slayings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: This matches existing place-name origin from violent death/event and
+    toponymic naming from heroic events under cosmic_origin.
+  cautions: Heroic slaying can also support sacred_combat or divine_warrior, but the
+    generated label emphasizes the place-name origin.
+  suggested_aliases:
+  - toponymic_naming_from_heroic_slaying
+  - place_name_origin_from_heroic_slaying
+  - place_name_origin_from_violent_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiology-from-mythic-exploit
+  motif_id: place_name_etiology_from_mythic_exploit
+  label: place-name etiology from mythic exploit
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: A mythic exploit explaining a place-name fits the group's established
+    place-name etiology and toponymic naming scope.
+  cautions: If the exploit itself is independently important, add secondary mapping
+    to culture_hero, hero_journey, or sacred_combat as supported by passage evidence.
+  suggested_aliases:
+  - toponymic_naming_from_mythic_exploit
+  - place_name_origin_from_mythic_exploit
+  - place_naming_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are variants of etiological place naming already represented
+  under cosmic_origin; preserve the local trigger event as evidence detail rather
+  than creating many new groups.
+- For place-name labels, distinguish true origin/aetiology narratives from scholarly
+  comments that a name preserves a legend.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should confirm whether each passage
+    contains an etiological naming event.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0527
+  input_sha256: 4043b4e50c42a386333875e0cd1d7070258e2d906863bb419a3b5ba4be473367
+

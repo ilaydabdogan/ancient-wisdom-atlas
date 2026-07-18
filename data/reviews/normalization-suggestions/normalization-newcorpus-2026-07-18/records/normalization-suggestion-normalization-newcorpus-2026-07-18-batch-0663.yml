@@ -1,0 +1,352 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0663
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.water-power-and-rain-making-objects
+  motif_id: water_power_and_rain_making_objects
+  label: Water power and rain-making objects
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: Rain-making objects function as power objects, but the water/weather
+    ritual context is not represented cleanly by existing groups.
+  cautions: Culturally sensitive and single occurrence; may instead belong under sacred_waters,
+    sacred_exchange, divine_intervention, or a future weather-working group after
+    evidence review.
+  suggested_aliases:
+  - rain-making objects
+  - water power objects
+  - weather-working objects
+  suggested_new_group:
+    id: weather_working
+    label: Weather Working and Rainmaking
+    description: Ritual, magical, or sacred actions, objects, specialists, or exchanges
+      used to call, stop, redirect, or negotiate rain, wind, storm, drought, or other
+      weather powers.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_waters
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Several unmapped labels in this batch concern
+      weather specialists, objects, payment, and techniques; existing groups only
+      cover adjacent water, exchange, or intervention functions.
+- suggestion_id: normalization.suggestion.water-used-for-directional-tracking-or-divination
+  motif_id: water_used_for_directional_tracking_or_divination
+  label: Water used for directional tracking or divination
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on water as a divinatory medium for direction-finding
+    or hidden knowledge.
+  cautions: If the passage emphasizes water as sacred boundary or travel aid rather
+    than divination, sacred_waters or hero_journey may be secondary; preserve the
+    water-medium detail.
+  suggested_aliases:
+  - water divination
+  - directional water divination
+  - water tracking divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.waterways-as-ordered-routes-of-communication-and-traffic
+  motif_id: waterways_as_ordered_routes_of_communication_and_traffic
+  label: waterways as ordered routes of communication and traffic
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: Waterways may function as ordered routes and communicative boundaries
+    within a sacred geography, but the label may be descriptive social geography.
+  cautions: Could be a passage artifact about transport rather than a motif; map only
+    if source frames waterways as cosmologically or ritually ordered routes.
+  suggested_aliases:
+  - waterways as communication routes
+  - ordered river routes
+  - water traffic routes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealthy-maritime-city-ruined-and-lamented
+  motif_id: wealthy_maritime_city_ruined_and_lamented
+  label: wealthy maritime city ruined and lamented
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes public lament over a ruined city, fitting collective
+    mourning and tragic recognition.
+  cautions: If the passage emphasizes punishment for pride or divine judgment on wealth,
+    add divine_judgment or pride_and_downfall as secondary review mappings.
+  suggested_aliases:
+  - lament for ruined city
+  - ruined maritime city lament
+  - city ruin lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-making-from-gathered-natural-materials
+  motif_id: weapon_making_from_gathered_natural_materials
+  label: Weapon-making from gathered natural materials
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: Weapon-making may fit sacred craft if the making is ritually or supernaturally
+    charged.
+  cautions: May be an ordinary practical episode or over-specific craft detail; use
+    sacred_craft only if divine aid, ritual power, or mythic weapon significance is
+    explicit.
+  suggested_aliases:
+  - natural-material weapon making
+  - ritual weapon making
+  - weapon fashioned from natural materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-and-rainmaking-figures
+  motif_id: weather_and_rainmaking_figures
+  label: weather and rainmaking figures
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Working and Rainmaking
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif names specialists or figures whose role is weather and rain
+    control, a recurring cluster not well captured by existing groups.
+  cautions: Review local terminology and agency carefully; avoid flattening distinct
+    ritual specialists, ancestral beings, spirits, or deities into one type without
+    evidence.
+  suggested_aliases:
+  - rainmaking figures
+  - weather-working figures
+  - rainmakers
+  suggested_new_group:
+    id: weather_working
+    label: Weather Working and Rainmaking
+    description: Ritual, magical, or sacred actions, objects, specialists, or exchanges
+      used to call, stop, redirect, or negotiate rain, wind, storm, drought, or other
+      weather powers.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_waters
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups cover divine intervention,
+      waters, and exchange, but not the specific complex of weather-control roles,
+      techniques, objects, and compensation visible across this batch.
+- suggestion_id: normalization.suggestion.weather-conjuring-by-striking-the-wind
+  motif_id: weather_conjuring_by_striking_the_wind
+  label: Weather conjuring by striking the wind
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Working and Rainmaking
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A specific technique for conjuring weather belongs to a broader weather-working
+    complex rather than general divine intervention.
+  cautions: Technique is highly specific and single occurrence; preserve as granular
+    evidence under the broader candidate rather than promoting as a canonical motif.
+  suggested_aliases:
+  - striking the wind to conjure weather
+  - wind-striking weather magic
+  - weather conjuring technique
+  suggested_new_group:
+    id: weather_working
+    label: Weather Working and Rainmaking
+    description: Ritual, magical, or sacred actions, objects, specialists, or exchanges
+      used to call, stop, redirect, or negotiate rain, wind, storm, drought, or other
+      weather powers.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_waters
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups lack a durable place for
+      weather-control techniques where the function is neither judgment nor generic
+      sacred water.
+- suggestion_id: normalization.suggestion.weather-working-compensated-with-goods
+  motif_id: weather_working_compensated_with_goods
+  label: Weather-working compensated with goods
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Compensation for weather-working frames ritual power within exchange
+    and reciprocity.
+  cautions: If the passage mainly documents social payment rather than sacred reciprocity,
+    it may be contextual; also relates to the proposed weather_working group.
+  suggested_aliases:
+  - payment for rainmaking
+  - compensated weather-working
+  - goods exchanged for weather magic
+  suggested_new_group:
+    id: weather_working
+    label: Weather Working and Rainmaking
+    description: Ritual, magical, or sacred actions, objects, specialists, or exchanges
+      used to call, stop, redirect, or negotiate rain, wind, storm, drought, or other
+      weather powers.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_waters
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Sacred_exchange captures payment, but not
+      the repeated weather-control function shared with other batch labels.
+- suggestion_id: normalization.suggestion.weather-working-objects-placed-in-water
+  motif_id: weather_working_objects_placed_in_water
+  label: Weather-working objects placed in water
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Working and Rainmaking
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Objects placed in water to affect weather combine ritual object use with
+    rainmaking practice, matching the proposed weather-working cluster.
+  cautions: Could secondarily map to sacred_treasures or sacred_waters; object and
+    water details should be preserved without assuming flood or passage symbolism.
+  suggested_aliases:
+  - weather objects in water
+  - rainmaking objects placed in water
+  - water-placed weather-working objects
+  suggested_new_group:
+    id: weather_working
+    label: Weather Working and Rainmaking
+    description: Ritual, magical, or sacred actions, objects, specialists, or exchanges
+      used to call, stop, redirect, or negotiate rain, wind, storm, drought, or other
+      weather powers.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_waters
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing sacred_waters and sacred_treasures
+      groups capture components, but not the weather-control function shared by several
+      labels.
+- suggestion_id: normalization.suggestion.widow-rejects-kingdom-and-goes-to-the-slayer
+  motif_id: widow_rejects_kingdom_and_goes_to_the_slayer
+  label: widow rejects kingdom and goes to the slayer
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve loyalty, renunciation, widowhood, and royal refusal,
+    but its narrative function is unclear from wording alone.
+  cautions: Highly contextual and culturally sensitive; could involve dharma, grief,
+    political succession, captivity, devotion, or a passage-specific episode. Do not
+    map without source evidence.
+  suggested_aliases:
+  - widow rejects kingdom
+  - widow goes to husband's slayer
+  - renunciation of kingdom by widow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Australian Aboriginal and Inuit items form a coherent weather-working/rainmaking
+  cluster. Consider adding a normalization group only after reviewing source evidence
+  and culturally specific terms.
+- Do not merge water-related weather motifs into flood_and_renewal unless catastrophic
+  destruction and renewal are explicit.
+- Single-occurrence labels with social, political, or episode-specific wording should
+  remain provisional until passage evidence confirms motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; weather_working proposed as a candidate group
+    because multiple labels in this batch share rain/weather control functions not
+    covered cleanly by existing groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0663
+  input_sha256: a80d187c2749b4b0fc6c195f2038ae7bce2fcf793bfe1f1b839580b6186f9845
+

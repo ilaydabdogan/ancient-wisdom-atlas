@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0758
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-of-love-to-avoid-sorrow
+  motif_id: refusal_of_love_to_avoid_sorrow
+  label: refusal of love to avoid sorrow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on love refused because its emotional cost is feared,
+    fitting love as longing, pain, and danger.
+  cautions: Single occurrence; if the passage is mainly psychological avoidance rather
+    than mythic or sacred love, it may be too contextual.
+  suggested_aliases:
+  - love refused to avoid grief
+  - avoidance of love because of sorrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-marriage-and-coercive-desire-resisted
+  motif_id: refusal_of_marriage_and_coercive_desire_resisted
+  label: Refusal of marriage and coercive desire resisted
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resistance to coerced marriage belongs with marriage choice and perilous
+    or contested love already grouped under sacred_love.
+  cautions: May instead index under sacred_law or divine_judgment if the passage emphasizes
+    moral violation, chastity, martyrdom, or legal coercion more than love choice.
+  suggested_aliases:
+  - coercive marriage resisted
+  - refusal of unwanted marriage
+  - resistance to coercive desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-wealth-in-favor-of-an-apparently-worthless-animal
+  motif_id: refusal_of_wealth_in_favor_of_an_apparently_worthless_animal
+  label: Refusal of wealth in favor of an apparently worthless animal
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes rejecting ordinary wealth in favor of a low-value
+    exchange object that may carry hidden worth or obligation.
+  cautions: Animal-helper, trickster, gratitude-test, or wonder-tale context may be
+    more important than exchange; source evidence is needed.
+  suggested_aliases:
+  - worthless animal chosen over wealth
+  - refusal of riches for humble animal
+  - hidden value animal exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-bridewealth-and-compensatory-gifts
+  motif_id: refused_bridewealth_and_compensatory_gifts
+  label: Refused bridewealth and compensatory gifts
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bridewealth and compensatory gifts are exchange obligations whose refusal
+    affects social or marital relations.
+  cautions: Could belong under sacred_law if the focus is legal settlement, or sacred_love
+    if the marriage relation is central.
+  suggested_aliases:
+  - bridewealth refused
+  - compensatory marriage gifts refused
+  - marital gift exchange refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-variation-and-comparison-in-clothing-style
+  motif_id: regional_variation_and_comparison_in_clothing_style
+  label: Regional variation and comparison in clothing style
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label reads as ethnographic comparison or descriptive classification,
+    not a narrative or symbolic motif.
+  cautions: If clothing functions as disguise, identity token, initiation marker,
+    or ritual taboo in the passage, remap to the relevant motif rather than excluding.
+  suggested_aliases:
+  - regional clothing variation
+  - comparison of clothing styles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-artificial-bride-of-metal
+  motif_id: rejected_artificial_bride_of_metal
+  label: Rejected artificial bride of metal
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: An artificial bride of metal is a manufactured human-like figure, matching
+    the artificial-life and crafted-being complex under sacred_craft.
+  cautions: If the passage emphasizes failed marriage or replacement bride more than
+    artificial making, sacred_love may be a secondary relation.
+  suggested_aliases:
+  - metal artificial bride
+  - crafted bride rejected
+  - rejected manufactured bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-child-exposed-on-a-mountain
+  motif_id: rejected_child_exposed_on_a_mountain
+  label: rejected child exposed on a mountain
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rejected or exposed child often belongs to the threatened infancy and
+    hidden/protected child pattern.
+  cautions: Mountain exposure may be only setting; use axis_mundi or cosmic_mountain
+    only if the mountain has sacred-center or revelation function.
+  suggested_aliases:
+  - exposed rejected child
+  - child exposed on mountain
+  - threatened exposed infant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-elder-s-grievance-against-a-woman-s-children
+  motif_id: rejected_elder_s_grievance_against_a_woman_s_children
+  label: rejected elder's grievance against a woman's children
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is highly contextual and unclear: it may concern kinship conflict,
+    elder authority, grievance, or origin of later harm.'
+  cautions: Culturally specific source context is needed before mapping; avoid reducing
+    an Aboriginal kinship or law episode to a generic family-conflict motif.
+  suggested_aliases:
+  - elder grievance against children
+  - rejected elder grievance
+  - kinship grievance against woman's children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-son-instigates-communal-destruction
+  motif_id: rejected_son_instigates_communal_destruction
+  label: Rejected son instigates communal destruction
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines family rejection, revenge, and communal catastrophe;
+    the primary function cannot be determined from the label alone.
+  cautions: May fit divine_judgment, flood_and_renewal, betrayal, or local social-order
+    traditions depending on whether destruction is sacred punishment, revenge, or
+    etiological history.
+  suggested_aliases:
+  - rejected child causes communal destruction
+  - rejected son brings destruction
+  - familial rejection leading to catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-arranged-marriage-and-domestic-bondage
+  motif_id: rejection_of_arranged_marriage_and_domestic_bondage
+  label: Rejection of arranged marriage and domestic bondage
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label fits the existing sacred_love cluster around bride choice and
+    resistance to constrained marriage arrangements.
+  cautions: If domestic bondage is the central issue rather than marriage choice,
+    human review may prefer sacred_law, social order, or a future coercion/captivity
+    group.
+  suggested_aliases:
+  - arranged marriage rejected
+  - forced marriage and domestic bondage resisted
+  - rejection of coerced marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern marriage refusal or coercive desire; map to
+  sacred_love only when the narrative function is bride choice, longing, or contested
+  love, not merely legal status.
+- Single-occurrence family-conflict labels should remain provisional unless source
+  evidence shows a recurring narrative structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0758
+  input_sha256: 6fae750f54b9851c8e970ba1b444e26644f4610744793b4b603375294872d605
+

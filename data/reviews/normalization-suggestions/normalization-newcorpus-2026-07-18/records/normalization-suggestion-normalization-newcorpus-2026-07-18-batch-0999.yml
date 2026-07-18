@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0999
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.water-management-creates-prosperity-or-ruin
+  motif_id: water_management_creates_prosperity_or_ruin
+  label: Water management creates prosperity or ruin
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe irrigation, civic order, environmental ethics,
+    or passage-specific commentary rather than a stable mythic motif.
+  cautions: Do not map to sacred_waters unless water has sacred, boundary, purifying,
+    destructive, or transformative function in the source.
+  suggested_aliases:
+  - water_control_prosperity_ruin
+  - water_management_as_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-mediated-miraculous-cleansing-of-leprosy
+  motif_id: water_mediated_miraculous_cleansing_of_leprosy
+  label: water-mediated miraculous cleansing of leprosy
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Water functions as a miraculous cleansing and healing medium, fitting
+    sacred waters as purifier and transformer.
+  cautions: If the episode emphasizes divine agent more than water, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - miraculous_cleansing_by_water
+  - healing_water_cleanses_leprosy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-obstacle-imposed-by-sorcery-and-crossed-by-magic-implement
+  motif_id: water_obstacle_imposed_by_sorcery_and_crossed_by_magic_implement
+  label: Water obstacle imposed by sorcery and crossed by magic implement
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is a perilous water boundary crossed through supernatural
+    means, matching passage-through-waters logic.
+  cautions: Could also relate to sacred_treasures if the magic implement is central;
+    avoid flood_and_renewal unless world destruction is present.
+  suggested_aliases:
+  - magical_crossing_of_water_obstacle
+  - sorcerous_water_barrier_crossed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - hero_journey
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-of-life-forsaken
+  motif_id: water_of_life_forsaken
+  label: water of life forsaken
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water of life is a sacred life-giving substance, even when rejected or
+    abandoned.
+  cautions: If the passage emphasizes loss of immortality or failed renewal, relate
+    to death_and_transformation or immortality_without_renewal.
+  suggested_aliases:
+  - forsaken_water_of_life
+  - rejected_life_giving_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - death_and_transformation
+    - immortality_without_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-of-life-grants-extraordinary-longevity
+  motif_id: water_of_life_grants_extraordinary_longevity
+  label: Water of life grants extraordinary longevity
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: A life-giving water that grants longevity functions as a sacred substance
+    conferring death-transcending power.
+  cautions: If longevity is defective or burdensome, add relation to immortality_without_renewal;
+    if it restores the dead, death_and_transformation may be stronger.
+  suggested_aliases:
+  - water_of_life_grants_longevity
+  - life_giving_water_bestows_long_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - death_and_transformation
+    - immortality_without_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-of-life-restores-the-tormented-hero
+  motif_id: water_of_life_restores_the_tormented_hero
+  label: water of life restores the tormented hero
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration of a suffering hero by life-giving water is a renewal or
+    revival pattern.
+  cautions: If the emphasis is the magical substance itself rather than the hero's
+    restoration, sacred_substance should be primary; if ritual cleansing, sacred_waters
+    may be secondary.
+  suggested_aliases:
+  - water_of_life_restores_hero
+  - life_giving_water_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-peril-and-hidden-weapon-imagery
+  motif_id: water_peril_and_hidden_weapon_imagery
+  label: water peril and hidden weapon imagery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines water danger with weapon imagery, but the narrative
+    function is unclear from wording alone.
+  cautions: May be an over-specific evidence note; map only after determining whether
+    the passage centers on water crossing, combat, ambush, or symbolic imagery.
+  suggested_aliases:
+  - water_peril_hidden_weapon
+  - hidden_weapon_at_water_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-peril-overcome-by-supernatural-aid
+  motif_id: water_peril_overcome_by_supernatural_aid
+  label: water peril overcome by supernatural aid
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous water passage overcome through aid fits the sacred waters
+    boundary-crossing pattern.
+  cautions: If the helper's intervention is the main motif, divine_intervention may
+    be a co-primary mapping; do not infer flood renewal.
+  suggested_aliases:
+  - supernaturally_aided_water_crossing
+  - water_peril_surmounted_by_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-place-as-capture-site
+  motif_id: water_place_as_capture_site
+  label: water-place as capture site
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A water-place used for capture may be sacred geography, ambush setting,
+    spirit danger, or local place-tradition depending on source evidence.
+  cautions: Culturally sensitive place-based traditions need review; avoid flattening
+    a named or locally sacred site into a generic water motif.
+  suggested_aliases:
+  - capture_at_water_place
+  - water_site_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - threshold_guardian
+    - otherworld
+    - sacred_geography_pilgrimage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-place-legends
+  motif_id: water_place_legends
+  label: water-place legends
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to name a legend category or corpus setting rather
+    than a specific narrative or symbolic motif.
+  cautions: If the source contains a recurrent sacred water-site function, remap the
+    specific function to sacred_waters, otherworld, or threshold_guardian instead.
+  suggested_aliases:
+  - water_place_legend_category
+  - legends_of_water_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - otherworld
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use water broadly; distinguish sacred water, perilous boundary crossing,
+  life-giving substance, local place tradition, and practical water management.
+- Water of life motifs may warrant future review as a recurring child cluster under
+  sacred_substance or sacred_waters if more examples accumulate.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for low-confidence water-place
+    and water-management labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0999
+  input_sha256: 6f0e6c6e8a88525f945541a3312942f4289c4fbfef32edf978724816d0705603
+

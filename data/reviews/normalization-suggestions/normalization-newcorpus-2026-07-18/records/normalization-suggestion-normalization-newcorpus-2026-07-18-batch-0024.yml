@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0024
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.corn-meal-path-for-bride-s-return
+  motif_id: corn_meal_path_for_bride_s_return
+  label: Corn-meal path for bride's return
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a ritual path or return marker, but the death/descent
+    relevance is unclear from wording alone.
+  cautions: Single Hopi occurrence; may be culturally specific ritual evidence, bridal
+    return, mortuary return, or passage artifact. Needs source review before mapping.
+  suggested_aliases:
+  - ritual_path_for_return
+  - cornmeal_path_return_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corporeal-imagery-for-spiritual-pleasures
+  motif_id: corporeal_imagery_for_spiritual_pleasures
+  label: Corporeal imagery for spiritual pleasures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an interpretive theme about embodied language for spiritual
+    reward rather than a clear narrative motif.
+  cautions: May be theological commentary, afterlife imagery, mystical symbolism,
+    or source-specific exegesis. Avoid mapping to afterlife_passage without evidence
+    of a postmortem journey or mapped realm.
+  suggested_aliases:
+  - embodied_imagery_of_spiritual_reward
+  - corporeal_language_for_spiritual_bliss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - mystical_quest
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-associated-demon-remaining-with-the-body
+  motif_id: corpse_associated_demon_remaining_with_the_body
+  label: corpse-associated demon remaining with the body
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A harmful spirit attached to a corpse fits existing spirit-contagion
+    and mortuary danger patterns under sacred_law.
+  cautions: Could also relate to restless_dead_haunting_vengeance if the dead person
+    is active, or divine_intervention if the entity has agentive spirit role. Review
+    culturally specific terminology carefully.
+  suggested_aliases:
+  - corpse_spirit_contagion
+  - demon_remaining_with_corpse
+  - mortuary_spirit_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-bearing-animal-choosing-the-path
+  motif_id: corpse_bearing_animal_choosing_the_path
+  label: corpse-bearing animal choosing the path
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An animal bearing a corpse and determining the route is best treated
+    as a funerary rite or burial-location procedure.
+  cautions: If the animal acts as a supernatural guide, divine_intervention or animal_helpers
+    may be a secondary relation. If the path determines an afterlife route, afterlife_passage
+    may be relevant.
+  suggested_aliases:
+  - funerary_animal_chooses_route
+  - corpse_bearing_beast_selects_burial_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-bleeding-before-the-slayer
+  motif_id: corpse_bleeding_before_the_slayer
+  label: corpse bleeding before the slayer
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A corpse miraculously bleeding before its killer functions as revelation,
+    accusation, or judgment of hidden wrongdoing.
+  cautions: Could also fit dream_and_vision or sacred_treasures only if framed as
+    omen or relic. Preserve as granular evidence unless this ordeal-of-corpse accusation
+    recurs.
+  suggested_aliases:
+  - bleeding_corpse_accuses_killer
+  - corpse_bleeds_to_reveal_murderer
+  - cruentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-clings-to-wrongdoer-as-lifelong-burden
+  motif_id: corpse_clings_to_wrongdoer_as_lifelong_burden
+  label: Corpse clings to wrongdoer as lifelong burden
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The clinging corpse externalizes guilt or punishment, functioning as
+    moral reckoning for wrongdoing.
+  cautions: If the corpse is an active revenant, restless_dead_haunting_vengeance
+    may be a stronger placement. Single occurrence and may be tale-specific.
+  suggested_aliases:
+  - corpse_as_burden_of_guilt
+  - wrongdoer_burdened_by_clinging_corpse
+  - corpse_punishes_wrongdoer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-contested-for-stripping-or-rescue-during-battle
+  motif_id: corpse_contested_for_stripping_or_rescue_during_battle
+  label: Corpse contested for stripping or rescue during battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Battlefield struggle over a corpse concerns retrieval, honor, stripping,
+    and the dead hero's treatment before burial.
+  cautions: May also index under sacred_combat if the combat over the body is the
+    central scene. Keep distinct from afterlife passage unless burial fate is emphasized.
+  suggested_aliases:
+  - battlefield_body_contest
+  - corpse_rescue_in_battle
+  - contest_over_fallen_warrior_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-desecration-after-combat
+  motif_id: corpse_desecration_after_combat
+  label: corpse desecration after combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Desecration of a fallen body is a negative counterpart to heroic burial
+    honors and memorial order.
+  cautions: Could also relate to sacred_combat when the desecration is part of warfare
+    ethics or vengeance. Avoid making it an afterlife motif without evidence about
+    the soul's fate.
+  suggested_aliases:
+  - postcombat_body_desecration
+  - desecration_of_fallen_enemy
+  - abuse_of_corpse_after_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-desecration-after-heroic-death
+  motif_id: corpse_desecration_after_heroic_death
+  label: Corpse desecration after heroic death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on dishonoring a dead hero's body, directly opposing
+    proper heroic funeral treatment.
+  cautions: May duplicate corpse_desecration_after_combat; consider aliasing rather
+    than preserving both as separate normalized children.
+  suggested_aliases:
+  - heroic_corpse_desecration
+  - desecration_of_dead_hero
+  - abuse_of_heroic_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-display-and-final-kiss-invitation
+  motif_id: corpse_display_and_final_kiss_invitation
+  label: corpse display and final kiss invitation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Displaying the corpse and inviting a final kiss belongs with funeral
+    rites and memorial farewell practices.
+  cautions: If the kiss triggers death, revenant contact, or supernatural transformation,
+    another group such as death_and_transformation or restless_dead_haunting_vengeance
+    may be needed. Single occurrence may be episode-specific.
+  suggested_aliases:
+  - final_kiss_to_displayed_corpse
+  - corpse_farewell_kiss
+  - funerary_final_kiss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern treatment of corpses after combat. Existing
+  heroic_funeral_rites can hold retrieval, desecration, display, denial, and memorialization
+  without creating new groups.
+- Items involving corpse-attached spirits or corpse danger should be reviewed for
+  culturally specific terminology and may need secondary links to sacred_law, restless_dead_haunting_vengeance,
+  or ancestor_rites depending on source evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Hopi, Navajo, Islamic, and mortuary practice labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0024
+  input_sha256: 1e9d473a14566eb3e314ad0eeb908371fadf6a0b710652b03018490b1cdd9e6e
+

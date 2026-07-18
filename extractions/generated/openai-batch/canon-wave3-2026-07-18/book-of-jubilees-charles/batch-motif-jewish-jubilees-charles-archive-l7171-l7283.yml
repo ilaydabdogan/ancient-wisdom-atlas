@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l7171-l7283
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: THE BOOK OF JUBILEES / CHAPTER IV. 1-9 31 / THE BOOK OF JUBILEES / CHAPTER
+    IV. 10-15 33; lines 7171-7283
+  start: '7171'
+  end: '7283'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“he called his name Jared; for in his days the angels of the Lord descended
+    on the earth”"
+  summary: 'The passage continues an early genealogy with dated marriages and births:
+    Nédam bears Kenan; Kenan marries his sister Mfialéléth and fathers Mahalalel;
+    Mahalalel marries Dinah, a kinswoman from his father’s brother’s line, and fathers
+    Jared. Jared’s days are associated with the descent of the angels of the Lord
+    to earth. The notes discuss kinship-marriage changes and compare the angel-descent
+    tradition with Genesis 6:1-4, Isaiah 24:21, Enochic literature, and later Jewish
+    interpretations.'
+  language: English, with some Greek and transliterated Semitic/Ethiopic material
+    in notes
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Nédam is taken as a sister-wife by an unnamed/prior male subject in the sentence
+    and bears a son named Kenan in a dated year.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kenan takes Mfialéléth, identified as his sister, as his wife; she bears him
+    a son named Mahalalel, with jubilee and week dating supplied.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mahalalel takes Dinah as wife; Dinah is described through Baraki’él and the
+    father’s-brother kinship line; she bears a son named Jared.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:4
+  text: Jared’s naming is linked in the text to the statement that the angels of the
+    Lord descended on the earth in his days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:5
+  text: The editorial note states that after the descent of the angels, men cease
+    marrying their sisters and take wives from their fathers’ brothers’ families.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The editorial note connects the descent of angels with traditions about the
+    fall of angels and their intercourse with daughters of men, while also noting
+    later Jewish reinterpretations of Genesis 6:2.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed/prior male subject who takes Nédam
+  description: The sentence begins midstream; the male subject is not named in the
+    provided excerpt but is the one who takes Nédam, his sister, as wife and names
+    the son Kenan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nédam
+  description: A sister taken as wife who bears Kenan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kenan
+  description: Son borne by Nédam; later takes Mfialéléth his sister as wife and names
+    his son Mahalalel.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Mfialéléth / Méaléléth
+  description: Kenan’s sister-wife, identified in the note with the feminine form
+    Méaléléth; she bears Mahalalel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mahalalel
+  description: Son of Kenan and Mfialéléth; later takes Dinah as wife and names his
+    son Jared.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Dinah
+  description: Wife of Mahalalel and mother of Jared; described as daughter of Baraki’él
+    and connected with the father’s-brother kinship line.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:7
+  name_or_label: Baraki’él
+  description: Named in the patronymic/kinship description of Dinah.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:8
+  name_or_label: Jared
+  description: Son of Mahalalel and Dinah; his days are associated with the descent
+    of the angels of the Lord.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:9
+  name_or_label: angels of the Lord
+  description: Heavenly beings said to descend on the earth in Jared’s days.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: sister-wife and mother
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Nédam and Mfialéléth are each identified as a sister taken as wife and as
+    bearing a son.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: husband-father in genealogy
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  basis: The passage presents male figures taking wives and naming sons in genealogical
+    sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: born son and named descendant
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:8
+  basis: Kenan, Mahalalel, and Jared are each named as sons born in the sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: kinswoman-wife from father’s-brother line
+  assigned_to:
+  - fig:6
+  basis: Dinah is taken as wife and described through Baraki’él and the father’s-brother
+    kinship line.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:5
+  label: patronymic kin figure
+  assigned_to:
+  - fig:7
+  basis: Baraki’él is named in the kinship description of Dinah.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:6
+  label: descending heavenly beings
+  assigned_to:
+  - fig:9
+  basis: The angels of the Lord are said to descend on the earth.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: angels of the Lord
+  literal_form: Heavenly beings described as descending to earth.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: earth as destination of descent
+  literal_form: The earth is the place onto which the angels of the Lord descend.
+  associated_figures:
+  - fig:9
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: jubilee-week-year chronology
+  literal_form: Events are dated by jubilees, weeks, and years, such as the eighth
+    jubilee, ninth jubilee, and specific weeks/years.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Nédam bears Kenan
+  summary: A sister named Nédam is taken as wife by the unnamed/prior male subject
+    of the sentence and bears a son named Kenan in a dated year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kenan fathers Mahalalel through Mfialéléth
+  summary: Kenan marries Mfialéléth, his sister, and she bears Mahalalel within the
+    dated jubilee chronology.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mahalalel fathers Jared through Dinah
+  summary: Mahalalel takes Dinah as wife; she bears Jared, and Jared’s days are connected
+    with the descent of the angels of the Lord to earth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Editorial note on marriage transition and angel tradition
+  summary: The notes explain a perceived transition from sister marriage to marriages
+    with women from fathers’ brothers’ families and compare the angel descent with
+    Genesis 6 and other Jewish and early Christian traditions.
+  figure_refs:
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dated genealogical succession by marriage, birth, and naming
+  taxonomy_refs: []
+  basis: The passage repeats a sequence of taking a wife, bearing a son, naming the
+    son, and placing the event within jubilee chronology.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a structural genealogical pattern rather than a strongly marked
+    mythic motif.
+- id: motif:2
+  label: sibling marriage in early genealogy
+  taxonomy_refs:
+  - sibling_pair
+  basis: Nédam and Mfialéléth are each identified as sisters taken as wives in the
+    genealogical sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference 'sibling_pair' is broad; the passage
+    specifically concerns sibling marriage, not merely sibling pairing.
+- id: motif:3
+  label: transition from sister marriage to father’s-brother-line marriage
+  taxonomy_refs: []
+  basis: The editorial note explicitly states that from the descent of the angels
+    onward men cease marrying their sisters and take wives from their fathers’ brothers’
+    families.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The transition is stated in editorial commentary rather than narrated
+    at length in the excerpt.
+- id: motif:4
+  label: descent of heavenly beings to earth in Jared’s days
+  taxonomy_refs: []
+  basis: The text says the angels of the Lord descended on the earth in the days of
+    Jared.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The provided taxonomy list does not include a direct 'descent of angels'
+    motif; no taxonomy reference is assigned.
+- id: motif:5
+  label: fallen angels and intercourse with daughters of men as interpretive tradition
+  taxonomy_refs: []
+  basis: The note identifies the angel descent with a later Jewish form of the myth
+    about the fall of angels and their intercourse with daughters of men.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The intercourse motif is discussed in the note as comparative interpretation;
+    it is not narrated in the main excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the passage’s statement that angels descended in Jared’s
+    days with the interpretation of Genesis 6:1-4 found in Enochic literature and
+    several Jewish and early Christian sources.
+  claim_level: same_motif
+  target: Genesis 6:1-4, Isaiah 24:21, Enoch literature, Testaments of the XII Patriarchs,
+    Philo, Jude, Peter, Josephus, Justin Martyr, and early Christian writers
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The comparison is supplied by Charles’s note, not by the narrative
+    voice alone; the same note records later Jewish objections and alternative translations.
+- id: claim:2
+  claim: The note says Epiphanius’s remark about the move from sister marriage to
+    marriage with relatives from fathers’ brothers appears to be taken from Jubilees.
+  claim_level: historical_contact
+  target: Epiphanius, Haer. xxxix. 7, in relation to Jubilees / Little Genesis
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording 'appears' is editorial and requires external verification;
+    the passage itself provides only the editor’s assessment.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7171-7175; Chapter IV.13 within supplied range
+  quote_or_summary: "“took Nédam his sister to be his wife, and she bare him a son
+    ... and he called his name Kenan.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 7175-7181; Chapter IV.14 within supplied range
+  quote_or_summary: "“Kenan ... took Mfialéléth his sister to be his wife, and she
+    bare him a son ... and he called his name Mahalalel.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 7181-7187; Chapter IV.15 within supplied range
+  quote_or_summary: "“Mahalalel took unto him to wife Dinah ... and she bare him a
+    son ... and he called his name Jared; for in his days the angels of the Lord descended
+    on the earth.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 7204-7230; note to Chapter IV.15 within supplied range
+  quote_or_summary: The note states that from the descent of the angels onward men
+    cease marrying sisters and instead take wives from their fathers’ brothers’ families,
+    citing Epiphanius and saying the last clause appears taken from Jubilees.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7248-7270; note to Chapter IV.15 within supplied range
+  quote_or_summary: The note says the later Jewish form of the fall-of-angels myth
+    and intercourse with daughters of men is constructed on Genesis 6:1-4 and Isaiah
+    24:21, and that this interpretation is found in Jubilees, Enoch literature, Testaments
+    of the XII Patriarchs, Philo, Jude, Peter, Josephus, Justin Martyr, and early
+    Christian writers.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7270-7283; note to Chapter IV.15 within supplied range
+  quote_or_summary: The note records that some later Jewish interpreters rejected
+    the 'sons of God' interpretation of Genesis 6:2, rendering the phrase instead
+    as judges, sons of the mighty, judges and magistrates, or presenting multiple
+    interpretations side by side.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7242-7247; note to Chapter IV.15 within supplied range
+  quote_or_summary: The note says the phrase about Jared’s days contains a play on
+    Jared’s name in the original.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 7231-7241; note to Chapter IV.15 within supplied range
+  quote_or_summary: The note discusses the reading 'father’s brother' for Dinah’s
+    kinship line, mentioning manuscript variation and support from Syriac, Greek,
+    and Epiphanius.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative is clear for the marriage-birth-name sequence and angel descent,
+    but the excerpt begins mid-sentence and includes OCR noise and dense editorial
+    notes. Comparisons derive mainly from Charles’s commentary in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned unless directly supported by the supplied taxonomy and passage. The 'sibling_pair' reference is used cautiously for the sibling-marriage pattern.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l7171-l7283
+  passage_sha256=193a90ce39cff89ab0f13501ab96567afadc1573b3f095bd7ccbb7cc3d934a08
+

@@ -1,0 +1,331 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1408
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fourfold-color-direction-cosmology
+  motif_id: fourfold_color_direction_cosmology
+  label: fourfold color-direction cosmology
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Directional Cosmology and Sacred Numbering
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a structured cosmological correspondence among colors,
+    directions, and number four, not just generic duality or cosmic origin.
+  cautions: Culturally specific Navajo directional-color systems should be reviewed
+    with source evidence; avoid flattening into a universal four-elements pattern.
+  suggested_aliases:
+  - color-direction cosmology
+  - four directions cosmology
+  - sacred directional correspondence
+  suggested_new_group:
+    id: directional_cosmology_sacred_numbering
+    label: Directional Cosmology and Sacred Numbering
+    description: Cosmic order expressed through numbered directions, colors, domains,
+      beings, actions, or ritual correspondences, especially where spatial orientation
+      organizes sacred knowledge, ritual, or world structure.
+    parent_group_ids:
+    - cosmic_origin
+    - duality
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin, duality,
+      and sacred center, but not recurring directional-number correspondences such
+      as four-direction color systems.
+- suggestion_id: normalization.suggestion.fourfold-composite-heavenly-beings
+  motif_id: fourfold_composite_heavenly_beings
+  label: Fourfold composite heavenly beings
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Composite heavenly beings may appear within visionary theophany, but
+    the label could also describe angelic iconography or throne-vision imagery.
+  cautions: Needs passage evidence to decide whether this is a divine manifestation,
+    a heavenly court being, a symbolic creature motif, or an over-specific descriptive
+    artifact.
+  suggested_aliases:
+  - composite heavenly beings
+  - four living creatures
+  - fourfold angelic beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-directional-and-repeated-action-pattern
+  motif_id: fourfold_directional_and_repeated_action_pattern
+  label: fourfold directional and repeated action pattern
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Directional Cosmology and Sacred Numbering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fourfold directional repetition suggests ritual or narrative action organized
+    by sacred directional numbering.
+  cautions: May be a formulaic passage structure rather than a motif unless the four
+    directions carry ritual or cosmological meaning in the source.
+  suggested_aliases:
+  - four-direction repeated action
+  - fourfold directional repetition
+  - ritual fourfold repetition
+  suggested_new_group:
+    id: directional_cosmology_sacred_numbering
+    label: Directional Cosmology and Sacred Numbering
+    description: Cosmic order expressed through numbered directions, colors, domains,
+      beings, actions, or ritual correspondences, especially where spatial orientation
+      organizes sacred knowledge, ritual, or world structure.
+    parent_group_ids:
+    - cosmic_origin
+    - duality
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups do not clearly distinguish
+      sacred directional-number patterns from general cosmic order, ritual law, or
+      narrative repetition.
+- suggestion_id: normalization.suggestion.fourfold-doctrinal-foundation
+  motif_id: fourfold_doctrinal_foundation
+  label: Fourfold doctrinal foundation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: A doctrinal foundation may be sacred teaching or wisdom, but the label
+    is abstract and may be commentary rather than narrative motif.
+  cautions: Review whether the source presents a mythic-symbolic fourfold structure
+    or a theological/editorial summary; may need exclusion if it is only doctrinal
+    classification.
+  suggested_aliases:
+  - fourfold doctrine
+  - four foundations of doctrine
+  - doctrinal fourfold structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-domain-correspondence
+  motif_id: fourfold_domain_correspondence
+  label: fourfold domain correspondence
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Directional Cosmology and Sacred Numbering
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns ordered correspondences among four domains, fitting
+    a broader directional or sacred-number cosmology candidate.
+  cautions: Needs source context to know what the domains are and whether they are
+    spatial, ritual, social, elemental, or textual categories.
+  suggested_aliases:
+  - four-domain correspondence
+  - fourfold cosmological correspondence
+  - sacred fourfold correspondence
+  suggested_new_group:
+    id: directional_cosmology_sacred_numbering
+    label: Directional Cosmology and Sacred Numbering
+    description: Cosmic order expressed through numbered directions, colors, domains,
+      beings, actions, or ritual correspondences, especially where spatial orientation
+      organizes sacred knowledge, ritual, or world structure.
+    parent_group_ids:
+    - cosmic_origin
+    - duality
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - sacred_time
+    reason_existing_groups_insufficient: Existing cosmic_origin and duality groups
+      are too broad and do not preserve numbered correspondence systems.
+- suggestion_id: normalization.suggestion.fourfold-founder-dispersal
+  motif_id: fourfold_founder_dispersal
+  label: Fourfold founder dispersal
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Founder dispersal in fourfold form likely explains origins of peoples,
+    lineages, places, or world order, which fits the existing origin/etiology group.
+  cautions: If the passage emphasizes migration or heroic journey rather than etiological
+    founding, hero_journey or royal_legitimacy may be relevant secondary mappings.
+  suggested_aliases:
+  - four founders dispersed
+  - fourfold origin dispersal
+  - founder dispersal to four directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-medicinal-purging-or-treatment
+  motif_id: fourfold_medicinal_purging_or_treatment
+  label: Fourfold medicinal purging or treatment
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A repeated medicinal treatment may be ritualized healing or purification,
+    but the current groups only partially cover healing, apotropaic protection, and
+    sacred law.
+  cautions: Culturally sensitive healing practice; verify whether it is a sacred ritual,
+    medical ethnographic detail, purification rite, or passage-specific action before
+    indexing.
+  suggested_aliases:
+  - fourfold medicinal treatment
+  - fourfold purging rite
+  - ritual medicinal purging
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-repetition-and-four-adversaries
+  motif_id: fourfold_repetition_and_four_adversaries
+  label: Fourfold repetition and four adversaries
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The adversary element may point to ordeal or combat, while fourfold repetition
+    points to sacred-number structure.
+  cautions: Needs evidence to determine whether the core motif is combat with adversaries,
+    initiation trial, ritual repetition, or a narrative formula; do not map solely
+    because adversaries appear.
+  suggested_aliases:
+  - four adversaries
+  - fourfold adversary sequence
+  - fourfold combat repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-repetition-before-disclosure-or-permission
+  motif_id: fourfold_repetition_before_disclosure_or_permission
+  label: Fourfold repetition before disclosure or permission
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: low
+  rationale: Repetition before disclosure may regulate access to knowledge or permission,
+    but the fourfold form may be ritual formula rather than a standalone motif.
+  cautions: Review whether disclosure concerns sacred knowledge, social authorization,
+    taboo speech, or merely repeated dialogue; may belong under curse_blessing_speech
+    if performative utterance is central.
+  suggested_aliases:
+  - fourfold request before disclosure
+  - four repetitions before permission
+  - ritual repetition before revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-symmetrical-ceremonial-architecture
+  motif_id: fourfold_symmetrical_ceremonial_architecture
+  label: fourfold symmetrical ceremonial architecture
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ceremonial architecture with fourfold symmetry often organizes sacred
+    space around a center and directions, fitting axis mundi/world center queries.
+  cautions: If the evidence emphasizes urban planning or comparative architecture
+    rather than sacred center function, it may be a contextual artifact; directional
+    cosmology may be a useful secondary candidate.
+  suggested_aliases:
+  - fourfold ceremonial architecture
+  - quadripartite sacred architecture
+  - four-direction ceremonial plan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern fourfold or directional ordering. A reusable
+  review candidate for directional cosmology and sacred numbering may preserve meaning
+  better than forcing all cases into duality, axis_mundi, or cosmic_origin.
+- Treat culturally specific Navajo, Zuni, Maya, Nahua, Inca, biblical, and Islamic
+  contexts cautiously; the shared number four is not evidence of transmission or common
+  origin.
+- Single-occurrence labels with abstract wording may be generated summaries or passage
+  artifacts and should be checked against source evidence before taxonomy changes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific fourfold ritual and cosmological systems.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1408
+  input_sha256: bdb068ec0a5ccbe1fe7b7a4d3297bea386e6a7149bfe24989d4053f819a4718e
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1341
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cumulative-naming-dialogue
+  motif_id: cumulative_naming_dialogue
+  label: cumulative naming dialogue
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A naming dialogue is a speech/narrative performance pattern, likely involving
+    knowledge, identity, or verbal power.
+  cautions: Single occurrence and vague label; may be a riddle, catalog, formulaic
+    dialogue, or passage-specific literary device.
+  suggested_aliases:
+  - naming dialogue
+  - formulaic naming exchange
+  - cumulative name exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cunning-as-condition-for-obtaining-treasure
+  motif_id: cunning_as_condition_for_obtaining_treasure
+  label: cunning as condition for obtaining treasure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Obtaining treasure through cunning fits trickster-like boundary crossing
+    and clever acquisition.
+  cautions: If the treasure is primarily a divine power object, sacred_treasures may
+    be a secondary mapping; source context needed.
+  suggested_aliases:
+  - cleverness wins treasure
+  - cunning treasure acquisition
+  - trickster obtains treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cure-through-concealed-medicated-object-and-prescribed-actions
+  motif_id: cure_through_concealed_medicated_object_and_prescribed_actions
+  label: cure through concealed medicated object and prescribed actions
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines healing, hidden object, and ritual instructions, but
+    no existing group cleanly captures medical cure motifs.
+  cautions: May be a tale-specific remedy detail rather than a durable motif; could
+    touch sacred_treasures, sacred_law, divine_intervention, or sacred_substance depending
+    on evidence.
+  suggested_aliases:
+  - hidden medicinal object cure
+  - prescribed-action cure
+  - concealed remedy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.custodian-steals-entrusted-property
+  motif_id: custodian_steals_entrusted_property
+  label: custodian steals entrusted property
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The central pattern is violation of entrusted responsibility, a clear
+    breach of trust.
+  cautions: If the passage emphasizes legal adjudication or punishment, divine_judgment
+    or sacred_law may be relevant secondary mappings.
+  suggested_aliases:
+  - entrusted property stolen by guardian
+  - breach of custodial trust
+  - trustee theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.custodians-of-natural-domains
+  motif_id: custodians_of_natural_domains
+  label: custodians of natural domains
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Spirit or divine custodians of natural domains fit protective or governing
+    sacred agency in human and natural affairs.
+  cautions: Culturally specific beings may not be generic 'intervention'; could merit
+    a nature-spirit/land-custodian group if many recur.
+  suggested_aliases:
+  - guardians of natural domains
+  - domain custodians
+  - nature guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.customary-survival-of-an-old-prohibition
+  motif_id: customary_survival_of_an_old_prohibition
+  label: Customary survival of an old prohibition
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to a surviving taboo or customary rule, but may describe
+    ethnographic interpretation rather than a narrative motif.
+  cautions: Culturally sensitive and context-dependent; avoid reducing local law/custom
+    to a generic prohibition without source review.
+  suggested_aliases:
+  - surviving old prohibition
+  - customary taboo survival
+  - traditional prohibition retained
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cycle-of-avengers-through-descendants
+  motif_id: cycle_of_avengers_through_descendants
+  label: cycle of avengers through descendants
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intergenerational vengeance belongs with combat and revenge cycles that
+    organize conflict across kin lines.
+  cautions: If the dead actively demand vengeance, restless_dead_haunting_vengeance
+    may be a better or secondary mapping.
+  suggested_aliases:
+  - intergenerational vengeance cycle
+  - descendant avengers
+  - hereditary revenge cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclical-alternation-of-cosmic-powers
+  motif_id: cyclical_alternation_of_cosmic_powers
+  label: Cyclical alternation of cosmic powers
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Alternating cosmic powers express paired or opposed forces structuring
+    the cosmos.
+  cautions: If the emphasis is temporal ages or decline, world_ages_cosmic_decline
+    or sacred_time may be more precise.
+  suggested_aliases:
+  - alternating cosmic powers
+  - cyclical cosmic opposition
+  - rotation of cosmic powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclical-calendrical-rotation
+  motif_id: cyclical_calendrical_rotation
+  label: cyclical calendrical rotation
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: Calendrical rotation is a clear sacred-time and ritual-cycle pattern.
+  cautions: Maya calendar concepts are specific; preserve local calendrical terminology
+    and avoid flattening into generic seasonal cycle.
+  suggested_aliases:
+  - calendar cycle rotation
+  - ritual calendar rotation
+  - cyclical calendar reckoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclical-time-reckoning-by-ruling-number
+  motif_id: cyclical_time_reckoning_by_ruling_number
+  label: cyclical time reckoning by ruling number
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: Number-governed cyclical time reckoning fits sacred temporal ordering
+    and calendrical cycle logic.
+  cautions: Preserve the numerical/calendar specificity as evidence; may relate to
+    fate_figures_cosmic_weaving only if numbers govern destiny rather than timekeeping.
+  suggested_aliases:
+  - number-governed time cycle
+  - ruling-number calendar reckoning
+  - cyclical numbered time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence and should remain provisional until
+  source evidence confirms narrative function.
+- Maya calendrical labels map well to sacred_time but should preserve local calendar
+  specificity rather than being merged into generic seasonal_cycle.
+- Healing and customary-prohibition labels need source review because they may be
+  ethnographic or passage-specific rather than recurring motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-1341; human review
+    recommended for ambiguous single-occurrence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1341
+  input_sha256: 745f4d17a7e47c54ed24eff64ebb9936839075757c386868681cff52269580aa
+

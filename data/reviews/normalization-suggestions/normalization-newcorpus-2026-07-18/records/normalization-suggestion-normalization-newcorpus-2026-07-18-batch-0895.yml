@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0895
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.creation-as-an-exploit-of-the-glorified-deity
+  motif_id: creation_as_an_exploit_of_the_glorified_deity
+  label: creation as an exploit of the glorified deity
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label treats creation as a divine act establishing the cosmos, fitting
+    the creation group.
+  cautions: Single occurrence; if the passage is mainly praise-language about a deity
+    rather than a cosmogonic episode, keep as evidence detail.
+  suggested_aliases:
+  - divine_creation_exploit
+  - creation_as_divine_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-as-model-for-righteous-work
+  motif_id: creation_as_model_for_righteous_work
+  label: creation as model for righteous work
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Creation is present, but the motif may function as ethical instruction
+    rather than cosmogony.
+  cautions: Could map to sacred_law or wisdom if creation is only an analogy for righteous
+    conduct; source evidence needed.
+  suggested_aliases:
+  - creation_as_ethical_model
+  - cosmic_order_as_model_for_righteous_work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-by-imagination
+  motif_id: creation_by_imagination
+  label: creation by imagination
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mode of bringing reality into being belongs under creation mechanisms
+    within cosmic origin.
+  cautions: If 'imagination' reflects poetic inspiration or storytelling rather than
+    literal creation, storytelling_as_power or sacred_knowledge may be better.
+  suggested_aliases:
+  - imaginative_creation
+  - creation_by_thought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-from-transformed-passions
+  motif_id: creation_from_transformed_passions
+  label: Creation from transformed passions
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes creation from transformed psychic or affective substances,
+    a cosmogonic origin pattern.
+  cautions: Gnostic source context may make this a technical doctrinal anthropology;
+    review before broad indexing.
+  suggested_aliases:
+  - cosmogony_from_passions
+  - creation_from_psychic_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-joins-human-praise
+  motif_id: creation_joins_human_praise
+  label: creation joins human praise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_song
+  suggested_group_label: Sacred Song
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The motif centers on creation participating in praise, closer to sacred
+    expression than origin narrative.
+  cautions: No canonical group for cosmic liturgy exists; could fit sacred_song, sacred_knowledge,
+    cosmic_order, or be devotional rhetoric rather than motif.
+  suggested_aliases:
+  - cosmic_praise
+  - creation_praises_with_humans
+  - cosmic_liturgy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-joins-in-praise-after-redemption
+  motif_id: creation_joins_in_praise_after_redemption
+  label: Creation joins in praise after redemption
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_song
+  suggested_group_label: Sacred Song
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label emphasizes cosmic praise after salvation, not creation origins.
+  cautions: May belong with redemption, sacred song, divine judgment/renewal, or liturgical
+    imagery; existing groups do not cleanly capture cosmic praise after redemption.
+  suggested_aliases:
+  - creation_praises_after_redemption
+  - redeemed_creation_praise
+  - cosmic_praise_after_redemption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-legend-title
+  motif_id: creation_legend_title
+  label: creation legend title
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase appears to be a title or labeling artifact rather than a motif.
+  cautions: If the underlying passage contains a creation myth, index the actual cosmogonic
+    features separately under cosmic_origin.
+  suggested_aliases:
+  - creation_title
+  - creation_legend_heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-myth-of-a-people
+  motif_id: creation_myth_of_a_people
+  label: Creation myth of a people
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A people’s creation myth is an origin account and fits the broader cosmic/ancestral
+    origin group.
+  cautions: If it concerns ethnic ancestry rather than world creation, preserve relation
+    to eponymous ancestors or people-origins evidence within cosmic_origin.
+  suggested_aliases:
+  - people_creation_myth
+  - origin_myth_of_a_people
+  - ethnogonic_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-a-race-from-primordial-body-and-earth
+  motif_id: creation_of_a_race_from_primordial_body_and_earth
+  label: Creation of a race from primordial body and earth
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: functional_variant
+  confidence: high
+  rationale: Creation from a primordial body directly matches the primordial body/dismemberment
+    creation complex.
+  cautions: If there is no death, sacrifice, or dismemberment, cosmic_origin may be
+    the safer parent; preserve race/people origin as detail.
+  suggested_aliases:
+  - race_created_from_primordial_body
+  - people_created_from_earth_and_body
+  - ethnogony_from_primordial_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-a-wondrous-object-through-rare-ingredients-and-magical-metallurgy
+  motif_id: creation_of_a_wondrous_object_through_rare_ingredients_and_magical_metallurgy
+  label: Creation of a wondrous object through rare ingredients and magical metallurgy
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Magical metallurgy producing a wondrous object fits sacred craft and
+    forging of power objects.
+  cautions: If the object primarily confers authority or supernatural power after
+    creation, also relate to sacred_treasures; do not map to cosmic_origin just because
+    of the word creation.
+  suggested_aliases:
+  - magical_metallurgy
+  - forging_wondrous_object_from_rare_ingredients
+  - creation_of_wondrous_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'creation' broadly; placement distinguishes cosmogonic creation
+  from ethical analogy, liturgical praise, and crafted-object manufacture.
+- Single-occurrence items should remain provisional until passage evidence confirms
+  recurring motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0895
+  input_sha256: d38a227f9ad6b1c92aa23df05442bdf7aedb0a54d67bd6bd5ee35c850b5b381b
+

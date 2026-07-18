@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1120
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.older-monster-episode-embedded-in-battlefield-setting
+  motif_id: older_monster_episode_embedded_in_battlefield_setting
+  label: Older monster episode embedded in battlefield setting
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes compositional embedding of an older episode, not
+    the monster-combat motif itself.
+  cautions: If the source passage preserves an actual monster-slaying scene, index
+    that separately under sacred combat or divine warrior evidence.
+  suggested_aliases:
+  - embedded older monster episode
+  - textual accretion of monster episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.older-mythic-material-accreting-around-a-heroic-cycle
+  motif_id: older_mythic_material_accreting_around_a_heroic_cycle
+  label: Older mythic material accreting around a heroic cycle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a scholarly claim about textual or traditional layering around
+    a cycle rather than a narrative motif.
+  cautions: Do not use as evidence of transmission or origin; preserve only as provenance/commentary
+    if needed.
+  suggested_aliases:
+  - mythic accretion around heroic cycle
+  - older material in heroic cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omen-token-signals-the-hero-s-disaster
+  motif_id: omen_token_signals_the_hero_s_disaster
+  label: Omen token signals the hero's disaster
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An omen token announcing disaster functions as a sign of hidden or future
+    knowledge.
+  cautions: If the token primarily proves identity or kinship, recognition_tokens_hidden_identity
+    may be a secondary fit; if it is just a plot object, keep as evidence detail.
+  suggested_aliases:
+  - disaster omen token
+  - token omen of heroic doom
+  - omen object signals disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-eyed-intervener-controls-hero-s-weapon-fate
+  motif_id: one_eyed_intervener_controls_hero_s_weapon_fate
+  label: One-eyed intervener controls hero’s weapon fate
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A supernatural or marked intervener controlling a hero's weapon outcome
+    fits direct sacred intervention in human conflict.
+  cautions: The one-eyed detail may point to a specific deity or source episode; avoid
+    overgeneralizing without evidence. If the focus is fated death, death_by_fate
+    may be secondary.
+  suggested_aliases:
+  - one-eyed intervener controls weapon fate
+  - supernatural intervener determines weapon outcome
+  - weapon fate controlled by intervener
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-handed-one-footed-one-eyed-heroic-feat
+  motif_id: one_handed_one_footed_one_eyed_heroic_feat
+  label: One-handed, one-footed, one-eyed heroic feat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a culturally specific battle posture, ritualized
+    feat, disability imagery, or episode detail.
+  cautions: Requires source context before mapping to sacred_combat, initiation, shapeshifter,
+    or excluding as an over-specific heroic detail.
+  suggested_aliases:
+  - one-handed one-footed one-eyed feat
+  - ritualized one-eyed heroic posture
+  - asymmetrical heroic feat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opponent-at-the-ford-combat
+  motif_id: opponent_at_the_ford_combat
+  label: opponent at the ford combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Combat at a ford is already represented in the sacred_combat group through
+    ford duel crisis variants.
+  cautions: If the ford functions mainly as a liminal threshold rather than a duel
+    site, threshold_guardian or sacred_waters may be secondary.
+  suggested_aliases:
+  - ford combat
+  - combat at the ford
+  - ford duel opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opposed-champions-in-spear-combat
+  motif_id: opposed_champions_in_spear_combat
+  label: Opposed champions in spear combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A duel between champions using spears fits the single-combat and warrior
+    ordeal scope of sacred_combat.
+  cautions: May be too generic as a battle-scene detail unless the combat has ritual,
+    heroic, or order-determining significance.
+  suggested_aliases:
+  - champion spear duel
+  - opposed champions in combat
+  - single combat with spears
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-of-hunger-cold-and-lost-path-in-hostile-land
+  motif_id: ordeal_of_hunger_cold_and_lost_path_in_hostile_land
+  label: ordeal of hunger, cold, and lost path in hostile land
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile-land survival ordeal with lost path fits journey trial within
+    departure, ordeal, and possible return.
+  cautions: If no transformation or quest structure is present, this may be an over-specific
+    travel hardship rather than a motif.
+  suggested_aliases:
+  - hostile land survival ordeal
+  - hunger cold and lost path ordeal
+  - lost path in hostile land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-or-test-to-reveal-a-thief
+  motif_id: ordeal_or_test_to_reveal_a_thief
+  label: ordeal or test to reveal a thief
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A test that exposes wrongdoing functions as moral reckoning and hidden
+    guilt made visible.
+  cautions: If the test is a trickster detection scene rather than sacred judgment,
+    trickster or sacred_knowledge may be secondary; source evidence is needed.
+  suggested_aliases:
+  - test reveals thief
+  - ordeal to expose theft
+  - theft detection ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-warlike-amazon-like-people
+  motif_id: origin_of_a_warlike_amazon_like_people
+  label: Origin of a warlike Amazon-like people
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ethnogenesis, gendered warrior identity, and outsider
+    comparison that existing groups do not cleanly capture.
+  cautions: Culturally sensitive and possibly shaped by the term 'Amazon-like'; review
+    source evidence before mapping to cosmic_origin, sacred_combat, divine_race, or
+    excluding as a classificatory artifact.
+  suggested_aliases:
+  - origin of warlike women people
+  - origin of warrior people
+  - Amazon-like people origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence conflict labels are highly episode-specific; preserve
+  as evidence details unless recurrence or ritual/narrative function is verified.
+- Labels describing older material, accretion, or embedded episodes should be treated
+  as textual/scholarly artifacts, not motif evidence.
+- Avoid inferring cultural transmission from shared placement in combat or heroic-cycle
+  groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for batch 1120; human review
+    recommended for culturally specific heroic postures and ethnogenesis labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1120
+  input_sha256: '09181bf3d02503a3b70ce53ab540ff1f3892c31448130f6b70bfd38f6d594a6d'
+

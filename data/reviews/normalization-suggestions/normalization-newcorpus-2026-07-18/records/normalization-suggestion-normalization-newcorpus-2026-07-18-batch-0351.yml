@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0351
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.holy-healer-accused-before-civil-authority
+  motif_id: holy_healer_accused_before_civil_authority
+  label: Holy healer accused before civil authority
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines holy healing, accusation, and civil authority; placement
+    depends on whether the passage emphasizes persecution, judgment, healing power,
+    or martyr-like ordeal.
+  cautions: Single occurrence and highly contextual; could be a narrative episode
+    rather than a durable motif.
+  suggested_aliases:
+  - holy healer accused
+  - saintly healer before authority
+  - healer persecuted by civil power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-men-arriving-from-the-east
+  motif_id: holy_men_arriving_from_the_east
+  label: holy men arriving from the east
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Arrival direction and holy-person role may indicate founders, culture
+    heroes, prophecy, or source-specific geography.
+  cautions: Avoid inferring transmission or origin claims from directional arrival
+    alone; source context is required.
+  suggested_aliases:
+  - eastern holy men
+  - sacred visitors from the east
+  - holy founders arriving from the east
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - divine_race
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-name-restrains-an-angry-antagonist
+  motif_id: holy_name_restrains_an_angry_antagonist
+  label: holy name restrains an angry antagonist
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred name functioning as a spoken restraint fits performative sacred
+    speech that binds or transforms through utterance.
+  cautions: If the emphasis is magical compulsion by narrative song or prayer ritual
+    rather than the name itself, storytelling_as_power or sacred_law may be secondary.
+  suggested_aliases:
+  - sacred name restrains antagonist
+  - holy name as binding speech
+  - name of power restrains anger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-person-with-angelic-appearance
+  motif_id: holy_person_with_angelic_appearance
+  label: Holy person with angelic appearance
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A holy figure appearing angelic signals visible manifestation of sacred
+    presence to witnesses.
+  cautions: May be a hagiographic description rather than an event motif; if no manifestation
+    or revelation function is present, treat as evidence detail.
+  suggested_aliases:
+  - angelic appearance of holy person
+  - saint with angelic form
+  - holy person radiating angelic presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-place-made-sacred-by-divine-presence-and-perfected-through-austerity
+  motif_id: holy_place_made_sacred_by_divine_presence_and_perfected_through_austerity
+  label: holy place made sacred by divine presence and perfected through austerity
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A place sanctified by divine presence and austerity functions as a sacred
+    center or charged pilgrimage geography.
+  cautions: If austerity is the central motif, mystical_quest or sacrifice may be
+    secondary; preserve the specific ritual-local context.
+  suggested_aliases:
+  - holy place sanctified by divine presence
+  - austerity-perfected sacred place
+  - sacred site empowered by tapas
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - mystical_quest
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-places-of-tribal-origin
+  motif_id: holy_places_of_tribal_origin
+  label: holy places of tribal origin
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sacred places tied to group origin fit the existing origin and etiological
+    landscape-naming complex.
+  cautions: If the passage focuses on pilgrimage or world-center function rather than
+    origin, axis_mundi may be a better primary group.
+  suggested_aliases:
+  - sacred origin places
+  - tribal origin holy sites
+  - ancestral places of origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-destroys-a-fiend
+  motif_id: holy_water_destroys_a_fiend
+  label: Holy water destroys a fiend
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Holy water used against a demonic being fits water as purifier and protective
+    sacred medium.
+  cautions: If the scene is mainly exorcistic expulsion, sacrifice/ritual_expulsion
+    may be secondary; do not map to flood unless world destruction-renewal is present.
+  suggested_aliases:
+  - holy water destroys demon
+  - sacred water defeats fiend
+  - purifying water against evil spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-woman-unharmed-by-beasts
+  motif_id: holy_woman_unharmed_by_beasts
+  label: Holy woman unharmed by beasts
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection of a holy person from dangerous animals is a direct protective
+    intervention or sign of sanctity.
+  cautions: Could also be ordeal or martyrdom context; source evidence should determine
+    whether beasts are trial, execution instrument, or animal helpers.
+  suggested_aliases:
+  - saint unharmed by beasts
+  - holy woman protected from animals
+  - beasts spare holy woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - divine_judgment
+    - animal_helpers
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honey-as-divinely-guided-healing-provision
+  motif_id: honey_as_divinely_guided_healing_provision
+  label: honey as divinely guided healing provision
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: Honey is a sacred/healing substance supplied or guided by divine agency.
+  cautions: If the emphasis is miraculous supply rather than the substance, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - divinely guided healing honey
+  - honey as sacred medicine
+  - honey as healing provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-vow-limiting-violence-against-an-enemy
+  motif_id: honor_vow_limiting_violence_against_an_enemy
+  label: Honor vow limiting violence against an enemy
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow that binds conduct and limits violence fits performative sacred
+    speech and oath logic.
+  cautions: If the passage emphasizes warrior ethics or legal order more than the
+    vow, sacred_combat or sacred_law may be secondary.
+  suggested_aliases:
+  - vow limiting violence
+  - honor oath restrains combat
+  - oath-bound restraint toward enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several labels are single-occurrence hagiographic or
+  contextual episodes and should be checked against passage evidence before durable
+  indexing.
+- No transmission or contact claims are implied by directional, regional, or cross-tradition
+  similarities.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Mapped clear functional variants to existing normalization groups; left context-dependent
+    origin/persecution labels for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0351
+  input_sha256: d69d46accab53e3dd143405a9e44726a3b49627eb3221f209628db834268c2d5
+

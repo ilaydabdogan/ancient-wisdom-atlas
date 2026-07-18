@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1401
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forbidden-or-guarded-abundance-consumed-by-revelers
+  motif_id: forbidden_or_guarded_abundance_consumed_by_revelers
+  label: forbidden or guarded abundance consumed by revelers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves abundance consumed in a revel or feast, possibly sacred
+    food or drink, but the guarded/forbidden element may instead imply taboo violation
+    or theft.
+  cautions: Single occurrence and context-dependent; could fit sacred_law, sacred_exchange,
+    sacred_treasures, or a passage-specific episode if the abundance is an object
+    or herd rather than food/drink.
+  suggested_aliases:
+  - forbidden_abundance_consumed
+  - guarded_abundance_consumed_by_revelers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-confession-through-threat-of-renewed-enchantment
+  motif_id: forced_confession_through_threat_of_renewed_enchantment
+  label: forced confession through threat of renewed enchantment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A compelled confession produced by magical or enchanted threat fits speech
+    compelled by supernatural force and narrative disclosure.
+  cautions: If the source emphasizes legal proof or judgment rather than magical speech,
+    divine_judgment or sacred_law may be secondary; keep the enchantment detail as
+    evidence.
+  suggested_aliases:
+  - compelled_confession_by_enchantment
+  - magically_coerced_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-dance-in-thorns-used-to-obtain-treasure
+  motif_id: forced_dance_in_thorns_used_to_obtain_treasure
+  label: forced dance in thorns used to obtain treasure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forced dancing is already represented in the enchanting music/sound-compulsion
+    complex, even though this label focuses on coercion to obtain treasure.
+  cautions: If no music, song, or sound compulsion is present, this may instead be
+    trickster coercion or an over-specific tale episode; the thorn and treasure details
+    should remain granular evidence.
+  suggested_aliases:
+  - compulsory_dance_to_obtain_treasure
+  - forced_dance_as_coercion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-exchange-demand-for-an-exceptional-mount
+  motif_id: forced_exchange_demand_for_an_exceptional_mount
+  label: Forced exchange demand for an exceptional mount
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on a coerced exchange, which is near exchange/reciprocity
+    motifs, but the exceptional mount may be a heroic animal or status object.
+  cautions: Could be a horse-heroic episode, royal tribute demand, theft, or passage-specific
+    plot detail; no existing group cleanly captures forced acquisition of mounts.
+  suggested_aliases:
+  - coerced_exchange_for_exceptional_mount
+  - demand_for_heroic_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-silence-lifted-by-public-evidence
+  motif_id: forced_silence_lifted_by_public_evidence
+  label: forced silence lifted by public evidence
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A binding silence resembles a performative speech constraint or taboo
+    whose force is broken by evidentiary revelation.
+  cautions: If the silence is social/legal rather than magical or sacred, divine_judgment
+    or recognition_tokens_hidden_identity may be more relevant; verify that the silence
+    functions as a binding motif.
+  suggested_aliases:
+  - binding_silence_broken_by_evidence
+  - enforced_silence_lifted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-witnessing-of-enemies-eating-the-slain
+  motif_id: forced_witnessing_of_enemies_eating_the_slain
+  label: forced witnessing of enemies eating the slain
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The forced witnessing of violent consumption may function as punishment,
+    humiliation, or moral reckoning, but the label alone does not establish sacred
+    judgment.
+  cautions: Culturally sensitive and highly contextual; may belong under conflict/violence,
+    cannibal enemy imagery, mourning trauma, or passage-specific atrocity rather than
+    a broad sacred motif.
+  suggested_aliases:
+  - forced_witnessing_of_cannibal_feast
+  - compelled_witness_to_consumption_of_the_slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forcible-seizure-of-a-refused-cauldron
+  motif_id: forcible_seizure_of_a_refused_cauldron
+  label: forcible seizure of a refused cauldron
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A cauldron is already represented as a sacred vessel; forcible seizure
+    is a narrative variant around possession of the vessel's power.
+  cautions: If the cauldron is mainly a royal treasure or war spoil, sacred_treasures
+    or sacred_combat may be secondary; preserve the refused-gift/seizure sequence
+    as evidence.
+  suggested_aliases:
+  - seizure_of_refused_cauldron
+  - cauldron_taken_by_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ford-as-place-of-decisive-duel
+  motif_id: ford_as_place_of_decisive_duel
+  label: Ford as place of decisive duel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The group already includes ford duel variants; a decisive duel at a ford
+    fits ritualized heroic combat at a liminal crossing.
+  cautions: Could also relate to threshold or water-boundary symbolism, but the primary
+    function is combat location and crisis point.
+  suggested_aliases:
+  - ford_duel
+  - decisive_duel_at_a_ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreboding-farewell
+  motif_id: foreboding_farewell
+  label: foreboding farewell
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: uncertain
+  confidence: low
+  rationale: A farewell charged with doom may signal fated death or coming loss, but
+    the label is too broad to place confidently.
+  cautions: May be a narrative mood marker rather than a motif; if linked to prophecy
+    or omen, dream_and_vision or prophecy_divination may fit better.
+  suggested_aliases:
+  - ominous_farewell
+  - farewell_before_fated_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-coalition-invading-ireland
+  motif_id: foreign_coalition_invading_ireland
+  label: foreign coalition invading Ireland
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a place-specific historical or episode detail rather
+    than a reusable symbolic motif.
+  cautions: If the passage frames the invaders as a divine race, cosmic enemy, or
+    ritualized invasion pattern, reconsider under divine_race or sacred_combat; otherwise
+    preserve only as evidence/context.
+  suggested_aliases:
+  - foreign_invasion_coalition
+  - coalition_invasion_of_ireland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; suggested placements
+  should be treated as provisional until passage evidence confirms narrative function.
+- Avoid treating violent or culturally specific labels as broad motifs without source
+  review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for ambiguous and
+    culturally sensitive cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1401
+  input_sha256: 62e32aa5ffce32e9ab8c9ca8a5a2b24f89ece1605ae1dc88ea0c5d03fb312993
+

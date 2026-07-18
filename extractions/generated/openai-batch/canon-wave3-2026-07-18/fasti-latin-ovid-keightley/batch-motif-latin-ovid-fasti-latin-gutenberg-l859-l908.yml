@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l859-l908
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'NOTES: / FASTI / KALENDARES ROMANI / JANUARIUS. LIB. I.; lines 859-908'
+  start: '859'
+  end: '908'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Roman January calendar from Ovid’s Fasti lists dates, day classifications,
+    festivals, temple and altar dedications, astronomical risings/settings, a sacrifice
+    to Jupiter Stator, and civic commemorations involving Octavian/Augustus.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as a January calendar, with numbered days, Roman
+    date labels, day classifications, and brief notes attached to particular dates.
+  category: setting
+  evidence_refs:
+  - ev:12
+- id: obs:2
+  text: The January 1 entry includes the beginnings of new consulships, a festival
+    of Janus, and the consecration of temples of Aesculapius and Jupiter on the Tiber
+    Island.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several entries record astronomical events, including Cancer setting, Lyra
+    rising and setting, Delphinus rising, the Sun entering Aquarius after Capricorn,
+    and a star in Leo setting.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+- id: obs:4
+  text: The January 9 and 10 entries list the Agonalia, the rising of Delphinus, and
+    midwinter.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The January 11 entry lists the Carmentalia and the dedication of Juturna’s
+    seat in the Campus Martius at Aqua Virgo; a later entry says the Carmentalia are
+    repeated.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:6
+  text: The January 13 entry states that a semimas sheep was immolated to Jupiter
+    Stator, that provinces were returned to the people, and that Octavian received
+    the name Augustus.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The January 15 entry names Porrima and Postverta in connection with a festival
+    day.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The January 16 entry records the dedication of a temple of Concordia near
+    the temple of Juno Moneta.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The January 24 entry places the Sementivae around this time and also lists
+    the Paganalia.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The January 27 entry records the dedication of a temple to Castor and Pollux
+    at Juturna’s pool.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The January 30 entry records the dedication of the altar of Peace.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Janus
+  description: Named in the January 1 entry as the figure associated with Jani festum,
+    the festival of Janus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Aesculapius
+  description: Named as one of the deities whose temple on the Tiber Island was consecrated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Jupiter / Jupiter Stator
+  description: Named in connection with a temple on the Tiber Island and, under the
+    title Jupiter Stator, with the immolation of a semimas sheep.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Juturna
+  description: Named in connection with a dedicated seat in the Campus Martius at
+    Aqua Virgo and with the pool where the temple of Castor and Pollux was dedicated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: fig:5
+  name_or_label: Porrima and Postverta
+  description: Named together in the January 15 entry in connection with a festival
+    day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Concordia
+  description: Named as the figure associated with a temple dedicated near the temple
+    of Juno Moneta.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Juno Moneta
+  description: Named through the temple of Juno Moneta, used as the landmark near
+    which the temple of Concordia was dedicated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Castor and Pollux
+  description: Named as the recipients of a temple dedicated at Juturna’s pool.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Pax / Peace
+  description: Named through the altar of Peace dedicated on January 30.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:11
+- id: fig:10
+  name_or_label: Octavian / Augustus
+  description: Named in the January 13 entry as Octavian, to whom the name Augustus
+    was given.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: calendar honoree or cult-associated deity/personification
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These figures are named in relation to festivals, temples, an altar, a dedicated
+    seat, a festival day, or a cult location in the calendar entries.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+  - ev:11
+- id: role:2
+  label: recipient of animal sacrifice
+  assigned_to:
+  - fig:3
+  basis: The passage states that a semimas sheep was immolated to Jupiter Stator.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: civic-political figure commemorated by naming
+  assigned_to:
+  - fig:10
+  basis: The passage states that Octavian was given the name Augustus.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water cult locations
+  literal_form: Tiber Island; Aqua Virgo; Juturna’s pool
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:10
+- id: sym:2
+  label: cult monument
+  literal_form: temples, Juturna’s sedes, and the altar of Peace
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:10
+  - ev:11
+- id: sym:3
+  label: astral calendar markers
+  literal_form: Cancer setting; Lyra rising and setting; Delphinus rising; Sun entering
+    Aquarius after Capricorn; a star in Leo setting
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: sacrificial animal
+  literal_form: ovis semimas, a semimas sheep
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: January calendar framework
+  summary: The passage presents the month of January as a sequence of Roman calendar
+    dates with brief religious, astronomical, and civic notes.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+- id: scene:2
+  label: Kalends cult and temple consecration
+  summary: On January 1 the calendar notes new consulships, Janus’ festival, and the
+    consecration of temples of Aesculapius and Jupiter on the Tiber Island.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Astral and seasonal notices
+  summary: The calendar links January dates with celestial risings and settings, midwinter,
+    and the Sun’s movement from Capricorn into Aquarius.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Juturna and Carmentalia notices
+  summary: The calendar records the Carmentalia and the dedication of Juturna’s seat
+    at Aqua Virgo, with a later repeated Carmentalia entry.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:5
+  label: Ides sacrifice and Augustan commemoration
+  summary: On January 13 the calendar records a sacrifice to Jupiter Stator, the return
+    of provinces to the people, and the conferral of the name Augustus on Octavian.
+  figure_refs:
+  - fig:3
+  - fig:10
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Late January cult dedications and festivals
+  summary: Later January entries list Porrima and Postverta’s festival day, Concordia’s
+    temple dedication near Juno Moneta, Sementivae and Paganalia, the temple of Castor
+    and Pollux at Juturna’s pool, and the altar of Peace.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: seasonal and astral calendrical cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage arranges January dates with midwinter, the Sun’s movement into
+    Aquarius, constellation risings/settings, and agrarian festivals around sowing
+    time.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:12
+  confidence: high
+  cautions: This is a calendar pattern rather than a narrative mythic episode.
+- id: motif:2
+  label: animal sacrifice to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The January 13 entry explicitly states that a semimas sheep was immolated
+    to Jupiter Stator.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the ritual notice and does not explain the rite’s
+    mythic background.
+- id: motif:3
+  label: dedication of sacred places and cult monuments
+  taxonomy_refs: []
+  basis: Multiple entries record consecrations or dedications of temples, a divine
+    seat, and an altar at named locations.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: No specific available taxonomy family directly names this cult-dedication
+    pattern.
+- id: motif:4
+  label: civic legitimation through calendrical commemoration
+  taxonomy_refs: []
+  basis: The January 13 entry commemorates provinces returned to the people and the
+    giving of the name Augustus to Octavian within the religious calendar sequence.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage records civic events but does not narrate a myth of rulership
+    or divine sanction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 859-908; January 1 entry
+  quote_or_summary: January 1 lists new consulships, the festival of Janus, and the
+    consecration of temples of Aesculapius and Jupiter on the Tiber Island.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 859-908; January 3-5 entries
+  quote_or_summary: The January 3 entry says Cancer sets; the January 5 entry says
+    Lyra rises.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 859-908; January 9-10 entries
+  quote_or_summary: January 9 lists the Agonalia and the rising of Delphinus; January
+    10 marks midwinter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 859-908; January 11 entry
+  quote_or_summary: January 11 lists the Carmentalia and the dedication of Juturna’s
+    seat in the Campus Martius at Aqua Virgo.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 859-908; January 13 entry
+  quote_or_summary: January 13 records a semimas sheep immolated to Jupiter Stator,
+    provinces returned to the people, and the name Augustus given to Octavian.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 859-908; January 15 entry
+  quote_or_summary: January 15 repeats the Carmentalia and names a festival day of
+    Porrima and Postverta.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 859-908; January 16 entry
+  quote_or_summary: January 16 records the dedication of Concordia’s temple near the
+    temple of Juno Moneta.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:8
+  type: summary
+  locator: lines 859-908; January 17 entry
+  quote_or_summary: January 17 states that the Sun enters Aquarius after leaving Capricorn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:9
+  type: summary
+  locator: lines 859-908; January 23-24 entries
+  quote_or_summary: January 23 says Lyra sets; January 24 says a star in the middle
+    of Leo’s breast sets and lists Sementivae around this time and Paganalia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:10
+  type: summary
+  locator: lines 859-908; January 27 entry
+  quote_or_summary: January 27 records the dedication of a temple to Castor and Pollux
+    at Juturna’s pool.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:11
+  type: summary
+  locator: lines 859-908; January 30 entry
+  quote_or_summary: January 30 records the dedication of the altar of Peace.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+- id: ev:12
+  type: summary
+  locator: lines 859-908; full supplied passage
+  quote_or_summary: The supplied passage is a January section of the Roman calendar
+    drawn from Ovid, listing dates, day types, festivals, dedications, astronomical
+    notices, and civic commemorations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain Project Gutenberg source metadata supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a condensed calendar table, so literal extraction is strong,
+    while motif labels are limited to broad calendrical, ritual, and cult-dedication
+    patterns. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs directly supported by the passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l859-l908
+  passage_sha256=0f1b886324aafc03a461735f690de35b616e8ec651dc966695c11b61304e84f7
+

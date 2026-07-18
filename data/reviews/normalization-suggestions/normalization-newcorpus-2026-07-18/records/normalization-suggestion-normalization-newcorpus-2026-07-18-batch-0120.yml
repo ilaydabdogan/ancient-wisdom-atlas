@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0120
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.restless-dead-before-burial
+  motif_id: restless_dead_before_burial
+  label: Restless dead before burial
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly matches the existing restless-dead complex, with lack
+    of burial as the unresolved condition.
+  cautions: Single occurrence; if the passage focuses on required mortuary rites rather
+    than haunting, ancestor_rites or heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - unburied_restless_dead
+  - restless_dead_due_to_lack_of_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restless-dead-body-part-quieted-by-parental-discipline
+  motif_id: restless_dead_body_part_quieted_by_parental_discipline
+  label: Restless dead body part quieted by parental discipline
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A dead body part remaining active and needing to be quieted fits unresolved
+    activity of the dead.
+  cautions: Highly specific and possibly comic or episode-level; parental discipline
+    detail should remain evidence, not a canonical motif.
+  suggested_aliases:
+  - restless_body_part
+  - animated_dead_body_part_quieted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restless-dead-or-vampire
+  motif_id: restless_dead_or_vampire
+  label: Restless dead or vampire
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: alias
+  confidence: high
+  rationale: The vampire is a culturally specific form of the active or dangerous
+    dead, already covered by the restless-dead group.
+  cautions: Preserve vampire specificity for local evidence; avoid flattening distinct
+    Slavic undead beliefs in detailed analysis.
+  suggested_aliases:
+  - vampire
+  - active_undead
+  - dangerous_restless_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restless-ghost-widows-searching-for-lost-husbands
+  motif_id: restless_ghost_widows_searching_for_lost_husbands
+  label: Restless ghost widows searching for lost husbands
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: Restless ghosts seeking lost kin fit continued activity of the dead due
+    to unresolved relationship or loss.
+  cautions: Could also involve lament, mourning, or marital reunion depending on passage;
+    culturally specific kinship context needs review.
+  suggested_aliases:
+  - restless_widow_ghosts
+  - ghosts_searching_for_lost_spouses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resurrected-witnesses-reveal-hidden-experience-in-writing
+  motif_id: resurrected_witnesses_reveal_hidden_experience_in_writing
+  label: Resurrected witnesses reveal hidden experience in writing
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resurrected witnesses reporting hidden postmortem experience likely function
+    as afterlife revelation or journey testimony.
+  cautions: If the emphasis is only the raising of the witnesses, death_and_transformation
+    or resurrection may be a closer canonical reference; writing detail may be textualized
+    evidence.
+  suggested_aliases:
+  - resurrected_afterlife_witnesses
+  - written_testimony_of_afterlife_experience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retrieval-and-burial-of-heroic-remains
+  motif_id: retrieval_and_burial_of_heroic_remains
+  label: retrieval and burial of heroic remains
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: The existing group explicitly includes body retrieval, burial honors,
+    and funeral rites for heroes or companions.
+  cautions: If retrieval is a combat objective rather than a mortuary rite, sacred_combat
+    may be secondary.
+  suggested_aliases:
+  - funerary_body_retrieval
+  - burial_of_heroic_remains
+  - retrieval_of_hero_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-celebrated-in-triumph-song-with-blood-imagery
+  motif_id: return_celebrated_in_triumph_song_with_blood_imagery
+  label: return celebrated in triumph song with blood imagery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label centers on a song marking victorious return, but its mythic
+    function is unclear from wording alone.
+  cautions: May instead be hero_journey return, sacred_combat triumph, lament/song
+    evidence, or passage-specific poetic imagery; needs source review before indexing
+    strongly.
+  suggested_aliases:
+  - triumph_song_after_return
+  - victory_return_song_with_blood_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-from-inland-or-island-residence-to-the-sea-or-sound
+  motif_id: return_from_inland_or_island_residence_to_the_sea_or_sound
+  label: return from inland or island residence to the sea or sound
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a movement or relocation, but does not clearly indicate
+    death, otherworld return, transformation, or ritual function.
+  cautions: Could be ordinary travel, ecological setting detail, sea-animal return,
+    otherworld movement, or homecoming; source evidence is required.
+  suggested_aliases:
+  - return_to_sea_from_land
+  - return_from_island_residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-from-stored-food-followed-by-feast
+  motif_id: return_from_stored_food_followed_by_feast
+  label: return from stored food followed by feast
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too compressed to identify whether this is resurrection,
+    food abundance, return from concealment, or feast ritual.
+  cautions: May map to death_and_transformation, sacred_substance, sacred_exchange,
+    or be an extraction artifact; review passage context.
+  suggested_aliases:
+  - return_from_food_storage_and_feast
+  - stored_food_return_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-a-slain-enemy-s-body-to-kin
+  motif_id: return_of_a_slain_enemy_s_body_to_kin
+  label: return of a slain enemy's body to kin
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Returning a slain enemy's body to kin concerns burial rights and mortuary
+    honor after combat.
+  cautions: May also index with covenant or sacred_law if the focus is mercy, supplication,
+    or norms toward enemies rather than the funeral rite itself.
+  suggested_aliases:
+  - return_of_enemy_body_for_burial
+  - slain_enemy_body_returned_to_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and over-specific; preserve local details as
+  evidence notes rather than promoting them as canonical motifs.
+- For Inuit return labels, wording alone is insufficient to distinguish ordinary movement,
+  animal transformation, homecoming, resurrection, or food-abundance motifs.
+- Restless-dead items should be reviewed sensitively where local mortuary or kinship
+  concepts are involved.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0120
+  input_sha256: 2cf0795bdac3466476ecd1e60385cfc121ca51aba6c7782e80d903506cbd4df7
+

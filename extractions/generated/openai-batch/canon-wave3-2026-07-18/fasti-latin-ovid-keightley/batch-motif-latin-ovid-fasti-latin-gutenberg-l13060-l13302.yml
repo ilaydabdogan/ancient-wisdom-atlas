@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l13060-l13302
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'NOTES: / LIBER VI. / NOTES: / INDEX RERUM ET VERBORUM NOTATU DIGNIORUM.;
+    lines 13060-13302'
+  start: '13060'
+  end: '13302'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: INDEX RERUM ET VERBORUM NOTATU DIGNIORUM.
+  summary: A Latin index section listing notable names, words, objects, places, animals,
+    cult terms, and concepts alphabetically from Acastus through Cytheriaca myrtus,
+    with references to book and line numbers in the Fasti.
+  language: Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an index section rather than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Entries are alphabetized and followed by book-and-line style citations.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes named figures such as Aeneas, Bacchus, Caesar, Ceres, and
+    Cybele.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes water under the Latin entry aqua, with several qualified
+    water references.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes a serpent entry under Anguis.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes multiple animal and bird entries, including goose, eagle,
+    donkey, cattle, dog, deer, and raven/crow terms.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Several animal entries use mactatus, mactata, or mactatae and name Priapo,
+    Rubigini, Dianae, or aves in those entries.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index lists Chaos as an entry.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index lists custos with flammae among other domains.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The index includes cultic or civic terms such as Agnalia, agonia, ara, Ancile,
+    Capitolium, Concordia, Census, and curia.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Priapo
+  description: Named in the index phrase concerning an asinus marked as mactatus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Rubigini
+  description: Named in the index phrase concerning a canis marked as mactatus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Dianae
+  description: Named in the index phrase concerning a cerva marked as mactata.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named associate in animal mactatus entry
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The index entries connect these names with animals described using mactatus
+    or mactata forms.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Water
+  literal_form: aqua
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Serpent
+  literal_form: Anguis
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Fire or flame
+  literal_form: flammae
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: Animals marked with mactatus forms
+  literal_form: aves mactatae; asinus Priapo mactatus; canis Rubigini mactatus; cerva
+    Dianae mactata
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Alphabetical index listing
+  summary: The section lists alphabetized entries with citations and does not narrate
+    a mythic event.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:9
+- id: scene:2
+  label: Index cluster of mactatus animal entries
+  summary: The index records several animals marked with mactatus, mactata, or mactatae
+    and names Priapo, Rubigini, and Dianae in those entries; no ritual sequence is
+    described here.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Animal sacrifice or slaughter entries
+  taxonomy_refs:
+  - sacrifice
+  basis: The index uses mactatus, mactata, or mactatae with animals, including birds,
+    donkey, dog, and deer, and associates some entries with named figures.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage is only an index; it does not provide a ritual sequence, narrative
+    context, or explicit interpretation.
+- id: motif:2
+  label: Chaos as indexed cosmological term
+  taxonomy_refs:
+  - chaos
+  basis: The index includes the entry Chaos with a citation.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: Only the term and citation are present; no cosmogonic scene or explanation
+    appears in this passage.
+- id: motif:3
+  label: Serpent as indexed motif element
+  taxonomy_refs:
+  - serpent
+  basis: The index includes the serpent term Anguis with a citation.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only the index term is present; no serpent episode or function is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13060-13302, heading
+  quote_or_summary: INDEX RERUM ET VERBORUM NOTATU DIGNIORUM.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: 13060-13302, entries A-C
+  quote_or_summary: Alphabetical index entries run from Acastus through Cytheriaca
+    myrtus, each followed by citations such as Roman book numbers and line numbers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 13060-13302, selected named entries
+  quote_or_summary: The index includes named entries such as Aeneas, Bacchus, Caesar,
+    Ceres, and Cybele with citations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: '13060-13302, entry: aqua'
+  quote_or_summary: aqua, calida i, 270. Mercurii v, 673. Palaestina ii, 464.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:5
+  type: quote
+  locator: '13060-13302, entry: Anguis'
+  quote_or_summary: Anguis ii, 243.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:6
+  type: summary
+  locator: 13060-13302, animal and bird entries
+  quote_or_summary: Animal and bird entries include anser, Aquila, asinus, boves,
+    canis, cerva, and Corvus, each with citations or qualifiers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 13060-13302, mactatus animal entries
+  quote_or_summary: 'The index marks animals with mactatus forms: aves mactatae, asinus
+    Priapo mactatus, canis Rubigini mactatus, and cerva Dianae mactata.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: quote
+  locator: '13060-13302, entry: Chaos'
+  quote_or_summary: Chaos i, 103.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:9
+  type: quote
+  locator: '13060-13302, entry: custos'
+  quote_or_summary: custos, armenti ii, 277. flammae vi, 258, hortorum i, 415.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:10
+  type: summary
+  locator: 13060-13302, cultic and civic entries
+  quote_or_summary: Cultic or civic entries include Agnalia, agonia, ara, Ancile,
+    Capitolium, Concordia, Census, and curia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: 'The literal extraction is straightforward because the passage is an index,
+    but motif identification is limited: entries provide terms and citations without
+    narrative context. No comparison claims are made.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Figures and symbols are selective and limited to entries relevant to indexed motif or symbol candidates; the index contains many additional names and places not exhaustively modeled here.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l13060-l13302
+  passage_sha256=917486b5a59ff2b7448195acd86d3ac084f2c7596effa576d470d442f399296d
+

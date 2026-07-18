@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0489
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.division-of-a-threatened-household-for-survival
+  motif_id: division_of_a_threatened_household_for_survival
+  label: division of a threatened household for survival
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a survival strategy under threat, but could be household
+    preservation, exile, judgment, or narrative logistics depending on passage context.
+  cautions: Single occurrence and bucket assignment may be misleading; do not map
+    to wisdom without evidence of counsel or revelation.
+  suggested_aliases:
+  - household divided for survival
+  - family separation under threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.division-of-peoples-by-land-language-family-and-nation
+  motif_id: division_of_peoples_by_land_language_family_and_nation
+  label: division of peoples by land, language, family, and nation
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes an etiological ordering of peoples by land, language,
+    kinship, and nation, fitting origins of peoples and social-world differentiation.
+  cautions: If this is merely a genealogical list rather than etiological world-ordering,
+    it may be too contextual for pattern queries.
+  suggested_aliases:
+  - ethnological division of peoples
+  - origin of nations by language and land
+  - genealogical ordering of nations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.division-of-the-condemned-figure-s-garments-by-lots
+  motif_id: division_of_the_condemned_figure_s_garments_by_lots
+  label: division of the condemned figure's garments by lots
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a highly specific passion-scene detail centered on disposal of
+    a condemned figure's clothing rather than a broad recurrent motif.
+  cautions: If treated typologically or as fulfilled sacred speech in the passage,
+    reviewers could add a secondary link to curse_blessing_speech or prophecy_divination,
+    but the label itself is episode-specific.
+  suggested_aliases:
+  - casting lots for condemned figure's garments
+  - garments divided by lot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - prophecy_divination
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doom-despite-warning-counsel
+  motif_id: doom_despite_warning_counsel
+  label: doom despite warning counsel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Doom occurring despite warning counsel fits foreknown or warned destiny
+    that cannot be avoided.
+  cautions: If the emphasis is moral refusal of advice rather than fate, pride_and_downfall
+    or sacred_knowledge may be better.
+  suggested_aliases:
+  - warning counsel fails to avert doom
+  - forewarned doom
+  - doom despite advice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doubled-symbolic-dream-as-confirmation-of-future-events
+  motif_id: doubled_symbolic_dream_as_confirmation_of_future_events
+  label: doubled symbolic dream as confirmation of future events
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: high
+  rationale: A repeated symbolic dream confirming future events is a clear dream-revelation
+    and foreknowledge pattern.
+  cautions: May also relate to prophecy_divination if an interpreter or formal divinatory
+    role is central.
+  suggested_aliases:
+  - repeated dream confirms future events
+  - doubled prophetic dream
+  - symbolic dream confirmation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-accusation-and-enforced-speechlessness
+  motif_id: dream_accusation_and_enforced_speechlessness
+  label: Dream accusation and enforced speechlessness
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines dream, accusation, and silencing; the primary function
+    could be revelation, judgment, curse, or magical compulsion.
+  cautions: Single occurrence and composite wording; review source evidence before
+    choosing dream_and_vision, divine_judgment, or curse_blessing_speech.
+  suggested_aliases:
+  - dream accusation causing silence
+  - speechlessness imposed through dream
+  - accusatory dream and silencing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_judgment
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-announces-a-rescue-opportunity
+  motif_id: dream_announces_a_rescue_opportunity
+  label: Dream announces a rescue opportunity
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dream revealing an opportunity for rescue is a dream as actionable
+    guidance or foreknowledge.
+  cautions: If a deity or spirit sends the dream explicitly, divine_intervention may
+    be a secondary relation.
+  suggested_aliases:
+  - rescue opportunity revealed in dream
+  - dream-guided rescue
+  - dream announces rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-episode
+  motif_id: dream_episode
+  label: dream episode
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is too generic to determine whether the dream functions as
+    revelation, prophecy, deception, desire, or narrative transition.
+  cautions: Do not map solely from the word dream; require passage function before
+    indexing under dream_and_vision.
+  suggested_aliases:
+  - dream scene
+  - dream sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-foreknowledge-of-an-arriving-counterpart
+  motif_id: dream_foreknowledge_of_an_arriving_counterpart
+  label: Dream foreknowledge of an arriving counterpart
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The dream provides foreknowledge of another figure's arrival, fitting
+    dreams as prophetic or revelatory perception.
+  cautions: If the counterpart's arrival initiates a quest or recognition scene, hero_journey
+    or recognition_tokens_hidden_identity may be secondary, not primary.
+  suggested_aliases:
+  - dream predicts arriving counterpart
+  - foreknowledge through dream
+  - dream of approaching double or counterpart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-framed-accusation-with-physical-proof
+  motif_id: dream_framed_accusation_with_physical_proof
+  label: dream-framed accusation with physical proof
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes dream framing, accusation, and physical evidence; function
+    may be revelation, false accusation, ordeal, or judgment.
+  cautions: Existing divine_judgment contains false-accusation variants, but the dream
+    element may be central; source context is needed.
+  suggested_aliases:
+  - accusation in dream with proof
+  - dream accusation verified by token
+  - physical proof of dream accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_judgment
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence dream labels; map only when the
+  dream's narrative function is explicit, not merely because a dream scene is present.
+- Composite accusation-plus-dream labels should be checked for whether they are true
+  revelation, false accusation, legal judgment, or performative speech/silencing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for composite and single-occurrence
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0489
+  input_sha256: 689a29283c5a47d3a4ba43f3db37f5b68c26c6cd7840e2a524979c8220cf59bb
+

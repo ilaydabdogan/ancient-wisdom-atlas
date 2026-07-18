@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0585
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.devotional-body-marking-through-repeated-prostration
+  motif_id: devotional_body_marking_through_repeated_prostration
+  label: Devotional body-marking through repeated prostration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A bodily mark from repeated prostration is a visible result of devotional
+    discipline and ritual practice.
+  cautions: Could also fit sacrifice/renunciation if the passage emphasizes bodily
+    self-offering; single occurrence may be evidence detail.
+  suggested_aliases:
+  - devotional_body_marking
+  - prostration_mark
+  - ritual_body_mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devouring-punishment-for-failed-judgment
+  motif_id: devouring_punishment_for_failed_judgment
+  label: devouring punishment for failed judgment
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Devouring as penalty after failed judgment fits afterlife or divine moral
+    reckoning.
+  cautions: If this refers specifically to an Egyptian judgment scene, preserve the
+    devourer detail without creating a separate universal motif from one occurrence.
+  suggested_aliases:
+  - devouring_after_failed_judgment
+  - failed_judgment_punishment
+  - soul_devoured_after_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diplomatic-gift-rejected-by-the-superior-ruler
+  motif_id: diplomatic_gift_rejected_by_the_superior_ruler
+  label: Diplomatic gift rejected by the superior ruler
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: The scene centers on ruler hierarchy and sovereign superiority expressed
+    through refusal of tribute or diplomacy.
+  cautions: May be a historical/passage-specific diplomatic detail rather than a mythic
+    motif; sacred_exchange may apply if reciprocity is central.
+  suggested_aliases:
+  - rejected_diplomatic_gift
+  - tribute_refused_by_superior_ruler
+  - royal_refusal_of_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-gate-assault-against-a-guarded-city
+  motif_id: directional_gate_assault_against_a_guarded_city
+  label: Directional gate assault against a guarded city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A coordinated assault on city gates belongs broadly with warfare and
+    battle-order motifs.
+  cautions: Highly tactical and episode-specific; only retain if the directional organization
+    has symbolic or ritual significance in the source.
+  suggested_aliases:
+  - gate_assault_against_guarded_city
+  - directional_city_assault
+  - assault_on_guarded_gates
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-landscape-ordered-by-materials-colors-weather-animals-and-paired-dwellers
+  motif_id: directional_landscape_ordered_by_materials_colors_weather_animals_and_paired_dwellers
+  label: directional landscape ordered by materials, colors, weather, animals, and
+    paired dwellers
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific directional cosmology not cleanly
+    covered by current groups.
+  cautions: Requires culturally careful review; may fit cosmic_origin, world_center/axis_mundi,
+    duality, or a new directional-cosmology group depending on source evidence.
+  suggested_aliases:
+  - directional_cosmology
+  - ordered_directional_landscape
+  - color_material_directional_order
+  suggested_new_group:
+    id: directional_cosmology
+    label: Directional Cosmology and Ordered Quarters
+    description: Cosmic or social space ordered by cardinal directions, colors, materials,
+      animals, weather, beings, or paired inhabitants.
+    parent_group_ids:
+    - cosmic_origin
+    - world_center
+    - duality
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover origin, center, or
+      duality, but not recurring four-direction or directional-quarter ordering as
+      a distinct cosmological structure.
+- suggestion_id: normalization.suggestion.directional-naming-of-social-regions
+  motif_id: directional_naming_of_social_regions
+  label: Directional naming of social regions
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social geography rather than a symbolic motif.
+  cautions: Could be ethnographic classification, place-naming etiology, or directional
+    cosmology; source context is needed before pattern indexing.
+  suggested_aliases:
+  - directional_social_regions
+  - social_regions_named_by_direction
+  - directional_social_geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disguised-ruler-conceals-identity-from-beloved
+  motif_id: disguised_ruler_conceals_identity_from_beloved
+  label: Disguised ruler conceals identity from beloved
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is concealed identity in a love/royal context, likely
+    resolved through recognition.
+  cautions: If no recognition proof occurs, sacred_love or royal_legitimacy may be
+    better; preserve ruler-beloved specificity as evidence detail.
+  suggested_aliases:
+  - ruler_in_disguise
+  - hidden_identity_before_beloved
+  - disguised_royal_lover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dishonorable-many-against-one-killing-under-warrior-code
+  motif_id: dishonorable_many_against_one_killing_under_warrior_code
+  label: dishonorable many-against-one killing under warrior code
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns violation of warrior norms during combat and the moral
+    coding of battle.
+  cautions: Could also map to divine_judgment if the passage emphasizes punishment
+    or karmic consequence for the dishonorable killing.
+  suggested_aliases:
+  - many_against_one_killing
+  - warrior_code_violation
+  - dishonorable_combat_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dishonorable-stratagem-exposed-before-formal-combat
+  motif_id: dishonorable_stratagem_exposed_before_formal_combat
+  label: dishonorable stratagem exposed before formal combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on combat ethics, formal battle, and exposure of improper
+    tactics.
+  cautions: If deception rather than warrior code is central, trickster or betrayal_violated_trust
+    may be relevant; single occurrence is over-specific.
+  suggested_aliases:
+  - stratagem_exposed_before_combat
+  - dishonorable_combat_deception
+  - warrior_code_stratagem_exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.displacement-of-former-rulers
+  motif_id: displacement_of_former_rulers
+  label: displacement of former rulers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: broader_label
+  confidence: medium
+  rationale: Removal or replacement of rulers belongs to succession and legitimacy
+    of political order.
+  cautions: Too broad without source evidence; if framed as divine punishment, map
+    secondarily to divine_judgment.
+  suggested_aliases:
+  - former_rulers_displaced
+  - replacement_of_rulers
+  - dynastic_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and politically or tactically
+  specific; preserve as evidence details unless recurrence supports promotion.
+- Directional cosmology labels may need culturally careful human review rather than
+  automatic folding into generic cosmic-origin or social-order groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific directional-order motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0585
+  input_sha256: af5cf8d9abe9f36b9303a22e6c6d38f090929400907545cc0f1e8ffc16539812
+

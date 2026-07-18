@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l6600-l6633
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: THE STEP-DAUGHTER I2I / THE MAGIC ANIMALS 123 / THE BEAUTIFUL HELENA 125
+    / THE BEAUTIFUL HELENA 127; lines 6600-6633
+  start: '6600'
+  end: '6633'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Sane sails on a long voyage, meets an armed youth who appears maiden-like,
+    accepts the youth as a friend and companion, enters a town with him, and explains
+    that his wife has been stolen and that he is searching for her. The friend advises
+    him to disguise himself as a beggar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sane fits out a ship and sails away on a long voyage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sane's ship comes within sight of distant mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A second ship sails toward Sane's ship.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An armed youth stands on the deck of the approaching ship and is described
+    as looking like a beautiful maiden.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The youth wears mail and a steel helmet and carries a quiver, bow, and sword.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sane is also armed in the same way and bears a distinguishing mark of a prince
+    on his breast.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The youth recognizes Sane as a prince by the badge, rows over to Sane's ship,
+    greets him, and asks where he is going.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Sane says he is travelling to get news he wants.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The youth offers to be Sane's friend and to share the dangers of the journey.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Sane accepts the youth as his new friend, and they sail to land together.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Sane and his friend enter a town unhindered and go into the second house on
+    the first cross-street to the left.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Sane tells his new friend that his wife has been stolen from him and that
+    he hopes to find her by asking and searching.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The friend tells Sane that he will not find her that way and advises him to
+    disguise himself as a beggar.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Sane
+  description: A prince who travels by ship in search of news about his stolen wife.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: armed youth / new friend
+  description: A youth who looks like a beautiful maiden, is armed with mail, helmet,
+    quiver, bow, and sword, recognizes Sane as a prince, offers friendship, and advises
+    disguise as a beggar.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Sane's wife
+  description: Sane says she has been stolen from him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: prince
+  assigned_to:
+  - fig:1
+  basis: Sane bears the distinguishing mark of a prince and is addressed as a prince.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: traveller
+  assigned_to:
+  - fig:1
+  basis: Sane sails away on a long voyage and says he is travelling to get news.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: searching husband
+  assigned_to:
+  - fig:1
+  basis: Sane states that his wife was stolen and that he hopes to find her.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: armed youth
+  assigned_to:
+  - fig:2
+  basis: The youth is described as armed with mail, helmet, bow, quiver, and sword.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: journey companion
+  assigned_to:
+  - fig:2
+  basis: The youth offers to be Sane's friend and share the dangers of the journey;
+    Sane accepts.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: advisor
+  assigned_to:
+  - fig:2
+  basis: The friend advises Sane to stop searching by asking and to disguise himself
+    as a beggar.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: stolen wife
+  assigned_to:
+  - fig:3
+  basis: Sane says his wife has been stolen from him.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ship
+  literal_form: Sane's ship and the youth's ship
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: mountains
+  literal_form: mountains seen in the distance after the voyage
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: princely badge
+  literal_form: distinguishing mark of a prince on Sane's breast
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: weapons and armor
+  literal_form: coat of mail, quiver, bow, sword, and steel helmet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: beggar disguise
+  literal_form: disguise as a beggar advised by the friend
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Voyage and sighting of another ship
+  summary: Sane sails away, sees distant mountains after a long voyage, and observes
+    another ship approaching his own.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Meeting the armed youth
+  summary: An armed youth who looks like a beautiful maiden sees Sane's princely mark,
+    comes over by boat, greets him, and asks about his journey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Offer of companionship
+  summary: The youth asks why Sane has no friend to share the journey's dangers and
+    offers to become that friend; Sane accepts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Entry into the town
+  summary: Sane and his new friend sail to land, enter a town without obstruction,
+    turn left down the first cross-street, and enter the second house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Search explained and beggar disguise advised
+  summary: Sane explains that his wife has been stolen and that he seeks her by asking
+    and searching; the friend says this method will not succeed and advises disguise
+    as a beggar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: stolen beloved or wife sought by spouse
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sane says his wife has been stolen from him and that he hopes to find her.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives only Sane's report of the abduction and search, not
+    the abduction scene itself.
+- id: motif:2
+  label: departure on a search journey
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: Sane fits out a ship, sails away on a long voyage, and says he is travelling
+    to get needed news about his stolen wife.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage supports a quest-like search, but does not establish a sacred
+    or explicitly mystical goal.
+- id: motif:3
+  label: companion joins hero on dangerous journey
+  taxonomy_refs: []
+  basis: The armed youth offers to be Sane's friend and share the dangers of the journey,
+    and Sane accepts.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this companion motif.
+- id: motif:4
+  label: disguise as beggar for search or investigation
+  taxonomy_refs: []
+  basis: The friend advises Sane that he should disguise himself as a beggar instead
+    of relying on open asking and searching.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage contains the advice but not the later use or result of the
+    disguise.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6600-6604
+  quote_or_summary: Sane fits out a ship, sails away, completes a long voyage, sees
+    distant mountains, and notices a ship sailing toward his own.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6604-6609
+  quote_or_summary: On the approaching ship stands a youth who looks like a beautiful
+    maiden and is equipped with mail, quiver, bow, sword, and steel helmet.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6609-6611
+  quote_or_summary: Sane stands on his ship armed in the same way, with a distinguishing
+    mark of a prince on his breast.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6611-6618
+  quote_or_summary: The youth sees the princely badge, rows to Sane's ship, greets
+    him, asks where he is going, and Sane answers that he travels to get news he wants.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6618-6622
+  quote_or_summary: The youth asks why Sane has no friend to share the dangers of
+    the journey and offers to become his friend.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6623-6628
+  quote_or_summary: Sane agrees, sails with the new friend to land, and they enter
+    a town and then a house after turning left down the first cross-street.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6628-6632
+  quote_or_summary: 'Sane tells his friend the object of his journey: his wife was
+    stolen from him, and he hopes to find her by constant asking and searching.'
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: line 6633
+  quote_or_summary: The friend says Sane will not find her that way and that it would
+    be better to disguise himself as a beggar.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for figures, actions, and the stolen-wife search. Motif
+    labels beyond the supplied stolen_beloved and departure/search pattern require
+    review because the excerpt is only one segment of a longer tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make or imply a specific cross-tradition comparison beyond candidate motif classification.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l6600-l6633
+  passage_sha256=028a7f1d5cd552f0cb9948b7d3745fbc5c07ae71a3130e0788dedad7e22f0fa0
+

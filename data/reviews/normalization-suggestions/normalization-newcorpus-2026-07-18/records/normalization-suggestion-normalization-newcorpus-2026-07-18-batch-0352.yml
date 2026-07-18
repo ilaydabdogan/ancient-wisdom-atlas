@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0352
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.honorary-reward-vowed-for-martial-excellence
+  motif_id: honorary_reward_vowed_for_martial_excellence
+  label: honorary reward vowed for martial excellence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vowed reward for martial excellence fits honor, contest, and ritualized
+    warfare better than sacrifice proper.
+  cautions: Single Greek occurrence may be episode-specific; if the reward is purely
+    social or athletic, human review may prefer exclusion or royal_legitimacy.
+  suggested_aliases:
+  - martial_reward_vow
+  - vowed_reward_for_warrior_excellence
+  - honorary_martial_prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-bonds-of-sacred-service
+  motif_id: honored_bonds_of_sacred_service
+  label: Honored bonds of sacred service
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean vow, covenant, discipleship, servitude, or devotional
+    obligation, but the function is unclear.
+  cautions: Christian apocryphal context may be doctrinal or hagiographic rather than
+    a recurring motif; source evidence is needed before mapping to covenant, sacrifice,
+    or sacred_exchange.
+  suggested_aliases:
+  - sacred_service_bond
+  - honored_devotional_service
+  - bond_of_sacred_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-victory-modeled-on-a-god-s-triumph
+  motif_id: honored_victory_modeled_on_a_god_s_triumph
+  label: Honored victory modeled on a god’s triumph
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A human or honored victory patterned on divine triumph fits sacred combat
+    authorized by a god's warrior model.
+  cautions: If the passage emphasizes royal consecration or ritual imitation rather
+    than combat, royal_legitimacy or sacrifice may be secondary; avoid making transmission
+    claims.
+  suggested_aliases:
+  - victory_modeled_on_divine_triumph
+  - divine_triumph_as_martial_model
+  - god_modeled_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horse-headed-semi-divine-musicians
+  motif_id: horse_headed_semi_divine_musicians
+  label: Horse-headed semi-divine musicians
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: role_variant
+  confidence: medium
+  rationale: The salient recurring function is semi-divine musical agency, which fits
+    the existing music-as-supernatural-power group.
+  cautions: Horse-headed form may instead matter as hybrid divinity or iconographic
+    detail; if the passage only names a class of beings, it may be too entity-specific
+    for pattern queries.
+  suggested_aliases:
+  - semi_divine_musicians
+  - hybrid_divine_musicians
+  - horse_headed_celestial_musicians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-mysterious-divine-messengers
+  motif_id: hospitality_to_mysterious_divine_messengers
+  label: hospitality to mysterious divine messengers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: Hospitality shown to unidentified sacred messengers matches the stranger-guest
+    hospitality test pattern.
+  cautions: If messenger revelation, not hospitality, is central, divine_intervention
+    or theophany may be a secondary mapping.
+  suggested_aliases:
+  - hospitality_to_divine_messengers
+  - hospitality_to_mysterious_visitors
+  - sacred_messenger_as_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-non-eating-divine-messengers
+  motif_id: hospitality_to_non_eating_divine_messengers
+  label: hospitality to non-eating divine messengers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: The non-eating detail narrows a broader hospitality encounter with sacred
+    stranger-messengers.
+  cautions: The refusal or inability to eat may signal angelic identity; preserve
+    that detail but do not create a separate motif from one occurrence.
+  suggested_aliases:
+  - non_eating_divine_guest
+  - angelic_guest_refuses_food
+  - hospitality_to_non_eating_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-unknown-sacred-visitors
+  motif_id: hospitality_to_unknown_sacred_visitors
+  label: Hospitality to unknown sacred visitors
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: alias
+  confidence: high
+  rationale: This is a close label variant of hospitality to the stranger guest with
+    sacred identity concealed or unknown.
+  cautions: If no test, recognition, or moral obligation is present, it may be a general
+    hospitality scene rather than the full motif.
+  suggested_aliases:
+  - hospitality_to_unknown_visitors
+  - hospitality_to_sacred_strangers
+  - sacred_visitors_as_guests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-divine-siblings
+  motif_id: hostile_divine_siblings
+  label: hostile divine siblings
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sibling hostility among divine figures fits the sibling-pair branch,
+    especially rivalry that drives mythic action.
+  cautions: If the opposition is primarily cosmic dualism or succession combat, duality
+    or divine_warrior may be better secondary mappings; Nahua source context should
+    guide final placement.
+  suggested_aliases:
+  - divine_sibling_rivalry
+  - hostile_sibling_gods
+  - rival_divine_siblings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-authority-establishes-or-voids-vows
+  motif_id: household_authority_establishes_or_voids_vows
+  label: household authority establishes or voids vows
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rules governing vows by household authority are sacred legal and social-order
+    material.
+  cautions: Could also index to covenant or curse_blessing_speech if the passage emphasizes
+    vow-binding speech rather than household jurisdiction.
+  suggested_aliases:
+  - household_authority_over_vows
+  - vows_established_or_voided_by_household_authority
+  - domestic_authority_and_vows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-purification-through-commanded-conduct
+  motif_id: household_purification_through_commanded_conduct
+  label: Household purification through commanded conduct
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Commanded conduct that purifies a household fits ritual purity and sacred
+    law obligations.
+  cautions: If the passage centers on divine command or household sanctity rather
+    than law, divine_intervention or covenant may be secondary; verify whether this
+    is a motif or ethical instruction.
+  suggested_aliases:
+  - commanded_household_purification
+  - household_purity_command
+  - purification_by_commanded_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and may be over-specific evidence labels; preserve
+  local details as aliases or notes rather than promoting new taxonomy groups.
+- The three hospitality labels appear to be close variants and likely should be reviewed
+  together for consolidation under hospitality_test_stranger_guest.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0352
+  input_sha256: 5d5042677ce86a4a4775c81fd291a05d23314ef789677f244d452703d750d217
+

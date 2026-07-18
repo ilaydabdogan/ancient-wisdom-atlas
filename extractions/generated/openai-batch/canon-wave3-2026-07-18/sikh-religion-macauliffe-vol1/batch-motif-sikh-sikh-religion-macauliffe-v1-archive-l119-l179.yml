@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.sikh-sikh-religion-macauliffe-v1-archive-l119-l179
+source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+passage_locator:
+  label: AND  AUTHORS / OXFORD / AT  THE  CLARENDON  PRESS / OXFORD; lines 119-179
+  start: '119'
+  end: '179'
+  translation: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: 'The egg of superstition hath burst; the mind is illumined: The Guru hath
+    cut the fetters off the feet and freed the captive.'
+  summary: Front matter for volume 1 names the work, author, publisher, and printer,
+    and includes an epigraph attributed to Guru Arjan in which superstition's egg
+    bursts, the mind is illumined, and the Guru frees a captive by cutting fetters.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The title page identifies the work as The Sikh Religion: Its Gurus, Sacred
+    Writings and Authors.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title page names Max Arthur Macauliffe as the author.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The epigraph states that the egg of superstition has burst and that the mind
+    is illumined.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The epigraph states that the Guru has cut fetters from the feet and freed
+    the captive.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The epigraph is followed by the name Guru Arjan.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage identifies the book as volume I of six, published at Oxford by
+    the Clarendon Press in 1909 and printed by Horace Hart.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Max Arthur Macauliffe
+  description: Named on the title page as the author.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Guru Arjan
+  description: Name printed after the epigraph, indicating attribution in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: The Guru
+  description: In the epigraph, the Guru cuts fetters from the feet and frees the
+    captive.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The captive
+  description: In the epigraph, a captive is freed after fetters are cut from the
+    feet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Horace Hart
+  description: Named in the publication data as printer to the university.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  basis: The title page uses 'BY' before Max Arthur Macauliffe's name.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: attributed epigraph source
+  assigned_to:
+  - fig:2
+  basis: The name Guru Arjan appears immediately after the epigraph.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: liberating Guru
+  assigned_to:
+  - fig:3
+  basis: The epigraph says the Guru cuts fetters and frees the captive.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: freed captive
+  assigned_to:
+  - fig:4
+  basis: The epigraph says the captive is freed.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: printer
+  assigned_to:
+  - fig:5
+  basis: The publication data names Horace Hart as printer to the university.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: egg of superstition
+  literal_form: egg
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: illumined mind
+  literal_form: mind is illumined
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fetters cut from feet
+  literal_form: fetters
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Title-page identification
+  summary: The title page names the work, its author, volume number, publisher, date,
+    and printer.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: Epigraph of illumination and release
+  summary: An epigraph attributed to Guru Arjan presents the bursting of superstition,
+    illumination of the mind, and release of a captive by the Guru.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: superstition broken and mind illumined
+  taxonomy_refs:
+  - wisdom
+  basis: The epigraph links the bursting of the 'egg of superstition' with the mind
+    becoming illumined.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to wisdom is interpretive; the passage itself uses the
+    terms superstition and illumined mind.
+- id: motif:2
+  label: release from bondage by the Guru
+  taxonomy_refs: []
+  basis: The epigraph depicts the Guru cutting fetters from the feet and freeing the
+    captive.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The brief epigraph does not provide narrative context; captivity and fetters
+    may be figurative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 119-179
+  quote_or_summary: |-
+    THE  SIKH  RELIGION
+
+    ITS  GURUS,  SACRED  WRITINGS
+
+    AND  AUTHORS
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 119-179
+  quote_or_summary: The title page names Max Arthur Macauliffe after the word 'BY'.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: quote
+  locator: lines 119-179
+  quote_or_summary: |-
+    The  egg  of  superstition  hath  burst ;  the
+    mind  is  illumined :
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: quote
+  locator: lines 119-179
+  quote_or_summary: |-
+    The  Guru  hath  cut  the  fetters  off  the  feet
+    and  freed  the  captive.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:5
+  type: quote
+  locator: lines 119-179
+  quote_or_summary: Guru  Arjan
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 119-179
+  quote_or_summary: The passage states 'IN SIX VOLUMES / VOL. I', gives Oxford, the
+    Clarendon Press, 1909, and names Horace Hart as printer to the university.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is front matter with a brief epigraph. Literal extraction is
+    straightforward, but motif identification is limited by the short, non-narrative
+    context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The egg image is not assigned to the cosmic_egg taxonomy because the passage specifies an 'egg of superstition' in a moral or intellectual context, not a creation-cosmos context.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:sikh-sikh-religion-macauliffe-v1-archive__l119-l179
+  passage_sha256=bd40de300ff8d2aba8069ce0f5d28af8333e27ebd40b9a4c771b9c3f755b2e1f
+

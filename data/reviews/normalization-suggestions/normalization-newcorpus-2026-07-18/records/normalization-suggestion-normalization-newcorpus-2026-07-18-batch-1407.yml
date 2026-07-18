@@ -1,0 +1,326 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1407
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.founder-builders-of-monumental-structures
+  motif_id: founder_builders_of_monumental_structures
+  label: founder-builders of monumental structures
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on founders known through building monumental structures,
+    fitting sacred or culture-making construction.
+  cautions: If the passage emphasizes dynastic legitimacy rather than construction,
+    royal_legitimacy may be a secondary fit; single occurrence and Maya context require
+    review.
+  suggested_aliases:
+  - founders as monumental builders
+  - monumental founder-builders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founders-as-monumental-builders
+  motif_id: founders_as_monumental_builders
+  label: Founders as monumental builders
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: role_variant
+  confidence: medium
+  rationale: This is a close variant of founder-builders and belongs with sacred construction
+    as a founder role.
+  cautions: May overlap with culture_hero or royal_legitimacy if the founder establishes
+    civilization or rule more than buildings.
+  suggested_aliases:
+  - founder-builders of monumental structures
+  - monumental founder-builders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-migration-to-populate-a-land
+  motif_id: founding_migration_to_populate_a_land
+  label: Founding migration to populate a land
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A migration that founds and populates a land functions as an origin-of-people
+    or settlement etiology, already partly covered by ancestral-origin children in
+    cosmic_origin.
+  cautions: If the narrative emphasizes travel ordeal, exile, or return, hero_journey
+    may be more appropriate; avoid treating migration as cosmic creation unless it
+    explains origins.
+  suggested_aliases:
+  - settlement founding migration
+  - migration origin of a people
+  - founding migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-calendrical-year-wheel
+  motif_id: four_direction_calendrical_year_wheel
+  label: four-direction calendrical year wheel
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label combines cardinal directions with a calendrical year cycle,
+    best fitting sacred ordering of time.
+  cautions: May also involve world_center or cosmic spatial order; review whether
+    the evidence is calendrical practice, cosmogram, or editorial diagram.
+  suggested_aliases:
+  - four-direction year wheel
+  - cardinal calendrical wheel
+  - directional calendar cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-signs-and-enclosure
+  motif_id: four_direction_signs_and_enclosure
+  label: four-direction signs and enclosure
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a cardinal-direction ritual or spatial cosmogram,
+    but its narrative function is unclear from the wording alone.
+  cautions: Culturally specific Navajo ritual/spatial symbolism should not be flattened
+    without source evidence; possible fits include axis_mundi, sacred_law, or a new
+    cardinal-directions cosmology group.
+  suggested_aliases:
+  - cardinal direction signs
+  - four-direction enclosure
+  - directional enclosure pattern
+  suggested_new_group:
+    id: cardinal_directions_cosmic_order
+    label: Cardinal Directions and Cosmic Spatial Order
+    description: Ritual, cosmological, or narrative patterns organized by the four
+      directions, directional colors, signs, enclosures, assemblies, or spatial ordering
+      of the world.
+    parent_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - world_center
+    reason_existing_groups_insufficient: Existing groups cover world center, sacred
+      time, and law, but do not clearly capture recurring four-direction cosmograms
+      as spatial order.
+- suggestion_id: normalization.suggestion.four-direction-spatial-pattern
+  motif_id: four_direction_spatial_pattern
+  label: four-direction spatial pattern
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a broad cardinal-direction cosmological pattern, but
+    the existing taxonomy has no explicit directionality group.
+  cautions: Needs source review, especially for Navajo ceremonial specificity; may
+    be a structural cosmogram rather than a narrative motif.
+  suggested_aliases:
+  - four-direction pattern
+  - cardinal spatial pattern
+  - directional world pattern
+  suggested_new_group:
+    id: cardinal_directions_cosmic_order
+    label: Cardinal Directions and Cosmic Spatial Order
+    description: Ritual, cosmological, or narrative patterns organized by the four
+      directions, directional colors, signs, enclosures, assemblies, or spatial ordering
+      of the world.
+    parent_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - world_center
+    reason_existing_groups_insufficient: Axis_mundi and world_center cover vertical
+      or central orientation but not enough of the horizontal four-direction ordering.
+- suggestion_id: normalization.suggestion.four-directional-arrow-waving-over-a-patient
+  motif_id: four_directional_arrow_waving_over_a_patient
+  label: Four-directional arrow-waving over a patient
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a specific healing rite using directional orientation
+    and arrows, but no existing group cleanly captures ritual healing gestures.
+  cautions: Highly specific and culturally sensitive; should be reviewed against the
+    source before mapping. Could fit sacred_law as ritual practice, divine_intervention
+    as healing, or a future cardinal-directions group.
+  suggested_aliases:
+  - directional arrow healing rite
+  - four-direction arrow rite
+  - arrow-waving healing gesture
+  suggested_new_group:
+    id: cardinal_directions_cosmic_order
+    label: Cardinal Directions and Cosmic Spatial Order
+    description: Ritual, cosmological, or narrative patterns organized by the four
+      directions, directional colors, signs, enclosures, assemblies, or spatial ordering
+      of the world.
+    parent_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups do not clearly hold directional
+      ritual action where four-direction structure is the main motif.
+- suggestion_id: normalization.suggestion.four-directional-assembly-from-remote-regions
+  motif_id: four_directional_assembly_from_remote_regions
+  label: four-directional assembly from remote regions
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: medium
+  rationale: An assembly gathered from all directions often expresses universal scope
+    or cosmic sovereignty.
+  cautions: If the passage is simply a geographic gathering, it may be too contextual;
+    if ritual or cosmographic, cardinal-directions ordering may be a better future
+    group.
+  suggested_aliases:
+  - assembly from the four directions
+  - four-direction gathering
+  - all-directions assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-directional-civilisers
+  motif_id: four_directional_civilisers
+  label: Four directional civilisers
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: medium
+  rationale: Civilizers are culture-hero figures who bring order or institutions,
+    with four-direction placement as a spatial variant.
+  cautions: The comparative tradition label is broad; review whether this is a generated
+    synthesis rather than a source motif. Directionality may warrant secondary indexing
+    if a cardinal-directions group is added.
+  suggested_aliases:
+  - directional civilizers
+  - four civilizing founders
+  - four-direction culture heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-sibling-progenitors
+  motif_id: four_sibling_progenitors
+  label: four sibling progenitors
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: broader_label
+  confidence: medium
+  rationale: The motif is a sibling group acting as progenitors; existing sacred_twins/sibling_pair
+    can hold sibling-pair and doubled-kin structures, though this has four figures.
+  cautions: Because the key role is progenitorship, cosmic_origin or culture_hero
+    may be secondary; avoid forcing the number four into a twin pattern without source
+    review.
+  suggested_aliases:
+  - four sibling ancestors
+  - sibling progenitors
+  - four ancestral siblings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch point to a possible recurring cardinal-directions/cosmic-spatial-order
+  group, but culturally specific Navajo and Mesoamerican evidence should be reviewed
+  before adding it.
+- Founder-builder labels appear duplicative and could likely share one alias or normalized
+  child under sacred_craft if source evidence confirms construction is central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; directional ritual items need human and cultural-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1407
+  input_sha256: 6490ea16a2f226bf06904556421048f084d58bb577b21bf83de41a3e0ebcd3d7
+

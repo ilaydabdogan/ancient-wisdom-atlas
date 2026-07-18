@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1170
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.treacherous-enchantress-spouse
+  motif_id: treacherous_enchantress_spouse
+  label: treacherous enchantress spouse
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines marital betrayal, enchantment, and antagonist role; placement
+    depends on whether the passage emphasizes violated trust, magical transformation,
+    or a perilous spouse figure.
+  cautions: Single occurrence and culturally contextual; may need a future spouse-betrayal
+    or enchantress-peril group if recurrent.
+  suggested_aliases:
+  - treacherous magical spouse
+  - betraying enchantress wife
+  - enchanted spouse betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - shapeshifter
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-hospitality-and-feast-trap
+  motif_id: treacherous_hospitality_and_feast_trap
+  label: treacherous hospitality and feast-trap
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: A feast or hospitality setting is used to betray guests, matching the
+    existing betrayal-through-feast/drink complex.
+  cautions: If the emphasis is a sacred test of hospitality rather than betrayal,
+    also review against hospitality_test_stranger_guest.
+  suggested_aliases:
+  - feast trap
+  - betrayal through hospitality
+  - treacherous banquet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-invitation-and-destruction-of-kin-guests
+  motif_id: treacherous_invitation_and_destruction_of_kin_guests
+  label: treacherous invitation and destruction of kin-guests
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is a violated guest or kinship bond through a deceptive
+    invitation leading to destruction.
+  cautions: Preserve kin-guest specificity as evidence; may overlap with sacred_combat
+    if it triggers feud or battle.
+  suggested_aliases:
+  - betrayal of kin-guests
+  - treacherous guest invitation
+  - destruction of invited kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-invitation-motivated-by-a-hoard
+  motif_id: treacherous_invitation_motivated_by_a_hoard
+  label: treacherous invitation motivated by a hoard
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The invitation is deceptive and motivated by greed over treasure, making
+    violated trust the main structure.
+  cautions: Could secondarily involve sacred_treasures or pride_and_downfall if the
+    hoard has supernatural or moral significance.
+  suggested_aliases:
+  - hoard-motivated betrayal
+  - treacherous hoard invitation
+  - greedy invitation trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-invitation-with-promised-gifts
+  motif_id: treacherous_invitation_with_promised_gifts
+  label: Treacherous invitation with promised gifts
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: False promises of gifts create a deceptive invitation, fitting betrayal
+    of trust and reciprocal obligation.
+  cautions: If the promised gift itself is a deceptive object or war stratagem, trickster
+    may be a secondary relation.
+  suggested_aliases:
+  - false gift invitation
+  - treacherous gift promise
+  - invitation trap with gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-killing-by-pit-trap
+  motif_id: treacherous_killing_by_pit_trap
+  label: treacherous killing by pit-trap
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a concrete episode detail about a killing method rather
+    than a durable symbolic motif.
+  cautions: Map to betrayal_violated_trust only if the pit-trap violates a bond or
+    invitation; otherwise preserve as combat/ordeal evidence or exclude if too specific.
+  suggested_aliases:
+  - pit-trap murder
+  - killing by concealed pit
+  - treacherous pit ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-plot-against-a-guest-under-hospitality
+  motif_id: treacherous_plot_against_a_guest_under_hospitality
+  label: Treacherous plot against a guest under hospitality
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: A guest protected by hospitality is plotted against, making the broken
+    hospitality bond the central motif.
+  cautions: Also related to hospitality_test_stranger_guest, but this label centers
+    betrayal rather than testing the host.
+  suggested_aliases:
+  - betrayal of guest-right
+  - hospitality betrayal
+  - plot against protected guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-demand-refused-before-battle
+  motif_id: treasure_demand_refused_before_battle
+  label: Treasure demand refused before battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A refused treasure demand functions as a pre-battle dispute or challenge
+    leading into conflict.
+  cautions: If the treasure is divine or confers authority, sacred_treasures may be
+    a secondary mapping; otherwise this may be an episode-specific war trigger.
+  suggested_aliases:
+  - refused treasure demand
+  - pre-battle demand for treasure
+  - wealth demand before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-hidden-during-war-and-lost-after-the-owners-perish
+  motif_id: treasure_hidden_during_war_and_lost_after_the_owners_perish
+  label: Treasure hidden during war and lost after the owners perish
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as a highly specific plot outcome about hidden treasure and
+    wartime loss rather than a clear motif group fit.
+  cautions: Could fit sacred_treasures only if the treasure has sacred power; could
+    fit lament, war memory, or local legend depending on evidence.
+  suggested_aliases:
+  - lost hidden treasure after war
+  - wartime hidden treasure lost
+  - owners perish and treasure is lost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-reward-for-confronting-a-monster
+  motif_id: treasure_reward_for_confronting_a_monster
+  label: Treasure reward for confronting a monster
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The treasure functions as the reward or stake for monster confrontation,
+    a heroic combat ordeal pattern.
+  cautions: If the monster is a threshold guardian or the treasure is a power object,
+    secondary mappings to threshold_guardian or sacred_treasures may be appropriate.
+  suggested_aliases:
+  - monster-slaying reward
+  - treasure for monster confrontation
+  - reward for facing monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around deceptive invitations, feasts, and violated guest-right;
+  betrayal_violated_trust is the best existing group for most of these.
+- Treasure-related conflict labels should not be mapped to sacred_treasures unless
+  the object has sacred power, authority, or supernatural function rather than ordinary
+  wealth.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and over-specific labels should
+    be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1170
+  input_sha256: 40bcd2139dffe49429ba02c42b4227e3802755db32d85812749056c20f64cdc2
+

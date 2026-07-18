@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l17520-l17555
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: XXXII / THE PERFECT SERMON 371 / THE PERFECT SERMON 373 / XXXIII; lines 17520-17555
+  start: '17520'
+  end: '17555'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Naught is, naught could have been, naught ever will be void.
+  summary: The speaker rejects the existence of void, saying the Cosmos and all its
+    members are completely full of bodies. Bodies differ in quality, form, kind, size,
+    and strength; the smaller or more minute are hard to perceive, leading some people
+    mistakenly to posit void spaces.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker introduces the subject of a “Void” and states that nothing is,
+    was, or will be void.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All members of the Cosmos are described as completely full.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Cosmos is described as full and complete with bodies diverse in quality,
+    form, kind, and size.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bodies are said to differ from one another in strength and size.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Stronger and larger bodies are said to be more easily perceived.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lesser or more minute bodies can scarcely be perceived, or are known by touch
+    alone.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Many people infer that minute things are not bodies and that void spaces exist;
+    the speaker says this is impossible.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: First-person speaker
+  description: A first-person voice gives a doctrinal view on the subject of the Void.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: cosmological teacher
+  assigned_to:
+  - fig:1
+  basis: The speaker announces a view on the Void and explains why void spaces cannot
+    exist.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Void
+  literal_form: The “Void” or “void spaces,” explicitly denied as existing.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Full Cosmos
+  literal_form: The Cosmos described as full, complete, and filled with diverse bodies.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Minute bodies
+  literal_form: Lesser or minute bodies that are scarcely perceived or known through
+    touch alone.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Teaching on the Void
+  summary: The speaker introduces the Void and denies that anything is, has been,
+    or will be void.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cosmos as fullness
+  summary: The Cosmos and its members are described as completely full and complete
+    with diverse bodies.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Perception and mistaken inference
+  summary: The passage explains that bodies differ in size and strength, that minute
+    bodies are difficult to perceive, and that this leads some people to infer void
+    spaces, which the speaker rejects.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Denial of cosmic void
+  taxonomy_refs: []
+  basis: The passage centers on the claim that no void exists, existed, or will exist,
+    and that void spaces are impossible.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names this motif.
+- id: motif:2
+  label: Cosmos as plenum
+  taxonomy_refs: []
+  basis: The Cosmos is described as full and complete, with all its members filled
+    by bodies of varied kinds and sizes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a cosmological doctrine rather than a narrative episode.
+- id: motif:3
+  label: Hidden bodies mistaken for emptiness
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker explains that minute bodies are difficult to perceive and that
+    this perceptual limitation leads people to believe wrongly in void spaces.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The connection to the broad taxonomy ref “wisdom” is thematic and pedagogical,
+    not a specific narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 17520-17527
+  quote_or_summary: 'The speaker introduces the subject of a “Void” and states: “Naught
+    is, naught could have been, naught ever will be void.”'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 17528-17533
+  quote_or_summary: All members of the Cosmos are said to be completely full; the
+    Cosmos itself is full and complete with bodies diverse in quality, form, kind,
+    and size.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 17534-17544
+  quote_or_summary: Bodies differ in strength and size; stronger and larger bodies
+    are more easily perceived, while lesser or minute bodies can scarcely be perceived
+    or are known by touch alone.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 17545-17552
+  quote_or_summary: Because minute bodies are difficult to perceive, many think they
+    are not bodies and that void spaces exist; the speaker calls this impossible.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are conceptual cosmological
+    patterns rather than narrative motifs. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line begins a new point about “Space” but is fragmentary in the supplied passage, so it was not separately extracted.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l17520-l17555
+  passage_sha256=f19943f64e61fd282c45e234f7950dc5d28124b53c763d5168a456f6cdee33b5
+

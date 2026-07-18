@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0482
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.companion-urges-hero-toward-another-named-adversary
+  motif_id: companion_urges_hero_toward_another_named_adversary
+  label: Companion urges hero toward another named adversary
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears to be a highly contextual episode of counsel before
+    conflict rather than a stable wisdom or combat motif.
+  cautions: Named adversary detail may be passage-specific; review whether the companion's
+    urging functions as prophecy, counsel, incitement, or simple plot movement.
+  suggested_aliases:
+  - companion urges hero toward adversary
+  - battle counsel by companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-identity-under-an-assumed-name
+  motif_id: concealed_identity_under_an_assumed_name
+  label: Concealed identity under an assumed name
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: medium
+  rationale: Assumed names and concealed identity fit the broader hidden-identity
+    and later-recognition complex.
+  cautions: If no recognition, proof, or identity revelation follows, this may be
+    only a disguise or passage detail; consider trickster or shapeshifter only if
+    boundary-crossing or transformation is central.
+  suggested_aliases:
+  - assumed name concealment
+  - hidden identity under false name
+  - concealed identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-parentage-with-later-revelation
+  motif_id: concealed_parentage_with_later_revelation
+  label: concealed parentage with later revelation
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden parentage later revealed is an identity-proof or recognition pattern,
+    often involving kinship disclosure.
+  cautions: If the concealed parentage marks sacred or royal destiny, secondary review
+    under miraculous_child or royal_legitimacy may be needed.
+  suggested_aliases:
+  - hidden parentage revealed
+  - concealed lineage revelation
+  - kinship revealed after concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-speaking-animals-reveal-the-truth-indirectly
+  motif_id: concealed_speaking_animals_reveal_the_truth_indirectly
+  label: Concealed speaking animals reveal the truth indirectly
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: The core function is indirect revelation of hidden truth, which fits
+    sacred knowledge more than animal transformation.
+  cautions: Could instead belong to a future talking-animal or fable-revelation group;
+    source context should confirm whether the animals are supernatural agents, tricksters,
+    or narrative devices.
+  suggested_aliases:
+  - speaking animals reveal truth
+  - animal speech reveals hidden truth
+  - indirect revelation by animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.condemnation-to-cross-with-two-named-criminals
+  motif_id: condemnation_to_cross_with_two_named_criminals
+  label: Condemnation to cross with two named criminals
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label is an episode-specific Passion detail centered on named companions
+    rather than a reusable motif abstraction.
+  cautions: If abstracted, the broader motif might involve unjust condemnation, execution
+    with criminals, or redemptive suffering, but the current wording is too passage-specific.
+  suggested_aliases:
+  - condemned with two criminals
+  - execution alongside criminals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confirming-sign-at-a-named-threshold
+  motif_id: confirming_sign_at_a_named_threshold
+  label: Confirming sign at a named threshold
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: A confirming sign functions as revelatory evidence or omen, aligning
+    with vision and sign-based knowledge.
+  cautions: Named threshold may be a passage artifact; if the threshold crossing is
+    the key function, initiation or threshold_guardian may be relevant instead.
+  suggested_aliases:
+  - confirming sign at threshold
+  - threshold omen
+  - revelatory confirmation sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-or-weapon-event-preserved-in-a-hill-name
+  motif_id: conflict_or_weapon_event_preserved_in_a_hill_name
+  label: conflict or weapon event preserved in a hill name
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The existing cosmic_origin group includes etiological place-name and
+    landscape-naming variants tied to heroic or violent events.
+  cautions: This is more local etiology than cosmic creation; preserve the hill-name
+    specificity as evidence and do not infer broader creation unless the passage supports
+    landscape formation.
+  suggested_aliases:
+  - place-name etiology from conflict
+  - hill-name origin from weapon event
+  - toponymic naming from combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflicting-counsel-after-reconnaissance
+  motif_id: conflicting_counsel_after_reconnaissance
+  label: conflicting counsel after reconnaissance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns counsel and decision after scouting, but its mythic
+    function is unclear without passage evidence.
+  cautions: Could be wisdom, failed leadership, divine judgment, or a military plot
+    detail; do not map merely because it involves speech.
+  suggested_aliases:
+  - conflicting reconnaissance counsel
+  - divided counsel after scouting
+  - opposed reports after reconnaissance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confounded-speech-and-migration
+  motif_id: confounded_speech_and_migration
+  label: Confounded speech and migration
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Confounded Speech and Dispersal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Confused language producing migration or dispersal is a recurrent origin-and-social-order
+    pattern not cleanly held by existing speech or journey groups.
+  cautions: Review carefully against Babel-like assumptions; similar placement does
+    not imply borrowing or common origin. If the passage only names a local Tulan
+    event, retain local specificity.
+  suggested_aliases:
+  - confusion of languages and dispersal
+  - confounded speech and migration
+  - language confusion causes migration
+  suggested_new_group:
+    id: confounded_speech_dispersal
+    label: Confounded Speech and Dispersal
+    description: Speech, language, or mutual intelligibility is disrupted, multiplied,
+      or confounded, producing migration, dispersal, social differentiation, or the
+      origin of peoples.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    related_group_ids:
+    - hero_journey
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover sacred speech, migration,
+      and etiological origins separately, but none preserves the combined function
+      of language confusion causing social or geographic dispersal.
+- suggestion_id: normalization.suggestion.confounded-speech-at-tulan
+  motif_id: confounded_speech_at_tulan
+  label: confounded speech at Tulan
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Confounded Speech and Dispersal
+  relationship: narrower_than
+  confidence: medium
+  rationale: This appears to be a local instance of language confounding, likely belonging
+    with a broader confounded-speech dispersal motif if accepted.
+  cautions: The place-name Tulan is culturally specific and should be preserved as
+    evidence; human review should verify whether migration, social differentiation,
+    or origin-of-peoples function is present.
+  suggested_aliases:
+  - language confounding at Tulan
+  - confused speech at Tulan
+  - Tulan speech confusion
+  suggested_new_group:
+    id: confounded_speech_dispersal
+    label: Confounded Speech and Dispersal
+    description: Speech, language, or mutual intelligibility is disrupted, multiplied,
+      or confounded, producing migration, dispersal, social differentiation, or the
+      origin of peoples.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    related_group_ids:
+    - hero_journey
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover sacred speech, migration,
+      and etiological origins separately, but none preserves the combined function
+      of language confusion causing social or geographic dispersal.
+batch_notes:
+- Several labels in this batch are single-occurrence and over-specific; placements
+  should be treated as provisional evidence routing, not taxonomy edits.
+- The two confounded-speech items may support one new candidate group, but human review
+  should confirm the narrative function and avoid transmission claims.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0482; human review
+    still required for low-confidence and new-group items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0482
+  input_sha256: 980dd4abe443cc378e36be2644e3421dd6f9c744ff7ed00bc267dfeb112002b2
+

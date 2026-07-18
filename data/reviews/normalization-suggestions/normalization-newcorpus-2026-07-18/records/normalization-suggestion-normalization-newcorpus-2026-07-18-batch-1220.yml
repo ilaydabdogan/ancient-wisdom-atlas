@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1220
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.inn-or-wine-woman-s-house-as-disreputable-setting
+  motif_id: inn_or_wine_woman_s_house_as_disreputable_setting
+  label: inn or wine-woman's house as disreputable setting
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a socially charged setting, but the narrative function
+    is unclear from the label alone.
+  cautions: Could be a passage-specific social detail, a liminal hospitality setting,
+    a sacred-substance setting, or moralizing commentary; source context is needed
+    before indexing.
+  suggested_aliases:
+  - disreputable inn or tavern setting
+  - wine-woman's house as liminal setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inscribed-obstacle-barring-an-army-until-a-feat-is-performed
+  motif_id: inscribed_obstacle_barring_an_army_until_a_feat_is_performed
+  label: inscribed obstacle barring an army until a feat is performed
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: An obstacle bars passage until a qualifying feat is performed, functioning
+    as a threshold test even without a personal guardian.
+  cautions: If the passage emphasizes heroic martial feat more than boundary passage,
+    sacred_combat or hero_journey may be better secondary mappings.
+  suggested_aliases:
+  - feat-gated obstacle
+  - inscribed threshold obstacle
+  - challenge obstacle barring passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inscribed-stones-requiring-interpretation-across-opposing-groups
+  motif_id: inscribed_stones_requiring_interpretation_across_opposing_groups
+  label: inscribed stones requiring interpretation across opposing groups
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Inscribed stones requiring interpretation center on encoded or mediated
+    knowledge that must be read across group boundaries.
+  cautions: May instead be a sacred treasure, boundary marker, legal sign, or episode-specific
+    battle stratagem depending on source evidence.
+  suggested_aliases:
+  - interpreted inscribed stones
+  - encoded stone inscription
+  - inscribed stones as contested knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - threshold_guardian
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intermediate-daemons-as-agents-of-mythic-suffering-and-conflict
+  motif_id: intermediate_daemons_as_agents_of_mythic_suffering_and_conflict
+  label: intermediate daemons as agents of mythic suffering and conflict
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a class of supernatural agents causing suffering,
+    but their ritual or narrative role is unclear.
+  cautions: Could map to divine_intervention, divine_judgment, sacrifice/exorcism,
+    or conflict motifs; culturally specific daemon terminology needs careful review.
+  suggested_aliases:
+  - intermediate demons as agents of suffering
+  - daemonic agents of conflict
+  - harmful intermediary spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_judgment
+    - sacrifice
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.investiture-with-celestial-garments
+  motif_id: investiture_with_celestial_garments
+  label: investiture with celestial garments
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Celestial garments function as sacred objects conferring status, protection,
+    or transformed identity through investiture.
+  cautions: In Gnostic context this may also signal ascent, afterlife passage, or
+    reintegration of the soul; avoid reducing garment symbolism to an object only.
+  suggested_aliases:
+  - celestial garment investiture
+  - heavenly robe investiture
+  - sacred clothing of transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ascent
+    - afterlife_passage
+    - death_and_transformation
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisible-or-self-acting-service-in-a-supernatural-household
+  motif_id: invisible_or_self_acting_service_in_a_supernatural_household
+  label: Invisible or self-acting service in a supernatural household
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural household with invisible or self-acting service suggests
+    an enchanted otherworldly domestic space.
+  cautions: If the focus is magical abundance or household spirits rather than enchanted
+    realm, divine_intervention or sacred_exchange may be relevant.
+  suggested_aliases:
+  - self-acting supernatural household service
+  - invisible servants in enchanted household
+  - magical household service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisible-persecuting-demon-brings-household-ruin
+  motif_id: invisible_persecuting_demon_brings_household_ruin
+  label: invisible persecuting demon brings household ruin
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An invisible demon actively intervenes in household affairs and causes
+    ruin through supernatural agency.
+  cautions: If the passage frames this as haunting by the dead, moral punishment,
+    or spirit affliction requiring expulsion, restless_dead_haunting_vengeance, divine_judgment,
+    or sacrifice may be better.
+  suggested_aliases:
+  - invisible household demon persecution
+  - demon causes household ruin
+  - unseen persecuting spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - restless_dead_haunting_vengeance
+    - divine_judgment
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.island-duel-or-isle-going-after-challenge
+  motif_id: island_duel_or_isle_going_after_challenge
+  label: Island duel or isle-going after challenge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A challenged journey to an island for a duel is a formalized combat ordeal
+    in a marked liminal setting.
+  cautions: Island setting may be only a scene detail; if the source emphasizes travel
+    or exile more than duel, hero_journey may be secondary.
+  suggested_aliases:
+  - island duel after challenge
+  - isle-going to single combat
+  - challenged duel on an island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.island-isolation-and-limited-intergroup-contact
+  motif_id: island_isolation_and_limited_intergroup_contact
+  label: island isolation and limited intergroup contact
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic or contextual description of social geography
+    rather than a narrative motif.
+  cautions: If source passages treat the island as an enchanted realm, exile site,
+    or ordeal boundary, preserve evidence under otherworld or hero_journey instead.
+  suggested_aliases:
+  - island isolation
+  - limited intergroup contact on island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.island-peril-known-to-sailors
+  motif_id: island_peril_known_to_sailors
+  label: island peril known to sailors
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A perilous island known to sailors functions as a dangerous liminal threshold
+    in travel narrative.
+  cautions: If the island is an enchanted realm or contains a specific monster, otherworld
+    or a more specific danger motif may be better; label is broad and setting-focused.
+  suggested_aliases:
+  - perilous island known to sailors
+  - dangerous island for sailors
+  - sailors' known island peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence and setting-heavy; several should
+  be treated as provisional until passage evidence clarifies narrative function.
+- Do not infer transmission or contact from shared island, inscription, demon, or
+  threshold imagery.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous supernatural-agent
+    and setting labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1220
+  input_sha256: f79499de6edb995acebc12b8a6ce34f26e695f997d4905fd7f5c2ecc5c737bbf
+

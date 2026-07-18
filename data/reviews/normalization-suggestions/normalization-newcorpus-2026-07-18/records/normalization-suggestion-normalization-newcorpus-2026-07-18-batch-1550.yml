@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1550
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-apostolic-messenger
+  motif_id: rejected_apostolic_messenger
+  label: Rejected apostolic messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred messenger sent to a community fits divine guidance, especially
+    near the existing prophet_call_under_opposition child.
+  cautions: If the passage emphasizes the community's punishment rather than the sending
+    or rejection of the messenger, divine_judgment should be the primary group.
+  suggested_aliases:
+  - rejected_prophetic_messenger
+  - prophet_rejected_by_community
+  - messenger_rejected_under_opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-clear-proofs-labeled-sorcery
+  motif_id: rejected_clear_proofs_labeled_sorcery
+  label: Rejected clear proofs labeled sorcery
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns revealed signs or proofs being misrecognized and rejected,
+    a conflict over sacred knowledge and revelation.
+  cautions: Could also support divine_judgment if the narrative focus is punishment
+    for denial; preserve the accusation of sorcery as evidence detail.
+  suggested_aliases:
+  - revealed_signs_rejected_as_sorcery
+  - clear_proofs_called_magic
+  - revelation_misrecognized_as_sorcery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-exchange-of-patronage-for-civic-renown
+  motif_id: rejected_exchange_of_patronage_for_civic_renown
+  label: Rejected exchange of patronage for civic renown
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a social exchange or patronage refusal, but its mythic
+    function is unclear from the wording alone.
+  cautions: May be a passage-specific civic or literary detail rather than a reusable
+    motif; review whether sacred exchange, royal legitimacy, or textual commentary
+    is actually involved.
+  suggested_aliases:
+  - patronage_for_renown_rejected
+  - refused_civic_patronage_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-food-portion-as-insult
+  motif_id: rejected_food_portion_as_insult
+  label: Rejected food portion as insult
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A refused or insulting food portion may mark failed reciprocity, honor,
+    or feast obligation within an exchange scene.
+  cautions: Could be too episode-specific; if the passage centers on heroic honor
+    or conflict rather than exchange obligation, sacred_combat or exclusion may be
+    better.
+  suggested_aliases:
+  - insulting_food_portion
+  - dishonoring_feast_portion
+  - rejected_share_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-illicit-seduction-of-a-royal-youth
+  motif_id: rejected_illicit_seduction_of_a_royal_youth
+  label: Rejected illicit seduction of a royal youth
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines seduction refusal, royal youth, and possible court
+    danger, but the narrative outcome is not specified.
+  cautions: Could involve sacred_love, royal_legitimacy, false accusation, moral judgment,
+    or a passage-specific court episode; source evidence is needed.
+  suggested_aliases:
+  - rejected_forbidden_seduction
+  - royal_youth_resists_illicit_seduction
+  - refused_seduction_of_prince
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-insect-spouses-or-wooers
+  motif_id: rejected_insect_spouses_or_wooers
+  label: Rejected insect spouses or wooers
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal or insect wooers could indicate animal spouse, transformation,
+    trickster courtship, or local kinship taboo, but no current group cleanly captures
+    it.
+  cautions: Culturally specific animal-spouse material should not be forced into shapeshifter
+    unless bodily transformation or boundary crossing is explicit.
+  suggested_aliases:
+  - insect_suitors_rejected
+  - animal_spouse_rejected
+  - nonhuman_wooers_rejected
+  suggested_new_group:
+    id: animal_spouse_courtship
+    label: Animal Spouse and Nonhuman Courtship
+    description: Courtship, marriage, refusal, or kinship relations involving animal,
+      insect, spirit, or other nonhuman spouses or suitors.
+    parent_group_ids:
+    - shapeshifter
+    - sacred_love
+    related_group_ids:
+    - otherworld
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover transformation and
+      sacred love broadly, but not recurring animal-spouse or nonhuman courtship structures
+      when transformation is absent.
+- suggestion_id: normalization.suggestion.rejected-magical-suitor-punishes-refusal
+  motif_id: rejected_magical_suitor_punishes_refusal
+  label: Rejected magical suitor punishes refusal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural suitor punishing refusal may be a courtship ordeal, coercive
+    magic, or moralized revenge episode.
+  cautions: Do not map to sacred_love without confirming that love or marriage choice
+    is central; may overlap with curse_speech, divine_judgment, or nonhuman courtship.
+  suggested_aliases:
+  - supernatural_suitor_punishes_refusal
+  - rejected_suitor_revenge
+  - magical_courtship_coercion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messenger-accused-of-being-merely-human-or-an-impostor
+  motif_id: rejected_messenger_accused_of_being_merely_human_or_an_impostor
+  label: Rejected messenger accused of being merely human or an impostor
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif fits prophetic or apostolic guidance being rejected because
+    the messenger's status is denied.
+  cautions: If the emphasis is epistemic denial of revelation, sacred_knowledge may
+    be a secondary mapping; if followed by punishment, divine_judgment may be primary.
+  suggested_aliases:
+  - prophetic_messenger_called_impostor
+  - human_messenger_rejected
+  - messenger_status_denied
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messenger-and-judged-community
+  motif_id: rejected_messenger_and_judged_community
+  label: Rejected messenger and judged community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly joins rejection of a sacred messenger with communal
+    judgment, matching divine response to disorder.
+  cautions: Preserve the messenger-rejection component as related to divine_intervention
+    or sacred_knowledge if the passage sequence matters.
+  suggested_aliases:
+  - community_judged_for_rejecting_messenger
+  - rejected_prophet_and_punished_people
+  - messenger_rejection_communal_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messengers
+  motif_id: rejected_messengers
+  label: rejected messengers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejected messengers fits the recurring prophetic guidance-under-opposition
+    pattern within divine intervention.
+  cautions: The plural label is broad; review whether it refers to a narrative motif,
+    a doctrinal summary, or a passage heading. Use divine_judgment when rejection
+    leads directly to punishment.
+  suggested_aliases:
+  - rejected_prophets
+  - messengers_rejected_by_community
+  - prophetic_warning_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic labels appear to be variants of a prophet/messenger rejected by
+  a community. They can be indexed under divine_intervention when the sending and
+  rejection of guidance is central, with divine_judgment as primary only when punishment
+  or communal reckoning is explicit.
+- Several single-occurrence courtship or refusal labels are too contextual for confident
+  placement without source evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for single-occurrence
+    courtship, patronage, and feast-insult labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1550
+  input_sha256: b98812ca91d4c1993d7c98b7eb89e9b906b37350d6b6bfdabb473d4fadb7badd
+

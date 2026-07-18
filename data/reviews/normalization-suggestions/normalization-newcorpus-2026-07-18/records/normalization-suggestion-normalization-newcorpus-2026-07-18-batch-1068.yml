@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1068
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-alone-against-overwhelming-numbers
+  motif_id: hero_alone_against_overwhelming_numbers
+  label: hero alone against overwhelming numbers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone hero facing overwhelming enemies fits heroic sacred combat and
+    warrior ordeal patterns.
+  cautions: Single occurrence; could be ordinary battle narration unless the passage
+    marks sacred or heroic ordeal significance.
+  suggested_aliases:
+  - lone hero against many
+  - outnumbered hero in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-appointed-to-guard-a-threatened-hall
+  motif_id: hero_appointed_to_guard_a_threatened_hall
+  label: hero appointed to guard a threatened hall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: The hero temporarily takes the guarding role at a threatened boundary
+    or defended hall.
+  cautions: If the hall is just a battle setting rather than a charged threshold,
+    sacred_combat or hero_journey may be better.
+  suggested_aliases:
+  - hero as hall guardian
+  - guarding a threatened hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-arming-against-a-feared-special-weapon
+  motif_id: hero_arming_against_a_feared_special_weapon
+  label: hero arming against a feared special weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Preparation against a feared weapon is a granular martial ordeal within
+    combat narratives.
+  cautions: Weapon specificity may be an episode detail; map to sacred_treasures only
+    if the weapon itself has divine or power-object status.
+  suggested_aliases:
+  - arming against special weapon
+  - feared weapon combat preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-arms-at-dawn-for-vengeance-battle
+  motif_id: hero_arms_at_dawn_for_vengeance_battle
+  label: Hero arms at dawn for vengeance battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Arming for vengeance battle fits heroic combat and vengeance-warrior
+    scenes already grouped under sacred combat.
+  cautions: Dawn and arming details may be narrative staging rather than independent
+    motifs.
+  suggested_aliases:
+  - hero arms for vengeance
+  - vengeance battle preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-asked-to-protect-ascetics-by-destroying-monsters
+  motif_id: hero_asked_to_protect_ascetics_by_destroying_monsters
+  label: Hero asked to protect ascetics by destroying monsters
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero destroys monsters to protect sacred practitioners, matching the
+    order-preserving warrior role against demonic threats.
+  cautions: Could also index divine_intervention if the emphasis is divine mission
+    or guidance rather than combat.
+  suggested_aliases:
+  - hero protects ascetics from monsters
+  - monster-slaying protector of ascetics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-associated-with-an-axe
+  motif_id: hero_associated_with_an_axe
+  label: hero associated with an axe
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate a hero attribute, weapon emblem, sacred treasure,
+    or passage-specific epithet.
+  cautions: Too little function is given; map to sacred_treasures only if the axe
+    is a power object, or sacred_combat if used narratively in combat.
+  suggested_aliases:
+  - axe-bearing hero
+  - heroic axe attribute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-avenges-fallen-warrior-by-slaying-demon
+  motif_id: hero_avenges_fallen_warrior_by_slaying_demon
+  label: hero avenges fallen warrior by slaying demon
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Vengeance for a fallen warrior through demon-slaying fits sacred combat
+    against demonic disorder.
+  cautions: May also relate to lament_and_mourning if the passage foregrounds grief
+    for the fallen rather than combat victory.
+  suggested_aliases:
+  - avenging fallen warrior by demon-slaying
+  - demon-slaying vengeance for fallen companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-blinded-by-treacherous-antagonist
+  motif_id: hero_blinded_by_treacherous_antagonist
+  label: hero blinded by treacherous antagonist
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive element is treacherous harm to the hero, aligning with violated
+    trust rather than ordinary combat.
+  cautions: If blindness functions as an initiation, disability transformation, or
+    wisdom motif, source context may require a secondary mapping.
+  suggested_aliases:
+  - treacherous blinding of hero
+  - hero maimed by betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-boasts-of-unrewarded-or-remembered-services
+  motif_id: hero_boasts_of_unrewarded_or_remembered_services
+  label: hero boasts of unrewarded or remembered services
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be heroic honor-claim, pride, social reciprocity, or
+    courtly complaint.
+  cautions: Needs source evidence; do not force into pride_and_downfall unless boasting
+    leads to humbling, or sacred_exchange unless reward obligation is central.
+  suggested_aliases:
+  - hero recalls unrewarded services
+  - boast of remembered services
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-borne-into-battle-by-loyal-ally
+  motif_id: hero_borne_into_battle_by_loyal_ally
+  label: hero borne into battle by loyal ally
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A loyal ally bearing the hero into battle is a supporting role within
+    heroic sacred combat.
+  cautions: If the ally is an animal mount, divine vehicle, or supernatural helper,
+    divine_intervention or magical_animal_mount may be relevant.
+  suggested_aliases:
+  - hero carried into battle by ally
+  - loyal ally bears hero in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence heroic combat details; several should
+  remain granular evidence under existing combat groups rather than new canonical
+  motifs.
+- Distinguish sacred or mythic combat from ordinary battle staging when reviewing
+  passages.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify narrative function
+    and whether combat details recur across sources.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1068
+  input_sha256: 79cf918b38e48527e8bea25a7bc40e52f045f65e203a437283aebeb493f5115a
+

@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1586
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sleeping-helper-sabotaged-by-rival-and-rescued-by-another-helper
+  motif_id: sleeping_helper_sabotaged_by_rival_and_rescued_by_another_helper
+  label: sleeping helper sabotaged by rival and rescued by another helper
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Composite fairy-tale-like episode involving helper rivalry and rescue;
+    no existing group clearly captures the function without source context.
+  cautions: Single occurrence and over-specific; may involve betrayal, animal/helpers,
+    magical sleep, or narrative episode sequencing rather than a durable motif.
+  suggested_aliases:
+  - helper sabotage by rival
+  - rescued sleeping helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-helpers-awakened-by-violent-signals
+  motif_id: sleeping_helpers_awakened_by_violent_signals
+  label: sleeping helpers awakened by violent signals
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Awakening helpers by violent signs may be an episode-specific rescue
+    or summoning device, but the broader narrative function is unclear.
+  cautions: Could belong with divine intervention, magical helpers, sacred combat,
+    or storytelling action detail; do not create a sleep motif from one label alone.
+  suggested_aliases:
+  - helpers awakened by violent signal
+  - violent signal awakens helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-princess-carried-away-for-menial-labor
+  motif_id: sleeping_princess_carried_away_for_menial_labor
+  label: sleeping princess carried away for menial labor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a specific plot episode involving abduction, status
+    reversal, and labor rather than a clear existing canonical pattern.
+  cautions: Could relate to hidden identity, persecuted heroine, sacred love, or household
+    reversal depending on source; likely too specific for broad pattern queries without
+    review.
+  suggested_aliases:
+  - sleeping princess abducted for labor
+  - princess status reversal through menial labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-princess-encounter-with-identifying-token
+  motif_id: sleeping_princess_encounter_with_identifying_token
+  label: sleeping princess encounter with identifying token
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The identifying token is the operative motif, proving identity or encounter
+    across a hidden or liminal situation.
+  cautions: Sleeping-princess context should remain evidence detail; if no recognition
+    or proof function occurs, review as over-specific episode label.
+  suggested_aliases:
+  - identifying token with sleeping princess
+  - recognition token in sleeping-princess encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-victim-attacked-at-night
+  motif_id: sleeping_victim_attacked_at_night
+  label: Sleeping victim attacked at night
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A night attack on a sleeping victim is a generic violence episode; symbolic
+    or ritual function is not evident from the label.
+  cautions: May be only plot detail. If tied to betrayal, divine punishment, or heroic
+    combat, map secondarily after source review.
+  suggested_aliases:
+  - night attack on sleeping victim
+  - sleeping victim ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleepless-many-eyed-watcher-over-transformed-io
+  motif_id: sleepless_many_eyed_watcher_over_transformed_io
+  label: sleepless many-eyed watcher over transformed Io
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A sleepless many-eyed watcher functions as a guardian controlling access
+    to or confinement of a transformed figure.
+  cautions: Io-specific wording is over-specific; could also relate to shapeshifter
+    because Io is transformed, but the watcher role is central here.
+  suggested_aliases:
+  - sleepless many-eyed watcher
+  - watcher guarding transformed captive
+  - Argus-like guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleepless-night-of-lamenting-anxiety
+  motif_id: sleepless_night_of_lamenting_anxiety
+  label: sleepless night of lamenting anxiety
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on sleepless lament and anxious grief, fitting the
+    lament and mourning complex.
+  cautions: If the passage emphasizes strategic worry, prophetic dreamlessness, or
+    ordinary psychology rather than grief, it may be too generic for motif queries.
+  suggested_aliases:
+  - sleepless lament
+  - night of anxious lamentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slow-messenger-overtaken-by-faster-messenger
+  motif_id: slow_messenger_overtaken_by_faster_messenger
+  label: Slow messenger overtaken by faster messenger
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Messenger speed contrast may encode an etiological or fate-bearing message
+    motif, but the label lacks the message content and function.
+  cautions: Could be a death-origin tale, trickster reversal, or simple narrative
+    mechanism; culturally specific source context is needed.
+  suggested_aliases:
+  - fast messenger overtakes slow messenger
+  - delayed message overtaken
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-attackers-destroyed-by-the-larger-creature-they-provoke
+  motif_id: small_attackers_destroyed_by_the_larger_creature_they_provoke
+  label: Small attackers destroyed by the larger creature they provoke
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Provoking a greater power and being destroyed fits overreach followed
+    by humbling or downfall.
+  cautions: If the story is an animal fable about predator-prey reversal rather than
+    hubris, trickster may be a better review placement.
+  suggested_aliases:
+  - provokers destroyed by larger creature
+  - small attackers punished for provocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-avenger-kills-from-inside-the-body
+  motif_id: small_avenger_kills_from_inside_the_body
+  label: small avenger kills from inside the body
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Internal killing by a small avenger suggests revenge or monster-slaying
+    tactics, but no existing group cleanly captures this bodily-inside attack pattern.
+  cautions: Could be trickster, sacred combat, vengeance, illness-spirit, or culture-specific
+    episode; review source before grouping.
+  suggested_aliases:
+  - internal avenger kills enemy
+  - small killer inside the body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  granular wording as evidence until source review clarifies broader narrative function.
+- Sleep-related wording should not by itself create a sleep motif; distinguish magical
+  sleep, vulnerability, lament, delayed aid, and recognition-token functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; many items need source-context review due to
+    over-specific fairy-tale or episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1586
+  input_sha256: bf40003dde265e8ae5b14fe7bae8613239e9d95d4f54f1ac66ffbf6d2b5cc0ea
+

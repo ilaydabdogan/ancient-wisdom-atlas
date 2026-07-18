@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0052
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-protection-prevents-corpse-desecration
+  motif_id: divine_protection_prevents_corpse_desecration
+  label: Divine protection prevents corpse desecration
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns preservation of a corpse and proper treatment of the
+    dead, fitting funeral-honor and burial-rights patterns.
+  cautions: If the passage emphasizes direct divine intervention more than mortuary
+    honor, divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - protected corpse
+  - corpse protected from desecration
+  - divine protection of the dead body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-redemption-from-the-grave
+  motif_id: divine_redemption_from_the_grave
+  label: Divine redemption from the grave
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Redemption from the grave implies deliverance from death or Sheol into
+    renewed life or transformed status.
+  cautions: Could be resurrection if literal raising is present, or afterlife hope
+    if metaphorical; passage evidence needed.
+  suggested_aliases:
+  - deliverance from the grave
+  - redemption from death
+  - divine rescue from Sheol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-rescue-from-premature-death
+  motif_id: divine_rescue_from_premature_death
+  label: Divine rescue from premature death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central action is a god or sacred power intervening to prevent an
+    untimely death.
+  cautions: If rescue changes the figure's mortal status or afterlife fate, death_and_transformation
+    may also apply.
+  suggested_aliases:
+  - divine rescue from death
+  - god prevents untimely death
+  - sacred intervention averts death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sovereignty-over-life-death-heaven-and-earth
+  motif_id: divine_sovereignty_over_life_death_heaven_and_earth
+  label: divine sovereignty over life, death, heaven, and earth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: broader_label
+  confidence: medium
+  rationale: The label expresses universal divine rule over cosmic domains, including
+    life and death.
+  cautions: May be doctrinal or theological summary rather than a narrative motif;
+    exclude if it is only commentary or creed-like paraphrase.
+  suggested_aliases:
+  - divine sovereignty over life and death
+  - cosmic sovereignty of God
+  - lordship over heaven and earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-vision-as-supreme-afterlife-reward
+  motif_id: divine_vision_as_supreme_afterlife_reward
+  label: Divine vision as supreme afterlife reward
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns a postmortem reward or destination in the afterlife
+    order.
+  cautions: Could also fit theophany if the emphasis is direct divine manifestation
+    rather than afterlife reward structure.
+  suggested_aliases:
+  - beatific vision as afterlife reward
+  - vision of God in paradise
+  - postmortem divine vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-deferred-death-of-a-warrior
+  motif_id: divinely_deferred_death_of_a_warrior
+  label: divinely deferred death of a warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's death is delayed by divine or fated timing while remaining
+    death-bound.
+  cautions: If the passage focuses on battle honor rather than fate, divine_warrior
+    or sacred_combat may be better secondary mappings.
+  suggested_aliases:
+  - deferred warrior death
+  - death delayed by divine will
+  - fated death postponed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinization-of-the-perfected-spirit-soul
+  motif_id: divinization_of_the_perfected_spirit_soul
+  label: divinization of the perfected spirit-soul
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The soul is transformed after death into a perfected or divine state.
+  cautions: May require afterlife_passage if tied to specific postmortem rites, names,
+    gates, or judgment sequence.
+  suggested_aliases:
+  - postmortem divinization
+  - perfected soul becomes divine
+  - apotheosis of the soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-warrior-granted-leave-before-returning-to-death
+  motif_id: doomed_warrior_granted_leave_before_returning_to_death
+  label: Doomed warrior granted leave before returning to death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: The warrior is under an unavoidable death fate, with only a temporary
+    reprieve before fulfillment.
+  cautions: Highly episode-specific; could be preserved as evidence detail under fated
+    warrior death rather than promoted.
+  suggested_aliases:
+  - temporary reprieve before fated death
+  - doomed warrior returns to death
+  - leave granted before destined death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-warriors-defy-death
+  motif_id: doomed_warriors_defy_death
+  label: Doomed warriors defy death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on warriors acting under known doom or fate while resisting
+    death.
+  cautions: If the focus is heroic battle ethos rather than destiny, sacred_combat
+    or divine_warrior may be relevant.
+  suggested_aliases:
+  - warriors defy fated death
+  - doomed warriors resist death
+  - heroic defiance of doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dove-form-manifestation-of-the-spirit
+  motif_id: dove_form_manifestation_of_the_spirit
+  label: Dove-form manifestation of the Spirit
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A spirit appearing in dove form is a direct manifestation of sacred presence
+    in visible form.
+  cautions: Bucket assignment may be incidental; do not map to death/afterlife unless
+    the passage context requires it. Could also relate to shapeshifter if transformation
+    mechanics are central.
+  suggested_aliases:
+  - spirit manifests as dove
+  - dove theophany
+  - divine spirit in bird form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and may be best preserved as granular evidence
+  under existing groups rather than promoted as new taxonomy motifs.
+- Death-related bucket placement sometimes reflects context, but several motifs are
+  primarily divine intervention, sovereignty, theophany, or fated-warrior patterns.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; verify source passages before adding aliases
+    or children.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0052
+  input_sha256: 5592f8a56f1c72959c831514e97bda7f536e851489c83d241468bc0e7ce1aee6
+

@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l12094-l12123
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: SELECTIONS    OF    ZAD-SPARAM,    IX,  3- 10.  I  79 / Chapter  X. / SELECTIONS    OF    ZA25-SPARAM,  IX,   20-X,   5.  1
+    83 / Chapter  XI.; lines 12094-12123
+  start: '12094'
+  end: '12123'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: the fire separated into five kinds
+  summary: Aharman comes seventhly to fire. Fire is entirely against him and separates
+    into five named kinds. The passage then explains the Propitious fire as produced
+    in heaven and manifested in burning fire on earth, and the Good diffuser as present
+    in men and animals with a function including digestion of food. Footnotes relate
+    parts of the terminology to Bundahis passages and Avesta names.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Aharman comes seventhly to fire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fire is described as all together against Aharman.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fire separates into five kinds.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The five kinds are named in the supplied text as the Propitious, the Good
+    diffuser, the Aurvazti-t, the Vazii't, and a fifth printed form beginning with
+    “Supremely-” and otherwise garbled in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says the Propitious fire itself is produced in heaven, glossed
+    parenthetically as garodman in the translation.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Propitious fire's manifestation is in the fire burning on earth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The propitiousness of the Propitious fire is explained by saying that all
+    the kinds are of its nature.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Good diffuser is said to be in men and animals.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Good diffuser's business includes the digestion of food; the supplied
+    passage breaks after mentioning “the sleeping of the”.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Aharman
+  description: A named figure who comes seventhly to fire and is opposed by it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: figure approaching fire
+  assigned_to:
+  - fig:1
+  basis: The passage states that Aharman came seventhly to fire.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: opposed figure
+  assigned_to:
+  - fig:1
+  basis: The fire is described as all together against Aharman.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire encountered by Aharman, described as opposed to him and as separating
+    into five kinds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: five kinds of fire
+  literal_form: The Propitious, the Good diffuser, the Aurvazti-t, the Vazii't, and
+    a fifth kind printed in the supplied text as beginning “Supremely-” with corrupted
+    characters following.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Propitious fire
+  literal_form: A kind of fire produced in heaven, manifested in burning fire on earth,
+    and described as the nature of all the kinds.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Good diffuser fire
+  literal_form: A kind of fire said to be in men and animals, with a business including
+    digestion of food.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Aharman encounters fire
+  summary: Aharman comes to fire; fire is entirely against him and separates into
+    five named kinds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Propitious fire explained
+  summary: The Propitious fire is located in heaven, manifested in burning fire on
+    earth, and treated as the nature shared by all kinds of fire.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Good diffuser fire explained
+  summary: The Good diffuser is located in men and animals and is assigned a function
+    including digestion of food.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: opposition between Aharman and fire
+  taxonomy_refs:
+  - duality
+  basis: Aharman approaches fire, and fire is described as entirely against him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt gives only a brief oppositional statement; broader dualistic
+    theology should not be inferred from this passage alone.
+- id: motif:2
+  label: fivefold differentiation of fire
+  taxonomy_refs: []
+  basis: The passage states that fire separates into five named kinds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a local classificatory pattern; no exact available motif-family
+    taxonomy reference is provided beyond the fire symbol.
+- id: motif:3
+  label: fire distributed through heaven, earth, and living bodies
+  taxonomy_refs: []
+  basis: The Propitious fire is in heaven and manifested in earthly burning fire,
+    while the Good diffuser is in men and animals and connected with digestion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Only two of the five fires are explained in the supplied excerpt, and
+    the final sentence is truncated.
+comparison_claims:
+- id: claim:1
+  claim: The translator's notes explicitly cross-reference Bundahis XVII for the fire
+    classification and identify Avesta names corresponding to some of the translated
+    fire names, supporting a cautious same-motif comparison with a nearby Zoroastrian
+    fire-classification passage.
+  claim_level: same_motif
+  target: Bundahis XVII fire classification
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The actual Bundahis parallel passage is not included in the supplied
+    text, and the note indicates differences in ordering; the claim is limited to
+    the cross-referenced classification tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter XI.1; lines 12094-12099
+  quote_or_summary: "“As he (Aharman) came seventhly to fire, which was all together
+    against him, the fire separated into five kinds”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: Chapter XI.1; lines 12098-12101
+  quote_or_summary: The five kinds are listed as the Propitious, the Good diffuser,
+    the Aurvazti-t, the Vazii't, and a fifth “Supremely-” form whose remaining characters
+    are corrupted in the supplied text.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Chapter XI.2; lines 12101-12107
+  quote_or_summary: The Propitious fire is produced in heaven; its manifestation is
+    the fire burning on earth; all the kinds are said to be of its nature.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter XI.3; lines 12107-12112
+  quote_or_summary: The Good diffuser is in men and animals; its business includes
+    digestion of food, and the supplied passage cuts off after mentioning sleeping.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: Footnote 3; lines 12117-12122
+  quote_or_summary: The note cites Bund. XVII, 1 and says three of the Avesta names
+    are translated here.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: Footnote 3; lines 12117-12122
+  quote_or_summary: The note identifies the first two translated names as the Spenist
+    and Vohu-fryan, fifth and second in the Bundahis, and the fifth as the Berezi-savang,
+    first in the Bundahis.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by corrupted/garbled printed characters in one fire
+    name and by the passage ending mid-sentence after the Good diffuser description.
+    No normalization beyond the supplied text has been attempted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. The fire symbol is mapped to the available taxonomy ref “fire”; the opposition with Aharman is cautiously mapped to the available motif family “duality”.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l12094-l12123
+  passage_sha256=cfbccc5e738625649c62b501264b21365d341301085ad142f300f8d9280fa326
+

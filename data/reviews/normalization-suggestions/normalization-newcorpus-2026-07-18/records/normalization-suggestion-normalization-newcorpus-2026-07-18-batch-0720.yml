@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0720
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.innocent-imprisonment
+  motif_id: innocent_imprisonment
+  label: Innocent imprisonment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve false accusation, persecution, ordeal, or narrative
+    setup; existing groups depend on context.
+  cautions: Single occurrence and too context-dependent to map from the label alone;
+    check whether sacred judgment, hidden identity, or moral vindication is central.
+  suggested_aliases:
+  - wrongful_imprisonment
+  - unjust_confinement_of_innocent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.innocent-or-kind-person-spared-from-collective-destruction
+  motif_id: innocent_or_kind_person_spared_from_collective_destruction
+  label: Innocent or kind person spared from collective destruction
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A morally marked survivor spared from collective destruction fits judgment,
+    punishment, and selective preservation.
+  cautions: If the passage emphasizes world-renewal catastrophe, also consider flood_and_renewal;
+    if the spared person becomes the seed of a new order, survivor_pair may be relevant.
+  suggested_aliases:
+  - righteous_survivor_spared
+  - kind_person_spared_from_destruction
+  - innocent_survivor_of_collective_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insatiable-human-desire-ending-in-dust
+  motif_id: insatiable_human_desire_ending_in_dust
+  label: insatiable human desire ending in dust
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Insatiable desire ending in dust is a moral downfall or humbling pattern
+    tied to overreaching appetite.
+  cautions: Could also map to divine_judgment if explicit sacred punishment is present,
+    or wisdom if it is a didactic saying rather than a narrative event.
+  suggested_aliases:
+  - insatiable_desire_humbled
+  - greed_ending_in_dust
+  - unbounded_desire_downfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inseparable-child-pair
+  motif_id: inseparable_child_pair
+  label: inseparable child pair
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: medium
+  rationale: An inseparable child pair fits the sibling/twin-pair complex when the
+    pair drives the narrative.
+  cautions: If the children are not siblings or do not carry mythic/structural significance,
+    this may be an episode detail rather than a motif.
+  suggested_aliases:
+  - inseparable_children
+  - paired_children
+  - child_companion_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.instant-love-or-embrace-between-heroic-companions
+  motif_id: instant_love_or_embrace_between_heroic_companions
+  label: Instant love or embrace between heroic companions
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Heroic Companionship and Bonding
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key motif is sudden companion-bond formation, not romantic sacred
+    love, marriage, sibling pairing, or covenant.
+  cautions: May be too specific if only one passage; review whether broader companion-bond
+    labels recur before adding a group.
+  suggested_aliases:
+  - instant_bond_between_heroes
+  - heroic_companion_embrace
+  - sudden_heroic_friendship
+  suggested_new_group:
+    id: heroic_companionship
+    label: Heroic Companionship and Bonding
+    description: A powerful bond between heroic companions, comrades, or sworn friends
+      forms, is tested, or motivates the quest, combat, grief, or transformation of
+      the heroes.
+    parent_group_ids:
+    - hero_journey
+    - sacred_combat
+    related_group_ids:
+    - sacred_love
+    - covenant
+    - lament_and_mourning
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing love and sibling groups do not cleanly
+      cover non-kin heroic friendship or comrade bonds as a narrative engine.
+- suggestion_id: normalization.suggestion.instantaneous-overwhelming-love
+  motif_id: instantaneous_overwhelming_love
+  label: Instantaneous overwhelming love
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: Sudden overpowering love belongs with love as a transformative, afflicting,
+    or quest-driving force.
+  cautions: If the passage is purely courtship without sacred or narrative transformation,
+    keep as a granular romance motif rather than overreading mystical love.
+  suggested_aliases:
+  - love_at_first_sight
+  - sudden_overwhelming_love
+  - instant_love_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercession-for-an-afflicted-person
+  motif_id: intercession_for_an_afflicted_person
+  label: intercession for an afflicted person
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intercession for an afflicted person seeks or mediates sacred help in
+    human suffering.
+  cautions: If the emphasis is communal obligation or mercy rather than divine aid,
+    sacred_exchange or covenant may be secondary fits.
+  suggested_aliases:
+  - intercessory_help_for_afflicted
+  - mediation_for_the_afflicted
+  - prayer_for_afflicted_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercessory-maiden-preserves-the-hero-overnight
+  motif_id: intercessory_maiden_preserves_the_hero_overnight
+  label: Intercessory maiden preserves the hero overnight
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: medium
+  rationale: A maiden's intercession preserving the hero fits love or relational aid
+    as quest protection.
+  cautions: Could instead be a helper-maiden role within hero_journey or storytelling_as_power
+    if the intercession is not romantic or sacredly charged.
+  suggested_aliases:
+  - maiden_intercedes_for_hero
+  - maiden_preserves_hero
+  - female_helper_saves_hero_overnight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergenerational-care-and-repayment-to-the-mother
+  motif_id: intergenerational_care_and_repayment_to_the_mother
+  label: Intergenerational care and repayment to the mother
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repayment and care for a parent align with ethical obligation and social
+    order; existing aliases include filial piety.
+  cautions: If focused on divine motherhood or cosmic maternity, mother_goddess may
+    be relevant; if framed as reciprocal offering, sacred_exchange may be secondary.
+  suggested_aliases:
+  - filial_repayment_to_mother
+  - care_for_the_mother
+  - intergenerational_filial_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-marriage-during-migration
+  motif_id: intergroup_marriage_during_migration
+  label: Intergroup marriage during migration
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mark alliance, origin, migration history, kinship formation,
+    or a passage-specific ethnographic detail.
+  cautions: Culturally sensitive and source-dependent; avoid forcing into sacred_marriage
+    or sacred_love unless marriage has explicit cosmic, sacred, or narrative-transformative
+    function.
+  suggested_aliases:
+  - marriage_alliance_during_migration
+  - intergroup_marriage_alliance
+  - migration_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several love/family labels are single-occurrence and may be generated episode details;
+  source evidence should determine whether they are narrative motifs or contextual
+  summaries.
+- Consider future review for a durable heroic_companionship group if more non-kin
+  heroic friendship and comrade-bond motifs recur across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0720
+  input_sha256: 954ab7924b77fa58ad37eeb74fecf69d74ccd568d204074a9ddebad55f4618dc
+

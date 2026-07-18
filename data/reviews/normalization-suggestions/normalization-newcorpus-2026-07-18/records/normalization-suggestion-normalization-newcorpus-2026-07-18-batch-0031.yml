@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0031
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dead-god-with-multiple-claimed-tombs
+  motif_id: dead_god_with_multiple_claimed_tombs
+  label: Dead god with multiple claimed tombs
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a dying god, cult geography, competing tomb traditions,
+    or source commentary.
+  cautions: Single occurrence and the 'multiple claimed tombs' wording may be a scholarly
+    or local-cult artifact rather than a reusable motif.
+  suggested_aliases:
+  - multiple_tombs_of_a_dead_god
+  - contested_tombs_of_a_dead_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_geography_pilgrimage
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-hero-s-hound-as-contested-inheritance-and-token
+  motif_id: dead_hero_s_hound_as_contested_inheritance_and_token
+  label: dead hero's hound as contested inheritance and token
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The hound functions as an inherited token tied to identity, claim, or
+    succession after a hero's death.
+  cautions: If the passage emphasizes heroic memorial property or animal companionship
+    more than identity proof, sacred_treasures or heroic_funeral_rites may be better
+    secondary mappings.
+  suggested_aliases:
+  - dead_hero_hound_as_inheritance_token
+  - hero_hound_as_contested_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-kin-as-escorts
+  motif_id: dead_kin_as_escorts
+  label: dead kin as escorts
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: high
+  rationale: Dead relatives serving as escorts fits guidance through death or the
+    afterlife route.
+  cautions: If the dead kin appear in dreams or crisis visions rather than postmortem
+    passage, dream_and_vision or ancestor_rites may also be relevant.
+  suggested_aliases:
+  - dead_relatives_as_afterlife_escorts
+  - ancestral_escorts_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-kin-consumed-as-a-compelled-meal
+  motif_id: dead_kin_consumed_as_a_compelled_meal
+  label: Dead kin consumed as a compelled meal
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines corpse/kin consumption, coercion, and possible ordeal
+    or taboo violation without enough context.
+  cautions: Culturally sensitive and potentially episode-specific; avoid mapping to
+    sacrifice, sacred_substance, or divine_judgment without source evidence about
+    ritual, punishment, or transformation.
+  suggested_aliases:
+  - compelled_consumption_of_dead_kin
+  - forced_meal_of_dead_relative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_substance
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-king-s-ascent-to-divine-or-heavenly-realm
+  motif_id: dead_king_s_ascent_to_divine_or_heavenly_realm
+  label: Dead king's ascent to divine or heavenly realm
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: narrower_than
+  confidence: high
+  rationale: A dead king rising to a divine or heavenly realm is a specific postmortem
+    ascent pattern.
+  cautions: If the focus is royal apotheosis or legitimized sovereignty, royal_legitimacy
+    or supreme_ruler may be useful secondary groups.
+  suggested_aliases:
+  - postmortem_ascent_of_the_king
+  - dead_king_heavenly_ascent
+  - royal_ascent_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-maiden-as-nocturnal-witch
+  motif_id: dead_maiden_as_nocturnal_witch
+  label: Dead maiden as nocturnal witch
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: role_variant
+  confidence: medium
+  rationale: A dead person returning or acting as a nocturnal witch fits active, dangerous
+    dead imagery.
+  cautions: If the passage emphasizes transformation into a witch rather than haunting,
+    shapeshifter may be a secondary mapping; culturally specific witch terminology
+    needs review.
+  suggested_aliases:
+  - dead_maiden_as_night_witch
+  - female_dead_as_nocturnal_witch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-mistaken-or-treated-as-if-living
+  motif_id: dead_mistaken_or_treated_as_if_living
+  label: dead mistaken or treated as if living
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe revenants, corpse treatment, mistaken identity,
+    satire, or narrative misunderstanding.
+  cautions: Too ambiguous from label alone; confirm whether the dead are active agents,
+    ritually addressed, or merely misrecognized in an episode.
+  suggested_aliases:
+  - dead_treated_as_living
+  - corpse_mistaken_for_living_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - restless_dead_haunting_vengeance
+    - ancestor_rites
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-monsters-transformed-into-useful-forms
+  motif_id: dead_monsters_transformed_into_useful_forms
+  label: dead monsters transformed into useful forms
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is transformation after death into useful beings, objects,
+    or features.
+  cautions: If the dead monster's body creates landscape or cosmos, cosmic_origin
+    or primordial_sacrifice may be better; if combat is central, divine_warrior or
+    sacred_combat may be secondary.
+  suggested_aliases:
+  - slain_monsters_transformed_into_useful_forms
+  - dead_monster_body_becomes_useful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-mother-aids-endangered-child
+  motif_id: dead_mother_aids_endangered_child
+  label: Dead mother aids endangered child
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A dead mother acts as a supernatural helper protecting a child in danger.
+  cautions: Could also belong with ancestor_rites if framed as ancestral aid, or miraculous_child
+    if the child's destiny is central.
+  suggested_aliases:
+  - dead_mother_as_child_protector
+  - deceased_mother_aids_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-mother-as-supernatural-helper-in-difficult-tasks
+  motif_id: dead_mother_as_supernatural_helper_in_difficult_tasks
+  label: dead mother as supernatural helper in difficult tasks
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The deceased mother functions as a supernatural helper guiding or aiding
+    difficult tasks.
+  cautions: If aid depends on funerary care or ancestor relationship, ancestor_rites
+    may be a secondary mapping; if tasks are initiation ordeals, initiation may also
+    apply.
+  suggested_aliases:
+  - dead_mother_as_helper
+  - deceased_mother_supernatural_helper
+  - ancestral_mother_aids_tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several death-related labels may reflect ancestor agency, mortuary practice, or
+  episode-specific plot details and should be checked against source passages before
+  final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch contains mostly single-occurrence death/ancestor motifs; ambiguous
+    or culturally sensitive items were left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0031
+  input_sha256: 2b6ce5ed49b294d64e1c1384a1ed30a66f7c1cdbd09caea48b09a0b4f7379ce8
+

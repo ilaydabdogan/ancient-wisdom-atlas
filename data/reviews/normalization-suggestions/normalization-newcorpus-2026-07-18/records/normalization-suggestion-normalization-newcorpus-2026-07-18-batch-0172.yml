@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0172
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.demonic-suitor-in-festive-courtship
+  motif_id: demonic_suitor_in_festive_courtship
+  label: demonic suitor in festive courtship
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines supernatural courtship, possible demonic deception,
+    and festive setting; no existing group cleanly captures the function without source
+    context.
+  cautions: Could belong under sacred_love, threshold_guardian, trickster, or divine_intervention
+    depending on whether the suitor tests, deceives, abducts, or threatens the bride.
+  suggested_aliases:
+  - demonic suitor
+  - supernatural suitor
+  - perilous supernatural courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - threshold_guardian
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denied-passage-at-a-political-border
+  motif_id: denied_passage_at_a_political_border
+  label: denied passage at a political border
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A political-border refusal reads as a historical or itinerary detail
+    unless the passage makes it a sacred threshold ordeal.
+  cautions: If the denial functions as exile, divine test, or liminal threshold, reconsider
+    under hero_journey or threshold_guardian.
+  suggested_aliases:
+  - blocked border crossing
+  - refused passage at border
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.departure-of-supernatural-husband-followed-by-scarcity
+  motif_id: departure_of_supernatural_husband_followed_by_scarcity
+  label: departure of supernatural husband followed by scarcity
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif links loss or departure of a supernatural spouse with social
+    or material deprivation, fitting sacred love as a cosmic or sustaining bond.
+  cautions: If scarcity is the primary ritual or agricultural consequence, sacred_time
+    or sacred_exchange may be relevant secondary mappings.
+  suggested_aliases:
+  - supernatural spouse departure brings scarcity
+  - lost supernatural husband causes scarcity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destined-spouse-announced-at-departure
+  motif_id: destined_spouse_announced_at_departure
+  label: Destined spouse announced at departure
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse foretold at the moment of leaving frames love or marriage as
+    destiny guiding a journey.
+  cautions: Could also support hero_journey if the announcement functions mainly as
+    a departure call rather than a love motif.
+  suggested_aliases:
+  - destined spouse prophecy
+  - spouse foretold at departure
+  - fated marriage announced before journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - prophecy_divination
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-prevents-recognition-or-disclosure-of-kinship
+  motif_id: destiny_prevents_recognition_or_disclosure_of_kinship
+  label: destiny prevents recognition or disclosure of kinship
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on blocked recognition or concealed kinship, which
+    fits the recognition and hidden-identity complex.
+  cautions: Because destiny is the agent, death_by_fate or fate_figures_cosmic_weaving
+    may be relevant if fate, rather than recognition, is the passage focus.
+  suggested_aliases:
+  - fated non-recognition of kin
+  - destiny blocks kinship disclosure
+  - hidden kinship by fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - fate_figures_cosmic_weaving
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-war-fire-against-ships
+  motif_id: destructive_war_fire_against_ships
+  label: Destructive war fire against ships
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a specific battle tactic or war episode; the broader function
+    is combat rather than cosmic fire renewal.
+  cautions: Do not map to world_destroying_fire unless the fire judges or renews a
+    world/order. If divine fire is emphasized, sacred_fire may be secondary.
+  suggested_aliases:
+  - war fire against ships
+  - burning ships in battle
+  - ship-burning attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devil-gained-treasure-lost-at-a-water-crossing
+  motif_id: devil_gained_treasure_lost_at_a_water_crossing
+  label: Devil-gained treasure lost at a water crossing
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines demonic acquisition, treasure loss, and water crossing;
+    the dominant motif cannot be determined from wording alone.
+  cautions: Could map to sacred_waters if crossing is transformative, sacred_treasures
+    if the treasure is central, trickster if devilish deception drives the plot, or
+    divine_judgment if loss punishes wrongdoing.
+  suggested_aliases:
+  - devil treasure lost at crossing
+  - demonic treasure lost in water
+  - treasure lost during water crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_treasures
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devoted-spouse-in-hardship
+  motif_id: devoted_spouse_in_hardship
+  label: Devoted spouse in hardship
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: Spousal devotion through hardship fits love as an enduring sacred or
+    transformative bond.
+  cautions: If the passage emphasizes duty, vow, or dharma more than love, sacred_law
+    or covenant may be useful secondary mappings.
+  suggested_aliases:
+  - faithful spouse in ordeal
+  - spousal devotion through hardship
+  - devoted spouse ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.difficult-passage-through-landscape-barriers
+  motif_id: difficult_passage_through_landscape_barriers
+  label: difficult passage through landscape barriers
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A difficult passage through barriers is a journey ordeal within a departure-trial-transformation
+    pattern when narratively charged.
+  cautions: If barriers mark a sacred threshold or otherworld boundary, threshold_guardian
+    or otherworld may fit better; if merely travel detail, exclude as over-specific.
+  suggested_aliases:
+  - landscape barrier passage
+  - arduous passage through obstacles
+  - difficult terrain crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.difficult-passage-through-mixed-obstacles
+  motif_id: difficult_passage_through_mixed_obstacles
+  label: Difficult passage through mixed obstacles
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mixed obstacles during passage are best treated as a journey ordeal under
+    the broader hero-journey group.
+  cautions: Source context should decide whether this is initiation, descent, threshold
+    testing, or only an itinerary detail.
+  suggested_aliases:
+  - passage through mixed obstacles
+  - obstacle-filled journey
+  - difficult obstacle passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - descent
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and journey-contextual; human
+  review should verify whether they are narrative motifs rather than itinerary or
+  episode details.
+- Do not infer transmission or borrowing from shared placement in broad groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific supernatural courtship and
+    devil/treasure labels need source evidence before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0172
+  input_sha256: 7184d23319b1b44e1bdf2336a7a1665320c24a608d62c1dc5d2e082962a0daf5
+

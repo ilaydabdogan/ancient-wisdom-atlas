@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0865
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.restoration-of-barren-sources-by-killing-hidden-animals
+  motif_id: restoration_of_barren_sources_by_killing_hidden_animals
+  label: Restoration of barren sources by killing hidden animals
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines water/source restoration, hidden animals, and killing;
+    function may be ecological renewal, combat, sacrifice, or local etiological tale.
+  cautions: Single occurrence and culturally/contextually specific; do not map to
+    sacred_waters or sacrifice without passage evidence.
+  suggested_aliases:
+  - hidden animals blocking sources
+  - restoration of springs by killing animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacrifice
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-lost-property-and-aid-to-fallen-animals
+  motif_id: restoration_of_lost_property_and_aid_to_fallen_animals
+  label: Restoration of lost property and aid to fallen animals
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Restoring property and helping animals reads as an ethical command within
+    sacred social order.
+  cautions: May be legal instruction rather than mythic motif; preserve animal-aid
+    detail as evidence.
+  suggested_aliases:
+  - ethical care for fallen animals
+  - restoration of lost property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliation-after-loss-of-animals
+  motif_id: retaliation_after_loss_of_animals
+  label: Retaliation after loss of animals
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Loss of animals prompting retaliation could be warfare, vengeance, social
+    law, or a local episode rather than an animal motif.
+  cautions: Source context is needed to determine whether animals are kin, property,
+    prey, ritual beings, or plot trigger.
+  suggested_aliases:
+  - revenge for lost animals
+  - animal loss provoking retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-abandonment-after-mistreatment-of-animal-beings
+  motif_id: retaliatory_abandonment_after_mistreatment_of_animal_beings
+  label: retaliatory abandonment after mistreatment of animal beings
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Beings, Reciprocity, and Retaliation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal beings withdraw or retaliate after mistreatment, a pattern not
+    well captured by trickster, shapeshifter, or sacred law alone.
+  cautions: Review Indigenous source context carefully; avoid flattening culturally
+    specific animal-person relations into generic fable morality.
+  suggested_aliases:
+  - animal beings abandon humans after mistreatment
+  - retaliation by mistreated animal persons
+  suggested_new_group:
+    id: animal_beings_reciprocity_retaliation
+    label: Animal Beings, Reciprocity, and Retaliation
+    description: Animal persons, helpers, prey, or animal-world powers respond to
+      human treatment through aid, withdrawal, revenge, punishment, or restoration,
+      making reciprocal conduct with nonhuman beings the narrative engine.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    related_group_ids:
+    - sacred_exchange
+    - shapeshifter
+    - otherworld
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing animal-related groups emphasize
+      trickster action, shapeshifting, helpers, or taboo; they do not clearly cover
+      reciprocal moral relations with animal beings as agents.
+- suggestion_id: normalization.suggestion.revenge-through-animal-or-insect-agents
+  motif_id: revenge_through_animal_or_insect_agents
+  label: Revenge through animal or insect agents
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal or insect agents carrying out revenge can fit supernatural or
+    nonhuman intervention in human affairs.
+  cautions: If animals act independently rather than as sacred agents, the proposed
+    animal-reciprocity candidate or divine_judgment may fit better.
+  suggested_aliases:
+  - animal agents of revenge
+  - insect agents of revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revered-carved-animal-monuments
+  motif_id: revered_carved_animal_monuments
+  label: Revered carved animal monuments
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: narrower_than
+  confidence: medium
+  rationale: Carved revered animal monuments are crafted sacred images or monuments
+    rather than animal narrative agents.
+  cautions: If the focus is worship object or power object, sacred_treasures may be
+    a secondary fit; if merely descriptive archaeology, exclude from motif queries.
+  suggested_aliases:
+  - sacred carved animal images
+  - animal monuments as cult objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reversal-against-enemies-after-transformation
+  motif_id: reversal_against_enemies_after_transformation
+  label: Reversal against enemies after transformation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key mechanism is transformation enabling reversal against enemies.
+  cautions: If the passage emphasizes victory or vengeance more than change of form,
+    sacred_combat or divine_judgment may be secondary.
+  suggested_aliases:
+  - transformation enables revenge
+  - transformed figure defeats enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reversal-from-misfortune-to-prosperity-after-animal-world-encounter
+  motif_id: reversal_from_misfortune_to_prosperity_after_animal_world_encounter
+  label: Reversal from misfortune to prosperity after animal-world encounter
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An encounter with an animal-world realm producing prosperity resembles
+    an otherworld exchange or sojourn with transformative benefit.
+  cautions: Could instead belong to divine_intervention if the animal-world agents
+    act as helpers without an otherworld setting.
+  suggested_aliases:
+  - animal-world encounter brings prosperity
+  - misfortune reversed by animal-world encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revolt-of-mistreated-animals-and-household-objects
+  motif_id: revolt_of_mistreated_animals_and_household_objects
+  label: Revolt of mistreated animals and household objects
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mistreated beings and objects revolting functions as moral reckoning
+    for improper conduct.
+  cautions: This may be a world-age or creation-cycle episode in some contexts; review
+    whether it belongs under world_ages_cosmic_decline or animal reciprocity.
+  suggested_aliases:
+  - mistreated animals revolt
+  - objects and animals punish humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - world_ages_cosmic_decline
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-apprentice-receives-a-wealth-producing-animal
+  motif_id: rewarded_apprentice_receives_a_wealth_producing_animal
+  label: Rewarded apprentice receives a wealth-producing animal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already places abundance-giving animals under divine intervention
+    and miraculous provision.
+  cautions: If the animal is primarily a magic object or test reward, sacred_treasures
+    or hospitality/exchange motifs may be secondary.
+  suggested_aliases:
+  - wealth-producing animal as reward
+  - abundance-giving animal awarded to apprentice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a possible recurring complex of animal beings as reciprocal
+  moral agents; one new-group candidate is proposed for reviewer consideration rather
+  than taxonomy insertion.
+- Most items are single-occurrence and should retain source-specific evidence notes
+  before broad Pattern Explorer use.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for culturally
+    specific animal-person and Indigenous tradition contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0865
+  input_sha256: b473b9bbc85a09d0c4859f8ae74eb49ca52302fc3fd4ca3e706448874cc038cd
+

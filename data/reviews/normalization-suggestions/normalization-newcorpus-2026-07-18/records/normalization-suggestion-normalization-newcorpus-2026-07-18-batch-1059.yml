@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1059
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forced-cannibalism-of-kin-at-a-revenge-feast
+  motif_id: forced_cannibalism_of_kin_at_a_revenge_feast
+  label: forced cannibalism of kin at a revenge feast
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: A revenge feast involving coerced kin-cannibalism likely turns violated
+    kinship, hospitality, and feast trust into the narrative engine.
+  cautions: Highly episode-specific and violent; may belong under sacred_combat, divine_judgment,
+    or a future revenge/kin-violence group depending on passage evidence.
+  suggested_aliases:
+  - revenge_feast
+  - kin_cannibalism_as_revenge
+  - feast_betrayal_and_kin_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ford-as-combat-meeting-place
+  motif_id: ford_as_combat_meeting_place
+  label: ford as combat meeting-place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing sacred_combat group already includes ford duel and cattle-raid
+    combat variants; this is a combat-site variant.
+  cautions: If the ford functions primarily as a liminal supernatural threshold rather
+    than a duel site, threshold_guardian or uncanny_ford_encounter may be secondary.
+  suggested_aliases:
+  - ford_combat
+  - combat_at_a_ford
+  - ford_meeting_for_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ford-as-site-of-heroic-duel
+  motif_id: ford_as_site_of_heroic_duel
+  label: ford as site of heroic duel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: Sacred_combat already lists ford_duel_as_crisis_point and fatal_champion_duel_at_a_ford
+    as aliases/children.
+  cautions: Preserve the ford setting as evidence detail; do not map to sacred_waters
+    unless the water crossing itself is transformative.
+  suggested_aliases:
+  - ford_duel
+  - heroic_duel_at_a_ford
+  - champion_duel_at_a_ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ford-combat-threatened-by-supernatural-interference
+  motif_id: ford_combat_threatened_by_supernatural_interference
+  label: Ford combat threatened by supernatural interference
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core scene is combat at a ford, fitting sacred_combat, with supernatural
+    interference as a complicating feature.
+  cautions: If the interfering being is the main motif, divine_intervention or threshold_guardian
+    may be a better primary mapping.
+  suggested_aliases:
+  - supernaturally_interrupted_ford_combat
+  - supernatural_interference_in_ford_duel
+  - ford_duel_with_supernatural_intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ford-combat-with-successive-intervention-by-companions
+  motif_id: ford_combat_with_successive_intervention_by_companions
+  label: Ford combat with successive intervention by companions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The recurring motif-level element is ford combat; successive companion
+    intervention is likely passage-specific battle sequencing.
+  cautions: May be too granular for pattern queries unless similar intervention sequences
+    recur across sources.
+  suggested_aliases:
+  - ford_combat_with_companion_intervention
+  - successive_intervention_in_ford_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fore-tale-or-prelude-to-a-central-heroic-war
+  motif_id: fore_tale_or_prelude_to_a_central_heroic_war
+  label: Fore-tale or prelude to a central heroic war
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a narrative or editorial position relative to a larger
+    war tale, not a symbolic motif.
+  cautions: If the passage contains a distinct war-catalyst episode, map that episode
+    separately under sacred_combat or related groups.
+  suggested_aliases:
+  - war_prelude
+  - fore_tale_to_heroic_war
+  - prelude_episode_to_central_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foredoomed-warriors-choose-immediate-battle
+  motif_id: foredoomed_warriors_choose_immediate_battle
+  label: foredoomed warriors choose immediate battle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: Warriors knowingly choosing battle under doom fits the death_by_fate
+    complex of foreknown or unavoidable warrior death.
+  cautions: May also support divine_warrior or sacred_combat if the emphasis is heroic
+    martial duty rather than fate.
+  suggested_aliases:
+  - foredoomed_warriors
+  - doomed_warriors_choose_battle
+  - foreknown_doom_accepted_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-conqueror-of-erech-behind-the-hero-tradition
+  motif_id: foreign_conqueror_of_erech_behind_the_hero_tradition
+  label: Foreign conqueror of Erech behind the hero tradition
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording is a historical/source-critical claim about a figure behind
+    a tradition, not a narrative motif.
+  cautions: Do not use this as a transmission or historicity claim in motif queries;
+    preserve only as commentary/provenance if needed.
+  suggested_aliases:
+  - historical_conqueror_behind_hero_tradition
+  - foreign_ruler_source_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-origin-heroic-legend-transmission
+  motif_id: foreign_origin_heroic_legend_transmission
+  label: Foreign-origin heroic legend transmission
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an interpretive transmission claim rather than a motif pattern
+    in the story world.
+  cautions: Transmission claims should remain outside normalization placement and
+    not be treated as evidence of borrowing here.
+  suggested_aliases:
+  - heroic_legend_transmission_claim
+  - foreign_origin_legend_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreknown-decisive-combat-at-a-ford
+  motif_id: foreknown_decisive_combat_at_a_ford
+  label: Foreknown decisive combat at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label combines a ford duel crisis point with foreknowledge; existing
+    sacred_combat already covers ford combat as a recurring combat structure.
+  cautions: If doom or prophecy is the dominant function, death_by_fate or prophecy_divination
+    should be secondary or primary after evidence review.
+  suggested_aliases:
+  - foreknown_ford_duel
+  - foreknown_combat_at_a_ford
+  - decisive_ford_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Celtic Irish ford-combat labels appear to be variants of the existing sacred_combat
+  ford-duel cluster; preserve ford setting but avoid creating multiple canonical motifs
+  from single occurrences.
+- Labels making historical origin or transmission claims should be excluded from motif
+  pattern queries and handled as textual/provenance commentary instead.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_batch_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for violent revenge-feast
+    and mixed foreknowledge/ford-combat cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1059
+  input_sha256: ff5c306f25525e249be8600a8acc2cd24c0747184508df1ed543e8010c65c8b1
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1583
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.single-knight-defeats-multiple-would-be-raiders
+  motif_id: single_knight_defeats_multiple_would_be_raiders
+  label: Single knight defeats multiple would-be raiders
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone knight defeating raiders is a martial ordeal or heroic combat
+    scene; existing sacred_combat can hold raid and duel variants.
+  cautions: May be only an episode-specific heroic feat unless the passage gives ritual,
+    honor, or cosmic significance.
+  suggested_aliases:
+  - single warrior defeats multiple raiders
+  - outnumbered knight victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-origin-versus-assembled-fragments
+  motif_id: single_origin_versus_assembled_fragments
+  label: single origin versus assembled fragments
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label reads as a scholarly/source-composition distinction rather
+    than a narrative or symbolic motif.
+  cautions: If the passage describes actual creation from fragments, review under
+    cosmic_origin or primordial_sacrifice instead.
+  suggested_aliases:
+  - unitary origin versus composite fragments
+  - single source versus assembled fragments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-remaining-vulnerable-point-after-invulnerability
+  motif_id: single_remaining_vulnerable_point_after_invulnerability
+  label: Single remaining vulnerable point after invulnerability
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: This directly matches the hidden or remaining vulnerable point after
+    apparent invulnerability.
+  cautions: Preserve the source-specific cause of invulnerability as evidence detail.
+  suggested_aliases:
+  - vulnerable point after invulnerability
+  - single vulnerable spot
+  - remaining weak point
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-surviving-helper-as-collective-hope
+  motif_id: single_surviving_helper_as_collective_hope
+  label: single surviving helper as collective hope
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could refer to remnant survival, divine intervention, helper
+    role, or narrative consolation depending on context.
+  cautions: Do not map to survivor_pair or flood renewal unless there is catastrophe
+    and reconstitution; source evidence is needed.
+  suggested_aliases:
+  - surviving helper as hope
+  - last helper preserves hope
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-survivor-left-to-carry-news-of-slaughter
+  motif_id: single_survivor_left_to_carry_news_of_slaughter
+  label: Single survivor left to carry news of slaughter
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone survivor reporting slaughter is a combat aftermath pattern linked
+    to war memory and martial catastrophe.
+  cautions: May be a plot device or messenger detail rather than a durable motif;
+    could also support lament_and_mourning if grief is central.
+  suggested_aliases:
+  - survivor messenger after slaughter
+  - lone survivor bears news
+  - survivor left as witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-versus-multiple-localized-deity-accounts
+  motif_id: single_versus_multiple_localized_deity_accounts
+  label: Single versus multiple localized deity accounts
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes variant accounting or localization of deity traditions
+    rather than a motif in the story world.
+  cautions: Culturally sensitive material; preserve only as provenance or source-variant
+    note unless passages clearly narrate deity multiplicity.
+  suggested_aliases:
+  - localized deity account variants
+  - single versus multiple deity versions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-vulnerable-spot-after-protective-immersion
+  motif_id: single_vulnerable_spot_after_protective_immersion
+  label: single vulnerable spot after protective immersion
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: Protective immersion leaving one weak spot is a classic specific form
+    of conditional invulnerability.
+  cautions: May also relate to sacred_waters as a secondary symbolic field, but the
+    narrative function is hidden vulnerability.
+  suggested_aliases:
+  - vulnerable spot from incomplete immersion
+  - protective immersion leaves weak point
+  - single weak point after immersion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skill-game-conditionally-permitted-under-devotional-restrictions
+  motif_id: skill_game_conditionally_permitted_under_devotional_restrictions
+  label: skill game conditionally permitted under devotional restrictions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A permitted activity constrained by devotional conditions fits sacred
+    law, ethical command, and ritual prohibition logic.
+  cautions: May be jurisprudential commentary rather than a narrative motif; exclude
+    if it is only legal gloss without mythic or ritual narrative function.
+  suggested_aliases:
+  - conditional permission under devotional restrictions
+  - regulated skill game
+  - devotion-limited game permission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skin-wager-and-failed-renewal
+  motif_id: skin_wager_and_failed_renewal
+  label: Skin wager and failed renewal
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve gambling, bodily transformation, renewal failure,
+    or culturally specific ritual meaning not clear from wording alone.
+  cautions: Culturally sensitive and over-specific; do not force into death_and_transformation
+    without evidence that renewal or rebirth is the core function.
+  suggested_aliases:
+  - failed skin renewal wager
+  - wager involving skin renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skulls-as-horror-intensifier
+  motif_id: skulls_as_horror_intensifier
+  label: skulls as horror intensifier
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The phrase describes a literary effect or atmospheric detail rather than
+    a reusable mythic motif.
+  cautions: If skulls function ritually as trophies, relics, vessels, or memento mori
+    in the passage, remap to sacred_combat, sacred_treasures, or death_and_transformation
+    as appropriate.
+  suggested_aliases:
+  - skulls as horror detail
+  - skull imagery intensifies fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be treated as provisional indexing aids, not taxonomy changes.
+- Labels describing source variants or interpretive contrasts are best excluded from
+  motif pattern queries unless passage evidence shows an actual narrative motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions generated from labels and current normalization groups
+    only; no source passages reviewed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1583
+  input_sha256: 407badcc5e85d858b88172bad711b076bab1bffd112a268166ef1c81131bf717
+

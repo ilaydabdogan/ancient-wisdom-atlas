@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.sikh-sikh-religion-macauliffe-v1-archive-l1503-l1543
+source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+passage_locator:
+  label: SOHILA . 258 / LIST  OF  ILLUSTRATIONS / VOLUME  I  PAGE / VOLUME  II; lines
+    1503-1543
+  start: '1503'
+  end: '1543'
+  translation: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents for Volume I and a list of illustrations
+    for Volumes I and II, naming sections on Guru Nanak and several illustrated Sikh
+    figures, including Guru Nanak, Guru Angad, Guru Amar Das, and Guru Ram Das.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists contents of Volume I, including a preface, introduction,
+    Life of Guru Nanak, several hymn sections, and additional sloks.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists illustrations for Volume I, including the author with Sikh
+    assistants and Guru Nanak as founder of the Sikh religion.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists illustrations for Volume II, including Guru Angad with a
+    pupil, Guru Amar Das, and Guru Ram Das receiving his disciples.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Guru Nanak
+  description: Named in the contents as the subject of a life section and in the illustration
+    list as the founder of the Sikh religion.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The Author
+  description: Named in an illustration title with some Sikh assistants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sikh Assistants
+  description: Mentioned as accompanying the author in an illustration title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Guru Angad
+  description: Named in an illustration title with a pupil.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Pupil
+  description: Mentioned in an illustration title with Guru Angad.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Guru Amar Das
+  description: Named as the subject of an illustration.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Guru Ram Das
+  description: Named in an illustration title as receiving his disciples.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Disciples
+  description: Mentioned as being received by Guru Ram Das in an illustration title.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Founder of the Sikh religion
+  assigned_to:
+  - fig:1
+  basis: The illustration list identifies Guru Nanak as founder of the Sikh religion.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Subject of life narrative
+  assigned_to:
+  - fig:1
+  basis: The contents include a section titled Life of Guru Nanak.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Author
+  assigned_to:
+  - fig:2
+  basis: The illustration list refers to the author.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Sikh assistants
+  assigned_to:
+  - fig:3
+  basis: The illustration list refers to some of the author's Sikh assistants.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Guru
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: The illustration titles name Guru Angad, Guru Amar Das, and Guru Ram Das.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Pupil
+  assigned_to:
+  - fig:5
+  basis: The illustration title pairs Guru Angad with a pupil.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Receiver of disciples
+  assigned_to:
+  - fig:7
+  basis: The illustration title describes Guru Ram Das receiving his disciples.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Disciples
+  assigned_to:
+  - fig:8
+  basis: The illustration title mentions Guru Ram Das receiving his disciples.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Author with Sikh assistants
+  summary: An illustration title presents the author together with some Sikh assistants.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Guru Angad and a pupil
+  summary: An illustration title presents Guru Angad together with a pupil.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Guru Ram Das receiving disciples
+  summary: An illustration title describes Guru Ram Das receiving his disciples.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1503-1525
+  quote_or_summary: Contents of Volume I list sections including Preface, Introduction,
+    Life of Guru Nanak, Twelve Months, JAPJI, Asa ki War, Rahiras, Sohila, Guru Nanak's
+    Hymns, and Additional Sloks.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1527-1535
+  quote_or_summary: '"The Author and some of his Sikh Assistants"; "Guru Nanak, the
+    Founder of the Sikh Religion"'
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 1537-1543
+  quote_or_summary: '"Guru Angad and a Pupil"; "Guru Amar Das"; "Guru Ram Das receiving
+    his Disciples"'
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a contents and illustration-list segment, not a mythic or
+    narrative passage. Literal names and listed illustration scenes are extractable,
+    but no supported motif candidates or comparison claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol references assigned because the passage only lists contents and illustration titles.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:sikh-sikh-religion-macauliffe-v1-archive__l1503-l1543
+  passage_sha256=2be84980fc98ba4d8c247c903b0b17400bf13ef9ecfda41ae007445671a0e128
+

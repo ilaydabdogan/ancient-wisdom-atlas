@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l1744-l1804
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: PLATE NO.                                                    FACING PAGE
+    / CHAPTER I / INTRODUCTORY / CHAPTER II; lines 1744-1804
+  start: '1744'
+  end: '1804'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the experience of becoming lost in the Amazonian
+    bush: a traveller leaves companions, follows a stream, loses orientation among
+    indistinguishable trees and waterways, calls and fires a rifle without result,
+    and undergoes psychological distress. The narrator then recounts his own episode
+    of being lost and finding Brown and his party by following terrain toward water.
+    The passage ends with starvation as another extreme bush experience.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A solitary man leaves companions, enters the bush, happens upon a stream,
+    and walks along its bed while thinking alone.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Trees and vegetation surround the traveller, leaving only narrow views of
+    sunlight and sky along the stream.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On the return journey, trees, river vistas, reeds, weeds, and bush appear
+    indistinguishable, and the traveller cannot locate the trail.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The traveller shouts and fires a rifle, but the forest echoes the sound and
+    he remains lost.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The realization of being lost is described as driving a self-reliant European
+    to pray, blaspheme, and weep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator recounts being lost alone, shouting, firing rifle rounds, laughing,
+    then recovering calm and counting his remaining rounds.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator remembers crossing a stream, follows a downward path to water,
+    walks in a stream bed, and later finds Brown and his party as darkness approaches.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator reports fever after the episode and states that John Brown was
+    lost for five and a half months.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Starvation is described through the image of a person with blood-shot eyes
+    and shaking fingers searching fallen leaves for a lizard or frog.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: hypothetical civilized man / traveller
+  description: A European traveller who leaves companions, follows a stream into the
+    bush, becomes disoriented, shouts, fires a rifle, and realizes he is lost.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: narrator
+  description: The first-person speaker who recounts being lost alone, regaining self-control,
+    following terrain toward water, and finding Brown and his party.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: bearers / boys
+  description: Companions remembered by the narrator as having been left quenching
+    their thirst near a stream.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: John Brown
+  description: A named companion whom the narrator finds with his party; the passage
+    also states that John Brown was later or elsewhere lost for five and a half months.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Brown's party
+  description: The party found by the narrator as darkness was closing in.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: starving man
+  description: A generalized starving person searching fallen leaves for a lizard
+    or frog.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: lost solitary traveller
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both the generalized traveller and the narrator are described as alone in
+    the bush and lost or realizing they are lost.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: self-controlled survivor
+  assigned_to:
+  - fig:2
+  basis: The narrator states that life depended on self-control and clarity of judgment,
+    then acts methodically to find water and rejoin others.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: companions left at water
+  assigned_to:
+  - fig:3
+  basis: The narrator remembers that his boys had been left quenching their thirst
+    after crossing a stream.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: prolongedly lost companion
+  assigned_to:
+  - fig:4
+  basis: The passage states that John Brown was lost for five and a half months.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: party located at dusk
+  assigned_to:
+  - fig:5
+  basis: The narrator says he found Brown and his party as darkness was closing in.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: starving forager
+  assigned_to:
+  - fig:6
+  basis: The passage describes a starving person searching fallen leaves for small
+    animals to eat.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: stream / watercourse
+  literal_form: stream, water, stream bed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: trees and enclosing forest
+  literal_form: trees, vegetation, bush, forest
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: rifle shots and echoes
+  literal_form: rifle, rounds, echoes in the bush
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: fallen leaves, lizard, and frog
+  literal_form: fallen leaves; lizard or frog
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: solitary movement up the stream
+  summary: A man withdraws from companions into the bush, finds a stream, and follows
+    its bed while seeking solitude and reflection.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: loss of orientation in the forest
+  summary: During the attempted return, the forest and river views become indistinguishable;
+    the traveller shouts and fires a rifle, but only echoes answer, and he is lost.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: psychological crisis of being lost
+  summary: The realization of being lost is described as producing prayer, blasphemy,
+    and weeping in a European traveller.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: narrator's lost episode and return to the party
+  summary: The narrator becomes lost, fires rounds, regains calm, seeks water by following
+    lower ground, walks in a stream bed, and eventually finds Brown and his party
+    near dusk.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: starvation in the bush
+  summary: Starvation is presented as an extreme bush experience, with a starving
+    person searching among fallen leaves for small animals.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: lost traveller in an enclosing forest
+  taxonomy_refs: []
+  basis: The passage repeatedly describes a traveller becoming disoriented in the
+    bush, surrounded by trees and duplicate-looking river vistas, unable to find the
+    trail.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an experiential travel narrative rather than a mythic tale; the
+    motif label is descriptive only.
+- id: motif:2
+  label: watercourse as guide or route through wilderness
+  taxonomy_refs: []
+  basis: A stream is described as an obvious guide and by-path, and the narrator later
+    uses downward terrain and a stream bed while attempting to return to others.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage treats water practically as a route, not explicitly as a sacred
+    or supernatural guide.
+- id: motif:3
+  label: isolation crisis leading to prayer, blasphemy, weeping, or madness
+  taxonomy_refs: []
+  basis: The realization of being lost is described as provoking prayer, blasphemy,
+    weeping, and in the narrator's own case a laugh recognized as a sign of possible
+    madness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The pattern is psychological and autobiographical; no ritual or mythic
+    transformation is stated.
+- id: motif:4
+  label: starvation foraging for small animals
+  taxonomy_refs: []
+  basis: The passage closes with starvation in the bush, represented by a person searching
+    fallen leaves for a lizard or frog.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a brief generalized image rather than a developed narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1744-1754
+  quote_or_summary: A man leaves companions for solitude, finds a stream, and walks
+    up its bed while thinking; the stream is called a simple by-path and guide.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:2
+  type: summary
+  locator: 1755-1764
+  quote_or_summary: Trees surround him on every side, with only narrow views of sunlight
+    and sky; he assumes he can return by the way he came.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:3
+  type: summary
+  locator: 1765-1775
+  quote_or_summary: On returning, landmarks seem duplicated; he misses the trail,
+    shouts, fires a rifle, and hears only echoes through the forest; the traveller
+    is lost.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:4
+  type: summary
+  locator: 1776-1786
+  quote_or_summary: The realization of being lost is described as forcing the self-reliant
+    European to pray, blaspheme, and weep, with a contrast to imagined Indian stoicism.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:5
+  type: summary
+  locator: 1787-1797
+  quote_or_summary: The narrator recounts being lost alone, shouting, firing rounds,
+    regaining calm, remembering a crossed stream, following lower ground to water,
+    walking in a stream bed, and finding Brown and his party near dusk.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:6
+  type: summary
+  locator: 1797-1798
+  quote_or_summary: After the incident the narrator has fever and talks in his sleep;
+    the passage states that John Brown was lost for five and a half months.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:7
+  type: summary
+  locator: 1799-1804
+  quote_or_summary: The final paragraph names starvation as another bush experience
+    and describes a starving person searching fallen leaves for a lizard or frog,
+    with the memory likened to a nightmare.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summary based on provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong. Motif candidates are descriptive patterns from
+    travel writing, not explicitly mythological motifs. No comparison claims were
+    made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to literal available symbols water and tree; no motif-family taxonomy IDs were assigned.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l1744-l1804
+  passage_sha256=045bc89742a7aaa0f0c024901a24102cda82945a6c51aa5521a0fbb1e58149a7
+

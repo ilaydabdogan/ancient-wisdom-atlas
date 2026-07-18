@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1077
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-warned-before-facing-a-uniquely-formidable-opponent
+  motif_id: hero_warned_before_facing_a_uniquely_formidable_opponent
+  label: hero warned before facing a uniquely formidable opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning before facing a formidable opponent functions as a combat-ordeal
+    setup within heroic warfare.
+  cautions: Single occurrence; if the warning is prophetic or fated doom, prophecy_divination
+    or death_by_fate may be relevant secondary mappings.
+  suggested_aliases:
+  - warning_before_formidable_opponent
+  - hero_warned_before_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-weakened-or-bound-by-fairy-beings
+  motif_id: hero_weakened_or_bound_by_fairy_beings
+  label: hero weakened or bound by fairy beings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fairy beings weakening or binding a hero points to otherworldly enchantment
+    affecting human action.
+  cautions: Could map to threshold_guardian if the binding blocks passage, or sacred_combat
+    if the focus is battle disablement.
+  suggested_aliases:
+  - hero_bound_by_fairy_beings
+  - otherworldly_binding_of_hero
+  - fairy_enchantment_weakens_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-wins-a-great-treasure
+  motif_id: hero_wins_a_great_treasure
+  label: hero wins a great treasure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: broader_label
+  confidence: medium
+  rationale: Winning a great treasure centers on acquisition of a significant power
+    object or treasure.
+  cautions: If the treasure is ordinary plunder rather than sacred or power-bearing,
+    this may be too generic for motif queries.
+  suggested_aliases:
+  - hero_wins_treasure
+  - winning_a_great_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-wins-and-controls-a-treasure-hoard-after-violent-conflict
+  motif_id: hero_wins_and_controls_a_treasure_hoard_after_violent_conflict
+  label: Hero wins and controls a treasure hoard after violent conflict
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A treasure hoard won and controlled after combat fits acquisition of
+    powerful or status-conferring treasure.
+  cautions: Combat context may warrant sacred_combat as a secondary group; verify
+    the hoard has mythic significance beyond loot.
+  suggested_aliases:
+  - hero_wins_treasure_hoard
+  - treasure_hoard_won_after_combat
+  - control_of_treasure_hoard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-wins-hoard-from-previous-owners-and-dwarf-guardian
+  motif_id: hero_wins_hoard_from_previous_owners_and_dwarf_guardian
+  label: Hero wins hoard from previous owners and dwarf guardian
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core pattern is winning a guarded hoard, a treasure acquisition variant
+    with a supernatural guardian detail.
+  cautions: Dwarf guardian may also implicate threshold_guardian; preserve guardian
+    and previous-owner details as evidence rather than canonical wording.
+  suggested_aliases:
+  - guarded_hoard_won_by_hero
+  - hero_wins_guarded_hoard
+  - hoard_guardian_defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-wins-homage-through-serial-victories
+  motif_id: hero_wins_homage_through_serial_victories
+  label: hero wins homage through serial victories
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Homage gained through repeated victories establishes authority and public
+    legitimacy.
+  cautions: If the passage stresses battle sequence rather than recognition of rule
+    or status, sacred_combat may be the better primary group.
+  suggested_aliases:
+  - homage_won_by_victory
+  - serial_victories_win_homage
+  - victory_based_homage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-wins-treasure-hoard
+  motif_id: hero_wins_treasure_hoard
+  label: hero wins treasure hoard
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: alias
+  confidence: high
+  rationale: This is a concise variant of treasure acquisition by a hero and fits
+    the sacred_treasures group.
+  cautions: Review whether the hoard is mythically charged or just battle spoils before
+    broad indexing.
+  suggested_aliases:
+  - hero_wins_a_great_treasure
+  - hero_wins_treasure
+  - treasure_hoard_won_by_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-with-minimal-aids-versus-hero-with-an-army
+  motif_id: hero_with_minimal_aids_versus_hero_with_an_army
+  label: Hero with minimal aids versus hero with an army
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast frames an asymmetric heroic combat or warfare ordeal.
+  cautions: Could be a passage-specific comparison rather than a durable motif; verify
+    that minimal aid is narratively emphasized as heroic proof.
+  suggested_aliases:
+  - outnumbered_hero
+  - hero_with_few_aids_against_army
+  - asymmetric_heroic_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroes-classified-as-old-time-divinity-like-powers
+  motif_id: heroes_classified_as_old_time_divinity_like_powers
+  label: heroes classified as old-time divinity-like powers
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like scholarly classification of heroes as archaic divine
+    powers rather than a clear narrative motif.
+  cautions: May be a textual or interpretive artifact; if source evidence describes
+    hero cult or apotheosis, royal_legitimacy, divine_race, or divine_intervention
+    might be relevant.
+  suggested_aliases:
+  - heroes_as_divinity_like_powers
+  - archaic_divine_heroes
+  - old_time_divine_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-age-as-source-of-later-epic-tradition
+  motif_id: heroic_age_as_source_of_later_epic_tradition
+  label: heroic age as source of later epic tradition
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes literary-historical framing of epic tradition rather than
+    a symbolic or narrative motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not treat as
+    evidence for a mythic pattern.
+  suggested_aliases:
+  - heroic_age_source_of_epic
+  - heroic_age_epic_tradition
+  - epic_tradition_from_heroic_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several treasure-hoard labels appear near-duplicates and could be consolidated as
+  aliases under sacred_treasures if source review confirms mythic or power-object
+  significance.
+- Combat-heavy labels often need secondary review against sacred_combat, divine_warrior,
+  royal_legitimacy, and sacred_treasures depending on whether the passage emphasizes
+  battle, warrior role, authority, or object acquisition.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    contexts for single-occurrence heroic-combat labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1077
+  input_sha256: abda5526a1aa2903345a27c5c0f8f8ecabe20cbb537e8a967677c02047d0f541
+

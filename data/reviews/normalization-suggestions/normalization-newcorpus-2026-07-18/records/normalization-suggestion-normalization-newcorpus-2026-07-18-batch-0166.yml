@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0166
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.connected-household-tents-with-shared-passage
+  motif_id: connected_household_tents_with_shared_passage
+  label: connected household tents with shared passage
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific domestic architectural arrangement rather
+    than a recurring symbolic or narrative motif.
+  cautions: If the shared passage functions as a ritual threshold, social boundary,
+    or otherworld passage in the source, human review could remap it to threshold
+    or boundary-related groups.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-removal-of-treasure-and-total-destruction
+  motif_id: conquest_followed_by_removal_of_treasure_and_total_destruction
+  label: Conquest followed by removal of treasure and total destruction
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on conquest and destructive warfare, with treasure
+    removal as a war outcome.
+  cautions: May be a historical or passage-specific conquest detail; use divine_judgment
+    only if destruction is framed as sacred punishment.
+  suggested_aliases:
+  - sacking_after_conquest
+  - conquest_and_spoil_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-tribute-and-labor-extraction
+  motif_id: conquest_followed_by_tribute_and_labor_extraction
+  label: Conquest followed by tribute and labor extraction
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Tribute and labor extraction after conquest concern imposed political
+    order and sovereignty.
+  cautions: This may be historical-social description rather than mythic motif; if
+    the passage emphasizes battle itself, sacred_combat may be a better placement.
+  suggested_aliases:
+  - tribute_after_conquest
+  - conquest_and_labor_tribute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-of-islands-and-making-strongholds
+  motif_id: conquest_of_islands_and_making_strongholds
+  label: Conquest of islands and making strongholds
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: low
+  rationale: Conquest and fortification fit the broader warfare and territorial-control
+    complex.
+  cautions: Could be a settlement, migration, or historical place-making detail; source
+    evidence is needed before treating it as a pattern motif.
+  suggested_aliases:
+  - island_conquest_and_fortification
+  - making_strongholds_after_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-of-ocean-monsters
+  motif_id: conquest_of_ocean_monsters
+  label: Conquest of ocean monsters
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Defeating ocean monsters is a sacred-combat variant of the warrior or
+    hero overcoming chaos-like beings.
+  cautions: Do not map automatically to flood or water motifs unless the source emphasizes
+    catastrophe, renewal, or passage through water.
+  suggested_aliases:
+  - sea_monster_slaying
+  - ocean_monster_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-produces-fusion-of-peoples-and-linguistic-ascendancy
+  motif_id: conquest_produces_fusion_of_peoples_and_linguistic_ascendancy
+  label: conquest produces fusion of peoples and linguistic ascendancy
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns post-conquest social reordering, people fusion, and
+    language dominance, which may relate to sovereignty or origin traditions.
+  cautions: Could be historical interpretation, ethnogenesis, colonial-era commentary,
+    or etiological origin material; culturally sensitive source review is needed.
+  suggested_aliases:
+  - conquest_and_ethnogenesis
+  - linguistic_ascendancy_after_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-remembered-as-conversion-foundation
+  motif_id: conquest_remembered_as_conversion_foundation
+  label: Conquest remembered as conversion foundation
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif mixes conquest memory with religious conversion and foundation
+    narrative, requiring source context.
+  cautions: May be colonial or historiographic framing rather than a mythic motif;
+    avoid treating conversion memory as a generic sacred conquest pattern without
+    evidence.
+  suggested_aliases:
+  - conquest_as_conversion_origin
+  - conversion_foundation_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consoling-messenger-reports-the-welfare-of-absent-exiles
+  motif_id: consoling_messenger_reports_the_welfare_of_absent_exiles
+  label: Consoling messenger reports the welfare of absent exiles
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A messenger reporting on absent exiles belongs to exile, separation,
+    and return-journey narrative structure.
+  cautions: If the message is primarily sacred revelation or divine intervention,
+    sacred_knowledge or divine_intervention may be secondary; the consoling detail
+    is likely episode-specific.
+  suggested_aliases:
+  - messenger_reports_on_exiles
+  - news_of_absent_exiles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.container-substitution-in-courtship-challenge
+  motif_id: container_substitution_in_courtship_challenge
+  label: Container substitution in courtship challenge
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: A courtship challenge fits the existing sacred_love cluster that includes
+    bride choice and bride-winning contests.
+  cautions: The container substitution may be trickster deception or object-specific
+    evidence; if deceit is central, trickster may be the better secondary group.
+  suggested_aliases:
+  - courtship_challenge_substitution
+  - bride_winning_container_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-road-decided-by-status-or-skill
+  motif_id: contested_road_decided_by_status_or_skill
+  label: contested road decided by status or skill
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A disputed road resolved by rank or skill is a journey-threshold contest
+    within travel narrative.
+  cautions: May instead be a social-status contest, heroic rivalry, or passage-specific
+    travel detail; source context is needed before firm placement.
+  suggested_aliases:
+  - road_contest_by_status_or_skill
+  - contested_path_resolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conquest labels may be historical or ethnographic summaries rather than
+  reusable motifs; human review should check whether the source frames them mythically,
+  ritually, or politically.
+- The review bucket is journey/homecoming, but many items fit combat, sovereignty,
+  or courtship more directly than journey structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; low-occurrence and culturally contextual conquest/conversion
+    labels should receive source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0166
+  input_sha256: f3cf662c6ffc30e847031b90cfef033241c9f483c83c111208b85d63c7ddd034
+

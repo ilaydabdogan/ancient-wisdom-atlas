@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0667
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.zodiacal-ordering-of-months
+  motif_id: zodiacal_ordering_of_months
+  label: zodiacal ordering of months
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes calendrical ordering by zodiacal signs, fitting sacred
+    or cosmological structuring of time.
+  cautions: Could instead belong under cosmic order or astrology/divination if the
+    passage emphasizes omen practice rather than month ordering.
+  suggested_aliases:
+  - zodiacal_calendar
+  - zodiacal_month_order
+  - astral_calendar_ordering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-incites-sons-to-avenge-a-slain-sister
+  motif_id: mother_incites_sons_to_avenge_a_slain_sister
+  label: Mother incites sons to avenge a slain sister
+  occurrences: 2
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The repeated function is kin-incited vengeance for a slain family member,
+    aligning with vengeance and martial retaliation motifs.
+  cautions: Family-role emphasis is important; if the passage centers maternal lament
+    or kinship obligation rather than combat, lament_and_mourning or sacred_law may
+    be secondary.
+  suggested_aliases:
+  - kin_vengeance_for_slain_sister
+  - mother_incites_vengeance
+  - avenging_a_slain_kinwoman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-children-in-the-wilderness
+  motif_id: abandoned_children_in_the_wilderness
+  label: Abandoned children in the wilderness
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate child persecution, initiation ordeal, exposure,
+    or a folktale episode of abandonment and survival.
+  cautions: Single occurrence and broad context needed; do not map to miraculous_child
+    unless protected destiny or extraordinary survival is explicit.
+  suggested_aliases:
+  - children_abandoned_in_wilderness
+  - child_exposure_in_wilderness
+  - wilderness_abandonment_of_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-person-escapes-by-wizard-flight
+  motif_id: abandoned_person_escapes_by_wizard_flight
+  label: abandoned person escapes by wizard flight
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wizard flight suggests magical transformation or supernatural escape
+    across a boundary, which fits the transformation/escape complex.
+  cautions: If no bodily transformation is present and the focus is only travel rescue
+    after abandonment, hero_journey or divine_intervention may fit better.
+  suggested_aliases:
+  - wizard_flight_escape
+  - magical_flight_escape
+  - abandoned_person_magical_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-stepdaughter-gains-marriage-wealth-from-supernatural-encounter
+  motif_id: abandoned_stepdaughter_gains_marriage_wealth_from_supernatural_encounter
+  label: abandoned stepdaughter gains marriage wealth from supernatural encounter
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: medium
+  rationale: An abandoned stepdaughter rewarded after a supernatural encounter fits
+    the persecuted stepchild household pattern.
+  cautions: The marriage-wealth reward and supernatural helper details should be preserved;
+    if no jealous/rival caretaker is present, divine_intervention or sacred_exchange
+    may be better.
+  suggested_aliases:
+  - persecuted_stepdaughter_rewarded
+  - abandoned_stepdaughter_supernatural_reward
+  - stepdaughter_gains_marriage_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abducted-charitable-maiden-made-household-sister
+  motif_id: abducted_charitable_maiden_made_household_sister
+  label: Abducted charitable maiden made household sister
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines abduction, moral character, and incorporation into
+    a household without a clear existing canonical function.
+  cautions: May be a contextual folktale episode; review whether the key function
+    is hospitality test, otherworld adoption, forced kinship, or reward for charity.
+  suggested_aliases:
+  - charitable_maiden_abducted_into_household
+  - abducted_maiden_as_household_sister
+  - forced_household_sisterhood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abducted-child-rescued-from-baba-yaga-by-younger-sister
+  motif_id: abducted_child_rescued_from_baba_yaga_by_younger_sister
+  label: Abducted child rescued from Baba Yaga by younger sister
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Baba Yaga functions as a dangerous liminal figure whose domain must be
+    escaped or negotiated to rescue the abducted child.
+  cautions: Highly episode-specific; if the emphasis is sibling rescue rather than
+    the liminal antagonist, sibling_pair or hero_journey may be useful secondary mappings.
+  suggested_aliases:
+  - child_abducted_by_baba_yaga
+  - sibling_rescue_from_baba_yaga
+  - younger_sister_rescues_abducted_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abduction-of-a-charitable-maiden-into-a-forest-household
+  motif_id: abduction_of_a_charitable_maiden_into_a_forest_household
+  label: Abduction of a charitable maiden into a forest household
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label overlaps with forest otherworld, abduction, household incorporation,
+    and moral testing, but the dominant function is unclear.
+  cautions: Likely related to the charitable-maiden household-sister label; review
+    together and avoid creating a canonical motif from a single episode unless recurrence
+    is shown.
+  suggested_aliases:
+  - charitable_maiden_abducted_to_forest_household
+  - forest_household_abduction
+  - maiden_taken_into_forest_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abduction-of-a-prized-girl-and-her-mother
+  motif_id: abduction_of_a_prized_girl_and_her_mother
+  label: abduction of a prized girl and her mother
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The abduction of a girl and mother may involve kinship, marriage rules,
+    violence, or local social order, none clear from the label alone.
+  cautions: Culturally sensitive and single-occurrence; source evidence is needed
+    before mapping to sacred_love, sacred_combat, or sacred_law.
+  suggested_aliases:
+  - girl_and_mother_abducted
+  - abduction_of_mother_and_daughter
+  - abduction_of_prized_girl
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-beloved-as-cause-of-vengeance
+  motif_id: absent_beloved_as_cause_of_vengeance
+  label: Absent beloved as cause of vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The beloved's absence motivates vengeance, preserving love or longing
+    as the narrative engine.
+  cautions: If the passage centers retaliatory violence more than love-driven motivation,
+    sacred_combat or divine_judgment may be stronger secondary placements.
+  suggested_aliases:
+  - beloved_absence_motivates_vengeance
+  - vengeance_for_absent_beloved
+  - love_absence_as_vengeance_cause
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local details as evidence notes rather than promoting them directly into taxonomy
+  families.
+- Slavic abduction/stepdaughter/forest-household labels may form a folktale household-persecution
+  cluster, but source review is needed before adding a new group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive abduction and kinship labels
+    need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0667
+  input_sha256: 694f36be7e9ca5bdebaf24f38614b5e0df8511d46b8a97014f809801067389d0
+

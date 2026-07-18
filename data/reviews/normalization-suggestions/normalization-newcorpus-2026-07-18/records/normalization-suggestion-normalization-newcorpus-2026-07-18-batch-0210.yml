@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0210
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.otherworldly-arrival-in-mist
+  motif_id: otherworldly_arrival_in_mist
+  label: Otherworldly arrival in mist
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mist marks liminal arrival from an enchanted or otherworldly realm, fitting
+    the otherworld group better than ordinary travel.
+  cautions: Single occurrence; if mist is only atmospheric setting without supernatural
+    realm-crossing, treat as evidence detail.
+  suggested_aliases:
+  - misty otherworld arrival
+  - arrival from otherworld in mist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.over-sea-bride-quest-ending-in-marriage
+  motif_id: over_sea_bride_quest_ending_in_marriage
+  label: Over-sea bride quest ending in marriage
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on a bride quest and marriage outcome, which fits love,
+    courtship, and bride-winning patterns already grouped under sacred_love.
+  cautions: Could also be hero_journey if the emphasis is travel and ordeal rather
+    than courtship or marriage; over-sea detail should remain granular evidence.
+  suggested_aliases:
+  - oversea bride quest
+  - bride quest ending in marriage
+  - marriage quest across the sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-splendour-drawing-dangerous-spectatorship
+  motif_id: overwhelming_splendour_drawing_dangerous_spectatorship
+  label: Overwhelming splendour drawing dangerous spectatorship
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Dangerous attraction to splendour may involve theophany, sacred fire/light,
+    enchantment, taboo sight, or fatal spectatorship depending on passage context.
+  cautions: Do not map solely from visual brightness; review whether the danger comes
+    from divine manifestation, magical lure, social transgression, or episode-specific
+    spectacle.
+  suggested_aliases:
+  - dangerous spectatorship of splendour
+  - overwhelming radiance attracts viewers
+  - fatal attraction to splendour
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-birds-as-catalyst-for-human-courtship
+  motif_id: paired_birds_as_catalyst_for_human_courtship
+  label: paired birds as catalyst for human courtship
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The paired birds function as a catalyst for human courtship, aligning
+    with love and courtship motifs rather than animal symbolism alone.
+  cautions: If birds are omens, divine messengers, or shapeshifted lovers, secondary
+    mapping to dream_and_vision, divine_intervention, or shapeshifter may be needed.
+  suggested_aliases:
+  - birds catalyze courtship
+  - paired birds inspire lovers
+  - animal pair prompts human love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-from-dangerous-wild-to-pleasant-sacred-hermitage
+  motif_id: passage_from_dangerous_wild_to_pleasant_sacred_hermitage
+  label: Passage from dangerous wild to pleasant sacred hermitage
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A movement through a dangerous wild into a charged hermitage fits journey
+    passage into a transformative sacred setting.
+  cautions: If the hermitage is primarily a revelation or ascetic-initiation site,
+    initiation or mystical_quest may be better; label may be a scene-specific travel
+    transition.
+  suggested_aliases:
+  - journey from wilderness to sacred hermitage
+  - wild-to-hermitage passage
+  - arrival at sacred hermitage after danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-from-dark-liminal-region-to-light
+  motif_id: passage_from_dark_liminal_region_to_light
+  label: Passage from dark liminal region to light
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Movement through a dark liminal region toward light fits descent/return
+    or threshold passage imagery in the underworld-journey complex.
+  cautions: Do not equate with resurrection unless death or restoration is explicit;
+    if the passage is mystical illumination rather than underworld movement, sacred_knowledge
+    or mystical_quest may fit.
+  suggested_aliases:
+  - dark-to-light liminal passage
+  - passage from darkness to light
+  - emergence from liminal darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-through-three-guarded-wards
+  motif_id: passage_through_three_guarded_wards
+  label: Passage through three guarded wards
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif emphasizes passage through guarded thresholds, matching the
+    threshold_guardian group.
+  cautions: If the wards are stages in a postmortem route, afterlife_passage may be
+    a secondary mapping; the number three should remain evidence detail unless recurrent.
+  suggested_aliases:
+  - three guarded thresholds
+  - passage through guarded wards
+  - triple guarded passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-offer-before-kinship-threatening-combat
+  motif_id: peace_offer_before_kinship_threatening_combat
+  label: Peace offer before kinship-threatening combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peace offer framed by impending kinship-threatening combat belongs
+    with ritualized or socially charged combat patterns.
+  cautions: If the focus is reconciliation, supplication, or mercy rather than combat,
+    covenant may be a better parent; kinship detail may be episode-specific.
+  suggested_aliases:
+  - peace offer before kin combat
+  - truce offer before familial combat
+  - attempted peace before kin-slaying battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceable-animal-kingdom-under-child-leadership
+  motif_id: peaceable_animal_kingdom_under_child_leadership
+  label: Peaceable animal kingdom under child leadership
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A child leading a peaceable animal order points to an extraordinary child
+    whose rule signals sacred or transformed order.
+  cautions: Could also relate to golden-age/world-renewal imagery, royal_legitimacy,
+    or eschatological peace; review source context before final placement.
+  suggested_aliases:
+  - child leads peaceable animals
+  - peaceable kingdom under child ruler
+  - sacred child and animal peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-passage-and-provision-exchange-before-conflict
+  motif_id: peaceful_passage_and_provision_exchange_before_conflict
+  label: Peaceful passage and provision exchange before conflict
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Provision exchange and negotiated passage foreground reciprocal obligation
+    before conflict, fitting sacred_exchange.
+  cautions: If the passage is mainly treaty, covenantal law, or military diplomacy,
+    covenant or sacred_combat may be better; verify whether exchange has sacred or
+    ethical force.
+  suggested_aliases:
+  - provision exchange before conflict
+  - peaceful passage before battle
+  - reciprocal provisions during journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; most labels have a single occurrence and should
+  preserve granular evidence details rather than become canonical taxonomy motifs.
+- Journey-bucket labels often encode scene transitions; final mapping should verify
+  whether the narrative function is travel, initiation, otherworld passage, courtship,
+  or conflict negotiation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Existing groups cover all items except the splendour/spectatorship label,
+    which needs source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0210
+  input_sha256: 027ed51883dffce2b0037b5df8f934af37eb17df5ca88c7606959cc8947ab602
+

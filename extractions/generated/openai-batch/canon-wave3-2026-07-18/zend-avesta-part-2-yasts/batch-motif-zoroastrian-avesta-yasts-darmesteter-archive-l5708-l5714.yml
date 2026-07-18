@@ -1,0 +1,208 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l5708-l5714
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: MAH    YA5T.  9 1 / TIR    VAST.  93 / TIR    YAST.  95 / TIR   YAST.  99;
+    lines 5708-5714
+  start: '5708'
+  end: '5714'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“The Ausindom mountain ... is in the midst of the wide-formed ocean (the
+    sea Vouru-Kasha)”"
+  summary: The passage describes Ausindom as a ruby, sky-substance mountain in the
+    Vouru-Kasha ocean. It receives waters by a golden channel from the height Hukairya;
+    from there waters divide, with one portion purifying the sea and another moistening
+    the earth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ausindom is described as a mountain made of ruby and of the substance of the
+    sky.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ausindom is located in the midst of the wide-formed ocean, identified as the
+    sea Vouru-Kasha.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ausindom receives waters through a golden channel from the height Hukairya.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One portion of the water flows to the ocean for the purification of the sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Another portion drizzles moisture upon the whole earth; the passage is truncated
+    after mention of creations.
+  category: action
+  evidence_refs:
+  - ev:3
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Ausindom mountain
+  literal_form: ruby mountain of sky-substance in the wide-formed ocean
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Vouru-Kasha ocean
+  literal_form: wide-formed ocean, the sea Vouru-Kasha
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: waters and moisture
+  literal_form: waters received by Ausindom, divided into portions that purify the
+    sea and moisten the earth
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: golden channel
+  literal_form: golden channel through which waters reach Ausindom
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: height Hukairya
+  literal_form: height Hukairya, named as the source from which waters come through
+    the golden channel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ausindom in the wide ocean
+  summary: Ausindom is presented as a ruby, sky-substance mountain situated in the
+    midst of the sea Vouru-Kasha.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Waters channeled and divided
+  summary: Waters come from Hukairya to Ausindom by a golden channel, then divide
+    so that one portion purifies the sea and another moistens the whole earth.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Cosmic mountain in the world ocean
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Ausindom is a mountain of sky-substance, placed in the midst of the wide-formed
+    ocean Vouru-Kasha.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a brief cosmographic note rather than a complete narrative
+    episode.
+- id: motif:2
+  label: Central distribution of purifying waters
+  taxonomy_refs:
+  - world_center
+  basis: The mountain is placed in the midst of the ocean, receives waters from a
+    height, and is associated with waters that purify the sea and moisten the whole
+    earth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The text does not explicitly call Ausindom a world center or axis; the
+    candidate rests on its central placement and world-wide water distribution. The
+    final line is truncated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links this Ausindom description to Bund. XII, 6 and
+    refers to Yt. V, 3 for the Hukairya water connection, supporting a cautious same-corpus
+    comparison of the Ausindom/Hukairya water motif.
+  claim_level: same_motif
+  target: Bund. XII, 6 and Yt. V, 3 as cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the citations and a short quoted description are present in the
+    supplied passage; the compared passages themselves are not supplied here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5708-5711
+  quote_or_summary: "“The Ausindom mountain ... being of ruby, of the substance of
+    the sky, is in the midst of the wide-formed ocean (the sea Vouru-Kasha)”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 5711-5713
+  quote_or_summary: The passage says Ausindom receives its waters through a golden
+    channel from the height Hukairya.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 5713-5714
+  quote_or_summary: "“one portion flows forth to the ocean for the purification of
+    the sea, and one portion drizzles in moisture upon the whole of this earth”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: citation
+  locator: 5710-5712
+  quote_or_summary: The passage cites “Bund. XII, 6; tr. West” and “cf Yt. V, 3.”
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; citation evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by OCR-like irregularities and truncation at the end
+    of the supplied passage. Motif labels are candidates based only on the passage
+    wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No human or divine actors are named in the supplied passage; figures and roles are therefore left empty.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l5708-l5714
+  passage_sha256=3f6ff137bb8e37eeb62bdff044b9aa748d76bcf8b2b75da0515559266e73d2be
+

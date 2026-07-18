@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1100
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lamed-smith-and-revenge-cycle
+  motif_id: lamed_smith_and_revenge_cycle
+  label: Lamed smith and revenge cycle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a specific smith figure and revenge narrative,
+    but its function is unclear from the label alone.
+  cautions: Could fit sacred_combat, divine_warrior, sacred_craft, conditional vulnerability,
+    or be episode-specific; needs source context.
+  suggested_aliases:
+  - lame smith revenge
+  - smith revenge cycle
+  - disabled smith vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-a-slain-friend-after-single-combat
+  motif_id: lament_for_a_slain_friend_after_single_combat
+  label: lament for a slain friend after single combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The core motif is mourning a fallen companion after heroic combat, matching
+    existing lament and fallen-hero mourning patterns.
+  cautions: Secondary relation to sacred_combat may be useful if the duel structure
+    is central.
+  suggested_aliases:
+  - lament for slain friend
+  - mourning slain companion after duel
+  - lament after single combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-lost-heroic-pursuits
+  motif_id: lament_for_lost_heroic_pursuits
+  label: Lament for lost heroic pursuits
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on nostalgic grief over the loss of heroic action or
+    a warrior way of life.
+  cautions: May be a literary elegiac theme rather than a discrete narrative motif;
+    preserve specificity as evidence detail.
+  suggested_aliases:
+  - lament for lost heroism
+  - nostalgic lament for heroic pursuits
+  - mourning lost warrior life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-the-vanished-heroic-age
+  motif_id: lament_for_the_vanished_heroic_age
+  label: Lament for the vanished heroic age
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif expresses grief and tragic recognition for a lost heroic past.
+  cautions: Could also relate to world_ages_cosmic_decline if the passage frames heroic
+    decline as a cosmic age schema; otherwise keep under lament.
+  suggested_aliases:
+  - lament for heroic age
+  - vanished heroic age lament
+  - mourning the heroic past
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-the-vanished-heroic-band
+  motif_id: lament_for_the_vanished_heroic_band
+  label: lament for the vanished heroic band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: Mourning the loss of a heroic group fits collective lament for fallen
+    or absent champions.
+  cautions: If tied to social dissolution or return from exile, hero_journey may be
+    a secondary relation, not the primary placement.
+  suggested_aliases:
+  - lament for vanished band
+  - mourning the heroic band
+  - collective lament for lost warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.land-or-battle-space-associated-with-demons
+  motif_id: land_or_battle_space_associated_with_demons
+  label: land or battle space associated with demons
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A battle space marked by demons frames conflict as spiritually charged
+    or cosmic combat.
+  cautions: Could instead fit otherworld or threshold_guardian if the land is a liminal
+    demon realm rather than a battle setting.
+  suggested_aliases:
+  - demonic battle space
+  - demon-haunted battlefield
+  - battlefield associated with demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-transformed-after-violence
+  motif_id: landscape_transformed_after_violence
+  label: landscape transformed after violence
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The current group already includes etiological landscape formation and
+    place origins from violent events.
+  cautions: Culturally sensitive landscape traditions require source review; if the
+    change is bodily postmortem transformation, death_and_transformation may be secondary.
+  suggested_aliases:
+  - landscape formation after violence
+  - violent event transforms landscape
+  - etiological landscape transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-used-as-weapon
+  motif_id: landscape_used_as_weapon
+  label: landscape used as weapon
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using land or terrain itself as a weapon is a combat function within
+    heroic or sacred warfare.
+  cautions: If the landscape is animated by divine agency, divine_intervention or
+    sacred_craft may be relevant; label is too broad for finer placement.
+  suggested_aliases:
+  - terrain used as weapon
+  - weaponized landscape
+  - landscape weapon in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lapith-centaur-battle
+  motif_id: lapith_centaur_battle
+  label: Lapith-Centaur battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a named mythic battle episode and fits the broader sacred or
+    heroic combat group.
+  cautions: Likely too tradition- and episode-specific for a canonical motif; preserve
+    as evidence under sacred_combat rather than promoting.
+  suggested_aliases:
+  - Centauromachy
+  - Lapiths and Centaurs battle
+  - battle of Lapiths and Centaurs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-blow-after-mortal-wounding
+  motif_id: last_blow_after_mortal_wounding
+  label: Last blow after mortal wounding
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dying warrior delivering a final strike belongs with heroic combat,
+    wounds, and martial proof patterns.
+  cautions: Could fit sacred_combat if the duel or battle scene is primary; avoid
+    reading resurrection or return into the motif.
+  suggested_aliases:
+  - dying warrior's final blow
+  - final strike after mortal wound
+  - last blow by mortally wounded hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and battle-contextual; most should remain granular
+  evidence under existing combat or lament groups rather than becoming canonical motifs.
+- Lament labels overlap strongly and may be candidates for alias consolidation under
+  lament_and_mourning after human review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1100
+  input_sha256: 97c897a37908e512b88ec25d2efbfbfffb270a284c385323a9257019f49b8e54
+

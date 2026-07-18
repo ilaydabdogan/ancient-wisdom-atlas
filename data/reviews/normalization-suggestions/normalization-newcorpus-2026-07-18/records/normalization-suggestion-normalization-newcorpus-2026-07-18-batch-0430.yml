@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0430
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-decree-fixed-in-a-holy-place
+  motif_id: sacred_decree_fixed_in_a_holy_place
+  label: Sacred decree fixed in a holy place
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred decree fixed in a holy place functions as a binding sacred order
+    or authoritative divine-human norm.
+  cautions: If the passage emphasizes the holy place as cosmic center more than the
+    decree, axis_mundi or world_center may be a secondary fit.
+  suggested_aliases:
+  - sacred decree
+  - divine decree in sanctuary
+  - fixed sacred law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-directional-orientation-in-prayer
+  motif_id: sacred_directional_orientation_in_prayer
+  label: sacred directional orientation in prayer
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer orientation is a ritual prescription organizing bodily practice
+    and sacred order.
+  cautions: Could also relate to axis_mundi or sacred geography if the direction points
+    to a cosmic center or pilgrimage focus.
+  suggested_aliases:
+  - qibla orientation
+  - ritual prayer direction
+  - sacred orientation in prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-ecclesial-unity-and-hierarchy
+  motif_id: sacred_ecclesial_unity_and_hierarchy
+  label: Sacred ecclesial unity and hierarchy
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to sacred communal order, but it may be doctrinal or
+    ecclesiological commentary rather than a narrative motif.
+  cautions: Review source evidence; if it is only institutional theology or passage
+    summary, exclude or keep as provenance rather than motif indexing.
+  suggested_aliases:
+  - sacred church unity
+  - ecclesial hierarchy
+  - sacred communal hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-enclosure-marked-as-forbidden-ground
+  motif_id: sacred_enclosure_marked_as_forbidden_ground
+  label: Sacred enclosure marked as forbidden ground
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A forbidden sacred enclosure is primarily a taboo or ritual boundary
+    regulating access to sacred space.
+  cautions: If a guardian or threshold ordeal is present, threshold_guardian may be
+    related; if the enclosure is a cosmic center, axis_mundi may be secondary.
+  suggested_aliases:
+  - forbidden sacred ground
+  - taboo sacred enclosure
+  - ritual boundary around holy place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-as-sub-totem
+  motif_id: sacred_fire_as_sub_totem
+  label: Sacred fire as sub-totem
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: uncertain
+  confidence: low
+  rationale: The fire element fits sacred_fire, but the totemic classification may
+    be culturally specific and not captured by the current group.
+  cautions: Needs culturally sensitive review; avoid flattening to generic fire if
+    the source concerns totemic identity, clan relation, or ethnographic taxonomy.
+  suggested_aliases:
+  - totemic sacred fire
+  - fire sub-totem
+  - fire as totemic emblem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-revived-in-flowers
+  motif_id: sacred_fire_revived_in_flowers
+  label: sacred fire revived in flowers
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on sacred fire persisting or reviving through floral/natural
+    form, a symbolic variant of sacred fire.
+  cautions: If revival after extinction is central, death_and_transformation may be
+    a secondary mapping; preserve flower specificity as evidence detail.
+  suggested_aliases:
+  - fire revived in flowers
+  - sacred fire in flowers
+  - floral revival of sacred fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-transferred-to-domestic-hearths
+  motif_id: sacred_fire_transferred_to_domestic_hearths
+  label: sacred fire transferred to domestic hearths
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label describes sacred fire distributed into hearths, a ritual/domestic
+    extension of sacred fire as divine presence or mediating force.
+  cautions: Could also involve sacred_time if tied to calendrical fire renewal, or
+    sacred_exchange if framed as communal distribution of sacred power.
+  suggested_aliases:
+  - hearth fire from sacred source
+  - transfer of sacred fire
+  - domestic hearths kindled from sacred fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-food-and-drink-as-christ-s-flesh-and-blood
+  motif_id: sacred_food_and_drink_as_christ_s_flesh_and_blood
+  label: sacred food and drink as Christ’s flesh and blood
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: high
+  rationale: Sacred food and drink identified with divine flesh and blood fits sacred
+    substance used in ritual transformation and communion.
+  cautions: Also strongly overlaps sacrifice and sacred_exchange; preserve the Christological
+    and Eucharistic specificity in evidence notes.
+  suggested_aliases:
+  - eucharistic food and drink
+  - divine flesh and blood as sacred food
+  - sacramental food and drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-food-boundary
+  motif_id: sacred_food_boundary
+  label: Sacred food boundary
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred food boundary indicates ritual or legal regulation of permitted
+    and forbidden consumption.
+  cautions: Label is broad; if the passage emphasizes sacred substance itself rather
+    than prohibition, sacred_substance may be a better secondary group.
+  suggested_aliases:
+  - food purity boundary
+  - dietary sacred boundary
+  - ritual food boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-food-prohibitions-and-purity-boundaries
+  motif_id: sacred_food_prohibitions_and_purity_boundaries
+  label: Sacred food prohibitions and purity boundaries
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Food prohibitions and purity boundaries clearly fit sacred law, dietary
+    regulation, and ritual purity practice.
+  cautions: May duplicate sacred_food_boundary; consider aliasing or merging at normalization
+    review if source evidence does not distinguish them.
+  suggested_aliases:
+  - dietary purity prohibitions
+  - sacred dietary law
+  - food prohibitions and purity boundaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence ritual or purity labels; preserve
+  passage specificity but avoid promoting new canonical motif families without recurrence.
+- Several food/fire labels may need secondary mappings depending on whether the passage
+  emphasizes law, sacramental substance, sacrifice, calendrical renewal, or divine
+  presence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assisted-normalization
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    totemic and ecclesial labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0430
+  input_sha256: c6e4cd8cae5f4769faa3ca08ac3653205000cd2beabdc50f6e8e15fd6cabce0c
+

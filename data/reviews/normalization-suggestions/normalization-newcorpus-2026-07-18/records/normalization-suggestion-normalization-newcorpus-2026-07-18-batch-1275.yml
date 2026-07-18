@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1275
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.withholding-champion-endangers-the-army
+  motif_id: withholding_champion_endangers_the_army
+  label: Withholding champion endangers the army
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion's refusal or withdrawal creates a military crisis, fitting
+    heroic warfare and combat-order patterns.
+  cautions: May be episode-specific psychology or honor conflict; verify whether the
+    passage foregrounds battle structure rather than private anger.
+  suggested_aliases:
+  - champion_withdrawal_endangers_army
+  - withdrawn_champion_military_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongful-execution-averted-by-self-incrimination
+  motif_id: wrongful_execution_averted_by_self_incrimination
+  label: wrongful execution averted by self-incrimination
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves justice, guilt, confession, and averting wrongful
+    punishment, which may fit moral reckoning.
+  cautions: Could be a legal plot device, martyrdom/self-sacrifice, confession motif,
+    or passage-specific narrative twist; source context is needed.
+  suggested_aliases:
+  - confession_averts_wrongful_execution
+  - self_incrimination_prevents_wrongful_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youngest-sister-singled-out-in-encounter-with-stranger
+  motif_id: youngest_sister_singled_out_in_encounter_with_stranger
+  label: youngest sister singled out in encounter with stranger
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: An encounter with a stranger may function as a test, selection, or threshold
+    episode.
+  cautions: The youngest-sibling selection may instead belong to folktale family-role
+    patterns not yet represented; one occurrence is too contextual for confident mapping.
+  suggested_aliases:
+  - youngest_sibling_selected_by_stranger
+  - youngest_sister_stranger_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-companions-with-specialized-powers
+  motif_id: extraordinary_companions_with_specialized_powers
+  label: extraordinary companions with specialized powers
+  occurrences: 2
+  traditions:
+  - germanic
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Extraordinary Companions and Specialized Helpers
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a recurrent folktale structure where helper companions with distinct
+    powers enable quest success, not well covered by current groups.
+  cautions: May overlap with animal_helpers or divine_intervention when helpers are
+    supernatural agents; review whether companions are human, animal, divine, or comic
+    exaggerations.
+  suggested_aliases:
+  - marvelous_companions
+  - extraordinary_helpers
+  - companions_with_special_powers
+  - specialized_helper_companions
+  suggested_new_group:
+    id: extraordinary_companions_helpers
+    label: Extraordinary Companions and Specialized Helpers
+    description: A hero or protagonist is aided by companions, helpers, or retainers
+      each possessing a specialized extraordinary skill, sense, strength, speed, appetite,
+      perception, or magical ability that solves stages of a quest or contest.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - divine_intervention
+    - animal_helpers
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover divine/animal help
+      and broad hero journey, but not the distinctive team-of-specialized-helpers
+      structure recurring across folktales.
+- suggestion_id: normalization.suggestion.mercy-after-repentance
+  motif_id: mercy_after_repentance
+  label: Mercy after repentance
+  occurrences: 2
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing covenant group already includes mercy and forgiveness variants;
+    repentance followed by mercy repairs a sacred moral bond.
+  cautions: If the passage emphasizes divine judgment, afterlife reckoning, or legal
+    pardon more than restored relationship, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - repentance_and_mercy
+  - forgiveness_after_repentance
+  - mercy_following_repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-diplomatic-gift-exchange
+  motif_id: royal_diplomatic_gift_exchange
+  label: Royal diplomatic gift exchange
+  occurrences: 2
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on reciprocal gift exchange, here in a royal or diplomatic
+    setting.
+  cautions: If the gifts primarily legitimate kingship or encode political alliance,
+    royal_legitimacy or covenant may also be relevant; not every diplomatic exchange
+    is sacred.
+  suggested_aliases:
+  - diplomatic_gift_exchange
+  - royal_exchange_of_gifts
+  - kingly_gift_reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-newborn-rescued-and-commanded-to-live
+  motif_id: abandoned_newborn_rescued_and_commanded_to_live
+  label: Abandoned newborn rescued and commanded to live
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: high
+  rationale: An abandoned newborn preserved by rescue and life-command fits threatened
+    or protected infancy with sacred destiny.
+  cautions: If the command to live is primarily covenantal or prophetic speech, secondary
+    indexing to curse_blessing_speech or divine_intervention may be useful.
+  suggested_aliases:
+  - abandoned_infant_rescued
+  - rescued_newborn_commanded_to_live
+  - threatened_newborn_preserved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-or-ancient-settlement-remains-within-inhabited-landscape
+  motif_id: abandoned_or_ancient_settlement_remains_within_inhabited_landscape
+  label: abandoned or ancient settlement remains within inhabited landscape
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a landscape or archaeological-context observation
+    rather than a narrative or symbolic motif.
+  cautions: If a source story explains the ruins through mythic origin, haunting,
+    or sacred geography, remap to cosmic_origin, restless_dead_haunting_vengeance,
+    or axis_mundi as appropriate.
+  suggested_aliases:
+  - ancient_settlement_remains
+  - abandoned_settlement_in_living_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-of-an-infirm-elder
+  motif_id: abandonment_of_an_infirm_elder
+  label: abandonment of an infirm elder
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Elder abandonment may encode social obligation, kinship ethics, or violation
+    of communal duty.
+  cautions: Could be ethnographic detail, survival-crisis episode, elder-exposure
+    motif, or moral exemplum; culturally sensitive context is needed before indexing.
+  suggested_aliases:
+  - elder_abandonment
+  - abandoned_infirm_elder
+  - neglect_of_elder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-on-a-barren-height-followed-by-rescue
+  motif_id: abandonment_on_a_barren_height_followed_by_rescue
+  label: Abandonment on a barren height followed by rescue
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abandonment in a hostile elevated place followed by rescue functions
+    as an ordeal within a journey or trial sequence.
+  cautions: If the abandoned figure is an infant or destined child, miraculous_child
+    may be better; if the height is sacred or revelatory, axis_mundi/ascent may be
+    relevant.
+  suggested_aliases:
+  - abandonment_and_rescue_on_height
+  - exposure_on_barren_height
+  - rescued_after_abandonment_on_height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no taxonomy edits are implied.
+- Several one-occurrence labels appear episode-specific and should be checked against
+  passage evidence before durable indexing.
+- The extraordinary-companions item may justify a new folktale-helper group if additional
+  unmapped labels cluster around specialized quest companions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated from supplied taxonomy and current
+    canonical motif groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1275
+  input_sha256: eab1929ff080b607e96daf435fa86ba55a320f48045d7d5ac26f13f938ff3bb6
+

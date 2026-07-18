@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l21332-l21380
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    XV,   16-25.  377 / CHAPTER    XV,    26-XVI,    2.  379 / Chapter  XV
+    I. / CHAPTER    XVI,  3-6.  381; lines 21332-21380
+  start: '21332'
+  end: '21380'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: '"the merit ... performed with holy-water is said to be a hundred to one"'
+  summary: The passage enumerates the merits assigned to several Zoroastrian ritual
+    acts and services. Consecrating a sacred cake is valued at one Tanapuhar; other
+    forms of worship or services are valued at larger quantities. Use of holy-water
+    is said to multiply the merit. Notes explain that some ritual apparatus, such
+    as sacred twigs, can increase merit, and that a Tanapuhar good work can counterbalance
+    a Tanapuhar sin.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage concerns worship of the sacred beings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Consecrating a sacred cake is described as a good work worth one Tanapuhar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A form of worship is valued at one hundred Tanapuhars; a Visparad at one thousand;
+    a Do-homast at ten thousand; and a Dvazdah-homast at one hundred thousand.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The merit of rites performed with holy-water is said to become a hundred to
+    one.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Hadokht is valued at two thousand Tanapuhars, and with holy-water it becomes
+    a hundred to one.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note explains Tanapuhar merit as sufficient to counterbalance a Tanapuhar
+    sin.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Notes mention sacred twigs and other ceremonial apparatus as accessories that
+    can increase the merit of recitations or services.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note describes a Yast as a formula of praise in honor of a particular angel.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: sacred beings
+  description: The beings named as recipients of worship in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: particular angel
+  description: A note describes a Yast as praise in honor of some particular angel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of worship or praise
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The main passage names worship of the sacred beings, and a note defines a
+    Yast as praise in honor of a particular angel.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: holy-water
+  literal_form: holy-water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacred cake
+  literal_form: sacred cake (dron)
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sacred twigs
+  literal_form: sacred twigs and other ceremonial apparatus
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: enumeration of ritual merit
+  summary: The passage lists ritual acts and services and assigns each a quantified
+    Tanapuhar value, then states that performance with holy-water multiplies merit.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: ritual apparatus explained in notes
+  summary: The notes explain that ritual recitations or services may gain greater
+    merit when performed with sacred twigs, holy-water, and other ceremonial apparatus.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: quantified ritual merit counterbalancing sin
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage assigns numerical merit values to ritual acts, and a note states
+    that a Tanapuhar good work is sufficient to counterbalance a Tanapuhar sin.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The term sacred exchange is a modern motif-family label; the passage itself
+    describes merit and counterbalancing sin rather than using an exchange metaphor.
+- id: motif:2
+  label: holy-water amplifying ritual efficacy
+  taxonomy_refs: []
+  basis: The passage states that rites performed with holy-water have merit reckoned
+    at a hundred to one, including the Hadokht.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level ritual pattern rather than a narrative mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The note links this passage's quantified ritual merit pattern to similar
+    merit lists in the Persian Rivayats, where prayers and ceremonies are also assigned
+    Tanapuhar values and increased value when performed with sacred twigs and holy-water.
+  claim_level: same_function
+  target: Persian Rivayats ritual merit lists
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a brief note about the Persian Rivayats;
+    it does not present the full parallel context or establish historical development.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21332-21340
+  quote_or_summary: 'The passage introduces worship of the sacred beings and lists
+    ritual merits: sacred cake consecration as one Tanapuhar, worship as one hundred,
+    Visparad as one thousand, Do-homast as ten thousand, and Dvazdah-homast as one
+    hundred thousand.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 21340-21344
+  quote_or_summary: '"the merit ... performed with holy-water is said to be a hundred
+    to one"; the Hadokht is two thousand Tanapuhars and with holy-water becomes a
+    hundred to one.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: note 2 within supplied passage
+  quote_or_summary: A note explains that the stated Tanapuhar merit is sufficient
+    to counterbalance a Tanapuhar sin.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: notes 1, 3, and 4 within supplied passage
+  quote_or_summary: Notes explain that sacred twigs and other ceremonial apparatus
+    can increase the merit of recited rites; a Yast is a formula of praise honoring
+    a particular angel; the Visparad service includes the Yasna and may be performed
+    with sacred twigs, holy-water, and other apparatus.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: note 7 within supplied passage
+  quote_or_summary: A note says the Persian Rivayats detail merits of other prayers
+    and ceremonies, including Vendidad, Nyayish, and inward retention of prayer, with
+    increased merit when sacred twigs and holy-water are used.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal ritual-merit data are explicit. Motif assignment is more tentative
+    because the passage is prescriptive ritual material rather than a narrative myth.
+    The comparison claim is limited to an internal note about nearby Zoroastrian textual
+    traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata identifies the file as Bundahis-related, while the supplied passage heading reads Shayast la-Shayast; extraction uses the provided source path and passage text without resolving that discrepancy.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l21332-l21380
+  passage_sha256=374a1a3ff8abff57a390344043c870f7199827b919762edff4fd43e1f54695e9
+

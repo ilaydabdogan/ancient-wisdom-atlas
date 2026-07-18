@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0375
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.necessity-suspends-a-food-taboo
+  motif_id: necessity_suspends_a_food_taboo
+  label: Necessity suspends a food taboo
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A food taboo exception belongs with sacred law, ritual prohibition, and
+    dietary holiness rules already grouped under sacred_law.
+  cautions: Could also relate to divine_judgment or covenant if the passage emphasizes
+    obedience to revealed law rather than taboo practice.
+  suggested_aliases:
+  - dietary_holiness_with_necessity_exception
+  - necessity_exception_to_food_taboo
+  - food_taboo_suspended_by_necessity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.necessity-under-divine-decree
+  motif_id: necessity_under_divine_decree
+  label: Necessity under divine decree
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and could describe legal dispensation, providence,
+    compulsion, fate, or theological commentary.
+  cautions: Needs passage evidence; if tied to lawful exception, map to sacred_law,
+    but if it is theological doctrine rather than motif it may be excluded.
+  suggested_aliases:
+  - necessity_as_divinely_decreed
+  - divine_decree_and_necessity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neighbor-stranger-boundary-marked-by-ritual-obligation
+  motif_id: neighbor_stranger_boundary_marked_by_ritual_obligation
+  label: neighbor-stranger boundary marked by ritual obligation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on obligations governing the stranger or boundary between
+    social categories, matching hospitality and stranger-guest ritual duties.
+  cautions: If the passage is about kinship classification or local social law rather
+    than guest testing, sacred_law may be a better parent.
+  suggested_aliases:
+  - stranger_boundary_ritual_obligation
+  - neighbor_stranger_ritual_duty
+  - ritual_obligation_to_stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-vigil-before-or-alongside-sacred-recitation
+  motif_id: night_vigil_before_or_alongside_sacred_recitation
+  label: Night vigil before or alongside sacred recitation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred recitation as a powerful oral act fits the existing narrative/recitation-as-power
+    group, with vigil as ritual context.
+  cautions: If the focus is ascetic night practice rather than recitation, mystical_quest
+    or sacred_time may be better secondary mappings.
+  suggested_aliases:
+  - night_vigil_with_sacred_recitation
+  - ritual_vigil_and_recitation
+  - sacred_recitation_vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nightingale-song-as-divine-voice
+  motif_id: nightingale_song_as_divine_voice
+  label: Nightingale song as divine voice
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif treats song or bird-voice as a sacred sonic medium, fitting
+    supernatural or sacred sound power.
+  cautions: If the emphasis is mystical love poetry or divine address rather than
+    sonic compulsion, sacred_love or theophany may be relevant secondary groups.
+  suggested_aliases:
+  - birdsong_as_divine_voice
+  - nightingale_as_sacred_voice
+  - divine_voice_in_birdsong
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.no-escape-from-divine-power
+  motif_id: no_escape_from_divine_power
+  label: No escape from divine power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: broader_label
+  confidence: medium
+  rationale: Inescapable divine power usually functions as moral reckoning or sacred
+    authority that cannot be evaded.
+  cautions: The label may be doctrinal or rhetorical rather than narrative; if focused
+    on refuge and dependence, no_refuge_from_god_except_god may need separate mystical
+    review.
+  suggested_aliases:
+  - inescapable_divine_power
+  - no_escape_from_god
+  - unavoidable_divine_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.no-refuge-from-god-except-god
+  motif_id: no_refuge_from_god_except_god
+  label: No refuge from God except God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The phrase expresses dependence on the divine as both peril and refuge,
+    a common interior-devotional or mystical orientation.
+  cautions: If the passage emphasizes judgment rather than devotional surrender, divine_judgment
+    may be the better primary group.
+  suggested_aliases:
+  - refuge_in_god_from_god
+  - divine_as_only_refuge
+  - flight_to_the_divine_from_the_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-nymph-chorus-for-a-goddess
+  motif_id: nocturnal_nymph_chorus_for_a_goddess
+  label: nocturnal nymph chorus for a goddess
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A supernatural chorus or song for a deity fits the group for sacred or
+    enchanting music and sound power.
+  cautions: May be an over-specific scene detail; if the focus is divine retinue or
+    cult of the goddess rather than music, source review is needed.
+  suggested_aliases:
+  - nymph_chorus_for_goddess
+  - divine_chorus
+  - nocturnal_divine_chorus
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noisy-suppression-of-sacred-recitation
+  motif_id: noisy_suppression_of_sacred_recitation
+  label: noisy suppression of sacred recitation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif depends on sacred recitation as powerful speech and on attempts
+    to obstruct that speech act.
+  cautions: Could also fit conflict with revelation or sacred law if the passage emphasizes
+    opposition to divine message rather than sound/recitation.
+  suggested_aliases:
+  - suppression_of_sacred_recitation
+  - obstructed_sacred_recitation
+  - noise_against_revelatory_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-clinging-purity-image
+  motif_id: non_clinging_purity_image
+  label: non-clinging purity image
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Non-clinging purity is an inner discipline and liberation image, fitting
+    the contemplative transformation path.
+  cautions: Label is abstract; if it is only a simile or doctrinal gloss, preserve
+    as evidence detail rather than a motif.
+  suggested_aliases:
+  - purity_without_attachment
+  - non_attachment_as_purity
+  - non_clinging_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract; human review should
+  verify whether they are narrative motifs, ritual practices, doctrinal statements,
+  or passage-level commentary.
+- For Islamic recitation labels, avoid flattening sacred recitation into generic storytelling
+  if the passage specifically concerns revelation-as-recitation or Qur'anic audition;
+  current best-fit group is provisional.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; abstract theological labels need source-context
+    verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0375
+  input_sha256: fe20a380163c89a7a1dbd01e8248e538e1531b7c6e5bba240c4e868f1db78cd9
+

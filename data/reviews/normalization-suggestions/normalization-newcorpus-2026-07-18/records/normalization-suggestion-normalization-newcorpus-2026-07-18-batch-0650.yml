@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0650
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.speaking-bird-or-talking-animal
+  motif_id: speaking_bird_or_talking_animal
+  label: speaking bird or talking animal
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A talking animal may function as helper, warning, omen, trickster, or
+    fable device; the label alone does not specify function.
+  cautions: Do not map all animal speech to divine_intervention without evidence of
+    guidance or sacred agency.
+  suggested_aliases:
+  - talking_animal
+  - speaking_animal
+  - speaking_bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - trickster
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-birds-with-uncertain-number-of-voices
+  motif_id: speaking_birds_with_uncertain_number_of_voices
+  label: speaking birds with uncertain number of voices
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'uncertain number of voices' reads like a textual or interpretive
+    uncertainty rather than a stable motif.
+  cautions: If the source passage emphasizes prophetic or advisory speaking birds,
+    preserve that evidence under dream_and_vision, sacred_knowledge, or divine_intervention
+    instead.
+  suggested_aliases:
+  - speaking_birds
+  - talking_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-blood-decoys-delay-discovery
+  motif_id: speaking_blood_decoys_delay_discovery
+  label: Speaking blood decoys delay discovery
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines blood, decoy speech, and delayed discovery; function
+    could be deception, magic, soul-substance, or episode detail.
+  cautions: Likely over-specific; review whether this is a recurring magical deception
+    motif or only a passage artifact.
+  suggested_aliases:
+  - speaking_blood_decoy
+  - blood_decoy_delays_discovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_substance
+    - sacred_law
+    - external_soul
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-eagle-addressing-a-child
+  motif_id: speaking_eagle_addressing_a_child
+  label: Speaking eagle addressing a child
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A speaking eagle addressing a child likely functions as supernatural
+    guidance or animal-mediated intervention.
+  cautions: If the child’s destiny or protected infancy is central, miraculous_child
+    may be a secondary mapping.
+  suggested_aliases:
+  - speaking_eagle
+  - eagle_addresses_child
+  - animal_speech_to_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-eagle-as-animal-helper-and-adviser
+  motif_id: speaking_eagle_as_animal_helper_and_adviser
+  label: speaking eagle as animal helper and adviser
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly identifies the speaking eagle as animal helper and
+    adviser, matching the animal_helpers guidance pattern under divine_intervention.
+  cautions: Preserve eagle specificity as evidence detail; do not generalize to prophecy
+    unless future knowledge is central.
+  suggested_aliases:
+  - speaking_eagle_helper
+  - animal_helper_adviser
+  - eagle_adviser
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-fish-and-speaking-islands-respond-to-the-crisis
+  motif_id: speaking_fish_and_speaking_islands_respond_to_the_crisis
+  label: Speaking fish and speaking islands respond to the crisis
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Speaking fish and islands may signal animate landscape, divine intervention,
+    omen, or poetic episode; function is not clear from the label.
+  cautions: Composite and highly contextual; review source evidence before mapping
+    to animal helpers, sacred waters, or cosmic landscape motifs.
+  suggested_aliases:
+  - speaking_fish_and_islands
+  - animate_landscape_responds_to_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_waters
+    - cosmic_origin
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-fish-as-supernatural-warning-or-sign
+  motif_id: speaking_fish_as_supernatural_warning_or_sign
+  label: speaking fish as supernatural warning or sign
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A speaking fish functioning as a warning or sign belongs with revelatory
+    signs and altered perception/omen patterns.
+  cautions: If the fish actively guides or protects the hero, divine_intervention
+    may be an equally good secondary group.
+  suggested_aliases:
+  - speaking_fish_warning
+  - fish_as_supernatural_sign
+  - talking_fish_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - prophecy_divination
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-fish-refuse-to-be-eaten-and-vanish
+  motif_id: speaking_fish_refuse_to_be_eaten_and_vanish
+  label: speaking fish refuse to be eaten and vanish
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal speaking to avoid consumption and disappearing resembles animal
+    escape/deception motifs already grouped under trickster.
+  cautions: If the fish is sacred or taboo rather than deceptive, sacred_law or divine_intervention
+    may be better after review.
+  suggested_aliases:
+  - talking_fish_avoids_eating
+  - speaking_animal_avoids_death
+  - fish_refuses_consumption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-heroic-animal-companion
+  motif_id: speaking_heroic_animal_companion
+  label: speaking heroic animal companion
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A speaking heroic animal companion fits the animal_helpers guidance and
+    intervention pattern.
+  cautions: If the companion is mainly a hero-journey aid rather than sacred agent,
+    hero_journey may be a secondary query group.
+  suggested_aliases:
+  - speaking_animal_companion
+  - heroic_animal_helper
+  - talking_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-horse-helper-gives-warning
+  motif_id: speaking_horse_helper_gives_warning
+  label: speaking horse helper gives warning
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The horse is explicitly a helper giving warning, matching supernatural
+    animal guidance under divine_intervention.
+  cautions: If the warning is a formal omen or prophecy, dream_and_vision or prophecy_divination
+    may also be relevant.
+  suggested_aliases:
+  - speaking_horse_helper
+  - talking_horse_warning
+  - horse_helper_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - prophecy_divination
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurring 'speaking animal as helper, warning, or adviser'
+  pattern, but the current taxonomy already has animal_helpers under divine_intervention;
+  consider future review only if many non-divine talking-animal fable motifs accumulate.
+- 'Avoid treating all speaking animals as prophecy or divine intervention; map by
+  narrative function: helper, warning/sign, deception, taboo, or textual artifact.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context, especially
+    for generic or over-specific speaking-animal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0650
+  input_sha256: 7e480bc000067a035741f7aa1c7a30d01f050c6aa72c7958d924905cd1effff4
+

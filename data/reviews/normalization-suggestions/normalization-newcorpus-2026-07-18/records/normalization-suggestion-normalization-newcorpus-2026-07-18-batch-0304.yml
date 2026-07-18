@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0304
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-power-can-restrain-the-monster
+  motif_id: divine_power_can_restrain_the_monster
+  label: Divine power can restrain the monster
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine restraint of a monster fits sacred combat where divine force controls
+    chaos or demonic threat.
+  cautions: If the passage emphasizes apotropaic binding or exorcism ritual rather
+    than combat, sacrifice or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - divine_restraint_of_monster
+  - monster_restrained_by_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-power-localized-in-protective-objects
+  motif_id: divine_power_localized_in_protective_objects
+  label: Divine power localized in protective objects
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on objects that hold protective divine power, matching
+    sacred power objects and protective marks.
+  cautions: If the object is used mainly in ritual purity or apotropaic law, sacred_law
+    may also be relevant.
+  suggested_aliases:
+  - protective_objects_containing_divine_power
+  - divine_power_in_protective_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-power-over-devils
+  motif_id: divine_power_over_devils
+  label: divine power over devils
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The current sacrifice group already contains exorcism and spirit-expulsion
+    labels where sacred power over evil spirits is exercised ritually.
+  cautions: If the passage is a miracle of command or intervention rather than an
+    expulsion rite, divine_intervention may be a better placement.
+  suggested_aliases:
+  - divine_power_over_demons
+  - sacred_power_over_devils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-power-transferred-between-manifestations
+  motif_id: divine_power_transferred_between_manifestations
+  label: divine power transferred between manifestations
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe theological identity, ritual transfer, divine
+    manifestation, or editorial interpretation depending on the passage.
+  cautions: Avoid mapping without evidence for whether this is a narrative action,
+    cultic transfer, or doctrinal/commentary artifact.
+  suggested_aliases:
+  - transfer_of_divine_power_between_forms
+  - divine_power_between_manifestations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-powers-arranged-like-egyptian-divine-companies
+  motif_id: divine_powers_arranged_like_egyptian_divine_companies
+  label: Divine powers arranged like Egyptian divine companies
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording compares theological organization to Egyptian divine companies
+    and reads as a scholarly classification note rather than a motif.
+  cautions: Preserve as provenance or interpretive note if useful; do not use as evidence
+    of transmission in normalization.
+  suggested_aliases:
+  - arranged_like_egyptian_divine_companies
+  - divine_company_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-powers-intensify-human-battle
+  motif_id: divine_powers_intensify_human_battle
+  label: Divine powers intensify human battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine powers escalating or energizing battle fits sacred combat and
+    divine warrior intervention in warfare.
+  cautions: If the scene is mainly human warfare without cosmic or sacred stakes,
+    sacred_combat may be a secondary or alternative group.
+  suggested_aliases:
+  - divine_intensification_of_battle
+  - gods_intensify_human_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-powers-steer-mortal-combat
+  motif_id: divine_powers_steer_mortal_combat
+  label: Divine powers steer mortal combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Gods directing the course of mortal combat is direct divine intervention
+    in human affairs.
+  cautions: If the emphasis is cosmic warfare or divine battle roles, divine_warrior
+    may also be relevant.
+  suggested_aliases:
+  - divine_guidance_of_mortal_combat
+  - gods_steer_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-praise-through-song
+  motif_id: divine_praise_through_song
+  label: divine praise through song
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Song used in praise of the divine fits sacred sound as ritual or devotional
+    power better than general speech.
+  cautions: If the song transmits doctrine or sacred narrative, sacred_knowledge or
+    storytelling_as_power may be secondary; if merely hymnic context, it may be too
+    generic.
+  suggested_aliases:
+  - hymnic_divine_praise
+  - praise_song_to_the_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-precedent-for-heroic-vengeance
+  motif_id: divine_precedent_for_heroic_vengeance
+  label: divine precedent for heroic vengeance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an interpretive argument justifying vengeance by divine
+    example rather than a stable narrative motif.
+  cautions: Could map to divine_warrior, sacred_combat, divine_judgment, or exclude
+    as commentary depending on source evidence.
+  suggested_aliases:
+  - divine_model_for_heroic_vengeance
+  - heroic_vengeance_justified_by_divine_precedent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-predestination-recorded-in-a-heavenly-register
+  motif_id: divine_predestination_recorded_in_a_heavenly_register
+  label: divine predestination recorded in a heavenly register
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A heavenly register recording predestination fits cosmic ordering of
+    destiny, even without personified fate figures.
+  cautions: If the passage emphasizes divine decree as law or judgment rather than
+    destiny structure, divine_judgment or sacred_law may be alternative mappings.
+  suggested_aliases:
+  - heavenly_register_of_predestination
+  - divine_decree_recorded_in_heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use broad 'divine power' wording; final placement should check whether
+  the passage function is combat, intervention, exorcism, protection, or theological
+  commentary.
+- Do not infer transmission or borrowing from Egyptian-comparison language; treat
+  such wording as normalization/provenance only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions generated from labels and existing normalization
+    groups; single-occurrence items may need source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0304
+  input_sha256: ab381072c24b9dcd2f7e1bba8c1e2af529f3e60df06ad50da1c4ff23fb17d9d8
+

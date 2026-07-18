@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0215
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protected-water-crossing-by-a-royal-procession
+  motif_id: protected_water_crossing_by_a_royal_procession
+  label: Protected water crossing by a royal procession
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: Water crossing fits sacred_waters or passage_through_waters, but the
+    royal procession and protection may indicate kingship, ritual travel, or episode
+    detail.
+  cautions: Single occurrence; do not map to flood_and_renewal unless destructive
+    renewal is present. Royal function may require royal_legitimacy as secondary context.
+  suggested_aliases:
+  - protected water crossing
+  - royal water crossing
+  - ritual procession across water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-animals-and-talismanic-wands-for-a-dangerous-journey
+  motif_id: protective_animals_and_talismanic_wands_for_a_dangerous_journey
+  label: Protective animals and talismanic wands for a dangerous journey
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective animal helpers and talismanic aids during perilous travel
+    fit supernatural guidance and intervention for human affairs.
+  cautions: Could also involve sacred_treasures if the wands are the main focus, or
+    hero_journey if the travel ordeal is central. Preserve local Navajo context carefully.
+  suggested_aliases:
+  - protective animal helpers for journey
+  - talismanic journey aids
+  - supernatural protection for dangerous travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-bird-feathers-for-a-sea-journey
+  motif_id: protective_bird_feathers_for_a_sea_journey
+  label: Protective bird-feathers for a sea journey
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective feathers function as power objects or talismans enabling safe
+    travel.
+  cautions: If the feathers summon bird-guidance or transformation, divine_intervention
+    or shapeshifter may be secondary. If the sea crossing is the main ordeal, sacred_waters
+    may also apply.
+  suggested_aliases:
+  - protective feathers
+  - talismanic feathers for travel
+  - bird-feather travel charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-magic-for-travellers
+  motif_id: protective_magic_for_travellers
+  label: Protective magic for travellers
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective magic for travel fits sacred or supernatural guidance and
+    protection during human movement through danger.
+  cautions: Broad generated label; if the source is a spell, amulet, or recitation,
+    sacred_treasures, curse_blessing_speech, or sacred_knowledge may be better secondary
+    mappings.
+  suggested_aliases:
+  - traveller protection magic
+  - journey protection spell
+  - protective travel rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-night-vigil-over-sleeping-exile
+  motif_id: protective_night_vigil_over_sleeping_exile
+  label: protective night vigil over sleeping exile
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns protection during exile or journey, but may be an
+    episode-specific scene rather than a reusable motif.
+  cautions: Could fit hero_journey, divine_intervention, or loyalty/guardianship depending
+    on who keeps vigil and why. Single occurrence suggests preserving as evidence
+    detail unless parallels recur.
+  suggested_aliases:
+  - night vigil over exile
+  - guardian watches sleeping wanderer
+  - protective watch during exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-recitation-over-boats-before-a-perilous-journey
+  motif_id: protective_recitation_over_boats_before_a_perilous_journey
+  label: Protective recitation over boats before a perilous journey
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective recitation over boats is a performative speech act that
+    blesses or safeguards a dangerous journey.
+  cautions: If the recitation encodes navigational afterlife knowledge, afterlife_passage
+    or sacred_knowledge may be relevant. If boats are the focus, sacred_vessel may
+    be secondary.
+  suggested_aliases:
+  - protective boat recitation
+  - journey blessing over boats
+  - performative protection for boats
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-spider-woman-shelters-a-stranded-wanderer
+  motif_id: protective_spider_woman_shelters_a_stranded_wanderer
+  label: protective Spider Woman shelters a stranded wanderer
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A protective sacred or supernatural figure sheltering a wanderer fits
+    intervention and guidance, but the named Spider Woman role is culturally specific.
+  cautions: Review with Hopi source context; do not reduce Spider Woman to a generic
+    helper if her cosmological role is central. Could also involve otherworld shelter
+    or culture-hero traditions.
+  suggested_aliases:
+  - supernatural woman shelters wanderer
+  - protective spider-woman helper
+  - sacred shelter for stranded wanderer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-travel-equipment-against-environmental-danger
+  motif_id: protective_travel_equipment_against_environmental_danger
+  label: Protective travel equipment against environmental danger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: low
+  rationale: Protective equipment can function as power objects, but the label may
+    describe practical travel gear rather than a sacred motif.
+  cautions: Verify whether the equipment is magical, ritual, or merely practical environmental
+    adaptation. If practical only, exclude from motif queries or keep as ethnographic
+    detail.
+  suggested_aliases:
+  - protective journey equipment
+  - environmental travel protection
+  - travel gear against danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-travel-order-in-wilderness
+  motif_id: protective_travel_order_in_wilderness
+  label: protective travel order in wilderness
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A prescribed travel order in wilderness may be a journey-protection detail
+    within exile or quest narrative.
+  cautions: Could be tactical, ritual, or social-order detail rather than a mythic
+    motif. Map only if the ordered movement has symbolic or protective function in
+    the source.
+  suggested_aliases:
+  - ordered wilderness travel
+  - protective journey formation
+  - travel order through danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-vessel-loses-layers-while-crossing-dangerous-waters
+  motif_id: protective_vessel_loses_layers_while_crossing_dangerous_waters
+  label: Protective vessel loses layers while crossing dangerous waters
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: Dangerous water crossing fits sacred_waters, while the protective vessel
+    may fit sacred_vessel or ark_vessel depending on function.
+  cautions: Do not map to ark_vessel unless the vessel preserves life through catastrophe.
+    The loss of layers may be an episode-specific ordeal or material detail requiring
+    source review.
+  suggested_aliases:
+  - layered protective vessel crossing waters
+  - dangerous water crossing in protective vessel
+  - vessel damaged during perilous water passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters around protective travel, water crossing, and journey aids.
+  Existing groups can hold many items provisionally, but several are single-occurrence,
+  culturally specific, or practical-vs-sacred ambiguous.
+- Consider whether recurrent protective journey charms, animal helpers, and travel
+  blessings warrant a future subgroup under divine_intervention or hero_journey; current
+  evidence in this batch alone is insufficient.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed especially for culturally
+    specific Hopi, Navajo, Inuit, Egyptian, Hindu, Germanic, and Finnish-Karelian
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0215
+  input_sha256: 6c379f2f7df3103eff7fca3411586c645e0fcaa6032c930d18c5957432377f71
+

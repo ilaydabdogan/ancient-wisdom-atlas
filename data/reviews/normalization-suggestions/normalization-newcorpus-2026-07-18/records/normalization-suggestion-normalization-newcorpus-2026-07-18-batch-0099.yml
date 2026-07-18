@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0099
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mutual-death-of-hero-and-beast
+  motif_id: mutual_death_of_hero_and_beast
+  label: Mutual death of hero and beast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a combat-death pattern involving a hero and beast,
+    closer to heroic combat than afterlife or rebirth.
+  cautions: Single occurrence; if the beast is cosmological or demonic, divine_warrior
+    may be a secondary fit. Preserve the mutual-death detail as evidence.
+  suggested_aliases:
+  - hero_and_beast_die_together
+  - mutual_slaying_of_hero_and_beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-death-of-paired-champions
+  motif_id: mutual_death_of_paired_champions
+  label: Mutual death of paired champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Paired champions dying together is a heroic combat outcome, likely a
+    duel or battle-resolution variant.
+  cautions: Could also relate to duality or sacred_twins if the pair has symbolic
+    twin/opposition structure; label alone suggests combat rather than death transformation.
+  suggested_aliases:
+  - mutual_death_of_champions
+  - paired_champions_die_together
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myth-mistaken-for-ancestral-history
+  motif_id: myth_mistaken_for_ancestral_history
+  label: Myth mistaken for ancestral history
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive classification or historiographic confusion
+    rather than a narrative motif.
+  cautions: Preserve as commentary/provenance if useful; do not use as evidence for
+    ancestral-origin motifs without passage-level content.
+  suggested_aliases:
+  - myth_as_ancestral_history
+  - historiographic_misreading_of_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-beasts-served-to-the-blessed-in-the-afterlife
+  motif_id: mythic_beasts_served_to_the_blessed_in_the_afterlife
+  label: Mythic beasts served to the blessed in the afterlife
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns conditions and provisions in the afterlife for the
+    blessed, fitting afterlife landscape and postmortem state imagery.
+  cautions: If the passage emphasizes paradisal abundance rather than journey or passage,
+    a future blessed-afterlife/provision group could be considered; current label
+    is highly specific.
+  suggested_aliases:
+  - afterlife_feast_for_the_blessed
+  - paradisal_beasts_served_to_the_blessed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythical-ancestral-genealogy
+  motif_id: mythical_ancestral_genealogy
+  label: mythical ancestral genealogy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Existing cosmic_origin children include genealogical and eponymous origins
+    of peoples from named ancestors.
+  cautions: If the genealogy is used mainly to legitimate rule, royal_legitimacy may
+    be a better secondary mapping; if it is only a list of names, review for exclusion
+    as contextual detail.
+  suggested_aliases:
+  - ancestral_genealogy
+  - mythic_ancestral_lineage
+  - genealogical_origin_from_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythological-geography-of-ancestral-localities-and-mountains
+  motif_id: mythological_geography_of_ancestral_localities_and_mountains
+  label: mythological geography of ancestral localities and mountains
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes ancestral place geography and mountains, which could
+    fit sacred geography, cosmic mountain, axis_mundi, or origin-place etiology depending
+    on evidence.
+  cautions: May be a descriptive passage artifact rather than a motif. Map to axis_mundi
+    only if mountains function as sacred centers or realm connectors; map to cosmic_origin
+    only if place origins are explained.
+  suggested_aliases:
+  - ancestral_sacred_geography
+  - mythic_ancestral_places_and_mountains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-and-prayer-as-afterlife-sustenance
+  motif_id: name_and_prayer_as_afterlife_sustenance
+  label: name and prayer as afterlife sustenance
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Prayer and name-maintenance sustaining the dead fits ritual care and
+    feeding of the dead.
+  cautions: Could also relate to afterlife_passage if names/prayers enable postmortem
+    navigation rather than ongoing sustenance.
+  suggested_aliases:
+  - prayer_feeds_the_dead
+  - name_preservation_as_afterlife_sustenance
+  - ritual_sustenance_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-avoidance-to-prevent-spirit-abduction
+  motif_id: name_avoidance_to_prevent_spirit_abduction
+  label: Name avoidance to prevent spirit abduction
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding a name to prevent spirit harm is a taboo or protective ritual
+    prohibition, matching sacred_law's apotropaic and spirit-contagion scope.
+  cautions: Culturally sensitive mortuary/name taboo; source context should be reviewed.
+    If tied specifically to dead-soul management, ancestor_rites or restless_dead
+    may be secondary.
+  suggested_aliases:
+  - name_taboo_against_spirit_abduction
+  - name_avoidance_as_spirit_protection
+  - protective_name_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-death-episodes
+  motif_id: named_death_episodes
+  label: Named death episodes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label refers to naming or cataloging death episodes rather than a
+    distinct narrative motif.
+  cautions: If individual death episodes contain recurring combat, fate, lament, or
+    funeral patterns, map those separately from passage evidence.
+  suggested_aliases:
+  - catalogued_death_episodes
+  - named_death_tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-house-spirit-and-demon-figures
+  motif_id: named_house_spirit_and_demon_figures
+  label: Named house-spirit and demon figures
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies named spirit/demon figures but does not state a
+    recurring function such as protection, haunting, affliction, or expulsion.
+  cautions: May be personage/entity indexing rather than motif. If protective household
+    spirits are active, divine_intervention may fit; if harmful spirits are expelled,
+    sacrifice/ritual_expulsion or sacred_law may fit.
+  suggested_aliases:
+  - house_spirits_and_demons
+  - named_domestic_spirits
+  - household_spirit_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and over-specific; preserve local evidence
+  detail while mapping only clear narrative or ritual functions.
+- Avoid treating ancestry-related labels as afterlife motifs unless the source evidence
+  concerns dead ancestors as active ritual or postmortem agents.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional suggestions generated from labels and current normalization groups
+    only; passage evidence required for final placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0099
+  input_sha256: 0eb6cdb00964fe3412f68c87f858008248e0e7b11e9964a781c0609c2e809e58
+

@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0148
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.variant-death-of-sedna-under-dogskin-and-flood-water
+  motif_id: variant_death_of_sedna_under_dogskin_and_flood_water
+  label: Variant death of Sedna under dogskin and flood water
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a named-figure variant combining death, covering, and flood-water
+    details; placement depends on source function.
+  cautions: May be an episode-specific Sedna variant or comparative variant note rather
+    than a reusable motif; do not map to flood_and_renewal unless world-renewing catastrophe
+    is present.
+  suggested_aliases:
+  - sedna_death_variant
+  - death_under_covering_and_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_waters
+    - flood_and_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-heroic-death-locations
+  motif_id: variant_heroic_death_locations
+  label: variant heroic death locations
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes variant locations for a heroic death, likely a
+    textual or comparative variant marker.
+  cautions: If a source passage emphasizes a ritually significant death-place, remap
+    the evidence to heroic_funeral_rites, sacred_combat, or death_by_fate as appropriate.
+  suggested_aliases:
+  - heroic_death_location_variant
+  - variant_death_location
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vast-afterlife-hall-with-heroic-provisioning
+  motif_id: vast_afterlife_hall_with_heroic_provisioning
+  label: Vast afterlife hall with heroic provisioning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: An afterlife hall with provisions describes a postmortem destination
+    and its conditions for the dead.
+  cautions: If the focus is warrior honor or feasting rather than the soul's route
+    or afterlife geography, heroic_funeral_rites or sacred_exchange may be relevant
+    secondary context.
+  suggested_aliases:
+  - afterlife_hall_provisioning
+  - heroic_afterlife_hall
+  - provisioned_afterlife_hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-against-the-dead-through-the-body
+  motif_id: vengeance_against_the_dead_through_the_body
+  label: vengeance against the dead through the body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve corpse mutilation, denied burial, postmortem
+    dishonor, or magical harm to the dead.
+  cautions: Needs source evidence; if the emphasis is dishonored corpse or burial
+    denial, heroic_funeral_rites may fit, while active dead vengeance would point
+    to restless_dead_haunting_vengeance.
+  suggested_aliases:
+  - postmortem_vengeance_through_corpse
+  - corpse_dishonor_as_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - restless_dead_haunting_vengeance
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-bounty-becomes-a-death-payment
+  motif_id: vengeance_bounty_becomes_a_death_payment
+  label: vengeance bounty becomes a death payment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests legal-compensatory payment tied to killing or vengeance,
+    not a clear death-afterlife motif.
+  cautions: Could belong to sacred_law, covenant, sacred_exchange, or an episode-specific
+    feud economy; source context is needed before broad indexing.
+  suggested_aliases:
+  - death_payment_for_vengeance
+  - vengeance_compensation_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-a-slain-ancestor
+  motif_id: vengeance_for_a_slain_ancestor
+  label: vengeance for a slain ancestor
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Avenging a slain ancestor functions as kin-based martial obligation and
+    feud motivation.
+  cautions: If ancestor agency or cultic obligation is explicit, ancestor_rites or
+    restless_dead_haunting_vengeance may be relevant; otherwise keep as combat/vengeance
+    motivation.
+  suggested_aliases:
+  - avenging_a_slain_ancestor
+  - kin_vengeance_for_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-the-death-of-saiwush-invoked-against-enemies
+  motif_id: vengeance_for_the_death_of_saiwush_invoked_against_enemies
+  label: vengeance for the death of Saiwush invoked against enemies
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The named-hero death is invoked as justification for vengeance against
+    enemies, fitting martial vengeance motivation.
+  cautions: Preserve the Saiwush/Siyavush specificity as evidence; if the invocation
+    is primarily oath or curse speech, curse_blessing_speech may be a secondary mapping.
+  suggested_aliases:
+  - vengeance_for_saiwush
+  - slain_hero_vengeance_invoked_against_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-vow-after-the-death-of-an-ally-or-kin
+  motif_id: vengeance_vow_after_the_death_of_an_ally_or_kin
+  label: Vengeance vow after the death of an ally or kin
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: This closely matches the existing child motif vow_of_vengeance_for_a_fallen_king_hero
+    under divine_warrior.
+  cautions: If the vow itself has binding sacred force, also consider curse_blessing_speech;
+    if battle context dominates, sacred_combat is related.
+  suggested_aliases:
+  - vow_of_vengeance_for_a_fallen_ally
+  - vow_of_vengeance_for_slain_kin
+  - vengeance_vow_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-dead-mother-becomes-ghostly-avenger
+  motif_id: vengeful_dead_mother_becomes_ghostly_avenger
+  label: vengeful dead mother becomes ghostly avenger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: role_variant
+  confidence: high
+  rationale: A dead mother returning as a ghostly avenger directly fits active vengeful
+    dead and haunting after death.
+  cautions: If the mother role is central to fertility, protection, or kinship rather
+    than haunting, additional review may note mother_goddess or ancestor_rites context.
+  suggested_aliases:
+  - vengeful_maternal_ghost
+  - dead_mother_as_avenger
+  - ghostly_mother_avenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - mother_goddess
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-wife-demands-hero-s-death-as-condition-of-marriage-bed
+  motif_id: vengeful_wife_demands_hero_s_death_as_condition_of_marriage_bed
+  label: vengeful wife demands hero’s death as condition of marriage-bed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif combines vengeance, marriage-bed condition, and demanded heroic
+    death in a highly contextual episode.
+  cautions: Could fit sacred_love, betrayal_violated_trust, sacred_combat, or divine_judgment
+    depending on narrative function; avoid indexing solely as death motif.
+  suggested_aliases:
+  - vengeful_spouse_demands_hero_death
+  - marriage_bed_conditioned_on_vengeance
+  - wife_demands_heroic_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - betrayal_violated_trust
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence vengeance or named-episode details;
+  preserve specificity as evidence notes unless recurrence supports a more durable
+  feud/vengeance group.
+- Avoid mapping water references to flood_and_renewal unless the passage contains
+  old-order destruction and renewal, not merely death by water or local flood imagery.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for over-specific Sedna,
+    corpse-vengeance, payment, and marriage-bed vengeance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0148
+  input_sha256: 2f814fb44894260cbc6b5aec4854fb24095d650a89fba28f3282328342b13eb1
+

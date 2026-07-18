@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l304-l313
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER XVII / CHAPTER XVIII / CHAPTER XIX / CHAPTER XX; lines 304-313
+  start: '304'
+  end: '313'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: No individualism--Effect of isolation--Extreme reserve of Indians--Cruelty--Dislike
+    and fear of strangers
+  summary: The passage is a Chapter XX contents list naming topics about Indigenous
+    social conduct and characterization, including isolation, reserve, cruelty, fear
+    of strangers, hospitality, treachery, punishment of theft, dualism of ethics,
+    vengeance, gendered modesty and jealousy, attitudes toward white people, curiosity,
+    cultural status, and conclusion.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a chapter heading and contents list for Chapter
+    XX.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes topics of no individualism, isolation, extreme reserve of
+    Indians, cruelty, dislike and fear of strangers, hospitality, treachery, theft
+    punished by death, dualism of ethics, vengeance, moral sense and custom, modesty
+    of women, jealousy of men, hatred of white man, ingratitude, curiosity, and cultural
+    assessment.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage explicitly names Indians, women, men, strangers, and white man
+    as human categories discussed in the chapter topics.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The passage states as a chapter topic that theft is punished by death.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states as a chapter topic a dualism of ethics.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Indians
+  description: A named group in the chapter contents, associated with extreme reserve
+    and other listed topics.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: strangers
+  description: A named outside category in the chapter contents, associated with dislike
+    and fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: women
+  description: A named gender category in the chapter contents, associated with modesty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: men
+  description: A named gender category in the chapter contents, associated with jealousy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: white man
+  description: A named outside category in the chapter contents, associated with hatred.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: chapter subject group
+  assigned_to:
+  - fig:1
+  basis: The contents list names 'Indians' as a central group discussed in the chapter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: outsider category
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The contents list names 'strangers' and 'white man' as categories toward
+    whom attitudes are described.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: gendered subgroup associated with modesty
+  assigned_to:
+  - fig:3
+  basis: The contents list includes 'Modesty of the women.'
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: gendered subgroup associated with jealousy
+  assigned_to:
+  - fig:4
+  basis: The contents list includes 'Jealousy of the men.'
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Chapter XX contents overview
+  summary: A non-narrative contents list previews topics on social conduct, relations
+    with outsiders, punishment, ethics, gendered behavior, attitudes toward white
+    people, curiosity, and cultural assessment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: dualism of ethics
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly lists 'Dualism of ethics' as a chapter topic.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is a contents heading in an ethnographic work, not a mythic narrative
+    passage; the taxonomy match to 'duality' is literal but weak and requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 304-313
+  quote_or_summary: '"No individualism--Effect of isolation--Extreme reserve of Indians--Cruelty--Dislike
+    and fear of strangers--Indian hospitality"'
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 304-313
+  quote_or_summary: '"Theft punished by death--Dualism of ethics--Vengeance--Moral
+    sense and custom--Modesty of the women--Jealousy of the men--Hatred of white man"'
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is only a chapter contents list, so literal extraction of named
+    topics and categories is straightforward, but motif identification is weak and
+    non-narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols or comparison claims were extracted because the passage provides no mythic objects, places, beings, or explicit comparative frame.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l304-l313
+  passage_sha256=65ac24bf4b594b710112be1f3f00c4111ea1e2727f6e4fd506f846ac1631b632
+

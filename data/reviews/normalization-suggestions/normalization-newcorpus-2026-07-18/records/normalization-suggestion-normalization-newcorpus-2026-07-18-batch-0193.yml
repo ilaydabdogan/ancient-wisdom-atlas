@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0193
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-war-against-a-southern-opposing-race-and-island-conquest
+  motif_id: heroic_war_against_a_southern_opposing_race_and_island_conquest
+  label: heroic war against a southern opposing race and island conquest
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes warfare and conquest, but its ethnic/geographic wording
+    and single occurrence make it too contextual for direct mapping.
+  cautions: Review source evidence and culturally sensitive wording; avoid treating
+    an opposing race label as a stable motif without context.
+  suggested_aliases:
+  - heroic island conquest
+  - war against an opposing people
+  - conquest expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-passage-through-border-danger
+  motif_id: hidden_passage_through_border_danger
+  label: Hidden passage through border danger
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous border passage is a threshold-crossing ordeal, even if no
+    explicit guardian is named.
+  cautions: If the passage is simply travel logistics or concealment, map instead
+    to hero_journey or exclude as episode detail.
+  suggested_aliases:
+  - dangerous border crossing
+  - hidden threshold passage
+  - secret passage through danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-refuge-with-possible-heavenly-guardianship
+  motif_id: hidden_refuge_with_possible_heavenly_guardianship
+  label: hidden refuge with possible heavenly guardianship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A refuge protected by heavenly guardianship fits divine protection or
+    guidance during danger.
+  cautions: The word 'possible' signals uncertainty; if guardianship is not explicit,
+    preserve only as hidden-refuge journey detail.
+  suggested_aliases:
+  - divinely guarded refuge
+  - heavenly protected hiding place
+  - hidden refuge under divine protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-disclosed-by-a-wandering-dervish
+  motif_id: hidden_treasure_disclosed_by_a_wandering_dervish
+  label: Hidden treasure disclosed by a wandering dervish
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core motif is disclosure of hidden treasure, potentially a sacred
+    or power object mediated by a holy wanderer.
+  cautions: If the dervish functions mainly as wisdom guide or trickster, secondary
+    review under sacred_knowledge or mystical_quest may be needed.
+  suggested_aliases:
+  - hidden treasure revealed by holy wanderer
+  - dervish reveals treasure
+  - disclosed hidden treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-day-admonition-changes-the-traveller-s-conduct
+  motif_id: holy_day_admonition_changes_the_traveller_s_conduct
+  label: Holy-day admonition changes the traveller's conduct
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A holy day governs proper conduct and corrects behavior, fitting sacred
+    time and ritual obligation.
+  cautions: Could also belong under sacred_law if the emphasis is moral command rather
+    than calendrical sacred time.
+  suggested_aliases:
+  - holy day changes conduct
+  - sacred-day admonition
+  - traveler corrected on holy day
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-helper-corrects-failed-craftsmanship
+  motif_id: holy_helper_corrects_failed_craftsmanship
+  label: holy helper corrects failed craftsmanship
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A holy figure correcting failed making or construction fits divinely
+    aided craftsmanship.
+  cautions: If the helper is acting primarily as miracle worker rather than craft
+    patron, divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - divine aid in craftsmanship
+  - holy correction of craft failure
+  - miraculous craft assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-person-s-arrival-brings-rain-to-a-parched-land
+  motif_id: holy_person_s_arrival_brings_rain_to_a_parched_land
+  label: Holy person’s arrival brings rain to a parched land
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rain arriving with a holy person signals sacred intervention or blessing
+    in human and natural affairs.
+  cautions: If the source centers on ritual rainmaking or exchange with rain powers,
+    sacred_exchange may be relevant; if fertility renewal is emphasized, consider
+    sacred_time.
+  suggested_aliases:
+  - holy arrival brings rain
+  - saintly presence ends drought
+  - rain follows sacred visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-a-stranded-traveler
+  motif_id: hospitality_to_a_stranded_traveler
+  label: hospitality to a stranded traveler
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: Hospitality given to a vulnerable traveler fits the stranger-guest hospitality
+    complex.
+  cautions: Confirm whether the episode functions as a test or sacred obligation,
+    not merely ordinary lodging.
+  suggested_aliases:
+  - hospitality to stranded guest
+  - aid to stranded traveler
+  - stranger traveler hosted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-a-travelling-host
+  motif_id: hospitality_to_a_travelling_host
+  label: hospitality to a travelling host
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns hosting or receiving a traveling party, fitting hospitality
+    obligations around mobile guests.
+  cautions: 'Wording is slightly ambiguous: ''travelling host'' may mean a host who
+    travels or a traveling retinue; verify role before final mapping.'
+  suggested_aliases:
+  - hospitality to traveling guest
+  - hosting a traveling party
+  - hospitality to traveling host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-the-stranger-or-traveler
+  motif_id: hospitality_to_the_stranger_or_traveler
+  label: hospitality to the stranger or traveler
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: alias
+  confidence: high
+  rationale: This is a direct label variant of the existing hospitality test and stranger
+    guest group.
+  cautions: If no test, disguise, or sacred obligation is present, retain as broader
+    hospitality evidence under sacred_exchange or sacred_law.
+  suggested_aliases:
+  - hospitality to stranger
+  - hospitality to traveler
+  - stranger guest hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and travel-contextual; suggested placements
+  should be treated as provisional indexing, not taxonomy promotion.
+- Hospitality items appear to cluster under the existing hospitality_test_stranger_guest
+  group, but source evidence should confirm sacred obligation or test function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0193
+  input_sha256: 4a53e739398d081f35d34d149fb12b908e9b9d40f008e1290c9670cbddf2e947
+

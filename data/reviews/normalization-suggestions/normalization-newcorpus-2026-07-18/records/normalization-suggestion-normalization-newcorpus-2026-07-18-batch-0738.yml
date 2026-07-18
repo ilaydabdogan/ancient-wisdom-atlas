@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0738
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mother-and-child-appointed-as-a-sign-in-a-protected-watered-place
+  motif_id: mother_and_child_appointed_as_a_sign_in_a_protected_watered_place
+  label: Mother and child appointed as a sign in a protected watered place
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mother-child pair marked as a sacred sign fits the protected holy child
+    and sacred birth complex.
+  cautions: The watered protected place may also involve sacred_waters or divine_intervention;
+    source context should decide secondary mapping.
+  suggested_aliases:
+  - mother_and_child_as_sign
+  - protected_mother_and_child
+  - sacred_mother_child_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-avenges-slain-son
+  motif_id: mother_avenges_slain_son
+  label: mother avenges slain son
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance for a slain son functions as a revenge-driven martial conflict
+    motif.
+  cautions: If the passage emphasizes maternal grief more than retaliatory action,
+    lament_and_mourning may be the better placement.
+  suggested_aliases:
+  - maternal_vengeance_for_slain_son
+  - mother_s_revenge_for_son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-carries-child-while-foraging
+  motif_id: mother_carries_child_while_foraging
+  label: mother carries child while foraging
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a contextual subsistence or scene detail rather than
+    a durable symbolic motif.
+  cautions: If the episode marks ancestral wandering, child protection, or landscape
+    formation, review under miraculous_child, hero_journey, or cosmic_origin instead.
+  suggested_aliases:
+  - mother_with_child_while_foraging
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-child-affection-in-epic-expression
+  motif_id: mother_child_affection_in_epic_expression
+  label: Mother-child affection in epic expression
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to literary expression of affection rather than a
+    narrative or symbolic motif.
+  cautions: If the passage includes active rescue, protection, sacred birth, or lament,
+    map the underlying event rather than the expression label.
+  suggested_aliases:
+  - epic_expression_of_mother_child_affection
+  - mother_child_affection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-collapses-on-seeing-slain-son
+  motif_id: mother_collapses_on_seeing_slain_son
+  label: mother collapses on seeing slain son
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: A mother's collapse on seeing a slain son is a grief and tragic recognition
+    scene.
+  cautions: Preserve as evidence detail; the physical collapse may be too specific
+    for a canonical motif unless recurring.
+  suggested_aliases:
+  - maternal_collapse_at_slain_son
+  - mother_grieves_slain_son
+  - maternal_lament_for_slain_son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-dies-at-child-s-birth
+  motif_id: mother_dies_at_child_s_birth
+  label: Mother dies at child's birth
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: medium
+  rationale: A death-marked birth can signal an extraordinary child or destiny within
+    the sacred birth complex.
+  cautions: If the passage focuses on maternal death, lineage loss, or tragedy rather
+    than the child's destiny, lament_and_mourning or death_and_transformation may
+    be better.
+  suggested_aliases:
+  - birth_causes_mother_s_death
+  - mother_dies_in_childbirth
+  - death_marked_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-grants-magical-strength-to-warrior-son
+  motif_id: mother_grants_magical_strength_to_warrior_son
+  label: mother grants magical strength to warrior son
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mother bestowing magical strength acts as a supernatural helper empowering
+    a warrior.
+  cautions: If the mother is divine or the emphasis is heroic combat, secondary links
+    to mother_goddess or divine_warrior may be warranted.
+  suggested_aliases:
+  - maternal_bestowal_of_strength
+  - mother_empowers_warrior_son
+  - magical_strength_from_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-incites-sons-to-avenge-slain-kinswoman
+  motif_id: mother_incites_sons_to_avenge_slain_kinswoman
+  label: mother incites sons to avenge slain kinswoman
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on kin vengeance mobilizing martial action after a
+    killing.
+  cautions: Could also involve curse_blessing_speech if the incitement is a binding
+    speech act or oath.
+  suggested_aliases:
+  - maternal_incitement_to_vengeance
+  - kin_vengeance_incited_by_mother
+  - mother_urges_sons_to_avenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-kills-shared-children-to-avenge-slain-kin
+  motif_id: mother_kills_shared_children_to_avenge_slain_kin
+  label: mother kills shared children to avenge slain kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin vengeance, child-killing, family rupture, and
+    tragic retaliation in a culturally specific episode.
+  cautions: Possible placements include sacred_combat, betrayal_violated_trust, lament_and_mourning,
+    or divine_judgment; source evidence is needed before normalizing.
+  suggested_aliases:
+  - child_killing_as_kin_vengeance
+  - maternal_filicide_for_vengeance
+  - vengeance_through_shared_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-rescues-and-restores-son
+  motif_id: mother_rescues_and_restores_son
+  label: mother rescues and restores son
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration after rescue suggests renewal or revival, especially where
+    a mother restores a threatened or dead son.
+  cautions: If the son is a destined child rather than restored from death or dismemberment,
+    miraculous_child may be a better primary group.
+  suggested_aliases:
+  - maternal_rescue_and_restoration
+  - mother_restores_son
+  - mother_revives_son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence family or maternal-action scenes; preserve
+  episode detail but avoid promoting them without recurrence.
+- Kin-vengeance labels were mapped by narrative function to sacred_combat rather than
+  to family/body solely because they involve mothers.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; mother/child labels often need source context
+    to distinguish sacred birth, lament, vengeance, and ordinary scene detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0738
+  input_sha256: 7314d6d47fe884eef2b9e8d9b16d6a3058b4e35f83730aad3660af6aea16fa3d
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1572
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.scented-bodily-token-reveals-a-distant-woman
+  motif_id: scented_bodily_token_reveals_a_distant_woman
+  label: Scented bodily token reveals a distant woman
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A bodily or scented token reveals identity or presence at a distance,
+    matching existing recognition-token patterns.
+  cautions: If the passage emphasizes erotic attraction or magic rather than identity
+    proof, sacred_love or sacred_treasures may be secondary.
+  suggested_aliases:
+  - scented bodily token
+  - recognition by scent
+  - bodily token reveals identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-killed-before-sounding-the-alarm
+  motif_id: scout_killed_before_sounding_the_alarm
+  label: scout killed before sounding the alarm
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical episode detail rather than a durable mythic
+    motif in the current taxonomy.
+  cautions: If repeated as a formal war stratagem or sacrificial warning motif, review
+    under sacred_combat; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - sentinel killed before warning
+  - scout slain before alarm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-reports-portentous-signs-that-are-interpreted-by-an-experienced-figure
+  motif_id: scout_reports_portentous_signs_that_are_interpreted_by_an_experienced_figure
+  label: scout reports portentous signs that are interpreted by an experienced figure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Portentous signs interpreted by a knowledgeable figure fit omen interpretation
+    and divinatory reading.
+  cautions: Because the scout-report framing may be battle narration, verify that
+    the signs are treated as omens rather than ordinary intelligence.
+  suggested_aliases:
+  - interpreted portents
+  - omen report interpreted by expert
+  - scout reports omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-s-report-of-an-approaching-army
+  motif_id: scout_s_report_of_an_approaching_army
+  label: scout's report of an approaching army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: A scout reporting an army is a common narrative logistics detail, not
+    a symbolic motif by itself.
+  cautions: Map to sacred_combat only if the report carries ritual, prophetic, or
+    ordeal function beyond military information.
+  suggested_aliases:
+  - scout reports approaching army
+  - army sighting report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scouts-sent-into-promised-territory
+  motif_id: scouts_sent_into_promised_territory
+  label: Scouts sent into promised territory
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Sending scouts into a promised land may mark threshold testing before
+    entry into a destined territory.
+  cautions: Could be a contextual scriptural episode, covenant-land theme, military
+    reconnaissance, or communal trial; source evidence is needed before mapping.
+  suggested_aliases:
+  - scouts enter promised land
+  - reconnaissance of promised territory
+  - spies sent into destined land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scriptural-psalm-as-prophetic-explanation-of-mystical-lament
+  motif_id: scriptural_psalm_as_prophetic_explanation_of_mystical_lament
+  label: Scriptural psalm as prophetic explanation of mystical lament
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves scripture used to reveal or interpret mystical suffering,
+    but it may be exegetical commentary rather than motif.
+  cautions: Review whether the passage narrates prophetic revelation, performative
+    sacred song, or a scholarly/allegorical interpretation artifact.
+  suggested_aliases:
+  - psalm interprets mystical lament
+  - scripture explains lament
+  - prophetic psalmic interpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scriptural-reinterpretation-through-allegory
+  motif_id: scriptural_reinterpretation_through_allegory
+  label: scriptural reinterpretation through allegory
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes an interpretive method applied to scripture rather than
+    a narrative or symbolic motif.
+  cautions: If the allegory itself contains a recurring mythic image, index that image
+    separately under the relevant motif group.
+  suggested_aliases:
+  - allegorical scriptural interpretation
+  - scriptural allegoresis
+  - reinterpretation by allegory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scriptural-verses-as-signs-or-wonders
+  motif_id: scriptural_verses_as_signs_or_wonders
+  label: scriptural verses as signs or wonders
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revealed verses functioning as signs or wonders fit sacred knowledge
+    conveyed through divine speech or recitation.
+  cautions: Could also belong with theophany, prophecy_divination, or curse_blessing_speech
+    depending on whether the emphasis is manifestation, revelation, or performative
+    speech.
+  suggested_aliases:
+  - revealed verses as signs
+  - scriptural signs and wonders
+  - revelation as miraculous sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secluded-company-of-forty-princesses
+  motif_id: secluded_company_of_forty_princesses
+  label: Secluded company of forty princesses
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a highly specific narrative setting or cast, but its
+    motif function is unclear.
+  cautions: Could involve enchanted realm, bride-choice, hidden women, taboo space,
+    or a passage-specific detail; do not map without source context.
+  suggested_aliases:
+  - forty secluded princesses
+  - hidden company of princesses
+  - secluded princesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secluded-sisters-compelled-to-spin-gold
+  motif_id: secluded_sisters_compelled_to_spin_gold
+  label: secluded sisters compelled to spin gold
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Compelled production of gold through spinning centers on wondrous craft
+    or magical production from labor.
+  cautions: If the narrative emphasizes female captivity, exploitation, or rescue
+    more than supernatural craft, another social or quest grouping may be needed;
+    current taxonomy lacks a forced-labor/enclosed-women group.
+  suggested_aliases:
+  - spinning gold under compulsion
+  - magical gold spinning by sisters
+  - secluded women spin gold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several scout labels appear to be tactical passage details; only portent interpretation
+  has a clear motif function.
+- Scriptural interpretation labels should be separated from motifs of revelation or
+  sacred speech unless the passage evidence shows narrative function.
+- Some secluded-women labels may require future review if a recurring captivity/enclosure
+  motif emerges.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence labels need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1572
+  input_sha256: 96b5b4a8d060ecd750fcf0645fcbad32b344fe5d080855040a0ed17612198022
+

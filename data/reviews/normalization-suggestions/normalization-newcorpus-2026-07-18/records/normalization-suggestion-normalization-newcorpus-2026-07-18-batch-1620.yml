@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1620
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.translation-as-transplantation
+  motif_id: translation_as_transplantation
+  label: translation as transplantation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a metaphor about translation or textual transmission
+    rather than a narrative or symbolic motif.
+  cautions: If the source uses transplantation as a ritual or cosmological image rather
+    than a translation metaphor, reassess with passage evidence.
+  suggested_aliases:
+  - translation metaphor
+  - textual transplantation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-romance-material-from-north-western-france-across-europe
+  motif_id: transmission_of_romance_material_from_north_western_france_across_europe
+  label: Transmission of romance material from north-western France across Europe
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an explicit literary-historical transmission claim, not a motif
+    pattern for symbolic comparison.
+  cautions: Keep as provenance or scholarship note if needed; do not treat as evidence
+    of motif borrowing in normalization.
+  suggested_aliases:
+  - romance transmission history
+  - literary transmission of romance material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trap-prepared-for-the-innocent-reverses-onto-the-trap-setters
+  motif_id: trap_prepared_for_the_innocent_reverses_onto_the_trap_setters
+  label: trap prepared for the innocent reverses onto the trap setters
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A trap reversing onto its makers is a moral-reversal pattern where wrongdoing
+    is exposed and punished.
+  cautions: If no sacred or moral reckoning is emphasized, it may be a trickster or
+    plot-reversal detail rather than divine judgment.
+  suggested_aliases:
+  - trap reverses on trap setter
+  - poetic justice reversal
+  - schemer caught in own trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treachery-at-a-hall-through-false-invitation
+  motif_id: treachery_at_a_hall_through_false_invitation
+  label: Treachery at a hall through false invitation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: narrower_than
+  confidence: high
+  rationale: A false invitation into a hall makes violated hospitality and trust the
+    engine of the episode.
+  cautions: Could also support sacred_combat if the hall treachery initiates feud
+    or warfare; preserve feast/hall setting as evidence detail.
+  suggested_aliases:
+  - false invitation betrayal
+  - hall ambush by invitation
+  - treacherous invitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treachery-at-or-around-a-feast
+  motif_id: treachery_at_or_around_a_feast
+  label: Treachery at or around a feast
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing group explicitly covers feast or drink betrayal as a violated-bond
+    pattern.
+  cautions: If the feast is mainly a hospitality test, sacred_exchange or hospitality_test_stranger_guest
+    may be relevant as secondary context.
+  suggested_aliases:
+  - feast betrayal
+  - treacherous feast
+  - banquet treachery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treachery-burning-of-leaders-and-communal-dispersal
+  motif_id: treachery_burning_of_leaders_and_communal_dispersal
+  label: Treachery, burning of leaders, and communal dispersal
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines betrayal, violent burning, leadership loss, and dispersal;
+    betrayal is the nearest existing functional core.
+  cautions: May instead belong with sacred_combat, divine_judgment, royal_legitimacy,
+    or a migration/dispersal etiology depending on source evidence; culturally specific
+    context is needed.
+  suggested_aliases:
+  - betrayal burning of leaders
+  - treacherous destruction of leaders
+  - communal dispersal after treachery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treachery-of-brothers-exposed-and-punished
+  motif_id: treachery_of_brothers_exposed_and_punished
+  label: Treachery of brothers exposed and punished
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure and punishment of kin treachery centers on moral reckoning and
+    restoration of order.
+  cautions: Could also relate to sibling_pair if sibling rivalry is structurally central,
+    or betrayal_violated_trust if the broken kin bond is the main focus.
+  suggested_aliases:
+  - brothers' treachery punished
+  - kin betrayal exposed
+  - treacherous siblings punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-acquisition-from-the-defeated-foe-s-lair
+  motif_id: treasure_acquisition_from_the_defeated_foe_s_lair
+  label: treasure acquisition from the defeated foe's lair
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on acquisition of a significant treasure or power object
+    after overcoming a hostile possessor.
+  cautions: If the focus is monster-slaying or heroic combat rather than the object,
+    sacred_combat or divine_warrior may be a better primary group.
+  suggested_aliases:
+  - treasure won from defeated foe
+  - treasure taken from enemy lair
+  - hero wins treasure from lair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-associated-with-fatal-consequence
+  motif_id: treasure_associated_with_fatal_consequence
+  label: treasure associated with fatal consequence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A dangerous or fatal treasure fits the sacred/power-object field, but
+    the label is too broad to identify the exact function.
+  cautions: Could be curse/blessing speech, divine judgment, greed/downfall, or external-soul
+    logic if the fatality is caused by a curse, moral fault, or life-token.
+  suggested_aliases:
+  - fatal treasure
+  - deadly treasure
+  - cursed treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-carried-out-of-a-perilous-place
+  motif_id: treasure_carried_out_of_a_perilous_place
+  label: treasure carried out of a perilous place
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The recurring function is retrieval of a valued or powerful object from
+    a dangerous space.
+  cautions: If the perilous place is the main motif, secondary mapping to descent,
+    initiation, or threshold_guardian may be appropriate.
+  suggested_aliases:
+  - treasure retrieved from perilous place
+  - dangerous treasure retrieval
+  - treasure escape from peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several treachery labels can map to betrayal_violated_trust, but retain feast, hall,
+  kinship, and communal-dispersal details as evidence notes rather than separate canonical
+  motifs unless they recur.
+- Transmission and translation-history labels should remain excluded from motif pattern
+  queries unless source evidence shows a symbolic transplantation motif rather than
+  scholarly description.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for composite or culturally
+    contextual items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1620
+  input_sha256: 8435717907a24ac7fc4c051916774a287e3aef13aa66f7efb07ef3a3e5975b14
+

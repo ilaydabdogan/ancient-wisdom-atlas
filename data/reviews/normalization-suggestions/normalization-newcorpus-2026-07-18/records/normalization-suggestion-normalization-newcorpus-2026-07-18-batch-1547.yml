@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1547
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.red-breast-caused-by-injury
+  motif_id: red_breast_caused_by_injury
+  label: red breast caused by injury
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an etiological explanation for an animal feature, but
+    no animal-etiology group is present and source context is needed.
+  cautions: Single occurrence; could be local animal-origin etiological detail, transformation,
+    injury marker, or passage artifact.
+  suggested_aliases:
+  - animal coloration caused by injury
+  - etiology of red breast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.red-cord-interpreted-as-blood-redemptive-sign
+  motif_id: red_cord_interpreted_as_blood_redemptive_sign
+  label: red cord interpreted as blood-redemptive sign
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A red cord functioning as a salvific or protective sign fits a power
+    object or protective mark, with blood symbolism as secondary.
+  cautions: If the passage emphasizes atonement through blood rather than the cord
+    as object, sacrifice or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - red cord as redemptive sign
+  - blood-red protective token
+  - redemptive cord token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.redirected-capture-from-one-brood-to-another
+  motif_id: redirected_capture_from_one_brood_to_another
+  label: redirected capture from one brood to another
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: low
+  rationale: The wording is too context-dependent to identify a reusable motif without
+    knowing who or what is captured and why.
+  cautions: May be a passage-specific plot detail; review source before excluding
+    if it marks a recurring abduction, trickster, or protection pattern.
+  suggested_aliases:
+  - capture redirected between broods
+  - substituted captive brood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.redistribution-of-possessions-to-displaced-followers
+  motif_id: redistribution_of_possessions_to_displaced_followers
+  label: Redistribution of possessions to displaced followers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Redistribution to displaced followers centers on obligated giving and
+    communal repair, fitting sacred reciprocity.
+  cautions: Could be primarily legal-social history rather than motif; if framed as
+    command or community law, sacred_law or covenant may be secondary.
+  suggested_aliases:
+  - redistribution to displaced followers
+  - communal sharing with refugees
+  - possessions shared with displaced faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-for-a-threatened-faithful-group
+  motif_id: refuge_for_a_threatened_faithful_group
+  label: Refuge for a threatened faithful group
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A threatened faithful group receiving refuge often functions as providential
+    protection or guidance for a community.
+  cautions: If the emphasis is migration/exile rather than sacred protection, hero_journey
+    or covenantal community formation may be better.
+  suggested_aliases:
+  - refuge for faithful remnant
+  - protected refuge for believers
+  - shelter of threatened faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-for-the-unintentional-manslayer
+  motif_id: refuge_for_the_unintentional_manslayer
+  label: Refuge for the unintentional manslayer
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: A protected refuge for accidental homicide is a legal-ritual institution
+    regulating guilt, retaliation, and social order.
+  cautions: Preserve distinction from ordinary asylum or exile; may also relate to
+    covenant if framed as divine command.
+  suggested_aliases:
+  - city of refuge for manslayer
+  - asylum for accidental killer
+  - refuge for accidental homicide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-granted-by-kin-linked-host-tribe
+  motif_id: refuge_granted_by_kin_linked_host_tribe
+  label: refuge granted by kin-linked host tribe
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern kinship obligation and hospitality, but the sacred
+    or narrative function is unclear from the label alone.
+  cautions: Culturally specific kinship relations need source-sensitive review; avoid
+    flattening into generic hospitality without evidence.
+  suggested_aliases:
+  - kin-linked refuge
+  - tribal host refuge
+  - refuge through kinship ties
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-in-a-decayed-dwelling-outside-town
+  motif_id: refuge_in_a_decayed_dwelling_outside_town
+  label: refuge in a decayed dwelling outside town
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific setting detail rather than a recurring
+    symbolic motif.
+  cautions: If the dwelling functions as a liminal threshold, exile site, or otherworld
+    entry, review for hero_journey, otherworld, or descent.
+  suggested_aliases:
+  - refuge outside town
+  - shelter in ruined dwelling
+  - decayed dwelling refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-inside-a-carrier-or-bag
+  motif_id: refuge_inside_a_carrier_or_bag
+  label: Refuge inside a carrier or bag
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bag or carrier that shelters a figure functions as a protective container,
+    close to the sacred vessel/container complex.
+  cautions: If the object is mundane and not transformative or protective beyond plot
+    mechanics, it may be over-specific evidence detail.
+  suggested_aliases:
+  - protective bag refuge
+  - hiding in a carrier
+  - container as refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ark_vessel
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-settlement-after-rejection-by-another-village
+  motif_id: refuge_settlement_after_rejection_by_another_village
+  label: Refuge settlement after rejection by another village
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests migration and settlement after rejection, but its
+    mythic function is unclear without passage evidence.
+  cautions: Could be origin tradition, social memory, exile/homecoming, or historical-context
+    detail; review before mapping to hero_journey or cosmic_origin.
+  suggested_aliases:
+  - settlement after village rejection
+  - refuge village foundation
+  - rejected group finds new settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - cosmic_origin
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels use ''refuge'' but differ in function: legal asylum, providential
+  protection, kinship hospitality, hiding-place, or settlement origin should not be
+  merged without source evidence.'
+- Animal-color etiology and refuge/settlement labels may indicate gaps in future groups,
+  but current single occurrences are not enough to propose durable canonical groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; source context recommended for low-confidence
+    refuge and animal-etiology items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1547
+  input_sha256: 481246aa6608b4e472a0c629475af9c2b03bf85b0d41764b32e2f39c22b6a88b
+

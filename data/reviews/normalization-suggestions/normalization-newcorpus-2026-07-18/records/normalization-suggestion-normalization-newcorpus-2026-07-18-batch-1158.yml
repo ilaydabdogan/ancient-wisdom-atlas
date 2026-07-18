@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1158
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.splendid-warrior-armament-and-noble-apparel
+  motif_id: splendid_warrior_armament_and_noble_apparel
+  label: Splendid warrior armament and noble apparel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label concerns heroic martial display and warrior equipment, which
+    fits the existing warrior/sacred combat field.
+  cautions: Single occurrence and may be descriptive ornament rather than a recurring
+    motif; preserve apparel detail as evidence.
+  suggested_aliases:
+  - splendid warrior apparel
+  - heroic armament display
+  - noble warrior attire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoiling-or-defending-the-fallen-warrior-s-arms
+  motif_id: spoiling_or_defending_the_fallen_warrior_s_arms
+  label: Spoiling or defending the fallen warrior's arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Defense or seizure of a dead warrior's arms is part of post-battle honor,
+    corpse treatment, and heroic memorial order.
+  cautions: Could also relate to divine_warrior or sacred_combat if the focus is combat
+    trophy rather than treatment of the fallen.
+  suggested_aliases:
+  - defending fallen warrior's arms
+  - spoiling fallen warrior's arms
+  - contest over dead hero's arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoils-brought-to-lord-followed-by-treasure-reward
+  motif_id: spoils_brought_to_lord_followed_by_treasure_reward
+  label: spoils brought to lord followed by treasure reward
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence centers on reciprocal gift exchange between warrior and
+    lord after victory.
+  cautions: May be a heroic social-order detail rather than sacred exchange; royal_legitimacy
+    or sacred_combat may be secondary depending on context.
+  suggested_aliases:
+  - war spoils exchanged for treasure
+  - lord rewards brought spoils
+  - heroic gift exchange after battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoils-of-the-fallen-hero-as-trophy-and-transferred-glory
+  motif_id: spoils_of_the_fallen_hero_as_trophy_and_transferred_glory
+  label: spoils of the fallen hero as trophy and transferred glory
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroic spoils function as power objects that carry honor, authority,
+    or transferred glory from the fallen hero.
+  cautions: If the passage emphasizes burial honor or corpse treatment, heroic_funeral_rites
+    may be a better primary group; if it emphasizes battlefield proof, divine_warrior
+    may apply.
+  suggested_aliases:
+  - heroic spoils as trophy
+  - fallen hero's arms transfer glory
+  - trophy of the defeated hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spousal-contest-over-wealth-and-status
+  motif_id: spousal_contest_over_wealth_and_status
+  label: spousal contest over wealth and status
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing sacred_combat group already contains wealth contests between
+    rulers and cattle-raid catalysts, making this a social-status contest that can
+    trigger conflict.
+  cautions: Could instead belong under sacred_love or royal_legitimacy if the spouse
+    relation, marriage politics, or sovereignty is central.
+  suggested_aliases:
+  - spousal wealth contest
+  - marital status contest
+  - contest between spouses over wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.staged-heroic-labor-sequence
+  motif_id: staged_heroic_labor_sequence
+  label: staged heroic labor sequence
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: high
+  rationale: A sequence of heroic labors is a structured trial arc within departure,
+    ordeal, transformation, and return.
+  cautions: If the labors are primarily initiation tests, initiation may be a secondary
+    mapping; preserve the staged sequence detail.
+  suggested_aliases:
+  - heroic labors
+  - sequence of heroic trials
+  - staged hero ordeals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.steadfast-hero-laughing-under-execution
+  motif_id: steadfast_hero_laughing_under_execution
+  label: steadfast hero laughing under execution
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero laughing at execution expresses fearless acceptance of impending
+    death, often tied to heroic fate or doom.
+  cautions: May fit divine_warrior if the emphasis is warrior honor, or sacrifice
+    if the execution is framed as self-offering; source context is needed.
+  suggested_aliases:
+  - heroic laughter before death
+  - steadfastness at execution
+  - fearless hero facing death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-bodied-giant-and-stone-weapon
+  motif_id: stone_bodied_giant_and_stone_weapon
+  label: Stone-bodied giant and stone weapon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate a monster opponent, invulnerability, elemental
+    body, or merely a descriptive weapon detail.
+  cautions: No existing group cleanly covers giants or stone-bodied adversaries; avoid
+    forcing into conditional_invulnerability unless special vulnerability is present.
+  suggested_aliases:
+  - stone-bodied giant
+  - giant with stone weapon
+  - stone giant adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-throwing-combat-between-champions
+  motif_id: stone_throwing_combat_between_champions
+  label: Stone-throwing combat between champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is a specific mode of champion combat, fitting the broader
+    sacred combat and duel complex.
+  cautions: Stone-throwing may be an episode-specific combat detail; do not promote
+    as canonical unless it recurs across sources.
+  suggested_aliases:
+  - champion stone combat
+  - stone-throwing duel
+  - combat by hurling stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.story-preserved-archaic-serrate-weapon
+  motif_id: story_preserved_archaic_serrate_weapon
+  label: story-preserved archaic serrate weapon
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes preservation of an archaic weapon detail by a story,
+    which reads as commentary on transmission or material culture rather than a motif.
+  cautions: If the source narrative treats the serrate weapon as a sacred power object,
+    remap to sacred_treasures; otherwise exclude from motif pattern queries.
+  suggested_aliases:
+  - archaic weapon preserved in story
+  - story-preserved weapon detail
+  - serrate weapon as textual artifact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence heroic combat or equipment details; preserve
+  them as evidence details unless recurrence supports finer subgroups.
+- Avoid treating trophy, armament, or weapon descriptions as sacred power objects
+  unless the passage shows transferred glory, authority, protection, or ritual function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-normalization-suggester
+  reviewed_at: ''
+  notes: Provisional placements only; stone-bodied giant item needs source evidence
+    before mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1158
+  input_sha256: d381659570e5d629cb7e00fde91aa772822c21177aa4256ecdf41f735d502def
+

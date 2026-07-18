@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0448
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.solar-identification-with-older-creator-gods
+  motif_id: solar_identification_with_older_creator_gods
+  label: solar identification with older creator gods
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Solar divinity and light fit sacred_fire, but the label mainly describes
+    theological identification among creator gods.
+  cautions: May be a syncretic/theological classification rather than a narrative
+    motif; review Egyptian source context before mapping.
+  suggested_aliases:
+  - solar_creator_identification
+  - solarized_creator_god
+  - creator_god_solarization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-timed-ritual-prayer-with-prostrations
+  motif_id: solar_timed_ritual_prayer_with_prostrations
+  label: Solar-timed ritual prayer with prostrations
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ritual action ordered by solar time, fitting sacred
+    temporal rhythm.
+  cautions: If the passage emphasizes prayer discipline or law more than timing, sacred_law
+    or covenant may be secondary.
+  suggested_aliases:
+  - solar_timed_prayer
+  - ritual_prayer_by_sun_position
+  - prostration_prayer_at_fixed_times
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sole-creator-generating-gods-humans-and-creatures
+  motif_id: sole_creator_generating_gods_humans_and_creatures
+  label: Sole creator generating gods, humans, and creatures
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: A sole creator generating divine, human, and creaturely beings is a creation/cosmogony
+    motif.
+  cautions: Preserve monotheistic or henotheistic theological nuance; do not infer
+    transmission from similarity to other creator motifs.
+  suggested_aliases:
+  - sole_creator_generates_beings
+  - creator_generates_gods_and_humans
+  - single_creator_of_living_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sole-divine-sustainer-of-the-cosmos
+  motif_id: sole_divine_sustainer_of_the_cosmos
+  label: Sole divine sustainer of the cosmos
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: A sole deity sustaining cosmic order fits cosmic sovereignty more than
+    a creation event.
+  cautions: Could also support sacred_law or cosmic_origin depending on whether sustaining,
+    ruling, or creating is emphasized.
+  suggested_aliases:
+  - divine_sustainer_of_cosmos
+  - cosmic_sustainer
+  - sole_sustaining_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-used-for-ritual-service-and-honor
+  motif_id: songs_used_for_ritual_service_and_honor
+  label: Songs used for ritual service and honor
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual songs used in service and honor belong with sacred sound/music
+    as ritual power.
+  cautions: If songs are only liturgical record or performance note without sacred
+    efficacy, consider sacred_exchange or exclude as contextual detail.
+  suggested_aliases:
+  - ritual_service_songs
+  - songs_of_ritual_honor
+  - sacred_songs_for_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.special-sacred-service-group-set-apart-from-the-general-count
+  motif_id: special_sacred_service_group_set_apart_from_the_general_count
+  label: special sacred service group set apart from the general count
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A set-apart service group may reflect sacred social order and ritual
+    role differentiation.
+  cautions: May be an administrative census or priestly/Levitical detail rather than
+    a reusable motif; needs passage context.
+  suggested_aliases:
+  - set_apart_sacred_service_group
+  - ritual_service_group_exempted_from_count
+  - consecrated_service_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.specialist-mediation-of-sacred-reading
+  motif_id: specialist_mediation_of_sacred_reading
+  label: Specialist mediation of sacred reading
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: A specialist mediating sacred reading concerns controlled transmission
+    and interpretation of sacred knowledge.
+  cautions: If the passage focuses on recitation as ritual service, storytelling_as_power
+    or sacred_song may be secondary.
+  suggested_aliases:
+  - mediated_sacred_reading
+  - specialist_sacred_recitation
+  - ritual_reader_as_knowledge_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.specified-ritual-actors-timing-and-implements-for-water-rite
+  motif_id: specified_ritual_actors_timing_and_implements_for_water_rite
+  label: Specified ritual actors, timing, and implements for water rite
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: low
+  rationale: A water rite belongs broadly with sacred waters when water is the ritual
+    medium.
+  cautions: The label emphasizes procedural details and may be over-specific ethnographic
+    description; verify ritual function before indexing.
+  suggested_aliases:
+  - specified_water_rite
+  - ritual_water_with_actors_timing_implements
+  - water_rite_procedure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speech-taboo-delays-communal-response
+  motif_id: speech_taboo_delays_communal_response
+  label: Speech taboo delays communal response
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo on speech is a binding speech-act constraint with social consequences.
+  cautions: If the delay is merely plot mechanics rather than sacred taboo or geis-like
+    constraint, treat as evidence detail.
+  suggested_aliases:
+  - speech_taboo
+  - binding_silence_delays_response
+  - tabooed_speech_constraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speech-taboo-during-a-magical-task
+  motif_id: speech_taboo_during_a_magical_task
+  label: speech taboo during a magical task
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Required silence during magical work functions as a speech taboo governing
+    ritual efficacy.
+  cautions: Could also fit sacred_law if framed as ritual prohibition; preserve task-specific
+    evidence without overgeneralizing.
+  suggested_aliases:
+  - magical_task_silence_taboo
+  - speech_prohibition_during_magic
+  - ritual_silence_for_magical_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence ritual or theological labels; human review should
+  distinguish reusable motifs from liturgical, administrative, or commentary artifacts.
+- No placement implies borrowing, contact, or common origin across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passage evidence should
+    be checked for low-confidence and needs_human_review items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0448
+  input_sha256: db28e2513e6c46b281e33e4a71c0e687c797c6ff677faf7fdc89c8802b3b4652
+

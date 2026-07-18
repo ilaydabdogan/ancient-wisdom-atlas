@@ -1,0 +1,152 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l209-l221
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER VIII / CHAPTER IX / CHAPTER X / CHAPTER XI; lines 209-221
+  start: '209'
+  end: '221'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents excerpt listing Chapter X topics on
+    drinks, drugs, poisons, named substances, tobacco, and poison-makers, followed
+    by Chapter XI topics on family, birth customs, infant mortality, couvade, naming,
+    childhood, lactation, food restrictions, training, and initiation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chapter X is described as treating drinks, drugs, and poisons, including their
+    use and preparation.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chapter X lists unfermented drinks, caapi, fermented drinks, cahuana, coca,
+    parica, tobacco, poison, and poison-makers as topics.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chapter XI is described as treating small families, birth taboo, birth customs,
+    infant mortality, infanticide, couvade, name-giving, taboos on names, childhood,
+    lactation, food restrictions, child-life and training, and initiation.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: poison-makers
+  description: A group or class named in the Chapter X topic list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: children
+  description: Children are implied by the Chapter XI topics of childhood, child-life,
+    training, lactation, and initiation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: makers of poison
+  assigned_to:
+  - fig:1
+  basis: The heading names poison and poison-makers among Chapter X topics.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: subjects of childhood, training, and initiation
+  assigned_to:
+  - fig:2
+  basis: The heading names childhood, child-life and training, and initiation among
+    Chapter XI topics.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: named intoxicant or drug substances
+  literal_form: caapi, coca, parica, tobacco
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: poison
+  literal_form: poison
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: naming taboo
+  literal_form: taboo on names
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: initiation
+  taxonomy_refs:
+  - initiation
+  basis: The Chapter XI topic list explicitly includes initiation after childhood,
+    food restrictions, and child-life and training.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only a table-of-contents heading and gives no narrative
+    or ritual details.
+- id: motif:2
+  label: name taboo
+  taxonomy_refs: []
+  basis: The Chapter XI topic list includes a taboo on names.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage names the topic only; it does not describe the rule, context,
+    or consequences.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 209-214
+  quote_or_summary: "“Drinks, drugs, and poisons: their use and preparation--Unfermented
+    drinks--Caapi--Fermented drinks--Cahuana--Coca: its preparation, use, and abuse--Parica--Tobacco--Poison
+    and poison-makers”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 217-221
+  quote_or_summary: "“Small families--Birth tabu--Birth customs--Infant mortality--Infanticide--Couvade--Name-giving--Names--Tabu
+    on names--Childhood--Lactation--Food restrictions--Child-life and training--Initiation”"
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on explicit table-of-contents entries. Motif confidence
+    is limited because the passage lists topics rather than describing myths, scenes,
+    or ritual actions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage does not itself support cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l209-l221
+  passage_sha256=54ae30eff5b30dec77e8d9759702c6ed735fa6c09b3394274e565bc72c842551
+

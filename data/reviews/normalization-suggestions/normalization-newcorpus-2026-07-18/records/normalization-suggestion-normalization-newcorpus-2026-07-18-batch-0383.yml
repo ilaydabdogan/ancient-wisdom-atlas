@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0383
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-and-divine-name-origin-from-mythic-event
+  motif_id: place_name_and_divine_name_origin_from_mythic_event
+  label: Place-name and divine-name origin from mythic event
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes multiple toponymic and
+    etiological naming children from mythic events.
+  cautions: Divine-name origin may involve cult etiology rather than landscape naming;
+    verify whether the passage explains place, deity epithet, ritual, or all three.
+  suggested_aliases:
+  - place_name_etiology
+  - divine_name_etiology
+  - mythic_event_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-and-cult-customs-explained-by-divine-events
+  motif_id: place_names_and_cult_customs_explained_by_divine_events
+  label: Place names and cult customs explained by divine events
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Etiological explanation of place names fits the existing toponymic/etiological
+    strand under cosmic_origin.
+  cautions: The cult-custom component may also belong with sacred_law, sacrifice,
+    or sacred_time if the ritual practice is the main recurring pattern.
+  suggested_aliases:
+  - cult_custom_etiology
+  - place_name_etiology
+  - divine_event_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-assisted-ritual-influence-and-weather-control
+  motif_id: plant_assisted_ritual_influence_and_weather_control
+  label: Plant-assisted ritual influence and weather control
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Weather-influence ritual resembles the existing rainmaking/coercion child
+    under sacred_exchange more than a plant-symbol motif.
+  cautions: Plant use, ritual coercion, weather control, and sacred substance may
+    be distinct; culturally specific ritual evidence should be reviewed before final
+    mapping.
+  suggested_aliases:
+  - plant_assisted_weather_ritual
+  - ritual_weather_control
+  - rainmaking_with_plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-associated-ritual-healing-by-whipping
+  motif_id: plant_associated_ritual_healing_by_whipping
+  label: plant-associated ritual healing by whipping
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines plant use, healing rite, and whipping, but no existing
+    group cleanly captures ritual healing technique.
+  cautions: Culturally sensitive and likely context-dependent; avoid reducing to sacrifice,
+    sacred_law, or sacred_substance without source evidence.
+  suggested_aliases:
+  - plant_ritual_healing
+  - ritual_healing_by_whipping
+  - healing_rite_with_plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.planting-a-sacred-sign-in-new-territory
+  motif_id: planting_a_sacred_sign_in_new_territory
+  label: Planting a sacred sign in new territory
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Planting a sacred sign may function as territorial authorization or founding
+    of sacred-political order.
+  cautions: Could instead be boundary marking, portable sanctuary, axis-mundi planting,
+    or ritual possession of land; source context is needed.
+  suggested_aliases:
+  - sacred_territorial_sign
+  - territory_claimed_by_sacred_marker
+  - founding_sign_in_new_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poet-drawing-from-inherited-mythical-tradition
+  motif_id: poet_drawing_from_inherited_mythical_tradition
+  label: poet drawing from inherited mythical tradition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary dependence or poetic tradition rather than
+    a narrative or symbolic motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not use as
+    evidence for mythic transmission in this normalization task.
+  suggested_aliases:
+  - inherited_poetic_tradition
+  - poetic_use_of_mythic_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-expelled-from-a-sacred-animal-or-goddess-associated-animal
+  motif_id: poison_expelled_from_a_sacred_animal_or_goddess_associated_animal
+  label: poison expelled from a sacred animal or goddess-associated animal
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern healing, sacred animal symbolism, goddess agency,
+    or ritual expulsion, and current groups do not distinguish these clearly.
+  cautions: Do not map to mother_goddess or sacrifice solely from association with
+    a goddess or animal; verify narrative function of poison expulsion.
+  suggested_aliases:
+  - poison_expulsion_from_sacred_animal
+  - sacred_animal_poison_healing
+  - goddess_animal_poison_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-neutralized-by-divine-speech
+  motif_id: poison_neutralized_by_divine_speech
+  label: Poison neutralized by divine speech
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine utterance that neutralizes poison is a performative sacred speech
+    act that transforms reality.
+  cautions: If embedded in a formal healing rite, secondary review under divine_intervention
+    or sacred_law may be appropriate.
+  suggested_aliases:
+  - healing_by_divine_speech
+  - poison_charm_by_divine_words
+  - performative_speech_neutralizes_poison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-parent-sacrifices-savings-for-child-s-learning
+  motif_id: poor_parent_sacrifices_savings_for_child_s_learning
+  label: Poor parent sacrifices savings for child's learning
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an ethical family sacrifice rather than clearly a sacred
+    offering or recurring mythic motif.
+  cautions: Could fit sacrifice only metaphorically; may be a folktale detail about
+    parental devotion, poverty, or education and may not belong in divine-ritual queries.
+  suggested_aliases:
+  - parental_sacrifice_for_education
+  - sacrifice_for_child_learning
+  - poor_parent_supports_child_learning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-supplicant-delivered-by-divine-protector
+  motif_id: poor_supplicant_delivered_by_divine_protector
+  label: Poor supplicant delivered by divine protector
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A vulnerable supplicant rescued by a divine protector is direct sacred
+    action in human affairs.
+  cautions: If the emphasis is social justice or covenantal duty to the poor, sacred_law
+    or covenant may be useful secondary mappings.
+  suggested_aliases:
+  - divine_protection_of_supplicant
+  - poor_supplicant_delivered
+  - divine_deliverance_of_the_poor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-off labels are etiological or ritual-technique composites; final placement
+  should check whether the passage emphasizes place naming, cult custom, healing,
+  boundary marking, or divine agency.
+- No transmission or borrowing claims are implied by any suggested grouping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional suggestions generated for batch 0383; items with culturally specific
+    ritual healing or ambiguous sacred-animal functions are left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0383
+  input_sha256: 8b3010f30105c62c2c153f11ffb5c2eae365ccb25e06ea486e851fb2d6008993
+

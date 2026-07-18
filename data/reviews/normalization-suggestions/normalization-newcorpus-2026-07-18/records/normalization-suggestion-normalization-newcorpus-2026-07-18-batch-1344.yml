@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1344
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deceptive-companions-and-blamed-seducers
+  motif_id: deceptive_companions_and_blamed_seducers
+  label: Deceptive companions and blamed seducers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines deception, companionship, seduction, and blame without
+    enough evidence to identify the main narrative function.
+  cautions: Could be betrayal, false accusation, moral warning, gendered blame, or
+    passage-specific commentary; source context is needed.
+  suggested_aliases:
+  - deceptive companions
+  - blamed seducers
+  - false blame through seduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-distress-call-lures-away-a-guardian
+  motif_id: deceptive_distress_call_lures_away_a_guardian
+  label: deceptive distress call lures away a guardian
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false cry used to move a guardian from a protected threshold is a deception
+    strategy that breaches boundaries.
+  cautions: If the guardian role is more important than the deception, threshold_guardian
+    may be a secondary mapping.
+  suggested_aliases:
+  - false distress call
+  - deceptive cry lures guardian
+  - guardian lured away by false alarm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-exchange-of-a-magic-object
+  motif_id: deceptive_exchange_of_a_magic_object
+  label: Deceptive exchange of a magic object
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key object is a magical possession whose transfer or substitution
+    changes power or fortune.
+  cautions: Could also fit trickster if the emphasis is the deception rather than
+    the power object; preserve exchange details as evidence.
+  suggested_aliases:
+  - fraudulent exchange of magic object
+  - deceptive trade of power object
+  - magic object obtained by trickery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - betrayal_violated_trust
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-exterior-and-hollow-figure-image
+  motif_id: deceptive_exterior_and_hollow_figure_image
+  label: deceptive exterior and hollow figure image
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an image or idol-like figure with deceptive appearance,
+    but its narrative function is unclear.
+  cautions: May be a sacred craft object, idol polemic, deception motif, or contextual
+    artifact; avoid mapping without source evidence.
+  suggested_aliases:
+  - hollow figure image
+  - deceptive hollow image
+  - false exterior of an image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_treasures
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-food-concealing-a-stone
+  motif_id: deceptive_food_concealing_a_stone
+  label: deceptive food concealing a stone
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: narrower_than
+  confidence: medium
+  rationale: Concealing a stone in food is a trick or harmful deception using a disguised
+    object.
+  cautions: Likely too specific for canonical promotion; could map with deceptive_food_conceals_harmful_object
+    if both are same episode type.
+  suggested_aliases:
+  - stone hidden in food
+  - deceptive food with stone
+  - harmful object concealed in food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-food-conceals-harmful-object
+  motif_id: deceptive_food_conceals_harmful_object
+  label: Deceptive food conceals harmful object
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes deception through disguised food that causes harm,
+    matching trickster or predatory deception patterns.
+  cautions: If the setting is hospitality betrayal or poisoning, betrayal_violated_trust
+    may be a better secondary group.
+  suggested_aliases:
+  - harmful object hidden in food
+  - deceptive food trap
+  - food conceals injury object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-foreign-entanglement-in-cultic-transgression
+  motif_id: deceptive_foreign_entanglement_in_cultic_transgression
+  label: Deceptive foreign entanglement in cultic transgression
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes deception, foreign influence, and ritual transgression,
+    which could imply covenant violation or polemical framing.
+  cautions: Culturally sensitive and context-dependent; do not normalize as a general
+    motif without reviewing the passage and wording.
+  suggested_aliases:
+  - deception leading to cultic transgression
+  - foreign entanglement in ritual violation
+  - cultic transgression through deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-guidance-to-a-killing-place
+  motif_id: deceptive_guidance_to_a_killing_place
+  label: deceptive guidance to a killing-place
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Leading someone under false guidance to a place of death centers on betrayal
+    and violated trust.
+  cautions: If framed as a trickster escape or war stratagem, trickster or sacred_combat
+    may also apply.
+  suggested_aliases:
+  - false guidance to death
+  - lured to killing-place
+  - betrayal by deadly guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-healing-that-destroys-a-giant
+  motif_id: deceptive_healing_that_destroys_a_giant
+  label: Deceptive healing that destroys a giant
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A healing act used as deception to destroy a powerful being fits trickster
+    strategy against an opponent.
+  cautions: Could also be monster defeat or sacred combat if the giant is a chaos
+    enemy; current label is episode-specific.
+  suggested_aliases:
+  - false healing destroys giant
+  - healing trick kills giant
+  - deceptive cure as attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - conditional_invulnerability_hidden_weakness
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-host-steals-and-substitutes-a-magical-possession
+  motif_id: deceptive_host_steals_and_substitutes_a_magical_possession
+  label: Deceptive host steals and substitutes a magical possession
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A host abusing hospitality to steal and substitute a magical item foregrounds
+    violated guest-host trust.
+  cautions: Also relates to sacred_treasures because the possession is magical; if
+    the object's power drives the story, map there secondarily.
+  suggested_aliases:
+  - host steals magical possession
+  - substitution of magic object by host
+  - hospitality betrayal through theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - hospitality_test_stranger_guest
+    - trickster
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence deception scenes; preserve granular
+  wording as evidence and avoid promoting new canonical groups without recurrence.
+- Several items may support a future deception-stratagem subgroup, but existing trickster
+  and betrayal groups are sufficient for provisional query placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify episode context and
+    whether deception, object power, hospitality betrayal, or sacred law is primary.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1344
+  input_sha256: 5dccacf04d81cf22f41041cddc1fe27ea548334c99680028a9e3ad071af56f61
+

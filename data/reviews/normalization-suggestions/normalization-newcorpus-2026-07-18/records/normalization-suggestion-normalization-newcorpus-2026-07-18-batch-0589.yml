@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0589
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enemy-city-surveyed-before-assault
+  motif_id: enemy_city_surveyed_before_assault
+  label: Enemy city surveyed before assault
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Surveying an enemy city before assault is a military-preparation episode
+    within warfare narrative.
+  cautions: Single occurrence and may be a tactical plot detail rather than a durable
+    motif; confirm ritual or sacred-combat significance before indexing broadly.
+  suggested_aliases:
+  - reconnaissance_before_assault
+  - enemy_city_reconnaissance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-king-slain-in-private-chamber
+  motif_id: enemy_king_slain_in_private_chamber
+  label: Enemy king slain in private chamber
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label involves killing a hostile ruler, but the private-chamber setting
+    may indicate assassination, palace intrigue, or heroic combat.
+  cautions: Too context-dependent to map confidently; could belong to sacred_combat,
+    royal_legitimacy, betrayal_violated_trust, or be an episode-specific detail.
+  suggested_aliases:
+  - enemy_ruler_assassinated_in_private_chamber
+  - slaying_of_enemy_king_in_chamber
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-ruler-captured-in-an-earlier-conflict
+  motif_id: enemy_ruler_captured_in_an_earlier_conflict
+  label: Enemy ruler captured in an earlier conflict
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording mainly records backstory chronology about a captured enemy
+    ruler rather than a recurring symbolic or narrative function.
+  cautions: If the source makes captivity of a defeated king central to royal legitimacy,
+    humiliation, or later vengeance, remap under sacred_combat or royal_legitimacy.
+  suggested_aliases:
+  - prior_capture_of_enemy_ruler
+  - enemy_ruler_previously_captured
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-slain-at-a-ruler-s-feet
+  motif_id: enemy_slain_at_a_ruler_s_feet
+  label: enemy slain at a ruler's feet
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The spatial image of an enemy killed at a ruler's feet foregrounds sovereign
+    dominance and public validation of rule.
+  cautions: If the passage emphasizes battle honor or vengeance more than ruler-centered
+    submission, sacred_combat or divine_warrior may be better.
+  suggested_aliases:
+  - foe_slain_at_ruler_feet
+  - enemy_killed_before_the_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.entrapment-of-a-religious-authority-through-a-judgment-demand
+  motif_id: entrapment_of_a_religious_authority_through_a_judgment_demand
+  label: Entrapment of a religious authority through a judgment demand
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A demand for judgment used as a trap centers on legal or moral adjudication
+    under religious authority.
+  cautions: May instead be a debate, trick question, or authority-test episode; review
+    whether sacred judgment or social entrapment is the main function.
+  suggested_aliases:
+  - judgment_demand_as_trap
+  - religious_authority_entrapped_by_legal_question
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envoy-spared-from-execution-but-subjected-to-humiliating-punishment
+  motif_id: envoy_spared_from_execution_but_subjected_to_humiliating_punishment
+  label: Envoy spared from execution but subjected to humiliating punishment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The treatment of an envoy concerns social law, diplomatic obligation,
+    and limits on legitimate punishment.
+  cautions: If framed mainly as wartime reprisal or royal dominance, sacred_combat
+    or royal_legitimacy may also be relevant.
+  suggested_aliases:
+  - envoy_spared_but_humiliated
+  - diplomatic_immunity_with_humiliating_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eschatological-ordeal-of-heat-before-judgment
+  motif_id: eschatological_ordeal_of_heat_before_judgment
+  label: eschatological ordeal of heat before judgment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: high
+  rationale: An end-time ordeal immediately before judgment clearly belongs to sacred
+    judgment and moral reckoning.
+  cautions: Could receive secondary indexing under afterlife_passage if the passage
+    maps stages of postmortem or eschatological transit.
+  suggested_aliases:
+  - heat_ordeal_before_final_judgment
+  - eschatological_heat_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.estate-distribution-joined-to-charitable-obligation
+  motif_id: estate_distribution_joined_to_charitable_obligation
+  label: Estate distribution joined to charitable obligation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Inheritance or estate distribution bound to charity is a sacred-law and
+    social-care obligation.
+  cautions: If the passage emphasizes gift reciprocity with the divine rather than
+    legal obligation, sacred_exchange may be a useful secondary group.
+  suggested_aliases:
+  - inheritance_linked_to_charity
+  - charitable_obligation_in_estate_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethnographic-inversion-of-ordinary-social-roles
+  motif_id: ethnographic_inversion_of_ordinary_social_roles
+  label: ethnographic inversion of ordinary social roles
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Role inversion may be ritual, ethnographic description, satire, social
+    critique, or an otherworldly custom depending on source context.
+  cautions: The word 'ethnographic' may signal a scholarly or descriptive artifact;
+    review source evidence before mapping to sacred_law, duality, trickster, or exclusion.
+  suggested_aliases:
+  - social_role_inversion
+  - inversion_of_social_roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-animal-ancestry-explaining-social-traits
+  motif_id: etiological_animal_ancestry_explaining_social_traits
+  label: etiological animal ancestry explaining social traits
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An origin explanation from animal ancestry fits etiological ancestry
+    and people-origins already present under cosmic_origin.
+  cautions: Animal-ancestor and clan-origin material can be culturally sensitive;
+    if the passage emphasizes totemic identity or animal transformation, a more specific
+    future group may be warranted.
+  suggested_aliases:
+  - animal_ancestry_etiology
+  - animal_ancestor_explains_social_traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence military or political episode labels; preserve
+  as evidence details unless recurrence or sacred/social function is clear.
+- Avoid inferring transmission or common origin from shared placement in legal, combat,
+  or kingship groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for over-specific combat
+    and ethnographic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0589
+  input_sha256: adcc10c408e3541da3ecb32f0410a79482cbc5e8b92f030ca8e92a91ca8fdf8a
+

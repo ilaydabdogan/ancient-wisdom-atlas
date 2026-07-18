@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0943
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lightning-weapon-used-against-enemies
+  motif_id: lightning_weapon_used_against_enemies
+  label: lightning weapon used against enemies
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Lightning used as a weapon against enemies fits sacred combat imagery
+    when wielded by supernatural or heroic power.
+  cautions: Single occurrence; if the passage emphasizes weather symbolism rather
+    than combat, sacred_fire or divine_intervention may be secondary.
+  suggested_aliases:
+  - thunderbolt weapon
+  - lightning as weapon
+  - storm weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lightning-weapon-used-by-supernatural-helpers
+  motif_id: lightning_weapon_used_by_supernatural_helpers
+  label: Lightning weapon used by supernatural helpers
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural helpers using lightning centers on nonhuman aid in human
+    affairs, with lightning as the instrument.
+  cautions: Could also relate to divine_warrior if the combat role is primary; avoid
+    creating a storm-weapon group from one label.
+  suggested_aliases:
+  - supernatural helper wields lightning
+  - lightning aid in combat
+  - storm weapon helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liminal-bridge-encounter-with-otherworldly-adversary
+  motif_id: liminal_bridge_encounter_with_otherworldly_adversary
+  label: liminal bridge encounter with otherworldly adversary
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: A bridge encounter with an otherworldly adversary is a boundary-crossing
+    trial guarded or blocked by a liminal opponent.
+  cautions: If the adversary is not guarding passage but merely fought near a bridge,
+    sacred_combat may be a better secondary mapping.
+  suggested_aliases:
+  - bridge threshold adversary
+  - otherworldly bridge guardian
+  - liminal bridge combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-water-versus-broken-cisterns
+  motif_id: living_water_versus_broken_cisterns
+  label: living water versus broken cisterns
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Living water is sacred water imagery, but the contrast with broken cisterns
+    may be a theological metaphor rather than a narrative motif.
+  cautions: May be passage-specific exegesis or allegory; review whether it functions
+    as motif, ethical teaching, or textual commentary.
+  suggested_aliases:
+  - living water
+  - broken cisterns
+  - life-giving water contrasted with failed vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-inner-light-and-power-with-appeal-for-restoration
+  motif_id: loss_of_inner_light_and_power_with_appeal_for_restoration
+  label: loss of inner light and power with appeal for restoration
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss and sought restoration of inner light/power fits interior spiritual
+    transformation and recovery of sacred identity.
+  cautions: In Gnostic context this may need sensitive review; could also map to sacred_knowledge
+    or death_and_transformation depending on passage evidence.
+  suggested_aliases:
+  - inner light lost and restored
+  - restoration of spiritual light
+  - appeal for recovery of divine power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-recorded-tradition-by-fire
+  motif_id: loss_of_recorded_tradition_by_fire
+  label: loss of recorded tradition by fire
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe loss of records or transmission history
+    rather than a symbolic narrative motif.
+  cautions: If a source myth narrates sacred fire destroying knowledge, preserve as
+    evidence under sacred_knowledge or sacred_fire instead of excluding.
+  suggested_aliases:
+  - records destroyed by fire
+  - burned recorded tradition
+  - loss of textual tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-and-renewed-seal
+  motif_id: lost_and_renewed_seal
+  label: Lost and renewed seal
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A seal that is lost and renewed likely functions as a power object or
+    authority token restored to use.
+  cautions: If the seal is primarily a covenant sign, recognition token, or textual
+    seal, secondary mapping may be needed.
+  suggested_aliases:
+  - renewed seal
+  - lost sacred seal
+  - restored authority seal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-powerful-object-in-water-awaits-destined-recovery
+  motif_id: lost_powerful_object_in_water_awaits_destined_recovery
+  label: lost powerful object in water awaits destined recovery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A lost powerful object awaiting destined recovery is a sacred treasure
+    motif, with water as its hiding or liminal medium.
+  cautions: Could also relate to sacred_waters or recognition_tokens_hidden_identity
+    if recovery proves identity or kingship.
+  suggested_aliases:
+  - power object hidden in water
+  - destined recovery of lost treasure
+  - submerged sacred object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lowly-objects-reveal-hidden-magical-nature
+  motif_id: lowly_objects_reveal_hidden_magical_nature
+  label: lowly objects reveal hidden magical nature
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Ordinary or humble objects revealing magical nature fit the broader power-object
+    group.
+  cautions: If the emphasis is deceptive appearance or recognition, trickster or recognition_tokens_hidden_identity
+    may be more precise.
+  suggested_aliases:
+  - humble magical object
+  - ordinary object reveals power
+  - hidden nature of lowly objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-phases-explained-by-bodily-injury-or-dimmed-light
+  motif_id: lunar_phases_explained_by_bodily_injury_or_dimmed_light
+  label: Lunar phases explained by bodily injury or dimmed light
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological explanation for a celestial phenomenon, fitting
+    cosmic origin and etiological cosmos patterns.
+  cautions: May warrant a future celestial-etiology subgroup if many moon/sun origin
+    labels recur; avoid mapping to death_and_transformation unless bodily injury is
+    central narrative transformation.
+  suggested_aliases:
+  - lunar phase etiology
+  - moon phases from injury
+  - moonlight dimmed by bodily harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; single-occurrence labels should
+  not be promoted to taxonomy motifs without recurrence or strong source evidence.
+- Several labels use elemental imagery, but placement follows narrative function rather
+  than element alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated from supplied taxonomy and group
+    index.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0943
+  input_sha256: 8b4c038f5abd434dd823d3a8ea81e470780cf57e24e476ffe7c71ae95a34a9cd
+

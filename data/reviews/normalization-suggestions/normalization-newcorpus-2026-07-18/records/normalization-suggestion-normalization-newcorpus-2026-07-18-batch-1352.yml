@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1352
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.demonic-path-to-be-avoided
+  motif_id: demonic_path_to_be_avoided
+  label: Demonic path to be avoided
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe a moral or ritual prohibition against a harmful demonic
+    way, fitting sacred law only if the passage frames it as commanded avoidance.
+  cautions: Label is abstract and culturally sensitive; may be ethical teaching, demonological
+    taxonomy, or passage-specific wording.
+  suggested_aliases:
+  - avoidance_of_demonic_path
+  - demonic_way_as_forbidden_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-treasure-in-a-field
+  motif_id: demonic_treasure_in_a_field
+  label: Demonic treasure in a field
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A treasure associated with demonic power may fit sacred treasures if
+    it functions as a dangerous or enchanted power object.
+  cautions: Could instead be a place-specific episode, temptation motif, buried treasure
+    folklore, or demon encounter; field location is likely evidence detail.
+  suggested_aliases:
+  - demonic_treasure
+  - dangerous_supernatural_treasure
+  - enchanted_treasure_in_field
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonized-hostile-race
+  motif_id: demonized_hostile_race
+  label: Demonized hostile race
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a narrative enemy group coded as demonic, but
+    its function cannot be determined from the label alone.
+  cautions: Culturally sensitive and possibly an interpretive artifact; avoid normalizing
+    ethnic or class demonization without passage evidence and reviewer context.
+  suggested_aliases:
+  - hostile_race_as_demonic
+  - demonic_enemy_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonology
+  motif_id: demonology
+  label: demonology
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The term names a subject area or scholarly classification rather than
+    a specific narrative or symbolic motif.
+  cautions: If the passage contains specific demon roles, origins, bindings, afflictions,
+    or exorcism actions, those should be indexed separately.
+  suggested_aliases:
+  - demonological_material
+  - demonological_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demons-confined-in-a-portable-container
+  motif_id: demons_confined_in_a_portable_container
+  label: demons confined in a portable container
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A portable container that confines demons matches the sacred vessel group,
+    especially its sealed spirit vessel child pattern.
+  cautions: May also relate to divine_intervention or ritual_expulsion if the focus
+    is exorcistic action rather than the container itself.
+  suggested_aliases:
+  - sealed_demon_vessel
+  - portable_spirit_container
+  - demons_bound_in_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-of-resources-to-force-separation
+  motif_id: denial_of_resources_to_force_separation
+  label: denial of resources to force separation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a social coercion tactic, but its mythic function
+    is unclear without context.
+  cautions: Could be legal, familial, political, exile-related, or episode-specific;
+    do not map to sacred law or hero journey without evidence.
+  suggested_aliases:
+  - coercive_resource_denial
+  - forced_separation_by_deprivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.depleted-defenders-face-a-larger-remaining-army
+  motif_id: depleted_defenders_face_a_larger_remaining_army
+  label: Depleted defenders face a larger remaining army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The scene is a martial ordeal within battle, best preserved under sacred
+    combat if the source treats the combat as heroic or ritually significant.
+  cautions: Highly episode-specific; may be ordinary battle description rather than
+    a reusable motif.
+  suggested_aliases:
+  - outnumbered_depleted_defenders
+  - last_defenders_against_larger_army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.derisive-boast-before-reversal
+  motif_id: derisive_boast_before_reversal
+  label: derisive boast before reversal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A mocking boast followed by reversal fits the established hubris or boast-punishment
+    pattern.
+  cautions: If the reversal is merely tactical comedy or battlefield taunt without
+    moral humbling, keep as a local episode detail.
+  suggested_aliases:
+  - boast_before_reversal
+  - mocking_boast_punished
+  - derisive_boast_punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descending-and-shining-deity
+  motif_id: descending_and_shining_deity
+  label: descending and shining deity
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity appearing in radiant form and descending is likely a manifestation
+    of divine presence to witnesses.
+  cautions: Do not map to descent/underworld unless the downward motion enters a death
+    realm; if solar or fire symbolism dominates, sacred_fire may be secondary.
+  suggested_aliases:
+  - radiant_descending_deity
+  - shining_divine_descent
+  - descending_radiant_theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deserted-castle-as-companions-base
+  motif_id: deserted_castle_as_companions_base
+  label: deserted castle as companions’ base
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a setting or plot logistics detail rather than a recurring
+    symbolic motif.
+  cautions: If the deserted castle functions as an enchanted otherworld, threshold,
+    or ordeal space, remap with passage evidence; otherwise exclude from pattern queries.
+  suggested_aliases:
+  - deserted_castle_base
+  - abandoned_castle_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several demon-related labels are culturally sensitive or too broad; human review
+  should separate narrative demon agency from scholarly demonological classification.
+- Single-occurrence martial and setting labels may be over-specific evidence notes
+  rather than durable motif candidates.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1352
+  input_sha256: 266d036f97be0df48f3c7d2c1617ce2d6fedfb01c58733dbe5ce2e89a8d872bd
+

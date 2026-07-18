@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l16284-l16312
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    II,    IO5-II6.  273 / CHAPTER    II,   II  7-1  22.  275 / T    2
+    / Chapter  III.; lines 16284-16312
+  start: '16284'
+  end: '16312'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules about pollution affecting the clothing of a menstruating
+    woman, furnishings in a bedchamber, and related purification principles cited
+    in notes from the Pahlavi Vendidad concerning fruit rinds, washing, meat, milk,
+    and clothing used within the place set apart for menstruation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: New clothing taken for a menstruating woman's use is described as polluted.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Clothing already in use by the menstruating woman is described as not polluted.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage mentions a bedchamber that is overspread, with a carpet laid upon
+    it and a cushion on two parts of it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note states that articles separated from pollution have washing available,
+    except for meat and milk.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note states that clothing worn by a woman in the place where she remains
+    for the purpose does not become polluted and remains for use within that place.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note discusses fruit with a rind or pod as distinct from items without a
+    rind when pollution comes upon them.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: menstruous woman
+  description: A woman whose clothing and designated place are discussed in relation
+    to pollution rules.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: subject of purity regulation
+  assigned_to:
+  - fig:1
+  basis: The passage and note describe what clothing for the menstruating woman is
+    polluted or not polluted and how clothing within her designated place is treated.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: clothing
+  literal_form: clothing of a menstruating woman
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: bedchamber
+  literal_form: overspread bedchamber with carpet and cushion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: milk
+  literal_form: milk listed among articles for which there is no washing
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fruit rind
+  literal_form: rind or pod of fruit discussed in relation to pollution and cleansing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rules for clothing and place of a menstruating woman
+  summary: The passage states contrasting rules for new and already-used clothing
+    of a menstruating woman, and describes furnishings in a bedchamber.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Notes on purification and washable articles
+  summary: The notes cite Pahlavi Vendidad rules about washing, exceptions such as
+    meat and milk, and the treatment of fruit with or without a rind.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Note on clothing within the designated place
+  summary: A note cites a rule that clothing worn by the woman in the place where
+    she remains for the purpose does not become polluted and remains for use there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: menstrual pollution and restricted-use objects
+  taxonomy_refs: []
+  basis: The passage distinguishes polluted and non-polluted clothing in relation
+    to a menstruating woman and describes clothing retained for use within a designated
+    place.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a ritual purity/legal pattern rather than a narrative mythic motif;
+    no supplied motif-family taxonomy item directly matches it.
+- id: motif:2
+  label: washing as purification with named exceptions
+  taxonomy_refs: []
+  basis: A note states that separated things may be washed, while meat and milk are
+    exceptions for which there is no washing.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as a legal purification rule; broader symbolic
+    or comparative interpretation is not stated.
+- id: motif:3
+  label: protective boundary of rind or covering against pollution
+  taxonomy_refs: []
+  basis: A note contrasts fruit with a rind or pod and items without a rind when pollution
+    comes upon them, linking the presence of a covering to cleansing status.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage discusses practical purity rules; any symbolic reading of
+    the rind as boundary is inferential and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage's purity rules are explicitly supported by citations to Pahlavi
+    Vendidad passages on pollution, washing, and the menstruating woman's designated
+    place.
+  claim_level: same_function
+  target: Pahlavi Vendidad purity regulations cited in the notes
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt only gives brief cited notes and does not provide
+    the full Vendidad context; the claim is limited to shared regulatory function,
+    not historical contact beyond the cited textual relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16284-16288
+  quote_or_summary: The opening rule states that new clothing taken for a menstruating
+    woman's use is polluted, while clothing already in use is not polluted.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 16288-16291
+  quote_or_summary: The passage mentions an overspread bedchamber with a carpet laid
+    on it and a cushion placed on two parts of it.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: note 2 within supplied passage
+  quote_or_summary: A note citing Pahlavi Vendidad VII, 93 says that separated items
+    may be washed except meat and milk, and adds that articles for which there is
+    no washing cannot be purified.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: note 3 within supplied passage
+  quote_or_summary: A note citing Pahlavi Vendidad XVI, 5 says that clothing worn
+    by the woman in the place where she remains for the purpose does not become polluted
+    and remains usable within that place.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: note 1 within supplied passage
+  quote_or_summary: A note citing Pahlavi Vendidad VII, 93 discusses fruit with a
+    rind or pod and states that items without a rind cannot be cleansed when pollution
+    comes upon them; the citron is mentioned as having a rind.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: note
+  locator: note 4 within supplied passage
+  quote_or_summary: A note reports that the phrase about the carpet and cushion is
+    omitted in manuscript K20 by mistake.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is primarily ritual-legal material with translator notes, not
+    a narrative myth passage. Literal extraction is relatively clear, but motif labeling
+    is cautious because the supplied motif taxonomy lacks a direct purity-law category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures beyond the menstruating woman are identified. Taxonomy references are used only where directly supported by supplied available symbols.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l16284-l16312
+  passage_sha256=29ecc84cf16d9eaa04735c652d40f0add82919447ac09aa8cc808abaa9ace6a1
+

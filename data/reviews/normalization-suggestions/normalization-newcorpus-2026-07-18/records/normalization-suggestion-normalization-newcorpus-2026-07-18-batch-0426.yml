@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0426
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-animal-sign-violated
+  motif_id: sacred_animal_sign_violated
+  label: sacred animal sign violated
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred animal sign whose violation matters is best treated as a ritual
+    prohibition or sacred-law boundary.
+  cautions: Single occurrence; if the passage emphasizes punishment for violation,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - sacred animal taboo violated
+  - violation of sacred animal prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-sign-with-prohibition-against-harm
+  motif_id: sacred_animal_sign_with_prohibition_against_harm
+  label: Sacred animal sign with prohibition against harm
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label explicitly centers on a prohibition against harming a sacredly
+    marked animal, fitting sacred law and taboo.
+  cautions: May also touch divine_intervention if the animal sign functions as a miracle
+    rather than mainly a prohibition.
+  suggested_aliases:
+  - prohibition against harming sacred animal
+  - sacred animal protection taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-taboo-around-bears
+  motif_id: sacred_animal_taboo_around_bears
+  label: Sacred-animal taboo around bears
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo governing conduct around a sacred animal fits the sacred-law/purity-prohibition
+    complex.
+  cautions: Culturally specific bear traditions need source review; if the bear is
+    an ancestor, helper, or transformed being, other mappings may be needed.
+  suggested_aliases:
+  - bear taboo
+  - sacred bear prohibition
+  - sacred animal taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-approach-through-holy-hill-footstool-gates-and-courts
+  motif_id: sacred_approach_through_holy_hill_footstool_gates_and_courts
+  label: Sacred approach through holy hill, footstool, gates, and courts
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: Holy hill, gates, courts, and divine footstool imagery mark a sacred
+    center approached through ordered thresholds.
+  cautions: Composite and passage-specific; if the focus is temple liturgy rather
+    than cosmic center, world_center or sacred_law may be more precise in review.
+  suggested_aliases:
+  - sacred approach to holy hill
+  - temple approach through gates and courts
+  - approach to sacred center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-assembly-challenged-by-commerce-and-spectacle
+  motif_id: sacred_assembly_challenged_by_commerce_and_spectacle
+  label: Sacred assembly challenged by commerce and spectacle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between sacred assembly and commerce/spectacle frames communal
+    obligation and proper sacred order.
+  cautions: Could be an ethical teaching or contextual legal passage rather than a
+    reusable mythic motif; review with passage evidence.
+  suggested_aliases:
+  - commerce distracting from sacred assembly
+  - sacred gathering challenged by trade
+  - sacred assembly versus spectacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-assembly-interrupts-commerce
+  motif_id: sacred_assembly_interrupts_commerce
+  label: Sacred assembly interrupts commerce
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred assembly taking precedence over commerce expresses ritually ordered
+    social obligation.
+  cautions: Likely a legal-ethical rule; avoid treating as a narrative motif unless
+    it recurs structurally across sources.
+  suggested_aliases:
+  - sacred gathering suspends trade
+  - commerce halted for sacred assembly
+  - ritual assembly over commerce
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-asylum-halts-vengeance
+  motif_id: sacred_asylum_halts_vengeance
+  label: Sacred asylum halts vengeance
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: A protected sacred space stopping retaliation is a strong sacred-law
+    and social-order motif.
+  cautions: May also relate to covenant, mercy, or sanctuary-space motifs if those
+    become more explicit in the evidence.
+  suggested_aliases:
+  - sanctuary halts vengeance
+  - sacred refuge stops retaliation
+  - asylum protection from vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-authority-centered-in-the-bishop
+  motif_id: sacred_authority_centered_in_the_bishop
+  label: Sacred authority centered in the bishop
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ecclesiastical hierarchy or passage commentary
+    rather than a cross-cultural motif.
+  cautions: Could map to royal_legitimacy or sacred_law if the bishop functions as
+    divinely sanctioned authority, but source context is required.
+  suggested_aliases:
+  - episcopal sacred authority
+  - bishop as sacred authority center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-battle-array-as-unified-body
+  motif_id: sacred_battle_array_as_unified_body
+  label: Sacred battle-array as unified body
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif sacralizes battle formation and collective combat as an ordered
+    unified body.
+  cautions: If the focus is communal discipline rather than warfare, sacred_law could
+    be a secondary review option.
+  suggested_aliases:
+  - battle line as unified body
+  - sacralized battle formation
+  - unified sacred battle array
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bell-promising-release-from-suffering
+  motif_id: sacred_bell_promising_release_from_suffering
+  label: Sacred bell promising release from suffering
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bell with promised liberating power functions as a sacred object or
+    power object.
+  cautions: If the bell's sound itself causes release, enchanting_music or sacred_knowledge
+    may be relevant; if tied to relic devotion, preserve that local detail.
+  suggested_aliases:
+  - miraculous bell of release
+  - sacred bell as power object
+  - bell promising liberation from suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual/legal formulations; suggested
+  placements are provisional and should preserve passage context.
+- Animal taboo labels were placed under sacred_law rather than a new sacred-animal
+  group because existing sacred_law already contains animal taboo and ritual prohibition
+  children.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft suggestions only; human review should verify source evidence, especially
+    culturally specific animal taboos and ecclesiastical authority labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0426
+  input_sha256: 8a8574710f99eb25952bda710f98e16143d7bf36f48031de241aa040eac4847f
+

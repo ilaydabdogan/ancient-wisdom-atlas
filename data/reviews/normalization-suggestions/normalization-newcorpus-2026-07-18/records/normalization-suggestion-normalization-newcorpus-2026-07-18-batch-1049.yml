@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1049
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiology-of-human-caution-toward-bears
+  motif_id: etiology_of_human_caution_toward_bears
+  label: etiology of human caution toward bears
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears etiological and animal-related, but the function is
+    unclear from wording alone.
+  cautions: Single occurrence; could be animal-danger lore, etiological origin, taboo
+    instruction, or passage-specific explanation. Inuit bear traditions may be culturally
+    sensitive and should be reviewed with source context.
+  suggested_aliases:
+  - bear caution etiology
+  - human caution toward bears
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exaggerated-destructive-weapon
+  motif_id: exaggerated_destructive_weapon
+  label: Exaggerated destructive weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destructive weapon is best treated as a power object when its extraordinary
+    force is the salient motif.
+  cautions: If the passage emphasizes comic hyperbole or battle action rather than
+    an empowered object, sacred_combat or exclusion as an episode detail may be better.
+  suggested_aliases:
+  - destructive power weapon
+  - marvelous destructive weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-hero-marked-by-splendid-weapons-and-garments
+  motif_id: exceptional_hero_marked_by_splendid_weapons_and_garments
+  label: exceptional hero marked by splendid weapons and garments
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Splendid weapons and garments function as visible markers of heroic identity,
+    rank, or recognition.
+  cautions: Could also map to sacred_treasures if the objects themselves confer power,
+    or royal_legitimacy if the emphasis is status and lineage. Single occurrence may
+    be too descriptive.
+  suggested_aliases:
+  - hero identified by splendid arms
+  - hero marked by splendid garments
+  - visible heroic identity tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-hunter-whose-prey-comes-homeward
+  motif_id: exceptional_hunter_whose_prey_comes_homeward
+  label: Exceptional hunter whose prey comes homeward
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve supernatural hunting luck, animal agency, or abundance,
+    none of which has a clean existing group fit.
+  cautions: Single occurrence and culturally specific; source evidence is needed to
+    distinguish hunter prowess, animal-helper reciprocity, ritual relation to prey,
+    or narrative detail.
+  suggested_aliases:
+  - prey returns homeward to hunter
+  - supernaturally successful hunter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.excessive-wound-blood-as-torrent-and-vessel-filling-abundance
+  motif_id: excessive_wound_blood_as_torrent_and_vessel_filling_abundance
+  label: Excessive wound-blood as torrent and vessel-filling abundance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on blood as an abundant potent substance flowing from
+    a wound and filling a vessel.
+  cautions: Could instead belong under sacred_law via blood_as_life, sacrifice if
+    the wound is offering-like, or sacred_vessel if the container is central. Preserve
+    the wound-torrent imagery as evidence detail.
+  suggested_aliases:
+  - blood torrent abundance
+  - wound blood fills vessel
+  - excessive blood as sacred substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exchange-of-weapons-before-battle
+  motif_id: exchange_of_weapons_before_battle
+  label: exchange of weapons before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Weapon exchange before combat is a battle-rite or martial protocol within
+    sacred combat scenes.
+  cautions: If the exchange functions mainly as gift reciprocity, oath, or identity
+    proof, sacred_exchange, covenant, or recognition_tokens_hidden_identity may be
+    secondary. Single occurrence may be contextual.
+  suggested_aliases:
+  - pre-battle weapon exchange
+  - ritual exchange of weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.execution-stayed-by-warrior-s-intercession
+  motif_id: execution_stayed_by_warrior_s_intercession
+  label: Execution stayed by warrior's intercession
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intercession that prevents execution aligns with mercy, pardon, and supplication
+    motifs already grouped under covenant.
+  cautions: If the scene is a royal judgment or legal reprieve, divine_judgment or
+    royal_legitimacy may be more appropriate. If no sacred or ethical bond is present,
+    it may be an episode detail.
+  suggested_aliases:
+  - warrior intercession stays execution
+  - execution reprieved by intercession
+  - mercy through warrior intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposure-and-killing-of-a-praised-rival-warrior
+  motif_id: exposure_and_killing_of_a_praised_rival_warrior
+  label: exposure and killing of a praised rival warrior
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a specific rival-warrior episode, but its reusable
+    motif function is unclear.
+  cautions: Could involve jealousy, heroic combat, betrayal, or political elimination.
+    Single occurrence and contextual wording argue against direct canonical placement
+    without source review.
+  suggested_aliases:
+  - killing of praised rival warrior
+  - rival warrior exposed and slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - betrayal_violated_trust
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extinction-of-a-heroic-kin-line
+  motif_id: extinction_of_a_heroic_kin_line
+  label: extinction of a heroic kin-line
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The extinction of a heroic lineage often functions as fated doom or unavoidable
+    dynastic death in heroic tradition.
+  cautions: If the passage emphasizes mourning, vengeance, or social collapse rather
+    than fate, lament_and_mourning, sacred_combat, or divine_judgment may be better.
+    Source context needed.
+  suggested_aliases:
+  - doom of a heroic kin-line
+  - heroic lineage extinction
+  - fated end of heroic kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-companions-solve-consumption-and-heat-trials
+  motif_id: extraordinary_companions_solve_consumption_and_heat_trials
+  label: Extraordinary companions solve consumption and heat trials
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Extraordinary Helpers and Impossible Tasks
+  relationship: narrower_than
+  confidence: medium
+  rationale: The recurring structure is a hero aided by specialized companions who
+    overcome impossible ordeals, not simply combat or initiation.
+  cautions: Current groups can hold trials generally under initiation or hero_journey,
+    but they lose the helper-companion task-solving pattern. Human review should confirm
+    recurrence beyond this label.
+  suggested_aliases:
+  - extraordinary companions solve trials
+  - supernatural helpers complete impossible tasks
+  - helper companions in ordeal tasks
+  suggested_new_group:
+    id: extraordinary_helpers_impossible_tasks
+    label: Extraordinary Helpers and Impossible Tasks
+    description: A hero or seeker is aided by companions with specialized powers who
+      solve impossible tasks, ordeals, contests, or survival trials that the main
+      figure cannot complete alone.
+    parent_group_ids:
+    - hero_journey
+    - initiation
+    related_group_ids:
+    - divine_intervention
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: Existing hero_journey and initiation groups
+      cover trials broadly, but not the distinctive helper-companion structure that
+      resolves impossible tasks.
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; placements
+  should be treated as provisional evidence organization, not taxonomy edits.
+- Conflict-bucket labels often mix martial action, object power, recognition, mercy,
+  and fate; source context is needed before narrowing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 1049.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1049
+  input_sha256: 372658e56a7867723f1ea4f16363dcebb9683b0e222088764624b315e7837331
+

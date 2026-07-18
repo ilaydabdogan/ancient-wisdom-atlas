@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l9013-l9183
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER V. 5-17 45 / CHAPTER V. 18-28 47 / CHAPTERS V. 29-VI. 4 49 / CHAPTER
+    VI. 5-16 51; lines 9013-9183
+  start: '9013'
+  end: '9183'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: He set His bow in the cloud for a sign of the eternal covenant...
+  summary: The passage links covenant, blood prohibitions, altar supplication, the
+    sign of the bow in the cloud after the flood, and the yearly feast of weeks as
+    a recurring renewal of covenant. It narrates observance and neglect of the feast
+    from creation, Noah, the patriarchs, and Israel at the mountain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A covenant with the children of Israel is to be made in a specified month
+    upon the mountain with an oath, and blood is to be sprinkled on them because of
+    the covenant words.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage forbids eating the blood of beasts, birds, or cattle and states
+    that one who eats blood, together with his seed, shall be rooted out of the land.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The children of Israel are to supplicate with blood before the altar, morning
+    and evening, seeking forgiveness before the Lord.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God gave Noah and his sons a sign that there should not again be a flood on
+    the earth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: God set his bow in the cloud as a sign of the eternal covenant that there
+    should not again be a flood destroying the earth.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The feast of weeks is said to be ordained and written on the heavenly tables
+    for annual celebration and renewal of the covenant.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The festival is described as celebrated in heaven from creation to the days
+    of Noah, observed by Noah and his sons, discontinued by Noah’s sons after his
+    death, observed by Abraham, Isaac, Jacob, and Jacob’s children, forgotten by Israel,
+    and renewed on the mountain.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The children of Israel are commanded to observe the feast of weeks in all
+    generations, one day in the year in the specified month.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Lord / God
+  description: The divine figure who makes the covenant, commands law, gives the sign
+    to Noah and his sons, and sets the bow in the cloud.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Addressed recipient
+  description: The figure addressed as “thou,” instructed to command the children
+    of Israel and associated with the covenant on the mountain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Children of Israel
+  description: The community commanded to avoid blood, supplicate before the altar,
+    and observe the feast of weeks throughout generations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Noah and his sons
+  description: Recipients of the sign that there should not again be a flood; also
+    described as observing the festival for a set period.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Noah’s sons after Noah’s death
+  description: The group said to have done away with the festival after Noah’s death
+    and to have eaten blood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Abraham, Isaac, Jacob, and Jacob’s children
+  description: Patriarchal figures and descendants described as observing the festival
+    before Israel later forgot it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Covenant giver and sign setter
+  assigned_to:
+  - fig:1
+  basis: The Lord makes covenantal commands, gives Noah and his sons a sign, and sets
+    the bow in the cloud as covenant sign.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Commanded mediator
+  assigned_to:
+  - fig:2
+  basis: The addressed figure is told to command the children of Israel regarding
+    blood and festival observance.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: Covenant community under ritual obligations
+  assigned_to:
+  - fig:3
+  basis: The children of Israel are commanded not to eat blood, to seek forgiveness
+    with blood before the altar, and to observe the feast in all generations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:4
+  label: Ancestral covenant and festival observers
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Noah and his sons, and later Abraham, Isaac, Jacob, and Jacob’s children,
+    are described as observing the festival.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Festival discontinuers and blood eaters
+  assigned_to:
+  - fig:5
+  basis: After Noah’s death, Noah’s sons are said to have done away with the festival
+    and eaten blood.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Blood
+  literal_form: Blood of beasts, birds, cattle; blood sprinkled in covenant; blood
+    before the altar for supplication
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Mountain
+  literal_form: The mountain where the covenant is made and where Israel celebrates
+    the festival anew
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: Bow in the cloud
+  literal_form: God’s bow set in the cloud as sign of the eternal covenant
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Flood
+  literal_form: Flood on the earth that is not to occur again for destruction
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Heavenly tables
+  literal_form: Heavenly tables on which the ordinance of the feast of weeks is written
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Feast of weeks
+  literal_form: Annual festival in the specified month for renewing the covenant
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: Altar
+  literal_form: Altar before which blood supplication is made morning and evening
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mountain covenant and blood commands
+  summary: The addressed recipient is told that a covenant with Israel is to be made
+    on the mountain with an oath and sprinkled blood, and Israel is commanded not
+    to eat blood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Altar supplication with blood
+  summary: Israel is instructed to seek forgiveness perpetually before the Lord with
+    blood before the altar, morning and evening.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sign after the flood
+  summary: God gives Noah and his sons a sign that there will not again be a flood
+    on the earth, setting the bow in the cloud as sign of the eternal covenant.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Yearly renewal of covenant through feast of weeks
+  summary: The feast of weeks is written on heavenly tables and ordained for yearly
+    covenant renewal.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Transmission, neglect, and restoration of festival observance
+  summary: The festival is said to move through a sequence of heavenly celebration,
+    Noachic observance, post-Noah neglect, patriarchal observance, Israelite forgetting,
+    and renewed celebration on the mountain.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Covenant marked by an enduring visible sign
+  taxonomy_refs:
+  - covenant
+  basis: The bow in the cloud is explicitly identified as a sign of the eternal covenant.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage identifies the sign and covenant directly; broader symbolic
+    interpretation of the bow is not stated.
+- id: motif:2
+  label: Flood restrained from recurring destruction
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The sign to Noah and his sons guarantees that there should not again be a
+    flood on the earth to destroy it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage refers to prevention of another flood rather than narrating
+    the original flood event in detail.
+- id: motif:3
+  label: Blood as covenantal boundary and altar medium
+  taxonomy_refs:
+  - covenant
+  - sacrifice
+  basis: Blood is used in covenant sprinkling, prohibited as food, and used before
+    the altar in supplication for forgiveness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions blood before the altar and forgiveness, but does
+    not describe a full sacrificial procedure in this excerpt.
+- id: motif:4
+  label: Annual ritual renewal of covenant
+  taxonomy_refs:
+  - covenant
+  - seasonal_cycle
+  basis: The feast of weeks is ordained once a year to renew the covenant and is commanded
+    for all generations.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The yearly timing is explicit; details of the festival rite are not given
+    in this excerpt.
+- id: motif:5
+  label: Mountain covenant assembly
+  taxonomy_refs:
+  - covenant
+  basis: The covenant with Israel is made in the month upon the mountain with an oath,
+    and Israel later celebrates the festival anew on the mountain.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The mountain is prominent as covenant setting, but the passage does not
+    develop a broader cosmic-mountain motif.
+- id: motif:6
+  label: Written heavenly ordinance
+  taxonomy_refs:
+  - covenant
+  - wisdom
+  basis: The annual feast for covenant renewal is said to be ordained and written
+    on the heavenly tables.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states heavenly inscription but does not elaborate a wisdom-revelation
+    scene beyond that statement.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s bow-in-cloud covenant sign is explicitly aligned by the editorial
+    note with Genesis 9:13-15.
+  claim_level: same_motif
+  target: Genesis 9:13-15 flood covenant and rainbow sign
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the excerpt and its note; it does not establish
+    historical dependence beyond the cited textual comparison.
+- id: claim:2
+  claim: The blood-eating prohibition and blood-related atonement language are linked
+    by the notes to Leviticus 17 and Deuteronomy 12 legal traditions.
+  claim_level: same_function
+  target: Leviticus 17; Deuteronomy 12 blood prohibition and atonement traditions
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns legal and ritual function; the excerpt does
+    not provide detailed sacrificial law equivalence.
+- id: claim:3
+  claim: The mountain covenant in the third month is connected by the note with the
+    Sinai lawgiving tradition in Exodus 19:1.
+  claim_level: same_function
+  target: Exodus 19:1 Sinai lawgiving in the third month
+  evidence_refs:
+  - ev:1
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage excerpt itself says only 'upon the mountain'; the Sinai
+    identification comes from the included editorial note.
+- id: claim:4
+  claim: The feast of weeks is treated as a covenant-renewal festival and is connected
+    in the notes with biblical and later traditions concerning the Feast of Weeks/Pentecost.
+  claim_level: same_function
+  target: Feast of Weeks / Pentecost traditions in Exodus 34:22 and later Jewish interpretation
+    noted in the excerpt
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The notes also state that the text is not acquainted with the more
+    familiar designation Pentecost, so the comparison should not collapse the Jubilees
+    usage into later terminology.
+evidence:
+- id: ev:1
+  type: quote
+  locator: VI.11
+  quote_or_summary: "“make a covenant with the children of Israel in this month upon
+    the mountain with an oath,” and “sprinkle blood upon them.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: VI.12-13
+  quote_or_summary: The passage commands that no blood of beasts, birds, or cattle
+    be eaten; the person who eats blood and his seed are to be rooted out of the land.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: VI.14
+  quote_or_summary: The law is said to be forever; the people are to supplicate with
+    blood before the altar morning and evening, seeking forgiveness before the Lord.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: VI.15-16
+  quote_or_summary: God gives Noah and his sons a sign against another flood and “set
+    His bow in the cloud for a sign of the eternal covenant.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: VI.17
+  quote_or_summary: "“ordained and written on the heavenly tables” that the feast
+    of weeks be celebrated once a year “to renew the covenant every year.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: VI.18-19
+  quote_or_summary: The festival was celebrated in heaven from creation to Noah, observed
+    by Noah and sons until Noah’s death, abandoned by his sons who ate blood, observed
+    by Abraham, Isaac, Jacob, and Jacob’s children, forgotten by Israel, and renewed
+    on the mountain.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: VI.20-21
+  quote_or_summary: The addressed figure is to command Israel to observe the festival
+    throughout generations, one day in the year in the specified month; it is identified
+    as the feast of weeks.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: Editorial note on VI.15-16
+  quote_or_summary: The note compares the bow in the clouds and covenant with Genesis
+    9:13-15 and says the text returns to the covenant of Noah.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized editorial note.
+- id: ev:9
+  type: note
+  locator: Editorial notes on VI.12, VI.14, VI.18
+  quote_or_summary: The notes compare the blood prohibition with Leviticus 17:10,
+    12, 14 and Deuteronomy 12:28, and compare blood supplication with Leviticus 17:11.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized editorial note.
+- id: ev:10
+  type: note
+  locator: Editorial note on VI.11
+  quote_or_summary: The note states that the law was given on Sinai in the third month
+    according to Exodus 19:1.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized editorial note.
+- id: ev:11
+  type: note
+  locator: Editorial notes on VI.17-18 and VI.21
+  quote_or_summary: The notes discuss the feast of weeks in connection with Noah,
+    the date of the covenant, Exodus 34:22, and later terminology of Pentecost, while
+    noting that this text does not use the more familiar designation Pentecost.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Primary passage details are explicit. Some comparison claims depend on included
+    editorial notes rather than the narrative text alone, and motif labels remain
+    candidates for human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references. No external taxonomy IDs were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l9013-l9183
+  passage_sha256=948f2c7536f81235a0824236d9d9561ec56fa6e6aa348d9f0d2dd6e54c59948e
+

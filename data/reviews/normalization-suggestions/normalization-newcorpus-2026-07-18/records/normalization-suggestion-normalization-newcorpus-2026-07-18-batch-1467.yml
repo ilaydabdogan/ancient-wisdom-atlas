@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1467
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lowly-or-mocked-suitor-wins-a-princess
+  motif_id: lowly_or_mocked_suitor_wins_a_princess
+  label: Lowly or mocked suitor wins a princess
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The suitor contest and princess-winning pattern fits the existing marriage
+    choice / bride-winning area under sacred_love.
+  cautions: May instead be a status reversal, royal legitimacy, or trickster-disguise
+    episode depending on evidence; single occurrence is over-specific.
+  suggested_aliases:
+  - mocked suitor wins bride
+  - lowly suitor bride-winning
+  - despised suitor wins princess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lowly-or-ugly-suitor-mocked-at-royal-court
+  motif_id: lowly_or_ugly_suitor_mocked_at_royal_court
+  label: lowly or ugly suitor mocked at royal court
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: This may be the setup for a bride-winning or hidden-worth suitor episode,
+    which is currently closest to sacred_love.
+  cautions: The label describes a scene of mockery rather than the completed motif;
+    could be court status reversal, disguise, or episode detail. Review before indexing
+    broadly.
+  suggested_aliases:
+  - mocked suitor at court
+  - ugly suitor mocked
+  - low-status suitor mocked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-champion-liberates-a-captive-sovereign
+  motif_id: loyal_champion_liberates_a_captive_sovereign
+  label: loyal champion liberates a captive sovereign
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Freeing a captive sovereign restores rightful rule and political order,
+    aligning with royal legitimacy.
+  cautions: If the passage emphasizes combat more than restoration of rule, sacred_combat
+    or divine_warrior may be a secondary fit.
+  suggested_aliases:
+  - champion rescues captive king
+  - liberation of captive sovereign
+  - loyal warrior restores ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-beside-the-mocked-outsider
+  motif_id: loyal_companion_beside_the_mocked_outsider
+  label: loyal companion beside the mocked outsider
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on companionship and loyalty, but the current groups
+    do not clearly cover faithful companion roles.
+  cautions: Could be a contextual episode supporting a mocked hero, culture hero,
+    initiation, or social exclusion pattern; source evidence is needed.
+  suggested_aliases:
+  - faithful companion of outsider
+  - loyal companion to mocked figure
+  - companion supports outcast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-keeps-night-watch
+  motif_id: loyal_companion_keeps_night_watch
+  label: Loyal companion keeps night watch
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A faithful companion keeping vigil is a role/scene motif not cleanly
+    represented in the existing normalization groups.
+  cautions: May indicate protective guardianship, ordeal, devotion, or passage-specific
+    narrative detail; do not map to threshold_guardian unless a boundary-passage function
+    is present.
+  suggested_aliases:
+  - faithful companion keeps vigil
+  - loyal night watch
+  - companion vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-succors-lord-at-need
+  motif_id: loyal_companion_succors_lord_at_need
+  label: loyal companion succors lord at need
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: low
+  rationale: Loyal service to a lord can express a binding social obligation analogous
+    to covenantal or oath-bound relationship.
+  cautions: This may be secular heroic loyalty rather than sacred covenant; consider
+    royal_legitimacy if the lord's authority is central.
+  suggested_aliases:
+  - faithful retainer aids lord
+  - loyal companion aids lord
+  - oath-bound helper succors lord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-helper-condemned-after-saving-acts
+  motif_id: loyal_helper_condemned_after_saving_acts
+  label: loyal helper condemned after saving acts
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A saving helper wrongly condemned fits the false-accusation/vindication
+    and moral reckoning cluster already under divine_judgment.
+  cautions: If no vindication or moral reversal occurs, this may be an episode-specific
+    betrayal or misrecognition detail.
+  suggested_aliases:
+  - faithful helper falsely condemned
+  - rescuer condemned after service
+  - loyal servant punished despite aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-obedience-contrasted-with-prior-refusal
+  motif_id: loyal_obedience_contrasted_with_prior_refusal
+  label: loyal obedience contrasted with prior refusal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Obedience versus refusal to sacred command fits sacred law and moral
+    order, especially where submission to divine command is central.
+  cautions: Could also map to covenant or divine_judgment if the passage emphasizes
+    broken bond or punishment for refusal.
+  suggested_aliases:
+  - obedience contrasted with refusal
+  - loyal submission to command
+  - refusal and obedience contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-protectors-aid-a-threatened-prince
+  motif_id: loyal_protectors_aid_a_threatened_prince
+  label: Loyal protectors aid a threatened prince
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A threatened prince protected by loyal helpers resembles the protected
+    or endangered child/prince pattern within miraculous_child.
+  cautions: If the prince is already ruling or the emphasis is succession, royal_legitimacy
+    may be a better primary group.
+  suggested_aliases:
+  - protectors save threatened prince
+  - loyal guardians aid prince
+  - threatened prince protected by retainers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-refusal-to-betray-kin-and-lord
+  motif_id: loyal_refusal_to_betray_kin_and_lord
+  label: loyal refusal to betray kin and lord
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is defined by refusal of betrayal, making it an inverse or
+    resisted form of the violated-trust pattern.
+  cautions: Could also belong under covenant or sacred_law if oath, kinship duty,
+    or legal obligation is the main focus.
+  suggested_aliases:
+  - refusal to betray lord
+  - loyalty against betrayal
+  - kin-and-lord loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels center on loyal companions or retainers. Existing groups can cover
+  some through covenant, royal_legitimacy, or betrayal_violated_trust, but a durable
+  companion/retainer loyalty group may be worth considering if more cross-tradition
+  examples recur.
+- Suitor mockery and bride-winning labels should be checked for whether the motif
+  is marriage contest, hidden identity/status reversal, trickster disguise, or royal
+  succession.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placement only; many items are single-occurrence and scene-level.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1467
+  input_sha256: aaf4c21c6f5eb7b8a11fe4e8c9cbb6d3d3cde09295a2c9c45e6f750028bdec3d
+

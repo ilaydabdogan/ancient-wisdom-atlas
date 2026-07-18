@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0257
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.boundary-marking-protects-inherited-land
+  motif_id: boundary_marking_protects_inherited_land
+  label: Boundary marking protects inherited land
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Boundary marking that protects inherited land functions as a sacred or
+    ritually enforced social order rule.
+  cautions: Single occurrence; could be a local land-tenure or passage-specific legal
+    detail rather than a reusable motif.
+  suggested_aliases:
+  - sacred_boundary_marking
+  - land_boundary_protection
+  - inherited_land_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-preservation-in-inherited-land
+  motif_id: boundary_preservation_in_inherited_land
+  label: Boundary preservation in inherited land
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preserving inherited land boundaries is best treated as sacred law regulating
+    land, inheritance, and social order.
+  cautions: May be a legal-command detail rather than a mythic motif; review source
+    context before broad indexing.
+  suggested_aliases:
+  - inherited_land_boundary
+  - boundary_preservation
+  - sacred_land_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-regulated-sacred-meal
+  motif_id: boundary_regulated_sacred_meal
+  label: boundary-regulated sacred meal
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred meal controlled by access or purity boundaries fits ritual law
+    and regulated sacred order.
+  cautions: Could also involve sacrifice or sacred_exchange if the meal is specifically
+    an offering, covenant meal, or reciprocal feeding rite.
+  suggested_aliases:
+  - regulated_sacred_meal
+  - ritual_meal_boundary
+  - sacred_meal_access_rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bounded-retaliation-in-sacred-time-and-space
+  motif_id: bounded_retaliation_in_sacred_time_and_space
+  label: Bounded retaliation in sacred time and space
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes limits on retaliation imposed by sacred legal boundaries
+    of time and place.
+  cautions: May also support divine_judgment or covenant depending on whether the
+    passage emphasizes moral reckoning or sacred obligation.
+  suggested_aliases:
+  - regulated_retaliation
+  - sacred_limits_on_retaliation
+  - retaliation_bounded_by_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bounded-sacred-allegiance
+  motif_id: bounded_sacred_allegiance
+  label: bounded sacred allegiance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could refer to covenant loyalty, legal limits,
+    communal identity, or political allegiance.
+  cautions: Needs passage evidence; do not map solely from the broad terms 'bounded'
+    and 'allegiance'.
+  suggested_aliases:
+  - limited_sacred_allegiance
+  - bounded_loyalty
+  - sacred_allegiance_limits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bounded-sacred-court-with-controlled-entrance
+  motif_id: bounded_sacred_court_with_controlled_entrance
+  label: bounded sacred court with controlled entrance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bounded sacred court with controlled entry functions as a sacred center
+    or sanctuary with regulated access.
+  cautions: If the focus is purity/access law rather than cosmological sacred space,
+    sacred_law may be the better primary mapping.
+  suggested_aliases:
+  - controlled_entrance_to_sacred_court
+  - bounded_sanctuary_court
+  - regulated_sacred_space_access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bounded-sacred-roles-and-proper-station
+  motif_id: bounded_sacred_roles_and_proper_station
+  label: bounded sacred roles and proper station
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns sacredly ordered roles and proper stations, fitting
+    social order under sacred law.
+  cautions: Could be an ethical or hierarchical passage detail; review whether actual
+    ritual/legal boundary is present.
+  suggested_aliases:
+  - proper_sacred_station
+  - bounded_ritual_roles
+  - sacred_role_boundaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bounded-sea-under-divine-command
+  motif_id: bounded_sea_under_divine_command
+  label: bounded sea under divine command
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sea bounded by divine command evokes cosmic ordering of chaotic waters
+    within creation order.
+  cautions: Do not map to flood_and_renewal unless destructive flood and renewal are
+    present; could also relate to chaos or sacred_waters.
+  suggested_aliases:
+  - sea_bounded_by_divine_command
+  - divine_command_bounds_the_sea
+  - bounded_chaotic_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bovine-head-substitute-after-divine-assault
+  motif_id: bovine_head_substitute_after_divine_assault
+  label: bovine head substitute after divine assault
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific composite of substitution, animal body part,
+    and divine violence without enough function to place confidently.
+  cautions: Could involve sacrifice, healing/restoration, divine judgment, or an episode-specific
+    Egyptian mythic detail; source context is required.
+  suggested_aliases:
+  - animal_head_substitution
+  - bovine_head_restoration
+  - substitute_head_after_divine_assault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breach-of-hospitality-under-divine-sanction
+  motif_id: breach_of_hospitality_under_divine_sanction
+  label: breach of hospitality under divine sanction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif directly concerns hospitality norms backed by divine authority,
+    matching the hospitality-test and sacred-guest complex.
+  cautions: If the passage centers on punishment for the breach, divine_judgment may
+    be a secondary mapping.
+  suggested_aliases:
+  - divinely_sanctioned_hospitality_breach
+  - hospitality_violation_under_divine_sanction
+  - breach_of_sacred_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'bounded' language and may reflect generated abstraction
+  from sacred-space or sacred-law passages; source evidence should confirm recurring
+  motif value.
+- Boundary and access-control motifs may split between sacred_law, axis_mundi/world_center,
+  and threshold_guardian depending on whether the passage emphasizes rule, sacred
+  center, or gatekeeping figure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for abstract bounded-allegiance
+    and Egyptian bovine-head substitution labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0257
+  input_sha256: 189d94290a5386e65fcdbf06223955d276314584ef075dff67800bf62921bcc4
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0558
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.valued-song-forgotten-after-sudden-fright
+  motif_id: valued_song_forgotten_after_sudden_fright
+  label: valued song forgotten after sudden fright
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves a valued song, but the key event is forgetting after
+    fright rather than song acting as supernatural power.
+  cautions: Single occurrence and likely passage-specific; may be an oral-memory or
+    narrative-detail artifact rather than a reusable motif.
+  suggested_aliases:
+  - song forgotten after fright
+  - loss of valued song through fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-and-double-names-for-a-social-group
+  motif_id: variant_and_double_names_for_a_social_group
+  label: variant and double names for a social group
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes naming variants for a social group, which reads as
+    ethnographic or textual classification rather than a narrative motif.
+  cautions: If the source explains a mythic origin of the group's names, preserve
+    that evidence under cosmic_origin or a name-etiology group instead.
+  suggested_aliases:
+  - double names for social group
+  - variant group names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veil-over-perception-of-revelation
+  motif_id: veil_over_perception_of_revelation
+  label: veil over perception of revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A veil over revelation concerns hidden or limited access to sacred knowledge
+    and transformed perception.
+  cautions: Could also belong under theophany or dream_and_vision if the passage emphasizes
+    direct divine manifestation or altered sight rather than knowledge concealment.
+  suggested_aliases:
+  - veiled revelation
+  - concealed perception of revelation
+  - veil over sacred perception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victims-bones-preserved-in-a-named-spring
+  motif_id: victims_bones_preserved_in_a_named_spring
+  label: Victims' bones preserved in a named spring
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The named spring and preserved remains fit existing place-name or landscape
+    etiologies grouped under cosmic_origin.
+  cautions: If the emphasis is mortuary presence or ancestral remains rather than
+    naming/landscape explanation, ancestor_rites or death_and_transformation may be
+    better secondary review targets.
+  suggested_aliases:
+  - bones preserved in named spring
+  - victim remains as place etiology
+  - named spring preserving bones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-establishes-names-and-titles
+  motif_id: victory_establishes_names_and_titles
+  label: Victory establishes names and titles
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Victory conferring names and titles usually authorizes status, rule,
+    or sacred-political identity.
+  cautions: If the episode is primarily battle order rather than legitimation or titulary
+    authority, divine_warrior or sacred_combat may be more appropriate.
+  suggested_aliases:
+  - titles established by victory
+  - victory confers names
+  - victory confers titulary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-through-a-named-special-weapon
+  motif_id: victory_through_a_named_special_weapon
+  label: victory through a named special weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A named special weapon that enables victory fits power objects conferring
+    sacred or heroic ability.
+  cautions: If the emphasis is combat sequence rather than the object's power, sacred_combat
+    or divine_warrior may also be relevant.
+  suggested_aliases:
+  - named special weapon
+  - victory by power weapon
+  - named weapon confers victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vindication-of-prophetic-vision-over-denial
+  motif_id: vindication_of_prophetic_vision_over_denial
+  label: Vindication of prophetic vision over denial
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a prophetic vision being confirmed despite denial,
+    fitting prophecy as access to hidden or future knowledge.
+  cautions: May also support divine_judgment if the denial is punished or the vision
+    vindicates moral reckoning.
+  suggested_aliases:
+  - prophetic vision vindicated
+  - denied prophecy confirmed
+  - vindicated revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-remains-explain-a-place-name
+  motif_id: visible_remains_explain_a_place_name
+  label: Visible remains explain a place-name
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The taxonomy already groups place-name and landscape etiologies under
+    cosmic_origin; visible remains explaining a toponym fits that pattern.
+  cautions: Preserve the visible-remains detail as evidence; do not treat it as cosmic
+    creation unless the passage links it to landscape or naming origin.
+  suggested_aliases:
+  - visible remains as place-name etiology
+  - remains explain toponym
+  - place-name explained by remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vision-at-a-fountain
+  motif_id: vision_at_a_fountain
+  label: Vision at a fountain
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a vision event, with the fountain as the setting
+    or water-associated medium.
+  cautions: If the fountain is a sacred water boundary or origin site, sacred_waters
+    may be a secondary mapping; avoid inferring purification or passage without evidence.
+  suggested_aliases:
+  - fountain vision
+  - vision beside water
+  - vision at sacred spring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vision-of-deity-accompanied-by-a-meal
+  motif_id: vision_of_deity_accompanied_by_a_meal
+  label: vision of deity accompanied by a meal
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: high
+  rationale: A vision of deity is a direct divine manifestation; the meal may mark
+    sacred encounter, covenant, or exchange.
+  cautions: If the meal is the central ritual action, consider secondary links to
+    sacred_exchange or covenant; do not collapse all deity visions into ascent unless
+    upward journey is present.
+  suggested_aliases:
+  - deity vision with meal
+  - theophany with sacred meal
+  - divine meal vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and setting-specific; preserve local details
+  as evidence notes rather than promoting them as canonical motifs.
+- Place-name etiologies are currently grouped under cosmic_origin in the supplied
+  normalization even when they are not cosmic creation in a strict sense.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Indigenous place-name and naming labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0558
+  input_sha256: f3fac33ecddbf069a90cd0b3ec8aaaccad5553a49c02484de9a015540a21a524
+

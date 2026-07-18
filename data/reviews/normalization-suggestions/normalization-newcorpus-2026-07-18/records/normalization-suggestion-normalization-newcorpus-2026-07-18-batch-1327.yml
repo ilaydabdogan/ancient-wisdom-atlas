@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1327
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealed-source-of-poetic-tradition
+  motif_id: concealed_source_of_poetic_tradition
+  label: concealed source of poetic tradition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hidden or concealed origin of poetic tradition points to protected
+    or esoteric knowledge behind inspired speech.
+  cautions: Could be literary-history commentary rather than a narrative motif if
+    the passage concerns authorship or textual transmission only.
+  suggested_aliases:
+  - hidden source of poetic tradition
+  - secret origin of poetry
+  - concealed poetic inspiration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-substitution-exposed-in-women-s-quarrel
+  motif_id: concealed_substitution_exposed_in_women_s_quarrel
+  label: concealed substitution exposed in women’s quarrel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines deception, substitution, exposure, and a social quarrel;
+    the main motif function is unclear without source context.
+  cautions: May fit hidden identity, false accusation, betrayal, or a passage-specific
+    domestic plot detail; single occurrence argues against promotion.
+  suggested_aliases:
+  - hidden substitution revealed in quarrel
+  - concealed identity substitution exposed
+  - deception exposed by quarrel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-survivor-in-prepared-underground-refuge
+  motif_id: concealed_survivor_in_prepared_underground_refuge
+  label: Concealed survivor in prepared underground refuge
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden survivor preserved in a refuge matches catastrophe-survival
+    and renewal logic, especially when the refuge preserves life through danger.
+  cautions: If no world or community catastrophe is present, ark_vessel or sacred_vessel
+    may be a better secondary placement; underground setting alone is not descent.
+  suggested_aliases:
+  - survivor hidden in underground refuge
+  - prepared refuge preserves survivor
+  - concealed remnant in earth shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-transgression-compared-to-adam
+  motif_id: concealed_transgression_compared_to_adam
+  label: concealed transgression compared to Adam
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'compared to Adam' reads like an interpretive comparison rather
+    than a standalone narrative motif.
+  cautions: If the passage itself narrates hidden wrongdoing and divine exposure,
+    review under divine_judgment or sacred_law instead of excluding.
+  suggested_aliases:
+  - Adam comparison for hidden transgression
+  - concealed sin compared with Adam
+  - Adamic transgression analogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-transgression-revealed-by-a-token
+  motif_id: concealed_transgression_revealed_by_a_token
+  label: Concealed transgression revealed by a token
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A token reveals hidden wrongdoing by functioning as proof of a concealed
+    act or identity-relevant event.
+  cautions: If the emphasis is punishment for wrongdoing rather than token-proof,
+    divine_judgment should be a secondary review mapping.
+  suggested_aliases:
+  - token reveals hidden transgression
+  - proof token exposes wrongdoing
+  - concealed wrongdoing exposed by token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-trap-prepared-by-abused-wives
+  motif_id: concealed_trap_prepared_by_abused_wives
+  label: concealed trap prepared by abused wives
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe revenge, escape from abuse, deception, or domestic
+    violence resolution; placement depends on narrative framing.
+  cautions: Culturally and socially sensitive; avoid reducing abuse context to generic
+    trickster deception or combat without passage evidence.
+  suggested_aliases:
+  - hidden trap set by abused wives
+  - wives prepare concealed revenge trap
+  - domestic abuse avenged by hidden trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-treasure-discovered-in-humble-cargo
+  motif_id: concealed_treasure_discovered_in_humble_cargo
+  label: concealed treasure discovered in humble cargo
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on a hidden valuable object discovered in an unlikely
+    container or humble cargo.
+  cautions: If the treasure has no sacred, legitimating, protective, or transformative
+    role, this may be a folktale plot detail rather than a mythic motif.
+  suggested_aliases:
+  - hidden treasure in humble cargo
+  - treasure concealed in ordinary goods
+  - valuable object found in lowly cargo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealing-a-slain-opponent-s-body-from-a-companion
+  motif_id: concealing_a_slain_opponent_s_body_from_a_companion
+  label: Concealing a slain opponent’s body from a companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The episode concerns the aftermath of heroic combat and management of
+    a slain enemy's body.
+  cautions: Highly episode-specific; if the focus is burial denial or funeral honor,
+    heroic_funeral_rites may be more precise.
+  suggested_aliases:
+  - hidden body of slain opponent
+  - concealment of enemy corpse
+  - slain opponent concealed from companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-and-decoy-leading-prey-into-a-trap
+  motif_id: concealment_and_decoy_leading_prey_into_a_trap
+  label: concealment and decoy leading prey into a trap
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealment and decoy tactics used to trap prey match deception-based
+    trickster or predator-strategy patterns already grouped under trickster.
+  cautions: If the passage is an ordinary hunting detail without rule-breaking, reversal,
+    or mythic agency, it may be too specific for pattern queries.
+  suggested_aliases:
+  - decoy trap by concealment
+  - hidden decoy lures prey
+  - prey trapped by concealed lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-by-druid-mist
+  motif_id: concealment_by_druid_mist
+  label: Concealment by Druid mist
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magical Concealment and Enchanted Obscuration
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural mist that hides persons or places is a recurring magical
+    concealment function not cleanly covered by existing groups.
+  cautions: Could be a local Celtic evidence label; review recurrence before adding
+    a durable group. If the mist marks passage to an otherworld, map secondarily to
+    otherworld.
+  suggested_aliases:
+  - druid mist concealment
+  - magical mist hides figures
+  - enchanted obscuring mist
+  suggested_new_group:
+    id: magical_concealment
+    label: Magical Concealment and Enchanted Obscuration
+    description: Supernatural, ritual, or magical means hide persons, places, paths,
+      or identities from perception, often through mist, glamour, invisibility, illusion,
+      or obscuring enchantment.
+    parent_group_ids:
+    - sacred_knowledge
+    - otherworld
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - dream_and_vision
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups cover transformation, hidden
+      identity proofs, and otherworld spaces, but not the functional act of supernatural
+      concealment or perceptual obscuration itself.
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  them as evidence notes unless recurrence across sources is shown.
+- Concealment can indicate deception, protection, hidden identity, magical obscuration,
+  or textual commentary; final placement should follow source function rather than
+  the shared word 'concealed'.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for culturally sensitive
+    and context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1327
+  input_sha256: b60d1067980a6ea688c5825df084814a8b55fca328ad1c3381f4adc18de455dd
+

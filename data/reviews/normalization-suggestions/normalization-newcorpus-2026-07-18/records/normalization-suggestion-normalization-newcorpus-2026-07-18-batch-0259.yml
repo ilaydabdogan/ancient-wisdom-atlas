@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0259
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.capture-and-restraint-of-defeated-divine-allies-and-creatures
+  motif_id: capture_and_restraint_of_defeated_divine_allies_and_creatures
+  label: Capture and restraint of defeated divine allies and creatures
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe sacred combat aftermath, divine judgment, or
+    a mythic imprisonment episode, but function is unclear from wording alone.
+  cautions: Single occurrence; verify whether restraint is a narrative combat result,
+    cosmic ordering act, ritual containment, or passage-specific detail.
+  suggested_aliases:
+  - divine_beings_captured_after_defeat
+  - restraint_of_defeated_supernatural_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capture-of-enemy-divine-horses-as-battle-spoil
+  motif_id: capture_of_enemy_divine_horses_as_battle_spoil
+  label: Capture of enemy divine horses as battle spoil
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Capturing enemy horses as spoil is a martial victory and battle-plunder
+    detail within sacred or heroic combat.
+  cautions: Horse divinity may also make this a sacred treasure or divine-warrior
+    detail; preserve the horse-specific wording as evidence rather than promoting
+    it.
+  suggested_aliases:
+  - divine_horses_as_battle_spoil
+  - capture_of_enemy_horses_as_war_spoil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.care-of-a-sacred-courtyard-tree
+  motif_id: care_of_a_sacred_courtyard_tree
+  label: Care of a sacred courtyard tree
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred tree in a courtyard likely functions as a maintained sacred
+    center or localized world-tree site.
+  cautions: If the passage emphasizes ordinary ritual maintenance rather than cosmic
+    or sacred-center function, it may be too specific for pattern queries.
+  suggested_aliases:
+  - sacred_tree_care
+  - ritual_care_of_sacred_tree
+  - courtyard_sacred_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-seclusion-of-a-divine-mother
+  motif_id: cave_seclusion_of_a_divine_mother
+  label: cave seclusion of a divine mother
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core figure is a divine mother, with cave seclusion as the local
+    setting or protective concealment.
+  cautions: Could also map to descent/cave or miraculous_child if the cave functions
+    as womb, hiding place, or birth setting; source context is needed.
+  suggested_aliases:
+  - divine_mother_in_cave
+  - secluded_mother_goddess
+  - cave_hidden_divine_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celebrated-city-marked-by-temple-and-notable-birth
+  motif_id: celebrated_city_marked_by_temple_and_notable_birth
+  label: Celebrated city marked by temple and notable birth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: low
+  rationale: A city distinguished by temple and sacred birth may function as a sacred
+    center in religious geography.
+  cautions: Composite and contextual label; if the focus is the birth, miraculous_child
+    may be better, and if only a place description it may be a passage artifact.
+  suggested_aliases:
+  - sacred_city_marked_by_temple_and_birth
+  - holy_city_with_notable_birth
+  - temple_city_as_birthplace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - axis_mundi
+    - sacred_geography_pilgrimage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-seduction-disrupts-ascetic-vow
+  motif_id: celestial_seduction_disrupts_ascetic_vow
+  label: celestial seduction disrupts ascetic vow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seduction disrupting an ascetic vow is a test or failure within a discipline-oriented
+    spiritual quest.
+  cautions: Could also belong to sacred_love or divine_intervention if the celestial
+    seducer is the narrative focus; review cultural context carefully.
+  suggested_aliases:
+  - ascetic_vow_disrupted_by_celestial_seduction
+  - temptation_of_ascetic_by_celestial_being
+  - seduction_as_ascetic_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-temple-cluster
+  motif_id: celestial_temple_cluster
+  label: Celestial temple cluster
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to sacred architecture, astral geography, or a descriptive
+    cluster of temples rather than a narrative motif.
+  cautions: Single occurrence and vague wording; verify whether temples function as
+    world centers, celestial realm mapping, or merely a site inventory.
+  suggested_aliases:
+  - celestial_temples
+  - cluster_of_heavenly_temples
+  - astral_temple_complex
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - world_center
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-weapons-of-the-sky-god
+  motif_id: celestial_weapons_of_the_sky_god
+  label: celestial weapons of the sky-god
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: Weapons belonging to a sky god support the divine-warrior role and sacred
+    combat imagery.
+  cautions: If the passage emphasizes the weapons as independent power objects rather
+    than combat, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - sky_god_weapons
+  - celestial_divine_weapons
+  - weapons_of_the_sky_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-witnessing-of-sacrifice
+  motif_id: celestial_witnessing_of_sacrifice
+  label: Celestial witnessing of sacrifice
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on sacrifice observed or validated by celestial beings
+    or bodies.
+  cautions: If celestial witnesses function as moral evaluators, divine_judgment or
+    cosmic_witness may be relevant; do not treat all sky imagery as theophany.
+  suggested_aliases:
+  - heavenly_witnesses_to_sacrifice
+  - celestial_beings_witness_sacrifice
+  - cosmic_witnessing_of_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.central-divine-dance
+  motif_id: central_divine_dance
+  label: central divine dance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A divine dance may be ritual, theophanic, cosmic-ordering, or merely
+    scene description, and no existing group cleanly captures dance as sacred action.
+  cautions: Single occurrence; source evidence should determine whether to map to
+    theophany, sacred_time, sacred_center, or exclude as contextual detail.
+  suggested_aliases:
+  - divine_dance_at_center
+  - sacred_divine_dance
+  - central_ritual_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - sacred_time
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence labels; suggested placements should
+  be treated as provisional evidence organization, not taxonomy changes.
+- Several labels are composite scene descriptions and may need source-context review
+  before inclusion in broad pattern queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0259
+  input_sha256: b33eb9de7c09632c4103cf7bbb5d01c01a00f1ff52daaa5d17465410376ed3fb
+

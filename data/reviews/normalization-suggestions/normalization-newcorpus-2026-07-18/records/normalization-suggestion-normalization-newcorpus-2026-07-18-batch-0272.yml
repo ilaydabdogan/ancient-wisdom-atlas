@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0272
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cremation-with-sacred-fire-funeral-texts-and-sacred-song
+  motif_id: cremation_with_sacred_fire_funeral_texts_and_sacred_song
+  label: cremation with sacred fire, funeral texts, and sacred song
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes funerary ritual using fire, texts, and song; existing
+    funeral-rites and sacred-fire groups both partially apply.
+  cautions: Single composite ritual label; if the passage centers on Vedic fire as
+    divine mediator, sacred_fire or sacrifice may be better than heroic_funeral_rites.
+  suggested_aliases:
+  - cremation_with_sacred_fire
+  - funeral_texts_and_sacred_song
+  - sacred_fire_cremation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-foundation-after-divine-crisis
+  motif_id: cult_foundation_after_divine_crisis
+  label: Cult foundation after divine crisis
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A cult founded after a divine crisis may encode divine intervention followed
+    by ritual institutionalization.
+  cautions: Could be an aetiology of a local cult rather than a reusable motif; source
+    evidence is needed to distinguish crisis, foundation, and divine agency.
+  suggested_aliases:
+  - cult_aetiology_after_divine_crisis
+  - ritual_foundation_after_divine_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-honours-founded-for-divine-protectors-of-sailors
+  motif_id: cult_honours_founded_for_divine_protectors_of_sailors
+  label: Cult honours founded for divine protectors of sailors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Divine protectors of sailors fit protective divine intervention, with
+    cult honors as ritual response.
+  cautions: May be too local or cult-foundation-specific for pattern queries; if the
+    focus is maritime guardian figures, a future protector/sailor subgroup may be
+    warranted.
+  suggested_aliases:
+  - cult_honours_for_divine_protectors
+  - divine_protectors_of_sailors
+  - sailor_protector_cult_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cure-through-contact-with-the-holy-person-s-garment
+  motif_id: cure_through_contact_with_the_holy_person_s_garment
+  label: Cure through contact with the holy person's garment
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A holy garment functions as a contact relic or power object mediating
+    healing.
+  cautions: If the passage emphasizes divine healing agency over the garment itself,
+    divine_intervention should be a secondary review option.
+  suggested_aliases:
+  - healing_contact_relic
+  - healing_through_holy_garment
+  - contact_healing_by_relic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curing-rite-with-rattle-fire-sacred-weed-smoke-and-incantation
+  motif_id: curing_rite_with_rattle_fire_sacred_weed_smoke_and_incantation
+  label: Curing rite with rattle, fire, sacred weed, smoke, and incantation
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a protective or curing rite using ritual substances
+    and speech, overlapping apotropaic and spirit-affliction patterns currently folded
+    under sacred_law.
+  cautions: Composite ethnographic label with culturally specific healing practice;
+    review respectfully and avoid reducing it to generic sacrifice, fire, or smoke
+    imagery.
+  suggested_aliases:
+  - curing_rite_with_smoke_and_incantation
+  - ritual_healing_with_rattle_fire_and_smoke
+  - sacred_smoke_curing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-after-killing-the-innocent
+  motif_id: curse_after_killing_the_innocent
+  label: curse after killing the innocent
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a curse as a performative consequence following
+    wrongful killing.
+  cautions: If the passage stresses punishment or moral reckoning more than the spoken
+    curse, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - curse_for_killing_the_innocent
+  - curse_following_wrongful_killing
+  - bloodguilt_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-and-bodily-reversal-as-punishment
+  motif_id: curse_and_bodily_reversal_as_punishment
+  label: Curse and bodily reversal as punishment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A curse produces punitive bodily transformation, making performative
+    sacred speech the main mechanism.
+  cautions: Also overlaps with shapeshifter if the bodily reversal is a metamorphosis,
+    and divine_judgment if framed as moral punishment.
+  suggested_aliases:
+  - punitive_curse_transformation
+  - curse_causes_bodily_reversal
+  - bodily_reversal_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-and-earth-opening-relocation-to-adlivun
+  motif_id: curse_and_earth_opening_relocation_to_adlivun
+  label: Curse and earth-opening relocation to Adlivun
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Earth opening and relocation to Adlivun suggests forced passage to an
+    underworld or chthonic realm.
+  cautions: Adlivun is culturally specific; source context is needed to decide whether
+    the core motif is curse, descent, punishment, or place-specific cosmology.
+  suggested_aliases:
+  - curse_forced_underworld_relocation
+  - earth_opening_to_underworld
+  - relocation_to_adlivun
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-as-consequence-of-offending-an-ascetic
+  motif_id: curse_as_consequence_of_offending_an_ascetic
+  label: curse as consequence of offending an ascetic
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: role_variant
+  confidence: high
+  rationale: The label centers on an ascetic's curse as efficacious sacred speech
+    after offense.
+  cautions: May also imply divine_judgment or ascetic spiritual power; preserve the
+    ascetic role in evidence notes.
+  suggested_aliases:
+  - ascetic_curse_after_offense
+  - curse_of_offended_ascetic
+  - ascetic_wrath_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-bounded-refuge
+  motif_id: curse_bounded_refuge
+  label: curse-bounded refuge
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to involve a curse defining or limiting a refuge, but
+    the narrative function is unclear.
+  cautions: Could be sacred boundary, sanctuary protection, exile, or a passage-specific
+    detail; review source evidence before indexing broadly.
+  suggested_aliases:
+  - refuge_bounded_by_curse
+  - curse_defined_sanctuary
+  - cursed_boundary_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence composite ritual labels; preserve
+  local ritual details as evidence notes rather than promoting them as canonical motifs.
+- Curse labels generally fit curse_blessing_speech, but review whether the passage
+  function is performative speech, divine judgment, transformation, or boundary creation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific ritual and underworld-place labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0272
+  input_sha256: ced2bed9c48c12f929b5f3e040db77af1adc80dac1ad5579e529acdbc7a24abd
+

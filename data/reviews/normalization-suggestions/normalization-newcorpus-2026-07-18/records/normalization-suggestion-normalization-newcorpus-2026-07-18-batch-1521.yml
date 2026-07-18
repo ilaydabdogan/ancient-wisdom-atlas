@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1521
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.poetic-description-becomes-cult-image
+  motif_id: poetic_description_becomes_cult_image
+  label: Poetic description becomes cult image
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A poetic image becoming a cult image fits the existing cluster of animated
+    or ritually potent manufactured images.
+  cautions: Could be literary reception or art-historical commentary rather than a
+    narrative motif; verify that a cult object is actually formed or empowered.
+  suggested_aliases:
+  - poetic image becomes cult object
+  - literary description materialized as cult image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-invocation-and-apotheosis
+  motif_id: poetic_invocation_and_apotheosis
+  label: Poetic invocation and apotheosis
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines poetic speech with deification, and the primary function
+    cannot be determined from the label alone.
+  cautions: If invocation is performative, curse_blessing_speech or storytelling_as_power
+    may fit; if the focus is elevation to divine status, death_and_transformation
+    or sacred_treasures/hero cult context may be relevant.
+  suggested_aliases:
+  - poetic invocation leading to apotheosis
+  - poetry and deification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-sound-as-mimetic-force-carrying-the-listener
+  motif_id: poetic_sound_as_mimetic_force_carrying_the_listener
+  label: poetic sound as mimetic force carrying the listener
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sound or voice acting as a force that transports or compels the listener
+    fits the sound-power group.
+  cautions: May be literary-aesthetic commentary rather than mythic enchantment; if
+    only about poetics, exclude or preserve as textual note.
+  suggested_aliases:
+  - poetic sound as transportive force
+  - mimetic sound power
+  - voice carries the listener
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polemic-against-powerless-images
+  motif_id: polemic_against_powerless_images
+  label: Polemic against powerless images
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A critique of powerless images functions as a religious prohibition or
+    ethical-theological boundary around proper worship.
+  cautions: Could also map to idol under sacred_treasures if the passage centers on
+    the cult object; if it is only commentary, human review is needed.
+  suggested_aliases:
+  - idol polemic
+  - critique of powerless idols
+  - powerless images as false worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.political-ambition-kin-feud-and-violent-downfall
+  motif_id: political_ambition_kin_feud_and_violent_downfall
+  label: Political ambition, kin feud, and violent downfall
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ambition leading through feud to violent ruin fits the downfall pattern
+    driven by overreach.
+  cautions: If the passage foregrounds kinship betrayal or feud structure rather than
+    hubris, betrayal_violated_trust or sacred_combat may be better secondary mappings.
+  suggested_aliases:
+  - ambition and violent downfall
+  - kin feud downfall
+  - political overreach punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.political-gain-used-to-justify-betrayal
+  motif_id: political_gain_used_to_justify_betrayal
+  label: political gain used to justify betrayal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on betrayal and its justification by advantage, matching
+    the violated-trust group.
+  cautions: May also involve royal_legitimacy or pride_and_downfall if the political
+    consequence is central.
+  suggested_aliases:
+  - betrayal justified by political gain
+  - expedient betrayal
+  - ambition-motivated betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pollution-of-land-by-human-conduct
+  motif_id: pollution_of_land_by_human_conduct
+  label: pollution of land by human conduct
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Human action polluting the land fits purity, holiness, and sacred-law
+    regulation of moral and ritual order.
+  cautions: If the passage emphasizes divine punishment for pollution, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - land pollution by sin
+  - moral pollution of the land
+  - conduct defiles the land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-and-rich-brothers-contrasted
+  motif_id: poor_and_rich_brothers_contrasted
+  label: Poor and rich brothers contrasted
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label marks a social contrast, but the narrative function is unclear
+    without passage evidence.
+  cautions: Could be sibling_pair, divine_judgment, hospitality_test, greed_temperance_reversal,
+    or a folktale setup rather than a durable motif.
+  suggested_aliases:
+  - rich and poor sibling contrast
+  - contrasted brothers by wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-but-welcoming-host-in-the-upper-place
+  motif_id: poor_but_welcoming_host_in_the_upper_place
+  label: poor but welcoming host in the upper place
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: A poor but welcoming host fits the hospitality virtue/test pattern, especially
+    if a guest or stranger is received generously.
+  cautions: The phrase 'upper place' may be cosmological or local geography; review
+    cultural context before treating it as a generic hospitality motif.
+  suggested_aliases:
+  - poor welcoming host
+  - humble host shows hospitality
+  - hospitality of the poor host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-fool-gains-magical-elevation
+  motif_id: poor_fool_gains_magical_elevation
+  label: poor fool gains magical elevation
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A low-status fool raised by magical means fits a transformative journey
+    or status reversal arc.
+  cautions: If the emphasis is trickster foolishness, divine intervention, or social
+    moral reversal, another group may be better; label is folktale-specific.
+  suggested_aliases:
+  - fool elevated by magic
+  - lowly fool gains status
+  - magical rise of the poor fool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several labels are single-occurrence and may be passage-specific literary or commentary
+  artifacts; human review should check source evidence before adding aliases.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for provisional placement against existing canonical_motif_groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1521
+  input_sha256: d1b032875597fddbb9802fc0a8ab81c7a0c43488dabbc483042e1451f55859b6
+

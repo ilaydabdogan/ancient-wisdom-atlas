@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1530
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophesied-destroyer-of-a-fort
+  motif_id: prophesied_destroyer_of_a_fort
+  label: prophesied destroyer of a fort
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a foretold destructive role, fitting prophecy about
+    future action.
+  cautions: Single occurrence and fort-destruction context may also belong to sacred_combat
+    if the passage emphasizes battle rather than prediction.
+  suggested_aliases:
+  - foretold destroyer
+  - prophecy of fort destruction
+  - doom prophecy against a stronghold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophesied-vengeance-for-injured-kin
+  motif_id: prophesied_vengeance_for_injured_kin
+  label: Prophesied vengeance for injured kin
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A foretold act of vengeance is primarily a prophecy/doom announcement.
+  cautions: Could secondarily relate to sacred_combat, divine_judgment, or kin vengeance
+    depending on source evidence; do not infer sacred judgment from prophecy alone.
+  suggested_aliases:
+  - foretold kin vengeance
+  - vengeance prophecy for injured kin
+  - prophesied retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophet-commanded-to-public-proclamation-amid-opposition
+  motif_id: prophet_commanded_to_public_proclamation_amid_opposition
+  label: Prophet commanded to public proclamation amid opposition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The group already contains prophet_call_under_opposition; this is a close
+    prophetic mission variant.
+  cautions: If the passage focuses on revealed speech content, sacred_knowledge or
+    curse_blessing_speech may be secondary.
+  suggested_aliases:
+  - prophet call under opposition
+  - public prophetic proclamation
+  - commanded proclamation against opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophet-confronts-a-refusing-people-at-the-destined-land
+  motif_id: prophet_confronts_a_refusing_people_at_the_destined_land
+  label: Prophet confronts a refusing people at the destined land
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines prophetic confrontation, communal refusal, and destined
+    land without a clear dominant motif.
+  cautions: May fit covenant, divine_judgment, hero_journey, or sacred_law depending
+    on whether the passage emphasizes promise, disobedience, migration, or admonition.
+  suggested_aliases:
+  - prophet confronts refusing people
+  - refusal at the promised land
+  - communal refusal of prophetic command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophet-s-escape-through-recitation-dust-and-blinding-of-attackers
+  motif_id: prophet_s_escape_through_recitation_dust_and_blinding_of_attackers
+  label: Prophet's escape through recitation, dust, and blinding of attackers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prophet escaping attackers through sacred recitation and miraculous
+    blindness fits divine protection/intervention.
+  cautions: Highly episode-specific; preserve recitation, dust, and blinding as evidence
+    details rather than canonical children unless repeated.
+  suggested_aliases:
+  - miraculous prophetic escape
+  - sacred recitation blinds attackers
+  - divinely aided escape from attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophet-sent-to-a-tribe-and-rejected-by-proud-elites
+  motif_id: prophet_sent_to_a_tribe_and_rejected_by_proud_elites
+  label: Prophet sent to a tribe and rejected by proud elites
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection by proud elites foregrounds hubris resisting sacred warning.
+  cautions: If the passage emphasizes prophetic mission more than elite pride, divine_intervention
+    is a strong secondary placement; if punishment follows, divine_judgment also applies.
+  suggested_aliases:
+  - proud elites reject prophet
+  - prophet rejected by arrogant leaders
+  - elite hubris against prophetic warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophet-sent-to-restore-an-idolatrous-people
+  motif_id: prophet_sent_to_restore_an_idolatrous_people
+  label: prophet sent to restore an idolatrous people
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A prophet sent to correct a community is a form of divine guidance and
+    intervention.
+  cautions: The idolatry component may also invoke covenant, sacred_law, or divine_judgment;
+    avoid using the label as a generic anti-idol motif without passage evidence.
+  suggested_aliases:
+  - prophet sent to restore people
+  - prophetic mission to idolatrous people
+  - divine warning to idolatrous community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-admonition-against-idols-and-intercessors
+  motif_id: prophetic_admonition_against_idols_and_intercessors
+  label: Prophetic admonition against idols and intercessors
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label is a normative prophetic prohibition/admonition concerning
+    proper worship and mediation.
+  cautions: Could also map to covenant or divine_judgment if framed as broken sacred
+    bond or threatened punishment; idolatry-specific taxonomy remains under human
+    review.
+  suggested_aliases:
+  - admonition against idols
+  - prophetic warning against intercessors
+  - prohibition of idolatrous intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-call-and-heavenly-accreditation
+  motif_id: prophetic_call_and_heavenly_accreditation
+  label: Prophetic call and heavenly accreditation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: A prophetic call validated by heaven fits divine calling, guidance, and
+    authorization.
+  cautions: If the evidence centers on manifestation or vision, theophany or dream_and_vision
+    may be secondary.
+  suggested_aliases:
+  - divine call of prophet
+  - heavenly accreditation of prophet
+  - prophetic commissioning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-claimant-gains-followers-and-is-suppressed
+  motif_id: prophetic_claimant_gains_followers_and_is_suppressed
+  label: prophetic claimant gains followers and is suppressed
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a historical-social episode rather than a symbolic
+    motif.
+  cautions: Review whether this is narrative motif, polemical historiography, or person/event
+    detail; possible placements include royal_legitimacy, divine_judgment, or _meta_textual
+    depending on context.
+  suggested_aliases:
+  - suppressed prophetic claimant
+  - prophetic claimant gains followers
+  - rival prophet suppressed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are Islamic prophetic mission/admonition episodes;
+  human review should distinguish motif function from source-specific historical or
+  theological framing.
+- Do not treat placement under common groups as evidence of transmission or equivalence
+  across traditions.
+- For single-occurrence, episode-specific labels, preserve granular wording as evidence
+  notes even when mapped to a broader group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous prophetic-claimant and destined-land items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1530
+  input_sha256: 46e112c5893d5467bf763b5cc7b71139317941582794c981e0dfcb41bfac5ae3
+

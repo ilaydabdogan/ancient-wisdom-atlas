@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0406
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.restricted-or-esoteric-ritual-knowledge-in-narration
+  motif_id: restricted_or_esoteric_ritual_knowledge_in_narration
+  label: restricted or esoteric ritual knowledge in narration
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to restricted or esoteric ritual knowledge, which fits
+    sacred knowledge broadly.
+  cautions: Single occurrence and culturally sensitive ritual knowledge; verify whether
+    the label is a motif, narration feature, or restricted-context note before indexing.
+  suggested_aliases:
+  - esoteric_ritual_knowledge
+  - restricted_sacred_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-remarriage-of-a-sacred-or-royal-figure-s-wives
+  motif_id: restricted_remarriage_of_a_sacred_or_royal_figure_s_wives
+  label: Restricted remarriage of a sacred or royal figure's wives
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marriage restriction tied to sacred or royal status functions as sacred
+    law and social order.
+  cautions: May be a context-specific legal rule rather than a recurrent motif; royal_legitimacy
+    may be a secondary mapping if sovereignty is central.
+  suggested_aliases:
+  - sacred_marriage_restriction
+  - royal_widow_remarriage_restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-ritual-object-exchange
+  motif_id: restricted_ritual_object_exchange
+  label: restricted ritual object exchange
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif centers on regulated exchange in a ritual setting, matching
+    sacred exchange broadly.
+  cautions: Culturally specific ritual object handling may require restricted interpretation;
+    could also fit sacred_treasures if the object's power matters more than exchange.
+  suggested_aliases:
+  - regulated_ritual_exchange
+  - restricted_sacred_object_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-sacred-access-and-graded-priestly-nearness
+  motif_id: restricted_sacred_access_and_graded_priestly_nearness
+  label: restricted sacred access and graded priestly nearness
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rules governing access to sacred space and priestly proximity are ritual
+    law and purity-order patterns.
+  cautions: If the passage emphasizes sanctuary as cosmic center, axis_mundi or world_center
+    may be useful secondary indexing.
+  suggested_aliases:
+  - graded_sacred_access
+  - priestly_nearness_restriction
+  - restricted_sanctuary_access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retrieval-of-a-giant-s-vessel-for-divine-drinking
+  motif_id: retrieval_of_a_giant_s_vessel_for_divine_drinking
+  label: retrieval of a giant's vessel for divine drinking
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative object is a vessel used for divine drinking, fitting sacred
+    vessel/container motifs.
+  cautions: If the episode's main function is quest theft or acquisition from giants,
+    trickster or hero_journey may be secondary; preserve giant-specific detail as
+    evidence.
+  suggested_aliases:
+  - divine_drinking_vessel
+  - retrieved_sacred_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-symbolic-building-of-a-sacred-community
+  motif_id: revealed_symbolic_building_of_a_sacred_community
+  label: Revealed symbolic building of a sacred community
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Building imagery revealed as sacred pattern aligns with sacred construction,
+    even if symbolic rather than material.
+  cautions: Could instead belong to theophany or sacred_knowledge if revelation is
+    central; verify whether the building metaphor is a motif or doctrinal exposition.
+  suggested_aliases:
+  - symbolic_sacred_building
+  - revealed_community_as_building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-temple-pattern-measured-and-written-as-law
+  motif_id: revealed_temple_pattern_measured_and_written_as_law
+  label: Revealed temple pattern measured and written as law
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A divinely revealed measured temple pattern belongs with sacred construction
+    and temple craft.
+  cautions: Also strongly relates to sacred_law and sacred_knowledge because the pattern
+    is written as law; consider secondary mappings.
+  suggested_aliases:
+  - revealed_temple_blueprint
+  - measured_temple_pattern
+  - divine_temple_plan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelation-delivered-to-disciples-on-a-sacred-mountain-setting
+  motif_id: revelation_delivered_to_disciples_on_a_sacred_mountain_setting
+  label: Revelation delivered to disciples on a sacred mountain setting
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred mountain used as a setting for revelation fits mountain-as-axis
+    and revelation site patterns.
+  cautions: If the emphasis is the revealed teaching rather than the mountain setting,
+    sacred_knowledge or theophany may be better primary mapping.
+  suggested_aliases:
+  - mountain_revelation_to_disciples
+  - sacred_mountain_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelation-of-divine-law-to-a-chosen-prophet
+  motif_id: revelation_of_divine_law_to_a_chosen_prophet
+  label: Revelation of divine law to a chosen prophet
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on divine law being revealed through a prophetic recipient.
+  cautions: Could also be indexed under sacred_knowledge or prophecy_divination when
+    the prophetic role or revelation process is foregrounded.
+  suggested_aliases:
+  - divine_law_revelation
+  - prophetic_law_revelation
+  - revealed_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelation-on-a-sacred-mountain
+  motif_id: revelation_on_a_sacred_mountain
+  label: revelation on a sacred mountain
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred mountain as site of divine revelation is a clear mountain-axis
+    and sacred center pattern.
+  cautions: If the content of revelation is primary, secondary mapping to sacred_knowledge,
+    sacred_law, or theophany may be needed.
+  suggested_aliases:
+  - sacred_mountain_revelation
+  - mountain_theophany
+  - revelation_at_sacred_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items combine revelation, sacred law, and sacred space; primary placement
+  should follow the passage's dominant function, with secondary mappings where supported.
+- Navajo ritual-knowledge and ritual-object labels should receive human review for
+  cultural sensitivity and to avoid indexing restricted knowledge from generated labels
+  alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0406
+  input_sha256: 38343f0dd3fb997959934d49bb228a73d10b36a16479bec5c86962449587f08a
+

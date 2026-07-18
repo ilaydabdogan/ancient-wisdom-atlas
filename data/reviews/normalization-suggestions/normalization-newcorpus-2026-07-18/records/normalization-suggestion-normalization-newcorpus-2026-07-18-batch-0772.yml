@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0772
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.suitor-claims-the-maiden-s-adornment
+  motif_id: suitor_claims_the_maiden_s_adornment
+  label: Suitor claims the maiden's adornment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: A maiden's adornment may function as a personal token used to assert
+    a marriage claim or identity-linked relationship.
+  cautions: Source context is needed; if the adornment is merely a bride-price, ornament,
+    or episode detail, sacred_love or exclusion may be better.
+  suggested_aliases:
+  - adornment_as_marriage_claim
+  - suitor_claim_by_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suitors-use-a-cattle-raid-to-obtain-both-livestock-and-brides
+  motif_id: suitors_use_a_cattle_raid_to_obtain_both_livestock_and_brides
+  label: Suitors use a cattle raid to obtain both livestock and brides
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The cattle raid is the operative narrative mechanism, with bride-taking
+    folded into raid and warfare dynamics.
+  cautions: Could also relate to sacred_love or marriage-choice motifs if courtship
+    rather than raid structure is primary; preserve bride-taking detail as evidence.
+  suggested_aliases:
+  - cattle_raid_for_brides
+  - bride_capture_in_cattle_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-ally-lured-by-a-beloved-maiden-and-captured
+  motif_id: summoned_ally_lured_by_a_beloved_maiden_and_captured
+  label: summoned ally lured by a beloved maiden and captured
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: A beloved maiden functions as the lure that redirects or traps the summoned
+    ally, making desire part of the ordeal.
+  cautions: May be better under betrayal_violated_trust, threshold_guardian, or deceptive
+    stratagem if the emphasis is ambush and capture rather than love.
+  suggested_aliases:
+  - beloved_as_lure
+  - maiden_lure_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-lover-killed-in-ambush
+  motif_id: summoned_lover_killed_in_ambush
+  label: summoned lover killed in ambush
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The lover relationship motivates the fatal summons, aligning with love
+    entangled with danger and death.
+  cautions: Single, episode-specific label; if ambush or vengeance is the core function,
+    sacred_combat or divine_judgment may fit better, or it may be too specific for
+    pattern queries.
+  suggested_aliases:
+  - lover_lured_to_death
+  - fatal_summons_of_lover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sunken-castle-replaced-by-a-lake-after-forbidden-sibling-marriage
+  motif_id: sunken_castle_replaced_by_a_lake_after_forbidden_sibling_marriage
+  label: sunken castle replaced by a lake after forbidden sibling marriage
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forbidden union is followed by catastrophic transformation of a place,
+    suggesting moral or sacred punishment.
+  cautions: Could also be etiological landscape formation under cosmic_origin if the
+    lake-origin explanation is primary; avoid mapping to flood_and_renewal unless
+    world/order renewal is present.
+  suggested_aliases:
+  - forbidden_marriage_place_punishment
+  - sunken_castle_lake_etiology
+  - incest_taboo_landscape_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-antagonist-as-personified-evil
+  motif_id: supernatural_antagonist_as_personified_evil
+  label: Supernatural antagonist as personified evil
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a broad character interpretation rather than a clear
+    narrative function in the current groups.
+  cautions: May fit chaos, divine_warrior, threshold_guardian, or trickster depending
+    on role; 'personified evil' may be a commentary artifact or culturally loaded
+    abstraction.
+  suggested_aliases:
+  - personified_evil_antagonist
+  - supernatural_evil_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-armed-maidens-appear-during-battle
+  motif_id: supernatural_armed_maidens_appear_during_battle
+  label: supernatural armed maidens appear during battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Supernatural armed female figures appearing in battle function as sacred
+    or otherworldly warrior agents.
+  cautions: If the figures determine fate of the slain, fate_figures_cosmic_weaving
+    or death_by_fate may be relevant; avoid reducing culturally specific valkyrie-like
+    roles to gender alone.
+  suggested_aliases:
+  - supernatural_battle_maidens
+  - armed_maiden_war_spirits
+  - female_supernatural_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-assistance-does-not-fulfill-the-initiating-desire
+  motif_id: supernatural_assistance_does_not_fulfill_the_initiating_desire
+  label: Supernatural assistance does not fulfill the initiating desire
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns supernatural aid in human affairs, even though the
+    aid fails or redirects the original desire.
+  cautions: Abstract and context-dependent; may be a plot-resolution artifact, moral
+    consequence, or failed quest rather than a reusable motif.
+  suggested_aliases:
+  - failed_supernatural_assistance
+  - misaligned_supernatural_aid
+  - supernatural_aid_fails_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-bride-offer-lost-through-mishandling
+  motif_id: supernatural_bride_offer_lost_through_mishandling
+  label: supernatural bride offer lost through mishandling
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural marriage opportunity is lost through improper handling,
+    fitting bride-winning and perilous love patterns.
+  cautions: Could also involve sacred_law or taboo violation if a specific prohibition
+    is mishandled; preserve supernatural-offer detail.
+  suggested_aliases:
+  - lost_supernatural_bride
+  - mishandled_bride_offer
+  - failed_supernatural_betrothal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-discovery-of-a-sleeping-mortal-beauty
+  motif_id: supernatural_discovery_of_a_sleeping_mortal_beauty
+  label: Supernatural discovery of a sleeping mortal beauty
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The encounter frames beauty and desire across mortal-supernatural boundaries,
+    aligning with sacred or perilous love.
+  cautions: May be an episode-specific romance setup; if sleep/enchantment or abduction
+    is central, otherworld or storytelling_as_power may be better.
+  suggested_aliases:
+  - sleeping_beauty_discovered_by_supernatural_being
+  - supernatural_gaze_on_sleeping_mortal
+  - mortal_beauty_found_asleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence romance or courtship episode
+  details; preserve evidence specificity and avoid promoting without recurrence.
+- The review bucket is love/family/body, but some items function more strongly as
+  combat, judgment, identity-token, or divine-intervention motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    roles and over-specific romance episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0772
+  input_sha256: 72ff6190c26d40a77471c8de8dc0efa293b1d6120ac46716c68f46cbb7097033
+

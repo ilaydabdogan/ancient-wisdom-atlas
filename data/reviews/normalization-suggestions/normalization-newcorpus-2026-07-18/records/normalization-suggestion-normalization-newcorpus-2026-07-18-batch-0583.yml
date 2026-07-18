@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0583
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deceptive-war-object-admitted-into-the-city
+  motif_id: deceptive_war_object_admitted_into_the_city
+  label: deceptive war-object admitted into the city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing trickster group already includes deceptive war stratagems
+    and hidden-warrior gifts; the core function is deception breaching a civic boundary.
+  cautions: Could also be indexed secondarily under sacred_combat if the military
+    context is more important than the deceptive object.
+  suggested_aliases:
+  - deceptive_war_stratagem
+  - deceptive_gift_containing_hidden_warriors
+  - trojan_horse_stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-written-promise-by-a-ruler
+  motif_id: deceptive_written_promise_by_a_ruler
+  label: Deceptive written promise by a ruler
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler's false written promise turns a formal bond into betrayal, matching
+    violated trust more closely than general royal legitimacy.
+  cautions: If the passage emphasizes oath-law or sacred speech rather than deception,
+    covenant or curse_blessing_speech may be better secondary mappings.
+  suggested_aliases:
+  - false_promise_by_ruler
+  - written_betrayal
+  - deceptive_promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-adversary-bound-by-oath-to-serve
+  motif_id: defeated_adversary_bound_by_oath_to_serve
+  label: Defeated adversary bound by oath to serve
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The binding oath is the key mechanism transforming a defeated enemy into
+    a servant.
+  cautions: Could also relate to covenant if the oath creates a durable political
+    bond, or sacred_combat if the combat outcome is primary.
+  suggested_aliases:
+  - oath_bound_service
+  - defeated_enemy_bound_by_oath
+  - oath_enforced_servitude
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-ruler-pleads-for-life-and-offers-land
+  motif_id: defeated_ruler_pleads_for_life_and_offers_land
+  label: Defeated ruler pleads for life and offers land
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing covenant group includes supplication, ransom, mercy, and
+    defeated-enemy mercy/refusal variants; this is a ruler-specific land-for-life
+    supplication.
+  cautions: May be over-specific; if no sacred or binding obligation is present, treat
+    as political narrative detail rather than a motif.
+  suggested_aliases:
+  - supplication_with_land_offer
+  - defeated_ruler_supplication
+  - ransom_offer_for_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defective-royal-throne-made-fit-by-miracle
+  motif_id: defective_royal_throne_made_fit_by_miracle
+  label: defective royal throne made fit by miracle
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A throne miraculously made fit functions as divine validation of rightful
+    rule or royal status.
+  cautions: If the emphasis is on the crafted object or miraculous repair rather than
+    kingship, sacred_craft or divine_intervention may be secondary.
+  suggested_aliases:
+  - miraculous_throne_validation
+  - royal_throne_miracle
+  - defective_throne_repaired_by_miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-glorified-through-honorific-titles
+  motif_id: deity_glorified_through_honorific_titles
+  label: deity glorified through honorific titles
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: low
+  rationale: Honorific naming and praise are performative sacred speech acts that
+    elevate or manifest divine status.
+  cautions: May be a hymn/liturgy or textual formula rather than a narrative motif;
+    review source context before indexing broadly.
+  suggested_aliases:
+  - divine_praise_titles
+  - honorific_divine_names
+  - deity_exalted_by_titles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-manifesting-as-an-honored-found-stone
+  motif_id: deity_manifesting_as_an_honored_found_stone
+  label: deity manifesting as an honored found stone
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on a deity manifesting materially to human recognition,
+    which fits theophany.
+  cautions: Because found stones may be culturally specific sacred objects, consider
+    sacred_treasures or local cult-object evidence as secondary; review sensitively.
+  suggested_aliases:
+  - divine_manifestation_in_stone
+  - sacred_found_stone
+  - deity_as_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delegated-war-expedition-against-a-rival-kingdom
+  motif_id: delegated_war_expedition_against_a_rival_kingdom
+  label: Delegated war expedition against a rival kingdom
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a plot or campaign detail rather than a stable symbolic
+    motif in the current taxonomy.
+  cautions: If source evidence shows ritualized or sacred warfare, sacred_combat may
+    be relevant; otherwise preserve only as passage detail.
+  suggested_aliases:
+  - delegated_military_campaign
+  - war_expedition_against_rival_kingdom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-king-s-cosmic-boast-after-hearing-bad-news
+  motif_id: demon_king_s_cosmic_boast_after_hearing_bad_news
+  label: demon king's cosmic boast after hearing bad news
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: medium
+  rationale: A demon king's cosmic boast is a hubristic overreach pattern, likely
+    anticipating humbling or downfall.
+  cautions: If no downfall or judgment follows, the label may be merely a speech scene;
+    the demon-king role should not force divine_warrior placement without combat evidence.
+  suggested_aliases:
+  - cosmic_boast
+  - demonic_hubris
+  - boastful_demon_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-reclamation-and-punishment-after-treasure-taking
+  motif_id: demonic_reclamation_and_punishment_after_treasure_taking
+  label: Demonic reclamation and punishment after treasure-taking
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment after taking treasure fits a transgression-and-reckoning pattern,
+    even when the punishing agent is demonic rather than divine.
+  cautions: Could also relate to sacred_treasures if the object is central, or forbidden_knowledge/sacred_theft
+    if the taking involves taboo acquisition.
+  suggested_aliases:
+  - punishment_for_treasure_taking
+  - supernatural_reclamation_of_stolen_treasure
+  - demonic_punishment_for_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply transmission
+  or common origin.
+- Several single-occurrence labels may be episode-specific; preserve local evidence
+  notes where mappings are accepted.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Mapped most labels to existing groups; one campaign-detail label suggested
+    for exclusion unless source evidence shows ritualized warfare.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0583
+  input_sha256: 377d36b314f539c5d5204bba33d38d8ede59750d0091000b7873066ff47ba4e0
+

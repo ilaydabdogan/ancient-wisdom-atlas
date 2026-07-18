@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1544
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reciprocal-refusal-to-mourn-among-kin
+  motif_id: reciprocal_refusal_to_mourn_among_kin
+  label: Reciprocal refusal to mourn among kin
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on mourning behavior among kin, fitting the mourning/lament
+    complex even though the refusal is the key action.
+  cautions: Single occurrence; may instead be an ethics or kinship-conflict detail
+    if no ritual or tragic recognition function is present.
+  suggested_aliases:
+  - refusal_to_mourn
+  - kin_refusal_to_mourn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-repayment-of-benefaction
+  motif_id: reciprocal_repayment_of_benefaction
+  label: Reciprocal repayment of benefaction
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Repayment of a benefaction is a reciprocity pattern, matching the sacred_exchange
+    group’s exchange and obligation logic.
+  cautions: If the passage is purely secular ethics without sacred or narrative consequence,
+    consider sacred_law or exclude as an abstract moral theme.
+  suggested_aliases:
+  - repayment_of_benefaction
+  - reciprocal_benefaction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-vengeance-at-the-site-of-injury
+  motif_id: reciprocal_vengeance_at_the_site_of_injury
+  label: Reciprocal vengeance at the site of injury
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance enacted at the injury site fits the existing combat/ritualized
+    conflict cluster, especially Celtic ford or site-bound revenge patterns.
+  cautions: Could instead belong under divine_judgment if framed as moral reckoning,
+    or be too episode-specific if it is only plot geography.
+  suggested_aliases:
+  - site_bound_vengeance
+  - vengeance_at_place_of_injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reckoning-time-from-a-fixed-era-to-the-dawn-of-tradition
+  motif_id: reckoning_time_from_a_fixed_era_to_the_dawn_of_tradition
+  label: reckoning time from a fixed era to the dawn of tradition
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns sacred or calendrical time reckoning from an era point,
+    which fits the sacred_time group better than narrative motifs.
+  cautions: May be a calendrical or scholarly chronology artifact rather than a mythic
+    motif; review Maya source context carefully before pattern indexing.
+  suggested_aliases:
+  - fixed_era_time_reckoning
+  - era_based_chronology
+  - reckoning_to_dawn_of_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-and-reunion-of-separated-kin
+  motif_id: recognition_and_reunion_of_separated_kin
+  label: recognition and reunion of separated kin
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: broader_label
+  confidence: medium
+  rationale: Recognition and reunion after separation fits the recognition/identity-proof
+    cluster even when the label does not name a specific token.
+  cautions: If no token, scar, sign, voice, or other proof is involved, this may be
+    a broader family-reunion plot detail rather than a token-recognition motif.
+  suggested_aliases:
+  - recognition_reunion
+  - reunion_of_separated_kin
+  - kin_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-golden-slipper
+  motif_id: recognition_by_golden_slipper
+  label: recognition by golden slipper
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: child
+  confidence: high
+  rationale: A golden slipper functions as a concrete recognition token proving identity
+    or matching the hidden person.
+  cautions: Preserve the slipper detail as local evidence; do not promote the object-specific
+    form unless it recurs across sources.
+  suggested_aliases:
+  - slipper_recognition_token
+  - recognition_by_shoe
+  - golden_slipper_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-preserved-token-or-gesture
+  motif_id: recognition_by_preserved_token_or_gesture
+  label: recognition by preserved token or gesture
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: child
+  confidence: high
+  rationale: The motif directly describes recognition through a retained sign, token,
+    or identifying gesture.
+  cautions: Gesture-based recognition may be non-object identity proof; preserve whether
+    the proof is material, bodily, verbal, or behavioral.
+  suggested_aliases:
+  - preserved_recognition_token
+  - recognition_by_gesture
+  - token_or_gesture_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-clue-left-by-forgotten-jewel
+  motif_id: recognition_clue_left_by_forgotten_jewel
+  label: recognition clue left by forgotten jewel
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: child
+  confidence: high
+  rationale: A forgotten jewel functioning as a clue is a recognition token or identity
+    proof object.
+  cautions: Object-specific and single occurrence; if the jewel mainly confers power
+    or status, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - jewel_recognition_token
+  - forgotten_jewel_clue
+  - recognition_by_jewel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-a-helper-by-a-token
+  motif_id: recognition_of_a_helper_by_a_token
+  label: recognition of a helper by a token
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: child
+  confidence: high
+  rationale: The label directly matches recognition by a token, with the recognized
+    person specified as a helper.
+  cautions: If the token’s main role is magical aid rather than identity proof, sacred_treasures
+    or divine_intervention may be relevant secondary contexts.
+  suggested_aliases:
+  - helper_recognition_token
+  - recognition_token_for_helper
+  - helper_identified_by_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-unwitting-crime-through-blood-evidence-and-laments
+  motif_id: recognition_of_unwitting_crime_through_blood_evidence_and_laments
+  label: recognition of unwitting crime through blood evidence and laments
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines tragic recognition, blood evidence, unwitting crime,
+    and lament; lament_and_mourning is the closest existing group.
+  cautions: Composite and source-specific; could also involve divine_judgment, sacred_law,
+    or recognition motifs depending on whether the focus is crime discovery, kin tragedy,
+    blood taboo, or mourning.
+  suggested_aliases:
+  - tragic_recognition_of_unwitting_crime
+  - blood_evidence_reveals_crime
+  - lament_after_unwitting_crime
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence recognition-token variants and
+  can likely be folded under recognition_tokens_hidden_identity while preserving object
+  details as evidence notes.
+- Reciprocity labels should be reviewed for whether the exchange is sacred/narrative
+  or merely an abstract ethical statement.
+- Composite labels involving mourning, crime, and blood evidence need passage review
+  before final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1544
+  input_sha256: 117a491bf3844503f716a0eceef6f2271f1b69550bc6ceb076352b1fe52d8b15
+

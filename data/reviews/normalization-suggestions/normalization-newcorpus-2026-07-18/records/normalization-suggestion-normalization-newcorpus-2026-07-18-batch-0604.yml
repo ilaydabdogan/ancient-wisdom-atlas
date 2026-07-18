@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0604
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.honor-bound-acceptance-of-single-combat
+  motif_id: honor_bound_acceptance_of_single_combat
+  label: honor-bound acceptance of single combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on accepting a duel because warrior honor requires
+    it, fitting the single-combat and ritualized warfare complex.
+  cautions: If the passage emphasizes personal ethics more than combat structure,
+    a secondary sacred_law or covenant reading may be relevant.
+  suggested_aliases:
+  - honor-bound duel acceptance
+  - single combat accepted by honor code
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-bound-reciprocal-retreat
+  motif_id: honor_bound_reciprocal_retreat
+  label: honor-bound reciprocal retreat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a reciprocal warrior-code obligation rather than a
+    clear combat, covenant, or sacred-law motif.
+  cautions: 'Needs source context: it may be an episode-specific chivalric courtesy,
+    tactical pause, geis-like obligation, or social-code detail.'
+  suggested_aliases:
+  - reciprocal retreat under honor code
+  - honor-bound mutual withdrawal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-bound-refusal-to-flee-certain-danger
+  motif_id: honor_bound_refusal_to_flee_certain_danger
+  label: Honor-bound refusal to flee certain danger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero refusing to flee certain danger often functions as acceptance
+    of fated death under warrior honor.
+  cautions: Do not assume fate unless the passage frames the danger as foreknown or
+    inescapable; otherwise sacred_combat may be the better primary group.
+  suggested_aliases:
+  - honor-bound refusal to flee doom
+  - warrior refuses flight from certain death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-bound-restraint-toward-a-protected-challenger
+  motif_id: honor_bound_restraint_toward_a_protected_challenger
+  label: Honor-bound restraint toward a protected challenger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restraint toward a protected challenger reflects a rule-bound honor code
+    governing violence and social obligation.
+  cautions: If the challenger’s protection is ritual, legal, or geis-based, preserve
+    that detail; if the focus is duel etiquette, sacred_combat may be secondary.
+  suggested_aliases:
+  - protected challenger spared by honor code
+  - honor restraint in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-challenged-by-public-accusation-of-cowardice
+  motif_id: honor_challenged_by_public_accusation_of_cowardice
+  label: honor challenged by public accusation of cowardice
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public accusation of cowardice functions as a social trigger for renewed
+    combat or heroic action.
+  cautions: If no combat or ordeal follows, this may be an over-specific honor-shame
+    narrative detail rather than a durable motif.
+  suggested_aliases:
+  - cowardice accusation provokes honor response
+  - public honor challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-grievance-answered-by-vengeance-oath
+  motif_id: honor_grievance_answered_by_vengeance_oath
+  label: honor grievance answered by vengeance oath
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vengeance oath is a binding performative speech act that converts honor
+    grievance into obligation.
+  cautions: If the emphasis is martial revenge rather than the oath itself, divine_warrior
+    or sacred_combat may be a secondary mapping.
+  suggested_aliases:
+  - vengeance oath for honor grievance
+  - oath-bound revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-prize-awarded-to-a-maiden
+  motif_id: honor_prize_awarded_to_a_maiden
+  label: honor-prize awarded to a maiden
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve bride-winning, reward distribution, status recognition,
+    or courtly honor, and the function is unclear.
+  cautions: Avoid mapping to sacred_love unless the maiden is a marriage partner or
+    beloved; otherwise this may be a courtly episode detail or prize-allocation motif.
+  suggested_aliases:
+  - maiden awarded as honor prize
+  - honor prize to maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-rebuke-followed-by-renewed-challenge
+  motif_id: honor_rebuke_followed_by_renewed_challenge
+  label: Honor rebuke followed by renewed challenge
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rebuke to honor that produces a renewed challenge fits the combat-escalation
+    logic of ritualized heroic conflict.
+  cautions: If the rebuke is primarily verbal satire or legal shame rather than combat
+    provocation, curse_blessing_speech or sacred_law may be more relevant.
+  suggested_aliases:
+  - honor rebuke renews challenge
+  - public rebuke provokes combat challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-refused-until-companion-is-included
+  motif_id: honor_refused_until_companion_is_included
+  label: honor refused until companion is included
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns shared recognition and reciprocity, but it is unclear
+    whether this is ritual exchange, social honor, or episode-specific loyalty.
+  cautions: Needs passage evidence before mapping; could fit sacred_exchange, sacred_law,
+    companion loyalty, or be too specific for pattern queries.
+  suggested_aliases:
+  - honor shared with companion
+  - refusal of honor without companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-rising-after-another-hero-s-decline
+  motif_id: honor_rising_after_another_hero_s_decline
+  label: Honor rising after another hero’s decline
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests status transfer or heroic succession, but existing
+    groups only partially cover honor replacing another hero’s decline.
+  cautions: May be a narrative status note rather than a motif; map to royal_legitimacy
+    only if succession, authority, or public recognition is central.
+  suggested_aliases:
+  - heroic honor rises after rival decline
+  - status transfer after hero decline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a possible recurring warrior honor-code cluster, but most
+  have single occurrences and can be provisionally handled by sacred_combat, sacred_law,
+  curse_blessing_speech, or death_by_fate until recurrence justifies a new group.
+- Do not infer sacred or legal force from the word honor alone; verify whether the
+  passage frames honor as ritual obligation, social code, martial challenge, oath,
+  or merely narrative reputation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; honor-code motifs are context-sensitive and
+    often overlap combat, oath, social law, and status-recognition functions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0604
+  input_sha256: 418d04ee47994bb9dbf7785adeabbda64f8caa1e472377476b4b98ff640a75ad
+

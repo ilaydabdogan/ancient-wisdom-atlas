@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0935
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-barrenness-contrasted-with-fruitful-creation
+  motif_id: human_barrenness_contrasted_with_fruitful_creation
+  label: human barrenness contrasted with fruitful creation
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label contrasts infertility with cosmic or natural fruitfulness,
+    but the motif function could be creation, sacred birth, lament, or theological
+    commentary.
+  cautions: Single occurrence and abstract wording; source context is needed before
+    mapping to cosmic_origin, sacred_birth, or mother_goddess.
+  suggested_aliases:
+  - barrenness_contrasted_with_creation
+  - fruitful_creation_and_human_barrenness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-creation-by-a-great-maker
+  motif_id: human_creation_by_a_great_maker
+  label: Human creation by a Great Maker
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: high
+  rationale: Human creation by a creator figure is a clear anthropogonic creation
+    motif within cosmic origins.
+  cautions: Preserve local creator-title wording; do not infer equivalence with other
+    creator gods or transmission.
+  suggested_aliases:
+  - creation_of_humans_by_creator
+  - anthropogony_by_great_maker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-creation-from-blood-clot-material
+  motif_id: human_creation_from_blood_clot_material
+  label: Human creation from blood-clot material
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns the material origin of humans, fitting anthropogony
+    under cosmic origin and creation.
+  cautions: Could also relate to sacred_law or sacred_substance through blood symbolism,
+    but the primary function is human origin.
+  suggested_aliases:
+  - human_creation_from_clotted_blood
+  - anthropogony_from_blood_clot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-creation-from-clay
+  motif_id: human_creation_from_clay
+  label: Human creation from clay
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Creation of humans from clay is a standard material-origin anthropogony
+    within creation motifs.
+  cautions: If the passage emphasizes animation of a crafted body, sacred_craft may
+    be a secondary relation.
+  suggested_aliases:
+  - humanity_created_from_clay
+  - anthropogony_from_clay
+  - human_formed_from_clay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-creation-from-congealed-blood
+  motif_id: human_creation_from_congealed_blood
+  label: Human creation from congealed blood
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a material-origin account of human creation and belongs under
+    cosmic origin.
+  cautions: Likely overlaps with human_creation_from_blood_clot_material; review whether
+    these should be aliases or retained as source-specific wording.
+  suggested_aliases:
+  - human_creation_from_clotted_blood
+  - human_creation_from_blood_clot_material
+  - anthropogony_from_congealed_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-lament-and-tumult-disturbing-the-natural-world
+  motif_id: human_lament_and_tumult_disturbing_the_natural_world
+  label: human lament and tumult disturbing the natural world
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is lament whose force affects the surrounding world,
+    fitting mourning as a transformative or disruptive expression.
+  cautions: If the passage emphasizes cosmic disorder rather than grief, divine_judgment,
+    chaos, or dream_and_vision may be relevant; single occurrence is highly contextual.
+  suggested_aliases:
+  - lament_disturbs_nature
+  - mourning_disrupts_natural_order
+  - tumult_of_grief_disturbs_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-origin-from-ash-trees-or-tree-nymphs
+  motif_id: human_origin_from_ash_trees_or_tree_nymphs
+  label: human origin from ash-trees or tree nymphs
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes human origins from trees or tree-associated beings,
+    an anthropogonic origin motif.
+  cautions: Tree imagery may also relate to axis_mundi or mother_goddess, but only
+    if the source gives the tree a cosmic-center or maternal divine function.
+  suggested_aliases:
+  - human_origin_from_trees
+  - humanity_from_ash_trees
+  - human_origin_from_tree_nymphs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-transformed-into-river
+  motif_id: human_transformed_into_river
+  label: human transformed into river
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A human becoming a river is a metamorphic transformation into a natural
+    feature, fitting death/transformation more than ordinary water symbolism.
+  cautions: If the episode explains a landscape feature, cosmic_origin or etiological
+    landscape formation may be a secondary mapping; if the river is sacred passage,
+    sacred_waters may be relevant.
+  suggested_aliases:
+  - transformation_into_river
+  - person_becomes_river
+  - human_metamorphosis_into_river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-youth-with-exceptional-affinity-for-the-sea
+  motif_id: human_youth_with_exceptional_affinity_for_the_sea
+  label: human youth with exceptional affinity for the sea
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a character trait rather than a clear narrative function;
+    the sea affinity could signal otherworld connection, initiation, or local characterization.
+  cautions: Single occurrence and likely over-specific; do not map to sacred_waters
+    unless water functions as boundary, purifier, danger, or transformation medium.
+  suggested_aliases:
+  - youth_affinity_for_sea
+  - sea_attuned_youth
+  - exceptional_connection_to_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humanity-formed-from-earth-or-clay
+  motif_id: humanity_formed_from_earth_or_clay
+  label: humanity formed from earth or clay
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Humanity formed from earth or clay is a clear anthropogonic material-creation
+    motif.
+  cautions: Likely aliases with human_creation_from_clay; preserve tradition-specific
+    wording where useful.
+  suggested_aliases:
+  - human_creation_from_clay
+  - humanity_created_from_earth
+  - anthropogony_from_earth_or_clay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are anthropogony labels that fit cosmic_origin as narrower creation-material
+  variants; human_creation_from_clay and humanity_formed_from_earth_or_clay may be
+  alias candidates.
+- Blood-clot and congealed-blood creation labels appear closely overlapping and should
+  be reviewed together for alias consolidation.
+- Single-occurrence, trait-like, or abstract contrast labels should remain provisional
+  until source passages confirm motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0935
+  input_sha256: cef82c5ebb57ec592e4af9caffc9c47830ed6e3a2a93657ebf7618b8ebf9c1c7
+

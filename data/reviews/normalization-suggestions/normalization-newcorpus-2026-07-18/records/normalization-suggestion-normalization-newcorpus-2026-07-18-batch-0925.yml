@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0925
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.great-creature-in-water-rich-habitat
+  motif_id: great_creature_in_water_rich_habitat
+  label: Great creature in water-rich habitat
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too generic to tell whether the creature is chaos monster,
+    sacred animal, habitat detail, or natural description.
+  cautions: Do not map to flood, serpent, or chaos without passage evidence of narrative
+    function or symbolic role.
+  suggested_aliases:
+  - great water creature
+  - large creature in aquatic habitat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.great-fire-event-in-the-katun-sequence
+  motif_id: great_fire_event_in_the_katun_sequence
+  label: great-fire event in the katun sequence
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fire event within a katun sequence is primarily calendrical or cyclical
+    sacred time rather than generic fire symbolism.
+  cautions: If the passage describes world destruction or renewal by fire, secondary
+    review under flood_and_renewal or world_destroying_fire may be warranted.
+  suggested_aliases:
+  - katun fire event
+  - calendrical fire event
+  - fire in katun cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.great-waters-legend
+  motif_id: great_waters_legend
+  label: great waters legend
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Great waters may indicate flood, primordial waters, sacred waters, or
+    a local water-body tradition; the function is unclear.
+  cautions: Avoid mapping to flood_and_renewal unless catastrophic destruction and
+    renewal are explicit.
+  suggested_aliases:
+  - great waters
+  - great water tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-as-consuming-inner-fire
+  motif_id: grief_as_consuming_inner_fire
+  label: grief as consuming inner fire
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif centers on grief and mourning, with fire functioning as metaphor
+    for consuming inner pain.
+  cautions: Do not map to sacred_fire unless the fire is ritually or divinely active
+    rather than figurative emotion.
+  suggested_aliases:
+  - grief as inner fire
+  - mourning as consuming fire
+  - sorrow burns within
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-figured-as-a-stripped-tree
+  motif_id: grief_figured_as_a_stripped_tree
+  label: Grief figured as a stripped tree
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The core motif is grief expressed through a nature image; the tree is
+    metaphorical rather than an axis mundi.
+  cautions: Only map to axis_mundi or sacred_tree_axis if the tree functions as a
+    cosmic connector or sacred center in the passage.
+  suggested_aliases:
+  - mourning as stripped tree
+  - grief as leafless tree
+  - bereavement figured as a tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-champion-breaks-restraint-and-turns-battle
+  motif_id: guarded_champion_breaks_restraint_and_turns_battle
+  label: guarded champion breaks restraint and turns battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a battle-turning champion episode, fitting heroic
+    or ritually charged combat more than nature imagery.
+  cautions: May be episode-specific; if the restraint is a geis, taboo, or binding
+    speech act, curse_blessing_speech or sacred_law may be relevant.
+  suggested_aliases:
+  - champion breaks restraint
+  - restrained champion turns battle
+  - battle turned by released champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-heaven-blocks-illicit-listening-with-fire
+  motif_id: guarded_heaven_blocks_illicit_listening_with_fire
+  label: Guarded heaven blocks illicit listening with fire
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns forbidden access to heavenly knowledge, with fire
+    enforcing the boundary against illicit listening.
+  cautions: Could also involve threshold_guardian, sacred_fire, or divine_judgment
+    depending on whether the passage emphasizes boundary, fiery weapon, or punishment.
+  suggested_aliases:
+  - heaven guarded against eavesdropping
+  - illicit listening blocked by fire
+  - forbidden heavenly knowledge protected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-magical-tree-with-forbidden-berries
+  motif_id: guarded_magical_tree_with_forbidden_berries
+  label: guarded magical tree with forbidden berries
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forbidden fruit or berries on a guarded magical tree suggests restricted
+    access to transformative or prohibited power.
+  cautions: If the tree is chiefly a world-axis, map also to axis_mundi; if the guardian
+    is central, threshold_guardian may be a better primary group.
+  suggested_aliases:
+  - forbidden berries on guarded tree
+  - guarded magical fruit tree
+  - forbidden fruit tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-scarce-water-source
+  motif_id: guarded_scarce_water_source
+  label: Guarded scarce water source
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guarded vital resource frames access to a boundary or test controlled
+    by a guardian figure.
+  cautions: If the focus is ritual water, scarcity ecology, or social access rather
+    than a guardian ordeal, sacred_waters or needs_human_review may be preferable.
+  suggested_aliases:
+  - guarded water source
+  - water source guarded
+  - guardian of scarce water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-water-of-life-in-rock-or-mountain
+  motif_id: guarded_water_of_life_in_rock_or_mountain
+  label: guarded water of life in rock or mountain
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: Water of life is a transformative sacred water, here located in a liminal
+    rock or mountain and guarded from ordinary access.
+  cautions: May also relate to threshold_guardian, axis_mundi, or sacred_treasures
+    depending on whether the passage emphasizes the guardian, mountain setting, or
+    quest object.
+  suggested_aliases:
+  - water of life guarded in mountain
+  - guarded life-giving water
+  - water of life in rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels were placed outside the supplied nature bucket because their narrative
+  function is grief, combat, knowledge, or threshold access rather than nature symbolism.
+- Single-occurrence, highly contextual labels should preserve local evidence notes
+  and receive human review before canonical promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0925
+  input_sha256: 8d14f2f516f4adf682b842c7f24dd85520374ba54d271fc74ba3d9d21430d779
+

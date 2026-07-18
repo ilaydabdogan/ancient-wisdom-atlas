@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0356
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.impartial-testimony-before-divine-witness
+  motif_id: impartial_testimony_before_divine_witness
+  label: impartial testimony before divine witness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Impartial testimony before God functions as ethical/legal obligation
+    grounded in sacred order.
+  cautions: Could also map to divine_judgment if the passage emphasizes God as evaluator
+    rather than the duty to testify.
+  suggested_aliases:
+  - truthful testimony before divine witness
+  - sacred witness testimony
+  - impartial sacred testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-religious-centralization-under-one-god
+  motif_id: imperial_religious_centralization_under_one_god
+  label: imperial religious centralization under one god
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes imperial policy, religious centralization, and monotheizing
+    interpretation without enough motif function.
+  cautions: May be historical/commentary artifact rather than narrative motif; could
+    relate to royal_legitimacy, supreme_ruler, or sacred_law depending on source evidence.
+  suggested_aliases:
+  - centralized imperial cult
+  - imperial cult centralization
+  - one-god imperial religious order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperious-wooing-refused-by-sacred-authority
+  motif_id: imperious_wooing_refused_by_sacred_authority
+  label: Imperious wooing refused by sacred authority
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could involve sacred marriage refusal, social authority, coercive
+    courtship, or a passage-specific episode.
+  cautions: Do not map to sacred_love or sacred_marriage without evidence that the
+    wooing carries cosmic, ritual, or sovereignty function.
+  suggested_aliases:
+  - coercive wooing refused by sacred authority
+  - authoritative refusal of imperious suitor
+  - sacred authority rejects wooing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impurity-transmitted-by-carcass-contact
+  motif_id: impurity_transmitted_by_carcass_contact
+  label: impurity transmitted by carcass contact
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Carcass-contact impurity is a ritual purity prohibition regulated by
+    sacred law.
+  cautions: If the passage emphasizes sacrifice or corpse-related mortuary danger,
+    secondary review against sacrifice or ancestor/death rites may be useful.
+  suggested_aliases:
+  - carcass contact impurity
+  - ritual impurity from dead animal contact
+  - contact impurity from carcass
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.indwelling-deity-and-heart-temple
+  motif_id: indwelling_deity_and_heart_temple
+  label: Indwelling deity and heart-temple
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The heart as temple of an indwelling deity points to interiorized sacred
+    presence and contemplative transformation.
+  cautions: Could also fit theophany or axis_mundi if the heart-temple functions as
+    divine manifestation or cosmic center rather than mystical interiority.
+  suggested_aliases:
+  - heart as temple of God
+  - inner temple of the deity
+  - deity indwelling the heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.indwelling-divine-presence-in-the-heart
+  motif_id: indwelling_divine_presence_in_the_heart
+  label: indwelling divine presence in the heart
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An indwelling divine presence in the heart is an interior sacred-realization
+    motif aligned with mystical quest.
+  cautions: May be doctrinal teaching rather than narrative motif; if focused on manifestation
+    of divine presence, theophany may be a secondary group.
+  suggested_aliases:
+  - divine presence in the heart
+  - inner indwelling deity
+  - heart as seat of divine presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ineffective-blessings-against-danger
+  motif_id: ineffective_blessings_against_danger
+  label: Ineffective blessings against danger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a blessing speech act whose expected protective
+    power fails.
+  cautions: Could belong with death_by_fate if the failure demonstrates inescapable
+    destiny; source context matters.
+  suggested_aliases:
+  - failed protective blessing
+  - blessing powerless against danger
+  - ineffective protective speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ineffective-false-gods-versus-divine-power
+  motif_id: ineffective_false_gods_versus_divine_power
+  label: Ineffective false gods versus divine power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between powerless false gods and true divine power functions
+    as vindication of sacred order.
+  cautions: May be polemical theology rather than narrative motif; if centered on
+    idols, review against sacred_treasures/idol or covenant violation.
+  suggested_aliases:
+  - false gods powerless before divine power
+  - divine power exposes false gods
+  - ineffectual false deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ineffective-hostile-incantation-against-divine-champion
+  motif_id: ineffective_hostile_incantation_against_divine_champion
+  label: Ineffective hostile incantation against divine champion
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile spell failing against a divine champion belongs to sacred combat
+    and divine warrior invulnerability or superiority.
+  cautions: If the main motif is the failed speech act rather than combat, curse_blessing_speech
+    may be a better secondary mapping.
+  suggested_aliases:
+  - hostile incantation fails against champion
+  - spell powerless against divine warrior
+  - ineffective curse against divine champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ineffective-prayer-to-false-deities
+  motif_id: ineffective_prayer_to_false_deities
+  label: Ineffective prayer to false deities
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unanswered prayer to false deities demonstrates judgment or exposure
+    of illegitimate sacred powers.
+  cautions: May be theological polemic or commentary rather than a reusable narrative
+    motif; review against covenant/idol contexts if present.
+  suggested_aliases:
+  - prayer to false gods fails
+  - false deities cannot answer prayer
+  - ineffectual prayer to idols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve polemical claims about false gods or ineffective
+  ritual speech; preserve source context and avoid treating taxonomy placement as
+  a transmission or truth claim.
+- Single-occurrence, highly contextual labels should remain provisional pending passage-level
+  review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous political, polemical, and interior-devotion labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0356
+  input_sha256: 70b9ed882154ea25b4e2adb519019f0017b9776b9bf82271536cc48ee366ee24
+

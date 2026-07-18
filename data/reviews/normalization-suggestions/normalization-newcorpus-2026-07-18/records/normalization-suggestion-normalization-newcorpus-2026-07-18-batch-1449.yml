@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1449
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.invisible-regents-governing-natural-domains
+  motif_id: invisible_regents_governing_natural_domains
+  label: invisible regents governing natural domains
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Invisible powers governing domains fit tutelary or divine agency acting
+    in the natural world.
+  cautions: Could deserve a nature-spirit or genius-loci group if many comparable
+    labels recur; source context may distinguish deities, spirits, or personified
+    domains.
+  suggested_aliases:
+  - natural domain regents
+  - invisible nature rulers
+  - tutelary spirits of natural domains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisible-uninvited-feast-raiders-steal-and-replace-food
+  motif_id: invisible_uninvited_feast_raiders_steal_and_replace_food
+  label: Invisible uninvited feast-raiders steal and replace food
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines invisibility, food theft, feast intrusion, and replacement
+    magic without a clear existing parent.
+  cautions: May be a trickster/theft episode, fairy/otherworld intrusion, household
+    spirit belief, or over-specific tale detail; review passage evidence before grouping.
+  suggested_aliases:
+  - invisible feast raiders
+  - supernatural food theft at feast
+  - unseen beings steal and replace food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invitation-concealing-hostile-intent
+  motif_id: invitation_concealing_hostile_intent
+  label: Invitation concealing hostile intent
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A friendly invitation masking violence turns a social bond or guest relation
+    into betrayal.
+  cautions: If the episode is primarily a war stratagem, ambush, or feast betrayal,
+    secondary mapping to sacred_combat, trickster, or hospitality_test may be needed.
+  suggested_aliases:
+  - treacherous invitation
+  - hostile invitation under false hospitality
+  - invitation as ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invitation-to-a-feast-by-formal-embassy
+  motif_id: invitation_to_a_feast_by_formal_embassy
+  label: invitation to a feast by formal embassy
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific diplomatic plot mechanism rather than a
+    symbolic motif by itself.
+  cautions: Do not exclude if the feast functions as a hospitality test, sacred exchange,
+    betrayal scene, or ritualized social bond in the passage.
+  suggested_aliases:
+  - formal embassy feast invitation
+  - diplomatic feast invitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invitation-to-an-unaging-sorrowless-country
+  motif_id: invitation_to_an_unaging_sorrowless_country
+  label: invitation to an unaging sorrowless country
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: An unaging, sorrowless country is a classic enchanted otherworld or blessed
+    realm entered by invitation.
+  cautions: If framed as a postmortem destination rather than a parallel fairy realm,
+    afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - invitation to the land of youth
+  - invitation to sorrowless otherworld
+  - unaging blessed country
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invitation-to-fairyland
+  motif_id: invitation_to_fairyland
+  label: invitation to Fairyland
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: Fairyland is already covered by the otherworld and enchanted realm group.
+  cautions: Preserve whether the invitation leads to abduction, exchange, time distortion,
+    marriage, or a voluntary sojourn.
+  suggested_aliases:
+  - fairyland invitation
+  - invitation to the fairy country
+  - summons to fairyland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-for-strengthened-faculties
+  motif_id: invocation_for_strengthened_faculties
+  label: invocation for strengthened faculties
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prayer for enhanced faculties seeks sacred empowerment of perception,
+    speech, or understanding.
+  cautions: Could fit sacred_exchange if framed as prayer-offering reciprocity, or
+    mystical_quest if tied to contemplative discipline; source wording matters.
+  suggested_aliases:
+  - prayer for strengthened faculties
+  - invocation for enhanced perception
+  - sacred empowerment of faculties
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-an-atmospheric-male-deity
+  motif_id: invocation_of_an_atmospheric_male_deity
+  label: Invocation of an atmospheric male deity
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a ritual address to a specific class of deity but
+    not its narrative or symbolic function.
+  cautions: Culturally sensitive source context is needed; may be prayer, weather
+    power, healing rite, divine intervention, or a passage-specific ritual detail.
+  suggested_aliases:
+  - invocation of atmospheric deity
+  - prayer to male sky deity
+  - ritual address to weather deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-winged-weather-powers-or-addressee-s
+  motif_id: invocation_of_winged_weather_powers_or_addressee_s
+  label: Invocation of winged weather powers or addressee(s)
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a culturally specific ritual address to weather powers,
+    with unclear motif function from wording alone.
+  cautions: Review for Indigenous ceremonial context; avoid flattening distinct beings
+    into generic divine intervention unless the passage shows intervention, guidance,
+    or weather control.
+  suggested_aliases:
+  - invocation of winged weather powers
+  - prayer to weather beings
+  - ritual address to winged powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerability-boon-with-omitted-human-vulnerability
+  motif_id: invulnerability_boon_with_omitted_human_vulnerability
+  label: Invulnerability boon with omitted human vulnerability
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: child
+  confidence: high
+  rationale: This is a direct variant of invulnerability limited by an omitted exception
+    or loophole.
+  cautions: Preserve the human-vulnerability detail as evidence; do not merge with
+    general heroic invulnerability where no fatal exception is present.
+  suggested_aliases:
+  - invulnerability boon with human loophole
+  - omitted human exception in invulnerability boon
+  - conditional invulnerability through omitted human vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several invocation labels are likely ritual-text details and should be reviewed
+  with source evidence before broad pattern mapping.
+- Invitation labels split between otherworld summons, betrayal/hospitality structures,
+  and plot-specific diplomatic details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1449
+  input_sha256: ee44bf5b8da2d1b87a1aabeda4bcf384064abe84c81b2b9d64926f473c4ad871
+

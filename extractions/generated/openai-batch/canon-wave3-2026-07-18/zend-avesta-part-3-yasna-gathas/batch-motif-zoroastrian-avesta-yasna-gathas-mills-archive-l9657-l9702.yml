@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l9657-l9702
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA    XLVII.  I45 / YASNA    XLVII.  I47 / YASNA    XLVII.  H9 / I50  THE    GATHAS.;
+    lines 9657-9702
+  start: '9657'
+  end: '9702'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that Ahura Mazda will give the best gifts to the holy
+    saint through the bounteous spirit. It contrasts this with the wicked, whose portion
+    is far from Ahura Mazda's love and who abides in the actions of the Evil Mind.
+    A following verse states that Ahura Mazda gives through the bounteous spirit and
+    by Fire as a good bestowal. The included note explains the contrast as Ahura's
+    different treatment of the good and evil.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ahura Mazda is addressed as the giver of gifts.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: The holy saint is described as receiving what is best through Ahura Mazda's
+    bounteous spirit.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wicked is described as having a portion far from Ahura Mazda's love.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wicked is described as abiding in the actions of the Evil Mind.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Fire is named as a means or medium associated with Ahura Mazda's good bestowal.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The included note says that the passage contrasts Ahura's treatment of the
+    good and the evil.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The addressed divine figure who gives gifts and bestowal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: holy saint
+  description: The recipient described as receiving the best gifts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the wicked
+  description: The figure or class described as far from Ahura Mazda's love and abiding
+    in the actions of the Evil Mind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Evil Mind
+  description: The named negative mind in whose actions the wicked is said to abide.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: bounteous spirit
+  description: Ahura Mazda's bounteous spirit, through which gifts are given.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: divine giver
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda is addressed as the one who will give gifts and bestowal.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: holy recipient
+  assigned_to:
+  - fig:2
+  basis: The holy saint is addressed as the one to whom the best gifts are given.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wicked counterpart
+  assigned_to:
+  - fig:3
+  basis: The wicked is contrasted with the holy saint and given a portion far from
+    divine love.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: negative moral association
+  assigned_to:
+  - fig:4
+  basis: The wicked abides in the actions of the Evil Mind.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mediating spirit
+  assigned_to:
+  - fig:5
+  basis: The gifts are said to come through Ahura Mazda's bounteous spirit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: gifts
+  literal_form: gifts / good bestowal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bestowal to the holy saint
+  summary: Ahura Mazda gives the best gifts to the holy saint through the bounteous
+    spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contrasted portion of the wicked
+  summary: The wicked has a portion far from Ahura Mazda's love and abides in the
+    actions of the Evil Mind.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Bestowal through spirit and Fire
+  summary: Ahura Mazda is said to give through the bounteous spirit and by Fire as
+    a good bestowal.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: contrasted divine allotment for holy and wicked
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ahura Mazda gives the best gifts to the holy saint, while the wicked has
+    a portion far from divine love; the note states that the passage contrasts Ahura's
+    treatment of good and evil.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage speaks of gifts, portion, and contrasting treatment, but it
+    does not use an explicit judgment-scene framework in the excerpt.
+- id: motif:2
+  label: moral duality of holy saint and wicked/Evil Mind
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts the holy saint receiving the best gifts through the
+    bounteous spirit with the wicked abiding in the actions of the Evil Mind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The extraction is limited to the local contrast in this passage and does
+    not infer a full cosmological system beyond the excerpt.
+- id: motif:3
+  label: divine bestowal mediated by spirit and Fire
+  taxonomy_refs: []
+  basis: Ahura Mazda's giving is described as occurring through the bounteous spirit
+    and by Fire as a good bestowal.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The verse is interrupted in the provided passage, so the full syntax and
+    recipient of the bestowal in verse 6 are not completely visible.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9659-9664, verse 5
+  quote_or_summary: '"Thou wilt give these gifts ... through Thy ... bounteous spirit,
+    O Ahura Mazda! to this ... Thy holy saint ... whatsoever is the best"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9662-9664, verse 5
+  quote_or_summary: '"far ... from Thy love the wicked has his portion, abiding in
+    the actions of the Evil Mind."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 9666-9668, verse 6
+  quote_or_summary: '"these things wilt Thou give ... O Thou Ahura Mazda! and through
+    Thy bounteous spirit, (and) by Thy Fire as in a good bestowal"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 9688-9696, editorial note
+  quote_or_summary: '"the following verse ... directly contrasts the treatment of
+    the good and evil by Ahura Himself."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main contrast between holy and wicked is clear. Verse 6 is partly interrupted
+    by commentary in the supplied passage, so details of the Fire-bestowal statement
+    are treated cautiously. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l9657-l9702
+  passage_sha256=b2e3495840c9f1b5ce5f95fa77acedf2508a30f4cdaa55b3b056661179763156
+

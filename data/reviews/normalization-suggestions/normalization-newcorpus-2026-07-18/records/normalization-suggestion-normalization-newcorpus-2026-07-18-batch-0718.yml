@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0718
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-child-under-claim-from-a-water-being
+  motif_id: human_child_under_claim_from_a_water_being
+  label: human child under claim from a water being
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve water-spirit abduction, child custody, otherworld
+    claim, or exchange, but the function is unclear from the label alone.
+  cautions: Could fit otherworld, sacred_waters, miraculous_child, or a local spirit-abduction
+    pattern; source evidence is needed before mapping.
+  suggested_aliases:
+  - water being claims child
+  - child claimed by water spirit
+  - water-spirit child claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_waters
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-foster-mother-raises-an-animal-child
+  motif_id: human_foster_mother_raises_an_animal_child
+  label: Human foster-mother raises an animal child
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines fosterage, human-animal kinship, and anomalous child-rearing
+    without a clear existing parent group.
+  cautions: May belong with miraculous_child if the animal child has sacred destiny,
+    shapeshifter if human/animal identity changes, or a future animal-kinship group
+    if such labels recur.
+  suggested_aliases:
+  - human foster mother of animal child
+  - animal child raised by human mother
+  - cross-species fosterage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-or-foolish-youth-becomes-important-through-royal-marriage-and-wealth
+  motif_id: humble_or_foolish_youth_becomes_important_through_royal_marriage_and_wealth
+  label: Humble or foolish youth becomes important through royal marriage and wealth
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage into royalty and acquisition of wealth elevate an unlikely youth
+    into legitimate status or social importance.
+  cautions: If the passage is comic social mobility rather than legitimation of rule
+    or rank, it may be an over-specific folktale plot detail.
+  suggested_aliases:
+  - humble youth gains royal marriage
+  - foolish youth elevated by marriage
+  - low-status youth gains wealth and rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliating-concealment-in-a-giant-s-glove
+  motif_id: humiliating_concealment_in_a_giant_s_glove
+  label: Humiliating concealment in a giant's glove
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a highly episode-specific detail of concealment and humiliation
+    rather than a durable broad motif.
+  cautions: If many comparable giant-object shelter or deceptive shelter labels recur,
+    consider a later giant/scale-inversion or humiliating refuge grouping; otherwise
+    preserve as evidence detail only.
+  suggested_aliases:
+  - concealment in giant glove
+  - giant glove refuge
+  - humiliating giant-object shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunted-person-fearing-a-hidden-foe
+  motif_id: hunted_person_fearing_a_hidden_foe
+  label: hunted person fearing a hidden foe
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label expresses pursuit and fear but does not identify whether the
+    hidden foe is supernatural, human, predatory, or initiatory.
+  cautions: Could fit sacred_combat, threshold_guardian, trickster, divine_judgment,
+    or a general pursuit motif not currently represented; source context is required.
+  suggested_aliases:
+  - fear of hidden pursuer
+  - hunted by hidden foe
+  - concealed enemy pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - threshold_guardian
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.husband-uses-spouse-s-contrariness-as-a-strategy
+  motif_id: husband_uses_spouse_s_contrariness_as_a_strategy
+  label: husband uses spouse’s contrariness as a strategy
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using another person's predictable contrariness as a tactic is a deception
+    or clever-strategy pattern.
+  cautions: This may be a gendered domestic folktale detail rather than sacred trickster
+    material; review for culturally sensitive stereotyping and avoid broad claims
+    from the label alone.
+  suggested_aliases:
+  - contrary spouse exploited strategically
+  - spouse's contrariness used as trick
+  - domestic contrariness strategy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-marvellous-land-of-beauty-and-abundance
+  motif_id: ideal_marvellous_land_of_beauty_and_abundance
+  label: Ideal marvellous land of beauty and abundance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: A marvelous land of beauty and abundance matches the otherworld as an
+    enchanted, abundant realm alongside ordinary reality.
+  cautions: If the land is a postmortem destination, afterlife_passage may be a secondary
+    mapping; if purely utopian geography, avoid over-spiritualizing.
+  suggested_aliases:
+  - marvellous land of abundance
+  - ideal otherworld of beauty
+  - abundant marvelous land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imagined-upward-mobility-through-trade-and-marriage-alliance
+  motif_id: imagined_upward_mobility_through_trade_and_marriage_alliance
+  label: Imagined upward mobility through trade and marriage alliance
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a social aspiration or plot-specific fantasy rather
+    than a stable mythic motif in the current taxonomy.
+  cautions: If the passage centers on royal marriage establishing legitimate rank,
+    royal_legitimacy may be appropriate; otherwise preserve as contextual evidence.
+  suggested_aliases:
+  - upward mobility by marriage alliance
+  - trade and marriage social ascent
+  - imagined social rise through marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_exchange
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-spear-thrust-comparison
+  motif_id: impossible_spear_thrust_comparison
+  label: impossible spear-thrust comparison
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording suggests a simile, comparison, or localized rhetorical detail
+    rather than a narrative motif.
+  cautions: If the source describes an actual impossible martial feat, sacred_combat
+    or divine_warrior could be reviewed; as phrased, exclude from pattern queries.
+  suggested_aliases:
+  - impossible spear thrust simile
+  - spear-thrust comparison
+  - hyperbolic spear comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-spinning-task-for-royal-marriage
+  motif_id: impossible_spinning_task_for_royal_marriage
+  label: Impossible spinning task for royal marriage
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Impossible Task for Marriage or Rank
+  relationship: narrower_than
+  confidence: medium
+  rationale: An impossible task required for royal marriage is a recurring folktale
+    ordeal not cleanly captured by existing sacred_love or royal_legitimacy groups.
+  cautions: Could be indexed secondarily under sacred_love or royal_legitimacy, but
+    the core function is task-based testing for marriage/status; verify recurrence
+    beyond this item before adding.
+  suggested_aliases:
+  - impossible task for royal marriage
+  - spinning task bride test
+  - marriage won by impossible task
+  suggested_new_group:
+    id: impossible_task_for_marriage_or_rank
+    label: Impossible Task for Marriage or Rank
+    description: An impossible, supernatural, or nearly impossible task is imposed
+      as a condition for marriage, status elevation, or access to royal alliance,
+      often requiring cunning, magical aid, or hidden helpers.
+    parent_group_ids:
+    - initiation
+    - royal_legitimacy
+    related_group_ids:
+    - sacred_love
+    - hero_journey
+    - sacred_craft
+    reason_existing_groups_insufficient: Existing groups cover royal marriage, love,
+      and initiation broadly, but none isolates the recurring test-by-impossible-task
+      structure that drives the marriage or rank transition.
+batch_notes:
+- Several items in this batch are single-occurrence domestic or folktale plot labels;
+  preserve as evidence details unless recurrence supports a durable group.
+- The love_family_gender_body bucket is broad; some labels fit combat, otherworld,
+  trickster, or royal-legitimacy functions better than family/body themes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    evidence and avoid promoting over-specific single-episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0718
+  input_sha256: e33681855017d7d7b6299eaeee20bed8c4c50bd3121b92d58b96d2151862ecc8
+

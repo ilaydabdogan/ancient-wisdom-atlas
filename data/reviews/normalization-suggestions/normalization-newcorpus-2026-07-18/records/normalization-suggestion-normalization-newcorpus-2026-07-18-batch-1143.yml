@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1143
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reward-for-combat-bargain
+  motif_id: reward_for_combat_bargain
+  label: Reward-for-combat bargain
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A promised reward for combat frames martial action as negotiated heroic
+    or ritualized warfare.
+  cautions: Single occurrence; could instead be ordinary plot economy or sacred_exchange
+    if the bargain, not combat, is central.
+  suggested_aliases:
+  - combat reward bargain
+  - reward promised for martial service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reward-for-the-enemy-s-severed-head
+  motif_id: reward_for_the_enemy_s_severed_head
+  label: reward for the enemy's severed head
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The existing divine_warrior group already includes body-part trophies
+    as proof of combat.
+  cautions: Likely an episode-specific reward detail; preserve severed-head specificity
+    as evidence rather than a canonical motif.
+  suggested_aliases:
+  - reward for enemy head
+  - severed head as combat trophy reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reward-gained-by-concealing-culprits-while-restoring-stolen-goods
+  motif_id: reward_gained_by_concealing_culprits_while_restoring_stolen_goods
+  label: Reward gained by concealing culprits while restoring stolen goods
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines theft, concealment, restitution, and reward without
+    a clear dominant motif group.
+  cautions: May be trickster strategy, legal restitution, ethical judgment, or a passage-specific
+    plot artifact; source context is needed.
+  suggested_aliases:
+  - reward for restitution with concealed culprits
+  - concealed culprits and restored stolen goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reward-promise-for-treacherous-violence
+  motif_id: reward_promise_for_treacherous_violence
+  label: reward promise for treacherous violence
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif is violence induced through betrayal or violated trust,
+    with reward as the motive.
+  cautions: If the passage emphasizes martial killing rather than betrayal, sacred_combat
+    may be a secondary fit.
+  suggested_aliases:
+  - promised reward for betrayal
+  - treacherous violence for reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-bearer-of-welcome-news
+  motif_id: rewarded_bearer_of_welcome_news
+  label: rewarded bearer of welcome news
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: role_variant
+  confidence: low
+  rationale: A messenger rewarded for good news concerns speech or news-bearing as
+    consequential social action.
+  cautions: May be too generic for pattern queries unless the news changes fate, survival,
+    or sacred order; could be excluded after review.
+  suggested_aliases:
+  - rewarded good-news messenger
+  - bearer of welcome news rewarded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-champion-solicitation
+  motif_id: rewarded_champion_solicitation
+  label: rewarded champion solicitation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Soliciting and rewarding a champion fits ritualized heroic combat and
+    champion challenge contexts.
+  cautions: Generated label is terse; verify whether this is a recurring champion-combat
+    pattern or a specific negotiation scene.
+  suggested_aliases:
+  - champion solicited by reward
+  - rewarded champion challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-envoy-and-prestigious-gift-display
+  motif_id: rewarded_envoy_and_prestigious_gift_display
+  label: rewarded envoy and prestigious gift display
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Envoy reward and gift display emphasize reciprocal prestige exchange
+    rather than combat itself.
+  cautions: Could belong to royal_legitimacy if the gift display primarily asserts
+    rank or rulership.
+  suggested_aliases:
+  - envoy rewarded with prestigious gifts
+  - prestige gift display for envoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-heralds-bearing-joyful-news
+  motif_id: rewarded_heralds_bearing_joyful_news
+  label: Rewarded heralds bearing joyful news
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: role_variant
+  confidence: low
+  rationale: Heralds rewarded for joyful news fit consequential speech or message-bearing.
+  cautions: Likely a social or episode-specific detail unless the announcement performs
+    a major narrative transformation.
+  suggested_aliases:
+  - rewarded joyful-news heralds
+  - rewarded bearers of good news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-messenger-and-rejected-gift
+  motif_id: rewarded_messenger_and_rejected_gift
+  label: rewarded messenger and rejected gift
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on gift exchange, reward, and refusal within a messenger
+    encounter.
+  cautions: If the rejection is a political or dharmic act, sacred_law or royal_legitimacy
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - messenger reward and gift refusal
+  - rejected gift to rewarded messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-messengers-carrying-charged-letters
+  motif_id: rewarded_messengers_carrying_charged_letters
+  label: rewarded messengers carrying charged letters
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern messenger reward, dangerous letters, performative
+    writing, or plot-specific intrigue.
+  cautions: Review whether the letters have sacred/legal force, deceptive function,
+    or are merely narrative logistics before mapping.
+  suggested_aliases:
+  - rewarded letter-bearing messengers
+  - messengers bearing consequential letters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence reward or messenger details; avoid
+  promoting them to canonical motifs without cross-source recurrence.
+- Combat-payment labels often fit sacred_combat or divine_warrior only when the passage
+  treats combat, trophies, or champion status as structurally important rather than
+  incidental reward.
+- Messenger and herald labels may be better excluded if they are ordinary plot logistics;
+  map to storytelling_as_power or sacred_exchange only when speech, news, gift, or
+  reciprocity drives the episode.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; several labels require passage context to distinguish
+    motif from episode artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1143
+  input_sha256: 8fef1d528da5741df544f28754c5a060fcda610c1ac03c26c6081d8c1804609c
+

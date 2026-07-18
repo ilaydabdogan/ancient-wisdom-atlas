@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0331
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.exclusive-divine-access-through-guarded-doors
+  motif_id: exclusive_divine_access_through_guarded_doors
+  label: exclusive divine access through guarded doors
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: Guarded doors imply controlled passage across a sacred boundary, but
+    the label centers on divine exclusivity rather than a human ordeal.
+  cautions: Could be an afterlife gate, temple access rule, ritual purity limit, or
+    passage-specific description; source context is needed.
+  suggested_aliases:
+  - guarded divine doors
+  - exclusive access through sacred gates
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-divine-sovereignty
+  motif_id: exclusive_divine_sovereignty
+  label: Exclusive divine sovereignty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label names sole cosmic rule and ultimate authority, fitting the
+    existing sovereignty group.
+  cautions: If the passage is doctrinal assertion rather than narrative or symbolic
+    motif, consider preserving as theological theme rather than query motif.
+  suggested_aliases:
+  - sole divine sovereignty
+  - exclusive lordship
+  - divine cosmic sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-divine-sovereignty-over-powerless-false-gods
+  motif_id: exclusive_divine_sovereignty_over_powerless_false_gods
+  label: exclusive divine sovereignty over powerless false gods
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a polemical variant of sole divine sovereignty contrasted with
+    powerless rival deities.
+  cautions: May also involve idol polemic or covenantal monotheism; avoid mapping
+    to divine combat unless actual conflict occurs.
+  suggested_aliases:
+  - sovereignty over false gods
+  - powerless rival gods
+  - exclusive lordship over idols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-sacred-place-for-sacrifice
+  motif_id: exclusive_sacred_place_for_sacrifice
+  label: exclusive sacred place for sacrifice
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns where legitimate sacrificial offering may occur, a
+    ritual regulation of sacrifice.
+  cautions: Could also belong to sacred_law or world_center if the passage emphasizes
+    authorized cult site or cosmic center over sacrificial act.
+  suggested_aliases:
+  - centralized sacrifice
+  - exclusive sacrificial site
+  - authorized place of sacrifice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exemplary-virtue-through-personal-austerity-and-ritual-propriety
+  motif_id: exemplary_virtue_through_personal_austerity_and_ritual_propriety
+  label: Exemplary virtue through personal austerity and ritual propriety
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Ritual propriety and exemplary conduct align with sacred law, ethical
+    order, and social discipline.
+  cautions: This may be more ethical-philosophical than mythic; if austerity is primary,
+    mystical_quest or renunciation could be secondary.
+  suggested_aliases:
+  - ritual propriety as virtue
+  - austerity and propriety
+  - exemplary ritual discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcism-or-release-by-holy-presence-and-contact
+  motif_id: exorcism_or_release_by_holy_presence_and_contact
+  label: exorcism or release by holy presence and contact
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing normalization folds exorcism, spirit affliction, and expulsion
+    labels under the ritual expulsion complex within sacrifice.
+  cautions: If the emphasis is miraculous healing by a saintly figure rather than
+    ritual expulsion, divine_intervention may be a better primary group.
+  suggested_aliases:
+  - exorcism by holy contact
+  - release through sacred presence
+  - spirit expulsion by holy presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extreme-famine-leading-to-taboo-cannibalism
+  motif_id: extreme_famine_leading_to_taboo_cannibalism
+  label: extreme famine leading to taboo cannibalism
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The taboo violation could relate to sacred law, but the famine setting
+    may be a survival ordeal rather than ritual motif.
+  cautions: Culturally sensitive and highly contextual; do not reduce to sacrifice
+    or cannibalism without source evidence and careful review.
+  suggested_aliases:
+  - famine-driven taboo violation
+  - starvation and cannibalism taboo
+  - survival cannibalism under famine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fabricated-ominous-taboo-against-a-task
+  motif_id: fabricated_ominous_taboo_against_a_task
+  label: fabricated ominous taboo against a task
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false taboo used to block action functions as deception around sacred
+    or ominous prohibition.
+  cautions: If the taboo is genuinely sacred rather than fabricated, sacred_law or
+    curse_blessing_speech may fit better.
+  suggested_aliases:
+  - false taboo as deception
+  - invented ominous prohibition
+  - deceptive taboo against action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-binding-of-a-divine-captive
+  motif_id: failed_binding_of_a_divine_captive
+  label: failed binding of a divine captive
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A failed attempt to bind a divine being may show divine agency defeating
+    human constraint.
+  cautions: Could be sacred combat, trickster capture, ritual binding, or episode-specific
+    myth detail; source context is required.
+  suggested_aliases:
+  - failed capture of a god
+  - divine captive cannot be bound
+  - unsuccessful binding of deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-imitation-of-sacred-or-expert-transformation
+  motif_id: failed_imitation_of_sacred_or_expert_transformation
+  label: failed imitation of sacred or expert transformation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The failed imitation of a sacred or expert act matches existing failed-imitation
+    and overreaching-downfall patterns.
+  cautions: If actual bodily metamorphosis is central, shapeshifter may be a secondary
+    mapping; if expert craft is central, sacred_craft may apply.
+  suggested_aliases:
+  - failed sacred imitation
+  - failed imitation of transformation
+  - overreaching imitation of expert power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and doctrinal or contextual; suggested placements
+  should remain provisional until passage evidence is reviewed.
+- For sovereignty labels, mapping to a broad group should not be treated as evidence
+  of historical transmission or shared origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-model
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for culturally sensitive
+    taboo and divine-binding cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0331
+  input_sha256: 85dc928fe01f1813f77ea1fc1cb63b1161d4d6e92c486a99e09582969dfed83f
+

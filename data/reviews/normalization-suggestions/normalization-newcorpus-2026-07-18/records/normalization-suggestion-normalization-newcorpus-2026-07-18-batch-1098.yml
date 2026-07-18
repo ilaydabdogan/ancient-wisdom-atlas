@@ -1,0 +1,327 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1098
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.jealous-rival-endangers-successful-hero
+  motif_id: jealous_rival_endangers_successful_hero
+  label: jealous rival endangers successful hero
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Envy, Rivalry, and Persecuted Hero
+  relationship: narrower_than
+  confidence: medium
+  rationale: A jealous rival endangering a successful hero is a recurring rivalry/persecution
+    pattern not cleanly covered by pride/downfall or divine judgment.
+  cautions: Single occurrence; could be a contextual heroic-conflict detail unless
+    similar rival-endangerment labels recur.
+  suggested_aliases:
+  - jealous rival endangers hero
+  - rival persecutes successful hero
+  - envy against successful hero
+  suggested_new_group:
+    id: envy_rivalry_persecuted_hero
+    label: Envy, Rivalry, and Persecuted Hero
+    description: Jealous rivals, envious kin, or competing factions conspire against,
+      endanger, falsely accuse, or punish a successful or favored hero, making rivalry
+      itself the engine of ordeal.
+    parent_group_ids:
+    - pride_and_downfall
+    - sacred_combat
+    related_group_ids:
+    - divine_judgment
+    - jealous_stepmother_persecuted_child
+    - betrayal_violated_trust
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups cover envy as downfall, jealous
+      stepmother persecution, or betrayal, but not general rival persecution of a
+      successful hero outside household-child contexts.
+- suggestion_id: normalization.suggestion.jealous-rivalry-punished-by-supernatural-revenge
+  motif_id: jealous_rivalry_punished_by_supernatural_revenge
+  label: Jealous rivalry punished by supernatural revenge
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on supernatural punishment of jealousy, fitting moral
+    reckoning by sacred or nonhuman agency.
+  cautions: If the source emphasizes rivalry more than punishment, the proposed envy/rivalry
+    group could be a secondary review placement.
+  suggested_aliases:
+  - jealousy punished by supernatural revenge
+  - supernatural punishment of jealous rivalry
+  - envious rivalry punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-rivals-conspire-against-successful-hero
+  motif_id: jealous_rivals_conspire_against_successful_hero
+  label: jealous rivals conspire against successful hero
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Envy, Rivalry, and Persecuted Hero
+  relationship: narrower_than
+  confidence: medium
+  rationale: Conspiracy by jealous rivals against a successful hero is a clear sibling
+    to rival-endangerment motifs and needs a rivalry/persecuted-hero container.
+  cautions: Single occurrence; review whether this is a broad motif or an episode-specific
+    plot detail.
+  suggested_aliases:
+  - jealous rivals conspire against hero
+  - rival conspiracy against successful hero
+  - envious rivals plot against hero
+  suggested_new_group:
+    id: envy_rivalry_persecuted_hero
+    label: Envy, Rivalry, and Persecuted Hero
+    description: Jealous rivals, envious kin, or competing factions conspire against,
+      endanger, falsely accuse, or punish a successful or favored hero, making rivalry
+      itself the engine of ordeal.
+    parent_group_ids:
+    - pride_and_downfall
+    - sacred_combat
+    related_group_ids:
+    - divine_judgment
+    - jealous_stepmother_persecuted_child
+    - betrayal_violated_trust
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups cover envy as downfall, jealous
+      stepmother persecution, or betrayal, but not general rival persecution of a
+      successful hero outside household-child contexts.
+- suggestion_id: normalization.suggestion.jealous-supernatural-woman-harms-or-alters-hero
+  motif_id: jealous_supernatural_woman_harms_or_alters_hero
+  label: jealous supernatural woman harms or alters hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines jealousy, supernatural female agency, harm, and possible
+    transformation; placement depends on which function dominates.
+  cautions: Could fit shapeshifter if alteration is transformation, divine_intervention
+    if supernatural agency dominates, sacred_love if erotic jealousy drives harm,
+    or rivalry/persecution if jealousy is central.
+  suggested_aliases:
+  - jealous supernatural woman harms hero
+  - jealous otherworld woman transforms hero
+  - supernatural female jealousy against hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.just-weights-and-measures-as-moral-test
+  motif_id: just_weights_and_measures_as_moral_test
+  label: just weights and measures as moral test
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: Just weights and measures are an ethical/legal command testing social
+    righteousness, fitting sacred law and social order.
+  cautions: May also support divine_judgment if the passage emphasizes punishment
+    for dishonest measure.
+  suggested_aliases:
+  - honest weights and measures
+  - fair measure as moral test
+  - commercial justice as sacred law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-a-potential-helper-diminishes-the-heroes-strength
+  motif_id: killing_a_potential_helper_diminishes_the_heroes_strength
+  label: killing a potential helper diminishes the heroes' strength
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be a narrative consequence of mistaken violence, loss of
+    aid, or moral failure rather than a stable taxonomy motif.
+  cautions: Could relate to hero_journey, sacred_combat, divine_judgment, or helper/animal-helper
+    patterns depending on the identity and function of the potential helper.
+  suggested_aliases:
+  - slaying potential helper weakens heroes
+  - loss of helper diminishes heroic strength
+  - mistaken killing of helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-against-kin-war
+  motif_id: kin_against_kin_war
+  label: kin-against-kin war
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: War between kin is a conflict structure within ritually or morally charged
+    heroic warfare.
+  cautions: If the passage emphasizes moral crisis, law, or duty over battle, sacred_law
+    or divine_judgment may be useful secondary mappings.
+  suggested_aliases:
+  - war among kin
+  - kinsmen at war
+  - familial civil war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-betrayal-in-revenge-plot
+  motif_id: kin_betrayal_in_revenge_plot
+  label: kin-betrayal in revenge plot
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: narrower_than
+  confidence: high
+  rationale: The core pattern is betrayal by kin, with revenge providing the plot
+    context.
+  cautions: If revenge violence rather than broken kinship trust is central, sacred_combat
+    may be a secondary placement.
+  suggested_aliases:
+  - kin betrayal in vengeance plot
+  - familial betrayal and revenge
+  - betrayal by kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-betrayal-of-a-heroic-warrior
+  motif_id: kin_betrayal_of_a_heroic_warrior
+  label: kin betrayal of a heroic warrior
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif centers on violated kinship trust directed against a heroic
+    warrior.
+  cautions: Could also index under divine_warrior or sacred_combat when the betrayed
+    figure's warrior role is the main evidence.
+  suggested_aliases:
+  - heroic warrior betrayed by kin
+  - kinsman betrays warrior hero
+  - familial betrayal of hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-faction-rivalry-within-a-heroic-company
+  motif_id: kin_faction_rivalry_within_a_heroic_company
+  label: kin-faction rivalry within a heroic company
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Envy, Rivalry, and Persecuted Hero
+  relationship: narrower_than
+  confidence: medium
+  rationale: Factional rivalry within a heroic company belongs with rivalry-driven
+    conflict rather than combat alone.
+  cautions: If the passage stresses broken loyalty or treachery, betrayal_violated_trust
+    may be a better final mapping.
+  suggested_aliases:
+  - factional rivalry among heroic kin
+  - heroic company divided by kin factions
+  - kin rivalry within warrior band
+  suggested_new_group:
+    id: envy_rivalry_persecuted_hero
+    label: Envy, Rivalry, and Persecuted Hero
+    description: Jealous rivals, envious kin, or competing factions conspire against,
+      endanger, falsely accuse, or punish a successful or favored hero, making rivalry
+      itself the engine of ordeal.
+    parent_group_ids:
+    - pride_and_downfall
+    - sacred_combat
+    related_group_ids:
+    - divine_judgment
+    - jealous_stepmother_persecuted_child
+    - betrayal_violated_trust
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups cover envy as downfall, jealous
+      stepmother persecution, or betrayal, but not general rival persecution of a
+      successful hero outside household-child contexts.
+batch_notes:
+- Several labels cluster around jealous or factional rivalry against heroes. A provisional
+  new group may be warranted if these recur beyond isolated episode descriptions.
+- Kin betrayal labels map more cleanly to the existing betrayal_violated_trust group
+  than to general combat.
+- 'Keep rivalry, betrayal, and divine punishment distinct: jealousy as motive is not
+  the same as supernatural judgment or broken trust.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    each label is a recurring motif or an over-specific episode summary.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1098
+  input_sha256: 13e7d42725765842bddc758ec645a6dda7870a29fa0d3ef9e05bde92a7207ee8
+

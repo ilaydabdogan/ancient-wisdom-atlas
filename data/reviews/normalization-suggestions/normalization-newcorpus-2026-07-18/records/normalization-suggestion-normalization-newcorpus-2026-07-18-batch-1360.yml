@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1360
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divinatory-pursuit-with-mistaken-localization
+  motif_id: divinatory_pursuit_with_mistaken_localization
+  label: Divinatory pursuit with mistaken localization
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divinatory tracking or pursuit, which fits systematic
+    access to hidden knowledge.
+  cautions: Mistaken localization may be a plot detail rather than a durable motif;
+    verify a divinatory method or role is present.
+  suggested_aliases:
+  - divinatory_pursuit
+  - mistaken_divinatory_location
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinatory-selection-of-guardian-by-floating-object
+  motif_id: divinatory_selection_of_guardian_by_floating_object
+  label: Divinatory selection of guardian by floating object
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Selection through an omen-like floating object is a divinatory procedure
+    for identifying a guardian.
+  cautions: Could also involve divine_intervention or sacred_treasures if the object
+    itself is a sacred agent; source context needed.
+  suggested_aliases:
+  - divinatory_selection_by_object
+  - omen_selection_of_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinity-transmigrating-through-chosen-human-figures
+  motif_id: divinity_transmigrating_through_chosen_human_figures
+  label: Divinity transmigrating through chosen human figures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Divine presence acting through chosen humans may fit intervention or
+    manifestation, but transmigration is doctrinally specific.
+  cautions: Culturally and theologically sensitive; avoid flattening into generic
+    shapeshifting or incarnation without passage evidence.
+  suggested_aliases:
+  - divine_presence_in_chosen_figures
+  - transmitted_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doctrinal-fragmentation-into-schisms
+  motif_id: doctrinal_fragmentation_into_schisms
+  label: doctrinal fragmentation into schisms
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes religious-historical or doctrinal classification
+    rather than a narrative or symbolic motif.
+  cautions: If a source myth narrates schism as a sacred rupture or judgment, remap
+    with evidence; otherwise exclude from motif queries.
+  suggested_aliases:
+  - doctrinal_schism
+  - sectarian_fragmentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-object-reimagined-as-lethal-threat
+  motif_id: domestic_object_reimagined_as_lethal_threat
+  label: Domestic object reimagined as lethal threat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A transformed object-function may involve a power object, but the label
+    gives no sacred or recurring function.
+  cautions: Likely over-specific unless the object has supernatural agency, taboo
+    power, or repeated weaponized-object significance.
+  suggested_aliases:
+  - weaponized_domestic_object
+  - ordinary_object_as_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-descendant-survives-an-ambush
+  motif_id: doomed_descendant_survives_an_ambush
+  label: doomed descendant survives an ambush
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: low
+  rationale: The wording foregrounds doom or fate around a threatened descendant,
+    even though survival delays the expected death.
+  cautions: Could be miraculous_child, hero_journey, or conflict episode if destiny
+    is not explicit; verify that doom/fate is central.
+  suggested_aliases:
+  - fated_descendant_survives
+  - doomed_survivor_of_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-foe-blinded-by-fate
+  motif_id: doomed_foe_blinded_by_fate
+  label: doomed foe blinded by fate
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A foe's blindness or misperception caused by fate fits destiny as non-human
+    agency leading to downfall.
+  cautions: If blindness is divine punishment or moral delusion, divine_judgment or
+    pride_and_downfall may be better secondary mappings.
+  suggested_aliases:
+  - fate_blinds_the_doomed
+  - doomed_enemy_deluded_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-hospitality-and-fatal-escort
+  motif_id: doomed_hospitality_and_fatal_escort
+  label: doomed hospitality and fatal escort
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif invokes hospitality obligations whose consequences lead toward
+    a fatal escort or journey.
+  cautions: May instead belong under death_by_fate, betrayal_violated_trust, or hero_journey
+    depending on whether hospitality itself is the ordeal.
+  suggested_aliases:
+  - fatal_hospitality_escort
+  - doomed_guest_escort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-joy-of-betrothal
+  motif_id: doomed_joy_of_betrothal
+  label: doomed joy of betrothal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: low
+  rationale: Betrothal joy shadowed by doom belongs broadly with love narratives marked
+    by suffering and fatal consequence.
+  cautions: Could be merely a tragic plot mood; use lament_and_mourning or death_by_fate
+    if doom, not love, is central.
+  suggested_aliases:
+  - tragic_betrothal
+  - betrothal_shadowed_by_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.double-promise-as-political-stratagem
+  motif_id: double_promise_as_political_stratagem
+  label: double promise as political stratagem
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: A promise used as political strategy may affect rule, alliance, or succession,
+    fitting sacred-political order if kingship is involved.
+  cautions: If the scene is mainly deception or violated trust, trickster or betrayal_violated_trust
+    may fit better; may be too contextual as a single episode.
+  suggested_aliases:
+  - political_double_promise
+  - strategic_promise_in_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; confidence is kept low
+  where the label may encode plot detail rather than a reusable motif.
+- Divination-related labels can map to prophecy_divination when a method, omen, or
+  specialist role is evident, but should not be merged with dream_and_vision without
+  altered-perception evidence.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review should verify source evidence
+    for contextual and culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1360
+  input_sha256: 9b6e8fcff4e4ceabbf3d17057de7a518496602eaba6949d7b341c02d2a4c81eb
+

@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0515
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.meaning-bearing-personal-name-etymology
+  motif_id: meaning_bearing_personal_name_etymology
+  label: Meaning-bearing personal name etymology
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A meaningful name may function as etiology, destiny marker, characterization,
+    or textual wordplay; label alone is not enough.
+  cautions: Single occurrence and may be a commentary or philological artifact rather
+    than a narrative motif.
+  suggested_aliases:
+  - onomastic etymology
+  - meaningful name
+  - name etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memory-of-atrocity-burdening-later-battle
+  motif_id: memory_of_atrocity_burdening_later_battle
+  label: memory of atrocity burdening later battle
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate traumatic memory shaping combat, moral reckoning,
+    or a passage-specific battle context.
+  cautions: Potentially culturally sensitive; source evidence is needed before mapping
+    to sacred_combat, lament, or divine_judgment.
+  suggested_aliases:
+  - atrocity memory before battle
+  - remembered atrocity burdens combat
+  - traumatic battle memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - lament_and_mourning
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memory-restored-by-speaking-birds-from-food
+  motif_id: memory_restored_by_speaking_birds_from_food
+  label: Memory restored by speaking birds from food
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines restored memory, animal speech, and food; the dominant function
+    is unclear from the label alone.
+  cautions: Could fit sacred_knowledge, divine_intervention, sacred_substance, or
+    animal-helper folklore; avoid over-mapping the composite label.
+  suggested_aliases:
+  - memory restored by speaking birds
+  - animal speech restores memory
+  - food-mediated memory restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memory-token-left-with-allied-kin
+  motif_id: memory_token_left_with_allied_kin
+  label: Memory token left with allied kin
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token left with kin preserves memory or relationship and may later
+    prove identity, alliance, or obligation.
+  cautions: If the token only serves as a keepsake with no recognition or proof function,
+    it may be an over-specific evidence detail.
+  suggested_aliases:
+  - memory token
+  - kinship token
+  - token left with kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memory-token-prevents-forgotten-obligation
+  motif_id: memory_token_prevents_forgotten_obligation
+  label: memory token prevents forgotten obligation
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token functions as material proof or reminder that preserves a binding
+    obligation across absence or forgetfulness.
+  cautions: Could secondarily involve covenant or sacred law if the obligation is
+    explicitly sacred or legal.
+  suggested_aliases:
+  - obligation reminder token
+  - memory token
+  - token preventing forgetfulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-and-forgiveness-after-acknowledged-wrongdoing
+  motif_id: mercy_and_forgiveness_after_acknowledged_wrongdoing
+  label: Mercy and forgiveness after acknowledged wrongdoing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: Existing covenant group already contains mercy, compassion, forgiveness,
+    and supplication variants that repair broken social or sacred bonds.
+  cautions: If the passage centers on punishment or moral accounting rather than restored
+    relationship, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - mercy after wrongdoing
+  - forgiveness after repentance
+  - acknowledged wrongdoing forgiven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-insists-on-blooding-his-sword-before-carrying-news
+  motif_id: messenger_insists_on_blooding_his_sword_before_carrying_news
+  label: Messenger insists on blooding his sword before carrying news
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines messenger role, ritualized violence, weapon action,
+    and news-bearing; function cannot be inferred safely.
+  cautions: May be an episode-specific heroic-combat detail rather than a reusable
+    motif; review before mapping to sacred_combat or curse/speech.
+  suggested_aliases:
+  - blooding a sword before news
+  - violent messenger condition
+  - messenger requires weapon blooding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-limited-to-revelation
+  motif_id: messenger_limited_to_revelation
+  label: Messenger limited to revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A messenger whose function is restricted to delivering revelation fits
+    divine guidance and messenger agency.
+  cautions: Could alternatively index under sacred_knowledge if emphasis is on the
+    revealed content rather than the messenger role.
+  suggested_aliases:
+  - revelatory messenger
+  - messenger as bearer of revelation
+  - limited prophetic messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-with-group-fission-and-named-descendant-peoples
+  motif_id: migration_with_group_fission_and_named_descendant_peoples
+  label: migration with group fission and named descendant peoples
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The cosmic_origin group already includes genealogical and eponymous origins
+    of peoples from named ancestors.
+  cautions: For Navajo material, review cultural context carefully; if migration sequence
+    is the main structure, a journey/origin subgroup may be warranted later.
+  suggested_aliases:
+  - migration origin of peoples
+  - group fission and descendant peoples
+  - named peoples from migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-drink-provision-in-scarcity
+  motif_id: miraculous_drink_provision_in_scarcity
+  label: Miraculous drink provision in scarcity
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The divine_intervention group includes miraculous and inexhaustible provision,
+    including aid in human need.
+  cautions: If the drink itself is ritually intoxicating or transformative, sacred_substance
+    may be a secondary mapping.
+  suggested_aliases:
+  - miraculous drink provision
+  - drink supplied in scarcity
+  - supernatural provision of drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence composites; placements should
+  remain provisional until source passages confirm the dominant narrative function.
+- Do not infer transmission or borrowing from shared placement; these are query-normalization
+  suggestions only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0515; human review
+    recommended for ambiguous memory, messenger, and culturally sensitive migration
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0515
+  input_sha256: '085a2c96f4d489bff2646b65deb9beb42c4dfd637dec16e9389bafff7146c111'
+

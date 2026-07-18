@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0184
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.female-mediated-courtship
+  motif_id: female_mediated_courtship
+  label: female-mediated courtship
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Courtship mediation belongs with marriage choice and love-union patterns
+    already grouped under sacred_love.
+  cautions: Single occurrence; if the passage is mainly political alliance, fosterage,
+    or kinship negotiation, royal_legitimacy or sacred_exchange may be more relevant.
+  suggested_aliases:
+  - mediated_courtship
+  - courtship_mediation_by_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-mediator-engineers-courtship
+  motif_id: female_mediator_engineers_courtship
+  label: female mediator engineers courtship
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mediator arranging courtship fits the courtship and marriage-choice
+    cluster within sacred_love.
+  cautions: May be too plot-specific; review whether the mediator role is mythically
+    significant or merely narrative mechanics.
+  suggested_aliases:
+  - female_mediated_courtship
+  - courtship_engineered_by_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ferryman-at-liminal-water-crossing
+  motif_id: ferryman_at_liminal_water_crossing
+  label: ferryman at liminal water crossing
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ferryman enabling or controlling a liminal crossing fits water as boundary
+    and passage.
+  cautions: If the ferryman guards passage to death or the otherworld, secondary review
+    under afterlife_passage or threshold_guardian may be needed.
+  suggested_aliases:
+  - liminal_ferryman
+  - ferryman_at_threshold_water
+  - water_crossing_ferryman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-as-siege-threat-against-ships-and-city
+  motif_id: fire_as_siege_threat_against_ships_and_city
+  label: Fire as siege threat against ships and city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a warfare tactic and threat in siege combat rather
+    than sacred fire as divine presence.
+  cautions: Likely episode-specific; do not map to world_destroying_fire unless cosmic
+    judgment or renewal is explicit.
+  suggested_aliases:
+  - siege_fire_threat
+  - fire_attack_in_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-attack-on-defended-ships
+  motif_id: fire_attack_on_defended_ships
+  label: fire attack on defended ships
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A fire attack on ships is a specific combat episode, best parked under
+    warfare rather than fire symbolism.
+  cautions: May be too tactical and passage-specific for pattern queries unless similar
+    siege-fire labels recur.
+  suggested_aliases:
+  - ship_fire_attack
+  - fire_attack_against_ships
+  - siege_fire_against_ships
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-like-magical-workmanship
+  motif_id: fire_like_magical_workmanship
+  label: Fire-like magical workmanship
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core feature is wondrous or magical workmanship, with fire-like quality
+    as descriptive imagery.
+  cautions: If fire itself is the sacred medium or divine light, sacred_fire may be
+    a secondary mapping; source context needed.
+  suggested_aliases:
+  - magical_workmanship_with_fire_imagery
+  - fiery_wondrous_craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-sight-and-first-strike-game-ownership
+  motif_id: first_sight_and_first_strike_game_ownership
+  label: first-sight and first-strike game ownership
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a culturally specific hunting rule or ownership
+    norm not clearly covered by existing groups.
+  cautions: Could belong to sacred_law, sacred_exchange, or ethnographic legal custom;
+    review Indigenous context carefully before normalizing.
+  suggested_aliases:
+  - first_sight_game_right
+  - first_strike_hunting_ownership
+  - game_ownership_by_first_strike
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-traditional-travel-routes
+  motif_id: fixed_traditional_travel_routes
+  label: Fixed traditional travel routes
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be geographic or ethnographic route information rather
+    than a symbolic journey motif.
+  cautions: Map to hero_journey only if the route has narrative ordeal, sacred geography,
+    or transformation; otherwise exclude as contextual detail.
+  suggested_aliases:
+  - traditional_travel_routes
+  - customary_travel_paths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-offering-appeases-dangerous-beings-and-secures-passage
+  motif_id: food_offering_appeases_dangerous_beings_and_secures_passage
+  label: Food offering appeases dangerous beings and secures passage
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Offering food to appease dangerous beings and gain safe passage is a
+    reciprocal sacred exchange.
+  cautions: If the beings primarily guard a threshold, threshold_guardian is a strong
+    secondary relation; if formal sacrifice is present, sacrifice may also apply.
+  suggested_aliases:
+  - food_offering_for_safe_passage
+  - appeasement_offering_secures_passage
+  - offering_to_threshold_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-water-crossing-after-bridge-failure
+  motif_id: forced_water_crossing_after_bridge_failure
+  label: forced water crossing after bridge failure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forced crossing after bridge failure emphasizes water as dangerous
+    boundary and passage ordeal.
+  cautions: May be a travel incident rather than a motif unless the crossing marks
+    transformation, danger, or liminal transition.
+  suggested_aliases:
+  - forced_water_crossing
+  - bridge_failure_water_crossing
+  - water_crossing_after_lost_bridge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several journey-bucket labels are plot-specific travel or combat details; human
+  review should confirm motif function before broad indexing.
+- 'Avoid treating all fire labels as sacred_fire: siege fire is combat, while fire-like
+  workmanship is craft imagery unless sacred fire is explicit.'
+- Courtship mediation labels may eventually support a narrower courtship/marriage-broker
+  variant if more examples recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context especially needed for Inuit hunting/travel
+    custom labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0184
+  input_sha256: dab83eb0204df5080841d82b470f71516bbc906b2f02a4c342c5e86fcff46b9a
+

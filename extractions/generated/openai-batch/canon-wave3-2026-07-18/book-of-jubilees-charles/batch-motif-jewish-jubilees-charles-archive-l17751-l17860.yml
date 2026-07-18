@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l17751-l17860
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER XXII. 22-30 143 / CHAPTER XXIII. 1-12 145 / CHAPTER XXIII. 13-20
+    147 / CHAPTER XXIII. 21-27; lines 17751-17860
+  start: '17751'
+  end: '17860'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a time of violent oppression against Israel/Jacob,
+    heavy bloodshed, unburied dead, unanswered cries for rescue from sinners/Gentiles,
+    and children showing extreme premature aging under tribulation. It then says children
+    will begin studying the laws, seeking the commandments, and returning to righteousness
+    as days increase among humanity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unspecified group is described as more wicked and stronger to do evil than
+    all the children of men.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Violence is used against Israel, transgression is used against Jacob, and
+    much blood is shed upon the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dead or fallen are left with none to gather them and none to bury them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People cry, call, and pray to be saved from the hand of sinners/Gentiles,
+    but none are saved.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Children's heads become white with grey hair, and a child of three weeks appears
+    old like a man of one hundred years.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The stature of the children is destroyed by tribulation and oppression.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The children begin to study the laws, seek the commandments, and return to
+    the path of righteousness.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Days begin to grow many and increase among the children of men.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: sinners/Gentiles
+  description: The group from whose hand people pray to be saved; the commentary discusses
+    the expression as sinners of the Gentiles and connects it with the preceding violence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Israel/Jacob
+  description: The named collective against whom violence and transgression are directed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: children
+  description: Children whose hair becomes grey and who later begin studying laws
+    and seeking commandments.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: unnamed supplicants
+  description: Those who cry aloud, call, and pray to be saved from sinners/Gentiles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: children of men
+  description: The human collective among whom days begin to grow many and increase.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: violent oppressors
+  assigned_to:
+  - fig:1
+  basis: They are associated with violence, transgression, and the hand from which
+    people pray to be saved.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: role:2
+  label: oppressed collective
+  assigned_to:
+  - fig:2
+  basis: Israel/Jacob is named as the target of violence and transgression.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: unsaved supplicants
+  assigned_to:
+  - fig:4
+  basis: They cry, call, and pray for rescue, but none are saved.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: prematurely aged children
+  assigned_to:
+  - fig:3
+  basis: Children are described with grey hair and an infant is said to appear like
+    a hundred-year-old man.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: law-seeking children
+  assigned_to:
+  - fig:3
+  basis: The children begin to study laws, seek commandments, and return to righteousness.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: recipients of increasing days
+  assigned_to:
+  - fig:5
+  basis: Days begin to grow many and increase among the children of men.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: blood upon the earth
+  literal_form: much blood shed upon the earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unburied dead
+  literal_form: none to gather and none to bury
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: grey-haired child
+  literal_form: children's heads white with grey hair; a child of three weeks appearing
+    like a man of one hundred years
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: path of righteousness
+  literal_form: the path of righteousness
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: laws and commandments
+  literal_form: laws; commandments
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Violence against Israel/Jacob and unburied bloodshed
+  summary: A violent group acts against Israel/Jacob, much blood is shed upon the
+    earth, and the fallen are not gathered or buried.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Unanswered cries for rescue
+  summary: Unnamed supplicants cry, call, and pray to be saved from sinners/Gentiles,
+    but the passage says none are saved.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Premature aging under tribulation
+  summary: Children show grey hair and extreme apparent age, and their stature is
+    destroyed by tribulation and oppression.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Renewed study of law and return to righteousness
+  summary: Children begin studying laws, seeking commandments, and returning to the
+    path of righteousness; days begin to increase among humanity.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: oppression, bloodshed, and unburied dead
+  taxonomy_refs: []
+  basis: The passage describes violence and transgression against Israel/Jacob, blood
+    shed on the earth, and the absence of gathering or burial for the fallen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage excerpt begins mid-description, so the antecedent of the violent
+    group is partly supplied by later wording and commentary.
+- id: motif:2
+  label: unanswered prayer for deliverance
+  taxonomy_refs: []
+  basis: The passage states that people cry, call, and pray to be saved from sinners/Gentiles,
+    but none are saved.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The identity of the praying group is not explicitly named in the supplied
+    excerpt.
+- id: motif:3
+  label: prematurely aged children as an end-time sign
+  taxonomy_refs: []
+  basis: Children are described as having grey hair, and a three-week-old child appears
+    like a hundred-year-old man; the note compares this to other apocalyptic or age-decline
+    signs.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The eschatological sign function is supported especially by the commentary
+    note, not solely by the verse wording.
+- id: motif:4
+  label: return to law and righteousness as restoration
+  taxonomy_refs:
+  - covenant
+  - wisdom
+  basis: Children study the laws, seek the commandments, and return to the path of
+    righteousness; the note characterizes this renewed study of the Law as followed
+    by change for the better.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The longer restoration frame is partly drawn from the commentary note
+    to verses 26-30, while the supplied biblical-style text ends at verse 27.
+- id: motif:5
+  label: apocalyptic distress before renewal
+  taxonomy_refs:
+  - divine_judgment
+  basis: The sequence moves from violence, unburied dead, unanswered cries, and tribulation
+    to renewed study of law and increasing days; the note speaks of gradual approach
+    to Messianic blessedness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage does not explicitly name a divine judge in this excerpt; the
+    divine_judgment taxonomy assignment is therefore tentative.
+comparison_claims:
+- id: claim:1
+  claim: The image of children with grey or hoary hair is explicitly compared in the
+    commentary to Hesiod's description of Iron Age children born with hoary temples.
+  claim_level: visual_similarity
+  target: Hesiod, Works and Days 180-181
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides a commentary comparison of imagery only; it does
+    not establish historical contact or dependence.
+- id: claim:2
+  claim: The commentary states that the grey-haired-children image functions similarly
+    in Sibylline Oracles ii.155 as a sign foreshadowing the coming kingdom.
+  claim_level: same_function
+  target: Sibylline Oracles ii.155; related Latin apocalyptic fragment cited in the
+    note
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on Charles's note and does not by itself demonstrate
+    shared authorship, borrowing, or common inheritance.
+- id: claim:3
+  claim: The phrase about having none to gather and none to bury is identified by
+    the commentary as drawn from Jeremiah viii.2.
+  claim_level: linguistic_similarity
+  target: Jeremiah 8:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a cited phrase-level relationship rather than a full motif
+    comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XXIII.21-23; lines 17751-17760
+  quote_or_summary: An unspecified group is described as wicked and strong to do evil;
+    they use violence against Israel and transgression against Jacob, and much blood
+    is shed upon the earth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: Chapter XXIII.23; lines 17758-17762
+  quote_or_summary: "“none to gather and none to bury”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: Chapter XXIII.24; lines 17763-17769
+  quote_or_summary: In those days people cry aloud, call, and pray to be saved from
+    the hand of the sinners/Gentiles, but none are saved.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter XXIII.25; lines 17770-17777
+  quote_or_summary: Children's heads become white with grey hair; a three-week-old
+    child appears like a hundred-year-old man, and their stature is destroyed by tribulation
+    and oppression.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter XXIII.26; lines 17778-17784
+  quote_or_summary: The children begin studying the laws, seeking the commandments,
+    and returning to the path of righteousness.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: Chapter XXIII.27; lines 17785-17788
+  quote_or_summary: The days begin to grow many and increase among the children of
+    men.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: note
+  locator: Charles note on Chapter XXIII.23-24; lines 17789-17812
+  quote_or_summary: The note says the phrase about none to gather or bury is from
+    Jeremiah viii.2 and discusses the expression sinners/Gentiles as sinners of the
+    Gentiles.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized note.
+- id: ev:8
+  type: note
+  locator: Charles note on Chapter XXIII.25; lines 17813-17847
+  quote_or_summary: The note compares the grey-haired children to Hesiod's Iron Age
+    children born with hoary temples and to Sibylline Oracles ii.155, where the sign
+    foreshadows the coming kingdom; it also cites a Latin apocalyptic fragment.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized note.
+- id: ev:9
+  type: note
+  locator: Charles note on Chapter XXIII.26-30; lines 17852-17860
+  quote_or_summary: The note describes renewed study of the Law as followed by change
+    for the better and the gradual approach to Messianic blessedness.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied verses. Motif labeling is more
+    cautious where it depends on apocalyptic framing in Charles's notes or on the
+    broader verses 26-30 not fully present in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, source metadata, and available taxonomy references. No historical-contact claim is made.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l17751-l17860
+  passage_sha256=829745e4c39fcdfa9b5789fb1ca63127f18f50cb454fcca4c8692ae10ef0649a
+

@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1278
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.accomplice-spouse-shares-condemnation
+  motif_id: accomplice_spouse_shares_condemnation
+  label: Accomplice spouse shares condemnation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Shared condemnation for complicity centers on moral reckoning and punishment
+    for wrongdoing.
+  cautions: May be a legal or narrative detail rather than sacred judgment; source
+    context should confirm divine or moral evaluation.
+  suggested_aliases:
+  - shared_condemnation_for_complicity
+  - spouse_shares_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.account-of-evil-in-human-history
+  motif_id: account_of_evil_in_human_history
+  label: account of Evil in human history
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could refer to cosmic evil, moral decline, origin of evil,
+    or historical-theological exposition.
+  cautions: Likely too broad and abstract from the label alone; may be commentary
+    rather than a recurring narrative motif.
+  suggested_aliases:
+  - history_of_evil
+  - origin_or_growth_of_evil_in_history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accused-avenger-explains-stolen-goods-before-a-judge
+  motif_id: accused_avenger_explains_stolen_goods_before_a_judge
+  label: Accused avenger explains stolen goods before a judge
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: low
+  rationale: A judicial explanation of accusation and avenging action fits the broader
+    judgment/vindication field.
+  cautions: Highly episode-specific and may be ordinary court plot rather than sacred
+    or mythic judgment.
+  suggested_aliases:
+  - accused_avenger_vindicated_before_judge
+  - stolen_goods_explained_in_judgment_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accused-wonder-worker-as-conjuror
+  motif_id: accused_wonder_worker_as_conjuror
+  label: accused wonder-worker as conjuror
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The label concerns contested interpretation of a miracle worker's supernatural
+    power, fitting divine intervention/wonder-working contexts.
+  cautions: If the focus is slander or false accusation, divine_judgment may be a
+    secondary fit; confirm actual wonder-working evidence.
+  suggested_aliases:
+  - wonder_worker_accused_of_magic
+  - miracle_worker_called_conjuror
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.action-without-attachment-to-fruits
+  motif_id: action_without_attachment_to_fruits
+  label: Action without attachment to fruits
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Detached action is a spiritual discipline aimed at transforming selfhood
+    and liberation-oriented conduct.
+  cautions: May also fit sacred_law or wisdom as ethical teaching; avoid reducing
+    a specific Hindu doctrinal formulation to generic renunciation without review.
+  suggested_aliases:
+  - detached_action
+  - non_attachment_to_results
+  - karma_without_attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adaptive-regard-for-others
+  motif_id: adaptive_regard_for_others
+  label: Adaptive regard for others
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could indicate ethical teaching, compassion,
+    prudence, or social accommodation.
+  cautions: May be a generated ethical summary rather than a motif; source evidence
+    is needed before mapping to sacred_law, wisdom, or covenant.
+  suggested_aliases:
+  - context_sensitive_regard_for_others
+  - prudent_care_for_others
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adaptive-shelter-construction-from-local-materials
+  motif_id: adaptive_shelter_construction_from_local_materials
+  label: Adaptive shelter construction from local materials
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as practical ethnographic or survival detail rather than
+    a symbolic narrative motif.
+  cautions: If the passage frames shelter-building as culture-hero instruction, sacred
+    craft could be reconsidered; otherwise exclude from motif queries.
+  suggested_aliases:
+  - local_material_shelter_building
+  - practical_shelter_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adhesive-magical-object-gathers-a-comic-following
+  motif_id: adhesive_magical_object_gathers_a_comic_following
+  label: Adhesive magical object gathers a comic following
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical object with binding or compelling effects fits power-object
+    motifs, with comic narrative function preserved as detail.
+  cautions: Could also belong to trickster if the object is used for deception or
+    comic boundary-breaking; do not promote as canonical unless recurrent.
+  suggested_aliases:
+  - sticky_magical_object
+  - magical_object_compels_followers
+  - adhesive_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-outside-bands-into-an-existing-gens
+  motif_id: adoption_of_outside_bands_into_an_existing_gens
+  label: adoption of outside bands into an existing gens
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social incorporation and kinship structure, not clearly
+    covered by existing sacred order groups.
+  cautions: Culturally specific social-history detail; review with source context
+    before treating as motif or mapping to covenant/social order.
+  suggested_aliases:
+  - incorporation_of_outside_groups
+  - adoption_into_clan_or_gens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adorned-heavenly-book-displayed-to-prophet
+  motif_id: adorned_heavenly_book_displayed_to_prophet
+  label: adorned heavenly book displayed to prophet
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A heavenly book shown to a prophet is a revelation object transmitting
+    sacred knowledge.
+  cautions: If the encounter emphasizes visionary manifestation more than content,
+    dream_and_vision or theophany may be secondary mappings.
+  suggested_aliases:
+  - heavenly_book_revealed_to_prophet
+  - celestial_book_displayed
+  - revealed_heavenly_book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply historical transmission
+  or common origin.
+- Several single-occurrence labels are abstract or episode-specific; preserve source
+  evidence before promoting any as canonical motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Batch contains a mix of clear broad-group mappings and low-confidence social
+    or ethical abstractions needing human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1278
+  input_sha256: 31989c6f7234d51561a7697066ddc7ac4b1d689f62f72050ecca8356149c0a11
+

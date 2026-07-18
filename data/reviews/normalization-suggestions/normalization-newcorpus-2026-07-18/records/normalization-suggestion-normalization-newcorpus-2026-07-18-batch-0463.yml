@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0463
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vow-bound-ruler-declines-entry-into-the-city
+  motif_id: vow_bound_ruler_declines_entry_into_the_city
+  label: Vow-bound ruler declines entry into the city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A binding vow controls the ruler's action; the operative motif is performative
+    sacred speech or oath obligation.
+  cautions: Could also relate to covenant or royal_legitimacy if the passage emphasizes
+    rulership, law, or political order rather than the vow itself.
+  suggested_aliases:
+  - vow_bound_ruler
+  - oath_bound_ruler
+  - vow_prevents_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vow-bound-secret-killer
+  motif_id: vow_bound_secret_killer
+  label: vow-bound secret killer
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines oath-binding with a hidden killer role, but the narrative
+    function is unclear from wording alone.
+  cautions: May belong under curse_blessing_speech if the vow drives action, sacred_combat
+    if killing is martial, or be too episode-specific; source context is needed.
+  suggested_aliases:
+  - oath_bound_killer
+  - vow_bound_killer
+  - secret_killer_bound_by_vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vow-marked-by-bodily-abstention-until-task-is-fulfilled
+  motif_id: vow_marked_by_bodily_abstention_until_task_is_fulfilled
+  label: vow marked by bodily abstention until task is fulfilled
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vow binds conduct and is marked by abstention until fulfillment, fitting
+    oath or vow as sacred speech-act.
+  cautions: The abstention aspect may also support sacrifice or renunciation if the
+    passage emphasizes bodily self-denial more than the oath.
+  suggested_aliases:
+  - abstention_vow_until_task_fulfilled
+  - vow_of_abstention
+  - task_bound_abstention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vow-preserved-by-the-non-christian-status-of-opponents
+  motif_id: vow_preserved_by_the_non_christian_status_of_opponents
+  label: Vow preserved by the non-Christian status of opponents
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to depend on culturally specific legal or religious
+    conditions for maintaining a vow.
+  cautions: Potentially contextual, polemical, or passage-specific; review wording
+    and source evidence before indexing. Could map to curse_blessing_speech or sacred_law
+    if the vow-rule is central.
+  suggested_aliases:
+  - vow_preserved_by_opponent_status
+  - conditional_vow_preservation
+  - religious_status_condition_for_vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vow-upheld-despite-pressure-for-revenge
+  motif_id: vow_upheld_despite_pressure_for_revenge
+  label: Vow upheld despite pressure for revenge
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The binding vow restrains revenge, making the oath or vow the main operative
+    motif.
+  cautions: Could also be indexed under sacred_law or covenant if the passage emphasizes
+    ethical discipline, duty, or social order more than vow-performance.
+  suggested_aliases:
+  - vow_upheld_against_revenge
+  - oath_restrains_revenge
+  - vow_maintained_under_pressure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vowed-killing-of-named-rival
+  motif_id: vowed_killing_of_named_rival
+  label: Vowed killing of named rival
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow binds the speaker to kill a rival; the key structure is a performative
+    vow directing future violence.
+  cautions: If the narrative centers on battle, feud, or ritualized warfare, sacred_combat
+    may be a secondary or better mapping; named-rival detail is over-specific.
+  suggested_aliases:
+  - vow_to_kill_rival
+  - oath_of_vengeful_killing
+  - vowed_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vowed-revenge-against-the-husband-or-lord
+  motif_id: vowed_revenge_against_the_husband_or_lord
+  label: vowed revenge against the husband or lord
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The revenge is formulated as a vow, so the binding speech act is the
+    clearest existing placement.
+  cautions: Could also involve betrayal_violated_trust, sacred_combat, or sacred_law
+    depending on whether kinship, lordship, or feud obligation drives the episode.
+  suggested_aliases:
+  - vow_of_revenge
+  - revenge_vow_against_lord
+  - oath_of_revenge_against_husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-god-dwelling-at-a-river-confluence
+  motif_id: war_god_dwelling_at_a_river_confluence
+  label: war-god dwelling at a river confluence
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a war deity, dwelling place, and sacred water-boundary
+    geography; the main motif function is unclear.
+  cautions: Culturally sensitive local sacred geography should not be flattened without
+    source review. Possible mappings include divine_warrior, sacred_waters, or axis_mundi
+    depending on function.
+  suggested_aliases:
+  - war_deity_at_river_confluence
+  - war_god_sacred_confluence
+  - deity_dwelling_at_confluence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-goddess-encounter-at-a-hero-s-castle
+  motif_id: war_goddess_encounter_at_a_hero_s_castle
+  label: war-goddess encounter at a hero’s castle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A war-goddess encounter with a hero fits divine martial agency in heroic
+    combat contexts.
+  cautions: If the episode functions mainly as prophecy, sovereignty testing, seduction,
+    or threshold encounter, other groups may be more precise; castle detail is likely
+    contextual.
+  suggested_aliases:
+  - war_goddess_encounter
+  - martial_goddess_encounters_hero
+  - war_deity_appears_to_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-goddess-triad
+  motif_id: war_goddess_triad
+  label: war goddess triad
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A triad of war goddesses is a culturally specific divine grouping and
+    may be more than a generic divine-warrior role.
+  cautions: Could map to divine_warrior as a role_variant, but triadic structure may
+    relate to deity taxonomy, sovereignty, fate, or local cult; human review should
+    avoid overgeneralizing named goddess traditions.
+  suggested_aliases:
+  - triadic_war_goddess
+  - three_war_goddesses
+  - war_deity_triad
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are vow/oath labels. Existing group curse_blessing_speech is the best
+  broad placement because it explicitly includes vows and binding sacred speech, with
+  sacrifice or sacred_law as possible secondary review contexts.
+- 'War-deity items need caution: some may be divine martial agency, while others may
+  encode culturally specific sacred geography or deity groupings rather than reusable
+  narrative motifs.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and culturally specific labels
+    require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0463
+  input_sha256: e94292805484295a27ab0b0b3dde42f7c08d9d800701b6e898192db5cf5c5b5d
+

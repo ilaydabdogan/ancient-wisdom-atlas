@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0289
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-control-over-states-of-being
+  motif_id: divine_control_over_states_of_being
+  label: Divine control over states of being
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests sacred agency altering conditions of existence, but
+    the function is too broad without passage evidence.
+  cautions: Could be creation, transformation, healing, death control, or theological
+    commentary; avoid over-mapping from abstract wording.
+  suggested_aliases:
+  - divine_power_over_being
+  - divine_control_of_existence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-correction-of-self-imposed-prohibition
+  motif_id: divine_correction_of_self_imposed_prohibition
+  label: Divine correction of self-imposed prohibition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A divine response to an imposed prohibition fits sacred law, taboo, and
+    proper regulation of conduct.
+  cautions: May also involve covenant or ethical command depending on whether the
+    passage emphasizes legal correction, mercy, or revelation.
+  suggested_aliases:
+  - divine_correction_of_prohibition
+  - improper_prohibition_corrected_by_divine_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-cosmic-stride
+  motif_id: divine_cosmic_stride
+  label: Divine cosmic stride
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: alias
+  confidence: high
+  rationale: The normalization groups already list cosmic measurement by three strides
+    as an alias under supreme ruler and cosmic sovereignty.
+  cautions: If the passage stresses measuring or structuring the cosmos rather than
+    rulership, axis_mundi or cosmic_origin may be secondary contexts.
+  suggested_aliases:
+  - cosmic_measurement_by_three_strides
+  - three_cosmic_strides
+  - divine_three_strides
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-creates-living-beings
+  motif_id: divine_council_creates_living_beings
+  label: divine council creates living beings
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Creation of living beings by divine deliberation belongs under cosmic
+    origin and creation.
+  cautions: Preserve the council or collective-divine agency detail; do not collapse
+    it into creation by speech unless the passage supports speech as the mechanism.
+  suggested_aliases:
+  - council_creation_of_life
+  - divine_group_creates_living_beings
+  - collective_divine_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-or-group-creation-of-humans
+  motif_id: divine_council_or_group_creation_of_humans
+  label: divine council or group creation of humans
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Human creation by a divine council is a specific creation-of-humanity
+    form within cosmic origin.
+  cautions: May be narrower than the living-beings label; preserve human-creation
+    and collective-deliberation details for evidence review.
+  suggested_aliases:
+  - council_creation_of_humans
+  - divine_group_creates_humans
+  - collective_divine_anthropogony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-recalling-prior-tales
+  motif_id: divine_council_recalling_prior_tales
+  label: Divine council recalling prior tales
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a narrative or literary framing detail about recounting
+    prior stories, not a reusable symbolic motif.
+  cautions: If the passage treats divine memory as sacred knowledge or prophecy, reconsider
+    under sacred_knowledge or storytelling_as_power.
+  suggested_aliases:
+  - divine_recollection_of_prior_tales
+  - gods_recall_old_stories
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-counsel-behind-human-events
+  motif_id: divine_counsel_behind_human_events
+  label: divine counsel behind human events
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine deliberation directing human affairs fits supernatural guidance
+    or intervention in events.
+  cautions: Spelling may imply counsel/advice rather than council/assembly; could
+    also be fate or divine judgment depending on the event’s function.
+  suggested_aliases:
+  - divine_council_behind_human_events
+  - divine_deliberation_guides_events
+  - hidden_divine_plan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-counsel-reveals-the-necessary-weapon
+  motif_id: divine_counsel_reveals_the_necessary_weapon
+  label: divine counsel reveals the necessary weapon
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine disclosure of the weapon needed for success is sacred knowledge
+    applied to combat or ordeal.
+  cautions: If the focus is the weapon as a power object, sacred_treasures may be
+    secondary; if combat resolution is central, divine_warrior or sacred_combat may
+    also apply.
+  suggested_aliases:
+  - divine_revelation_of_needed_weapon
+  - revealed_necessary_weapon
+  - divine_strategy_reveals_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-cow-or-cattle-driving-association
+  motif_id: divine_cow_or_cattle_driving_association
+  label: divine cow or cattle-driving association
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is associative rather than functional and could point to divine
+    animal, cattle raid, abundance, or pastoral sovereignty motifs.
+  cautions: Source context is needed; avoid mapping to sacred_combat merely because
+    cattle are present, or to divine_intervention merely because the cow is divine.
+  suggested_aliases:
+  - divine_cattle_association
+  - sacred_cow_cattle_driving
+  - divine_cow_motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-craftsmen-make-an-unsurpassed-vessel
+  motif_id: divine_craftsmen_make_an_unsurpassed_vessel
+  label: divine craftsmen make an unsurpassed vessel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine craftsmen producing a wondrous vessel fits sacred craft and divinely
+    aided manufacture.
+  cautions: If the vessel’s contents or function drive the passage, sacred_vessel
+    or sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - divine_craft_of_wondrous_vessel
+  - god_made_unsurpassed_vessel
+  - divine_craftsmen_make_wondrous_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'divine counsel/council'; reviewers should verify
+  whether the source means advice, deliberation, or an assembly of gods.
+- Creation-by-divine-council labels can map to cosmic_origin while preserving collective
+  agency as evidence detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; items with abstract or associative wording were
+    left for human review or excluded as likely textual framing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0289
+  input_sha256: eb67eef955fe784d0ffb60534d4942f6f92a1f5dd92668179fb253113933018d
+

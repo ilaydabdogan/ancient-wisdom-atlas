@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1436
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.humble-reunion-through-reverence-to-elders
+  motif_id: humble_reunion_through_reverence_to_elders
+  label: humble reunion through reverence to elders
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Reverence to elders is an ethical-social obligation; reunion is likely
+    a narrative outcome of proper conduct.
+  cautions: Single occurrence and composite wording; could fit sacred_exchange or
+    family reconciliation if evidence emphasizes relationship repair rather than duty.
+  suggested_aliases:
+  - reverence_to_elders
+  - elder_reverence_restores_relationship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliated-suitors-become-besieging-enemies
+  motif_id: humiliated_suitors_become_besieging_enemies
+  label: Humiliated suitors become besieging enemies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Failed or humiliated suitors turning to siege is a conflict escalation
+    around marriage contest and martial rivalry.
+  cautions: Highly episode-specific; may also relate to sacred_love if bride-choice/wedding
+    context is central, or pride_and_downfall if humiliation triggers overreach.
+  suggested_aliases:
+  - humiliated_suitors_attack
+  - suitor_rivalry_escalates_to_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliating-retribution-before-execution
+  motif_id: humiliating_retribution_before_execution
+  label: humiliating retribution before execution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Retribution before death can function as moral reckoning or punishment
+    of wrongdoing.
+  cautions: May be a legal/political execution detail rather than sacred judgment;
+    confirm that the humiliation is morally or divinely framed.
+  suggested_aliases:
+  - retribution_before_execution
+  - public_humiliation_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliation-followed-by-recognition-and-wedding-restoration
+  motif_id: humiliation_followed_by_recognition_and_wedding_restoration
+  label: Humiliation followed by recognition and wedding restoration
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The turning point is recognition that restores identity/status and enables
+    wedding restoration.
+  cautions: Composite plot sequence; if no token or identity proof is present, sacred_love
+    or divine_judgment may be better secondary placements.
+  suggested_aliases:
+  - recognition_restores_wedding
+  - humiliated_beloved_recognized_and_restored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliation-of-a-pursuing-rival-through-a-gift
+  motif_id: humiliation_of_a_pursuing_rival_through_a_gift
+  label: Humiliation of a pursuing rival through a gift
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A gift used to shame or outmaneuver a rival suggests deceptive or boundary-crossing
+    social strategy.
+  cautions: Could be a courtship rivalry, insult-exchange, or episode-specific detail;
+    map to sacred_exchange only if gift reciprocity is central.
+  suggested_aliases:
+  - gift_humiliates_rival
+  - deceptive_gift_against_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-demon-or-ogress-associated-with-eating
+  motif_id: hungry_demon_or_ogress_associated_with_eating
+  label: Hungry demon or ogress associated with eating
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a monstrous consuming figure, but current groups lack
+    a clear ogre/cannibal-monster category.
+  cautions: May fit threshold_guardian if the being blocks passage, chaos if demonic
+    danger is cosmic, or sacred_substance only if eating has ritual significance.
+    Source context needed.
+  suggested_aliases:
+  - devouring_ogress
+  - hungry_demon
+  - cannibal_monster
+  suggested_new_group:
+    id: devouring_monster
+    label: Devouring Monster and Cannibal Threat
+    description: Monstrous beings such as ogres, demons, giants, or witches defined
+      by hunger, cannibalism, or threatened consumption of humans.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - chaos
+    - divine_judgment
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover threshold guardians
+      and chaos beings, but not the recurring narrative role of a devouring ogre or
+      cannibal monster as such.
+- suggestion_id: normalization.suggestion.hunt-and-bathing-as-setup-after-hostile-planning
+  motif_id: hunt_and_bathing_as_setup_after_hostile_planning
+  label: Hunt and bathing as setup after hostile planning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like a passage-specific setup sequence rather than
+    a reusable symbolic motif.
+  cautions: If bathing functions as vulnerability, purification, or taboo exposure,
+    human review could remap to sacred_law, betrayal_violated_trust, or conditional_invulnerability_hidden_weakness.
+  suggested_aliases:
+  - hunt_bathing_setup
+  - hostile_plot_setup
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunted-transformed-beings-and-commemorative-mound
+  motif_id: hunted_transformed_beings_and_commemorative_mound
+  label: Hunted transformed beings and commemorative mound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: The clearest reusable element is transformed beings pursued or hunted.
+  cautions: Composite label also includes memorial mound; if the mound is the focus,
+    heroic_funeral_rites or etiological landscape naming under cosmic_origin may be
+    relevant.
+  suggested_aliases:
+  - hunted_transformed_beings
+  - transformed_beings_commemorated_by_mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunter-imitates-prey
+  motif_id: hunter_imitates_prey
+  label: hunter imitates prey
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Imitating prey may be hunting technique, ritual identification, disguise,
+    or transformation depending on evidence.
+  cautions: Could fit shapeshifter if bodily transformation is present, trickster
+    if deception is central, or sacred_law if it is hunting ritual protocol. Review
+    Indigenous context carefully.
+  suggested_aliases:
+  - prey_imitation_by_hunter
+  - hunter_disguised_as_prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunter-lost-in-snow-after-successful-pursuit
+  motif_id: hunter_lost_in_snow_after_successful_pursuit
+  label: hunter lost in snow after successful pursuit
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a specific incident of environmental danger after
+    a hunt, not a broad motif in the current taxonomy.
+  cautions: If the snow loss is an ordeal, punishment, or otherworld disorientation,
+    review for hero_journey, divine_judgment, or initiation.
+  suggested_aliases:
+  - lost_in_snow_after_hunt
+  - successful_hunter_lost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence composite plot summaries; preserve as evidence
+  details unless additional cross-source recurrence appears.
+- No transmission or borrowing claims are implied by these placements.
+- A possible devouring_monster group may be worth future review if ogre, cannibal
+  giant, witch, or demon-consumption labels recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional batch suggestions for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1436
+  input_sha256: 5f63bc67728278436242e3eddf7b9870aca83465d121b613ceb50cca8d54ea3b
+

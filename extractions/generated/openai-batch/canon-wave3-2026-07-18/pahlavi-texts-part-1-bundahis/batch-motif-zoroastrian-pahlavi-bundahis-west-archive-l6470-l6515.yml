@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l6470-l6515
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    XVII,  8 -XVIII,  5.  65 / Chapter  XVIII. / CHAPTER    XVIII,    6
+    -XIX,    I.  6? / Chapter  XIX.; lines 6470-6515
+  start: '6470'
+  end: '6515'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a mountain with innumerable cavities located between
+    trees, assigned protection over waters, from which water streams through channels
+    to the land of the seven regions as the source of all sea-water there. It then
+    begins a description of the three-legged ass standing in the wide-formed ocean,
+    listing its multiple feet, eyes, mouths, ears, and horn. Notes connect the mountain
+    with the white-Horn tree and the tree of many seeds, and compare the three-legged
+    ass with the Avestan khara.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mountain with cavities is formed between trees, with the cavities numbered
+    as 9999 thousand myriads.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mountain is given protection of the waters.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Water streams from the mountain through rivulet channels to the land of the
+    seven regions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mountain is described as the source of all sea-water in the land of the
+    seven regions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note states that the mountain is between the white-Horn tree and the tree
+    of many seeds.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The three-legged ass stands amid the wide-formed ocean.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The three-legged ass is described with three feet, six eyes, nine mouths,
+    two ears, and a horn; the horn description is cut off in the supplied passage.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note connects the three-legged ass with the Avestan khara, described as
+    righteous and standing in the middle of the wide-shored ocean.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: three-legged ass
+  description: A being standing amid the wide-formed ocean, with three feet, six eyes,
+    nine mouths, two ears, and a horn mentioned before the passage breaks off.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cosmic ocean being
+  assigned_to:
+  - fig:1
+  basis: The being is located amid the wide-formed ocean and is described with extraordinary
+    bodily multiplicity.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cavitied mountain
+  literal_form: mountain with cavities
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: waters flowing to seven regions
+  literal_form: water, rivulet channels, sea-water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: paired trees around the mountain
+  literal_form: trees; note names white-Horn tree and tree of many seeds
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: wide-formed ocean
+  literal_form: wide-formed ocean
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: three-legged ass
+  literal_form: ass with three feet, six eyes, nine mouths, two ears, and horn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mountain source of waters
+  summary: A many-cavitied mountain between trees is assigned protection of the waters,
+    and water flows from it through channels to the seven regions as the source of
+    sea-water.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Three-legged ass in the ocean
+  summary: The three-legged ass stands in the wide-formed ocean and is introduced
+    through a list of extraordinary bodily features.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cosmic mountain as source of world waters
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The mountain is described as the protected source from which waters stream
+    to the land of the seven regions and from which all sea-water there originates.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly call the mountain an axis or world center;
+    the motif label is based on its cosmographic water-source function.
+- id: motif:2
+  label: Sacred trees flanking a cosmographic mountain
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The mountain is located between trees; an editorial note identifies them
+    as the white-Horn tree and the tree of many seeds.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The supplied passage only briefly references the trees, and their fuller
+    functions are outside the provided range.
+- id: motif:3
+  label: Marvelous animal standing in the cosmic ocean
+  taxonomy_refs: []
+  basis: The three-legged ass stands amid the wide-formed ocean and is described with
+    multiple eyes, mouths, feet, and other features.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage fragment does not yet state the being’s function; only its
+    location and attributes are supplied.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note identifies the three-legged ass with the Avestan khara,
+    also described as standing in the middle of the wide-shored ocean.
+  claim_level: linguistic_similarity
+  target: Avestan khara in Yasna XLI, 28
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial comparison in a note; the supplied passage does
+    not provide the underlying Avestan text beyond the quoted description.
+- id: claim:2
+  claim: An editorial note says the mountain described here seems to be identifiable
+    with the Ausindom mountain mentioned elsewhere in the same work.
+  claim_level: same_motif
+  target: Ausindom mountain of Bundahis Chapters XII, 6 and XIII, 5
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note uses tentative wording, and the referenced chapters are outside
+    the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6470-6473
+  quote_or_summary: A mountain with cavities is formed between trees, and the number
+    of cavities is given as 9999 thousand myriads.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6474-6479
+  quote_or_summary: The mountain is given protection of the waters; water streams
+    from it through channels to the land of the seven regions, and all sea-water there
+    has its source from it.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: note 1 within supplied passage
+  quote_or_summary: A note explains that the mountain is between the white-Horn tree
+    and the tree of many seeds.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter XIX, section 1 within supplied passage
+  quote_or_summary: The three-legged ass stands amid the wide-formed ocean and is
+    described as having three feet, six eyes, nine mouths, two ears, and a horn, with
+    the following wording cut off in the supplied excerpt.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: note 4 within supplied passage
+  quote_or_summary: A note links the being to Avestan khara in Yasna XLI, 28, described
+    as righteous and standing in the middle of the wide-shored ocean; the note also
+    discusses possible interpretations of the being.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: note 3 within supplied passage
+  quote_or_summary: A note says the mountain description seems to identify it with
+    the Ausindom mountain of Chapters XII, 6 and XIII, 5.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main cosmographic details are clear, but the passage is fragmentary at
+    the beginning of Chapter XIX and several identifications rely on editorial notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; no external identifications were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l6470-l6515
+  passage_sha256=95038fdffbfce5caa70910228ef28ffa1a54e46a70982006604a581cd6079cab
+

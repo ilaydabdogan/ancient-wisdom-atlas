@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1183
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warning-message-encoded-in-runes-and-token
+  motif_id: warning_message_encoded_in_runes_and_token
+  label: warning message encoded in runes and token
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning encoded in runes and a token is a performative or authoritative
+    message that guides action through charged speech/signs.
+  cautions: Could instead belong under recognition_tokens_hidden_identity if the token
+    primarily proves identity, or sacred_knowledge if the rune message conveys hidden
+    knowledge.
+  suggested_aliases:
+  - rune_warning_token
+  - encoded_warning_message
+  - warning_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-not-to-admit-the-hostile-outsider
+  motif_id: warning_not_to_admit_the_hostile_outsider
+  label: warning not to admit the hostile outsider
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns on admission or refusal of a stranger/outsider whose
+    presence threatens the host community or household.
+  cautions: If the key action is defensive boundary protection rather than guest logic,
+    sacred_law or threshold_guardian may be secondary fits.
+  suggested_aliases:
+  - dangerous_outsider_warning
+  - warning_against_admitting_stranger
+  - hostile_guest_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-not-to-give-blood-to-a-dangerous-supernatural-host
+  motif_id: warning_not_to_give_blood_to_a_dangerous_supernatural_host
+  label: Warning not to give blood to a dangerous supernatural host
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A prohibition on giving blood to a dangerous supernatural being fits
+    blood taboo, spirit danger, and protective ritual law.
+  cautions: If the passage emphasizes blood as offering or pact, sacrifice, sacred_exchange,
+    or covenant may be relevant secondary mappings.
+  suggested_aliases:
+  - blood_giving_taboo
+  - warning_against_blood_offering_to_spirit
+  - blood_taboo_with_supernatural_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-of-an-underestimated-enemy-host
+  motif_id: warning_of_an_underestimated_enemy_host
+  label: warning of an underestimated enemy host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning about an enemy host functions within martial crisis and combat
+    preparation, matching the sacred combat cluster.
+  cautions: May be a passage-specific tactical detail unless the warning shapes a
+    heroic ordeal, doom, or ritual battle sequence.
+  suggested_aliases:
+  - enemy_host_warning
+  - warning_against_underestimating_enemy
+  - martial_warning_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-rejected-despite-demand-for-heavenly-proof
+  motif_id: warning_rejected_despite_demand_for_heavenly_proof
+  label: Warning rejected despite demand for heavenly proof
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting a sacred warning after demanding heavenly proof fits refusal
+    of revelation and consequent moral reckoning.
+  cautions: Could map to prophecy_divination or theophany if the passage centers on
+    the heavenly sign itself rather than judgment after rejection.
+  suggested_aliases:
+  - rejected_divine_warning
+  - heavenly_proof_rejected
+  - warning_ignored_after_sign_demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-that-a-broken-thread-will-destroy-fortune
+  motif_id: warning_that_a_broken_thread_will_destroy_fortune
+  label: warning that a broken thread will destroy fortune
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A thread whose breaking destroys fortune aligns with thread/weaving imagery
+    for fate, life, luck, or destiny.
+  cautions: If the thread is only an object-specific charm or external life-token,
+    sacred_treasures or external_soul may fit better; source context needed.
+  suggested_aliases:
+  - broken_fortune_thread
+  - thread_of_fortune
+  - fate_thread_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-that-prior-challengers-all-fell
+  motif_id: warning_that_prior_challengers_all_fell
+  label: warning that prior challengers all fell
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Warnings that earlier challengers failed frame the coming challenge as
+    a severe threshold ordeal or test.
+  cautions: Could belong under sacred_combat if the challenge is a duel, or threshold_guardian
+    if a boundary figure issues or embodies the warning.
+  suggested_aliases:
+  - warning_of_fallen_challengers
+  - prior_challengers_failed
+  - deadly_challenge_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-to-turn-back-before-an-impossible-threshold
+  motif_id: warning_to_turn_back_before_an_impossible_threshold
+  label: warning to turn back before an impossible threshold
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The warning marks a boundary that must not or cannot be crossed, fitting
+    threshold danger and passage testing.
+  cautions: If no guardian or boundary figure is present, initiation may be a better
+    broad placement for the impossible ordeal.
+  suggested_aliases:
+  - turn_back_threshold_warning
+  - impossible_threshold_warning
+  - warning_before_forbidden_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-voice-averts-abandonment-at-the-threshold-of-capture
+  motif_id: warning_voice_averts_abandonment_at_the_threshold_of_capture
+  label: Warning voice averts abandonment at the threshold of capture
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning voice that prevents abandonment or capture functions as guiding
+    intervention at a crisis point.
+  cautions: Culturally sensitive source context should determine whether the voice
+    is divine, ancestral, animal-helper, or human; threshold_guardian may be secondary.
+  suggested_aliases:
+  - warning_voice_guidance
+  - voice_averts_capture
+  - supernatural_warning_at_capture_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warnings-ignored-before-communal-disaster
+  motif_id: warnings_ignored_before_communal_disaster
+  label: Warnings ignored before communal disaster
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Ignored warnings before a collective catastrophe fit moral reckoning
+    and communal punishment or purification.
+  cautions: If the disaster renews the world order, flood_and_renewal may be secondary;
+    if warnings are prophetic, prophecy_divination may also apply.
+  suggested_aliases:
+  - ignored_warnings_before_disaster
+  - communal_disaster_after_warning
+  - rejected_warning_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are warning-scenes with single occurrences; they should
+  remain granular evidence unless repeated patterns justify a dedicated warning/omen
+  group.
+- 'For warnings, distinguish the source and function of the warning: prophetic speech,
+  divine guidance, combat counsel, taboo prohibition, threshold challenge, or ignored
+  judgment sign.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should confirm whether each
+    warning is sacred, tactical, ritual, or merely narrative.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1183
+  input_sha256: d488add64094fe1bfb32dc1bdf4ffde156ba2590cd937558ca09358ef4d56ea1
+

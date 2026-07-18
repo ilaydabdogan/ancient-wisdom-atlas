@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1395
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feather-transfer-betrothal-binding-both-sides
+  motif_id: feather_transfer_betrothal_binding_both_sides
+  label: Feather-transfer betrothal binding both sides
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a binding social/ritual obligation created through
+    an object transfer, closest to sacred law or covenantal obligation.
+  cautions: Single culturally specific occurrence; may instead belong with sacred_exchange,
+    sacred_love, or marriage-choice material depending on source evidence. Review
+    Indigenous context carefully.
+  suggested_aliases:
+  - betrothal_token_binding_obligation
+  - marriage_binding_by_feather_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feathered-regalia-or-costume
+  motif_id: feathered_regalia_or_costume
+  label: feathered regalia or costume
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Feathered costume may signal sacred office, divine embodiment, ritual
+    performance, or rank, but the function is not clear from the label alone.
+  cautions: Could be an object/costume detail rather than a motif. If it marks royal/divine
+    authority, royal_legitimacy or divine_intervention may fit; if only descriptive
+    regalia, exclude from pattern queries.
+  suggested_aliases:
+  - feather_regalia
+  - feathered_ritual_costume
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fed-doll-helper-completes-assigned-tasks
+  motif_id: fed_doll_helper_completes_assigned_tasks
+  label: Fed doll helper completes assigned tasks
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A doll or crafted figure that acts as a helper fits the existing cluster
+    of animated or life-like manufactured images.
+  cautions: The feeding relationship may also imply ancestor/spirit care or sacred
+    exchange; verify whether the doll is animated craft, household spirit, or magical
+    helper before final mapping.
+  suggested_aliases:
+  - animated_doll_helper
+  - fed_helper_doll
+  - doll_helper_performs_tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-submission-before-vengeance
+  motif_id: feigned_submission_before_vengeance
+  label: feigned submission before vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: narrower_than
+  confidence: medium
+  rationale: Pretended submission used to enable revenge is a deception strategy,
+    fitting the trickster/deceptive stratagem group more than vengeance alone.
+  cautions: If the passage emphasizes honor revenge or sacred combat rather than deception,
+    sacred_combat or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - feigned_submission_for_revenge
+  - false_surrender_before_vengeance
+  - deceptive_submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-adversary-stripped-of-magic-power-by-heated-irons
+  motif_id: female_adversary_stripped_of_magic_power_by_heated_irons
+  label: Female adversary stripped of magic power by heated irons
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines gendered adversary, magical disempowerment, and heated
+    iron; no existing group clearly captures this exact function.
+  cautions: May be an over-specific episode detail or culturally sensitive violence
+    label. Could relate to sacred_fire, divine_judgment, shapeshifter, or sacred_combat
+    depending on whether the focus is purification, punishment, magic-breaking, or
+    defeat.
+  suggested_aliases:
+  - magic_power_removed_by_heated_iron
+  - heated_iron_breaks_adversary_magic
+  - adversary_disempowered_by_iron
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-captive-as-lineage-progenitor
+  motif_id: female_captive_as_lineage_progenitor
+  label: female captive as lineage progenitor
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns ancestry and lineage origin, but captivity and gendered
+    progenitorship require source-sensitive review before grouping.
+  cautions: Could fit cosmic_origin as ancestral origin, sacred_love/marriage material,
+    or a violence/captivity motif not represented here. Avoid flattening culturally
+    specific lineage traditions into generic origin motifs without evidence.
+  suggested_aliases:
+  - captive_woman_as_ancestor
+  - female_captive_lineage_founder
+  - lineage_origin_from_captive_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-celestial-figures
+  motif_id: female_celestial_figures
+  label: Female celestial figures
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a class of celestial beings but does not specify
+    narrative function, ritual role, or symbolic action.
+  cautions: May belong under cosmic_origin, sacred_time, mother_goddess, theophany,
+    or dream_and_vision depending on evidence. If it is only a character category,
+    exclude from pattern queries.
+  suggested_aliases:
+  - celestial_women
+  - female_sky_beings
+  - female_star_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-demon-guards-over-a-captive-woman
+  motif_id: female_demon_guards_over_a_captive_woman
+  label: Female demon guards over a captive woman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A demon guarding a captive functions as a boundary-keeping obstacle that
+    must be confronted, appeased, or bypassed.
+  cautions: If the passage centers on captivity, abduction, or rescue of the beloved,
+    sacred_love or hero_journey may be relevant. Preserve demon and gender details
+    as evidence, not necessarily canonical labels.
+  suggested_aliases:
+  - demon_guard_of_captive_woman
+  - female_demonic_guardian
+  - captive_guarded_by_demon_women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-giant-helper-lends-protective-equipment
+  motif_id: female_giant_helper_lends_protective_equipment
+  label: female giant helper lends protective equipment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective equipment lent by a supernatural helper fits power objects
+    that confer protection or special ability.
+  cautions: Could also be divine_intervention if the helper's agency is central, or
+    hero_journey if it serves as aid before an ordeal. Preserve giant-helper role
+    as evidence detail.
+  suggested_aliases:
+  - supernatural_helper_lends_protective_equipment
+  - protective_equipment_from_giant_helper
+  - giantess_helper_gives_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-guide-to-enkidu
+  motif_id: female_guide_to_enkidu
+  label: female guide to Enkidu
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is tied to a named character and role in one episode rather
+    than a reusable motif formulation.
+  cautions: If generalized from passage evidence, a guide who initiates a wild figure
+    into social life might map to initiation or culture_hero-related socialization,
+    but this label should not be used as-is for broad pattern queries.
+  suggested_aliases:
+  - female_initiatory_guide
+  - guide_to_civilization
+  - woman_as_civilizing_guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence and several are culturally specific
+  or episode-specific; placements should remain provisional.
+- Where labels describe gendered or Indigenous ritual/social details, source-context
+  review is recommended before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1395
+  input_sha256: 86ba88a840616e0b7683bf9ff4784c75b685110497d6712270b148fcf00dae9c
+

@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.south-american-north-west-amazons-whiffen-gutenberg-l5599-l5609
+source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+passage_locator:
+  label: CHAPTER IX / CHAPTER X / CHAPTER XI / CHAPTER XII; lines 5599-5609
+  start: '5599'
+  end: '5609'
+  translation: 'The North-West Amazons: Notes of Some Months Spent Among Cannibal
+    Tribes'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes widowhood customs: cutting a widow''s top ligatures
+    as mourning, delayed permission to remarry, usual residence with the husband''s
+    people under protection, possible return to her own people if relations are not
+    hostile, and a tolerated but unrecognized practice in which widows may become
+    tribal prostitutes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a man dies, the top ligatures of his widow are cut as a sign of mourning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The widow's top ligatures are replaced only if she marries again.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Remarriage is not prohibited, but it is not permitted until some months after
+    the husband's death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: As a rule, a widow continues to live with her dead husband's people.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The widow may live under the protection of the chief or of her dead husband's
+    brother.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If the widow's own people are not hostile to the tribe into which she married,
+    she may return to them.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the tribes will probably have drifted apart, even
+    if they have not become enemies.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says that widows very frequently become tribal prostitutes; the
+    custom is tolerated but not formally recognized and is not practiced openly or
+    immodestly.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: widow
+  description: A woman whose husband has died; her top ligatures are cut for mourning,
+    and she may remain with her husband's people, remarry after some months, return
+    to her own people under conditions, or become a tribal prostitute.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: deceased husband
+  description: The dead man whose death initiates the widowhood practices described.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: dead husband's people
+  description: The people with whom the widow generally continues to live after her
+    husband's death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: chief
+  description: A possible protector under whom the widow may live after her husband's
+    death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: dead husband's brother
+  description: A possible protector under whom the widow may live after her husband's
+    death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: widow's own people
+  description: The widow's natal or original people, to whom she may return if they
+    are not hostile to the tribe into which she married.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mourner
+  assigned_to:
+  - fig:1
+  basis: The widow's top ligatures are cut as a sign of mourning after her husband's
+    death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: remarriage-delayed widow
+  assigned_to:
+  - fig:1
+  basis: The passage says remarriage is not prohibited but is delayed for some months
+    after the husband's death.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: affinal host group
+  assigned_to:
+  - fig:3
+  basis: The widow usually continues to live with her dead husband's people.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: protector of widow
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The widow may live under the protection of the chief or of her dead husband's
+    brother.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tolerated tribal prostitute
+  assigned_to:
+  - fig:1
+  basis: The passage says widows very frequently become tribal prostitutes, a custom
+    tolerated but not formally recognized.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: deceased spouse
+  assigned_to:
+  - fig:2
+  basis: The man's death occasions the widowhood practices described.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:7
+  label: possible return group
+  assigned_to:
+  - fig:6
+  basis: The widow may return to her own people if they are not hostile to the tribe
+    into which she married.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mourning sign
+  literal_form: cut top ligatures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Widow marked for mourning
+  summary: After a man's death, his widow's top ligatures are cut as a sign of mourning
+    and are replaced only if she marries again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Delayed remarriage
+  summary: The passage states that remarriage is allowed, but only after some months
+    have passed since the husband's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Residence under protection
+  summary: A widow generally remains with her dead husband's people, under the protection
+    of the chief or the husband's brother.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Conditional return to own people
+  summary: A widow may return to her own people if they are not hostile to the tribe
+    into which she married, though the passage notes that the groups may have drifted
+    apart or become enemies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Tolerated unrecognized sexual role
+  summary: The passage states that widows often become tribal prostitutes; this is
+    tolerated but not recognized and is not practiced openly or immodestly.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mourning marked by removal of body ligatures
+  taxonomy_refs: []
+  basis: The widow's top ligatures are cut as a sign of mourning after her husband's
+    death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes an ethnographic custom, not a narrative mythic episode.
+- id: motif:2
+  label: widow's remarriage delayed after husband's death
+  taxonomy_refs: []
+  basis: The passage states that remarriage is permitted only after some months have
+    passed since the husband's death.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No ritual details beyond the time restriction are given.
+- id: motif:3
+  label: widow remains with husband's people under protection
+  taxonomy_refs: []
+  basis: The widow usually stays with her dead husband's people under the protection
+    of a chief or the dead husband's brother.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes protection and residence, not necessarily marriage
+    to the brother.
+- id: motif:4
+  label: widow's return constrained by intergroup relations
+  taxonomy_refs: []
+  basis: The widow may return to her own people if they are not hostile, but the passage
+    notes that the groups may have drifted apart or become enemies.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as a social probability rather than a formal rule.
+- id: motif:5
+  label: widow assigned tolerated but unrecognized sexual status
+  taxonomy_refs: []
+  basis: The passage states that widows frequently become tribal prostitutes and that
+    the custom is tolerated but not recognized.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The wording reflects the source author's terminology and should be reviewed
+    in context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5599-5601
+  quote_or_summary: When a man dies, the top ligatures of his widow are cut as a sign
+    of mourning and are replaced only if she marries again.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5601-5603
+  quote_or_summary: There is no prohibition against remarriage, but it is not permitted
+    until some months after the husband's death.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5603-5605
+  quote_or_summary: After a man's death, his widow usually continues to live with
+    his people under the protection of the chief or of her dead husband's brother.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5605-5608
+  quote_or_summary: If the widow's own people are not hostile to the tribe into which
+    she married, she may return, but the passage says the groups will probably have
+    drifted apart or become enemies.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5608-5609
+  quote_or_summary: The passage states that widows very frequently become tribal prostitutes;
+    this custom is tolerated, not recognized, and not practiced openly or immodestly.
+  source_text_path: texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md
+  rights_note: Public domain source; summarized; source terminology retained only
+    where necessary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is direct ethnographic prose with clear social practices. Motif
+    labels are descriptive and not linked to supplied taxonomy families. No comparison
+    claims were made because the passage itself does not compare the customs to other
+    traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No available taxonomy symbol or motif reference was assigned.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:south-american-north-west-amazons-whiffen-gutenberg__l5599-l5609
+  passage_sha256=c5ff6d118012831d280e9e493d4a7c39c4f1ed9efc78bbf48c4a2a5ae64dc888
+

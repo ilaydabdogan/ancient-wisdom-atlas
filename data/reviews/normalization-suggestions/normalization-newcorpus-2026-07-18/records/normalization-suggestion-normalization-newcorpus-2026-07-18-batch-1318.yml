@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1318
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.clothing-theft-with-transferred-blame
+  motif_id: clothing_theft_with_transferred_blame
+  label: clothing theft with transferred blame
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Theft combined with shifted blame fits deception and boundary-crossing
+    behavior typical of trickster/fable episodes.
+  cautions: Single occurrence; if the passage centers on false accusation or moral
+    punishment rather than trickery, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - theft_with_transferred_blame
+  - deceptive_blame_shift_after_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.co-fosterage-rivalry-and-status-resentment
+  motif_id: co_fosterage_rivalry_and_status_resentment
+  label: co-fosterage rivalry and status resentment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social rivalry, kinship obligation, heroic biography,
+    or court status conflict, none of which are clear from the label alone.
+  cautions: Could fit sibling_pair/duality if foster-siblings structure the plot,
+    royal_legitimacy if status succession is central, or be too contextual as a passage
+    detail.
+  suggested_aliases:
+  - fosterage_rivalry
+  - status_resentment_between_fosterlings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.co-operative-totemic-magic-for-food-supply
+  motif_id: co_operative_totemic_magic_for_food_supply
+  label: Co-operative totemic magic for food supply
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label involves ritual cooperation, totemic relations, and food increase
+    magic, which overlaps sacred_exchange and divine_intervention but may need culturally
+    specific review.
+  cautions: Culturally sensitive; avoid flattening to generic abundance or sacrifice
+    without source evidence. Current wording may reflect ethnographic classification
+    rather than a narrative motif.
+  suggested_aliases:
+  - totemic_food_increase_magic
+  - cooperative_ritual_magic_for_food_supply
+  - increase_rite_for_food_supply
+  suggested_new_group:
+    id: ritual_abundance_magic
+    label: Ritual Abundance and Increase Magic
+    description: Ritual acts intended to increase, renew, attract, or maintain food,
+      animals, plants, rain, or subsistence abundance through sacred or totemic relations.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_substance
+    - sacred_time
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover exchange, divine intervention,
+      and inexhaustible provision, but not recurring ritual increase practices centered
+      on food supply and totemic relations.
+- suggestion_id: normalization.suggestion.cock-crow-ends-apparition
+  motif_id: cock_crow_ends_apparition
+  label: Cock-crow ends apparition
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cockcrow marks dawn/light ending a nocturnal supernatural manifestation,
+    aligning with divine light dispersing darkness or spirits.
+  cautions: Could also support apotropaic protection under sacred_law if the emphasis
+    is protective practice rather than dawn symbolism.
+  suggested_aliases:
+  - dawn_ends_apparition
+  - cockcrow_dispels_apparition
+  - daybreak_ends_supernatural_visitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cockcrow-banishes-devils
+  motif_id: cockcrow_banishes_devils
+  label: Cockcrow banishes devils
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: 'The motif functions as apotropaic protection: a boundary or sign causes
+    harmful spirits/devils to withdraw.'
+  cautions: If the passage emphasizes cosmic dawn/light rather than protective custom,
+    sacred_fire may be a better primary group.
+  suggested_aliases:
+  - cockcrow_dispels_devils
+  - dawn_banishes_devils
+  - apotropaic_cockcrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cockcrow-dispels-nocturnal-apparition
+  motif_id: cockcrow_dispels_nocturnal_apparition
+  label: cockcrow dispels nocturnal apparition
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The apparition's disappearance at cockcrow reflects dawn or light overcoming
+    nocturnal supernatural power.
+  cautions: May be an apotropaic folklore rule; consider sacred_law if indexed with
+    protective customs rather than light symbolism.
+  suggested_aliases:
+  - cockcrow_ends_apparition
+  - dawn_dispels_apparition
+  - cockcrow_dispels_night_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cockcrow-ends-nocturnal-supernatural-power
+  motif_id: cockcrow_ends_nocturnal_supernatural_power
+  label: Cockcrow ends nocturnal supernatural power
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cockcrow acts as a dawn marker that terminates the power of night-associated
+    supernatural beings or forces.
+  cautions: Broadly phrased; if the evidence is a protective taboo or charm-like rule,
+    sacred_law may be more precise.
+  suggested_aliases:
+  - dawn_ends_nocturnal_power
+  - cockcrow_breaks_night_magic
+  - cockcrow_ends_night_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cockcrow-ends-nocturnal-supernatural-threat
+  motif_id: cockcrow_ends_nocturnal_supernatural_threat
+  label: cockcrow ends nocturnal supernatural threat
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif describes protection from a harmful night threat through cockcrow,
+    fitting apotropaic protection patterns.
+  cautions: Could be grouped with sacred_fire when dawn/light symbolism is primary;
+    review whether a ritual/custom rule is actually present.
+  suggested_aliases:
+  - cockcrow_dispels_nocturnal_threat
+  - dawn_ends_supernatural_threat
+  - apotropaic_cockcrow_against_night_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cockcrow-ends-supernatural-visitation
+  motif_id: cockcrow_ends_supernatural_visitation
+  label: Cockcrow ends supernatural visitation
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A supernatural visitation ending at cockcrow is a dawn-boundary variant
+    where daylight terminates otherworldly presence.
+  cautions: If the visitor is a ghost of the unresolved dead, restless_dead_haunting_vengeance
+    may be relevant as a secondary mapping.
+  suggested_aliases:
+  - dawn_ends_supernatural_visitation
+  - cockcrow_ends_spirit_visit
+  - cockcrow_ends_nocturnal_visitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cockcrow-forces-the-devil-to-retreat
+  motif_id: cockcrow_forces_the_devil_to_retreat
+  label: cockcrow forces the Devil to retreat
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The cockcrow functions as an apotropaic signal compelling a harmful demonic
+    being to withdraw.
+  cautions: Could also be treated as sacred_fire/dawn symbolism; preserve the Devil-specific
+    wording as local evidence, not as a separate canonical motif.
+  suggested_aliases:
+  - cockcrow_banishes_devil
+  - dawn_forces_devil_to_retreat
+  - apotropaic_cockcrow_against_devil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several cockcrow labels appear to be close variants of one normalization pattern:
+  cockcrow/dawn dispels nocturnal supernatural beings or power. Human reviewers may
+  want to consolidate these as aliases under either sacred_fire for dawn/light symbolism
+  or sacred_law for apotropaic protection.'
+- The totemic food-supply item should receive culturally informed review before any
+  new group is accepted; the suggested group is provisional and intended only if similar
+  increase-rite labels recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1318
+  input_sha256: 65d50d0ea2e1f557b19bf075c15146fa3408e2b1193274111eddf0370d718478
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0580
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.covert-persecution-after-lawful-acquittal
+  motif_id: covert_persecution_after_lawful_acquittal
+  label: Covert persecution after lawful acquittal
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns failed or subverted legal order after acquittal, which
+    may fit moral reckoning or social justice themes.
+  cautions: Single occurrence and context-dependent; may be a plot detail about persecution
+    rather than sacred judgment.
+  suggested_aliases:
+  - persecution_after_acquittal
+  - subverted_acquittal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cracking-ice-as-sign-of-the-absent-father
+  motif_id: cracking_ice_as_sign_of_the_absent_father
+  label: cracking ice as sign of the absent father
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: A natural sign indicating an absent figure may function as omen or altered
+    perception.
+  cautions: Highly specific and may be an episode detail; verify whether the cracking
+    ice is a supernatural omen, recognition sign, or merely narrative setting.
+  suggested_aliases:
+  - natural_sign_of_absent_father
+  - ice_omen_of_absent_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.craft-success-provoking-murderous-envy
+  motif_id: craft_success_provoking_murderous_envy
+  label: craft success provoking murderous envy
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already groups envy, rivalry, and failed imitation under
+    pride/downfall; this label is an envy-driven destructive variant.
+  cautions: If the craft itself is sacred or magical, sacred_craft may be a secondary
+    relation; the core here is murderous envy.
+  suggested_aliases:
+  - envy_of_craft_success
+  - murderous_envy_of_craftsman
+  - craft_rivalry_envy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-and-cosmic-order-as-signs
+  motif_id: creation_and_cosmic_order_as_signs
+  label: Creation and cosmic order as signs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Creation and ordered cosmos as meaningful signs fits the creation/cosmic-order
+    field, with wisdom or revelation as secondary function.
+  cautions: Do not treat as a creation myth if the passage mainly uses creation as
+    theological evidence for reflection.
+  suggested_aliases:
+  - cosmic_order_as_signs
+  - creation_as_signs
+  - created_order_as_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-and-natural-order-as-warning-signs
+  motif_id: creation_and_natural_order_as_warning_signs
+  label: creation and natural order as warning signs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The warning function points to divine judgment or moral reckoning using
+    created order as sign.
+  cautions: If the passage emphasizes contemplative recognition rather than warning,
+    cosmic_origin or sacred_knowledge may be better primary mappings.
+  suggested_aliases:
+  - natural_order_as_warning
+  - created_order_as_warning_sign
+  - cosmic_warning_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-ordered-as-signs-for-reflection
+  motif_id: creation_ordered_as_signs_for_reflection
+  label: Creation ordered as signs for reflection
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes reflection and recognition of sacred meaning through
+    creation, aligning with wisdom and revelation.
+  cautions: Could also sit under cosmic_origin when creation structure is central;
+    preserve the reflective-sign function in notes.
+  suggested_aliases:
+  - creation_as_signs_for_reflection
+  - created_order_for_reflection
+  - natural_signs_for_contemplation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-through-celestial-ordering
+  motif_id: creation_through_celestial_ordering
+  label: creation through celestial ordering
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Ordering celestial bodies or heavens as part of creation is a clear subtype
+    of cosmic origin and creation.
+  cautions: If focused on astral administration rather than cosmogony, sacred_time
+    or cosmic sovereignty may be secondary.
+  suggested_aliases:
+  - celestial_ordering_creation
+  - creation_by_ordering_heavens
+  - astral_ordering_cosmogony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creator-deity-ordering-cosmos
+  motif_id: creator_deity_ordering_cosmos
+  label: creator deity ordering cosmos
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: A creator deity establishing cosmic order is a direct creation/cosmogony
+    motif.
+  cautions: Could overlap with supreme_ruler if the emphasis is cosmic kingship rather
+    than creation itself.
+  suggested_aliases:
+  - creator_orders_cosmos
+  - divine_ordering_of_cosmos
+  - cosmos_ordered_by_creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creator-provider-ordering-the-human-world
+  motif_id: creator_provider_ordering_the_human_world
+  label: Creator-provider ordering the human world
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The provider role ordering human affairs fits divine guidance and intervention
+    in the human world.
+  cautions: If the passage stresses creation of social law, sacred_law or covenant
+    may be stronger; if it stresses cosmogony, cosmic_origin is secondary.
+  suggested_aliases:
+  - creator_provider_orders_human_world
+  - divine_provider_orders_society
+  - creator_as_provider_and_orderer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-as-foundation-of-the-kingdom-and-life
+  motif_id: cross_as_foundation_of_the_kingdom_and_life
+  label: cross as foundation of the kingdom and life
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The cross functions as a sacred power object or cosmic foundation linked
+    to life and rule.
+  cautions: Christian theological specificity may require careful review; could also
+    map to world_center, royal_legitimacy, death_and_transformation, or sacred_tree_axis
+    depending on passage evidence.
+  suggested_aliases:
+  - cross_as_foundation
+  - life_giving_cross
+  - cross_as_kingdom_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic labels use creation as 'signs' for reflection or warning; reviewers
+  may want a durable alias cluster connecting cosmic_origin, sacred_knowledge, and
+  divine_judgment without treating them as ordinary cosmogony passages.
+- Single-occurrence Estonian items are context-dependent and should not be promoted
+  without source review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional mapping suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0580
+  input_sha256: 7f2571268f3495df2497b500ee7eb641c65e3cd96d9a575bd2d872c80f44b68b
+

@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0708
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foolish-third-son-receives-poor-inheritance
+  motif_id: foolish_third_son_receives_poor_inheritance
+  label: Foolish third son receives poor inheritance
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a folktale family-inheritance setup, but no existing
+    group clearly covers foolish youngest-child inheritance without more plot function.
+  cautions: Single occurrence; may be a passage-specific tale opening rather than
+    a reusable mythic motif. Could relate to hero_journey, sacred_law, or social order
+    if the story develops those functions.
+  suggested_aliases:
+  - foolish youngest son
+  - poor inheritance to youngest son
+  - third son inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-desire-causing-wasting-sickness
+  motif_id: forbidden_desire_causing_wasting_sickness
+  label: Forbidden desire causing wasting sickness
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Love or desire causing bodily wasting fits the existing sacred_love child
+    pattern of love as an affliction cured only by the beloved.
+  cautions: If the emphasis is taboo violation or moral punishment rather than longing,
+    sacred_law or divine_judgment may be secondary.
+  suggested_aliases:
+  - love sickness
+  - desire causing wasting illness
+  - forbidden love sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-kiss-causes-forgetting-of-the-wife
+  motif_id: forbidden_kiss_causes_forgetting_of_the_wife
+  label: Forbidden kiss causes forgetting of the wife
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A kiss that causes forgetting of a spouse disrupts fidelity and beloved
+    recognition, fitting love tested by enchantment or loss.
+  cautions: Could also fit storytelling_as_power or sacred_substance if the source
+    stresses magical compulsion rather than love relationship; preserve the forbidden-kiss
+    detail.
+  suggested_aliases:
+  - forgetting the beloved
+  - enchanted kiss causes forgetfulness
+  - spouse forgotten by magical kiss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-or-wrong-marriage-punished-by-transformation-into-trees
+  motif_id: forbidden_or_wrong_marriage_punished_by_transformation_into_trees
+  label: Forbidden or wrong marriage punished by transformation into trees
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core narrative action is punitive metamorphosis into trees, which
+    fits transformation despite the marriage-triggered context.
+  cautions: Culturally sensitive source context is needed. If the passage primarily
+    explains marriage law or taboo, sacred_law/divine_judgment may be important secondary
+    mappings; do not map to axis_mundi unless the trees have cosmic-center function.
+  suggested_aliases:
+  - punitive tree transformation
+  - marriage taboo punished by tree metamorphosis
+  - wrong marriage transformed into trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-false-bride-substitution-at-a-wedding
+  motif_id: forced_false_bride_substitution_at_a_wedding
+  label: Forced false-bride substitution at a wedding
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: False-bride substitution turns on concealed or mistaken identity and
+    often requires later recognition or proof of the true bride.
+  cautions: If no recognition scene is present, this may be an over-specific wedding-deception
+    motif better reviewed under sacred_love or betrayal_violated_trust.
+  suggested_aliases:
+  - false bride substitution
+  - substituted bride at wedding
+  - true bride displaced by false bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreboding-bridegroom-with-house-in-the-dark-forest
+  motif_id: foreboding_bridegroom_with_house_in_the_dark_forest
+  label: foreboding bridegroom with house in the dark forest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ominous marriage, forest setting, and possible threat,
+    but its motif function is unclear from the wording alone.
+  cautions: May be a passage-specific scene, a perilous bridegroom tale, a threshold/otherworld
+    encounter, or domestic violence motif. Avoid mapping to sacred_love without evidence
+    of love or longing as the central function.
+  suggested_aliases:
+  - ominous bridegroom
+  - dangerous bridegroom in forest house
+  - dark forest bridegroom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-princess-sent-with-tribute-becomes-royal-wife
+  motif_id: foreign_princess_sent_with_tribute_becomes_royal_wife
+  label: Foreign princess sent with tribute becomes royal wife
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tribute princess becoming a royal wife concerns dynastic marriage,
+    alliance, and royal status more than private romance.
+  cautions: Could be a historical or court-record detail rather than a mythic motif;
+    review whether the passage gives symbolic or narrative function.
+  suggested_aliases:
+  - tribute bride becomes queen
+  - foreign princess as royal wife
+  - dynastic tribute marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-kin-loss-and-revenge-against-future-husband
+  motif_id: foretold_kin_loss_and_revenge_against_future_husband
+  label: foretold kin-loss and revenge against future husband
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a foretold future involving family loss and vengeance,
+    making prophecy the clearest existing placement.
+  cautions: If the passage emphasizes unavoidable doom more than the act of foretelling,
+    death_by_fate may be secondary; if it emphasizes marital revenge, sacred_love
+    or sacred_combat may also apply.
+  suggested_aliases:
+  - foretold revenge against husband
+  - prophecy of kin loss
+  - foretold marital vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-revenge-arising-from-an-unwanted-marriage
+  motif_id: foretold_revenge_arising_from_an_unwanted_marriage
+  label: foretold revenge arising from an unwanted marriage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A revenge sequence predicted in advance fits prophecy or foretelling
+    as hidden future knowledge.
+  cautions: If the passage stresses fated doom, map secondarily to death_by_fate;
+    if it stresses forced marriage as social violation, sacred_law or sacred_love
+    may be relevant.
+  suggested_aliases:
+  - prophecy of revenge from forced marriage
+  - foretold revenge after unwanted marriage
+  - unwanted marriage revenge prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgetfulness-draught-preceding-marriage
+  motif_id: forgetfulness_draught_preceding_marriage
+  label: Forgetfulness draught preceding marriage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A drink that alters memory before marriage fits sacred or magical substances
+    that transform consciousness and relationship status.
+  cautions: If the passage emphasizes bride-substitution or loss of beloved recognition,
+    sacred_love or recognition_tokens_hidden_identity may be useful secondary mappings.
+  suggested_aliases:
+  - memory-loss drink before marriage
+  - forgetfulness potion
+  - marriage forgetfulness draught
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence folktale or saga details; proposed
+  placements should be checked against source passages before broad indexing.
+- 'Marriage-related motifs split by function: royal alliance under royal_legitimacy,
+  memory-altering drink under sacred_substance, identity substitution under recognition_tokens_hidden_identity,
+  and love-sickness under sacred_love.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human taxonomy review required.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0708
+  input_sha256: 89b7f914b123e11b0a0bd9b9b717178f1748297431b1160f9fd380227ff3ae32
+

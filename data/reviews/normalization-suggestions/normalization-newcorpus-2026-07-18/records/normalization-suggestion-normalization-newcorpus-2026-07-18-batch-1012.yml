@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1012
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.baked-or-eaten-witch-or-monster-kin
+  motif_id: baked_or_eaten_witch_or_monster_kin
+  label: Baked or eaten witch or monster kin
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Baking or eating a witch/monster kin may be a violent reversal or trickster
+    defeat of a dangerous being, but the label lacks enough narrative function.
+  cautions: Single occurrence; could be monster-slaying, cannibalistic violence, punishment,
+    or an over-specific episode detail.
+  suggested_aliases:
+  - witch_or_monster_defeated_by_cooking
+  - monster_kin_eaten_or_baked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banner-as-war-signal
+  motif_id: banner_as_war_signal
+  label: Banner as war signal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A banner functioning as a signal in battle belongs with ritualized warfare
+    and combat organization.
+  cautions: May be a mundane battle detail unless the banner has sacred, omen-bearing,
+    or authority-conferring force.
+  suggested_aliases:
+  - war_banner_signal
+  - battle_banner_signal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banner-bearing-war-company
+  motif_id: banner_bearing_war_company
+  label: banner-bearing war company
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A war company organized around a banner fits the combat and ritual-warfare
+    field better than a sacred-object group.
+  cautions: If the banner merely identifies a troop, it may be too descriptive for
+    pattern queries.
+  suggested_aliases:
+  - banner_bearing_company
+  - war_band_with_banner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banner-led-advance-into-renewed-battle
+  motif_id: banner_led_advance_into_renewed_battle
+  label: Banner-led advance into renewed battle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A banner leading renewed battle is a martial rallying pattern within
+    sacred or heroic combat scenes.
+  cautions: Over-specific single occurrence; preserve as evidence unless recurrent
+    banner-rally motifs accumulate.
+  suggested_aliases:
+  - banner_led_battle_advance
+  - battle_renewed_under_banner
+  - war_banner_rally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banquet-and-gift-giving-before-battle
+  motif_id: banquet_and_gift_giving_before_battle
+  label: Banquet and gift-giving before battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gift-giving and feasting before battle emphasize reciprocal obligation,
+    honor, and social bonding before conflict.
+  cautions: Could also be sacred_combat if the battle preparation is the main function;
+    source context should decide primary mapping.
+  suggested_aliases:
+  - pre_battle_feast_and_gifts
+  - gift_giving_before_battle
+  - warrior_banquet_before_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banquet-service-interrupted-by-violence
+  motif_id: banquet_service_interrupted_by_violence
+  label: banquet service interrupted by violence
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: Violence erupting during a banquet may signal violated hospitality or
+    feast betrayal, but the label does not show betrayal or sacred obligation explicitly.
+  cautions: May be a scene-specific narrative incident rather than a reusable motif;
+    consider sacred_exchange or sacred_combat if feast-bond or combat function is
+    clearer.
+  suggested_aliases:
+  - feast_interrupted_by_violence
+  - banquet_violence
+  - violence_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bargained-weapon-aid
+  motif_id: bargained_weapon_aid
+  label: Bargained weapon aid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapon aid centers on a power object whose availability is negotiated
+    for combat advantage.
+  cautions: If the bargain or obligation is more important than the weapon, sacred_exchange
+    may be a better primary group.
+  suggested_aliases:
+  - weapon_aid_by_bargain
+  - negotiated_weapon_help
+  - bargained_combat_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-attendant-uses-reproach-and-praise-to-intensify-the-hero
+  motif_id: battle_attendant_uses_reproach_and_praise_to_intensify_the_hero
+  label: Battle attendant uses reproach and praise to intensify the hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reproach and praise function as performative speech that alters or intensifies
+    the hero in battle.
+  cautions: Could instead belong under divine_warrior or sacred_combat if speech is
+    only tactical encouragement, not transformative or binding utterance.
+  suggested_aliases:
+  - battle_praise_and_reproach
+  - speech_intensifies_hero
+  - warrior_incitement_by_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-balance-turned-by-fate
+  motif_id: battle_balance_turned_by_fate
+  label: battle balance turned by fate
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The outcome of battle being turned by fate fits the broader destiny-governed
+    death and combat complex.
+  cautions: If personified fate or weighing imagery is present, fate_figures_cosmic_weaving
+    or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - fate_turns_battle
+  - battle_outcome_determined_by_fate
+  - fated_turning_of_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-cessation-through-conditional-pledge
+  motif_id: battle_cessation_through_conditional_pledge
+  label: Battle cessation through conditional pledge
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A conditional pledge that halts battle is a binding agreement shaping
+    social and martial order.
+  cautions: May also fit sacred_combat if the emphasis is battle protocol rather than
+    the binding pledge.
+  suggested_aliases:
+  - conditional_pledge_ends_battle
+  - battle_truce_by_pledge
+  - combat_ceases_by_oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence martial scene details; map provisionally
+  but avoid promoting banner or banquet subtypes without recurrence.
+- 'Where battlefield speech, pledges, gifts, and banners appear, distinguish the narrative
+  function: combat organization, sacred exchange, binding speech, or oath/covenant.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for low-confidence feast/monster
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1012
+  input_sha256: fa5febf0449833cd554898f0c2b6b9be90063749319ed343398aa9238d9fd022
+

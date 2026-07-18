@@ -1,0 +1,319 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0058
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-origin-of-the-tortoise-shell
+  motif_id: etiological_origin_of_the_tortoise_shell
+  label: etiological origin of the tortoise shell
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is etiological and animal-body focused, but the death/descent
+    bucket does not show whether it involves transformation, punishment, trickster
+    action, or a passage artifact.
+  cautions: Single occurrence; may fit shapeshifter, trickster, cosmic_origin/etiology,
+    or be too local without source evidence.
+  suggested_aliases:
+  - origin of tortoise shell
+  - tortoise shell etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-avoiding-a-house-where-death-occurred
+  motif_id: etiology_of_avoiding_a_house_where_death_occurred
+  label: Etiology of avoiding a house where death occurred
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule avoiding a death-site house functions as a mortuary taboo or protective
+    ritual prohibition, which current decisions fold under sacred_law.
+  cautions: Could also relate to restless_dead_haunting_vengeance or spirit_contagion
+    if the source emphasizes dangerous dead presence rather than law/taboo.
+  suggested_aliases:
+  - death-site house avoidance
+  - mortuary house taboo
+  - avoidance of house where death occurred
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-storm-phenomena-through-spirit-actions
+  motif_id: etiology_of_storm_phenomena_through_spirit_actions
+  label: Etiology of storm phenomena through spirit actions
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Storms caused by spirit actions fit supernatural agency directly affecting
+    the natural world.
+  cautions: If the source is mainly an origin explanation for weather, cosmic_origin
+    or a future weather-spirits group may be more precise; review culturally specific
+    spirit terminology.
+  suggested_aliases:
+  - storm phenomena caused by spirits
+  - spirit-caused storm etiology
+  - weather through spirit action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evening-star-descends-to-the-underworld-after-the-sun
+  motif_id: evening_star_descends_to_the_underworld_after_the_sun
+  label: evening star descends to the underworld after the sun
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label explicitly describes a celestial body descending into the underworld,
+    aligning with descent imagery.
+  cautions: Do not treat as hero descent or resurrection unless the passage narrates
+    a transformative journey or return; may also belong with sacred_time or celestial
+    cycle evidence.
+  suggested_aliases:
+  - evening star underworld descent
+  - celestial descent after sunset
+  - star descends to underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evil-conduct-produces-hell-or-evil-path-consequence
+  motif_id: evil_conduct_produces_hell_or_evil_path_consequence
+  label: evil conduct produces hell or evil-path consequence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Moral conduct resulting in hell or an evil postmortem path is a clear
+    karmic/moral reckoning pattern.
+  cautions: In Buddhist contexts this may be impersonal karmic law rather than judgment
+    by a deity; preserve that distinction in notes.
+  suggested_aliases:
+  - evil conduct leads to hell
+  - evil path consequence
+  - karmic hell consequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evil-spirit-driven-off-by-sunrise
+  motif_id: evil_spirit_driven_off_by_sunrise
+  label: Evil spirit driven off by sunrise
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sunrise functioning as a force that expels an evil spirit fits divine
+    light as protective or purifying power.
+  cautions: Could instead fit sacred_law/apotropaic protection if the emphasis is
+    ritual defense, or divine_intervention if a deity actively intervenes.
+  suggested_aliases:
+  - sunrise drives off evil spirit
+  - evil spirit repelled by dawn
+  - dawn banishes spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evil-spirit-intrudes-into-a-house
+  motif_id: evil_spirit_intrudes_into_a_house
+  label: Evil spirit intrudes into a house
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad spirit-intrusion scene without enough evidence for
+    haunting, spirit affliction, threshold violation, or domestic taboo.
+  cautions: May be too generic as a motif; review whether the passage centers on restless
+    dead, evil-spirit affliction, protective law, or a local narrative episode.
+  suggested_aliases:
+  - spirit intrusion into house
+  - evil spirit enters dwelling
+  - domestic spirit intrusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - restless_dead_haunting_vengeance
+    - sacred_law
+    - divine_intervention
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-control-or-guardianship-of-one-s-own-death
+  motif_id: exceptional_control_or_guardianship_of_one_s_own_death
+  label: exceptional control or guardianship of one's own death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Control over one's own death may indicate fate, heroic self-mastery,
+    conditional death, or philosophical immortality, none clear from the label alone.
+  cautions: Single occurrence and abstract wording; avoid mapping to death_and_transformation
+    unless the source shows transformation, return, or ritual death control.
+  suggested_aliases:
+  - self-guardianship of death
+  - control over one's death
+  - exceptional death control
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - death_and_transformation
+    - conditional_invulnerability_hidden_weakness
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.execution-averted-by-return-of-the-presumed-dead
+  motif_id: execution_averted_by_return_of_the_presumed_dead
+  label: execution averted by return of the presumed dead
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Return of a presumed-dead person averting execution functions as identity/vindication
+    proof resolving a false death assumption.
+  cautions: If the source emphasizes literal return from death, map secondarily to
+    resurrection or death_and_transformation; if only plot timing, it may be over-specific.
+  suggested_aliases:
+  - presumed dead returns to avert execution
+  - return of presumed dead prevents punishment
+  - vindication by return of presumed dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - death_and_transformation
+    - return
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exhumation-and-total-burning-of-a-dangerous-corpse
+  motif_id: exhumation_and_total_burning_of_a_dangerous_corpse
+  label: Exhumation and total burning of a dangerous corpse
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: ritual_variant
+  confidence: high
+  rationale: A dangerous corpse exhumed and burned points to management of active
+    or harmful dead whose unresolved presence threatens the living.
+  cautions: Could also be indexed under sacred_law/apotropaic mortuary practice if
+    the rite, rather than the dead agent, is central.
+  suggested_aliases:
+  - burning a dangerous corpse
+  - exhuming and burning the restless dead
+  - corpse destruction to stop haunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence etiologies or broad spirit-action descriptions;
+  source evidence should determine whether they are narrative motifs, ritual taboos,
+  or passage artifacts.
+- Avoid treating etiological explanations as cosmic_origin by default; use the group
+  only when origin-making or world-ordering is the main function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous etiology
+    and spirit-intrusion labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0058
+  input_sha256: 7ce12630e2c4208a5ddc45f35ef72d78fc2bd7e9048e5df00f29705c10aad6da
+

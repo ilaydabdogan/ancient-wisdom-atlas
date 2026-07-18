@@ -1,0 +1,549 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l1488-l1612
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: XX THE BOOK OF JUBILEES / INTRODUCTION XXV / XXX THE BOOK OF JUBILEES / INTRODUCTION
+    XXXV; lines 1488-1612
+  start: '1488'
+  end: '1612'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction argues that Jubilees preserves an independent Hebrew form
+    of the Pentateuch related especially to the LXX and Syriac textual traditions,
+    proposes a date range on textual grounds, and discusses larger lacunae in the
+    text. It treats a disputed passage about twenty-two Hebrew letters and twenty-two
+    books, cites related evidence for numerical correspondences, and notes lost or
+    damaged material concerning agricultural law, Cain, Abram’s pursuit of kings,
+    captives, and Melchizedek.
+  language: English, with quoted Greek and Latin excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Jubilees attests an independent form of the Hebrew
+    text of the Pentateuch and sometimes agrees with Samaritan, LXX, Syriac, Vulgate,
+    or Onkelos witnesses against others.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage infers that Jubilees represents a Hebrew Pentateuchal form midway
+    between forms presupposed by the LXX and the Syriac, and that it agrees most often
+    with the LXX among named authorities.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage concludes from textual evidence that Jubilees was composed between
+    250 B.C. and 100 A.D., nearer the earlier date.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists four larger lacunae at ii. 22, iii. 23, vii. 37, and xiii.
+    25.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The first lacuna is described as containing, according to Greek authorities,
+    clauses about twenty-two letters and twenty-two books; Midrash Tadshe is said
+    to preserve only the clause about twenty-two letters.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A Latin passage attributed to Isidore of Seville is described as linking twenty-two
+    generations from Adam to Jacob, twenty-two Old Testament books, and twenty-two
+    letters.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A Greek manuscript excerpt is cited as saying that God created works in six
+    days and as mentioning Hebrew letters, books, and genealogies from Adam to Jacob.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Greek manuscript excerpt includes a sentence that Cain died when a house
+    fell on him.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The third lacuna is described as concerning the right to eat fruit of trees
+    in the fifth year after planting, six years of sowing and reaping, and letting
+    the land lie fallow in the seventh year.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The damaged passage at xiii. 25 is said to have concerned Abram’s pursuit
+    of kings, recovery of captives, and meeting with Melchizedek.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The passage says that Maccabean princes claimed in some respects to represent
+    the priesthood of Melchizedek.
+  category: relationship
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named in the cited Greek excerpt as the one who created works in six
+    days.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Adam
+  description: Named as the starting point of the generations or genealogies extending
+    to Jacob.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Jacob
+  description: Named as the endpoint of the generations or genealogies from Adam.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Cain
+  description: Mentioned in the Greek excerpt as dying when a house fell on him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Abram
+  description: Named as pursuing kings, recovering captives, and meeting Melchizedek
+    in lost verses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: the kings
+  description: The lost verses are said to have included Abram’s pursuit of the kings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: the captives
+  description: The lost verses are said to have included Abram’s recovery of the captives.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Melchizedek
+  description: Named as the figure whom Abram meets in the lost verses; the passage
+    also refers to the priesthood of Melchizedek.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: fig:9
+  name_or_label: Maccabean princes
+  description: Described as claiming in some respects to represent the priesthood
+    of Melchizedek.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: The cited Greek excerpt says that God created works in six days.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: genealogical boundary figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Adam and Jacob are named as the start and end of a series of generations
+    or genealogies.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: death victim
+  assigned_to:
+  - fig:4
+  basis: Cain is said to have died when a house fell on him.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: pursuer and recoverer
+  assigned_to:
+  - fig:5
+  basis: Abram is described as pursuing kings and recovering captives in the lost
+    verses.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: pursued kings
+  assigned_to:
+  - fig:6
+  basis: The kings are the object of Abram’s pursuit in the lost verses.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: recovered captives
+  assigned_to:
+  - fig:7
+  basis: The captives are described as being recovered by Abram in the lost verses.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: priesthood-associated figure
+  assigned_to:
+  - fig:8
+  basis: The passage names Melchizedek in the lost Abram episode and refers to the
+    priesthood of Melchizedek.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:8
+  label: claimants to priestly representation
+  assigned_to:
+  - fig:9
+  basis: The Maccabean princes are said to have claimed in some respects to represent
+    Melchizedek’s priesthood.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: twenty-two correspondence
+  literal_form: Twenty-two letters, twenty-two books, and twenty-two generations from
+    Adam to Jacob
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: six-day creation period
+  literal_form: God’s creation of works in six days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: tree fruit in the fifth year
+  literal_form: Fruit of trees eaten in the fifth year after planting
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: seventh-year fallow land
+  literal_form: Land sown and reaped for six years and left fallow on the seventh
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: collapsing house
+  literal_form: A house falling on Cain
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Textual affiliation and dating argument
+  summary: The passage compares Jubilees with named textual witnesses to the Pentateuch
+    and infers an approximate date of composition from the pattern of agreements.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Disputed first lacuna and numerical correspondences
+  summary: The passage discusses whether a lacuna originally included both twenty-two
+    letters and twenty-two books, and cites related evidence connecting letters, books,
+    and generations from Adam to Jacob.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Greek excerpt on creation and Cain
+  summary: A cited Greek manuscript excerpt mentions God’s six-day creation work and
+    a separate sentence in which Cain dies after a house falls on him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Agricultural-law lacuna
+  summary: The passage describes a lost section concerning eating tree fruit in the
+    fifth year, sowing and reaping for six years, and leaving the land fallow in the
+    seventh.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Lost Abram and Melchizedek episode
+  summary: The passage says the lost verses concerned Abram’s pursuit of kings, recovery
+    of captives, and meeting with Melchizedek, and notes a later claim about representing
+    Melchizedek’s priesthood.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: numerical correspondence among letters, books, and generations
+  taxonomy_refs: []
+  basis: The passage describes a debated Jubilees passage that links twenty-two letters
+    and twenty-two books, and cites Isidore’s related linkage of twenty-two generations
+    from Adam to Jacob, twenty-two books, and twenty-two letters.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is an introduction discussing textual reconstruction; the
+    motif is inferred only from cited fragments and scholarly commentary about artificial
+    analogies.
+- id: motif:2
+  label: six-day creation schema
+  taxonomy_refs: []
+  basis: A cited Greek excerpt says that God created works in six days.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The creation statement appears only as a brief excerpt cited for textual
+    evidence, not as a full narrative passage.
+- id: motif:3
+  label: death by collapsing house
+  taxonomy_refs: []
+  basis: The cited Greek excerpt includes the statement that Cain died when a house
+    fell on him.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage only notes this as a sentence from Jubilees iv. 31 and provides
+    no surrounding narrative context.
+- id: motif:4
+  label: sabbatical agricultural cycle
+  taxonomy_refs: []
+  basis: The passage describes lost material about eating tree fruit in the fifth
+    year, sowing and reaping for six years, and leaving the land fallow in the seventh
+    year.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The material is explicitly described as a lacuna; details are reconstructed
+    from notes not included in this passage.
+- id: motif:5
+  label: pursuit, recovery of captives, and priestly encounter
+  taxonomy_refs: []
+  basis: The passage says lost verses concerned Abram’s pursuit of kings, recovery
+    of captives, and meeting with Melchizedek.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The underlying verses are missing in the text as described here, so the
+    sequence is known only from the introduction’s summary.
+- id: motif:6
+  label: claim to represent Melchizedek’s priesthood
+  taxonomy_refs: []
+  basis: The passage states that Maccabean princes claimed in some respects to represent
+    the priesthood of Melchizedek.
+  evidence_refs:
+  - ev:11
+  confidence: low
+  cautions: The passage mentions the claim only as contextual commentary on why the
+    lacuna is important; it does not provide the claim’s primary evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Jubilees’ Pentateuchal text with several nearby textual
+    traditions and argues that it stands between the forms presupposed by the LXX
+    and Syriac, with especially frequent agreement with the LXX.
+  claim_level: linguistic_similarity
+  target: LXX and Syriac Pentateuchal textual traditions, with Samaritan, Vulgate,
+    and Onkelos also named
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a textual-critical comparison, not a direct myth-motif comparison.
+- id: claim:2
+  claim: The twenty-two-book reckoning discussed for Jubilees is compared with nearby
+    Jewish and Christian canon-list traditions that also mention twenty-two books
+    or related numerical schemes.
+  claim_level: same_function
+  target: Josephus and later canon-list traditions cited in the passage
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:12
+  counter_evidence_refs:
+  - ev:13
+  confidence: medium
+  limitations: The passage itself debates whether the twenty-two-book clause is original
+    and notes an alternate twenty-four-book reckoning in Talmudic and later Jewish
+    sources.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1488-1494
+  quote_or_summary: Jubilees is said to attest an independent Hebrew Pentateuchal
+    text, sometimes agreeing with Samaritan, LXX, Syriac, Vulgate, or Onkelos against
+    others.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1495-1512
+  quote_or_summary: The passage says Jubilees represents a Hebrew Pentateuchal form
+    midway between those presupposed by the LXX and Syriac, agreeing most often with
+    the LXX and next with the Syriac, while retaining independence from the LXX.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1513-1524
+  quote_or_summary: '"between 250 B.C. (LXX version of Pentateuch) and 100 A.D., and
+    at a time nearer the earlier date"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 1526-1533
+  quote_or_summary: '"there are four larger lacunae in ii, 22, iii, 23, vii 37, xiii,
+    25"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 1532-1537
+  quote_or_summary: The first lacuna is said to contain, according to Greek authorities,
+    two clauses about twenty-two letters and twenty-two books, while Midrash Tadshe
+    gives only the twenty-two-letters clause.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1568-1577
+  quote_or_summary: A passage in Isidore of Seville, described as based on Jubilees
+    ii, links twenty-two generations from Adam to Jacob, twenty-two books of the Old
+    Testament, and twenty-two letters.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1585-1594
+  quote_or_summary: A cited Greek excerpt from Jubilees says that God created works
+    in six days and mentions Hebrew letters, books, and genealogies from Adam to Jacob.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized from quoted Greek.
+- id: ev:8
+  type: quote
+  locator: lines 1593-1602
+  quote_or_summary: '"Cain ... died" when "the house" fell on him; the editor notes
+    that the sentence regarding Cain is from Jubilees iv. 31.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted and normalized from surrounding
+    note.
+- id: ev:9
+  type: summary
+  locator: lines 1605-1610
+  quote_or_summary: The third lacuna is described as dealing with eating fruit of
+    trees in the fifth year after planting, sowing and reaping the land for six years,
+    and letting it lie fallow on the seventh year.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 1610-1612
+  quote_or_summary: '"Abram’s pursuit of the kings, his recovery of the captives,
+    and his meeting with Melchizedek"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:11
+  type: summary
+  locator: lines 1610-1612
+  quote_or_summary: The passage says the Maccabean princes claimed in some respects
+    to represent the priesthood of Melchizedek.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 1538-1546
+  quote_or_summary: The passage notes Josephus as the earliest testimony elsewhere
+    to reckoning the Old Testament books as twenty-two and lists later writers and
+    councils that mention the reckoning.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 1555-1567
+  quote_or_summary: The passage says Midrash Tadshe omits the disputed clause and
+    notes that Talmudic writings and later Jewish scholars often reckoned the Old
+    Testament books as twenty-four.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily textual-critical introduction rather than narrative
+    myth. Motif candidates are therefore limited to explicit fragments, summaries
+    of lacunae, and numerical or ritual patterns named in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were assigned only where the provided taxonomy directly matched a literal symbol.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l1488-l1612
+  passage_sha256=11c851eaad9c5150ca4c8b403153e2a3471b02eaab5115e6dfdda4449682f15d
+

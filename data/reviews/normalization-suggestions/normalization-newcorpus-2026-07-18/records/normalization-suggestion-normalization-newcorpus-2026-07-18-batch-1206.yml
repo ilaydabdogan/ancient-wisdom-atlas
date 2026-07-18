@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1206
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dangerous-threshold-closes-around-intruder
+  motif_id: dangerous_threshold_closes_around_intruder
+  label: Dangerous threshold closes around intruder
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A closing threshold that traps or threatens an intruder functions as
+    a perilous boundary that must be crossed or survived.
+  cautions: No guardian figure is named; if the passage emphasizes an animated space
+    rather than guarded passage, sacred_law or otherworld boundary logic may need
+    review.
+  suggested_aliases:
+  - perilous_closing_threshold
+  - trap_threshold
+  - dangerous_boundary_closure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-bloodied-garment
+  motif_id: deceptive_bloodied_garment
+  label: Deceptive bloodied garment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bloodied garment functions as material evidence or a token used to
+    assert a false account of identity, death, or injury.
+  cautions: Could also support false accusation under divine_judgment if the passage
+    focuses on moral reckoning rather than token evidence.
+  suggested_aliases:
+  - false_bloodied_token
+  - bloodied_garment_as_false_proof
+  - deceptive_evidence_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeat-followed-by-vengeance-and-mustering-of-a-new-army
+  motif_id: defeat_followed_by_vengeance_and_mustering_of_a_new_army
+  label: defeat followed by vengeance and mustering of a new army
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a martial retaliation sequence after defeat, best
+    parked under broad sacred or heroic combat if mythic significance is present.
+  cautions: May be ordinary plot summary or historical battle narration rather than
+    a reusable motif; source context needed.
+  suggested_aliases:
+  - vengeance_after_defeat
+  - remustering_after_defeat
+  - renewed_army_for_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-giant-like-remnant-marked-by-extraordinary-object
+  motif_id: defeated_giant_like_remnant_marked_by_extraordinary_object
+  label: Defeated giant-like remnant marked by extraordinary object
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: low
+  rationale: The extraordinary object appears to mark or preserve the significance
+    of a defeated giant-like figure, fitting power-object evidence better than a distinct
+    motif.
+  cautions: Composite and episode-specific; could belong to divine_warrior or sacred_combat
+    if the focus is giant-slaying rather than the object.
+  suggested_aliases:
+  - extraordinary_object_marking_defeated_giant
+  - giant_remnant_with_power_object
+  - defeated_giant_relic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defensive-refuge-on-elevated-island
+  motif_id: defensive_refuge_on_elevated_island
+  label: defensive refuge on elevated island
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An elevated island refuge may be a protective place, catastrophe refuge,
+    combat setting, or ordinary landscape detail depending on the passage.
+  cautions: Do not map to ark_vessel or flood_and_renewal unless survival through
+    catastrophe or renewal is explicit; may be too specific for motif queries.
+  suggested_aliases:
+  - elevated_island_refuge
+  - island_as_defensive_refuge
+  - high_refuge_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.degenerate-age-marked-by-aged-newborns
+  motif_id: degenerate_age_marked_by_aged_newborns
+  label: Degenerate age marked by aged newborns
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A degenerate age signaled by unnatural aged newborns fits world-age decline
+    and inversion of primordial order.
+  cautions: Preserve the aged-newborn image as local evidence; do not collapse into
+    sacred_birth unless a specific child's destiny is central.
+  suggested_aliases:
+  - aged_newborns_as_age_decline
+  - unnatural_births_mark_cosmic_decline
+  - degenerate_age_birth_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-appearing-as-a-mortal
+  motif_id: deity_appearing_as_a_mortal
+  label: Deity appearing as a mortal
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A god appearing in mortal form is a direct divine manifestation, though
+    disguised or humbled rather than overwhelming.
+  cautions: If the passage emphasizes disguise, deception, or shape-change more than
+    revelation, shapeshifter or trickster may be a secondary fit.
+  suggested_aliases:
+  - god_in_mortal_form
+  - divine_disguise_as_human
+  - mortal_appearing_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-seduction-causing-loss-of-paradise-and-covering
+  motif_id: demonic_seduction_causing_loss_of_paradise_and_covering
+  label: demonic seduction causing loss of paradise and covering
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: forbidden_knowledge
+  suggested_group_label: Forbidden Knowledge
+  relationship: functional_variant
+  confidence: medium
+  rationale: Demonic seduction leading to loss of paradise and bodily covering fits
+    transgressive temptation around a prohibited act and its consequences.
+  cautions: Could also map to divine_judgment or sacred_law if the emphasis is punishment,
+    shame, or prohibition rather than forbidden knowledge.
+  suggested_aliases:
+  - temptation_and_loss_of_paradise
+  - demonic_seduction_to_transgression
+  - loss_of_covering_after_temptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-temptation-by-gift-of-bodily-covering
+  motif_id: demonic_temptation_by_gift_of_bodily_covering
+  label: demonic temptation by gift of bodily covering
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: forbidden_knowledge
+  suggested_group_label: Forbidden Knowledge
+  relationship: functional_variant
+  confidence: low
+  rationale: A demonic gift that tempts bodily covering suggests a prohibited or dangerous
+    acquisition offered through deceptive sacred knowledge or power.
+  cautions: Gift and clothing details may instead indicate deceptive exchange, sacred
+    law, or an over-specific etiological episode; needs source review.
+  suggested_aliases:
+  - demonic_gift_as_temptation
+  - tempting_bodily_covering
+  - forbidden_covering_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deprivation-amid-household-abundance
+  motif_id: deprivation_amid_household_abundance
+  label: Deprivation amid household abundance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe injustice, household exclusion, famine contrast,
+    or a narrative situation rather than a clear mythic motif.
+  cautions: Could fit sacred_exchange, hospitality, jealousy/persecution, or social
+    order depending on who withholds abundance and why; single occurrence is too contextual.
+  suggested_aliases:
+  - abundance_withheld_in_household
+  - household_abundance_and_deprivation
+  - deprivation_despite_plenty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear misbucketed under objects/spaces/boundaries
+  despite combat, world-age, temptation, and social-order content.
+- Single-occurrence composite labels should generally be preserved as evidence details
+  unless the source shows a recurring narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for low-confidence and
+    composite items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1206
+  input_sha256: f86160f0c494ef13f6fb87fccc2fee6dd5ebe87a5defa76fe8bd90165f11d1c1
+

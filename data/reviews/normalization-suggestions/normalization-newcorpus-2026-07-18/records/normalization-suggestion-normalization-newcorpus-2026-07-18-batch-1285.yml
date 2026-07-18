@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1285
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.annual-communal-cleansing-statute
+  motif_id: annual_communal_cleansing_statute
+  label: Annual communal cleansing statute
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A recurring legal statute for communal cleansing fits ritual law and
+    purity regulation.
+  cautions: If the passage emphasizes sacrificial mechanism or calendrical renewal,
+    secondary links to sacrifice or sacred_time may be appropriate.
+  suggested_aliases:
+  - annual cleansing statute
+  - communal purification statute
+  - annual communal purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.annual-gifts-attributed-to-a-mythic-benefactor
+  motif_id: annual_gifts_attributed_to_a_mythic_benefactor
+  label: annual gifts attributed to a mythic benefactor
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: Annual gift-giving tied to a mythic benefactor suggests a cyclical ritual
+    or calendrical commemoration.
+  cautions: Could instead fit culture_hero if the benefactor's founding role is central,
+    or sacred_exchange if reciprocal obligation is emphasized.
+  suggested_aliases:
+  - annual benefactor gifts
+  - mythic benefactor annual gifts
+  - cyclical gifts from culture benefactor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anointed-proclamation-of-liberation
+  motif_id: anointed_proclamation_of_liberation
+  label: anointed proclamation of liberation
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on an authorized sacred speech act that declares and
+    effects liberation.
+  cautions: If the passage emphasizes messianic office or royal sanction more than
+    the proclamation itself, royal_legitimacy or divine_intervention may be relevant.
+  suggested_aliases:
+  - proclamation of liberation
+  - anointed liberating proclamation
+  - sacred proclamation of release
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anonymous-court-champion-defeats-challengers
+  motif_id: anonymous_court_champion_defeats_challengers
+  label: anonymous court champion defeats challengers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: An anonymous champion at court often functions through concealed identity
+    later requiring recognition or proof.
+  cautions: If the episode is primarily combat rather than hidden identity, sacred_combat
+    or divine_warrior may be better; source context is needed.
+  suggested_aliases:
+  - anonymous champion
+  - unknown court champion
+  - hidden champion defeats challengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.answer-to-repeated-invocations
+  motif_id: answer_to_repeated_invocations
+  label: answer to repeated invocations
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A response to repeated invocations implies sacred powers answering human
+    ritual or prayerful appeal.
+  cautions: Could fit curse_blessing_speech if the efficacy of the uttered invocation
+    is central, or theophany if a divine manifestation occurs.
+  suggested_aliases:
+  - answered invocation
+  - response to repeated invocation
+  - divine answer to prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.antagonist-s-life-bound-to-standing-plants
+  motif_id: antagonist_s_life_bound_to_standing_plants
+  label: Antagonist's life bound to standing plants
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A life bound to plants is a clear externalized life or soul dependency
+    pattern.
+  cautions: Preserve the standing-plant detail as evidence; do not map to sacred_tree_axis
+    unless the plants function cosmologically.
+  suggested_aliases:
+  - life bound to plants
+  - external life in standing plants
+  - plant-bound life token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anthropomorphic-insect-society
+  motif_id: anthropomorphic_insect_society
+  label: anthropomorphic insect society
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates animal-person social organization, but no current
+    group cleanly covers anthropomorphic animal societies.
+  cautions: Could be a fable setting, otherworld society, shapeshifting, or passage-specific
+    detail; source evidence is needed before adding an animal-society group.
+  suggested_aliases:
+  - insect society with human traits
+  - anthropomorphic insects
+  - insect people society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anticipatory-mourning-for-a-doomed-lord
+  motif_id: anticipatory_mourning_for_a_doomed_lord
+  label: anticipatory mourning for a doomed lord
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on mourning and tragic recognition before an expected
+    death.
+  cautions: If doom is prophetically fixed, death_by_fate may be a useful secondary
+    mapping.
+  suggested_aliases:
+  - mourning before doom
+  - premature lament for doomed lord
+  - anticipatory lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apocalyptic-hope-in-a-new-age
+  motif_id: apocalyptic_hope_in_a_new_age
+  label: Apocalyptic hope in a New Age
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: broader_label
+  confidence: medium
+  rationale: Hope for a new age after apocalyptic crisis fits cosmic catastrophe and
+    renewal of world order.
+  cautions: If the passage focuses on successive ages or decline rather than catastrophe-renewal,
+    world_ages_cosmic_decline may be a better group.
+  suggested_aliases:
+  - apocalyptic new age
+  - hope for renewed age
+  - eschatological renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apostle-sent-with-direction-and-true-religion
+  motif_id: apostle_sent_with_direction_and_true_religion
+  label: apostle sent with direction and true religion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divinely sent apostle bearing guidance is sacred intervention through
+    a messenger role.
+  cautions: Could also belong under sacred_knowledge if the emphasis is revelation
+    or instruction rather than the sending of the messenger.
+  suggested_aliases:
+  - sent apostle with guidance
+  - divine messenger bringing true religion
+  - apostolic guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid claims of historical transmission.
+- Single-occurrence labels should retain local evidence notes rather than be promoted
+  automatically.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Batch reviewed for broad normalization placement only; several items need
+    source-context confirmation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1285
+  input_sha256: 720ef1dd36b1e5edec37bfbe791bec8dd3091defffcf530b34de90faee176fab
+

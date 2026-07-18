@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l21425-l21512
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: THE BOOK OF JUBILEES / CHAPTER XXXI. 17-26 189 / CHAPTER XXXII. 4-15 193
+    / CHAPTER XXXII. 16-28 195; lines 21425-21512
+  start: '21425'
+  end: '21512'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A divine speaker reassures Jacob about his burial with Abraham and Isaac,
+    commands him to write what he has seen and read, promises to restore his memory,
+    and departs upward. Jacob wakes, remembers, writes the words, and celebrates an
+    additional sacrificial day, naming it “Addition,” while the former days are called
+    “The Feast.” The added celebration is said to be revealed and written on heavenly
+    tables.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jacob is told that he will be buried honourably in the land, in the sepulchre
+    of his fathers with Abraham and Isaac.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jacob is instructed to write down everything he has seen and read.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jacob asks how he can remember what he has read and seen, and the speaker
+    promises to bring all things to his remembrance.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker goes up from Jacob; Jacob wakes from sleep, remembers everything,
+    and writes down all the words he had read and seen.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jacob celebrates another day, sacrifices as on former days, calls the additional
+    day “Addition,” and calls the former days “The Feast.”
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The additional observance is described as manifested, written on the heavenly
+    tables, and revealed to Jacob so that he should add it to the seven days.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The editorial note connects this passage with words ascribed by Origen to
+    the Prayer of Joseph about Jacob reading what would happen on the tablets of heaven.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The editorial note explains the “Addition” as an eighth day after the seven
+    days of the feast of tabernacles and says the author connects its origin with
+    Jacob’s detention an eighth day in Bethel.
+  category: other
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Jacob
+  description: The recipient of the revelation who asks how he can remember, wakes
+    from sleep, writes down what he read and saw, and celebrates the added day.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Divine speaker addressed as Lord
+  description: The speaker who reassures Jacob, commands him to write, promises remembrance,
+    and goes up from him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Abraham
+  description: Named as one of Jacob’s fathers with whom Jacob will be buried.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Isaac
+  description: Named as one of Jacob’s fathers with whom Jacob will be buried.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Recipient-scribe of revealed knowledge
+  assigned_to:
+  - fig:1
+  basis: Jacob is told to write what he has seen and read, later remembers it and
+    writes it down.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Revealer and giver of remembrance
+  assigned_to:
+  - fig:2
+  basis: The speaker commands writing and says he will bring all things to Jacob’s
+    remembrance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Founder or celebrant of added feast day
+  assigned_to:
+  - fig:1
+  basis: Jacob celebrates another day, sacrifices, and names the day “Addition.”
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Ancestral burial companions
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Abraham and Isaac are named as the fathers with whom Jacob will be buried.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Heavenly tables
+  literal_form: Written heavenly tablets or tables
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Sepulchre of the fathers
+  literal_form: Ancestral burial place
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Addition
+  literal_form: An added ritual day after prior feast days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: The Feast
+  literal_form: The former days of celebration, identified in the note with the feast
+    of tabernacles usage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: sym:5
+  label: Sacrifice
+  literal_form: Ritual sacrifices offered on the additional day as on former days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reassurance and command to write
+  summary: The speaker tells Jacob not to fear, foretells honorable burial with Abraham
+    and Isaac, and commands him to write what he has seen and read.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Remembrance, departure, awakening, and writing
+  summary: Jacob asks how he can remember; the speaker promises remembrance, goes
+    up from him, and Jacob wakes, remembers, and writes down the words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Added day and feast naming
+  summary: Jacob celebrates an additional sacrificial day, names it “Addition,” calls
+    the prior days “The Feast,” and the practice is said to be revealed and written
+    on the heavenly tables.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Heavenly-tablet revelation recorded by a human recipient
+  taxonomy_refs:
+  - wisdom
+  basis: Jacob has seen and read revealed material, is commanded to write it, remembers
+    it, and the added observance is said to be written on heavenly tables.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference “wisdom” is broad; the passage itself emphasizes
+    revelation, memory, writing, and heavenly tables.
+- id: motif:2
+  label: Divinely enabled remembrance
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker promises to bring all things to Jacob’s remembrance, after which
+    Jacob remembers what he read and saw.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the action plainly but does not elaborate a general
+    doctrine of inspired memory.
+- id: motif:3
+  label: Upward departure of the revealer
+  taxonomy_refs:
+  - ascent
+  basis: After the promise of remembrance, the speaker goes up from Jacob.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The direction of departure is explicit, but the passage gives little detail
+    about the speaker’s identity or destination.
+- id: motif:4
+  label: Sacrificial feast observance established through revelation
+  taxonomy_refs:
+  - sacrifice
+  basis: Jacob sacrifices on an added day, names it, and the observance is said to
+    be revealed and written on heavenly tables.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes ritual origin but does not present the sacrifice
+    as expiatory or substitutionary.
+- id: motif:5
+  label: Etiology of an added eighth feast day
+  taxonomy_refs: []
+  basis: Jacob adds a day to the seven days, calls it “Addition,” and the note explains
+    this as the origin of an additional feast-day connected with an eighth day after
+    the feast of tabernacles.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The eighth-day interpretation relies partly on the editorial note included
+    in the passage.
+- id: motif:6
+  label: Honourable burial with ancestors
+  taxonomy_refs: []
+  basis: Jacob is told he will be buried with honour in the sepulchre of his fathers,
+    with Abraham and Isaac.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No available taxonomy reference directly matches this motif in the supplied
+    list.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note says this passage seems to be the source of words ascribed
+    by Origen to the Prayer of Joseph, in which Jacob speaks of reading on the heavenly
+    tablets what would happen.
+  claim_level: linguistic_similarity
+  target: Prayer of Joseph as cited by Origen
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial comparison in the provided passage; the full Prayer
+    of Joseph context is not supplied.
+- id: claim:2
+  claim: The editorial note compares the promise to bring all things to remembrance
+    with John xiv.26, where the Paraclete reminds the disciples of all things.
+  claim_level: same_function
+  target: John xiv.26 remembrance promise
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is brief and editorial; only functional and verbal resemblance
+    is indicated in the provided note.
+- id: claim:3
+  claim: The editorial note relates the “Addition” to an eighth day after the seven
+    days of the feast of tabernacles and to traditions about a sacred assembly or
+    keeping back.
+  claim_level: same_function
+  target: Eighth day after the seven days of the feast of tabernacles
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note also discusses textual corruption and alternative renderings,
+    so the precise wording and interpretation need review.
+- id: claim:4
+  claim: The editorial note says the designation “The Feast” agrees with rabbinic
+    usage for the feast of tabernacles.
+  claim_level: linguistic_similarity
+  target: Rabbinic usage calling the feast of tabernacles “the Feast”
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the editorial note and cited rabbinic usage; the
+    cited rabbinic passages are not included in full.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter XXXII.23-24, lines 21425-21429
+  quote_or_summary: "“in this land thou wilt be buried with honour in the sepulchre
+    of thy fathers, with Abraham and Isaac.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: Chapter XXXII.24-25, lines 21428-21434
+  quote_or_summary: Jacob is told to write what he has seen and read; when he asks
+    how he can remember, the speaker says, “I will bring all things to thy remembrance.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise quotation and summary used.
+- id: ev:3
+  type: summary
+  locator: Chapter XXXII.26, lines 21434-21438
+  quote_or_summary: The speaker goes up from Jacob; Jacob wakes from sleep, remembers
+    everything he had read and seen, and writes down all the words.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter XXXII.27, lines 21438-21444
+  quote_or_summary: Jacob celebrates another day, offers sacrifices as on former days,
+    names the added day “Addition,” and calls the former days “The Feast.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter XXXII.28, lines 21444-21448
+  quote_or_summary: The observance is manifested and written on the heavenly tables;
+    Jacob is shown that he should celebrate it and add it to the seven days.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: note
+  locator: Editorial note following Chapter XXXII.28, lines 21449-21458
+  quote_or_summary: The note states that the text seems to be the source of words
+    ascribed by Origen to the Prayer of Joseph, where Jacob says he read on the tablets
+    of heaven what would happen.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized editorial note.
+- id: ev:7
+  type: note
+  locator: Editorial note on Chapter XXXII.25, lines 21459-21462
+  quote_or_summary: The note compares “will bring all things” with John xiv.26, where
+    the Paraclete reminds hearers of all things.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized editorial note.
+- id: ev:8
+  type: note
+  locator: Editorial note on Chapter XXXII.27, lines 21463-21472
+  quote_or_summary: The note explains “Addition” as the eighth day after the seven
+    days of the feast of tabernacles and discusses possible textual corruption in
+    the translation.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized editorial note.
+- id: ev:9
+  type: note
+  locator: Editorial note on Chapter XXXII.27, lines 21473-21490
+  quote_or_summary: The note says the author connects the origin of the additional
+    feast-day with Jacob’s detention an eighth day in Bethel and mentions interpretations
+    involving “keeping back” and “sacred assembly.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized editorial note.
+- id: ev:10
+  type: note
+  locator: Editorial note on “The Feast,” lines 21496-21503
+  quote_or_summary: The note says that calling it “The Feast” agrees with rabbinic
+    usage for the feast of tabernacles and cites Josephus and Philo on its greatness.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions and figures are clear. Some motif labels and comparison
+    claims depend on editorial notes and on broad taxonomy categories, especially
+    wisdom and ascent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Editorial notes included in the passage were treated as note evidence rather than as canonical narrative.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l21425-l21512
+  passage_sha256=797320f356f82018c9b892255487dc3164f9121e584d2bde1233642c72d14c82
+

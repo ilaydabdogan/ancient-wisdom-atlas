@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0889
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.celestial-halo-as-rain-omen
+  motif_id: celestial_halo_as_rain_omen
+  label: Celestial halo as rain omen
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A celestial halo read as a rain omen functions as divination or omen
+    interpretation.
+  cautions: Single occurrence; if the passage only describes weather lore without
+    ritual or interpretive role, it may be too specific for motif queries.
+  suggested_aliases:
+  - weather_omen
+  - celestial_omen
+  - rain_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-light-pervading-and-pacifying-worlds
+  motif_id: celestial_light_pervading_and_pacifying_worlds
+  label: Celestial light pervading and pacifying worlds
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Pervasive celestial light as a pacifying sacred force fits divine light
+    imagery.
+  cautions: Gnostic cosmology may make this more than generic light symbolism; review
+    whether the passage emphasizes theophany, cosmic origin, or salvific knowledge
+    instead.
+  suggested_aliases:
+  - divine_light
+  - celestial_light
+  - pacifying_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-light-simile-for-earthly-firelight
+  motif_id: celestial_light_simile_for_earthly_firelight
+  label: Celestial light simile for earthly firelight
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a literary simile rather than a recurring narrative
+    or symbolic motif.
+  cautions: If the source treats earthly fire as actual divine presence, remap to
+    sacred_fire; otherwise preserve only as passage detail.
+  suggested_aliases:
+  - light_simile
+  - celestial_firelight_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celtic-elements-within-continental-chivalric-romance
+  motif_id: celtic_elements_within_continental_chivalric_romance
+  label: Celtic elements within continental chivalric romance
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a source-history or comparative-literary observation, not a motif.
+  cautions: Do not use this placement as evidence of transmission; specific narrative
+    elements should be indexed separately if present.
+  suggested_aliases:
+  - celtic_romance_elements
+  - literary_influence_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.central-tree-and-fountain-as-adventure-locus
+  motif_id: central_tree_and_fountain_as_adventure_locus
+  label: Central tree and fountain as adventure locus
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A central tree and fountain marking the site of adventure functions as
+    a charged sacred center or threshold locus.
+  cautions: If the scene is only a setting for romance adventure without cosmological
+    or threshold force, it may be over-specific evidence detail; fountain/water symbolism
+    may warrant sacred_waters as secondary.
+  suggested_aliases:
+  - central_tree_and_fountain
+  - adventure_at_sacred_center
+  - tree_fountain_locus
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-regalia-as-storm-cloud-cosmological-imagery
+  motif_id: ceremonial_regalia_as_storm_cloud_cosmological_imagery
+  label: Ceremonial regalia as storm-cloud cosmological imagery
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual objects, ceremonial symbolism, and storm-cloud
+    cosmology in a culturally specific way.
+  cautions: Requires source-sensitive review; could fit sacred_treasures, sacred_law,
+    cosmic_origin, sacred_waters/weather imagery, or remain an over-specific ceremonial
+    detail.
+  suggested_aliases:
+  - storm_cloud_regalia
+  - cosmological_regalia
+  - ceremonial_weather_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chain-of-threatened-actions-ending-in-safe-river-escape
+  motif_id: chain_of_threatened_actions_ending_in_safe_river_escape
+  label: Chain of threatened actions ending in safe river escape
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: A river escape may use water as protective boundary and passage to safety.
+  cautions: The chain of threats may be a tale-structure or trickster escape rather
+    than a water motif; review whether the river is transformative/sacred or just
+    a setting.
+  suggested_aliases:
+  - river_escape
+  - escape_across_water
+  - safe_river_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-slays-enemy-captain-with-rock-or-mountain-weapon
+  motif_id: champion_slays_enemy_captain_with_rock_or_mountain_weapon
+  label: champion slays enemy captain with rock or mountain weapon
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core action is heroic or sacred combat; the rock or mountain weapon
+    is a specific battle detail.
+  cautions: If the mountain weapon has divine origin or cosmic-axis significance,
+    sacred_treasures or axis_mundi may be secondary; otherwise avoid treating all
+    mountain imagery as cosmic mountain.
+  suggested_aliases:
+  - mountain_weapon
+  - rock_weapon_in_combat
+  - champion_slays_enemy_captain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.changing-phenomena-contrasted-with-changeless-buddha-nature
+  motif_id: changing_phenomena_contrasted_with_changeless_buddha_nature
+  label: Changing phenomena contrasted with changeless Buddha nature
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The contrast between impermanent phenomena and changeless Buddha nature
+    is a doctrinal wisdom teaching.
+  cautions: May be philosophical commentary rather than narrative motif; if it is
+    only an abstract doctrinal statement, consider excluding from pattern queries
+    or indexing as teaching evidence.
+  suggested_aliases:
+  - impermanence_and_buddha_nature
+  - changeless_buddha_nature
+  - phenomena_contrasted_with_ultimate_reality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chase-deity-becomes-war-deity-through-lightning-weapon
+  motif_id: chase_deity_becomes_war_deity_through_lightning_weapon
+  label: chase deity becomes war deity through lightning weapon
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A deity defined or transformed into a war deity through a lightning weapon
+    fits divine warrior imagery.
+  cautions: Review the identity and role of the named deity; the label may be an etiological
+    or scholarly summary rather than a discrete narrative motif. Lightning may also
+    relate to sacred_fire or sacred_treasures.
+  suggested_aliases:
+  - lightning_weapon_war_deity
+  - storm_weapon_divine_warrior
+  - war_deity_with_lightning_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several nature/cosmos labels are over-specific or literary-contextual; preserve
+  local evidence but avoid promoting one-off imagery to canonical motifs without recurrence.
+- 'Weather, celestial, and light labels should be distinguished by function: omen
+  interpretation, divine manifestation, sacred light, or mere poetic comparison.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    ritual/cosmological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0889
+  input_sha256: 02e466ed71993c34ffcc7428cd1206188e36aea998414ce354ef073da0b361de
+

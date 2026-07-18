@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1243
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.stone-landmark-establishing-territorial-boundary
+  motif_id: stone_landmark_establishing_territorial_boundary
+  label: Stone landmark establishing territorial boundary
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A boundary stone may be legal, sacred-geographic, etiological, or passage-specific
+    depending on source context.
+  cautions: Single occurrence; Hopi territorial and sacred-place material may require
+    culturally sensitive review before pattern indexing.
+  suggested_aliases:
+  - territorial_boundary_stone
+  - boundary_landmark_stone
+  - sacred_boundary_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-markers-preserving-an-event
+  motif_id: stone_markers_preserving_an_event
+  label: stone markers preserving an event
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Stone markers preserving an event could be sacred landscape memory, etiological
+    place marking, or an ethnographic detail.
+  cautions: Single occurrence; Australian Aboriginal place-memory and sacred-site
+    material should not be flattened into a generic monument motif without evidence.
+  suggested_aliases:
+  - event_memorial_stones
+  - stone_event_markers
+  - sacred_landscape_memory_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_treasures
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strange-marked-strangers-arrive-at-night
+  motif_id: strange_marked_strangers_arrive_at_night
+  label: strange marked strangers arrive at night
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Marked nocturnal strangers may be tests, helpers, threats, disguised
+    beings, or a scene detail.
+  cautions: Too contextual from label alone; do not map to hospitality_test or threshold_guardian
+    without evidence of testing or boundary passage.
+  suggested_aliases:
+  - marked_nocturnal_strangers
+  - strange_visitors_at_night
+  - mysterious_marked_visitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - threshold_guardian
+    - divine_intervention
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strangers-invited-as-protectors-and-household-restorers
+  motif_id: strangers_invited_as_protectors_and_household_restorers
+  label: strangers invited as protectors and household restorers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on strangers received into a household whose presence
+    restores or protects it, fitting stranger-guest hospitality dynamics.
+  cautions: If the emphasis is divine rescue or household cult rather than hosting
+    strangers, divine_intervention or sacred_exchange may be secondary.
+  suggested_aliases:
+  - protective_stranger_guests
+  - stranger_guests_restore_household
+  - invited_strangers_as_household_protectors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.submerged-noble-household-haunting-a-black-pool
+  motif_id: submerged_noble_household_haunting_a_black_pool
+  label: submerged noble household haunting a black pool
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: A submerged household haunting a pool is primarily an active-dead haunting
+    tied to an unresolved place.
+  cautions: Could also involve sacred_waters, otherworld, or etiological landscape
+    legend; preserve black-pool and noble-household details as evidence.
+  suggested_aliases:
+  - submerged_household_haunting
+  - haunted_black_pool
+  - restless_dead_in_submerged_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitute-cult-image-made-during-the-leader-s-absence
+  motif_id: substitute_cult_image_made_during_the_leader_s_absence
+  label: Substitute cult image made during the leader’s absence
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A cult image is a ritual power object; the substitute made during absence
+    resembles the existing idol child/alias area.
+  cautions: If the passage emphasizes idolatry, covenant breach, or judgment, map
+    secondarily to covenant or divine_judgment; do not treat all images as forbidden
+    knowledge.
+  suggested_aliases:
+  - substitute_cult_image
+  - cult_image_in_leader_absence
+  - ritual_image_substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitute-helper-in-bridal-chamber
+  motif_id: substitute_helper_in_bridal_chamber
+  label: substitute helper in bridal chamber
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The function of the substitute helper is unclear: deception, protection,
+    fertility, wedding ordeal, or identity exchange.'
+  cautions: Single contextual label; avoid mapping to sacred_love unless the passage
+    centers marriage choice, fidelity, or love transformation.
+  suggested_aliases:
+  - bridal_chamber_substitute
+  - substitute_in_wedding_chamber
+  - helper_substituted_for_bride_or_groom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    - trickster
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-talisman-as-dangerous-boundary-object
+  motif_id: summoning_talisman_as_dangerous_boundary_object
+  label: summoning talisman as dangerous boundary object
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A talisman that mediates summoning across a boundary is a power object
+    with dangerous sacred agency.
+  cautions: If the talisman contains or releases a spirit, sacred_vessel may be secondary;
+    if it proves identity, use recognition_tokens instead.
+  suggested_aliases:
+  - summoning_talisman
+  - dangerous_talisman_boundary_object
+  - talisman_mediating_spirit_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-construction-of-a-palace
+  motif_id: supernatural_construction_of_a_palace
+  label: Supernatural construction of a palace
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: child
+  confidence: high
+  rationale: The existing sacred_craft group explicitly covers building or construction
+    aided by supernatural powers.
+  cautions: If the palace functions mainly as a royal legitimacy sign or otherworld
+    realm, add secondary review mapping.
+  suggested_aliases:
+  - supernaturally_built_palace
+  - magical_palace_construction
+  - divinely_aided_palace_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-food-giving-vessel
+  motif_id: supernatural_food_giving_vessel
+  label: Supernatural food-giving vessel
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A vessel that gives food fits the sacred container pattern and overlaps
+    with inexhaustible provision.
+  cautions: If the narrative emphasizes divine provision more than the container itself,
+    divine_intervention may be a useful secondary group.
+  suggested_aliases:
+  - food_giving_vessel
+  - inexhaustible_food_vessel
+  - supernatural_abundance_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several objects-spaces-boundaries labels are single-occurrence place or scene details;
+  human review should distinguish sacred landscape memory from generic landmarking.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally sensitive place-marker
+    items left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1243
+  input_sha256: f40a5a0ce6685693244e0143d044cc69702a16330fd3cc5a66a981ac05383f0e
+

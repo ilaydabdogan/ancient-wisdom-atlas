@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0252
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.battle-as-divine-proof-and-rewarded-service
+  motif_id: battle_as_divine_proof_and_rewarded_service
+  label: Battle as divine proof and rewarded service
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Battle functions as a sacred test and proof of service, fitting the divine-warrior/sacred-combat
+    complex.
+  cautions: Could alternatively index under divine_judgment if the passage emphasizes
+    moral testing more than combat service.
+  suggested_aliases:
+  - battle_as_divine_trial
+  - battle_as_sacred_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-between-gods-and-giants
+  motif_id: battle_between_gods_and_giants
+  label: Battle between gods and giants
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: child
+  confidence: high
+  rationale: A combat between gods and giant adversaries is a clear divine combat
+    pattern involving cosmic or sacred order.
+  cautions: If the episode is merely genealogical or catalogic, preserve as evidence
+    detail rather than creating a new child motif.
+  suggested_aliases:
+  - gigantomachy
+  - war_of_gods_and_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-framed-as-divine-war
+  motif_id: battle_framed_as_divine_war
+  label: battle framed as divine war
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: The label directly describes warfare interpreted as divine or sacred
+    combat.
+  cautions: Do not infer cosmic chaos-combat unless a chaos monster or order-establishing
+    function is explicit.
+  suggested_aliases:
+  - divine_war
+  - sacred_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-imagined-as-divine-or-warrior-dance
+  motif_id: battle_imagined_as_divine_or_warrior_dance
+  label: battle imagined as divine or warrior dance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif sacralizes battle through divine or warrior dance imagery within
+    sacred combat.
+  cautions: If the passage centers on dance as ritual performance or theophany rather
+    than combat, theophany may be a secondary review target.
+  suggested_aliases:
+  - battle_as_divine_dance
+  - warrior_dance_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-of-gods-aligned-with-a-human-war
+  motif_id: battle_of_gods_aligned_with_a_human_war
+  label: battle of gods aligned with a human war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gods acting in parallel with a human war emphasizes divine intervention
+    in human affairs.
+  cautions: Could also fit divine_warrior if the divine battle itself is primary rather
+    than its alignment with human conflict.
+  suggested_aliases:
+  - divine_battle_parallel_to_human_war
+  - gods_intervene_in_human_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-prayer-before-entering-overwhelming-combat
+  motif_id: battle_prayer_before_entering_overwhelming_combat
+  label: Battle prayer before entering overwhelming combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer before combat is a ritual appeal that seeks reciprocal divine
+    aid or protection.
+  cautions: If the passage emphasizes heroic ordeal more than prayer, sacred_combat
+    or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - pre_battle_prayer
+  - prayer_for_battle_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-reversal-as-divine-trial-for-disobedience-and-desire-for-spoils
+  motif_id: battle_reversal_as_divine_trial_for_disobedience_and_desire_for_spoils
+  label: Battle reversal as divine trial for disobedience and desire for spoils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A battle reversal caused by disobedience and greed is a moral reckoning
+    by sacred authority.
+  cautions: The label is context-heavy; preserve the spoils/disobedience detail without
+    making it a broad canonical motif.
+  suggested_aliases:
+  - battle_reversal_as_divine_trial
+  - defeat_as_punishment_for_disobedience
+  - spoils_greed_punished_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-sign-and-divine-aid
+  motif_id: battle_sign_and_divine_aid
+  label: Battle sign and divine aid
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A sign and aid in battle are direct sacred action guiding or protecting
+    humans.
+  cautions: If the sign is specifically omen-based, prophecy_divination or dream_and_vision
+    may be useful secondary mappings.
+  suggested_aliases:
+  - divine_aid_in_battle
+  - battle_omen_and_aid
+  - sacred_battle_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-victory-through-divine-protection-and-ritual-purification
+  motif_id: battle_victory_through_divine_protection_and_ritual_purification
+  label: Battle victory through divine protection and ritual purification
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Victory is attributed to divine protection, with purification supporting
+    the sacred aid pattern.
+  cautions: Because the label combines protection, purification, and victory, human
+    review should decide whether sacred_law or sacrifice should be secondary.
+  suggested_aliases:
+  - divine_protection_in_battle
+  - ritual_purification_before_victory
+  - battle_victory_by_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-ambiguity-between-mortal-and-god
+  motif_id: battlefield_ambiguity_between_mortal_and_god
+  label: Battlefield ambiguity between mortal and god
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate theophany, disguise, heroic apotheosis, or narrative
+    confusion between divine and mortal fighters.
+  cautions: Needs passage evidence; avoid mapping to shapeshifter, theophany, or divine_warrior
+    based on ambiguity alone.
+  suggested_aliases:
+  - mortal_god_ambiguity_in_battle
+  - god_mortal_confusion_on_battlefield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch concern sacred combat, divine intervention in war, or divine
+  judgment through battle outcomes; secondary mappings may be useful where ritual
+  prayer, purification, or omen signs are explicit.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for battle/divine-war labels; several
+    are single-occurrence and should retain source-specific details as evidence notes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0252
+  input_sha256: 3dad2ad080919f69e3b40578cfad4939a00bcf0e202e10bf9158363d7de28e98
+

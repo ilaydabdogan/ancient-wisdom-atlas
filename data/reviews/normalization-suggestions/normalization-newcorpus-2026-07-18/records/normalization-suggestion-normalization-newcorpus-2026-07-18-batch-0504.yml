@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0504
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-wounded-by-his-own-sword-in-water
+  motif_id: hero_wounded_by_his_own_sword_in_water
+  label: hero wounded by his own sword in water
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: uncertain
+  confidence: low
+  rationale: A wound caused by the hero's own sword may indicate a special vulnerability
+    or unusual defeat condition, but the water setting could also be incidental.
+  cautions: Single occurrence and ambiguous function; verify whether the sword, water,
+    self-wounding, or fate is the motif-bearing element.
+  suggested_aliases:
+  - self_wounding_by_own_weapon
+  - hero_wounded_by_own_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-battle-aristeia-with-sequential-named-victims
+  motif_id: heroic_battle_aristeia_with_sequential_named_victims
+  label: Heroic battle aristeia with sequential named victims
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a heroic combat display by a champion, fitting the
+    warrior-combat complex already grouped under divine_warrior.
+  cautions: Sequential named victims may be an epic style or passage artifact rather
+    than a reusable motif; preserve as evidence detail.
+  suggested_aliases:
+  - heroic_aristeia
+  - battle_aristeia
+  - champion_battle_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-battle-slaughter-by-a-named-champion
+  motif_id: heroic_battle_slaughter_by_a_named_champion
+  label: heroic battle slaughter by a named champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A named champion's battlefield slaughter belongs with heroic or sacred
+    combat and warrior prowess.
+  cautions: May be too generic or episode-specific for motif queries unless the combat
+    has ritual, cosmic, or honor-function significance.
+  suggested_aliases:
+  - champion_battle_slaughter
+  - heroic_champion_slaughter
+  - named_champion_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-battlefield-supremacy-with-a-named-sword
+  motif_id: heroic_battlefield_supremacy_with_a_named_sword
+  label: heroic battlefield supremacy with a named sword
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The named sword functions as a power object conferring or displaying
+    martial supremacy.
+  cautions: If the emphasis is the warrior's prowess rather than the sword's special
+    status, divine_warrior may be a better primary group.
+  suggested_aliases:
+  - named_sword_confers_battle_supremacy
+  - heroic_named_sword
+  - powerful_named_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-counsel-and-mediation
+  motif_id: heroic_counsel_and_mediation
+  label: Heroic counsel and mediation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: low
+  rationale: Heroic counsel can express practical or transformative wisdom in a social
+    conflict setting.
+  cautions: Could instead be a political mediation scene, royal counsel, or ordinary
+    narrative action; source context is needed before indexing broadly.
+  suggested_aliases:
+  - wise_heroic_counsel
+  - hero_as_mediator
+  - counsel_mediation_by_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-feast-service-by-sword-skill
+  motif_id: heroic_feast_service_by_sword_skill
+  label: heroic feast service by sword skill
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: The label links martial skill with feast service, but its function may
+    be hospitality, heroic display, or a passage-specific episode.
+  cautions: Do not map to sacred_combat unless the sword skill is combat-relevant;
+    hospitality_test_stranger_guest or sacred_exchange could be relevant if feast
+    obligation is central.
+  suggested_aliases:
+  - sword_skill_at_feast
+  - heroic_service_at_feast
+  - martial_skill_display_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-flight-with-a-named-horse
+  motif_id: heroic_flight_with_a_named_horse
+  label: Heroic flight with a named horse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Flight or escape on a named horse fits a journey episode involving movement
+    through danger or crisis.
+  cautions: If the horse is supernatural or the main focus, a future animal-helper
+    or heroic-mount grouping may be more precise; currently only magical_animal_mount
+    exists under shapeshifter.
+  suggested_aliases:
+  - heroic_escape_on_named_horse
+  - flight_on_named_horse
+  - named_horse_aids_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-name-derived-from-smith-association
+  motif_id: heroic_name_derived_from_smith_association
+  label: heroic name derived from smith association
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A hero's name tied to smithcraft points to the symbolic prestige of craft,
+    forging, or artisan association.
+  cautions: Could be merely etymological or onomastic rather than a motif; exclude
+    if the passage only explains a name without narrative function.
+  suggested_aliases:
+  - smith_association_name_etiology
+  - hero_name_from_smithcraft
+  - smithcraft_hero_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-or-mythic-named-horse
+  motif_id: heroic_or_mythic_named_horse
+  label: Heroic or mythic named horse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A mythic named horse may function as an animal helper, divine mount,
+    status marker, or simple named detail.
+  cautions: Existing groups do not cleanly cover heroic mounts unless the animal provides
+    guidance, intervention, transformation, or journey function; avoid indexing name-only
+    details.
+  suggested_aliases:
+  - mythic_named_horse
+  - heroic_named_horse
+  - named_mythic_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-place-name-etiology-at-a-ford
+  motif_id: heroic_place_name_etiology_at_a_ford
+  label: Heroic place-name etiology at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The normalization group already includes place-name and landscape etiology
+    variants, including heroic events and deaths at fords.
+  cautions: If the passage is only a local annotation or gloss, treat as contextual
+    evidence rather than a broad symbolic motif.
+  suggested_aliases:
+  - place_name_etiology_at_ford
+  - ford_place_name_etiology
+  - heroic_toponymic_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were bucketed under wisdom/speech but appear primarily martial, journey,
+  onomastic, or etiological; review bucket assignment may need correction.
+- Single-occurrence heroic-epic details should be checked for passage artifacts before
+  becoming durable motif children.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; many labels are single-occurrence and require
+    source context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0504
+  input_sha256: '038c5e109d84358fdb5fd7df2668ce04da430f2ce737deea113e04326a53d2dc'
+

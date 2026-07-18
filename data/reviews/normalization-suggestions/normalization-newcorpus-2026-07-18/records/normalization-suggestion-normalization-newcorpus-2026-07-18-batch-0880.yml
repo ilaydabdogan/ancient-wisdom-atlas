@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0880
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.woman-warrior-in-male-disguise
+  motif_id: woman_warrior_in_male_disguise
+  label: woman warrior in male disguise
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: medium
+  rationale: The core pattern is a changed social/gender presentation used to cross
+    role boundaries, fitting transformation/disguise more than animal motifs.
+  cautions: Could also belong with sacred_combat or hero_journey if the passage emphasizes
+    warrior ordeal rather than disguise.
+  suggested_aliases:
+  - female warrior in male disguise
+  - cross-dressed warrior woman
+  - gender disguise in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wondrous-animal-with-magical-fertility-and-protection
+  motif_id: wondrous_animal_with_magical_fertility_and_protection
+  label: Wondrous animal with magical fertility and protection
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical animal that grants fertility and protection functions as supernatural
+    aid or provision.
+  cautions: If the animal is primarily an abundance source, sacred_substance or sacred_exchange
+    may be secondary; if it is a mount or transformed being, shapeshifter may fit
+    better.
+  suggested_aliases:
+  - protective fertility animal
+  - magical animal of fertility
+  - wondrous protective animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-bearing-animal-warders
+  motif_id: world_bearing_animal_warders
+  label: world-bearing animal warders
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: World-bearing animals support or guard cosmic structure, aligning with
+    world-axis and cosmic-center imagery.
+  cautions: May warrant a future cosmic-animal support subgroup if many examples recur;
+    avoid treating all sacred animals as axis motifs.
+  suggested_aliases:
+  - world-supporting animals
+  - cosmic animal warders
+  - animals bearing the world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-turned-upside-down-through-animals-and-objects-doing-impossible-tasks
+  motif_id: world_turned_upside_down_through_animals_and_objects_doing_impossible_tasks
+  label: world turned upside down through animals and objects doing impossible tasks
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Impossible reversals by animals and objects suggest comic inversion and
+    disorder, near trickster/boundary-breaking logic.
+  cautions: Highly specific and may be a proverbial or literary world-upside-down
+    topos rather than a mythic motif; human review should verify passage function.
+  suggested_aliases:
+  - world upside down
+  - impossible animal tasks
+  - cosmic inversion by impossible acts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-animal-leads-pursuers-to-hidden-dwelling
+  motif_id: wounded_animal_leads_pursuers_to_hidden_dwelling
+  label: wounded animal leads pursuers to hidden dwelling
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be animal guide, pursuit clue, hunting episode, or threshold
+    to a hidden place depending on narrative context.
+  cautions: Single occurrence and too contextual to map confidently; may fit otherworld,
+    threshold_guardian, hero_journey, or a future animal-guide group.
+  suggested_aliases:
+  - wounded animal guide
+  - animal trail reveals hidden dwelling
+  - pursuit follows wounded animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-animal-messenger-reports-enemy-devastation
+  motif_id: wounded_animal_messenger_reports_enemy_devastation
+  label: Wounded animal messenger reports enemy devastation
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: An animal messenger reporting events can function as supernatural or
+    nonhuman guidance in human affairs.
+  cautions: If the animal is ordinary narrative courier rather than sacred helper,
+    this may be an over-specific episode detail; combat context may point to sacred_combat.
+  suggested_aliases:
+  - animal messenger reports devastation
+  - wounded animal courier
+  - nonhuman messenger from battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-hero-and-wounded-horse
+  motif_id: wounded_hero_and_wounded_horse
+  label: Wounded hero and wounded horse
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The paired wounds of hero and horse are best preserved under heroic martial
+    injury and proof of combat.
+  cautions: Likely episode-specific; do not promote unless recurring as a distinct
+    heroic horse-companion motif.
+  suggested_aliases:
+  - wounded warrior and horse
+  - heroic wounds shared with horse
+  - wounded combat mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-animal-companion-avenged-by-the-hero
+  motif_id: wronged_animal_companion_avenged_by_the_hero
+  label: wronged animal companion avenged by the hero
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on vengeance for a companion through heroic violence,
+    fitting sacred/heroic combat patterns.
+  cautions: If the animal companion has guiding or tutelary status, divine_intervention
+    may be a secondary relation; if the focus is loyal animal companionship, a future
+    animal-helper group may be useful.
+  suggested_aliases:
+  - animal companion avenged
+  - avenging a wronged animal helper
+  - hero avenges loyal animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-drives-away-dangerous-animal
+  motif_id: youth_drives_away_dangerous_animal
+  label: youth drives away dangerous animal
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A youth overcoming a dangerous animal may serve as an early sign of extraordinary
+    capacity.
+  cautions: Could instead be a generic ordeal, hunting episode, or community-protection
+    act; verify whether the youth's sacred destiny is emphasized.
+  suggested_aliases:
+  - youth repels dangerous animal
+  - child drives off beast
+  - heroic youth defeats animal threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-from-dust
+  motif_id: creation_from_dust
+  label: Creation from dust
+  occurrences: 2
+  traditions:
+  - islamic
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Creation from dust is a specific material-creation variant within cosmic
+    or human origins.
+  cautions: If the passage concerns human creation only rather than the whole cosmos,
+    preserve that narrower anthropogonic meaning in notes.
+  suggested_aliases:
+  - creation from earth
+  - human creation from dust
+  - formed from dust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-centered labels have only one occurrence and may be over-specific
+  episode details rather than durable motif groups.
+- Current normalization has no dedicated broad animal-helper or animal-companion group;
+  repeated future labels may justify a candidate group, but this batch can mostly
+  be placed provisionally under existing functional groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for low-confidence
+    animal-guide and world-upside-down items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0880
+  input_sha256: 12a53651c899be52994ff692b17e9aac1c88dcc201b354d76602282793d1b866
+

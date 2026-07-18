@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1296
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.binding-boon-or-promise-redirects-royal-destiny
+  motif_id: binding_boon_or_promise_redirects_royal_destiny
+  label: binding boon or promise redirects royal destiny
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A binding boon or promise changes succession or royal destiny, fitting
+    sacred kingship and legitimate rule through vows or obligations.
+  cautions: Could also map to covenant or curse_blessing_speech if the binding speech
+    act is more important than kingship.
+  suggested_aliases:
+  - boon_redirects_royal_destiny
+  - binding_promise_redirects_succession
+  - royal_destiny_bound_by_boon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.binding-pledge-and-surety-obligation
+  motif_id: binding_pledge_and_surety_obligation
+  label: Binding pledge and surety obligation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pledge or surety obligation is a binding speech/legal act that creates
+    enforceable obligation.
+  cautions: If framed as social contract rather than performative speech, covenant
+    or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - binding_pledge
+  - surety_obligation
+  - oath_bound_surety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.black-cat-bound-with-a-golden-noose-after-a-supernatural-command
+  motif_id: black_cat_bound_with_a_golden_noose_after_a_supernatural_command
+  label: Black cat bound with a golden noose after a supernatural command
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal, binding object, and supernatural command,
+    but the narrative function is unclear from the wording alone.
+  cautions: May be an over-specific episode detail; could involve animal magic, spirit
+    capture, sacred_treasures, or divine_intervention depending on source evidence.
+  suggested_aliases:
+  - supernaturally_commanded_binding_of_an_animal
+  - golden_noose_binding
+  - black_cat_bound_by_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-preservation-of-the-tale-without-alteration
+  motif_id: blessed_preservation_of_the_tale_without_alteration
+  label: Blessed preservation of the tale without alteration
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The tale itself is protected or blessed, aligning with narrative transmission
+    as sacred power.
+  cautions: If this is a scribal/editorial claim about textual preservation rather
+    than a narrative motif, exclude under _meta_textual.
+  suggested_aliases:
+  - blessed_tale_preservation
+  - sacred_preservation_of_story
+  - unaltered_tale_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blind-bard-as-accomplished-singer
+  motif_id: blind_bard_as_accomplished_singer
+  label: blind bard as accomplished singer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A blind bard may signal inspired poetic authority, but the label may
+    also be only a character description.
+  cautions: Map to enchanting_music or storytelling_as_power only if song or poetic
+    speech has supernatural, sacred, or narrative-transforming force; otherwise exclude
+    as person-role detail.
+  suggested_aliases:
+  - blind_inspired_singer
+  - blind_poet_singer
+  - bardic_blindness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blinding-rather-than-killing-the-formidable-adversary
+  motif_id: blinding_rather_than_killing_the_formidable_adversary
+  label: Blinding rather than killing the formidable adversary
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns a combat outcome where disabling replaces killing,
+    fitting heroic or sacred conflict patterns.
+  cautions: Could be too episode-specific; if the adversary is invulnerable except
+    by blinding, conditional_invulnerability_hidden_weakness may be more precise.
+  suggested_aliases:
+  - adversary_blinded_not_killed
+  - nonlethal_blinding_of_enemy
+  - formidable_enemy_disabled_by_blinding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blindness-and-restored-sight-within-the-flock
+  motif_id: blindness_and_restored_sight_within_the_flock
+  label: Blindness and restored sight within the flock
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Restored sight may indicate healing, revelation, or allegory, but the
+    flock context makes the function unclear.
+  cautions: Could fit divine_intervention if miraculous healing is central, dream_and_vision
+    if perception is symbolic, or be a passage-specific allegorical detail.
+  suggested_aliases:
+  - restored_sight_in_the_flock
+  - blindness_and_healing_of_sight
+  - flock_blindness_restored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-activated-clay-image
+  motif_id: blood_activated_clay_image
+  label: blood-activated clay image
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A clay image animated or activated by blood fits artificial life or animated
+    crafted image motifs already under sacred_craft.
+  cautions: If the blood is primarily sacrificial medium, secondary mapping to sacrifice
+    or sacred_substance may be useful.
+  suggested_aliases:
+  - blood_animated_clay_image
+  - clay_image_activated_by_blood
+  - blood_gives_life_to_crafted_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-born-destroyers-tied-to-lethal-landscape-places
+  motif_id: blood_born_destroyers_tied_to_lethal_landscape_places
+  label: blood-born destroyers tied to lethal landscape places
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines origin from blood, dangerous beings, and place-based
+    lethal landscape without enough function to place safely.
+  cautions: Culturally sensitive and possibly highly local; may involve etiological
+    landscape, dangerous beings, sacred substance, or divine judgment. Review source
+    evidence before broad indexing.
+  suggested_aliases:
+  - blood_born_destroyers
+  - lethal_landscape_beings_from_blood
+  - blood_origin_dangerous_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-colored-dew-or-drops-as-ominous-natural-image
+  motif_id: blood_colored_dew_or_drops_as_ominous_natural_image
+  label: Blood-colored dew or drops as ominous natural image
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An ominous natural sign functions as a portent or visionary warning,
+    fitting dream/vision and omen imagery.
+  cautions: If interpreted through formal omen practice, prophecy_divination may be
+    better; if simply atmospheric description, it may be an over-specific evidence
+    detail.
+  suggested_aliases:
+  - blood_colored_dew_omen
+  - bloody_drops_as_portent
+  - ominous_blood_like_dew
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several single-occurrence labels are highly contextual and should be checked against
+  passage evidence before indexing broadly.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1296
+  input_sha256: 0f9283ce17e21bcd07941dcd00d7bf534683d01c5d56a87a11685b2d53394599
+

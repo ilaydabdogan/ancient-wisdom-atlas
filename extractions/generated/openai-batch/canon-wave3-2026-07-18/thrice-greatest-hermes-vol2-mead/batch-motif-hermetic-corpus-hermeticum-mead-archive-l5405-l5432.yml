@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l5405-l5432
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THOUGH UNMANIFEST GOD IS MOST MANIFEST 101 / THOUGH UNMANIFEST GOD IS MOST
+    MANIFEST 103 / THOUGH UNMANIFEST GOD IS MOST MANIFEST 105 / COMMENTAEY; lines
+    5405-5432
+  start: '5405'
+  end: '5432'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Commentary on the tractate’s title and translation: the commentator says
+    the sermon likely came from a collection addressed to Tat, had no original title
+    proper, and that a later Byzantine editor supplied the subject heading. A later
+    section notes the difficulty of translating Greek word-play around “manifest,”
+    which previous translators had missed.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator states that the redactor of the Corpus likely took the sermon
+    from a collection called “Those to Tat.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says at least one sermon must have preceded this one, but the
+    commentator says it is impossible to identify which sermon it was.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sermon is described as having no proper title; its subject heading is
+    said to have been derived from the treatise and added by a later Byzantine editor.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentator says the opening paragraphs are difficult to render into English
+    while preserving subtle Greek shades of meaning.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentator says previous translators missed the Greek word-play and that
+    he used the term “manifest” to approximate it.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: redactor of the Corpus
+  description: An unnamed redactor who is said to have taken the sermon from a collection
+    addressed to Tat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tat
+  description: Named in the collection title “Those to Tat,” indicating the sermon’s
+    addressed or associated recipient.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: later Byzantine editor
+  description: An unnamed later editor said to have superscribed the subject heading
+    in place of a proper title.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: previous translators
+  description: Earlier translators who are said to have missed the Greek word-play.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: commentator-translator
+  description: The first-person commentator who attempts to preserve the Greek word-play
+    in English by using the term “manifest.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: compiler or redactor
+  assigned_to:
+  - fig:1
+  basis: The passage says the redactor took the sermon from a collection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named addressee or associated recipient
+  assigned_to:
+  - fig:2
+  basis: Tat appears in the collection title “Those to Tat.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: editorial title-superscriber
+  assigned_to:
+  - fig:3
+  basis: The passage attributes the subject heading to a later Byzantine editor.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: earlier translators
+  assigned_to:
+  - fig:4
+  basis: The passage says all previous translators missed the word-play.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: commentator and translator
+  assigned_to:
+  - fig:5
+  basis: The speaker describes his own attempt to render the Greek word-play in English.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial provenance of the sermon title
+  summary: The commentary explains that the sermon likely came from a collection addressed
+    to Tat, that a preceding sermon must once have existed, and that the sermon’s
+    current subject heading was later supplied by a Byzantine editor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Translation of manifest word-play
+  summary: The commentary describes the difficulty of translating the Greek opening
+    and the translator’s attempt to preserve its word-play through the English term
+    “manifest.”
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: unmanifest and manifest divine paradox
+  taxonomy_refs:
+  - duality
+  basis: The passage locator gives the tractate heading as “Though Unmanifest God
+    Is Most Manifest,” and the commentary discusses Greek word-play rendered with
+    the term “manifest.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is commentary on title and translation rather than the doctrinal
+    passage itself; the duality motif is inferred only from the heading and discussion
+    of terminology.
+- id: motif:2
+  label: wisdom discourse addressed to Tat
+  taxonomy_refs:
+  - wisdom
+  basis: The commentary says the sermon came from a collection called “Those to Tat,”
+    suggesting a didactic discourse associated with a named recipient.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage does not include the teaching content; it only discusses editorial
+    provenance and collection title.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5405-5415
+  quote_or_summary: The redactor is said to have taken the sermon from a collection
+    of “Those to Tat”; the commentator adds that one earlier sermon must have preceded
+    it, but its identity is impossible to determine.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5417-5422
+  quote_or_summary: The sermon is described as having no title proper; the subject
+    heading is said to derive from the treatise and to have been superscribed by a
+    later Byzantine editor.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5424-5432
+  quote_or_summary: The commentator says the opening paragraphs are difficult to translate
+    because of subtle Greek meanings; previous translators missed the word-play, and
+    he uses the term “manifest” to approximate it.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a translator’s commentary rather than a mythic narrative.
+    Literal editorial and translation observations are clear, but motif extraction
+    is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage contains no supported literal symbols from the supplied symbol list. No comparison claims were added because the passage itself does not support a cross-tradition comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l5405-l5432
+  passage_sha256=adc42bb90bc24ffb1ba64ee7dc5b1acecc78b3448c1f2aac7050e8156552833b
+

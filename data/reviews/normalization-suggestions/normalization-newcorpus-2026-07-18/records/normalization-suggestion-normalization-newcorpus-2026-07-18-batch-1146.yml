@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1146
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-reward-for-delivery-of-magical-fish
+  motif_id: royal_reward_for_delivery_of_magical_fish
+  label: royal reward for delivery of magical fish
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Combines royal reward, delivery task, and magical fish; function depends
+    on passage context.
+  cautions: May be a folktale episode detail rather than a reusable motif; could involve
+    sacred_substance, sacred_treasures, sacred_exchange, or royal_legitimacy depending
+    on evidence.
+  suggested_aliases:
+  - reward_for_magical_delivery
+  - royal_reward_for_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-reward-for-loyal-service
+  motif_id: royal_reward_for_loyal_service
+  label: royal reward for loyal service
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal reward for service reinforces legitimate rule, hierarchy, and
+    the ruler's authority to recognize loyalty.
+  cautions: If the scene is only administrative or courtly narrative detail without
+    sacred or legitimacy function, consider excluding or mapping to evidence notes
+    only.
+  suggested_aliases:
+  - royal_reward_for_service
+  - reward_for_loyal_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royally-sanctioned-union-after-victory
+  motif_id: royally_sanctioned_union_after_victory
+  label: Royally sanctioned union after victory
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A union granted after victory fits marriage-choice or bride-winning patterns
+    already grouped under sacred_love.
+  cautions: If royal sanction is the central point, royal_legitimacy may be a secondary
+    mapping; if victory is central, sacred_combat may be secondary.
+  suggested_aliases:
+  - union_after_victory
+  - marriage_reward_after_victory
+  - royal_sanctioned_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruins-or-remaining-signs-as-warning-memorials
+  motif_id: ruins_or_remaining_signs_as_warning_memorials
+  label: ruins or remaining signs as warning memorials
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Ruins or remaining signs functioning as warnings commonly preserve evidence
+    of punishment and moral reckoning.
+  cautions: Confirm the signs are moral or divine warnings, not merely historical
+    remnants, place description, or editorial commentary.
+  suggested_aliases:
+  - warning_ruins
+  - signs_as_warning_memorials
+  - ruins_as_moral_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rules-of-war-invoked-by-disabled-combatants
+  motif_id: rules_of_war_invoked_by_disabled_combatants
+  label: Rules of war invoked by disabled combatants
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Invocation of war rules centers on normative sacred or ethical law governing
+    violence.
+  cautions: Could also relate to sacred_combat if the combat setting is more important
+    than the legal-ethical appeal; source context should decide.
+  suggested_aliases:
+  - war_rules_invoked
+  - combat_ethics_invoked
+  - disabled_combatant_claims_war_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralized-landscape-through-epic-recitation-and-heroic-stay
+  motif_id: sacralized_landscape_through_epic_recitation_and_heroic_stay
+  label: sacralized landscape through epic recitation and heroic stay
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Epic recitation sacralizing a place foregrounds narrative performance
+    as a source of sacred power.
+  cautions: If the landscape itself is the core motif, sacred_geography_pilgrimage
+    under axis_mundi may be secondary; label is composite and may be passage-specific.
+  suggested_aliases:
+  - epic_recitation_sacralizes_landscape
+  - sacralized_landscape_by_story
+  - heroic_stay_sacralizes_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safeguard-violated-then-adjudicated-by-witness-testimony
+  motif_id: safeguard_violated_then_adjudicated_by_witness_testimony
+  label: safeguard violated then adjudicated by witness testimony
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Violation followed by adjudication through testimony is primarily a legal-order
+    and social-judgment motif.
+  cautions: If the safeguard is a taboo, geis, or oath, curse_blessing_speech or covenant
+    may be relevant secondary groups.
+  suggested_aliases:
+  - violated_safeguard_adjudicated
+  - witness_testimony_adjudicates_violation
+  - legal_testimony_after_taboo_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-report-of-an-approaching-war-band
+  motif_id: scout_report_of_an_approaching_war_band
+  label: scout report of an approaching war-band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A scout report of an approaching war band reads as tactical plot detail
+    rather than a stable symbolic motif.
+  cautions: If recurring as prophetic warning, ritualized war omen, or formal heroic
+    challenge sequence, reconsider under prophecy_divination or sacred_combat.
+  suggested_aliases:
+  - scout_report_before_battle
+  - approaching_war_band_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-warning-before-enemy-attack
+  motif_id: scout_warning_before_enemy_attack
+  label: scout warning before enemy attack
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A scout warning before attack is likely a narrative logistics detail
+    rather than a cross-traditional motif.
+  cautions: If the warning comes through supernatural guidance, animal helpers, or
+    omen logic, divine_intervention or prophecy_divination may be appropriate.
+  suggested_aliases:
+  - warning_before_enemy_attack
+  - scout_warning_of_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scouts-and-warning-before-enemy-attack
+  motif_id: scouts_and_warning_before_enemy_attack
+  label: scouts and warning before enemy attack
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to duplicate scout-warning tactical detail and is too generic
+    for motif queries.
+  cautions: Could be merged as an alias with scout_warning_before_enemy_attack if
+    retained as evidence; review for supernatural or ritual warning elements before
+    exclusion.
+  suggested_aliases:
+  - scout_warning_before_enemy_attack
+  - warning_before_enemy_attack
+  - scouts_warn_of_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence tactical or courtly episode details;
+  exclude or preserve as evidence unless source context shows sacred, legal, ritual,
+  or supernatural function.
+- The scout-warning labels appear near-duplicates and should be reviewed together
+  for possible consolidation outside motif queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1146
+  input_sha256: 8748bbd74b6af1d438a49be0e80fea2ee027379075da641288c4586276cacd04
+

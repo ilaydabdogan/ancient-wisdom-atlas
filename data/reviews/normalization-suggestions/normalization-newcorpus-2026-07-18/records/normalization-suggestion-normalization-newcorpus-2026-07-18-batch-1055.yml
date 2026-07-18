@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1055
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fate-doomed-heroic-last-stand
+  motif_id: fate_doomed_heroic_last_stand
+  label: fate-doomed heroic last stand
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on heroic combat undertaken under doom or fate, matching
+    the death_by_fate complex.
+  cautions: May also relate to sacred_combat or divine_warrior if the passage emphasizes
+    battle ritual rather than destiny.
+  suggested_aliases:
+  - doomed last stand
+  - fated heroic last stand
+  - foreknown doom in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-governed-mortal-combat
+  motif_id: fate_governed_mortal_combat
+  label: Fate-governed mortal combat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: high
+  rationale: Combat governed by fate fits the established group for death and battle
+    constrained by destiny.
+  cautions: If no death or foreknown doom is present, sacred_combat may be a better
+    secondary placement.
+  suggested_aliases:
+  - fated combat
+  - destiny-governed battle
+  - combat governed by fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-saves-the-undoomed-brave-hero
+  motif_id: fate_saves_the_undoomed_brave_hero
+  label: fate saves the undoomed brave hero
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif expresses survival because fate has not assigned death, the
+    inverse of fated death in battle.
+  cautions: Preserve the inverse survival logic; do not collapse into victory motifs
+    without the fate condition.
+  suggested_aliases:
+  - fate protects the undoomed hero
+  - undoomed hero survives battle
+  - not fated to die
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-fall-of-the-warrior
+  motif_id: fated_fall_of_the_warrior
+  label: fated fall of the warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: alias
+  confidence: high
+  rationale: A warrior's fall determined by fate is a direct instance of death attributed
+    to destiny.
+  cautions: Could also index to lament_and_mourning if the passage focuses on tragic
+    recognition after the fall.
+  suggested_aliases:
+  - fated warrior death
+  - destined fall of the warrior
+  - warrior doomed by fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-warrior-knowingly-chooses-battle
+  motif_id: fated_warrior_knowingly_chooses_battle
+  label: Fated warrior knowingly chooses battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: high
+  rationale: A warrior entering battle despite known fate matches foreknown doom accepted
+    under destiny.
+  cautions: If the emphasis is ethical duty or self-offering, sacred_combat or sacrifice
+    may be useful secondary mappings.
+  suggested_aliases:
+  - foreknown doom accepted in battle
+  - warrior chooses fated battle
+  - chosen battle despite doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-prowess-of-the-peerless-mounted-hero
+  motif_id: feared_prowess_of_the_peerless_mounted_hero
+  label: feared prowess of the peerless mounted hero
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a heroic epithet or combat characterization rather
+    than a clear recurring motif.
+  cautions: May fit divine_warrior, sacred_combat, or magical_animal_mount if the
+    horse/mount has mythic function; otherwise may be too descriptive.
+  suggested_aliases:
+  - peerless mounted hero
+  - feared mounted champion
+  - heroic mounted prowess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-servant-expelled-by-a-test-of-strength-or-weight
+  motif_id: feared_servant_expelled_by_a_test_of_strength_or_weight
+  label: Feared servant expelled by a test of strength or weight
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a specific expulsion-by-test episode with unclear function in
+    the current groups.
+  cautions: Could be initiation, threshold testing, trickster reversal, social expulsion,
+    or an episode-specific artifact; source context is needed.
+  suggested_aliases:
+  - servant expelled by strength test
+  - test of weight expels feared servant
+  - feared retainer removed by ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-adversary-seeks-magical-coercion-of-the-hero
+  motif_id: fearful_adversary_seeks_magical_coercion_of_the_hero
+  label: fearful adversary seeks magical coercion of the hero
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical coercion used by an adversary functions as a supernatural stratagem
+    within heroic conflict.
+  cautions: If coercive speech, spell, or oath is central, curse_blessing_speech may
+    be a better or secondary group; if deception dominates, consider trickster.
+  suggested_aliases:
+  - magical coercion of the hero
+  - enemy uses magic against hero
+  - supernatural coercion in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearless-warrior-watches-a-vast-enemy-host
+  motif_id: fearless_warrior_watches_a_vast_enemy_host
+  label: Fearless warrior watches a vast enemy host
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears to describe a scene of heroic courage rather than a
+    distinct mythic pattern.
+  cautions: Could support sacred_combat or divine_warrior if the watching marks a
+    formal challenge, omen, or ordeal; otherwise preserve as evidence detail.
+  suggested_aliases:
+  - fearless warrior before enemy host
+  - hero surveys overwhelming army
+  - courage before vast host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearless-youth-whose-danger-provokes-kin-rescue-and-victory
+  motif_id: fearless_youth_whose_danger_provokes_kin_rescue_and_victory
+  label: fearless youth whose danger provokes kin-rescue and victory
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines youth, peril, kin rescue, and victory, making the
+    dominant motif unclear.
+  cautions: May relate to miraculous_child, heroic_childhood_signs under initiation,
+    sibling/kin rescue, or sacred_combat; review passage evidence before mapping.
+  suggested_aliases:
+  - fearless youth in peril
+  - kin rescue of endangered youth
+  - youth danger provoking victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Fate-centered combat labels mostly fit the existing death_by_fate group, often with
+  sacred_combat as a possible secondary context.
+- Several single-occurrence heroic characterization labels should remain under human
+  review unless source evidence shows a repeatable narrative function beyond description.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; fate motifs are clearer than heroic
+    epithet or composite rescue labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1055
+  input_sha256: 9d20fe67d79f086c9fc5e054052be77d993f8edee591d61bc5e70eaa830848d3
+

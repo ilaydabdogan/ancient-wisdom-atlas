@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0055
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dying-parental-injunction-governs-sibling-marriages
+  motif_id: dying_parental_injunction_governs_sibling_marriages
+  label: Dying parental injunction governs sibling marriages
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: A deathbed injunction may function as binding performative speech governing
+    kinship conduct.
+  cautions: Single occurrence and highly contextual; could be family-law narrative
+    detail rather than a durable motif.
+  suggested_aliases:
+  - deathbed injunction
+  - dying parent's command
+  - parental deathbed command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-prophecy-of-the-warrior-band-s-decline
+  motif_id: dying_prophecy_of_the_warrior_band_s_decline
+  label: dying prophecy of the warrior band's decline
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is a deathbed prophecy foretelling collective decline.
+  cautions: If the passage emphasizes warrior-band doom more than prophetic speech,
+    sacred_combat or death_by_fate may be secondary.
+  suggested_aliases:
+  - deathbed prophecy
+  - dying prophecy
+  - prophecy of warrior decline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-ruler-comforted-by-completed-vengeance
+  motif_id: dying_ruler_comforted_by_completed_vengeance
+  label: dying ruler comforted by completed vengeance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Completed vengeance around a dying ruler fits heroic or royal combat
+    resolution better than afterlife passage.
+  cautions: Likely episode-specific; could also belong under lament_and_mourning or
+    divine_judgment if moral reckoning is central.
+  suggested_aliases:
+  - dying ruler consoled by vengeance
+  - vengeance completed before death
+  - deathbed comfort through revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-warrior-addressed-through-recollection-of-heroic-deeds
+  motif_id: dying_warrior_addressed_through_recollection_of_heroic_deeds
+  label: dying warrior addressed through recollection of heroic deeds
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recounting deeds to a dying warrior functions as memorializing speech
+    and anticipatory lament.
+  cautions: May overlap with heroic_funeral_rites if the speech is part of formal
+    memorial practice.
+  suggested_aliases:
+  - heroic deeds recalled at death
+  - deathbed praise of warrior deeds
+  - dying warrior memorial address
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-warrior-foretells-killer-s-death
+  motif_id: dying_warrior_foretells_killer_s_death
+  label: Dying warrior foretells killer's death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: A dying warrior's foretelling of another's death is a clear prophetic
+    deathbed utterance.
+  cautions: Could receive secondary indexing under death_by_fate or curse_blessing_speech
+    if the utterance binds fate rather than merely predicts it.
+  suggested_aliases:
+  - deathbed prophecy of killer's death
+  - dying hero foretells slayer's doom
+  - warrior death prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-warrior-requests-an-honorable-death-posture
+  motif_id: dying_warrior_requests_an_honorable_death_posture
+  label: dying warrior requests an honorable death posture
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The request concerns heroic death presentation and memorial honor at
+    the boundary of funerary practice.
+  cautions: If the posture is battlefield strategy rather than memorial dignity, sacred_combat
+    may be a better fit.
+  suggested_aliases:
+  - honorable death posture
+  - warrior requests death posture
+  - heroic posture at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-warrior-requests-mercy-for-his-followers
+  motif_id: dying_warrior_requests_mercy_for_his_followers
+  label: dying warrior requests mercy for his followers
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a deathbed plea for mercy, matching existing mercy
+    and supplication material under covenant.
+  cautions: Could be too contextual; if the focus is warrior honor or defeat terms,
+    sacred_combat may be secondary.
+  suggested_aliases:
+  - deathbed plea for mercy
+  - dying warrior intercedes for followers
+  - mercy requested for followers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-warrior-warns-against-the-deadly-foe
+  motif_id: dying_warrior_warns_against_the_deadly_foe
+  label: dying warrior warns against the deadly foe
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: A dying warrior's warning belongs broadly to combat aftermath and transmitted
+    danger-knowledge.
+  cautions: Could be prophecy, practical counsel, heroic testament, or passage-specific
+    plot detail; source context is needed.
+  suggested_aliases:
+  - dying warning against foe
+  - deathbed warning in battle
+  - warrior warns of enemy at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-witch-gives-instructions
+  motif_id: dying_witch_gives_instructions
+  label: Dying witch gives instructions
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Deathbed instructions by a magical specialist may transmit hidden or
+    dangerous knowledge.
+  cautions: Role term and context matter; could be ritual instruction, curse, folk-magic
+    plot device, or too specific for motif queries.
+  suggested_aliases:
+  - deathbed magical instruction
+  - dying witch's instructions
+  - magical instructions at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earth-as-ancestor
+  motif_id: earth_as_ancestor
+  label: earth as ancestor
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Earth figured as ancestor concerns origin, descent, and ancestry grounded
+    in the cosmos or landscape.
+  cautions: If the passage personifies Earth primarily as mother goddess, mother_goddess
+    may be a better or secondary mapping.
+  suggested_aliases:
+  - earth ancestor
+  - earth as progenitor
+  - ancestry from earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence deathbed or battlefield speech scenes; preserve
+  the speech function but avoid promoting over-specific episode labels without recurrence.
+- Deathbed utterances may split between prophecy_divination, curse_blessing_speech,
+  sacred_knowledge, covenant, and sacred_combat depending on whether the utterance
+  predicts, binds, instructs, pleads, or warns.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; source passages should be checked
+    for speech function and ritual context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0055
+  input_sha256: ba07b24cda499eeea20ddc6ddc58da9024fdd60bd5d6ab44e0954c5399f5e6f5
+

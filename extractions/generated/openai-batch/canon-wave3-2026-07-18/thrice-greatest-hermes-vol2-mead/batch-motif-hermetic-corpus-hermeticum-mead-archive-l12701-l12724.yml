@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l12701-l12724
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: VOL. II, 257 17 / LETTER OF HERMES TO ASOLEPIUS 259 / LETTER OE HERMES TO
+    ASCLEPIUS 261 / LETTER OF HERMES TO ASOLEPIUS 263; lines 12701-12724
+  start: '12701'
+  end: '12724'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that all makable things are made by God, the Good. It
+    offers an image of a husbandman sowing seed and planting trees, then applies the
+    image to God sowing Immortality in Heaven, Change on Earth, and Life and Motion
+    in the universe. It concludes that these are four, together with God and Genesis,
+    in whom all things are.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: All that can be made is said to be made by God, identified with the Good.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is invited to learn how God makes and how made things are made.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A husbandman is presented as an image, casting different seeds into the ground,
+    including wheat, barley, and other seeds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The same man is described as planting vine, apple, and other trees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: God is said to sow Immortality in Heaven, Change on Earth, and Life and Motion
+    in the universe.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage numbers the listed principles as four and then names God Himself
+    and Genesis as those in whom all that exists are contained.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God, the Good
+  description: The maker of all that can be made; the one who sows cosmic principles.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: husbandman
+  description: A fair and resemblant image of a man casting seeds into the ground
+    and planting vines, apple, and other trees.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Genesis
+  description: Named with God as that in whom all that are are contained.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine maker
+  assigned_to:
+  - fig:1
+  basis: The passage says all makable things are made by God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cosmic sower
+  assigned_to:
+  - fig:1
+  basis: God is said to sow Immortality, Change, Life, and Motion in cosmic regions.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: agricultural analogy figure
+  assigned_to:
+  - fig:2
+  basis: The husbandman is introduced as an image for understanding how God makes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: containing principle
+  assigned_to:
+  - fig:3
+  basis: Genesis is named with God as that in whom all that are are contained.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: seed
+  literal_form: wheat, barley, and other seeds cast into the ground
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: ground
+  literal_form: the ground receiving seeds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: trees and cultivated plants
+  literal_form: vine, apple, and other trees
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cosmic regions
+  literal_form: Heaven, Earth, and the universe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: fourfold set
+  literal_form: Immortality, Change, Life, and Motion, numbered as four
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: instruction on divine making
+  summary: The passage frames its teaching as an invitation to learn how God makes
+    and how made things come to be.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: husbandman image
+  summary: A husbandman casts different seeds into the ground and plants vine, apple,
+    and other trees as an explanatory image.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: God sowing cosmic principles
+  summary: The agricultural image is applied to God, who sows Immortality in Heaven,
+    Change on Earth, and Life and Motion in the universe, with the fourfold set placed
+    in relation to God and Genesis.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: agricultural analogy for divine creation
+  taxonomy_refs: []
+  basis: The husbandman's sowing and planting are explicitly used as an image for
+    how God makes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents an analogy rather than a narrative of agricultural
+    ritual or mythic farming.
+- id: motif:2
+  label: divine sowing of cosmic principles
+  taxonomy_refs: []
+  basis: God is described as sowing Immortality, Change, Life, and Motion into Heaven,
+    Earth, and the universe.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is doctrinal and cosmological; it does not narrate a sequence
+    of mythic events beyond the sowing image.
+- id: motif:3
+  label: cosmological wisdom instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The passage invites the addressee to learn how God makes and explains this
+    through a symbolic image.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports instruction in cosmological
+    knowledge, but not a developed wisdom quest narrative.
+- id: motif:4
+  label: fourfold cosmic ordering
+  taxonomy_refs: []
+  basis: The passage lists Immortality, Change, Life, and Motion as four and places
+    them within a cosmic framework of Heaven, Earth, and the universe.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The exact relation between the four principles, God, and Genesis is compact
+    and may require wider textual context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12701-12704
+  quote_or_summary: "“all that can be made is made by God,” identified as “the Good.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 12706-12708
+  quote_or_summary: The addressee is told that if he wishes to learn how God makes
+    and how made things are made, he may do so.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 12710-12713
+  quote_or_summary: A husbandman is shown “casting the seed into the ground,” including
+    wheat, barley, and other seeds.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 12715-12717
+  quote_or_summary: The same man is described as planting vine, apple, and other trees.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 12719-12721
+  quote_or_summary: "“God sow Immortality in Heaven, and Change on Earth, and Life
+    and Motion in the universe.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 12722-12724
+  quote_or_summary: The passage says these are four in all, and names God Himself
+    and Genesis as those in whom all that are are contained.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is a short doctrinal analogy rather than a full narrative myth. No
+    comparison claims were added because the passage itself does not establish a specific
+    external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The spelling “ASOLEPIUS” follows the supplied locator/title text.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l12701-l12724
+  passage_sha256=01b09456fbc96668dea874a6bd8e6b0cb3bc62ed76e19b60d02d3d8aee94b28d
+

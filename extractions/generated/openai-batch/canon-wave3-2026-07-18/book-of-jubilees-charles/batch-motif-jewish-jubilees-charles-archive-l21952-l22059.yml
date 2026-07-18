@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l21952-l22059
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTERS XXXII. 29-XXXIII. 7 197 / CHAPTER XXXIII. 8-22 199 / CHAPTERS XXXIII.
+    23-XXXIV. 6 201 / THE BOOK OF JUBILEES; lines 21952-22059
+  start: '21952'
+  end: '22059'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: he went against them with six thousand men, who carried swords.
+  summary: The passage fragment reports an unnamed male figure going against his father
+    and his own servants with six thousand sword-bearing men. The remainder of the
+    supplied passage is editorial commentary comparing proper-name forms in Jubilees
+    and related Jewish textual authorities, with notes identifying several names with
+    places and later historical battle associations.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed male figure goes against a group including his father and his own
+    servants.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unnamed male figure is accompanied by six thousand men.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The accompanying men carry swords.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The commentary states that a table compares proper names across several authorities,
+    including Jubilees, Testament of Judah, Midrash Wajjissau, and the Book of Jashar.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The commentary discusses place-name identifications including Tapha/Tappuah,
+    Aresa/Hazor, Seragan/Sartan, Sebe/Shiloh, Gaas/Gaash, Betheren/Bethhoron, and
+    Machnaim.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: The commentary associates Bethhoron with Maccabean victories and says Judas
+    defeated the Syrian general Seron near Bethhoron.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed male figure
+  description: The figure who went against the others with six thousand armed men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: father of unnamed figure
+  description: The father is listed among those opposed by the unnamed male figure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the figure's own servants
+  description: The servants are listed among those opposed by the unnamed male figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: six thousand sword-bearing men
+  description: A group of six thousand men carrying swords accompany the unnamed male
+    figure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: initiator of armed opposition
+  assigned_to:
+  - fig:1
+  basis: The passage says he went against them with six thousand men who carried swords.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father opposed by son or male kin
+  assigned_to:
+  - fig:2
+  basis: The father is included in the group against whom the unnamed male figure
+    goes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: servants opposed by their own master or household figure
+  assigned_to:
+  - fig:3
+  basis: The servants are described as the figure's own servants and are included
+    among those opposed.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: armed accompanying force
+  assigned_to:
+  - fig:4
+  basis: The group is counted as six thousand men and is described as carrying swords.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: swords
+  literal_form: swords carried by the six thousand men
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: six thousand men
+  literal_form: the number six thousand applied to the armed accompanying force
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: armed movement against father and servants
+  summary: An unnamed male figure goes against a group including his father and his
+    own servants, accompanied by six thousand men carrying swords.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: armed confrontation with father and household dependents
+  taxonomy_refs: []
+  basis: The narrative fragment has a male figure taking a large sword-bearing force
+    against his father and his own servants.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is fragmentary and the identities, cause, and outcome of the
+    confrontation are not supplied in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The supplied commentary explicitly compares proper-name forms in Jubilees
+    with forms in Testament of Judah, Midrash Wajjissau, and the Book of Jashar.
+  claim_level: linguistic_similarity
+  target: proper-name variants in nearby Jewish textual authorities
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual and onomastic comparison in the commentary, not evidence
+    of a shared mythological motif by itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21952-22059, opening fragment
+  quote_or_summary: '"he went against them with six thousand men, who carried swords."'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 21952-22059, comparative table section
+  quote_or_summary: The commentary says it appends a table comparing proper names
+    in various authorities, including Jubilees, Testament of Judah, Midrash Wajjissau,
+    and the Book of Jashar.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21952-22059, notes on Tapha/Tappuah
+  quote_or_summary: The notes discuss reading 'king' rather than 'kings' of Tapha
+    and identify Tapha with Tappuah, also mentioning Bacchides' fortification activity.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21952-22059, notes on Aresa/Hazor
+  quote_or_summary: The notes identify Aresa as Aser or Asor/Hazor and mention Jonathan's
+    victory over the Syrians at Hazor in cited sources.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 21952-22059, notes on Seragan, Sebe, and Gaas
+  quote_or_summary: The notes state that Seragan appears as Sartan, Sebe is Shiloh,
+    and Gaas may be Gaash in the hill-country of Ephraim where Joshua was buried.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 21952-22059, notes on Betheren/Bethhoron
+  quote_or_summary: The notes identify Betheren with Bethhoron and associate Bethhoron
+    with Maccabean victories, including Judas's defeat of the Syrian general Seron.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The narrative portion in the supplied excerpt is very brief and fragmentary;
+    most of the passage is editorial commentary on names and place identifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family is assigned because the excerpt does not clearly support one. Swords and the number six thousand are recorded as literal forms without inferred symbolic meaning.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l21952-l22059
+  passage_sha256=5f2a7306c9de8d71bfa28b45dce5d7e188d10a515f17aafec9b1562f9cda6d1a
+

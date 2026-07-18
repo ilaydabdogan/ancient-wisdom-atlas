@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0125
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-death-during-sack-of-a-named-guest-house-setting
+  motif_id: royal_death_during_sack_of_a_named_guest_house_setting
+  label: royal death during sack of a named guest-house setting
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a single episode setting and death circumstance
+    rather than a reusable motif.
+  cautions: If the source emphasizes violated hospitality, royal downfall, or heroic
+    death, remap to hospitality_test_stranger_guest, royal_legitimacy, or heroic_funeral_rites
+    as appropriate.
+  suggested_aliases:
+  - royal death in guest-house sack
+  - death during sack of guest house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-warrior-burial-with-grave-goods-and-praise-lament
+  motif_id: royal_warrior_burial_with_grave_goods_and_praise_lament
+  label: royal warrior burial with grave goods and praise lament
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Burial honors, grave goods, and praise lament for a royal warrior fit
+    heroic funerary memorialization.
+  cautions: May also support lament_and_mourning or royal_legitimacy if the passage
+    centers on grief or succession rather than burial rites.
+  suggested_aliases:
+  - royal warrior funeral with grave goods
+  - warrior burial with praise lament
+  - heroic burial with grave goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rune-inscribed-object-causing-death
+  motif_id: rune_inscribed_object_causing_death
+  label: Rune-inscribed object causing death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rune-inscribed object causing death likely reflects written performative
+    power or curse-like sacred speech.
+  cautions: If the object itself, rather than the inscription, is the focus, sacred_treasures
+    may be a secondary fit; if it is a one-off weapon detail, keep granular.
+  suggested_aliases:
+  - death-dealing runic inscription
+  - runes causing death
+  - lethal inscribed object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-as-divine-soul-image
+  motif_id: sacred_animal_as_divine_soul_image
+  label: Sacred animal as divine soul-image
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to Egyptian soul theology, divine animal embodiment,
+    iconography, or cult symbolism, and cannot be placed safely from wording alone.
+  cautions: Could fit sacred_substance/soul anthropology, shapeshifter, divine_intervention,
+    or sacred_treasures depending on whether the animal is an image, manifestation,
+    living cult animal, or postmortem soul form.
+  suggested_aliases:
+  - divine soul animal image
+  - sacred animal as soul image
+  - animal image of divine soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bread-as-medicine-of-immortality
+  motif_id: sacred_bread_as_medicine_of_immortality
+  label: sacred bread as medicine of immortality
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: Sacred bread functioning as immortality medicine fits sacred food or
+    substance conferring transformative life.
+  cautions: May also relate to death_and_transformation if the passage emphasizes
+    resurrection or transformed life rather than the substance itself.
+  suggested_aliases:
+  - bread of immortality
+  - sacred food as immortality medicine
+  - immortality-giving bread
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-doctrine-retained-beyond-death
+  motif_id: sacred_doctrine_retained_beyond_death
+  label: Sacred doctrine retained beyond death
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retaining sacred doctrine after death likely supports postmortem navigation,
+    instruction, or efficacy of knowledge in the afterlife.
+  cautions: If the passage is mainly about preservation of knowledge rather than the
+    dead person's route, sacred_knowledge may be the better primary group.
+  suggested_aliases:
+  - afterlife retention of sacred doctrine
+  - postmortem sacred knowledge
+  - sacred knowledge retained after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-and-spirit-lit-illumination-in-initiation-ground
+  motif_id: sacred_fire_and_spirit_lit_illumination_in_initiation_ground
+  label: Sacred fire and spirit-lit illumination in initiation ground
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The initiation-ground setting makes the fire and spirit illumination
+    part of a transformative rite.
+  cautions: Culturally sensitive ritual material; review source context. If divine
+    light or fire itself is central, sacred_fire may be a secondary mapping.
+  suggested_aliases:
+  - spirit-lit initiation ground
+  - sacred fire in initiation ground
+  - initiation illumination by sacred fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-established-after-battle-and-burial
+  motif_id: sacred_fire_established_after_battle_and_burial
+  label: sacred fire established after battle and burial
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on establishing sacred fire after a death-and-burial
+    context, fitting ritualized divine fire.
+  cautions: If the passage emphasizes funerary memorialization or battle honor more
+    than the fire, heroic_funeral_rites or sacred_combat may be secondary.
+  suggested_aliases:
+  - post-battle sacred fire
+  - sacred fire after burial
+  - funerary battle fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-grove-or-marked-ancestral-dwelling-place
+  motif_id: sacred_grove_or_marked_ancestral_dwelling_place
+  label: Sacred grove or marked ancestral dwelling place
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A marked ancestral dwelling place suggests ritualized relation to ancestors
+    and localized dead presence.
+  cautions: If the grove is primarily a sacred center or tree sanctuary rather than
+    an ancestral site, axis_mundi or sacred_treasures/shrine logic may fit better.
+  suggested_aliases:
+  - ancestral sacred grove
+  - marked ancestral dwelling
+  - sacred ancestral place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-house-dedicated-to-a-spirit
+  motif_id: sacred_house_dedicated_to_a_spirit
+  label: sacred house dedicated to a spirit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A spirit-dedicated house could be a shrine, dwelling, offering place,
+    or local ritual structure, and the function is unclear.
+  cautions: Review culturally specific context before indexing. Possible fits include
+    divine_intervention for tutelary spirit agency, sacred_exchange for offerings,
+    or world_center/portable_sanctuary if the house functions as a sacred ritual center.
+  suggested_aliases:
+  - spirit house
+  - house dedicated to a spirit
+  - sacred spirit dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Single-occurrence labels with named settings or composite episode details should
+  usually remain evidence notes unless recurrence is shown.
+- For death-bucket items involving ritual objects, substances, fire, or places, placement
+  follows narrative or ritual function rather than death association alone.
+- Culturally specific spirit-house and initiation-ground labels should receive human
+  review against source evidence before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0125
+  input_sha256: c9a0095f0e8ba24fb6b228baf08e854146e52ddddc6dec0b26302da6d27aa189
+

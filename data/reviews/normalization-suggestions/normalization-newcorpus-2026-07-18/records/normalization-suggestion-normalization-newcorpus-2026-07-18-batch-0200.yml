@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0200
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kinship-recognized-by-shared-object
+  motif_id: kinship_recognized_by_shared_object
+  label: kinship recognized by shared object
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Recognition of kinship through a shared object matches identity proof
+    by token or object.
+  cautions: Single occurrence; confirm that the object functions as proof rather than
+    merely shared property.
+  suggested_aliases:
+  - kinship recognition token
+  - recognition by shared object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-recognized-through-names-and-regalia
+  motif_id: kinship_recognized_through_names_and_regalia
+  label: kinship recognized through names and regalia
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Names and regalia serve as identity markers proving kinship or status.
+  cautions: Regalia may also imply royal_legitimacy or sacred_treasures if authority
+    is the primary focus.
+  suggested_aliases:
+  - recognition by names and regalia
+  - kinship identity proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-request-for-food-in-time-of-lack
+  motif_id: kinship_request_for_food_in_time_of_lack
+  label: Kinship request for food in time of lack
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A kinship-based food request in scarcity centers on obligation, reciprocity,
+    and aid.
+  cautions: Could instead be hospitality_test_stranger_guest or social-care ethics
+    if the passage frames it as moral testing or law.
+  suggested_aliases:
+  - food request under kinship obligation
+  - kinship reciprocity in scarcity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-unable-to-overcome-divine-decree
+  motif_id: kinship_unable_to_overcome_divine_decree
+  label: Kinship unable to overcome divine decree
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes human kinship bonds failing before divine decree
+    or destiny.
+  cautions: If the decree is not about death or destined outcome, divine_judgment
+    or sacred_law may be a better placement.
+  suggested_aliases:
+  - kinship powerless before fate
+  - divine decree overrides kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-with-natural-phenomena-and-beings
+  motif_id: kinship_with_natural_phenomena_and_beings
+  label: Kinship with natural phenomena and beings
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to totemic, ancestral, cosmological, ecological,
+    or social kinship systems not cleanly covered by current groups.
+  cautions: Culturally sensitive and context-dependent; avoid flattening Aboriginal
+    kinship relations into generic nature symbolism.
+  suggested_aliases:
+  - totemic kinship with natural beings
+  - kinship with landscape beings
+  - ancestral kinship with natural phenomena
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-destroyed-kin-and-wandering-survivors
+  motif_id: lament_for_destroyed_kin_and_wandering_survivors
+  label: lament for destroyed kin and wandering survivors
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The core motif is mourning destroyed kin and recognizing the suffering
+    of survivors.
+  cautions: Wandering survivors may secondarily relate to exile or hero_journey, but
+    lament is primary from the label.
+  suggested_aliases:
+  - lament for destroyed kin
+  - mourning wandering survivors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.land-grant-and-inheritance-after-conquest
+  motif_id: land_grant_and_inheritance_after_conquest
+  label: Land grant and inheritance after conquest
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Land inheritance after conquest concerns sanctioned possession, rule,
+    and social order.
+  cautions: If framed primarily as divine promise or covenantal inheritance, covenant
+    may be the better primary group.
+  suggested_aliases:
+  - inheritance after conquest
+  - conquest land grant
+  - divinely sanctioned land inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-defense-of-ships-and-wall-under-despair
+  motif_id: last_defense_of_ships_and_wall_under_despair
+  label: last defense of ships and wall under despair
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a specific battlefield crisis and defensive last stand within
+    heroic warfare.
+  cautions: Likely episode-specific Iliadic detail; preserve as evidence rather than
+    promoting to a canonical motif.
+  suggested_aliases:
+  - desperate last defense
+  - last defense at ships and wall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-stand-at-the-ships
+  motif_id: last_stand_at_the_ships
+  label: last stand at the ships
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A last stand at the ships is a heroic combat crisis rather than a journey
+    motif.
+  cautions: Probably an episode-specific generated label; avoid canonical promotion
+    unless parallel last-stand motifs recur.
+  suggested_aliases:
+  - last stand at ships
+  - heroic last defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.later-arrival-of-christian-instruction
+  motif_id: later_arrival_of_christian_instruction
+  label: later arrival of Christian instruction
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe missionization, reception history, or a narrative
+    arrival of sacred teaching.
+  cautions: Could be a colonial/contact or commentary artifact rather than a motif;
+    review source context and avoid transmission claims.
+  suggested_aliases:
+  - arrival of Christian teaching
+  - late sacred instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and may be passage-specific; suggested mappings
+  are provisional.
+- Kinship with natural phenomena and later Christian instruction need source-level
+  review because they may encode culturally specific systems or historical commentary
+  rather than reusable motif patterns.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: JSON suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0200
+  input_sha256: dbc4aa83e6d419575d18ebfd8d0fc97a99aef27ac960859a4f7e059eb44d3753
+

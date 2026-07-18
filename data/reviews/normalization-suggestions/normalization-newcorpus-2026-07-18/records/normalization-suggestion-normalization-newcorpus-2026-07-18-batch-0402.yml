@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0402
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recognition-of-a-god-by-visible-signs
+  motif_id: recognition_of_a_god_by_visible_signs
+  label: Recognition of a god by visible signs
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Visible signs enabling recognition of a deity fit direct divine manifestation
+    to a witness.
+  cautions: Could also involve recognition tokens or sacred treasures if the signs
+    are objects rather than manifestation markers.
+  suggested_aliases:
+  - divine_recognition_by_signs
+  - visible_signs_of_divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reduced-offering-according-to-ability-to-afford
+  motif_id: reduced_offering_according_to_ability_to_afford
+  label: Reduced offering according to ability to afford
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label concerns scaled ritual offerings, a clear variant of sacrifice
+    and offering practice.
+  cautions: May be more legal than narrative; secondary relation to sacred_law may
+    be useful if framed as cultic regulation.
+  suggested_aliases:
+  - scaled_offering_by_means
+  - affordability_based_offering
+  - graduated_sacrificial_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refrain-and-parallel-repetition-as-sacred-song-pattern
+  motif_id: refrain_and_parallel_repetition_as_sacred_song_pattern
+  label: refrain and parallel repetition as sacred song pattern
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A repeated sacred song pattern belongs with song or sound functioning
+    as ritual power.
+  cautions: Could be a poetic/formal artifact rather than a motif if the label only
+    describes textual structure; review Navajo ceremonial context carefully.
+  suggested_aliases:
+  - parallel_repetition_in_sacred_song
+  - ritual_refrain_pattern
+  - sacred_song_refrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refrain-of-denied-divine-benefits
+  motif_id: refrain_of_denied_divine_benefits
+  label: Refrain of denied divine benefits
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a rhetorical refrain, moral warning, or divine
+    withholding, but the motif function is unclear.
+  cautions: If this is only a repeated phrase in a passage, exclude as a textual artifact;
+    if it marks punishment or moral reckoning, divine_judgment may fit.
+  suggested_aliases:
+  - withheld_divine_benefits_refrain
+  - denial_of_divine_favors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-spoils-under-divine-oath
+  motif_id: refusal_of_spoils_under_divine_oath
+  label: Refusal of spoils under divine oath
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing spoils because of a divine oath centers on a binding sacred
+    commitment governing action.
+  cautions: Could also map to sacred_exchange or sacrifice if the refusal is framed
+    as renunciation or offering; preserve oath context.
+  suggested_aliases:
+  - renunciation_of_spoils_by_oath
+  - divine_oath_refusal_of_spoils
+  - sacred_oath_over_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-and-received-divine-visitor
+  motif_id: refused_and_received_divine_visitor
+  label: refused and received divine visitor
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine visitor accepted by some and refused by others matches the sacred
+    guest or hospitality-test pattern.
+  cautions: If the stress is divine manifestation rather than host response, theophany
+    may be a secondary mapping.
+  suggested_aliases:
+  - divine_visitor_hospitality_test
+  - accepted_and_rejected_divine_guest
+  - received_divine_stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-household-threshold-and-sacred-privacy
+  motif_id: regulated_household_threshold_and_sacred_privacy
+  label: Regulated household threshold and sacred privacy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules governing household thresholds and privacy fit sacred law regulating
+    social and ritual boundaries.
+  cautions: May be a legal/ethical instruction rather than a mythic motif; avoid mapping
+    to threshold_guardian unless an actual guardian or ordeal appears.
+  suggested_aliases:
+  - household_privacy_as_sacred_law
+  - regulated_domestic_threshold
+  - sacred_privacy_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-sacred-procession-through-gates
+  motif_id: regulated_sacred_procession_through_gates
+  label: regulated sacred procession through gates
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A regulated procession through gates is a ritual-order pattern governed
+    by sacred rules and boundaries.
+  cautions: Could relate to axis_mundi or world_center if the procession centers on
+    temple/city cosmology; label alone emphasizes regulation.
+  suggested_aliases:
+  - sacred_gate_procession
+  - ritual_procession_through_gates
+  - regulated_processional_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-divine-messengers-to-a-city
+  motif_id: rejected_divine_messengers_to_a_city
+  label: rejected divine messengers to a city
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of divine messengers typically sets up communal moral reckoning
+    or punishment.
+  cautions: If the passage centers on prophetic mission rather than judgment, divine_intervention
+    or prophecy_divination may be useful secondary groups.
+  suggested_aliases:
+  - city_rejects_divine_messengers
+  - rejected_prophetic_messengers
+  - messengers_rejected_before_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messengers-before-divine-help
+  motif_id: rejected_messengers_before_divine_help
+  label: rejected messengers before divine help
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence culminates in divine help following rejected messengers,
+    fitting direct sacred intervention in human affairs.
+  cautions: Could also index under divine_judgment if rejection brings punishment;
+    source context should decide whether help or reckoning is primary.
+  suggested_aliases:
+  - divine_help_after_messenger_rejection
+  - rejected_messengers_and_divine_aid
+  - prophetic_rejection_before_intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch may be generated from legal, ritual, or rhetorical
+  passage features rather than durable narrative motifs; human review should check
+  source context before final mapping.
+- For messenger-rejection labels, distinguish prophetic mission, divine judgment,
+  and divine intervention rather than merging them automatically.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0402
+  input_sha256: ceae1da57458af42fb7493fca06e885d5bf5cb709a00c7054d14b5c9f9a80824
+

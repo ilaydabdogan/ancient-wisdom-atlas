@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1374
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-tale-explaining-a-standing-rock-formation
+  motif_id: etiological_tale_explaining_a_standing_rock_formation
+  label: Etiological tale explaining a standing rock formation
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes etiological landscape formation
+    and place-name origin labels; a standing rock origin fits that broad etiological
+    landscape function.
+  cautions: Single occurrence and local landscape feature; confirm whether the tale
+    explains formation, naming, petrification, or a sacred site before final placement.
+  suggested_aliases:
+  - etiological_landscape_formation
+  - standing_rock_formation_etiology
+  - rock_formation_origin_tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-for-solitary-coyote-foraging
+  motif_id: etiology_for_solitary_coyote_foraging
+  label: etiology for solitary coyote foraging
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an animal-behavior etiology involving coyote, but the current
+    groups do not cleanly distinguish animal etiologies from trickster/fable motifs.
+  cautions: Could map to trickster if Coyote's boundary-crossing or deception causes
+    the behavior; otherwise it may be an over-specific animal natural-history etiology.
+  suggested_aliases:
+  - solitary_coyote_foraging_etiology
+  - coyote_forages_alone_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-a-visible-celestial-body
+  motif_id: etiology_of_a_visible_celestial_body
+  label: Etiology of a visible celestial body
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining the origin or visible presence of a celestial body belongs
+    broadly with cosmic origin and creation etiologies.
+  cautions: If the passage centers on transformation of a person into a star or moon,
+    death_and_transformation or dream_and_vision may be relevant secondary mappings.
+  suggested_aliases:
+  - celestial_body_origin_etiology
+  - origin_of_visible_celestial_body
+  - celestial_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-black-fox-tails
+  motif_id: etiology_of_black_fox_tails
+  label: etiology of black fox tails
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a specific animal-trait origin label, and no current canonical
+    group clearly covers animal morphology etiologies.
+  cautions: Could relate to shapeshifter, trickster, or divine_judgment depending
+    on whether the black tail results from transformation, deception, punishment,
+    or natural explanation.
+  suggested_aliases:
+  - black_fox_tail_etiology
+  - animal_marking_etiology
+  - fox_tail_color_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-communal-prey-eating
+  motif_id: etiology_of_communal_prey_eating
+  label: Etiology of communal prey eating
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif explains an animal or social feeding behavior, but the current
+    taxonomy lacks a stable animal-behavior or food-sharing etiology group.
+  cautions: Could be sacred_exchange if communal sharing is normative, trickster if
+    caused by a trickster episode, or over-specific evidence if only a local animal-behavior
+    explanation.
+  suggested_aliases:
+  - communal_prey_eating_etiology
+  - origin_of_communal_prey_eating
+  - communal_feeding_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-coyote-abundance-and-crop-theft
+  motif_id: etiology_of_coyote_abundance_and_crop_theft
+  label: etiology of coyote abundance and crop theft
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Coyote abundance and crop theft likely centers on a boundary-crossing
+    animal trickster or transgressive food theft pattern.
+  cautions: If the passage merely explains natural abundance or agricultural nuisance
+    without trickster agency, it may be too specific or need animal-etiology review.
+  suggested_aliases:
+  - coyote_crop_theft_etiology
+  - coyote_abundance_etiology
+  - animal_crop_theft_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-coyotes-foraging-alone
+  motif_id: etiology_of_coyotes_foraging_alone
+  label: Etiology of coyotes foraging alone
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Duplicate-like variant of solitary coyote foraging, but placement depends
+    on whether the story is trickster narrative, social separation, or animal behavior
+    explanation.
+  cautions: Consider merging with etiology_for_solitary_coyote_foraging as an alias
+    if evidence matches; avoid creating separate motifs for wording variants.
+  suggested_aliases:
+  - solitary_coyote_foraging_etiology
+  - coyote_forages_alone_etiology
+  - etiology_for_solitary_coyote_foraging
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-differentiated-ceremonial-offices
+  motif_id: etiology_of_differentiated_ceremonial_offices
+  label: Etiology of differentiated ceremonial offices
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining the origin of distinct ceremonial offices concerns sacred
+    social order and ritual role differentiation.
+  cautions: Culturally sensitive and institution-specific; may also relate to covenant,
+    royal_legitimacy, or divine_intervention depending on whether offices are divinely
+    assigned, inherited, or ritually mandated.
+  suggested_aliases:
+  - origin_of_ceremonial_offices
+  - ceremonial_office_etiology
+  - ritual_office_differentiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-fish-appearance
+  motif_id: etiology_of_fish_appearance
+  label: Etiology of fish appearance
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad animal-appearance etiology, but existing groups
+    do not provide a clear animal morphology or species-origin home.
+  cautions: Could fit shapeshifter if fish appearance results from transformation,
+    cosmic_origin if it explains species creation, or be over-specific natural-history
+    evidence.
+  suggested_aliases:
+  - fish_appearance_etiology
+  - origin_of_fish_appearance
+  - fish_form_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-infant-and-elder-diet
+  motif_id: etiology_of_infant_and_elder_diet
+  label: etiology of infant and elder diet
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A culturally explained diet rule for infants and elders fits sacred law,
+    food regulation, and social care obligations.
+  cautions: If it is only ethnographic commentary or a passage-specific dietary detail,
+    exclude from pattern queries; if ritual feeding is central, sacred_exchange may
+    be secondary.
+  suggested_aliases:
+  - infant_and_elder_diet_etiology
+  - dietary_rule_for_infants_and_elders
+  - age_based_dietary_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence etiologies. Human review should decide whether
+  recurring animal-behavior and animal-morphology etiologies need a durable normalization
+  group or should remain evidence details.
+- The two coyote-foraging labels appear likely synonymous and should be reviewed for
+  alias consolidation.
+- No transmission or borrowing claims are implied by these suggested placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Zuni, Hopi, Inuit, Hawaiian,
+    and Nahua/Maya/Inca evidence should be checked before final taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1374
+  input_sha256: e60ea6d7ce356e7e0ac1df4c80dacafd549273d8ebbba5c03cf7c1f0b05b0877
+

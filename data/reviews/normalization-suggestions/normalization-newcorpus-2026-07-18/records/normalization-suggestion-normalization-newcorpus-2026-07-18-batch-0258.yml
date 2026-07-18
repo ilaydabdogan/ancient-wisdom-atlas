@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0258
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.breach-of-sacred-martial-code
+  motif_id: breach_of_sacred_martial_code
+  label: breach of sacred martial code
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sacred martial code violation belongs with warfare governed by ritual
+    or sacred norms.
+  cautions: Could also fit sacred_law or divine_judgment if the passage emphasizes
+    legal transgression or punishment more than combat practice.
+  suggested_aliases:
+  - violation_of_sacred_warrior_code
+  - martial_code_transgression
+  - breach_of_warrior_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-praised-through-natural-purity-and-beauty-images
+  motif_id: bride_praised_through_natural_purity_and_beauty_images
+  label: Bride praised through natural purity and beauty images
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be wedding praise imagery rather than a durable mythic
+    motif; natural purity and beauty could point to sacred_love only with stronger
+    context.
+  cautions: Single occurrence and highly descriptive; may be poetic formula, genre
+    convention, or passage artifact. Do not map to purity/sacrifice merely from the
+    word purity.
+  suggested_aliases:
+  - bride_praised_by_nature_imagery
+  - bridal_beauty_nature_praise
+  - bridal_purity_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-vow-or-marital-transgression-leading-to-crisis
+  motif_id: broken_vow_or_marital_transgression_leading_to_crisis
+  label: Broken vow or marital transgression leading to crisis
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A broken vow causing crisis fits violation of a binding sacred or social
+    bond.
+  cautions: If the passage centers on romance, jealousy, or marriage choice rather
+    than vow obligation, sacred_love may be a better secondary context.
+  suggested_aliases:
+  - marital_vow_broken
+  - marital_bond_transgression
+  - broken_marriage_oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bubbling-blood-of-a-slain-figure-on-an-altar
+  motif_id: bubbling_blood_of_a_slain_figure_on_an_altar
+  label: Bubbling blood of a slain figure on an altar
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood of a slain figure on an altar is sacrificial imagery and may preserve
+    the life-force or offering function of blood.
+  cautions: The bubbling detail may signal miracle, martyrdom, omen, or narrative
+    evidence rather than a separate motif; preserve as granular evidence.
+  suggested_aliases:
+  - blood_of_slain_figure_on_altar
+  - miraculous_blood_on_altar
+  - altar_blood_as_life_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burden-of-sacred-precepts
+  motif_id: burden_of_sacred_precepts
+  label: burden of sacred precepts
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns the weight of religious obligations or commandments,
+    aligning with sacred law and precept observance.
+  cautions: Could be theological commentary rather than narrative motif; review whether
+    the source presents an enacted obligation, ethical teaching, or doctrinal statement.
+  suggested_aliases:
+  - burden_of_religious_commandments
+  - weight_of_sacred_law
+  - sacred_precepts_as_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-and-response-ceremonial-prayer-recitation
+  motif_id: call_and_response_ceremonial_prayer_recitation
+  label: Call-and-response ceremonial prayer recitation
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ceremonial prayer recitation is a ritualized sacred speech act intended
+    to bind, bless, heal, or transform.
+  cautions: If the passage emphasizes extended narrative chanting rather than performative
+    prayer, storytelling_as_power or sacred_song may be relevant; handle Navajo ceremonial
+    context carefully.
+  suggested_aliases:
+  - responsive_ceremonial_prayer
+  - antiphonal_ritual_prayer
+  - call_response_prayer_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-and-response-ritual-prayer
+  motif_id: call_and_response_ritual_prayer
+  label: Call-and-response ritual prayer
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A call-and-response prayer is a structured performative sacred speech
+    act within ritual.
+  cautions: May be duplicate or near-duplicate of call_and_response_ceremonial_prayer_recitation;
+    review for consolidation and culturally specific terminology.
+  suggested_aliases:
+  - responsive_ritual_prayer
+  - antiphonal_prayer
+  - call_response_ceremonial_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-or-prey-released-by-induced-celebratory-or-ritualized-gesture
+  motif_id: captive_or_prey_released_by_induced_celebratory_or_ritualized_gesture
+  label: Captive or prey released by induced celebratory or ritualized gesture
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines trickery, release, prey/captive status, and ritualized
+    gesture; the narrative function is unclear without source context.
+  cautions: Could belong under trickster if the gesture is induced deception, sacrifice
+    if ritual release is central, or sacred_exchange if release repairs obligation.
+    Single occurrence and over-specific.
+  suggested_aliases:
+  - release_by_induced_ritual_gesture
+  - captive_released_by_celebratory_gesture
+  - prey_escape_through_induced_celebration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-s-ordeal-combat-before-release-or-sacrifice
+  motif_id: captive_s_ordeal_combat_before_release_or_sacrifice
+  label: Captive’s ordeal combat before release or sacrifice
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Captive combat framed before release or sacrifice is warfare as ritual
+    ordeal rather than ordinary battle.
+  cautions: Could also map to sacrifice if the captive’s offering is the central function.
+    Mesoamerican captive-sacrifice contexts need careful source review.
+  suggested_aliases:
+  - captive_ordeal_combat
+  - ritual_combat_before_sacrifice
+  - captive_combat_as_sacrificial_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-suspected-to-be-divine-agent-or-disguised-being
+  motif_id: captive_suspected_to_be_divine_agent_or_disguised_being
+  label: captive suspected to be divine agent or disguised being
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A captive suspected of being a divine agent reflects divine presence
+    acting through a human or disguised figure in events.
+  cautions: If disguise or transformation is explicit, shapeshifter may be secondary;
+    if the captive tests hosts or rulers, hospitality_test or divine_judgment may
+    fit better.
+  suggested_aliases:
+  - disguised_divine_captive
+  - captive_as_divine_agent
+  - suspected_divine_agent_in_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and phrase-level; preserve granular
+  wording as evidence notes even when mapped to an existing group.
+- The two Navajo call-and-response prayer labels appear near-duplicate and should
+  be reviewed together before adding separate index entries.
+- Avoid treating ritual, purity, or sacrifice bucket placement as decisive; several
+  labels are better explained by sacred law, sacred speech, or sacred combat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for culturally
+    specific ritual contexts and single-occurrence poetic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0258
+  input_sha256: 1df4f0f79125ffa2a5684c97255d52683caa9db53b8a040ed7c586a73bc7bd3a
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0673
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.artificial-bride-forged-from-precious-metals
+  motif_id: artificial_bride_forged_from_precious_metals
+  label: Artificial bride forged from precious metals
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: child
+  confidence: high
+  rationale: An artificial bride made by forging fits the existing artificial-life
+    and wondrous-craft cluster under sacred_craft.
+  cautions: If the passage emphasizes failed marriage, substitute bride, or gendered
+    relationship rather than fabrication, sacred_love may be a secondary review context.
+  suggested_aliases:
+  - forged_artificial_bride
+  - artificial_woman_forged_from_precious_metals
+  - crafted_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascending-numerical-sect-count-comparison-among-religions
+  motif_id: ascending_numerical_sect_count_comparison_among_religions
+  label: ascending numerical sect-count comparison among religions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like a comparative or classificatory textual observation
+    about sect numbers rather than a narrative motif.
+  cautions: If source evidence presents a sacred prophecy or performative enumeration,
+    review under prophecy_divination or sacred_knowledge instead.
+  suggested_aliases:
+  - sect_count_comparison
+  - comparative_sect_enumeration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-or-neglected-suitor-accepted-by-youngest-daughter-after-elder-refusals
+  motif_id: ascetic_or_neglected_suitor_accepted_by_youngest_daughter_after_elder_refusals
+  label: ascetic or neglected suitor accepted by youngest daughter after elder refusals
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on bride choice and acceptance of an overlooked suitor,
+    matching the sacred_love group’s marriage-choice and bride-selection cluster.
+  cautions: If the suitor is a disguised supernatural tester, trickster, divine_intervention,
+    or recognition_tokens_hidden_identity may be relevant secondary contexts.
+  suggested_aliases:
+  - youngest_daughter_accepts_neglected_suitor
+  - rejected_suitor_chosen_by_youngest_daughter
+  - bride_choice_of_lowly_suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astrologically-foretold-royal-marriage-and-child
+  motif_id: astrologically_foretold_royal_marriage_and_child
+  label: astrologically foretold royal marriage and child
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: Astrological prediction is systematic divination, here foretelling dynastic
+    marriage and birth.
+  cautions: Royal_legitimacy and miraculous_child may be secondary if the foretold
+    child’s sacred or royal destiny is central.
+  suggested_aliases:
+  - astrological_foretelling_of_marriage_and_child
+  - foretold_royal_marriage
+  - astrological_dynastic_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempt-to-strike-a-creature-in-a-person-s-mouth-kills-the-person-instead
+  motif_id: attempt_to_strike_a_creature_in_a_person_s_mouth_kills_the_person_instead
+  label: attempt to strike a creature in a person’s mouth kills the person instead
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is highly episode-specific and could involve failed healing,
+    trickery, possession, monster attack, or accidental death.
+  cautions: Do not map solely from the body location; source context is needed to
+    determine whether this is combat, spirit affliction, healing failure, or a passage
+    artifact.
+  suggested_aliases:
+  - failed_strike_at_mouth_creature
+  - creature_in_mouth_strike_kills_host
+  - misdirected_blow_kills_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempted-seduction-by-a-brother-s-wife-and-refusal
+  motif_id: attempted_seduction_by_a_brother_s_wife_and_refusal
+  label: attempted seduction by a brother's wife and refusal
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sexual temptation and refusal within kinship obligations,
+    fitting sacred law and social order.
+  cautions: If refusal leads to false accusation or vindication, divine_judgment may
+    be a strong secondary mapping.
+  suggested_aliases:
+  - seduction_by_brothers_wife_refused
+  - kinship_seduction_refusal
+  - adulterous_seduction_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-father-leads-a-doomed-war-band
+  motif_id: avenging_father_leads_a_doomed_war_band
+  label: avenging father leads a doomed war-band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vengeance-led war-band belongs with martial conflict and doom in the
+    sacred_combat complex.
+  cautions: Death_by_fate may be secondary if the doomed outcome is prophetically
+    or cosmically fixed; family role should remain evidence detail.
+  suggested_aliases:
+  - doomed_avenging_war_band
+  - father_leads_vengeance_band
+  - vengeance_expedition_to_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-monster-mother
+  motif_id: avenging_monster_mother
+  label: Avenging monster mother
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The avenging monster mother functions as an antagonist in heroic combat
+    against dangerous nonhuman forces.
+  cautions: If the focus is maternal vengeance rather than combat, a future kin-vengeance
+    or monstrous-mother grouping might preserve nuance better.
+  suggested_aliases:
+  - monster_mother_avenger
+  - vengeful_monster_mother
+  - avenging_maternal_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-monster-mother-combat
+  motif_id: avenging_monster_mother_combat
+  label: avenging monster-mother combat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes combat with an avenging monster-mother,
+    fitting sacred heroic combat against monstrous forces.
+  cautions: Could also index under sacred_combat if the passage emphasizes feud vengeance
+    or warrior social order more than monster-slaying.
+  suggested_aliases:
+  - combat_with_avenging_monster_mother
+  - monster_mother_combat
+  - hero_fights_avenging_monster_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-monster-mother-kills-a-valued-retainer
+  motif_id: avenging_monster_mother_kills_a_valued_retainer
+  label: Avenging monster-mother kills a valued retainer
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The death of a valued retainer by an avenging monster-mother is a specific
+    episode within feud-like heroic violence and combat escalation.
+  cautions: Likely too specific for canonical promotion; preserve monster-mother and
+    retainer details as evidence notes. Lament_and_mourning may apply if the passage
+    centers on grief for the retainer.
+  suggested_aliases:
+  - monster_mother_kills_retainer
+  - avenging_monster_kills_companion
+  - valued_retainer_slain_by_monster_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear misbucketed under love_family_gender_body but
+  are better handled by craft, divination, sacred law, or combat groups.
+- Monster-mother items may warrant future review for a broader monstrous-antagonist
+  or kin-vengeance group if many similar labels recur; current best fit is divine_warrior/sacred_combat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0673
+  input_sha256: 884a611093e3ebe49ad07175400a9ee4eaf7430c24c69c1f155ed2dcbf639f82
+

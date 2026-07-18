@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0263
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-construction-and-feast-preparation-following-a-royal-ritual-decision
+  motif_id: communal_construction_and_feast_preparation_following_a_royal_ritual_decision
+  label: Communal construction and feast preparation following a royal-ritual decision
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Composite label mixes royal authority, ritual decision, construction,
+    and feast preparation; function cannot be determined from label alone.
+  cautions: May be a passage-specific event rather than a durable motif; could involve
+    sacred_craft, royal_legitimacy, sacred_exchange, or ritual feast depending on
+    evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-feast-song-prompted-by-sacred-or-wondrous-drink
+  motif_id: communal_feast_song_prompted_by_sacred_or_wondrous_drink
+  label: communal feast song prompted by sacred or wondrous drink
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sacred or wondrous drink is the motivating ritual substance, with
+    song and feast as its communal expression.
+  cautions: If the song itself has supernatural force, enchanting_music or storytelling_as_power
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - sacred drink prompting communal song
+  - ritual feast song from wondrous drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-mourning-vigil-with-ritual-signs
+  motif_id: communal_mourning_vigil_with_ritual_signs
+  label: communal mourning vigil with ritual signs
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal vigil centered on mourning fits the lament and mourning group,
+    with ritual signs as local performance details.
+  cautions: If the vigil primarily regulates funerary obligations or burial rites,
+    heroic_funeral_rites or ancestor_rites may be better.
+  suggested_aliases:
+  - communal mourning vigil
+  - ritual signs of mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-schism-as-dismemberment-of-a-sacred-body
+  motif_id: communal_schism_as_dismemberment_of_a_sacred_body
+  label: Communal schism as dismemberment of a sacred body
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label appears to be a theological metaphor for community division
+    using body imagery, not clearly an existing narrative motif.
+  cautions: Do not map to primordial_sacrifice unless an actual world-creating dismemberment
+    is present; may be doctrinal commentary or passage-specific metaphor.
+  suggested_aliases:
+  - schism as sacred body dismemberment
+  - community division as body dismemberment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-three-day-mourning-for-a-murdered-holy-figure
+  motif_id: communal_three_day_mourning_for_a_murdered_holy_figure
+  label: communal three-day mourning for a murdered holy figure
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The core pattern is collective mourning for a slain sacred figure, already
+    covered by lament and mourning.
+  cautions: The three-day duration and holy figure identity should remain evidence
+    details; if death-return is explicit, death_and_transformation may be a secondary
+    mapping.
+  suggested_aliases:
+  - collective mourning for a murdered holy figure
+  - three-day mourning vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-unity-as-sacred-blessing
+  motif_id: communal_unity_as_sacred_blessing
+  label: Communal unity as sacred blessing
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Unity framed as divine blessing expresses a sacred bond organizing communal
+    relation under divine order.
+  cautions: Abstract ethical or liturgical phrasing may be too general; if only an
+    exhortation, sacred_law or exclusion as commentary may be considered.
+  suggested_aliases:
+  - sacred blessing of communal unity
+  - unity as divine blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-unity-by-the-cord-of-god
+  motif_id: communal_unity_by_the_cord_of_god
+  label: Communal unity by the cord of God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The divine cord functions as an image of binding communal relation to
+    God and one another.
+  cautions: May be scriptural metaphor rather than narrative motif; preserve the cord
+    image without forcing axis_mundi unless vertical cosmic connection is explicit.
+  suggested_aliases:
+  - cord of God as communal bond
+  - divine cord of unity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-vengeance-through-ritualized-punishment
+  motif_id: communal_vengeance_through_ritualized_punishment
+  label: communal vengeance through ritualized punishment
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif combines communal vengeance, punishment, and ritual process;
+    placement depends on whether the emphasis is justice, sacrifice, law, or conflict.
+  cautions: Culturally sensitive legal-ritual material needs source review; avoid
+    flattening into divine_judgment unless sacred authority or moral reckoning is
+    explicit.
+  suggested_aliases:
+  - ritualized communal punishment
+  - communal vengeance rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-as-divine-temple-under-construction
+  motif_id: community_as_divine_temple_under_construction
+  label: Community as divine temple under construction
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A community imagined as divine temple uses temple-center imagery to define
+    sacred communal identity.
+  cautions: This may be theological metaphor rather than spatial motif; sacred_craft
+    applies only if construction itself is the narrative function.
+  suggested_aliases:
+  - community as sacred temple
+  - divine temple community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-gathered-as-one-sacred-body-temple-and-altar
+  motif_id: community_gathered_as_one_sacred_body_temple_and_altar
+  label: Community gathered as one sacred body, temple, and altar
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: symbolic_variant
+  confidence: low
+  rationale: 'The label merges several ecclesial metaphors: sacred body, temple, altar,
+    and communal unity.'
+  cautions: Could map to covenant, world_center, sacrifice, or be excluded as doctrinal
+    metaphor; passage evidence is needed before selecting a single group.
+  suggested_aliases:
+  - community as sacred body temple and altar
+  - gathered community as temple and altar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence Christian or scriptural communal
+  metaphors; human review should distinguish motif indexing from theological commentary.
+- Do not infer sacrificial function from words like altar, body, or ritual unless
+  an offering, surrender, consecration, or exchange is present in the passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; communal body/temple/altar and ritual punishment
+    labels need close source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0263
+  input_sha256: d7e882ce589e0f2e83e7b24f0d9b1d4157cdc9aad63723131c093100b0731361
+

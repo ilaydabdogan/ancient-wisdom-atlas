@@ -1,0 +1,376 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0856
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-explanation-for-animal-hiding-places
+  motif_id: origin_explanation_for_animal_hiding_places
+  label: Origin explanation for animal hiding places
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: Explains why animals have current behaviors or habitats; existing animal
+    groups emphasize trickster, shapeshifting, or sacred roles rather than etiological
+    animal features.
+  cautions: Single occurrence; confirm it is a narrative etiology and not merely a
+    source summary detail.
+  suggested_aliases:
+  - animal_etiology
+  - origin_of_animal_habits
+  - origin_of_animal_hiding_places
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-explanation-for-present-animal-traits
+  motif_id: origin_explanation_for_present_animal_traits
+  label: Origin explanation for present animal traits
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: The label directly names an etiological explanation for present animal
+    characteristics.
+  cautions: Review source context, especially for culturally specific Australian Aboriginal
+    traditions; may need local specificity preserved as evidence.
+  suggested_aliases:
+  - animal_etiology
+  - origin_of_animal_traits
+  - present_animal_traits_explained
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-an-animal-bodily-mark
+  motif_id: origin_of_an_animal_bodily_mark
+  label: Origin of an animal bodily mark
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: An animal bodily mark is a specific etiological animal trait origin.
+  cautions: Single occurrence; preserve the specific animal and mark in evidence notes
+    if available.
+  suggested_aliases:
+  - origin_of_animal_marking
+  - animal_marking_etiology
+  - origin_of_bodily_mark
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-an-animal-s-physical-trait
+  motif_id: origin_of_an_animal_s_physical_trait
+  label: origin of an animal's physical trait
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: This is a generic animal trait origin label and fits an animal etiology
+    cluster.
+  cautions: May be too broad as a generated label; source evidence should identify
+    the actual trait and causal incident.
+  suggested_aliases:
+  - origin_of_animal_traits
+  - animal_physical_trait_etiology
+  - animal_etiology
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-animal-feud
+  motif_id: origin_of_animal_feud
+  label: origin of animal feud
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: functional_variant
+  confidence: medium
+  rationale: Explains a present relation between animal kinds, analogous to etiologies
+    of animal traits and habitats.
+  cautions: Could also be a conflict motif if the narrative emphasizes combat rather
+    than origin explanation; review culturally specific context.
+  suggested_aliases:
+  - animal_feud_etiology
+  - origin_of_animal_rivalry
+  - animal_relations_origin
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-animal-habitats
+  motif_id: origin_of_animal_habitats
+  label: origin of animal habitats
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: Explains why animals occupy particular habitats, a clear animal etiology
+    function.
+  cautions: Could overlap with cosmic_origin if the habitat distribution is part of
+    world formation; label alone suggests animal-specific etiology.
+  suggested_aliases:
+  - animal_habitat_etiology
+  - origin_of_animal_dwellings
+  - origin_of_animal_places
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-animal-traits-through-a-primordial-incident
+  motif_id: origin_of_animal_traits_through_a_primordial_incident
+  label: origin of animal traits through a primordial incident
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: high
+  rationale: The label explicitly combines animal trait etiology with a primordial
+    causal event.
+  cautions: If the incident is part of wider creation ordering, consider secondary
+    relation to cosmic_origin.
+  suggested_aliases:
+  - animal_trait_etiology
+  - primordial_animal_etiology
+  - origin_of_animal_traits
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-animal-traits-through-transformation
+  motif_id: origin_of_animal_traits_through_transformation
+  label: origin of animal traits through transformation
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is both etiological and transformational; an animal etiology
+    group preserves the origin function while relating to shapeshifter.
+  cautions: Do not collapse into shapeshifter alone if the point is explaining current
+    species traits rather than identity instability.
+  suggested_aliases:
+  - transformation_origin_of_animal_traits
+  - animal_trait_etiology
+  - origin_of_animal_traits
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-animals-living-in-separate-habitats
+  motif_id: origin_of_animals_living_in_separate_habitats
+  label: origin of animals living in separate habitats
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: Explains distribution of animals into separate habitats, fitting animal
+    habitat etiology.
+  cautions: Could be ecological world-ordering rather than animal-specific if embedded
+    in creation narrative; review source passage.
+  suggested_aliases:
+  - animal_habitat_etiology
+  - separate_animal_habitats_explained
+  - origin_of_animal_habitats
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+- suggestion_id: normalization.suggestion.origin-of-bird-coloration-through-contact-with-a-light
+  motif_id: origin_of_bird_coloration_through_contact_with_a_light
+  label: origin of bird coloration through contact with a light
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: Bird coloration is a specific animal trait origin; light is the causal
+    detail rather than the broader motif class.
+  cautions: May have secondary sacred_fire or solar symbolism if the light is divine
+    or cosmological; preserve that detail in evidence notes.
+  suggested_aliases:
+  - bird_coloration_etiology
+  - origin_of_bird_coloration
+  - animal_marking_etiology
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Stories explaining the origin of animal traits, markings, habits,
+      habitats, rivalries, or present species characteristics, often through primordial
+      incidents, trickster episodes, punishment, or transformation.
+    parent_group_ids:
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    - sacred_fire
+    reason_existing_groups_insufficient: Existing groups cover trickster boundary-crossing
+      and transformation, but not the recurring etiological function of explaining
+      present animal traits, habits, and habitats.
+batch_notes:
+- All items in this batch form a coherent animal-etiology cluster. A new normalization
+  group is suggested because mapping them only to trickster or shapeshifter would
+  lose the etiological function of explaining present animal traits, habitats, markings,
+  and relations.
+- Occurrences are single-item labels, so the candidate group should be reviewed against
+  additional unmapped animal-origin labels before promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0856
+  input_sha256: '0099798c4415316d3ac0517812377115647646c9573e0cc1d5da63841e956f45'
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1046
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enemy-head-cast-before-opposing-leader
+  motif_id: enemy_head_cast_before_opposing_leader
+  label: Enemy head cast before opposing leader
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A severed enemy head presented before an opposing leader fits martial
+    proof, trophy display, and heroic combat aftermath already represented under divine_warrior
+    children.
+  cautions: Single occurrence and scene-specific; if the emphasis is intimidation
+    rather than heroic proof, sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - enemy head displayed before leader
+  - severed head as martial proof
+  - enemy head as war trophy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-host-lands-before-decisive-battle
+  motif_id: enemy_host_lands_before_decisive_battle
+  label: enemy host lands before decisive battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The arrival of an enemy host before a decisive battle is a battle-sequence
+    setup rather than a distinct symbolic motif, but best fits the sacred_combat warfare
+    cluster if retained.
+  cautions: May be only a plot or passage artifact; verify that the landing itself
+    has recurring ritual, omen, or threshold significance before indexing.
+  suggested_aliases:
+  - enemy army arrives before battle
+  - host landing before battle
+  - enemy force arrives for decisive combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-kept-alive-long-enough-to-report-defeat
+  motif_id: enemy_kept_alive_long_enough_to_report_defeat
+  label: enemy kept alive long enough to report defeat
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sparing an enemy as messenger of defeat functions as martial communication,
+    humiliation, and post-battle dominance within the combat complex.
+  cautions: Could also be royal authority or mercy/refusal of mercy depending on passage
+    framing; source context is needed.
+  suggested_aliases:
+  - survivor sent to report defeat
+  - enemy spared as defeat messenger
+  - defeated foe made witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-lineage-slain-by-hero
+  motif_id: enemy_lineage_slain_by_hero
+  label: Enemy lineage slain by hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A hero destroying an enemy lineage belongs to heroic combat and vengeance
+    patterns under divine_warrior or sacred combat.
+  cautions: If the focus is feud, dynastic succession, or extermination of kin rather
+    than sacred combat, human review may prefer another social-order mapping.
+  suggested_aliases:
+  - hero slays enemy kin-line
+  - enemy family destroyed by hero
+  - heroic destruction of enemy lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-morale-collapses-before-renowned-champion
+  motif_id: enemy_morale_collapses_before_renowned_champion
+  label: Enemy morale collapses before renowned champion
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The renowned champion's presence defeating enemy morale reflects the
+    heroic warrior role and sacred-combat prestige rather than a separate motif.
+  cautions: Could be conventional epic hyperbole; retain as granular evidence unless
+    it recurs across sources.
+  suggested_aliases:
+  - enemy fear before champion
+  - champion's reputation breaks enemy morale
+  - foes panic before hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-mutilation-by-cutting-strips-from-the-back
+  motif_id: enemy_mutilation_by_cutting_strips_from_the_back
+  label: enemy mutilation by cutting strips from the back
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a highly specific violent mutilation whose narrative
+    or ritual function is unclear from the label alone.
+  cautions: Culturally and graphically specific; may be torture, punishment, trophy-taking,
+    ordeal, or passage detail. Do not normalize broadly without source evidence.
+  suggested_aliases:
+  - enemy flayed or mutilated
+  - back-strips cut from enemy
+  - ritualized enemy mutilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-or-hazard-mastered-by-consumption
+  motif_id: enemy_or_hazard_mastered_by_consumption
+  label: enemy or hazard mastered by consumption
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Mastery through consumption could involve combat, ingestion transformation,
+    ritual absorption, trickster action, or sacred substance depending on the passage.
+  cautions: Avoid mapping to sacrifice or death-transformation without evidence that
+    consumption transforms, neutralizes, or ritually incorporates the hazard.
+  suggested_aliases:
+  - hazard overcome by eating
+  - enemy mastered through ingestion
+  - consumption as conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-remains-displayed-as-warning-or-taunt
+  motif_id: enemy_remains_displayed_as_warning_or_taunt
+  label: enemy remains displayed as warning or taunt
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Displaying enemy remains as warning or taunt fits martial trophy display
+    and combat proof within the divine_warrior group.
+  cautions: If the display is legal punishment, boundary marking, or mortuary desecration
+    rather than combat prestige, sacred_law or heroic_funeral_rites may be relevant.
+  suggested_aliases:
+  - enemy remains as warning
+  - enemy body displayed as taunt
+  - martial trophy display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-s-attendant-praises-the-approaching-hero
+  motif_id: enemy_s_attendant_praises_the_approaching_hero
+  label: enemy's attendant praises the approaching hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: Praise of the approaching hero by an enemy's attendant reinforces the
+    champion's martial status and fearsome reputation.
+  cautions: Likely an episode-specific speech scene; if the speech act itself is performative
+    or prophetic, curse_blessing_speech or prophecy_divination may be secondary.
+  suggested_aliases:
+  - foe's attendant praises hero
+  - enemy retainer recognizes champion
+  - praise of approaching champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-s-extraordinary-steeds-as-martial-prize
+  motif_id: enemy_s_extraordinary_steeds_as_martial_prize
+  label: enemy's extraordinary steeds as martial prize
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Extraordinary steeds taken as a martial prize function as power-bearing
+    possessions won through combat, aligning with sacred treasures and martial objects.
+  cautions: If the emphasis is battle spoils or warrior honor rather than the steeds'
+    supernatural quality, sacred_combat or divine_warrior may be a better primary
+    mapping.
+  suggested_aliases:
+  - extraordinary steeds won in battle
+  - enemy horses as heroic prize
+  - marvelous steeds as war spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence martial episode details; preserve
+  as evidence details unless recurrence or ritual/symbolic function is confirmed.
+- Several items could sit between divine_warrior and sacred_combat; suggested placement
+  favors the more specific role/object function when visible from the label.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for whether these are motifs or plot artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1046
+  input_sha256: 2f1093dfe868b0513dcf58420e55478137649e0976d440ebe95c1a4ccb66bcfe
+

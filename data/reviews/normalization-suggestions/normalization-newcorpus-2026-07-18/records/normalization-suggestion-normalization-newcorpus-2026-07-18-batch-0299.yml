@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0299
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-instruction-fulfilled-and-blessed
+  motif_id: divine_instruction_fulfilled_and_blessed
+  label: divine instruction fulfilled and blessed
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fulfilling divine instruction and receiving blessing fits obedience within
+    a sacred bond or command structure.
+  cautions: Could instead fit divine_intervention or divine_judgment if the passage
+    emphasizes direct reward or punishment rather than covenantal obedience.
+  suggested_aliases:
+  - obedience_to_divine_instruction
+  - divine_command_fulfilled
+  - blessing_for_obedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-insult-contest
+  motif_id: divine_insult_contest
+  label: divine insult contest
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest of divine insults centers on charged speech acts between sacred
+    figures.
+  cautions: If the Norse passage is primarily flyting as social performance rather
+    than binding speech, storytelling_as_power or a future contest-speech group may
+    be better.
+  suggested_aliases:
+  - divine_flyting
+  - sacred_insult_contest
+  - competitive_divine_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-alters-combat-outcome
+  motif_id: divine_intervention_alters_combat_outcome
+  label: divine intervention alters combat outcome
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes divine action changing the result of human
+    combat.
+  cautions: Secondary indexing to sacred_combat may be useful when the battle itself
+    is ritually or cosmically significant.
+  suggested_aliases:
+  - divine_aid_in_battle
+  - god_alters_battle_outcome
+  - divine_combat_intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-changes-a-contest-outcome
+  motif_id: divine_intervention_changes_a_contest_outcome
+  label: divine intervention changes a contest outcome
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A god or sacred power directly changes the result of a human contest.
+  cautions: If the contest determines kingship, marriage, or judgment, royal_legitimacy,
+    sacred_love, or divine_judgment may be relevant secondary groups.
+  suggested_aliases:
+  - god_changes_contest_outcome
+  - divine_aid_in_contest
+  - supernatural_contest_intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-halts-battle
+  motif_id: divine_intervention_halts_battle
+  label: divine intervention halts battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is direct divine action interrupting or stopping armed conflict.
+  cautions: Could also support sacred_combat if the halt preserves cosmic or ritual
+    order; avoid treating every battle scene as sacred combat without evidence.
+  suggested_aliases:
+  - god_halts_battle
+  - divine_battle_stoppage
+  - supernatural_battle_interruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-in-battle-through-a-terror-bearing-object
+  motif_id: divine_intervention_in_battle_through_a_terror_bearing_object
+  label: Divine intervention in battle through a terror-bearing object
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is divine agency affecting battle through a charged
+    object.
+  cautions: The object detail may also belong under sacred_treasures, but the label
+    is likely too specific to make the object a standalone motif.
+  suggested_aliases:
+  - divine_battle_object
+  - terror_bearing_divine_object
+  - supernatural_object_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-in-mortal-battle
+  motif_id: divine_intervention_in_mortal_battle
+  label: divine intervention in mortal battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: alias
+  confidence: high
+  rationale: This is a direct alias for divine action in human affairs during battle.
+  cautions: Use sacred_combat only where the battle has sacred, ritual, or cosmic-order
+    significance beyond ordinary warfare.
+  suggested_aliases:
+  - divine_aid_in_mortal_battle
+  - god_intervenes_in_battle
+  - divine_combat_intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-restores-a-fallen-warrior
+  motif_id: divine_intervention_restores_a_fallen_warrior
+  label: Divine intervention restores a fallen warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine power restores a warrior, making sacred aid the main narrative
+    function.
+  cautions: If the warrior is literally dead and raised, map secondarily to resurrection
+    or death_and_transformation; if only healed or rallied, keep under divine_intervention.
+  suggested_aliases:
+  - divine_restoration_of_warrior
+  - god_restores_fallen_warrior
+  - supernatural_warrior_revival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-to-prevent-destruction-of-one-side
+  motif_id: divine_intervention_to_prevent_destruction_of_one_side
+  label: divine intervention to prevent destruction of one side
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes divine action preserving a party from destruction.
+  cautions: Could overlap with divine_judgment if the preservation expresses moral
+    reckoning, or sacred_combat if it determines a ritually significant war.
+  suggested_aliases:
+  - divine_preservation_in_battle
+  - god_prevents_annihilation
+  - supernatural_protection_of_one_side
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-knowledge-identified-with-divine-essence
+  motif_id: divine_knowledge_identified_with_divine_essence
+  label: divine knowledge identified with divine essence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns sacred knowledge as an aspect of divine reality or
+    essence.
+  cautions: May be a theological or commentary artifact rather than a narrative motif;
+    review source evidence before broad pattern use.
+  suggested_aliases:
+  - knowledge_as_divine_essence
+  - divine_knowledge_as_being
+  - sacred_knowledge_identified_with_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Greek battle labels are close variants of divine_intervention and may be
+  consolidated as aliases rather than separate query motifs.
+- Combat-related divine intervention can receive secondary review against sacred_combat
+  or divine_warrior when the passage emphasizes cosmic order, heroic warfare, or sacred
+  combat rather than general divine aid.
+- Single-occurrence theological abstraction should be checked for whether it is a
+  passage motif or doctrinal/commentary wording.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should confirm source context and
+    secondary mappings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0299
+  input_sha256: a15118aaa7ed09b8765ca15b3e0ba5cf7a4c984515d7eacd2e99b716d7f49f64
+

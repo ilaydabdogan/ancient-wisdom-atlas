@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l3313-l3349
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: EPIC  SONGS   OF  RUSSIA.  77 / EPIC  SONGS   OF  RUSSIA. / EPIC  SONGS   OF  RUSSIA.  79
+    / EPIC  SONGS   OF  RUSSIA.  81; lines 3313-3349
+  start: '3313'
+  end: '3349'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A dangerous road is said to be blocked by Nightingale the Robber, a magic
+    bird whose whistle devastates forest and riders. Ilya the Old Cossack takes the
+    straight road, crossing mountains, a bog, and the river Mother Smorodina with
+    his steed Cloudfall before encountering Nightingale in a nest on seven oaks; Nightingale
+    emits flame and terrifying sounds, and Cloudfall falls to his knees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The road includes a third barrier identified as Nightingale the Robber beside
+    the Black Morass and a river.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nightingale the Robber is described as a magic bird who has built a nest on
+    seven oaks.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nightingale's whistle makes the dark forest bow, the green leaves wither,
+    and horse and rider fall as dead; the road has not been traveled for thirty years.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ilya the Old Cossack mounts his good steed and rides the straight way after
+    hearing the warning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the lofty mountains, Ilya's steed rises from the earth and soars like a
+    bright falcon over the mountains and tall forests.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the Black Morass, Ilya plucks great oaks with one hand and throws them
+    across the shaking bog for thirty versts while leading Cloudfall with the other
+    hand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At Mother Smorodina, Ilya strikes his steed's sides, and the horse clears
+    the river in one bound.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Nightingale sits in his nest on seven oaks and thrusts out his head while
+    sparks and flame pour from his mouth and nostrils.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Nightingale pipes like a nightingale, roars like an aurochs, and hisses like
+    a dragon; Cloudfall falls on his knees, and Ilya beats the horse.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ilya the Old Cossack
+  description: A rider who hears the warning, mounts his steed, takes the straight
+    road, and confronts the obstacles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Cloudfall
+  description: Ilya's good heroic steed, who soars over mountains, leaps the river,
+    and later falls to his knees under Nightingale's sounds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Nightingale the Robber / the Magic Bird
+  description: A robber and magic bird who lives in a nest on seven oaks, blocks the
+    road, emits deadly sounds, and produces sparks and flame from mouth and nostrils.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: barrier-crossing rider
+  assigned_to:
+  - fig:1
+  basis: Ilya takes the straight road and actively crosses mountains, bog, and river
+    before the encounter with Nightingale.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: heroic steed
+  assigned_to:
+  - fig:2
+  basis: Cloudfall carries Ilya over mountain and river obstacles and is explicitly
+    called a heroic steed in the encounter scene.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: supernatural road-blocking adversary
+  assigned_to:
+  - fig:3
+  basis: Nightingale is named as the third barrier; his whistle prevents travel and
+    harms forest, horse, and rider.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: seven-oak nest
+  literal_form: Nightingale's nest on seven oaks
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: deadly whistle and voice
+  literal_form: whistling, piping, roaring, and hissing that cause collapse or death-like
+    effects
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: lofty mountains
+  literal_form: lofty mountains crossed by the rising, falcon-like steed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Black Morass
+  literal_form: shaking bog crossed with great oaks thrown across it
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Mother Smorodina river
+  literal_form: river cleared by the horse in one bound
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: mouth and nostril fire
+  literal_form: sparks and flame pouring from Nightingale's mouth and nostrils
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: dragon-like hiss
+  literal_form: Nightingale hissing like a dragon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Warning about the blocked road
+  summary: The road is described as blocked by Nightingale the Robber, a magic bird
+    in a seven-oak nest whose whistle devastates forest and riders and has kept travelers
+    away for thirty years.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Crossing the mountains
+  summary: Ilya rides the straight way, and Cloudfall rises from the earth and soars
+    over the lofty mountains and forests.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Crossing the Black Morass
+  summary: Ilya makes a passage across the shaking bog by plucking great oaks and
+    throwing them across it while leading Cloudfall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Crossing Mother Smorodina
+  summary: Ilya urges his steed, and Cloudfall clears the river in a single bound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Encounter with Nightingale
+  summary: Nightingale appears in the seven-oak nest with flame from mouth and nostrils,
+    makes bird-like, aurochs-like, and dragon-like sounds, and Cloudfall falls to
+    his knees while Ilya strikes him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: lost road guarded by a supernatural adversary
+  taxonomy_refs:
+  - mystical_quest
+  basis: The road has not been traveled for thirty years because Nightingale's whistle
+    harms travelers, and Ilya deliberately rides the straight way toward him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage provides only this segment of the journey; the broader quest
+    context is not included.
+- id: motif:2
+  label: extraordinary steed crossing natural barriers
+  taxonomy_refs:
+  - ascent
+  basis: Cloudfall rises from the earth and soars over mountains, then later clears
+    a river in one bound.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The ascent taxonomy is supported by the horse's rising and flight over
+    mountains, but the passage does not present a full ascent-to-heaven pattern.
+- id: motif:3
+  label: deadly supernatural voice
+  taxonomy_refs: []
+  basis: Nightingale's whistle withers leaves, makes horse and rider fall as dead,
+    and later causes Cloudfall to fall to his knees.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: No external motif index is cited; this is a passage-level motif candidate.
+- id: motif:4
+  label: hero creates passage through a bog
+  taxonomy_refs: []
+  basis: Ilya plucks great oaks and throws them across the shaking bog for thirty
+    versts to cross the Black Morass.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not state a ritual or cosmological meaning for the improvised
+    causeway.
+- id: motif:5
+  label: dragon-like fiery adversary
+  taxonomy_refs:
+  - serpent
+  basis: Nightingale emits sparks and flame from mouth and nostrils and hisses like
+    a dragon.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: Nightingale is called a robber and magic bird, not a serpent; the serpent-family
+    link rests only on dragon-like simile and fire imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3313-3324
+  quote_or_summary: The third barrier is Nightingale the Robber, a magic bird with
+    a nest on seven oaks; his whistle bows the forest, withers leaves, makes horse
+    and rider fall as dead, and has kept the road unused for thirty years.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source metadata; summarized without extended quotation.
+- id: ev:2
+  type: summary
+  locator: 3325-3327
+  quote_or_summary: Ilya the Old Cossack hears the warning, mounts his good steed,
+    and rides the straight way.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source metadata; summarized without extended quotation.
+- id: ev:3
+  type: summary
+  locator: 3327-3331
+  quote_or_summary: At the lofty mountains, Ilya's steed rises from the damp earth
+    and soars like a bright falcon over the mountains and forests.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source metadata; summarized without extended quotation.
+- id: ev:4
+  type: summary
+  locator: 3331-3335
+  quote_or_summary: At the Black Morass, Ilya plucks great oaks and throws them across
+    the shaking bog for thirty versts while leading Cloudfall.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source metadata; summarized without extended quotation.
+- id: ev:5
+  type: summary
+  locator: 3335-3338
+  quote_or_summary: At Mother Smorodina, Ilya strikes the steed's sides and the horse
+    clears the river in a single bound.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source metadata; summarized without extended quotation.
+- id: ev:6
+  type: summary
+  locator: 3339-3349
+  quote_or_summary: Nightingale sits in the nest on seven oaks, puts out his head,
+    emits sparks and flame from mouth and nostrils, makes nightingale-like, aurochs-like,
+    and dragon-like sounds, and Cloudfall falls to his knees as Ilya strikes him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source metadata; summarized without extended quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is clear from the supplied passage. Motif taxonomy links
+    are cautious because the excerpt is a short episode and provides limited broader
+    narrative context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Uses only the supplied passage and metadata; comparison_claims left empty because the passage itself does not make an explicit cross-tradition comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l3313-l3349
+  passage_sha256=c26fcd492cf14aff21c7de9299ebd40c62812cd6ae46e7631506ea43388a6c1e
+

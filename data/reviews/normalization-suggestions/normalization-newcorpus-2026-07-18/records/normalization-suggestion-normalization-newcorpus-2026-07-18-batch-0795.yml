@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0795
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-elder-provides-an-extraordinary-hunting-weapon
+  motif_id: animal_elder_provides_an_extraordinary_hunting_weapon
+  label: Animal elder provides an extraordinary hunting weapon
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is bestowal of a powerful weapon, which fits sacred
+    or extraordinary power objects.
+  cautions: Animal-elder agency may also involve animal helper, culture hero, or tutelary
+    spirit functions; source context should confirm the weapon, not the animal role,
+    is central.
+  suggested_aliases:
+  - extraordinary_hunting_weapon
+  - animal_elder_gifts_weapon
+  - animal_helper_bestows_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-emblems-of-martial-power
+  motif_id: animal_emblems_of_martial_power
+  label: animal emblems of martial power
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animal emblems serve as symbols of martial force and warrior authority,
+    fitting the sacred-combat/warrior power field.
+  cautions: If the passage is merely heraldic or descriptive imagery without narrative
+    function, it may be too thin for pattern queries.
+  suggested_aliases:
+  - animal_symbols_of_martial_power
+  - animal_war_emblems
+  - martial_animal_emblems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-encounter-or-paired-animal-tale-title
+  motif_id: animal_encounter_or_paired_animal_tale_title
+  label: animal encounter or paired animal tale title
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording identifies a tale-title or classification artifact rather
+    than a specific motif or narrative function.
+  cautions: If the underlying passage contains a recurring animal-pair conflict or
+    trickster episode, remap that evidence separately under a substantive group.
+  suggested_aliases:
+  - paired_animal_tale_title
+  - animal_tale_title
+  - animal_encounter_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-enemies-plot-revenge-against-a-dangerous-human
+  motif_id: animal_enemies_plot_revenge_against_a_dangerous_human
+  label: animal enemies plot revenge against a dangerous human
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Plotting revenge by animal antagonists resembles animal-fable strategy
+    and boundary-crossing conflict currently parked under trickster.
+  cautions: Could instead belong to a future animal adversary or revenge-fable group;
+    source context is needed to avoid overreading trickster function.
+  suggested_aliases:
+  - animal_revenge_plot
+  - animals_plot_against_hunter
+  - animal_enemies_seek_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-escape-leading-to-fatal-pursuit
+  motif_id: animal_escape_leading_to_fatal_pursuit
+  label: Animal escape leading to fatal pursuit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to determine whether the core pattern is
+    pursuit, hunting taboo, animal trickery, or death by fate.
+  cautions: May be an episode-specific plot detail rather than a durable motif; review
+    the passage before assigning to trickster, sacred_combat, or death-related groups.
+  suggested_aliases:
+  - escaped_animal_fatal_pursuit
+  - fatal_pursuit_after_animal_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-faced-punishers-in-punitive-realms
+  motif_id: animal_faced_punishers_in_punitive_realms
+  label: Animal-faced punishers in punitive realms
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Punitive realms with punishers fit mapped afterlife landscapes involving
+    judgment, peril, and postmortem stages.
+  cautions: Animal-faced iconography should be preserved as local evidence; if emphasis
+    is judgment rather than route, divine_judgment may be a secondary group.
+  suggested_aliases:
+  - animal_faced_afterlife_punishers
+  - punishers_in_punitive_realms
+  - animal_faced_tormentors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-feather-lure-in-emu-hunting
+  motif_id: animal_feather_lure_in_emu_hunting
+  label: animal-feather lure in emu hunting
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a practical hunting technique, ritual lure, disguise,
+    or passage-specific ethnographic detail.
+  cautions: Do not map to shapeshifter or trickster unless the source shows transformation,
+    deception, or sacred function beyond hunting practice.
+  suggested_aliases:
+  - feather_lure_in_hunting
+  - emu_hunting_feather_lure
+  - animal_feather_hunting_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-feature-caused-by-injury-during-escape
+  motif_id: animal_feature_caused_by_injury_during_escape
+  label: animal feature caused by injury during escape
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Etiological Animal Features
+  relationship: child
+  confidence: medium
+  rationale: This is an origin explanation for an animal trait, not well captured
+    by existing transformation or trickster groups.
+  cautions: Single occurrence; only promote if similar animal-trait etiologies recur
+    across sources. Could map to cosmic_origin only in its broad etiological sense,
+    but that would obscure animal-specific meaning.
+  suggested_aliases:
+  - animal_trait_etiology
+  - origin_of_animal_feature
+  - animal_feature_from_injury
+  suggested_new_group:
+    id: animal_trait_etiology
+    label: Etiological Animal Features
+    description: Stories explaining the origin of an animal's bodily feature, behavior,
+      marking, or species trait through a mythic event, injury, punishment, escape,
+      or transformation.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover cosmic/place origins
+      and bodily transformation, but not recurring explanatory tales for animal traits
+      as etiological outcomes.
+- suggestion_id: normalization.suggestion.animal-form-detail-on-hunting-gear
+  motif_id: animal_form_detail_on_hunting_gear
+  label: Animal-form detail on hunting gear
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The wording reads as a material-culture detail on an object rather than
+    a narrative or symbolic motif.
+  cautions: If the animal form has protective, totemic, or power-object function,
+    remap under sacred_treasures or sacred_law with passage evidence.
+  suggested_aliases:
+  - animal_detail_on_hunting_gear
+  - animal_form_hunting_gear
+  - animal_motif_on_tool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-dexterity-game-with-sequential-catches
+  motif_id: animal_form_dexterity_game_with_sequential_catches
+  label: animal-form dexterity game with sequential catches
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a highly specific game or performance detail, not
+    a reusable mythic motif from the label alone.
+  cautions: If the game functions ritually, divinatorily, or as initiation, review
+    for sacred_time, prophecy_divination, or initiation rather than excluding outright.
+  suggested_aliases:
+  - animal_form_game
+  - dexterity_game_with_sequential_catches
+  - animal_catch_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal or hunting details; source
+  context is needed before treating them as durable motifs.
+- Consider whether recurring animal-trait origin stories warrant a stable animal_trait_etiology
+  group rather than being dispersed under cosmic_origin or shapeshifter.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    hunting and animal-agency labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0795
+  input_sha256: ea7141418e42b9eaa645bf06e101c61a8559564cc706d7e582c6ba545e9a58b0
+

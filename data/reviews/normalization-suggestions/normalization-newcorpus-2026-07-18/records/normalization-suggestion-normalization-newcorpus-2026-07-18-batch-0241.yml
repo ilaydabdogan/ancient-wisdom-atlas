@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0241
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.worshipper-assimilates-to-the-worshipped
+  motif_id: worshipper_assimilates_to_the_worshipped
+  label: worshipper assimilates to the worshipped
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label suggests devotional or contemplative identity-transformation
+    in which separateness dissolves into the sacred object of worship.
+  cautions: Single occurrence and wording may reflect theological commentary rather
+    than a narrative motif; Hindu source context should be reviewed before indexing
+    as mystical union.
+  suggested_aliases:
+  - devotee_assimilates_to_deity
+  - assimilation_to_the_worshipped
+  - worshipper_becomes_like_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrecked-or-broken-ship-as-crisis-marker
+  motif_id: wrecked_or_broken_ship_as_crisis_marker
+  label: wrecked or broken ship as crisis marker
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'as crisis marker' reads like a narrative-analytic note about
+    an episode marker rather than a durable symbolic motif.
+  cautions: If passage evidence shows shipwreck as an ordeal leading to transformation,
+    it could be reconsidered under hero_journey or sacred_waters; label alone is too
+    contextual.
+  suggested_aliases:
+  - shipwreck_as_crisis_marker
+  - broken_ship_crisis_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.year-long-punitive-animal-exile-and-restoration
+  motif_id: year_long_punitive_animal_exile_and_restoration
+  label: Year-long punitive animal exile and restoration
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punitive animal existence followed by restoration fits transformation
+    into or through animal form.
+  cautions: The year-long exile component may also involve initiation, divine judgment,
+    or return; preserve the temporal punishment details as evidence rather than a
+    canonical label.
+  suggested_aliases:
+  - punitive_animal_transformation_and_restoration
+  - animal_exile_and_restoration
+  - temporary_animal_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-light-opposed-but-perfected
+  motif_id: divine_light_opposed_but_perfected
+  label: Divine light opposed but perfected
+  occurrences: 2
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine light as opposed yet completed belongs to sacred light imagery
+    as divine presence or cosmic principle.
+  cautions: In Islamic contexts this may be doctrinal or polemical speech rather than
+    a narrative motif; avoid mapping to combat unless an opponent narrative is explicit.
+  suggested_aliases:
+  - divine_light_perfected
+  - sacred_light_opposed
+  - completion_of_divine_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-provision-through-ordered-creation
+  motif_id: divine_provision_through_ordered_creation
+  label: Divine provision through ordered creation
+  occurrences: 2
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes divine care and provision operating through the
+    created order, matching miraculous or providential support.
+  cautions: Could alternatively fit cosmic_origin if the passage focuses on creation
+    itself, or sacred_law if the point is ethical gratitude for provision.
+  suggested_aliases:
+  - providence_through_creation
+  - divine_provision_in_creation
+  - ordered_creation_as_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-by-sacred-natural-objects-and-places
+  motif_id: oath_by_sacred_natural_objects_and_places
+  label: Oath by sacred natural objects and places
+  occurrences: 2
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: Oaths are performative sacred speech acts, and the invoked natural objects
+    or places mark the oath's sacred witness or authority.
+  cautions: If the main emphasis is the sanctity of a place or natural object rather
+    than the oath act, secondary mapping to axis_mundi, sacred_waters, or sacred_fire
+    may be useful.
+  suggested_aliases:
+  - oath_by_sacred_places
+  - oath_by_natural_witnesses
+  - sacred_oath_by_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-of-divine-signs-followed-by-satanic-seduction
+  motif_id: abandonment_of_divine_signs_followed_by_satanic_seduction
+  label: Abandonment of divine signs followed by Satanic seduction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting divine signs and then falling under satanic seduction functions
+    as moral consequence after abandoning sacred guidance.
+  cautions: Could also be sacred_knowledge if the focus is ignored revelation, or
+    pride_and_downfall if the narrative centers on arrogance; review source evidence.
+  suggested_aliases:
+  - rejection_of_divine_signs_and_satanic_seduction
+  - abandoned_revelation_followed_by_seduction
+  - divine_signs_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abducted-daughter-held-by-fiends-after-parental-curse
+  motif_id: abducted_daughter_held_by_fiends_after_parental_curse
+  label: Abducted daughter held by fiends after parental curse
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The parental curse appears to trigger or authorize the daughter's supernatural
+    captivity, making performative speech the key function.
+  cautions: Also overlaps with stolen_beloved, otherworld, or threshold-guardian captivity;
+    single composite label should not become canonical without more evidence.
+  suggested_aliases:
+  - parental_curse_leads_to_abduction
+  - curse_causes_supernatural_captivity
+  - abducted_daughter_after_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abraham-as-divine-friend-and-exemplar
+  motif_id: abraham_as_divine_friend_and_exemplar
+  label: Abraham as divine friend and exemplar
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a specific sacred figure and exemplary status rather
+    than a clearly reusable narrative motif.
+  cautions: May belong under covenant, sacred_exchange, divine_beloved, or sacred_law
+    depending on whether the passage emphasizes friendship with God, exemplary obedience,
+    sacrifice, or monotheistic model; avoid person-only indexing.
+  suggested_aliases:
+  - divine_friend_and_exemplar
+  - abrahamic_exemplar
+  - friend_of_god_as_model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-holy-figure-sends-healing-emissary
+  motif_id: absent_holy_figure_sends_healing_emissary
+  label: Absent holy figure sends healing emissary
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing mediated by an emissary of a holy figure fits sacred intervention
+    in human affairs through a messenger or agent.
+  cautions: If the emissary is a relic, letter, or object rather than a person, sacred_treasures
+    or storytelling_as_power may be relevant; context needed.
+  suggested_aliases:
+  - healing_emissary_from_absent_holy_figure
+  - holy_figure_sends_healer
+  - mediated_healing_by_emissary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims of transmission or common origin.
+- Several single-occurrence labels are composite or commentary-like; preserve source
+  details as evidence notes where mapped.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Human review recommended for culturally specific theological labels and single-occurrence
+    composite episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0241
+  input_sha256: e71dee2ee035f8063c3fd10e5e1205c995b7bf7680952909267b7640cc649a11
+

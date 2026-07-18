@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0244
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.affliction-from-prior-hostile-contact-and-ritual-cure
+  motif_id: affliction_from_prior_hostile_contact_and_ritual_cure
+  label: Affliction from prior hostile contact and ritual cure
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a ritual diagnosis and cure for harmful contact,
+    close to existing spirit-contagion and apotropaic-protection items under sacred_law.
+  cautions: Culturally specific healing traditions should be reviewed with source
+    context; could instead fit divine_intervention or sacrifice if a spirit agent
+    or offering is central.
+  suggested_aliases:
+  - ritual_cure_for_hostile_contact
+  - spirit_contagion_and_ritual_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-bounded-ritual-service
+  motif_id: age_bounded_ritual_service
+  label: Age-bounded ritual service
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule limiting ritual service by age is a sacred legal or ritual-order
+    prescription rather than a sacrifice motif itself.
+  cautions: May be too specific to priestly administration; exclude if it is only
+    a passage detail without recurring motif value.
+  suggested_aliases:
+  - ritual_service_age_limit
+  - age_limited_priestly_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-ending-prophecy-of-sacred-sign-and-eastern-strangers
+  motif_id: age_ending_prophecy_of_sacred_sign_and_eastern_strangers
+  label: age-ending prophecy of sacred sign and eastern strangers
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines prophecy, sacred signs, strangers, and an age-ending
+    frame; prophecy_divination is plausible but not sufficient without source evidence.
+  cautions: Could involve world ages, colonial-era interpretation, omen tradition,
+    or textual/historical commentary; avoid treating it as transmission or historical-contact
+    evidence in this task.
+  suggested_aliases:
+  - age_ending_prophecy
+  - prophecy_of_sacred_sign_and_strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-fertility-and-sacred-food
+  motif_id: agricultural_fertility_and_sacred_food
+  label: agricultural fertility and sacred food
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sacred food tied to fertility fits the sacred_substance group, with possible
+    ritual or agricultural recurrence links.
+  cautions: If the passage centers on seasonal ritual rather than food substance,
+    sacred_time may be a better secondary mapping; if an offering is central, sacrifice
+    may apply.
+  suggested_aliases:
+  - sacred_food_and_fertility
+  - agricultural_sacred_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-pervading-divine-body-and-light
+  motif_id: all_pervading_divine_body_and_light
+  label: all-pervading divine body and light
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: An all-pervading divine body and light describes a manifestation or vision
+    of divine presence, close to cosmic vision and many-formed theophany.
+  cautions: Could also support sacred_fire if light is the main symbol, or mystical_quest
+    if the focus is contemplative realization.
+  suggested_aliases:
+  - cosmic_divine_body
+  - divine_body_of_light
+  - all_pervading_theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-seeing-divine-high-seat
+  motif_id: all_seeing_divine_high_seat
+  label: all-seeing divine high-seat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine high-seat that grants all-seeing authority fits sacred sovereignty
+    and the ruler’s elevated seat as an ordering center.
+  cautions: May also fit sacred_knowledge if the emphasis is omniscient sight, or
+    axis_mundi if the seat functions cosmologically as a world center.
+  suggested_aliases:
+  - divine_high_seat
+  - all_seeing_throne
+  - omniscient_ruler_seat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alluring-outsiders-perceived-as-threats-to-ascetic-rites
+  motif_id: alluring_outsiders_perceived_as_threats_to_ascetic_rites
+  label: alluring outsiders perceived as threats to ascetic rites
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Threats to ascetic practice fit the discipline and temptation dimension
+    of a contemplative or renunciatory quest.
+  cautions: The wording may encode social or gendered perspective and needs review;
+    if it is mainly ritual pollution or prohibition, sacred_law may fit better.
+  suggested_aliases:
+  - ascetic_rite_threatened_by_allure
+  - temptation_of_ascetic_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ally-rebukes-inactive-leader-to-defend-city-family-and-altars
+  motif_id: ally_rebukes_inactive_leader_to_defend_city_family_and_altars
+  label: Ally rebukes inactive leader to defend city, family, and altars
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The scene urges martial defense of civic and sacred order, fitting sacred_combat
+    more than ritual practice.
+  cautions: Highly episode-specific and may be a rhetorical passage detail; if the
+    rebuke of leadership is central, royal_legitimacy or sacred_law could be secondary.
+  suggested_aliases:
+  - rebuke_to_defend_sacred_city
+  - defense_of_city_family_and_altars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.altar-at-place-of-settlement
+  motif_id: altar_at_place_of_settlement
+  label: altar at place of settlement
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: An altar established at a settlement marks sacred place and organizes
+    inhabited space around a divine-human meeting point.
+  cautions: Could fit sacrifice if the altar’s offering function is emphasized, or
+    covenant if it memorializes a sacred promise.
+  suggested_aliases:
+  - settlement_altar
+  - altar_marking_sacred_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.altar-name-proclaiming-divine-banner
+  motif_id: altar_name_proclaiming_divine_banner
+  label: altar name proclaiming divine banner
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A named altar proclaiming a divine banner points to sacred victory, divine
+    war leadership, and communal protection after conflict.
+  cautions: If the naming mainly memorializes covenant or worship rather than combat,
+    world_center or covenant may be preferable.
+  suggested_aliases:
+  - divine_banner_altar
+  - altar_proclaiming_sacred_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be passage-specific;
+  preserve local evidence notes even when mapping to a broad group.
+- For ritual healing and ascetic labels, human review should check culturally specific
+  wording and avoid overgeneralization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0244
+  input_sha256: e02c4ee8ce7a88329f5df679204bf142b8e469d4a9f9d6ab6ad483d402f06fe3
+

@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0913
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fall-associated-with-a-tree
+  motif_id: fall_associated_with_a_tree
+  label: fall associated with a tree
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too brief to tell whether the tree functions as axis, death-transformation,
+    accident setting, or episode detail.
+  cautions: Single occurrence; do not map to sacred_tree_axis unless the tree has
+    sacred-center or realm-connecting function.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-fighter-compared-to-fish-cast-ashore-by-water
+  motif_id: fallen_fighter_compared_to_fish_cast_ashore_by_water
+  label: Fallen fighter compared to fish cast ashore by water
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a poetic simile for a fallen warrior rather than a
+    reusable mythic motif.
+  cautions: If the passage treats the fish or water as ritual-symbolic rather than
+    figurative comparison, review under lament_and_mourning or sacred_combat.
+  suggested_aliases:
+  - fallen warrior fish simile
+  - fighter compared to stranded fish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-youth-compared-to-a-felled-tree
+  motif_id: fallen_youth_compared_to_a_felled_tree
+  label: Fallen youth compared to a felled tree
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording signals a poetic comparison for death, not a tree motif in
+    narrative function.
+  cautions: Could be preserved as evidence under lament_and_mourning if tragic youth-death
+    imagery is being indexed.
+  suggested_aliases:
+  - fallen youth felled tree simile
+  - dead youth compared to tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falling-star-as-danger-sign-before-attack
+  motif_id: falling_star_as_danger_sign_before_attack
+  label: falling star as danger sign before attack
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A falling star functions as an omen warning of imminent danger or attack.
+  cautions: If the omen is an isolated vision rather than interpreted divination,
+    dream_and_vision may be a secondary fit; handle Hopi source context carefully.
+  suggested_aliases:
+  - falling star omen
+  - meteor danger omen
+  - celestial warning before attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falling-star-before-raid
+  motif_id: falling_star_before_raid
+  label: falling star before raid
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The celestial event appears to mark or foretell a raid as an omen.
+  cautions: Could also relate to sacred_combat if the raid structure is primary; do
+    not treat every celestial image as cosmic origin or sacred fire.
+  suggested_aliases:
+  - falling star raid omen
+  - meteor before raid
+  - celestial omen before raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falling-star-brings-destructive-fire-to-a-kin-group
+  motif_id: falling_star_brings_destructive_fire_to_a_kin_group
+  label: Falling star brings destructive fire to a kin group
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The falling star brings destructive fire, fitting celestial fire as sacred
+    or dangerous power.
+  cautions: If the fire is divine punishment, divine_judgment may be better; if it
+    destroys an entire order, consider flood_and_renewal or world_destroying_fire.
+  suggested_aliases:
+  - falling star destructive fire
+  - meteor fire destroys kin group
+  - celestial fire disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-around-lost-fire-causing-mutilation
+  motif_id: false_accusation_around_lost_fire_causing_mutilation
+  label: False accusation around lost fire causing mutilation
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: False accusation and bodily punishment fit the judgment and moral-reckoning
+    complex better than elemental fire symbolism.
+  cautions: Source context may instead emphasize fire theft/loss, culture-hero fire,
+    or etiological mutilation; review before final mapping.
+  suggested_aliases:
+  - false accusation over lost fire
+  - lost fire accusation mutilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accuser-punished-during-magical-flight
+  motif_id: false_accuser_punished_during_magical_flight
+  label: false accuser punished during magical flight
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is punishment of a false accuser, aligning with moral
+    vindication and judgment.
+  cautions: Magical flight may be an ordeal or escape detail; if the flight itself
+    is central, hero_journey or shapeshifter-related review may be needed.
+  suggested_aliases:
+  - false accuser punished
+  - punishment of false accuser during flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-and-true-magical-waters-tested-by-branch
+  motif_id: false_and_true_magical_waters_tested_by_branch
+  label: False and true magical waters tested by branch
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines magical waters, verification, and branch testing,
+    but the narrative function is unclear.
+  cautions: Could belong to sacred_waters, sacred_knowledge, resurrection/healing,
+    or trickster deception depending on what the waters do.
+  suggested_aliases:
+  - testing magical waters by branch
+  - true and false waters
+  - water of life tested by branch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-directions-in-repeated-search
+  motif_id: false_directions_in_repeated_search
+  label: false directions in repeated search
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: False directions during a search function as a journey or quest obstacle.
+  cautions: May be a passage-specific plot device or deception motif; consider trickster
+    only if a deceiver or boundary-crosser drives the misdirection.
+  suggested_aliases:
+  - misdirection during search
+  - false guidance in quest
+  - repeated search with false directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence poetic comparisons or episode-specific
+  details; avoid promoting them to canonical motif groups without recurrence.
+- Falling-star labels should be reviewed as omen/divination, sacred fire, or judgment
+  according to narrative function rather than grouped only by celestial imagery.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional placements only; source passage review recommended for culturally
+    specific Hopi, Hawaiian, and Guiana Amerindian items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0913
+  input_sha256: a15624c5219d785571075d121ff524944a2b149fd396c443c03b8a37cf636b57
+

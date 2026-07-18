@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0595
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.female-ruler-with-autonomous-wealth-and-martial-retinue
+  motif_id: female_ruler_with_autonomous_wealth_and_martial_retinue
+  label: female ruler with autonomous wealth and martial retinue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on autonomous rule, wealth, and martial following,
+    which are signs of sovereign authority and political legitimacy.
+  cautions: May be a character-description detail rather than a recurring motif; if
+    the emphasis is martial conflict, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - female sovereignty
+  - martial queen
+  - autonomous female ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feud-slayer-flees-across-water-to-a-protecting-ruler
+  motif_id: feud_slayer_flees_across_water_to_a_protecting_ruler
+  label: Feud-slayer flees across water to a protecting ruler
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines flight, water crossing, feud violence, and refuge
+    under a ruler; the journey/refuge function may fit hero_journey but is not clear
+    from the label alone.
+  cautions: Could instead belong to sacred_law, royal_legitimacy, sacred_waters, exile_wandering,
+    or feud/vengeance material. It may be an episode-specific plot summary.
+  suggested_aliases:
+  - exile flight across water
+  - fugitive seeks royal protection
+  - feud exile and refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-persecution-of-believers-and-retaliatory-burning-judgment
+  motif_id: fiery_persecution_of_believers_and_retaliatory_burning_judgment
+  label: Fiery persecution of believers and retaliatory burning judgment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The retaliatory burning of persecutors frames fire as punitive moral
+    reckoning by sacred order.
+  cautions: If the passage emphasizes cosmic destruction rather than punishment of
+    wrongdoers, world_destroying_fire or flood_and_renewal may be relevant; preserve
+    persecution context as evidence detail.
+  suggested_aliases:
+  - retaliatory fire judgment
+  - burning judgment against persecutors
+  - fiery divine retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-punishment-of-sinners
+  motif_id: fiery_punishment_of_sinners
+  label: Fiery punishment of sinners
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Punishment of sinners by fire is a clear form of divine or afterlife
+    moral judgment.
+  cautions: If the source maps postmortem locations or stages, afterlife_passage may
+    be a secondary placement; do not treat as world-destroying fire unless cosmic
+    renewal is present.
+  suggested_aliases:
+  - fire punishment of sinners
+  - fiery afterlife punishment
+  - punitive sacred fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-pursuit-by-supernatural-mother-in-law-and-magical-escape-object
+  motif_id: fiery_pursuit_by_supernatural_mother_in_law_and_magical_escape_object
+  label: fiery pursuit by supernatural mother-in-law and magical escape object
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: low
+  rationale: The magical escape object may function as a power object, but the label
+    also includes pursuit, affinal conflict, and fire imagery.
+  cautions: Likely an over-specific tale episode. Could fit sacred_treasures, shapeshifter/magic
+    flight, threshold_guardian, or family-conflict groupings depending on evidence;
+    no clean existing group captures the whole sequence.
+  suggested_aliases:
+  - magical escape object
+  - supernatural pursuit and escape
+  - fiery magic flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-continuity-with-the-father-s-order
+  motif_id: filial_continuity_with_the_father_s_order
+  label: Filial continuity with the father's order
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif expresses continuity of social and ethical order through filial
+    duty, aligning with sacred law and social obligation.
+  cautions: May be an ethical doctrine or passage theme rather than a narrative motif.
+    If tied to dynastic succession, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - filial continuity
+  - continuing the father's order
+  - filial maintenance of order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-love-expressed-as-salt-and-misunderstood-by-a-king
+  motif_id: filial_love_expressed_as_salt_and_misunderstood_by_a_king
+  label: filial love expressed as salt and misunderstood by a king
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns love expressed through a symbolic comparison, but
+    the king's misunderstanding and filial context make its broader motif function
+    uncertain.
+  cautions: This may be a folktale episode-specific recognition/misrecognition motif.
+    Could involve sacred_love, sacred_law/filial duty, divine_judgment if vindication
+    follows, or storytelling_as_power if speech/riddle is central.
+  suggested_aliases:
+  - love like salt
+  - misunderstood filial love
+  - symbolic expression of filial love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-obedience-to-a-father-s-oath
+  motif_id: filial_obedience_to_a_father_s_oath
+  label: Filial obedience to a father’s oath
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The binding force of the father's oath is central, with filial obedience
+    carrying out a performative sacred obligation.
+  cautions: If the emphasis is social duty rather than the oath's binding speech,
+    sacred_law or covenant may be better; if tied to succession, royal_legitimacy
+    may be secondary.
+  suggested_aliases:
+  - obedience to paternal oath
+  - filial duty to vow
+  - father's oath binds child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-and-stoning-threatened-as-punishment
+  motif_id: fire_and_stoning_threatened_as_punishment
+  label: fire and stoning threatened as punishment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Threatened punitive violence functions as judgment or moral/legal reckoning,
+    with fire as one punishment mode.
+  cautions: If only a human legal threat without sacred or moral reckoning, sacred_law
+    may be more appropriate or the label may be too contextual for motif queries.
+  suggested_aliases:
+  - threatened fiery punishment
+  - threatened stoning punishment
+  - punitive threat by fire and stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-associated-destruction-of-a-king-and-his-folk
+  motif_id: fire_associated_destruction_of_a_king_and_his_folk
+  label: Fire-associated destruction of a king and his folk
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destruction of a ruler and people by fire can mark judgment on a political
+    order.
+  cautions: If the episode is a broader end-of-world or old-order catastrophe, flood_and_renewal
+    or world_destroying_fire may be better; if it is ordinary warfare, sacred_combat
+    may be relevant.
+  suggested_aliases:
+  - fiery destruction of ruler and people
+  - burning judgment on a king
+  - fire destroys royal household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, episode-specific labels; preserve
+  granular wording as evidence notes even when mapping to an existing broad group.
+- 'Fire labels should be distinguished by function: divine_judgment for punishment,
+  sacred_fire for presence/ritual mediation, and flood_and_renewal/world-destroying
+  fire only for cosmic or old-order destruction and renewal.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for over-specific folktale
+    and legal-political labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0595
+  input_sha256: e3b604d00c22008008db64cd65e9b02e26d51694559bdbb6d71503613a5bdd8d
+

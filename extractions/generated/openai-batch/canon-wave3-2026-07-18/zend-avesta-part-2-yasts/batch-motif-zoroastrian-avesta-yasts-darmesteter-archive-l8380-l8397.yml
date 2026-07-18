@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l8380-l8397
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: MIHIR    YAST.  151 / XXXI. / MIHIR   VAST.  15; / MIHIR    VAST.  155; lines
+    8380-8397
+  start: '8380'
+  end: '8397'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Bushyasta, unseen Daevas, and Varenya fiends flee in fear. A speech asks
+    not to encounter Mithra's angry rush or be smitten by him, and praises Mithra
+    as the strongest, most valiant, most energetic, swiftest, and most fiend-smiting
+    of the gods. The speaker then declares an intention to offer sacrifice for Mithra's
+    brightness and glory.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The long-handed Bushyasta flees away in fear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unseen Daevas and the Varenya fiends flee away in fear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A speech asks that the speakers never meet the rush of Mithra when he is angry
+    and that Mithra never smite them in anger.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mithra is called the lord of wide pastures and is described as standing upon
+    the earth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Mithra is described as strongest, most valiant, most energetic, swiftest,
+    and most fiend-smiting among the gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A first-person speaker says that he will offer Mithra a sacrifice for his
+    brightness and glory.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: The lord of wide pastures, praised as a powerful god who may rush and
+    smite in anger and as the most fiend-smiting of the gods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Bushyasta
+  description: A long-handed being who flees away in fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Unseen Daevas
+  description: A group of Daevas described as unseen and fleeing away in fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Varenya fiends
+  description: A group of fiends who flee away in fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: First-person sacrificial speaker
+  description: An unnamed speaker who declares an intention to offer Mithra a sacrifice
+    for his brightness and glory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wrathful divine smiter of fiends
+  assigned_to:
+  - fig:1
+  basis: Mithra is feared in anger, may smite, and is called the most fiend-smiting
+    of the gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: fearful hostile beings
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Bushyasta, the unseen Daevas, and the Varenya fiends are each described as
+    fleeing away in fear.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacrificial speaker
+  assigned_to:
+  - fig:5
+  basis: The speaker says, in the first person, that he will offer Mithra a sacrifice.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mithra's angry rush
+  literal_form: the rush of Mithra when in anger
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: brightness and glory
+  literal_form: Mithra's brightness and glory
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fiends flee in fear
+  summary: Bushyasta, unseen Daevas, and Varenya fiends flee away in fear; the following
+    speech identifies Mithra's angry rush and smiting as the feared divine force.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Praise and fear of Mithra's power
+  summary: The speakers ask not to encounter Mithra in anger and praise him as the
+    strongest, swiftest, and most fiend-smiting of the gods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sacrifice for brightness and glory
+  summary: A first-person speaker declares that he will offer Mithra a sacrifice for
+    Mithra's brightness and glory.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Fiends flee before a wrathful god
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts Mithra's feared anger and fiend-smiting power with
+    Bushyasta, Daevas, and Varenya fiends fleeing in fear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage shows opposition between
+    Mithra and fiends but does not present a full cosmological doctrine of duality.
+- id: motif:2
+  label: Sacrifice offered to a praised deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The speaker explicitly says he will offer Mithra a sacrifice for Mithra's
+    brightness and glory.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the intention to sacrifice but does not describe ritual
+    procedure or offering materials.
+- id: motif:3
+  label: Divine anger and smiting feared by opponents
+  taxonomy_refs: []
+  basis: The speech asks not to encounter Mithra's angry rush and asks that Mithra
+    not smite the speakers in his anger.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The speakers are not explicitly identified within the excerpt, though
+    the surrounding lines name fleeing fiends.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8380-8383
+  quote_or_summary: '"the long-handed Bushyasta flees away in fear; all the Daevas
+    unseen and the Varenya fiends flee away in fear"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 8385-8390
+  quote_or_summary: '"may we never fall across the rush of Mithra... when in anger"
+    and "May Mithra... never smite us in his anger"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8390-8395
+  quote_or_summary: Mithra is described as standing upon the earth and as strongest,
+    most valiant, most energetic, swiftest, and most fiend-smiting among the gods.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 8396-8397
+  quote_or_summary: '"For his brightness and glory, I will offer him a sacrifice worth
+    being heard"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt. Motif assignment is strongest
+    for sacrifice and divine smiting; broader duality classification needs human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the excerpt itself does not compare this passage to another text, tradition, or named motif family beyond the available candidate motif taxonomy.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l8380-l8397
+  passage_sha256=e09dbe85bd7c1c9913a76be9577dbf75575a76484dcf40aaba2ef323820dce9c
+

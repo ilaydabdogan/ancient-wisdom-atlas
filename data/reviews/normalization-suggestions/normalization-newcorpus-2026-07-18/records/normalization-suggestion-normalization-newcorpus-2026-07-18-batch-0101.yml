@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0101
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.night-walking-corpse-attached-to-grave-goods
+  motif_id: night_walking_corpse_attached_to_grave_goods
+  label: night-walking corpse attached to grave goods
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: An animate corpse bound to grave goods fits the active, unresolved dead
+    returning or haunting after burial.
+  cautions: Single Slavic occurrence; grave-goods attachment may be important mortuary
+    detail and should not be flattened if evidence centers on burial property taboo.
+  suggested_aliases:
+  - animated corpse attached to grave goods
+  - restless corpse bound to burial goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-watch-over-a-dangerous-dead-man
+  motif_id: night_watch_over_a_dangerous_dead_man
+  label: night watch over a dangerous dead man
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Keeping vigil over a dangerous dead man implies fear of harmful postmortem
+    agency by the restless dead.
+  cautions: Could instead be a funerary rite or ordeal if the passage emphasizes ritual
+    guarding rather than the dead man's agency.
+  suggested_aliases:
+  - vigil over dangerous corpse
+  - watching the restless dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nighttime-dread-of-dead-warriors
+  motif_id: nighttime_dread_of_dead_warriors
+  label: Nighttime dread of dead warriors
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Dread of dead warriors at night fits fear of active or dangerous dead,
+    especially if warriors remain threatening after death.
+  cautions: If this is only atmosphere around a battlefield or burial mound, it may
+    be an evidence detail rather than a distinct motif; heroic_funeral_rites may be
+    secondary if burial honor is central.
+  suggested_aliases:
+  - dread of dead warriors
+  - night fear of warrior dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.no-fragment-or-creature-from-the-corpse-may-escape
+  motif_id: no_fragment_or_creature_from_the_corpse_may_escape
+  label: No fragment or creature from the corpse may escape
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a mortuary prohibition or apotropaic containment rule,
+    which currently fits sacred_law's protective and spirit-contagion cluster best.
+  cautions: 'Ambiguous: it may concern vampire prevention, corpse-demon containment,
+    soul fragments, ritual purity, or an over-specific episode detail. Needs source
+    evidence before final placement.'
+  suggested_aliases:
+  - corpse fragments must be contained
+  - no creature from corpse may escape
+  - mortuary containment taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.no-refuge-from-the-deity-except-return-to-the-deity
+  motif_id: no_refuge_from_the_deity_except_return_to_the_deity
+  label: no refuge from the deity except return to the deity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: The phrase reads like devotional or mystical teaching about returning
+    to God rather than a death motif; mystical_quest is the closest existing group
+    if used as spiritual return.
+  cautions: May be a quotation, sermon abstraction, or theological maxim rather than
+    a narrative motif. Human review should decide whether to exclude from pattern
+    queries if no narrative function is present.
+  suggested_aliases:
+  - flight to God from God
+  - return to the deity as refuge
+  - no refuge except divine return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.no-return-from-death
+  motif_id: no_return_from_death
+  label: no return from death
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: broader_label
+  confidence: low
+  rationale: The label concerns the finality of death, but existing groups emphasize
+    transformation, return, or afterlife passage rather than irreversible non-return.
+  cautions: Could be a doctrinal assertion, lament formula, or contextual contrast
+    to resurrection/afterlife travel. Do not map to resurrection or death_return without
+    passage evidence.
+  suggested_aliases:
+  - death as irreversible
+  - finality of death
+  - death without return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noble-woman-s-death-followed-by-another-woman-s-authority
+  motif_id: noble_woman_s_death_followed_by_another_woman_s_authority
+  label: noble woman's death followed by another woman's authority
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a passage-specific succession or plot detail rather
+    than a reusable mythic motif.
+  cautions: If the source shows a recurring pattern of female sovereignty transferred
+    through death, review under royal_legitimacy or sacred_love, but the current label
+    is too specific.
+  suggested_aliases:
+  - female authority after noblewoman's death
+  - succession after woman's death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-vigil-beside-a-dangerous-corpse
+  motif_id: nocturnal_vigil_beside_a_dangerous_corpse
+  label: Nocturnal vigil beside a dangerous corpse
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A night vigil beside a dangerous corpse points to fear of harmful activity
+    from the dead.
+  cautions: Closely overlaps night_watch_over_a_dangerous_dead_man; consider aliasing
+    or deduplicating after source review.
+  suggested_aliases:
+  - night vigil beside dangerous corpse
+  - watch over dangerous corpse
+  - nocturnal corpse vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-ancestral-high-god-or-high-being
+  motif_id: non_ancestral_high_god_or_high_being
+  label: non-ancestral high god or high being
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: low
+  rationale: A high god or high being may fit supreme_ruler as a cosmic sovereignty
+    figure, but the label is classificatory rather than narrative.
+  cautions: Culturally sensitive and possibly ethnographic taxonomy language; 'non-ancestral'
+    may reflect scholarly classification rather than a motif. Needs human review with
+    source context.
+  suggested_aliases:
+  - high god
+  - high being
+  - non-ancestor creator being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonfatal-punishment-described-as-next-to-death
+  motif_id: nonfatal_punishment_described_as_next_to_death
+  label: nonfatal punishment described as next to death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A punishment likened to death may function as moral reckoning or severe
+    sanction without literal death.
+  cautions: Could be rhetorical description rather than sacred judgment; if no divine
+    or moral evaluation is present, exclude as passage-specific wording.
+  suggested_aliases:
+  - near-death punishment
+  - punishment next to death
+  - death-like penalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Slavic corpse-vigil labels likely describe the same restless-dead or dangerous-corpse
+  complex and should be checked for deduplication.
+- This batch contains multiple single-occurrence labels; preserve local mortuary details
+  in evidence notes rather than promoting them to canonical motifs prematurely.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    high-god classification and ambiguous mortuary-containment labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0101
+  input_sha256: 3bf4e3de030ce4b12ae8ddffdac1050ae53007a9328e90e5c75bb9e3d8fd8b57
+

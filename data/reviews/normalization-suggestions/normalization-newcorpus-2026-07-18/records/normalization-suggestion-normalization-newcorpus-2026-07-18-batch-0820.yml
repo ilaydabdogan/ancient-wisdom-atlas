@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0820
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dangerous-fiery-eyed-animal-guarding-or-obstructing-a-threshold
+  motif_id: dangerous_fiery_eyed_animal_guarding_or_obstructing_a_threshold
+  label: dangerous fiery-eyed animal guarding or obstructing a threshold
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The animal's main function is guarding or obstructing a threshold, matching
+    the threshold guardian group.
+  cautions: Fiery eyes and animal form should be preserved as evidence details; only
+    map here if passage emphasizes blocked passage or boundary crossing.
+  suggested_aliases:
+  - fiery-eyed threshold beast
+  - animal threshold guardian
+  - dangerous animal guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-food-hoarding-animal-blocks-communal-gathering
+  motif_id: dangerous_food_hoarding_animal_blocks_communal_gathering
+  label: dangerous food-hoarding animal blocks communal gathering
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal danger, food hoarding, and obstruction of communal
+    gathering without a clear existing narrative function.
+  cautions: Could be animal trickster, sacred exchange, communal order, or an episode-specific
+    detail; Zuni source context should be reviewed carefully.
+  suggested_aliases:
+  - food-hoarding animal
+  - animal blocks communal gathering
+  - dangerous hoarding animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-guardian-beast-at-an-enclosure
+  motif_id: dangerous_guardian_beast_at_an_enclosure
+  label: dangerous guardian beast at an enclosure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: A dangerous beast guarding an enclosure functions as a boundary or access
+    guardian.
+  cautions: If the enclosure is mainly a treasure, cattle, or otherworld site, secondary
+    mappings may be needed; keep beast/enclosure details granular.
+  suggested_aliases:
+  - guardian beast at enclosure
+  - beast guarding enclosure
+  - dangerous enclosure guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-kiva-gambler-defeated-by-animal-allies
+  motif_id: dangerous_kiva_gambler_defeated_by_animal_allies
+  label: dangerous kiva gambler defeated by animal allies
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label includes culturally specific ritual space, gambling contest,
+    and animal helpers, making placement evidence-dependent.
+  cautions: Kiva context is culturally sensitive; could involve trickster, divine
+    intervention via animal helpers, ordeal, or local ceremonial narrative.
+  suggested_aliases:
+  - dangerous gambler defeated by animal allies
+  - animal allies defeat gambler
+  - kiva gambler contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-light-causes-transformation-and-separation
+  motif_id: dangerous_light_causes_transformation_and_separation
+  label: Dangerous light causes transformation and separation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is transformation caused by exposure to dangerous light.
+  cautions: If light is the main sacred presence or solar force, sacred_fire may be
+    a secondary or better mapping; separation may indicate an episode-specific consequence.
+  suggested_aliases:
+  - light-induced transformation
+  - dangerous light transformation
+  - transforming light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-magic-horse-subdued-and-compelled-to-obey
+  motif_id: dangerous_magic_horse_subdued_and_compelled_to_obey
+  label: Dangerous magic horse subdued and compelled to obey
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: medium
+  rationale: Existing shapeshifter group includes magical animal mounts; this label
+    fits a supernatural animal brought under control.
+  cautions: This may be better as a future magical-animal-helper or animal-mount cluster
+    if many horse-control variants recur.
+  suggested_aliases:
+  - magic horse subdued
+  - supernatural horse compelled to obey
+  - dangerous magical mount mastered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-magic-horse-subdued-by-force
+  motif_id: dangerous_magic_horse_subdued_by_force
+  label: Dangerous magic horse subdued by force
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: medium
+  rationale: A dangerous magical horse being mastered aligns with the magical animal
+    mount child already under shapeshifter.
+  cautions: The violent subduing may also be an ordeal or combat detail; avoid treating
+    all horse episodes as transformation unless the horse is supernatural or liminal.
+  suggested_aliases:
+  - magic horse subdued by force
+  - dangerous magical mount mastered
+  - subduing a supernatural horse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-magic-horse-under-heavy-restraint
+  motif_id: dangerous_magic_horse_under_heavy_restraint
+  label: Dangerous magic horse under heavy restraint
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: medium
+  rationale: The restrained dangerous magic horse fits the same supernatural animal/mount
+    complex already represented under shapeshifter.
+  cautions: This may be a setup detail rather than a motif unless restraint affects
+    the plot or ordeal.
+  suggested_aliases:
+  - restrained magic horse
+  - dangerous supernatural horse restrained
+  - bound magical mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-sport-with-a-captive-animal
+  motif_id: dangerous_sport_with_a_captive_animal
+  label: dangerous sport with a captive animal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to decide whether it is ordeal, animal combat,
+    cruelty, entertainment, or episode detail.
+  cautions: Single occurrence; may not be useful for broad pattern queries unless
+    the source shows a recurring ritualized ordeal or combat function.
+  suggested_aliases:
+  - captive animal sport
+  - dangerous animal game
+  - sport with captive beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-trick-provokes-retaliatory-killing
+  motif_id: dangerous_trick_provokes_retaliatory_killing
+  label: dangerous trick provokes retaliatory killing
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The causal pattern centers on a dangerous trick that triggers lethal
+    retaliation, fitting trickster disorder and consequence.
+  cautions: If the passage emphasizes vengeance, kin retaliation, or moral judgment
+    more than trickery, divine_judgment or conflict grouping may be better.
+  suggested_aliases:
+  - trick provoking retaliation
+  - dangerous trick with lethal consequence
+  - retaliatory killing after trick
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal labels are single-occurrence and highly contextual; preserve animal
+  species, setting, and local ritual details as evidence notes.
+- The three Slavic magic-horse labels likely belong to one granular cluster under
+  magical animal mount, but current existing group placement can use shapeshifter
+  because it already contains magical_animal_mount.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0820
+  input_sha256: 0a03592d6193b712a17bce1eceda68fefe682c6c7fa08d725eb99e14080b94c5
+

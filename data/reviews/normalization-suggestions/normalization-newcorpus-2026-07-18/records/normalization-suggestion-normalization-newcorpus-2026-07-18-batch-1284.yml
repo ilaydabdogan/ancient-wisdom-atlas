@@ -1,0 +1,330 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1284
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.angelic-homage-and-refusal-by-eblis
+  motif_id: angelic_homage_and_refusal_by_eblis
+  label: angelic homage and refusal by Eblis
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: narrower_than
+  confidence: high
+  rationale: Existing divine_intervention group already aliases fall/refusal of a
+    heavenly being through refusal of commanded homage.
+  cautions: Also relates to pride_and_downfall and divine_judgment; preserve Eblis/Iblis
+    specificity as source evidence.
+  suggested_aliases:
+  - refused_homage_to_created_human
+  - fall_of_a_heavenly_being_through_refusal_of_commanded_homage
+  - angelic_refusal_of_homage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-prostration-before-a-newly-made-human-with-one-rebel-exception
+  motif_id: angelic_prostration_before_a_newly_made_human_with_one_rebel_exception
+  label: Angelic prostration before a newly made human with one rebel exception
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: narrower_than
+  confidence: high
+  rationale: Matches the existing child/alias cluster for refused homage to a created
+    human and heavenly rebellion.
+  cautions: Composite label includes both homage and refusal; if indexing the rebel
+    exception only, pride_and_downfall or divine_judgment may be secondary.
+  suggested_aliases:
+  - refused_homage_to_created_human
+  - angelic_homage_with_rebel_exception
+  - angelic_prostration_before_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-transgression-with-human-women
+  motif_id: angelic_transgression_with_human_women
+  label: Angelic transgression with human women
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label concerns heavenly beings crossing divine-human boundaries through
+    illicit union, but no current group cleanly covers watcher/angelic sexual transgression.
+  cautions: Could involve sacred_law, divine_judgment, sacred_marriage inversion,
+    or origin of giants depending on passage evidence; culturally and textually specific.
+  suggested_aliases:
+  - watchers_and_human_women
+  - angelic_illicit_union
+  - heavenly_beings_transgress_with_humans
+  suggested_new_group:
+    id: divine_human_transgression
+    label: Divine-Human Boundary Transgression
+    description: Illicit, forbidden, or destabilizing crossings between divine or
+      heavenly beings and humans, especially unions or acts that violate cosmic order
+      and provoke judgment.
+    parent_group_ids:
+    - sacred_law
+    - divine_judgment
+    related_group_ids:
+    - sacred_marriage
+    - duality
+    - chaos
+    reason_existing_groups_insufficient: Existing groups cover sacred marriage, law,
+      and judgment, but not the specific recurring pattern of forbidden divine-human
+      boundary crossing by heavenly beings.
+- suggestion_id: normalization.suggestion.angry-spoken-spell-causes-immediate-supernatural-removal
+  motif_id: angry_spoken_spell_causes_immediate_supernatural_removal
+  label: angry spoken spell causes immediate supernatural removal
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A spoken spell that immediately changes reality fits performative sacred
+    speech, especially curse-like utterance.
+  cautions: If the narrative emphasizes magical transport rather than speech-act power,
+    a journey or enchantment mapping may be secondary.
+  suggested_aliases:
+  - spoken_spell_causes_removal
+  - performative_spell
+  - angry_curse_removes_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animate-landscape-punishes-refusal-of-food
+  motif_id: animate_landscape_punishes_refusal_of_food
+  label: Animate landscape punishes refusal of food
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif combines living landscape, food refusal, and punishment; placement
+    depends on whether the core is hospitality, sacred exchange, or animist landscape
+    agency.
+  cautions: Do not flatten culturally specific landscape agency into generic divine
+    judgment without source evidence.
+  suggested_aliases:
+  - living_landscape_punishes_food_refusal
+  - animate_landscape_retribution
+  - refusal_of_food_punished_by_landscape
+  suggested_new_group:
+    id: animate_landscape_agency
+    label: Animate Landscape and Place Agency
+    description: Landforms, paths, hills, forests, rocks, or other landscape features
+      act as living agents that help, hinder, punish, enchant, or communicate with
+      humans.
+    parent_group_ids:
+    - otherworld
+    - divine_intervention
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups include sacred geography
+      and otherworld spaces, but not landscape features acting as agents in their
+      own right.
+- suggestion_id: normalization.suggestion.animated-and-enchantment-bound-landscape
+  motif_id: animated_and_enchantment_bound_landscape
+  label: animated and enchantment-bound landscape
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: An enchanted animated landscape is a place-agency pattern, but current
+    groups only partially cover it through otherworld or sacred geography.
+  cautions: Review Indigenous context carefully; avoid treating sacred place relations
+    as mere fantasy enchantment.
+  suggested_aliases:
+  - enchanted_living_landscape
+  - animate_enchanted_landscape
+  - landscape_bound_by_enchantment
+  suggested_new_group:
+    id: animate_landscape_agency
+    label: Animate Landscape and Place Agency
+    description: Landforms, paths, hills, forests, rocks, or other landscape features
+      act as living agents that help, hinder, punish, enchant, or communicate with
+      humans.
+    parent_group_ids:
+    - otherworld
+    - divine_intervention
+    related_group_ids:
+    - axis_mundi
+    - threshold_guardian
+    - sacred_geography_pilgrimage
+    reason_existing_groups_insufficient: Otherworld and axis_mundi cover charged places,
+      but not recurring animated or enchantment-bound landscape agency.
+- suggestion_id: normalization.suggestion.animated-landscape-obstacles
+  motif_id: animated_landscape_obstacles
+  label: Animated landscape obstacles
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Living landscape obstacles function as ordeal or threshold barriers,
+    but no existing group captures animate place-agency cleanly.
+  cautions: May fit initiation or hero_journey if these obstacles test a traveler;
+    source context is needed, especially for Navajo sacred geography.
+  suggested_aliases:
+  - living_landscape_obstacles
+  - animate_place_obstacles
+  - moving_landscape_barriers
+  suggested_new_group:
+    id: animate_landscape_agency
+    label: Animate Landscape and Place Agency
+    description: Landforms, paths, hills, forests, rocks, or other landscape features
+      act as living agents that help, hinder, punish, enchant, or communicate with
+      humans.
+    parent_group_ids:
+    - otherworld
+    - divine_intervention
+    related_group_ids:
+    - initiation
+    - hero_journey
+    - threshold_guardian
+    reason_existing_groups_insufficient: Threshold_guardian covers figures at boundaries,
+      while this label centers on the landscape itself as the acting obstacle.
+- suggestion_id: normalization.suggestion.animated-wheels-with-eyes
+  motif_id: animated_wheels_with_eyes
+  label: Animated wheels with eyes
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Eye-covered animated wheels are part of an overwhelming divine vision
+    and fit theophany/cosmic vision better than craft animation.
+  cautions: If isolated from the vision context, the object detail may be too specific;
+    preserve as evidence under cosmic vision.
+  suggested_aliases:
+  - wheels_with_eyes
+  - ophanim_vision
+  - animated_visionary_wheels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animation-of-formed-clay-creatures
+  motif_id: animation_of_formed_clay_creatures
+  label: Animation of formed clay creatures
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: alias
+  confidence: high
+  rationale: Existing sacred_craft children include animation_of_clay_creatures and
+    artificial human/creature animation variants.
+  cautions: Could also relate to cosmic_origin when clay animation is a creation-of-humanity
+    episode; here label suggests crafted animation.
+  suggested_aliases:
+  - animation_of_clay_creatures
+  - animated_clay_creatures
+  - formed_clay_brought_to_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.annual-assault-on-an-inhabited-hill
+  motif_id: annual_assault_on_an_inhabited_hill
+  label: annual assault on an inhabited hill
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual cycle, sacred combat, siege narrative,
+    or otherworld hill conflict, but function is unclear.
+  cautions: Single occurrence and highly contextual; do not map solely from hill imagery
+    to axis_mundi or from annual recurrence to sacred_time without evidence.
+  suggested_aliases:
+  - annual_attack_on_inhabited_hill
+  - cyclical_assault_on_hill_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch suggest a recurring animate-landscape/place-agency
+  pattern not cleanly covered by existing groups; human review should decide whether
+  to add a durable group or continue mapping case-by-case to otherworld, initiation,
+  threshold_guardian, or divine_intervention.
+- Keep culturally specific names and traditions as evidence details; normalization
+  placement is not a transmission or origin claim.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; items marked needs_human_review require
+    source-context validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1284
+  input_sha256: 21ba93a9f02027996e9c95191234e476db108771b50abbc6138353f752af20bd
+

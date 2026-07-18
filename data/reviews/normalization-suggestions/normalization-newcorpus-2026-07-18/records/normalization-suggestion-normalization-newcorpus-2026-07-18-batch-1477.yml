@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1477
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magically-constructed-splendid-dwelling
+  motif_id: magically_constructed_splendid_dwelling
+  label: magically constructed splendid dwelling
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magically made dwelling fits wondrous construction or divinely aided
+    craft more than a generic sacred place.
+  cautions: Single occurrence; if the dwelling functions mainly as an otherworld palace
+    or royal display, otherworld or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - magical dwelling construction
+  - wondrous constructed dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magically-remodeled-ceremonial-dwelling
+  motif_id: magically_remodeled_ceremonial_dwelling
+  label: Magically remodeled ceremonial dwelling
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical remodeling of a ceremonial structure is a construction/craft
+    transformation of sacred space.
+  cautions: If the emphasis is ritual center rather than making/remodeling, axis_mundi
+    or world_center may be relevant; verify ceremonial function in passage.
+  suggested_aliases:
+  - magical remodeling of ceremonial dwelling
+  - wondrous renovation of sacred dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magically-responsive-canoe
+  motif_id: magically_responsive_canoe
+  label: magically responsive canoe
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A canoe that responds magically functions as a power object or enchanted
+    vehicle conferring special ability.
+  cautions: If it primarily carries a hero through a liminal water passage, sacred_waters
+    or hero_journey may be secondary; if artificially animated, sacred_craft may fit.
+  suggested_aliases:
+  - enchanted canoe
+  - responsive magical vehicle
+  - magical boat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magicians-wonderful-deeds
+  motif_id: magicians_wonderful_deeds
+  label: Magicians’ wonderful deeds
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish sacred knowledge, divine intervention,
+    trickster magic, or spectacle.
+  cautions: May be an index-heading or summary artifact rather than a motif; passage
+    evidence is needed before mapping.
+  suggested_aliases:
+  - magical feats
+  - wonder-working magicians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magnificent-chariot-as-martial-display
+  motif_id: magnificent_chariot_as_martial_display
+  label: magnificent chariot as martial display
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The chariot display is martial imagery tied to heroic or sacred combat
+    status.
+  cautions: Could be an over-specific descriptive detail if no combat, divine warrior
+    role, or ritualized warfare function is present; sacred_treasures may fit if the
+    chariot itself has power.
+  suggested_aliases:
+  - martial chariot display
+  - splendid war chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maimed-minstrel-or-messenger
+  motif_id: maimed_minstrel_or_messenger
+  label: Maimed minstrel or messenger
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Maiming, minstrelsy, and messenger role point to different functions
+    not clear from the label alone.
+  cautions: May belong with storytelling_as_power, divine_judgment, sacred_combat,
+    or a passage-specific injury detail; avoid mapping without source context.
+  suggested_aliases:
+  - injured messenger
+  - maimed singer messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maimed-seeker-pursues-a-vanished-betrayer
+  motif_id: maimed_seeker_pursues_a_vanished_betrayer
+  label: maimed seeker pursues a vanished betrayer
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The pursuit is driven by betrayal, making the violated bond the clearest
+    existing motif function.
+  cautions: Composite and highly specific; if the pursuit is mainly a quest ordeal,
+    hero_journey may be secondary. Review culturally specific context before indexing
+    broadly.
+  suggested_aliases:
+  - pursuit of vanished betrayer
+  - maimed avenger seeks betrayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiming-of-the-helper
+  motif_id: maiming_of_the_helper
+  label: Maiming of the helper
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A helper's maiming could be punishment, sacrifice, ordeal, betrayal,
+    or combat injury depending on narrative role.
+  cautions: Single occurrence and role-dependent; do not force into sacrifice or sacred_combat
+    without evidence of offering, duty, or warfare.
+  suggested_aliases:
+  - injured helper
+  - helper maimed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maize-deity
+  motif_id: maize_deity
+  label: maize deity
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: role_variant
+  confidence: medium
+  rationale: A maize deity usually belongs to agricultural fertility and seasonal
+    ritual cycles, already represented by harvest/corn-spirit patterns.
+  cautions: Culturally specific deity label; if the passage emphasizes divine personhood,
+    sacrifice, or maize as sacred substance, additional mappings may be needed.
+  suggested_aliases:
+  - corn deity
+  - maize god
+  - maize goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.malevolent-misfortune-that-should-not-be-awakened
+  motif_id: malevolent_misfortune_that_should_not_be_awakened
+  label: malevolent misfortune that should not be awakened
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A sleeping or latent misfortune that is awakened suggests harmful consequence
+    released by improper action.
+  cautions: Could instead be a taboo/prohibition, personified fate, spirit affliction,
+    or folktale hazard; source evidence needed for final placement.
+  suggested_aliases:
+  - awakened misfortune
+  - sleeping misfortune taboo
+  - latent malevolent fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All items have one occurrence, so suggested placements are provisional and should
+  not promote new canonical motifs without recurrence.
+- Several labels are composite or role-dependent; preserve local evidence notes where
+  source passages distinguish object, ritual, or narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch 1477; human review recommended,
+    especially for broad magic and maiming labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1477
+  input_sha256: 685bed12109c01fa4ef83a07dadd7c3ee374d3ceee1c1af1b0bc81f21c9470eb
+

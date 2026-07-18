@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1210
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.escalating-treasure-chambers-with-discarded-necessities
+  motif_id: escalating_treasure_chambers_with_discarded_necessities
+  label: Escalating treasure chambers with discarded necessities
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a specific episode involving treasures and misplaced
+    priorities, but its narrative function is unclear from wording alone.
+  cautions: Could be greed/downfall, initiation test, magical treasure-space, or passage-specific
+    detail; single occurrence argues against promotion.
+  suggested_aliases:
+  - discarded_necessities_for_treasure
+  - treasure_chambers_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - pride_and_downfall
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-from-pursuit-by-entering-a-hidden-underground-realm
+  motif_id: escape_from_pursuit_by_entering_a_hidden_underground_realm
+  label: escape from pursuit by entering a hidden underground realm
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden underground realm used for refuge fits an adjacent or concealed
+    otherworld more than ordinary travel.
+  cautions: If the underground realm is explicitly land of the dead or descent ordeal,
+    map secondarily to descent; if only a hiding place, it may be too contextual.
+  suggested_aliases:
+  - hidden_underground_refuge
+  - underground_otherworld_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-for-a-natural-mark
+  motif_id: etiological_explanation_for_a_natural_mark
+  label: Etiological explanation for a natural mark
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing cosmic_origin group already includes etiological landscape
+    and natural-feature naming/marking patterns.
+  cautions: Very broad label; preserve the specific mark and cause in evidence notes.
+    If the mark concerns an animal body rather than landscape, another group may be
+    needed.
+  suggested_aliases:
+  - natural_mark_etiology
+  - etiological_natural_mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-abandoned-houses
+  motif_id: etiology_of_abandoned_houses
+  label: Etiology of abandoned houses
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is etiological but the cause and symbolic function of the abandoned
+    houses are not stated.
+  cautions: Could involve haunting, taboo, divine judgment, local place etiology,
+    or social memory; avoid mapping solely from 'etiology'.
+  suggested_aliases:
+  - abandoned_house_etiology
+  - origin_of_abandoned_houses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - restless_dead_haunting_vengeance
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-alligator-head-and-tail-marks
+  motif_id: etiology_of_alligator_head_and_tail_marks
+  label: Etiology of alligator head and tail marks
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An explanation for visible natural or bodily marks fits the broader etiological-origin
+    material already grouped under cosmic_origin.
+  cautions: If the passage focuses on animal transformation, punishment, or species
+    traits, shapeshifter or divine_judgment may be relevant; keep alligator specificity
+    as evidence detail.
+  suggested_aliases:
+  - animal_mark_etiology
+  - alligator_marks_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-reverent-spring-use-restriction
+  motif_id: etiology_of_reverent_spring_use_restriction
+  label: etiology of reverent spring-use restriction
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is a sacred restriction governing proper use of a spring,
+    fitting ritual prohibition and sacred law.
+  cautions: Culturally sensitive local water-use rule; review source context. If the
+    spring itself is the focus, secondary mapping to sacred_waters may be appropriate.
+  suggested_aliases:
+  - sacred_spring_restriction
+  - spring_use_taboo
+  - reverent_spring_use
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evil-whisperer-entering-the-human-interior
+  motif_id: evil_whisperer_entering_the_human_interior
+  label: Evil whisperer entering the human interior
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe spiritual temptation, demonic intrusion, or an
+    exegetical image of inner moral struggle.
+  cautions: Source context is essential; could fit ethics/inner life, spirit affliction,
+    sacred law, or commentary rather than a reusable motif. Handle Islamic theological
+    wording carefully.
+  suggested_aliases:
+  - evil_whisperer_within
+  - interior_spiritual_temptation
+  - demonic_whispering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-visitor-recognized-at-a-threshold
+  motif_id: exceptional_visitor_recognized_at_a_threshold
+  label: Exceptional visitor recognized at a threshold
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The main action is recognition of an exceptional identity; the threshold
+    is the scene of disclosure.
+  cautions: If the visitor tests hospitality or guards passage, hospitality_test_stranger_guest
+    or threshold_guardian may be better; label lacks token details.
+  suggested_aliases:
+  - threshold_recognition
+  - visitor_recognized_at_threshold
+  - exceptional_guest_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fabulous-neighboring-or-prior-peoples
+  motif_id: fabulous_neighboring_or_prior_peoples
+  label: fabulous neighboring or prior peoples
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A wondrous neighboring or earlier people could be otherworldly, ancestral,
+    etiological, or ethnographic memory depending on evidence.
+  cautions: Culturally sensitive; do not flatten named peoples into mythic races without
+    source support. Existing divine_race may fit only if divine or semi-divine origin/arrival
+    is explicit.
+  suggested_aliases:
+  - fabulous_prior_people
+  - wondrous_neighboring_people
+  - ancient_neighboring_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - otherworld
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-artificial-head-covering
+  motif_id: failed_artificial_head_covering
+  label: failed artificial head covering
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to reveal whether it concerns ritual dress,
+    failed craft, disguise, protection, or taboo.
+  cautions: Single occurrence and likely over-specific; source context needed before
+    mapping to sacred_craft, sacred_law, shapeshifter/disguise, or exclusion.
+  suggested_aliases:
+  - failed_head_covering
+  - artificial_head_covering_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_law
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several items are etiological but differ in target: landscape/natural marks can
+  fit cosmic_origin, while behavior restrictions fit sacred_law.'
+- Single-occurrence, culturally specific, or highly compressed labels should remain
+  provisional until passage evidence is reviewed.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous and culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1210
+  input_sha256: 63797a7d73f0408ee99af656612c40c31ee5ad1526b39f1400ce83c8fdc3a9b1
+

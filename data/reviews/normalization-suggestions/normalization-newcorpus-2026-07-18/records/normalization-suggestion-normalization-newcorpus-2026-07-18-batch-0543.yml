@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0543
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.scriptural-prophecy-as-explanation-of-a-mythic-repentance
+  motif_id: scriptural_prophecy_as_explanation_of_a_mythic_repentance
+  label: Scriptural prophecy as explanation of a mythic repentance
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an interpretive use of scripture to explain a mythic
+    episode rather than the episode's motif itself.
+  cautions: If the source passage narrates an actual prophetic speech or repentance
+    scene, preserve that evidence separately under prophecy_divination or divine_judgment.
+  suggested_aliases:
+  - scriptural_explanation_of_mythic_repentance
+  - prophetic_interpretation_of_repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scriptural-prophecy-mapped-onto-mythic-ordeal
+  motif_id: scriptural_prophecy_mapped_onto_mythic_ordeal
+  label: Scriptural prophecy mapped onto mythic ordeal
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording signals exegetical mapping between scripture and mythic material,
+    not a reusable narrative motif.
+  cautions: If the ordeal itself is indexed, map that separately to initiation, descent,
+    or divine_judgment as passage evidence supports.
+  suggested_aliases:
+  - scriptural_mapping_onto_mythic_ordeal
+  - prophecy_interprets_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scriptural-repentance-interpreted-as-prophecy
+  motif_id: scriptural_repentance_interpreted_as_prophecy
+  label: Scriptural repentance interpreted as prophecy
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This is an interpretive or exegetical classification of a scriptural
+    passage rather than a motif event.
+  cautions: Could support prophecy_divination only if a prophetic role, omen, or future
+    disclosure is actually narrated in the source evidence.
+  suggested_aliases:
+  - repentance_read_as_prophecy
+  - scriptural_repentance_as_prophetic_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scripture-as-arbiter-of-disputed-truth-and-law
+  motif_id: scripture_as_arbiter_of_disputed_truth_and_law
+  label: Scripture as arbiter of disputed truth and law
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Scripture functioning as the authority resolving truth and law fits sacred
+    law and social order.
+  cautions: May also relate to sacred_knowledge or covenant if the passage emphasizes
+    revelation or binding divine-human obligation rather than adjudication.
+  suggested_aliases:
+  - scriptural_arbitration
+  - revealed_text_as_legal_authority
+  - scripture_resolves_disputed_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-claims-land-prophecy
+  motif_id: sea_claims_land_prophecy
+  label: Sea-claims-land prophecy
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core function is a prophecy about future landscape change or inundation.
+  cautions: Do not map to flood_and_renewal unless the passage describes catastrophic
+    destruction and renewal of an old order; sea/land imagery may also be local etiological
+    geography.
+  suggested_aliases:
+  - prophecy_of_sea_claiming_land
+  - inundation_prophecy
+  - coastal_land_loss_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-future-revelation
+  motif_id: sealed_future_revelation
+  label: sealed future revelation
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: A future revelation that is sealed belongs with prophetic disclosure
+    and controlled access to hidden future knowledge.
+  cautions: If the emphasis is on a sealed book, scroll, or container as object, sacred_vessel
+    or sacred_treasures may be useful secondary indexing.
+  suggested_aliases:
+  - sealed_prophecy
+  - sealed_revelation
+  - future_knowledge_sealed_until_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-initiatory-language-and-pass-words
+  motif_id: secret_initiatory_language_and_pass_words
+  label: Secret initiatory language and pass-words
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: high
+  rationale: Secret language and passwords are markers of initiated status and threshold
+    access.
+  cautions: Culturally sensitive initiatory material should be reviewed carefully;
+    may also relate to afterlife_passage_by_names if passwords enable postmortem transit.
+  suggested_aliases:
+  - initiatory_passwords
+  - secret_ritual_language
+  - initiatory_speech_codes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-knowledge-revealed-by-hidden-child-witnesses
+  motif_id: secret_knowledge_revealed_by_hidden_child_witnesses
+  label: secret knowledge revealed by hidden child witnesses
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on hidden knowledge being witnessed and revealed.
+  cautions: Child-witness detail may be episode-specific; if the passage emphasizes
+    breach of initiation secrecy or taboo, initiation or sacred_law may be better
+    secondary mappings.
+  suggested_aliases:
+  - hidden_witnesses_reveal_secret_knowledge
+  - secret_knowledge_disclosed_by_children
+  - child_witnesses_of_hidden_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-treasure-betrayed-by-incautious-speech
+  motif_id: secret_treasure_betrayed_by_incautious_speech
+  label: secret treasure betrayed by incautious speech
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label focuses on speech causing the loss or exposure of a hidden
+    power or treasure.
+  cautions: If the treasure object is the main recurring element, sacred_treasures
+    may be a secondary mapping; if the scene is only a plot mishap, it may be too
+    specific for broad queries.
+  suggested_aliases:
+  - incautious_speech_reveals_treasure
+  - speech_betrays_secret_treasure
+  - loose_talk_exposes_hidden_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-word-opens-a-hidden-treasure-cave
+  motif_id: secret_word_opens_a_hidden_treasure_cave
+  label: secret word opens a hidden treasure cave
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A spoken secret word performs an action by opening a hidden threshold
+    to treasure.
+  cautions: Also overlaps with sacred_treasures and cave/descent imagery, but should
+    not be treated as underworld descent unless the cave functions as a realm of death
+    or transformation.
+  suggested_aliases:
+  - magic_word_opens_cave
+  - password_opens_hidden_treasure
+  - performative_word_opens_treasure_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several gnostic scriptural-prophecy labels appear to be exegetical or comparative
+  artifacts rather than motifs; exclude unless passage evidence contains a narrated
+  prophecy, repentance, or ordeal independently worth indexing.
+- For sea and cave labels, preserve local imagery but avoid forcing flood, descent,
+  or underworld mappings without narrative function evidence.
+- Speech-related items split between sacred_knowledge and curse_blessing_speech depending
+  on whether the emphasis is hidden knowledge or a performative utterance.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive initiatory and Indigenous
+    material needs human review before final indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0543
+  input_sha256: 3246aab250cc54b32e7bf6787b34d97af15bbd8cd237777d20e0c49f664489ec
+

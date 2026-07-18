@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0286
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-care-from-birth
+  motif_id: divine_care_from_birth
+  label: divine care from birth
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine protection or care from birth fits the protected extraordinary
+    child pattern.
+  cautions: If the passage emphasizes divine providence across a whole life rather
+    than infancy, divine_intervention may be a secondary fit.
+  suggested_aliases:
+  - divine protection from birth
+  - divinely cared-for child
+  - providential care in infancy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-causation-assigned-to-human-war
+  motif_id: divine_causation_assigned_to_human_war
+  label: divine causation assigned to human war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine agency directing or causing human events,
+    specifically war.
+  cautions: Could map to sacred_combat or divine_judgment if the passage frames war
+    as ritual combat or punishment; source evidence is needed.
+  suggested_aliases:
+  - divine causation of war
+  - gods causing human conflict
+  - divine agency in warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-champion-summoned-by-council-of-gods
+  motif_id: divine_champion_summoned_by_council_of_gods
+  label: divine champion summoned by council of gods
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A champion called by gods for conflict fits the divine-warrior role and
+    sacred combat complex.
+  cautions: The council scene may be contextual; preserve it as evidence detail rather
+    than promoting a separate motif unless recurrent.
+  suggested_aliases:
+  - god-summoned champion
+  - divine council summons champion
+  - champion chosen by gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-child-conquering-hostile-animals
+  motif_id: divine_child_conquering_hostile_animals
+  label: Divine child conquering hostile animals
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: An extraordinary child displaying protective or conquering power fits
+    the miraculous-child complex.
+  cautions: If the emphasis is combat over childhood destiny, divine_warrior or sacred_combat
+    may be a secondary mapping; animal detail may be episode-specific.
+  suggested_aliases:
+  - divine child overcomes animals
+  - miraculous child conquers beasts
+  - holy child defeats hostile animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-cloud-concealment
+  motif_id: divine_cloud_concealment
+  label: Divine cloud concealment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity using cloud to hide or protect a figure is direct divine action
+    in human affairs.
+  cautions: Could also involve theophany or sacred_fire/cloud guidance if cloud marks
+    divine presence rather than concealment.
+  suggested_aliases:
+  - divine concealment by cloud
+  - protective cloud concealment
+  - god-sent cloud cover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-co-creation-of-mankind
+  motif_id: divine_co_creation_of_mankind
+  label: divine co-creation of mankind
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Creation of humankind by multiple divine agents belongs under cosmic
+    origin and creation.
+  cautions: If the passage uses sacrifice or divine blood/clay as the mechanism, primordial_sacrifice
+    or sacred_substance may be relevant secondary mappings.
+  suggested_aliases:
+  - gods co-create humankind
+  - joint divine creation of humans
+  - collaborative creation of mankind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-co-presence-in-the-house
+  motif_id: divine_co_presence_in_the_house
+  label: Divine co-presence in the house
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is too context-dependent: it may describe household cult,
+    divine visitation, hospitality, or merely shared presence.'
+  cautions: Review whether a deity appears as guest, protects a household, inhabits
+    a shrine, or is mentioned in commentary before mapping.
+  suggested_aliases:
+  - divine presence in the house
+  - household divine presence
+  - god present in household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-coercion-into-erotic-union
+  motif_id: divine_coercion_into_erotic_union
+  label: divine coercion into erotic union
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif is culturally sensitive and involves coercive sexuality; placement
+    depends on whether the passage frames power, sacred marriage, violence, or genealogy.
+  cautions: Do not normalize into sacred_marriage or sacred_love without review, since
+    coercion changes the narrative and ethical function.
+  suggested_aliases:
+  - coerced erotic union by deity
+  - divine sexual coercion
+  - god compels erotic union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-collection-and-recital-of-revelation
+  motif_id: divine_collection_and_recital_of_revelation
+  label: Divine collection and recital of revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: high
+  rationale: Collection and recital of revelation fits transmission of sacred knowledge
+    and revealed speech.
+  cautions: If the passage specifically concerns oral recitation as sacred power,
+    storytelling_as_power or curse_blessing_speech may be secondary; preserve Islamic
+    revelation context.
+  suggested_aliases:
+  - revelation as recitation
+  - divine recital of revelation
+  - collection of revealed speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-combat-against-set-and-hostile-fiends
+  motif_id: divine_combat_against_set_and_hostile_fiends
+  label: Divine combat against Set and hostile fiends
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: high
+  rationale: Combat by a divine figure against hostile beings fits the divine-warrior
+    and sacred-combat complex.
+  cautions: The named opponent Set is tradition-specific; preserve as evidence detail
+    and avoid treating it as a cross-cultural canonical label.
+  suggested_aliases:
+  - divine combat against hostile fiends
+  - god battles Set
+  - divine warrior against hostile beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply transmission
+  or common origin.
+- Several labels are single-occurrence and should preserve local passage detail rather
+  than become canonical taxonomy motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-api
+  reviewed_at: ''
+  notes: Human review recommended especially for culturally sensitive coercion label
+    and ambiguous household divine presence label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0286
+  input_sha256: ae6b1cfd1fbc5dbf9e2179dca6d5d4f106a32ff92b8fe48707803f1f80f20391
+

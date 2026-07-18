@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0729
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.maiden-and-distinctive-token
+  motif_id: maiden_and_distinctive_token
+  label: maiden and distinctive token
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: medium
+  rationale: A distinctive token associated with a maiden likely functions as an identity,
+    kinship, or recognition proof.
+  cautions: Label is sparse; if the token is only descriptive ornament or courtship
+    detail, preserve as evidence rather than motif.
+  suggested_aliases:
+  - maiden_with_recognition_token
+  - distinctive_token_identifies_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-as-attendant-provider-and-server-for-guest
+  motif_id: maiden_as_attendant_provider_and_server_for_guest
+  label: maiden as attendant, provider, and server for guest
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: role_variant
+  confidence: medium
+  rationale: The maiden’s function is guest service and provision, aligning with hospitality
+    obligations around the guest.
+  cautions: If the passage emphasizes gendered courtly service rather than hospitality
+    as a sacred or narrative test, this may be too contextual.
+  suggested_aliases:
+  - maiden_serves_guest
+  - female_attendant_provides_for_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-bestowed-but-deferred-to-higher-court
+  motif_id: maiden_bestowed_but_deferred_to_higher_court
+  label: Maiden bestowed but deferred to higher court
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern marriage transfer, court hierarchy, sovereignty,
+    or episode-specific plot management.
+  cautions: Single occurrence and highly contextual; needs source evidence before
+    mapping to sacred_love, royal_legitimacy, or sacred_exchange.
+  suggested_aliases:
+  - deferred_bride_bestowal
+  - maiden_grant_referred_to_higher_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-brings-the-hero-s-weapon-into-danger
+  motif_id: maiden_brings_the_hero_s_weapon_into_danger
+  label: maiden brings the hero's weapon into danger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: The weapon appears as a power object whose movement into danger affects
+    heroic action.
+  cautions: Could instead be a plot-specific combat detail, betrayal, or helper role;
+    weapon must carry special authority or narrative power to fit this group.
+  suggested_aliases:
+  - hero_weapon_endangered_by_maiden
+  - maiden_transports_heroic_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-cattle-and-proposed-marriage-in-a-raid-setting
+  motif_id: maiden_cattle_and_proposed_marriage_in_a_raid_setting
+  label: maiden, cattle, and proposed marriage in a raid setting
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The raid setting and cattle context align with the existing cattle-raid
+    and sacred-combat complex.
+  cautions: Marriage proposal and maiden may be important local plot details; avoid
+    reducing to combat if bride-winning or alliance exchange is central.
+  suggested_aliases:
+  - marriage_proposal_in_cattle_raid
+  - cattle_raid_with_maiden_marriage_proposal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-confined-in-inaccessible-tower
+  motif_id: maiden_confined_in_inaccessible_tower
+  label: maiden confined in inaccessible tower
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: A confined maiden in an inaccessible place commonly functions as an obstacle
+    in courtship, rescue, or bride-winning narratives.
+  cautions: If the tower is primarily a cosmic vertical structure or prison of initiation,
+    axis_mundi or initiation may be secondary; source context needed.
+  suggested_aliases:
+  - maiden_in_inaccessible_tower
+  - confined_bride_in_tower
+  - tower_imprisoned_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-connected-to-adversary-helps-the-hero
+  motif_id: maiden_connected_to_adversary_helps_the_hero
+  label: maiden connected to adversary helps the hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a helper role tied to an adversary household, but existing groups
+    do not clearly cover adversary’s daughter/helper bride.
+  cautions: Could fit sacred_love, hero_journey, trickster, betrayal, or bride-winning
+    depending on whether aid, romance, kinship betrayal, or ordeal is central.
+  suggested_aliases:
+  - adversary_connected_maiden_aids_hero
+  - enemy_maiden_helps_hero
+  - helper_maiden_from_enemy_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-hidden-in-a-plant-form-or-plant-enclosure
+  motif_id: maiden_hidden_in_a_plant_form_or_plant_enclosure
+  label: Maiden hidden in a plant form or plant enclosure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A maiden hidden in plant form or plant enclosure suggests concealed embodiment
+    or transformation across human and vegetal forms.
+  cautions: If the plant is only a hiding place, sacred_vessel or otherworld concealment
+    may be better; do not map to sacred_tree_axis unless it functions cosmologically.
+  suggested_aliases:
+  - maiden_hidden_in_plant_form
+  - maiden_concealed_in_plant_enclosure
+  - plant_concealment_of_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-hidden-in-successive-enclosing-forms
+  motif_id: maiden_hidden_in_successive_enclosing_forms
+  label: Maiden hidden in successive enclosing forms
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: Successive enclosing forms center on containment and concealment of a
+    living figure, matching the container/enclosure pattern.
+  cautions: Could also be shapeshifting or external-soul style nested concealment
+    if the forms are transformations or life-token protections.
+  suggested_aliases:
+  - maiden_in_nested_enclosures
+  - successive_enclosures_hide_maiden
+  - nested_concealment_of_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiden-lost-beneath-the-sea
+  motif_id: maiden_lost_beneath_the_sea
+  label: maiden lost beneath the sea
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Loss beneath the sea places the figure in a watery lower realm that may
+    prompt descent, search, or otherworld recovery.
+  cautions: Do not equate with flood or resurrection unless destruction or return
+    is explicit; if only drowning or abduction, death_and_transformation or sacred_love
+    may be secondary.
+  suggested_aliases:
+  - beloved_lost_beneath_sea
+  - maiden_under_the_sea
+  - sea_descent_lost_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence maiden/courtship or helper-role motifs. Human
+  review should verify whether the maiden is narratively central or merely a role
+  in a larger quest, raid, hospitality, or recognition sequence.
+- Avoid creating a broad maiden motif group from these items alone; existing groups
+  can hold most placements provisionally, but adversary-connected helper roles may
+  need later review if they recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0729
+  input_sha256: 2f912009fa87d794f3fe9edfab148c0e62f7e6df47c097417826dcbfc42d7b77
+

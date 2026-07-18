@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0524
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-of-a-named-people-through-encounter-and-adoption
+  motif_id: origin_of_a_named_people_through_encounter_and_adoption
+  label: origin of a named people through encounter and adoption
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes people-origin and eponymous
+    ancestor labels; this is a social origin/etiology pattern.
+  cautions: Adoption and incorporation may be culturally specific social-order evidence;
+    review Navajo source context before broad querying.
+  suggested_aliases:
+  - people_origin_through_adoption
+  - named_people_origin
+  - adoptive_origin_of_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-crane-cry-and-name-through-injury
+  motif_id: origin_of_crane_cry_and_name_through_injury
+  label: Origin of crane cry and name through injury
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is etiological, but existing groups lack a clean animal-sound/name-origin
+    category.
+  cautions: May be an over-specific animal etiology, a place/name etiology, or a transformation/punishment
+    episode; source evidence is needed before mapping.
+  suggested_aliases:
+  - animal_cry_origin
+  - animal_name_origin_through_injury
+  - etiology_of_animal_sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-idolatry-from-deified-ruler-and-multiplied-names
+  motif_id: origin_of_idolatry_from_deified_ruler_and_multiplied_names
+  label: origin of idolatry from deified ruler and multiplied names
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines idolatry, deified rulership, and naming as an origin
+    explanation; current idol handling is explicitly review-only.
+  cautions: May be theological polemic or interpretive commentary rather than a narrative
+    motif; avoid mapping directly to forbidden_knowledge or royal_legitimacy without
+    evidence.
+  suggested_aliases:
+  - idolatry_origin
+  - deified_ruler_as_idol_origin
+  - multiplied_names_origin_of_idolatry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-social-groups-through-named-descendants
+  motif_id: origin_of_social_groups_through_named_descendants
+  label: origin of social groups through named descendants
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The cosmic_origin group already includes genealogical origin of peoples
+    from named ancestors and eponymous progenitors.
+  cautions: If the passage is only a genealogy or ethnographic list without etiological
+    function, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - genealogical_origin_of_social_groups
+  - social_groups_from_named_descendants
+  - eponymous_descendant_group_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-name-spider-tales
+  motif_id: origin_of_the_name_spider_tales
+  label: origin of the name “Spider Tales”
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif explains the naming and authority of a tale cycle, fitting
+    narrative transmission and storytelling as power.
+  cautions: Could be a textual or genre-origin note rather than an in-story motif;
+    review whether the source narrates the acquisition/naming of stories.
+  suggested_aliases:
+  - tale_cycle_name_origin
+  - origin_of_story_name
+  - spider_tales_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ornament-or-token-as-cause-of-combat
+  motif_id: ornament_or_token_as_cause_of_combat
+  label: ornament or token as cause of combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The token functions as the catalyst for conflict, matching combat-catalyst
+    patterns under sacred_combat.
+  cautions: If the ornament primarily proves identity or authority, recognition_tokens_hidden_identity
+    or sacred_treasures may be secondary or better mappings.
+  suggested_aliases:
+  - token_as_combat_catalyst
+  - ornament_causes_combat
+  - power_object_triggers_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ornaments-left-as-trace-of-disappearance
+  motif_id: ornaments_left_as_trace_of_disappearance
+  label: ornaments left as trace of disappearance
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Left ornaments serve as material traces or identity evidence after disappearance,
+    close to recognition-token functions.
+  cautions: If the disappearance is death, abduction, or otherworld passage, death_and_transformation
+    or otherworld may be relevant; label may be episode-specific.
+  suggested_aliases:
+  - ornament_as_trace
+  - left_token_marks_disappearance
+  - token_evidence_of_disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outsider-incorporation-into-named-gentes
+  motif_id: outsider_incorporation_into_named_gentes
+  label: outsider incorporation into named gentes
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe social incorporation into named kin groups,
+    but current groups do not cleanly cover clan/gens adoption as a motif.
+  cautions: Culturally sensitive social-structure evidence; may be ethnographic or
+    legal context rather than mythic pattern. Could relate to people-origin labels
+    under cosmic_origin if etiological.
+  suggested_aliases:
+  - outsider_adoption_into_gentes
+  - incorporation_into_named_kin_groups
+  - social_group_adoption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overthrow-of-named-hostile-being
+  motif_id: overthrow_of_named_hostile_being
+  label: Overthrow of named hostile being
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is too generic and personage-specific without indicating a
+    reusable narrative function beyond defeat of a named opponent.
+  cautions: If source evidence shows cosmic combat, judgment, or chaos-monster defeat,
+    remap to divine_warrior or divine_judgment; otherwise preserve as passage detail.
+  suggested_aliases:
+  - defeat_of_named_enemy
+  - overthrow_of_hostile_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-radiant-messenger-vision
+  motif_id: overwhelming_radiant_messenger_vision
+  label: overwhelming radiant messenger vision
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: A radiant messenger vision is a direct overwhelming manifestation of
+    sacred presence or revelation to a witness.
+  cautions: If the messenger primarily delivers a call or prophecy, divine_intervention,
+    divine_call, or prophecy_divination may be secondary mappings.
+  suggested_aliases:
+  - radiant_messenger_vision
+  - angelic_vision
+  - overwhelming_divine_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are etiological naming or social-origin items; current
+  taxonomy has strong people/place-origin coverage under cosmic_origin but lacks a
+  general animal-name/sound etiology group.
+- Navajo social-structure labels should receive human cultural review before broad
+  pattern-query inclusion.
+- Do not treat placement of Norse idolatry-origin language as evidence for historical
+  transmission or theological equivalence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    sensitive social-origin labels and ambiguous etiological items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0524
+  input_sha256: f96eed36428a9943ffea06ab67379e89fe3c521592514d073c00148a5233322f
+

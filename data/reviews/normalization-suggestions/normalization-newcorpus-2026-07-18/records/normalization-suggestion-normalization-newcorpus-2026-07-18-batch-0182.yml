@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0182
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.faith-defined-family-overriding-biological-kinship
+  motif_id: faith_defined_family_overriding_biological_kinship
+  label: Faith-defined family overriding biological kinship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a binding sacred affiliation displacing ordinary
+    kinship, fitting covenantal or sacred-bond logic.
+  cautions: Could instead be sacred_law or social-order teaching if the passage is
+    primarily ethical instruction rather than narrative bond formation.
+  suggested_aliases:
+  - spiritual_kinship_over_biological_kinship
+  - faith_family_over_blood_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-spouse-accompanying-exile
+  motif_id: faithful_spouse_accompanying_exile
+  label: faithful spouse accompanying exile
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse who accompanies exile expresses love and fidelity through hardship,
+    fitting sacred love more than the journey structure alone.
+  cautions: If the passage emphasizes exile as heroic ordeal rather than marital fidelity,
+    hero_journey may be an appropriate secondary mapping.
+  suggested_aliases:
+  - spousal_fidelity_in_exile
+  - faithful_spouse_in_exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-spouse-follows-into-hardship
+  motif_id: faithful_spouse_follows_into_hardship
+  label: faithful spouse follows into hardship
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif highlights marital devotion proven by shared hardship, a functional
+    variant of enduring sacred love.
+  cautions: Could be too general unless the passage frames the spouse's following
+    as a transformative or exemplary act.
+  suggested_aliases:
+  - spousal_fidelity_through_hardship
+  - faithful_spouse_accompanies_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-host-benefactor-mourned-by-exiles
+  motif_id: fallen_host_benefactor_mourned_by_exiles
+  label: fallen host-benefactor mourned by exiles
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is mourning for a dead benefactor, with exile as the social
+    context of grief.
+  cautions: If the host-benefactor role is more important than mourning, hospitality_test_stranger_guest
+    or sacred_exchange may be relevant; label is episode-specific.
+  suggested_aliases:
+  - mourning_a_fallen_benefactor
+  - exiles_mourn_host_benefactor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-ally-betrays-helpers-after-safe-passage
+  motif_id: false_ally_betrays_helpers_after_safe_passage
+  label: False ally betrays helpers after safe passage
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is betrayal of helpers after receiving aid, making violated
+    trust the operative motif.
+  cautions: Safe passage may also imply sacred_exchange or journey ordeal, but the
+    betrayal function is primary from the label.
+  suggested_aliases:
+  - helper_betrayal_after_safe_passage
+  - false_ally_betrays_benefactors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-bodily-restoration-discovered-after-travel
+  motif_id: false_bodily_restoration_discovered_after_travel
+  label: false bodily restoration discovered after travel
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve failed resurrection, deceptive healing, bodily
+    transformation, or an episode-specific travel revelation.
+  cautions: Source evidence is needed to distinguish death_and_transformation, deception,
+    recognition, or a passage artifact.
+  suggested_aliases:
+  - failed_bodily_restoration_revealed_after_journey
+  - deceptive_restoration_discovered_after_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-claim-of-arrival-causes-fatal-misstep
+  motif_id: false_claim_of_arrival_causes_fatal_misstep
+  label: False claim of arrival causes fatal misstep
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive claim during travel causes death, fitting harmful betrayal
+    or false guidance rather than generic journey.
+  cautions: Could fit trickster if the deceiver's role is liminal or comic, or divine_judgment
+    if the fatal misstep is punishment.
+  suggested_aliases:
+  - false_guidance_causes_fatal_misstep
+  - deceptive_arrival_claim_causes_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-friendship-before-murder
+  motif_id: false_friendship_before_murder
+  label: false friendship before murder
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: Feigning friendship to enable killing is a clear violated-trust and betrayal
+    pattern.
+  cautions: If animal-fable deception is central, trickster may be a secondary placement.
+  suggested_aliases:
+  - feigned_friendship_before_murder
+  - murder_through_false_friendship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-gods-desert-their-worshippers
+  motif_id: false_gods_desert_their_worshippers
+  label: False gods desert their worshippers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The failure or desertion of false gods functions as moral reckoning against
+    misplaced worship.
+  cautions: May be doctrinal polemic rather than a reusable narrative motif; review
+    whether the passage has narrative action or theological commentary only.
+  suggested_aliases:
+  - false_deities_abandon_worshippers
+  - idols_fail_worshippers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-gods-fail-or-withdraw-from-worshippers
+  motif_id: false_gods_fail_or_withdraw_from_worshippers
+  label: False gods fail or withdraw from worshippers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: False divine powers failing their devotees expresses judgment, exposure,
+    and moral reckoning.
+  cautions: Could be an over-specific theological assertion rather than a motif if
+    no narrative scene is present; may overlap with idol/forbidden worship review
+    rules.
+  suggested_aliases:
+  - false_gods_fail_worshippers
+  - false_deities_withdraw_from_devotees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several journey-bucket items are better explained by betrayal, sacred love, lament,
+  or judgment than by travel structure alone.
+- Single-occurrence and doctrinally specific labels should remain provisional until
+  passage evidence confirms reusable motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0182
+  input_sha256: 7be0833da4eba890df27f9a5d1a9d6f35a1eb24d8a2afe597c15cccc4c2f954a
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0453
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.temporary-loss-of-speech-as-divine-sign
+  motif_id: temporary_loss_of_speech_as_divine_sign
+  label: temporary loss of speech as divine sign
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divinely imposed speech loss functions as an embodied sign of sacred
+    manifestation or revelation.
+  cautions: Could also fit curse_blessing_speech if the emphasis is performative speech
+    restriction, or divine_judgment if punitive.
+  suggested_aliases:
+  - divine_sign_through_muteness
+  - speech_loss_as_sacred_sign
+  - temporary_muteness_as_divine_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-muteness-of-a-priestly-figure
+  motif_id: temporary_muteness_of_a_priestly_figure
+  label: Temporary muteness of a priestly figure
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Priestly muteness after or around divine encounter is best treated as
+    a sacred sign tied to manifestation and revelation.
+  cautions: The priestly role may be contextual; if the passage centers on punishment
+    for disbelief, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - priestly_muteness_as_divine_sign
+  - temporary_muteness_as_sacred_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-ritual-mask-destroyed-after-use
+  motif_id: temporary_ritual_mask_destroyed_after_use
+  label: Temporary ritual mask destroyed after use
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritually made and destroyed mask may involve sacred craft, sacrifice,
+    purity, or culturally specific ceremonial protocols.
+  cautions: Culturally sensitive and highly context-dependent; avoid flattening into
+    generic sacred object or sacrifice without source review.
+  suggested_aliases:
+  - ritual_mask_destroyed_after_use
+  - ephemeral_ceremonial_mask
+  - destruction_of_used_ritual_mask
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temptation-by-satan-and-refuge-in-god
+  motif_id: temptation_by_satan_and_refuge_in_god
+  label: Temptation by Satan and refuge in God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on resisting demonic temptation through divinely sanctioned
+    refuge, a moral-protective religious practice.
+  cautions: Could also support divine_judgment if the passage emphasizes accountability,
+    or apotropaic protection if prayer is the main function.
+  suggested_aliases:
+  - satanic_temptation_and_divine_refuge
+  - refuge_in_god_against_temptation
+  - protective_prayer_against_temptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempter-disavows-responsibility-before-the-condemned
+  motif_id: tempter_disavows_responsibility_before_the_condemned
+  label: tempter disavows responsibility before the condemned
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The scene concerns moral responsibility exposed before condemnation,
+    fitting judgment and reckoning.
+  cautions: Preserve the tempter-disavowal detail; do not generalize to all trickster
+    deception unless boundary-crossing disorder is central.
+  suggested_aliases:
+  - tempter_disavowal_at_judgment
+  - deceiver_disavows_the_condemned
+  - temptation_disowned_before_condemnation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempter-induces-unbelief-then-disavows-victim
+  motif_id: tempter_induces_unbelief_then_disavows_victim
+  label: Tempter induces unbelief then disavows victim
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Induced unbelief followed by disavowal frames culpability and condemnation
+    under moral reckoning.
+  cautions: If the source emphasizes the deceiver’s strategy more than judgment, betrayal_violated_trust
+    or trickster may be relevant secondary groups.
+  suggested_aliases:
+  - tempter_induces_unbelief_and_disavows
+  - deceiver_disavows_victim
+  - satanic_disavowal_after_temptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempting-satans-and-protective-prayer
+  motif_id: tempting_satans_and_protective_prayer
+  label: Tempting Satans and protective prayer
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protective prayer against tempting demonic beings fits apotropaic and
+    ritual-protective practice already folded under sacred_law.
+  cautions: Could also relate to curse_blessing_speech because prayer is performative
+    sacred speech; source context should decide primary function.
+  suggested_aliases:
+  - protective_prayer_against_satans
+  - apotropaic_prayer_against_temptation
+  - prayer_refuge_from_tempters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terraced-elevated-sanctuary
+  motif_id: terraced_elevated_sanctuary
+  label: terraced elevated sanctuary
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An elevated terraced sanctuary likely functions as sacred center, ascent
+    structure, or vertical link between ritual space and divine realm.
+  cautions: If merely architectural description without cosmological or ritual-center
+    function, it may be too specific for motif queries.
+  suggested_aliases:
+  - elevated_sanctuary
+  - terraced_sacred_platform
+  - stepped_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrifying-champion-likened-to-beast-monster-and-war-god
+  motif_id: terrifying_champion_likened_to_beast_monster_and_war_god
+  label: terrifying champion likened to beast, monster, and war god
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A terrifying champion assimilated to beast, monster, and war god belongs
+    with sacred combat and divine-warrior imagery.
+  cautions: May be an epic simile or descriptive passage artifact rather than a recurring
+    motif; preserve as evidence detail if single occurrence.
+  suggested_aliases:
+  - terrifying_champion_as_war_god
+  - warrior_likened_to_beast_and_god
+  - monstrous_warrior_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrifying-divine-battle-leader-and-conqueror
+  motif_id: terrifying_divine_battle_leader_and_conqueror
+  label: Terrifying divine battle leader and conqueror
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A divine leader and conqueror in battle is a direct role variant of the
+    divine warrior complex.
+  cautions: If the passage centers on rulership legitimation after conquest, royal_legitimacy
+    may be a secondary mapping.
+  suggested_aliases:
+  - divine_battle_leader
+  - terrifying_divine_conqueror
+  - war_god_as_conqueror
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should remain provisional until source
+  passages confirm motif function rather than descriptive detail.
+- Temptation/protective-prayer items may justify a future demonic temptation or apotropaic
+  prayer subgroup if similar labels recur, but existing sacred_law and divine_judgment
+  groups are adequate for this batch.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual-mask item requires
+    human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0453
+  input_sha256: 6f4b526b4a01c81eb920d68015b70408129998df1febbc3ad2ffa441aba8bc99
+

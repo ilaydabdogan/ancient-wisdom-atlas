@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1644
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.woman-as-mediator-of-civilization
+  motif_id: woman_as_mediator_of_civilization
+  label: Woman as mediator of civilization
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: medium
+  rationale: A figure mediating civilization to humans fits the culture-hero function
+    of bringing social order or knowledge.
+  cautions: Gendered role and Mesopotamian context may carry specific local meaning;
+    review whether the mediation is founding, erotic, domesticating, or priestly before
+    final mapping.
+  suggested_aliases:
+  - female culture mediator
+  - woman as civilizing mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-doctor-figure
+  motif_id: woman_doctor_figure
+  label: woman-doctor figure
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a cultural/ritual role but does not indicate a narrative
+    function covered by the current groups.
+  cautions: Culturally sensitive and likely source-context dependent; avoid forcing
+    into divine_intervention or sacred_knowledge without evidence of healing, initiation,
+    spirit mediation, or ritual authority.
+  suggested_aliases:
+  - female healer figure
+  - woman healer
+  - woman ritual doctor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-formed-from-man-s-rib-and-origin-of-spousal-union
+  motif_id: woman_formed_from_man_s_rib_and_origin_of_spousal_union
+  label: woman formed from man’s rib and origin of spousal union
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an origin account for woman and spousal union, fitting creation
+    and etiological origins.
+  cautions: Could also relate to sacred_marriage or sacred_law if the passage emphasizes
+    marriage order rather than creation; preserve body-derived creation detail as
+    local evidence.
+  suggested_aliases:
+  - creation of woman from rib
+  - origin of marriage from first woman
+  - etiology of spousal union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-prophesied-as-cause-of-communal-destruction
+  motif_id: woman_prophesied_as_cause_of_communal_destruction
+  label: Woman prophesied as cause of communal destruction
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is a prophecy identifying the cause of future communal
+    destruction.
+  cautions: May also belong under divine_judgment, sacred_combat, or sacred_love depending
+    on whether destruction is moral reckoning, war, or a blamed-woman episode; review
+    for gendered scapegoating.
+  suggested_aliases:
+  - prophecy of communal destruction through a woman
+  - woman foretold as doom-bringer
+  - prophesied female cause of destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-takes-up-the-male-hunting-role
+  motif_id: woman_takes_up_the_male_hunting_role
+  label: woman takes up the male hunting role
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns role crossing or gendered social function, but current
+    groups do not cleanly cover gender-role inversion or hunting-role assumption.
+  cautions: Needs source context and culturally careful review; could be initiation,
+    shapeshifter/boundary crossing, sacred law, or a local social-order motif.
+  suggested_aliases:
+  - gender-role crossing in hunting
+  - woman assumes hunter role
+  - female hunter role inversion
+  suggested_new_group:
+    id: gender_role_crossing
+    label: Gender Role Crossing and Social Role Inversion
+    description: A figure crosses, assumes, contests, or transforms gendered social
+      roles, duties, clothing, labor, or ritual positions in ways that alter identity,
+      status, or social order.
+    parent_group_ids:
+    - sacred_law
+    - initiation
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - duality
+    reason_existing_groups_insufficient: Existing groups cover bodily transformation
+      or social law, but not recurring gendered role crossing as a social and ritual
+      motif.
+- suggestion_id: normalization.suggestion.women-s-lament-and-domestic-separation-before-crisis
+  motif_id: women_s_lament_and_domestic_separation_before_crisis
+  label: Women's lament and domestic separation before crisis
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on lament before impending crisis, fitting grief and
+    tragic recognition.
+  cautions: Domestic separation may be episode-specific; if the lament functions mainly
+    as omen or prophecy, dream_and_vision or prophecy_divination may be secondary.
+  suggested_aliases:
+  - women lament before crisis
+  - pre-crisis domestic lament
+  - lament before separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wonder-object-stolen-by-substitution
+  motif_id: wonder_object_stolen_by_substitution
+  label: Wonder-object stolen by substitution
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is a wondrous power object whose possession is transferred
+    by theft and substitution.
+  cautions: If the emphasis is deceit rather than the object, trickster may be a better
+    or secondary group; if the object stores life or fate, external_soul should be
+    considered.
+  suggested_aliases:
+  - stolen wonder object
+  - power object stolen by substitution
+  - substitution theft of magic object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wonders-multiplied-through-royal-resistance
+  motif_id: wonders_multiplied_through_royal_resistance
+  label: wonders multiplied through royal resistance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Multiplying wonders in response to a ruler’s resistance fits direct sacred
+    action in human political affairs.
+  cautions: Could also map to divine_judgment if the wonders are punitive plagues
+    or moral reckoning; preserve the royal-resistance context.
+  suggested_aliases:
+  - miracles multiplied through royal resistance
+  - wonders against resisting ruler
+  - signs escalating before king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wooing-by-proxy
+  motif_id: wooing_by_proxy
+  label: Wooing by proxy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: low
+  rationale: Wooing by an intermediary is a courtship variant within love and marriage
+    narratives.
+  cautions: May be too social or episode-specific unless the proxy wooing drives a
+    mythic marriage, sovereignty, betrayal, or recognition pattern; source context
+    needed.
+  suggested_aliases:
+  - proxy courtship
+  - courtship by intermediary
+  - wooing through a representative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.work-completed-or-left-incomplete-by-dawn
+  motif_id: work_completed_or_left_incomplete_by_dawn
+  label: work completed or left incomplete by dawn
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dawn deadline for completing work commonly functions as a supernatural
+    construction or craft constraint.
+  cautions: If the work is not building/craft, this may instead be a threshold-time
+    ordeal or folktale task; review passage evidence before final placement.
+  suggested_aliases:
+  - dawn deadline for supernatural work
+  - work unfinished at dawn
+  - night work completed before dawn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several one-occurrence labels may be episode-specific
+  and should be checked against source passages before promotion.
+- Avoid using these placements as evidence of transmission or borrowing; they are
+  only normalization aids.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Batch contains multiple gendered or culturally specific role labels requiring
+    human review for local meaning.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1644
+  input_sha256: 420627447644ad01ea51befce50241fd83a0483408bc205e938636f0d27fbd8e
+

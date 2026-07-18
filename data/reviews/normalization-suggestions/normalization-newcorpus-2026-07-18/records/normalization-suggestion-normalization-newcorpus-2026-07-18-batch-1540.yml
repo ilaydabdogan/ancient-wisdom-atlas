@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1540
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pursuit-game-with-cat-attempting-to-catch-rat-through-a-human-barrier
+  motif_id: pursuit_game_with_cat_attempting_to_catch_rat_through_a_human_barrier
+  label: pursuit game with cat attempting to catch rat through a human barrier
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Animal pursuit and evasion may fit trickster or fable reversal patterns,
+    but the human-barrier detail is highly contextual.
+  cautions: Single occurrence; may be a game, performance, or passage-specific scene
+    rather than a reusable motif.
+  suggested_aliases:
+  - cat_and_rat_pursuit_game
+  - animal_pursuit_through_human_barrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-of-a-fleeing-rival
+  motif_id: pursuit_of_a_fleeing_rival
+  label: pursuit of a fleeing rival
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: A rival pursued in flight likely belongs to combat or conflict sequence
+    material when the rivalry is martial or heroic.
+  cautions: Label is generic; if the passage emphasizes romance, succession, deception,
+    or ordinary chase, another group or exclusion may be better.
+  suggested_aliases:
+  - fleeing_rival_pursued
+  - pursuit_of_rival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-averted-by-mediator
+  motif_id: quarrel_averted_by_mediator
+  label: Quarrel averted by mediator
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Mediation that prevents conflict functions as repair of social order
+    and restraint within communal law or ethics.
+  cautions: Could be a narrative device rather than sacred-law motif; verify whether
+    mediation has normative, ritual, legal, or sacred force.
+  suggested_aliases:
+  - mediated_quarrel
+  - conflict_averted_by_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-foreshadowing-later-harm
+  motif_id: quarrel_foreshadowing_later_harm
+  label: Quarrel foreshadowing later harm
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a literary foreshadowing function more than a stable
+    symbolic or narrative motif.
+  cautions: If the quarrel is itself a recurring feud-trigger or oath-breaking episode,
+    remap to sacred_combat, betrayal_violated_trust, or curse_blessing_speech after
+    evidence review.
+  suggested_aliases:
+  - foreshadowing_quarrel
+  - quarrel_as_ominous_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-over-imagined-future-wealth
+  motif_id: quarrel_over_imagined_future_wealth
+  label: Quarrel over imagined future wealth
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A quarrel over imagined wealth resembles greed folly and moral consequence
+    patterns already grouped under divine judgment.
+  cautions: Needs source evidence for moral reckoning or reversal; otherwise it may
+    be a humorous tale detail or social satire.
+  suggested_aliases:
+  - dispute_over_imagined_wealth
+  - greed_quarrel_over_future_gain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarry-pursuit-leading-to-separation
+  motif_id: quarry_pursuit_leading_to_separation
+  label: quarry pursuit leading to separation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A chase after quarry that separates companions can function as departure
+    into ordeal or quest sequence.
+  cautions: If the quarry is enchanted or otherworldly, otherworld or threshold_guardian
+    may be more precise; if merely hunting plot mechanics, exclude as over-specific.
+  suggested_aliases:
+  - hunt_pursuit_causes_separation
+  - pursuit_of_quarry_separates_party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quieting-or-uprooting-evil
+  motif_id: quieting_or_uprooting_evil
+  label: quieting or uprooting evil
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may indicate moral purification, karmic discipline, exorcistic
+    removal, or doctrinal metaphor for eliminating evil.
+  cautions: Buddhist context may make this an ethical-psychological or doctrinal concept
+    rather than divine judgment; review source before mapping.
+  suggested_aliases:
+  - uprooting_evil
+  - subduing_evil
+  - quieting_evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rabbit-number-scale-of-drunkenness
+  motif_id: rabbit_number_scale_of_drunkenness
+  label: Rabbit-number scale of drunkenness
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label links rabbits with degrees of intoxication, fitting sacred
+    or mythic intoxicant symbolism.
+  cautions: Preserve culturally specific rabbit-number symbolism; do not reduce to
+    generic drunkenness if calendrical or deity associations are present.
+  suggested_aliases:
+  - rabbit_scale_of_drunkenness
+  - rabbits_as_degrees_of_intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rabbits-associated-with-drunkenness
+  motif_id: rabbits_associated_with_drunkenness
+  label: rabbits associated with drunkenness
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Rabbit imagery tied to drunkenness belongs with mythic intoxication and
+    sacred substance symbolism.
+  cautions: May require a Nahua-specific alias or child if many rabbit-intoxication
+    labels recur; verify whether deities, calendar signs, or pulque rites are central.
+  suggested_aliases:
+  - rabbit_drunkenness_symbolism
+  - rabbits_and_intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.race-challenge-as-diversion-or-ambush
+  motif_id: race_challenge_as_diversion_or_ambush
+  label: Race challenge as diversion or ambush
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A race challenge used as a diversion or ambush is a deceptive stratagem,
+    fitting trickster and boundary-crossing tactics.
+  cautions: If the passage centers on warfare rather than deception, sacred_combat
+    may be a useful secondary placement.
+  suggested_aliases:
+  - race_as_deceptive_stratagem
+  - race_challenge_ambush
+  - contest_as_diversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence and context-dependent; placements
+  should remain provisional until source passages are checked.
+- Several quarrel and pursuit labels may be narrative mechanics rather than durable
+  motifs unless they recur with a clear mythic function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1540
+  input_sha256: '08c6a7f073d0be1f899592f46fe6c7edab668102c94be5a2dbece4b95a853086'
+

@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0905
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divided-waters-as-path-of-deliverance
+  motif_id: divided_waters_as_path_of_deliverance
+  label: Divided waters as path of deliverance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: Divided waters forming a deliverance path match the existing water-crossing
+    and waters-divided complex.
+  cautions: Do not map to flood_and_renewal unless the passage includes world destruction
+    and renewal.
+  suggested_aliases:
+  - waters_divided
+  - passage_through_waters
+  - parted_waters_as_deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinity-encompassing-creation-preservation-and-destruction
+  motif_id: divinity_encompassing_creation_preservation_and_destruction
+  label: Divinity encompassing creation, preservation, and destruction
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label describes a theological role or doctrinal formulation rather
+    than a clear narrative motif, though it touches cosmic origin and dissolution.
+  cautions: Hindu theological specificity should be reviewed; avoid flattening trimurti
+    or deity-specific doctrine into generic creation symbolism.
+  suggested_aliases:
+  - creation_preservation_destruction_divinity
+  - cosmic_functions_of_divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - flood_and_renewal
+    - world_ages_cosmic_decline
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-cleansing-and-water-bearing
+  motif_id: domestic_cleansing_and_water_bearing
+  label: Domestic cleansing and water-bearing
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a domestic activity or scene detail, not a symbolic
+    motif without evidence of ritual purification or transformation.
+  cautions: If the passage frames water-bearing as a ritual cleansing, remap to sacred_law
+    or sacred_waters after source review.
+  suggested_aliases:
+  - domestic_water_bearing
+  - household_cleansing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-fire-obtained-and-used-to-begin-household-labor
+  motif_id: domestic_fire_obtained_and_used_to_begin_household_labor
+  label: domestic fire obtained and used to begin household labor
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Obtaining household fire to initiate ordered labor fits hearth fire as
+    sacred or organizing domestic force.
+  cautions: If merely a practical action in the passage, treat as scene detail rather
+    than a query motif.
+  suggested_aliases:
+  - domestic_hearth_fire
+  - household_fire_begins_labor
+  - hearth_fire_for_work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-hearth-lamp-complex-organizing-household-activity
+  motif_id: domestic_hearth_lamp_complex_organizing_household_activity
+  label: domestic hearth-lamp complex organizing household activity
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hearth or lamp organizing household activity fits the sacred/domestic
+    fire complex as center and mediator of life.
+  cautions: May be an ethnographic domestic-technology detail; review whether the
+    lamp has ritual, cosmological, or sacred function in context.
+  suggested_aliases:
+  - hearth_lamp_as_household_center
+  - domestic_lamp_organizes_household
+  - sacred_hearth_lamp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-warrior-in-isolated-sea-cave
+  motif_id: doomed_warrior_in_isolated_sea_cave
+  label: Doomed warrior in isolated sea-cave
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines fate, warrior death, isolation, sea, and cave; the
+    dominant motif depends on passage evidence.
+  cautions: Could fit death_by_fate, divine_warrior, sacred_combat, descent, or cave-as-liminal-space;
+    avoid choosing from setting alone.
+  suggested_aliases:
+  - doomed_warrior_in_cave
+  - warrior_in_sea_cave
+  - fated_warrior_isolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids:
+    - death_by_fate
+    - divine_warrior
+    - descent
+    related_group_ids:
+    - sacred_combat
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.draining-a-body-of-water-to-retrieve-a-hidden-object
+  motif_id: draining_a_body_of_water_to_retrieve_a_hidden_object
+  label: Draining a body of water to retrieve a hidden object
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function centers on recovering a hidden object, likely
+    a power object or treasure, with water as concealment barrier.
+  cautions: If the water-draining itself is cosmological or transformative, sacred_waters
+    may be a secondary mapping; confirm the object's sacred or plot function.
+  suggested_aliases:
+  - hidden_object_retrieved_from_water
+  - water_drained_to_recover_treasure
+  - submerged_object_recovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drought-relieved-by-collective-dancing-for-water
+  motif_id: drought_relieved_by_collective_dancing_for_water
+  label: Drought relieved by collective dancing for water
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Collective dancing to obtain water functions as a rainmaking ritual exchange
+    or appeal to sacred powers.
+  cautions: Culturally specific rainmaking practices should be reviewed carefully;
+    could warrant a future rainmaking/weather-ritual group if many labels recur.
+  suggested_aliases:
+  - collective_dance_for_rain
+  - rainmaking_dance
+  - ritual_dance_for_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drought-to-renewal-through-rain
+  motif_id: drought_to_renewal_through_rain
+  label: Drought-to-renewal through rain
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rain transforms drought into renewal, fitting sacred waters as purifier,
+    life-giver, and medium of transformation.
+  cautions: Do not force into flood_and_renewal unless the rain is catastrophic and
+    renews a world or social order after destruction.
+  suggested_aliases:
+  - rain_renews_drought_land
+  - drought_relief_by_rain
+  - life_renewal_through_rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drowned-witch-explains-stormy-lake
+  motif_id: drowned_witch_explains_stormy_lake
+  label: drowned witch explains stormy lake
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological explanation for a stormy lake through a death
+    event, matching existing place/landscape etiology children under cosmic_origin.
+  cautions: If the emphasis is haunting or vengeance by the drowned dead, restless_dead_haunting_vengeance
+    may be a better secondary mapping.
+  suggested_aliases:
+  - stormy_lake_etiology_from_drowning
+  - landscape_etiology_from_drowned_witch
+  - drowning_explains_stormy_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several nature-elements labels are single-occurrence and depend heavily on whether
+  water/fire is symbolic, ritual, cosmological, or merely domestic scene detail.
+- 'Potential recurring gap: rainmaking and weather-renewal rites may eventually need
+  a dedicated group if more examples accumulate, but current items can be provisionally
+  held under sacred_exchange or sacred_waters.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    ritual and theological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0905
+  input_sha256: 064e59b14b523f9f752fe934677e69032cc24663b9df7a744c60b39690397a09
+

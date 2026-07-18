@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0929
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heavenly-lights-used-against-satans
+  motif_id: heavenly_lights_used_against_satans
+  label: Heavenly lights used against Satans
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heavenly lights function as divine or celestial force used against demonic
+    beings, fitting divine light as protective or purifying power.
+  cautions: Could also fit divine_judgment or divine_intervention if the emphasis
+    is punishment or direct divine action rather than light imagery.
+  suggested_aliases:
+  - celestial_lights_against_demons
+  - stars_as_weapons_against_satans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-rider-and-storm-mountain-theophany
+  motif_id: heavenly_rider_and_storm_mountain_theophany
+  label: Heavenly rider and storm-mountain theophany
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly centers on a divine manifestation, with storm and
+    mountain imagery as the manifestation setting and mode.
+  cautions: Secondary indexing to axis_mundi or cosmic_mountain may be useful if the
+    mountain's sacred-center function is explicit.
+  suggested_aliases:
+  - storm_mountain_theophany
+  - heavenly_rider_theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-water-producing-vegetal-abundance
+  motif_id: heavenly_water_producing_vegetal_abundance
+  label: Heavenly water producing vegetal abundance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water from heaven is treated as a sacred life-giving medium producing
+    fertility and abundance.
+  cautions: If the passage emphasizes miraculous provision rather than water symbolism,
+    divine_intervention may be a better group; if seasonal recurrence is central,
+    sacred_time may be secondary.
+  suggested_aliases:
+  - rain_producing_vegetal_abundance
+  - heavenly_waters_of_fertility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-at-impossible-water-boundary
+  motif_id: helper_at_impossible_water_boundary
+  label: helper at impossible water boundary
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: An impossible water boundary marks a transformative or perilous crossing,
+    with the helper enabling passage.
+  cautions: If the helper is the central motif, divine_intervention, animal_helpers,
+    or threshold_guardian may be more appropriate; source context needed.
+  suggested_aliases:
+  - helper_at_water_crossing
+  - aid_at_perilous_water_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-encountered-at-tree-beyond-the-town-threshold
+  motif_id: helper_encountered_at_tree_beyond_the_town_threshold
+  label: helper encountered at tree beyond the town threshold
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines helper encounter, tree imagery, and boundary crossing
+    without enough evidence to identify the dominant motif function.
+  cautions: Could fit axis_mundi if the tree is sacred, hero_journey if it marks departure,
+    threshold_guardian if the helper mediates passage, or be an over-specific scene
+    detail.
+  suggested_aliases:
+  - helper_at_threshold_tree
+  - tree_beyond_town_helper_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heralds-announce-a-migrating-multitude-from-western-waters
+  motif_id: heralds_announce_a_migrating_multitude_from_western_waters
+  label: Heralds announce a migrating multitude from western waters
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe prophecy, migration origin, water boundary, or
+    a passage-specific announcement, and the dominant motif is unclear.
+  cautions: Culturally specific Navajo emergence or migration context should be reviewed
+    by a human; avoid reducing western waters to flood or generic water symbolism
+    without evidence.
+  suggested_aliases:
+  - heralded_migration_from_waters
+  - announcement_of_migrating_people_from_western_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-and-allies-described-through-tree-imagery
+  motif_id: hero_and_allies_described_through_tree_imagery
+  label: hero and allies described through tree imagery
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording suggests descriptive imagery or simile applied to characters
+    rather than a recurring narrative motif involving a sacred tree.
+  cautions: If the passage gives trees an active sacred, genealogical, or cosmic function,
+    reconsider under axis_mundi or sacred_tree_axis; otherwise preserve as literary
+    evidence only.
+  suggested_aliases:
+  - tree_imagery_for_heroes
+  - heroes_described_as_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-as-light-figure-idealized-into-knighthood
+  motif_id: hero_as_light_figure_idealized_into_knighthood
+  label: hero as light-figure idealized into knighthood
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes light symbolism, heroic idealization, and later chivalric
+    framing, making motif function unclear.
+  cautions: May be a reception or characterization artifact rather than a mythic motif;
+    if light is sacred power use sacred_fire, if knightly legitimacy is central use
+    royal_legitimacy or divine_warrior.
+  suggested_aliases:
+  - hero_as_light_figure
+  - idealized_knightly_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-as-rock-driven-by-flood
+  motif_id: hero_as_rock_driven_by_flood
+  label: Hero as rock driven by flood
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could be metaphor, transformation into stone, or flood imagery;
+    the narrative function is not clear from the label alone.
+  cautions: Do not map to flood_and_renewal unless world or social-order destruction
+    and renewal are present; if literal metamorphosis, shapeshifter or death_and_transformation
+    may fit.
+  suggested_aliases:
+  - hero_rock_flood_image
+  - hero_transformed_or_compared_to_rock_in_flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-chained-in-mountain-tower
+  motif_id: hero_chained_in_mountain_tower
+  label: Hero chained in mountain tower
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A mountain tower is a charged vertical boundary or elevated confinement
+    site, fitting the axis/sacred-height complex when the setting carries mythic force.
+  cautions: If the emphasis is imprisonment or heroic ordeal rather than sacred verticality,
+    initiation, hero_journey, or divine_warrior may be better; passage evidence needed.
+  suggested_aliases:
+  - hero_imprisoned_in_mountain_tower
+  - chained_hero_on_sacred_height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch combine nature imagery with narrative roles; reviewers
+  should distinguish symbolic setting from the main narrative function.
+- Avoid mapping water labels to flood_and_renewal unless catastrophic destruction
+  and renewal are explicit.
+- Single-occurrence literary or descriptive labels should remain provisional and may
+  be excluded if no recurring motif function is evident.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0929; human review
+    recommended for ambiguous composite labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0929
+  input_sha256: 1da6e2bdbfb858fb019076d84085d0ec957ab8448b38eb9ea384bcea9f92af06
+

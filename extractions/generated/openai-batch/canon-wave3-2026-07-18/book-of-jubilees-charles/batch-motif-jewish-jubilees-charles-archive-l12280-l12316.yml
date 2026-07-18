@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l12280-l12316
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER VIII. 20-25 73 / CHAPTER IX. 4-14 77 / CHAPTER X. 6-17 81 / CHAPTER
+    X. 18-25 83; lines 12280-12316
+  start: '12280'
+  end: '12316'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains a territorial-allotment tradition: Palestine is said
+    to have fallen by lot to Arpachshad, while Canaan received north-west Africa but
+    wrongfully seized Palestine. Cited parallels state that Palestine or Judaea belonged
+    to Shem''s lot, that Canaan son of Ham seized it, that God delayed judgment to
+    allow repentance and restoration, and that God later avenged the oath violation.
+    Other cited parallels describe Canaan seizing the better land toward Lebanon and
+    Shem receiving the central land including Judaea.'
+  language: English with Greek and Latin citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Palestine fell by lot to Arpachshad, while north-west Africa
+    fell by lot to Canaan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says Canaan wrongfully seized Palestine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Epiphanius citation says Palestine and nearby lands fell within Shem's
+    lot, and that Canaan son of Ham later came into the land of Palestine or Judaea
+    and took it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Epiphanius citation says God gave time for repentance and for descendants
+    of Ham to return the inheritance to those of Shem.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Epiphanius citation says the descendants of Ham did not repent, and that
+    God later justly avenged the transgression of the oath.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Glycas citation says Canaan son of Ham saw that the land toward Lebanon
+    was better than his own land and seized it tyrannically.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Clementine Recognitions citation says the elder brother Shem received
+    a dwelling lot in the middle of the earth, including the region of Judaea.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Arpachshad
+  description: Named as the recipient of Palestine by lot in the note.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Canaan
+  description: Named as recipient of north-west Africa by lot and as the one who wrongfully
+    or tyrannically seized Palestine, Judaea, or the land toward Lebanon; identified
+    in cited parallels as son of Ham.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Shem
+  description: Named in cited parallels as the one whose lot includes Palestine and
+    nearby lands, or as the elder brother who received a central dwelling lot including
+    Judaea.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Ham
+  description: Named as Canaan's father; descendants of Ham are described as needing
+    to return the inheritance to those of Shem.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: God
+  description: In the Epiphanius citation, God gives time for repentance and later
+    avenges the oath transgression.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Amorites
+  description: Named through the statement that the measure of the Amorites had to
+    be fulfilled.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: allotted land recipient
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage and its citations describe lands falling by lot to Arpachshad,
+    Canaan, and Shem.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: wrongful land-seizer
+  assigned_to:
+  - fig:2
+  basis: Canaan is repeatedly described as wrongfully or tyrannically taking Palestine,
+    Judaea, or land toward Lebanon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: delaying and avenging divine judge
+  assigned_to:
+  - fig:5
+  basis: God is described as allowing time for repentance and later avenging the oath
+    violation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rightful inheritance holder
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Palestine is assigned to Arpachshad in the note and to Shem's lot in cited
+    parallels; the Epiphanius citation speaks of returning the inheritance to those
+    of Shem.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: ancestor of the seizer
+  assigned_to:
+  - fig:4
+  basis: Canaan is identified as son of Ham, and the descendants of Ham are linked
+    with the failure to restore the inheritance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: people whose measure is fulfilled
+  assigned_to:
+  - fig:6
+  basis: The passage states that the measure of the Amorites had to be fulfilled.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: territorial lot
+  literal_form: Lots assigning lands such as Palestine, north-west Africa, and Judaea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: contested inheritance land
+  literal_form: Palestine, Judaea, and the land toward Lebanon as assigned or seized
+    territory
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: oath
+  literal_form: The oath whose transgression God later avenges
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: middle of the earth
+  literal_form: Shem's dwelling lot in the middle of the earth, including Judaea
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: measure of the Amorites
+  literal_form: The Amorites' measure that must be fulfilled
+  associated_figures:
+  - fig:6
+  - fig:5
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Territorial allotment and seizure
+  summary: 'Lands are assigned by lot: Palestine to Arpachshad in the note and Palestine
+    or nearby lands to Shem in cited parallels, while Canaan receives another territory
+    but seizes Palestine or Judaea.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine forbearance and judgment
+  summary: God gives time for repentance and restoration of Shem's inheritance; the
+    offenders do not repent, and God later avenges the oath violation, with the Amorites'
+    measure fulfilled.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Parallel accounts of Lebanon and central Judaea
+  summary: A cited parallel says Canaan seized the better land toward Lebanon, and
+    another cited parallel says Shem received the central land of the earth, including
+    Judaea.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Territory assigned by lot
+  taxonomy_refs: []
+  basis: The passage repeatedly frames land possession through lots assigning Palestine,
+    north-west Africa, and Judaea to named ancestral figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The supplied text is an editorial note with comparative citations rather
+    than a continuous narrative episode.
+- id: motif:2
+  label: Usurpation of another lineage's inheritance
+  taxonomy_refs: []
+  basis: Canaan is described as wrongfully or tyrannically seizing land that the passage
+    or its cited parallels assign to Arpachshad or Shem.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific taxonomy family exactly matching land-usurpation is supplied;
+    it is kept as a plain motif label.
+- id: motif:3
+  label: Delayed divine judgment for oath violation
+  taxonomy_refs:
+  - divine_judgment
+  basis: God allows time for repentance and restoration, but later avenges the transgression
+    of the oath when repentance does not occur.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The oath itself is referred to in the cited Greek passage as summarized
+    here; its full narrative context is outside the supplied passage.
+- id: motif:4
+  label: Central land as ancestral inheritance
+  taxonomy_refs:
+  - world_center
+  basis: The Clementine Recognitions citation places Shem's dwelling lot in the middle
+    of the earth and identifies it with Judaea.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif is supported by a cited parallel within the note, not by the
+    main explanatory sentence about Arpachshad and Canaan.
+- id: motif:5
+  label: Wrongdoing reaching its measure before judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Epiphanius citation links God's later vengeance with the fulfillment
+    of the Amorites' measure.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The phrase is brief and allusive; the larger context of the Amorites'
+    measure is not included in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the Jubilees tradition with Epiphanius, Syncellus, and
+    Glycas as parallel accounts in which Canaan or the Hamite line seizes land that
+    belongs to Shem's or Arpachshad's allotted inheritance.
+  claim_level: same_motif
+  target: Epiphanius, Ancoratus cxiv; Syncellus i.83; Glycas 242
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies excerpts or references through an editorial note;
+    it does not establish direct dependence among all cited sources.
+- id: claim:2
+  claim: The Clementine Recognitions citation shares the land-by-lot pattern by assigning
+    Shem a dwelling lot in the middle of the earth, including Judaea.
+  claim_level: same_function
+  target: Clementine Recognitions i.30
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited Clementine excerpt emphasizes allotment and central Judaea,
+    but the supplied excerpt does not narrate Canaan's wrongful seizure; the note
+    also flags directional corrections.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12280-12284
+  quote_or_summary: The note says Palestine fell by lot to Arpachshad, north-west
+    Africa to Canaan, and Canaan wrongfully seized Palestine.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 12284-12299
+  quote_or_summary: The Epiphanius citation says Palestine and nearby lands were Shem's
+    lot; Canaan son of Ham later seized Judaea/Palestine; God gave time for repentance
+    and return; they did not repent, and God later avenged the oath transgression
+    so that the Amorites' measure might be fulfilled.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:3
+  type: summary
+  locator: lines 12299-12308
+  quote_or_summary: 'The note cites other parallels and says Glycas comes close to
+    the text: Canaan son of Ham saw the land toward Lebanon was better than his own
+    and seized it tyrannically.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:4
+  type: summary
+  locator: lines 12308-12314
+  quote_or_summary: The Clementine Recognitions citation assigns the elder brother
+    Shem a dwelling lot in the middle of the earth, including Judaea, with younger
+    brothers assigned directions that the note says should be corrected.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summary allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal elements are clear, but the supplied passage is mostly editorial
+    commentary and comparative citation, with mixed English, Greek, and Latin and
+    some textual-correction notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final textual note about Jordan/Lebanon was not treated as an independent narrative motif.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l12280-l12316
+  passage_sha256=9106aa1ac18f5133777454ba4cdc98fe6c7d1af82f764d7ef3dc646354df17ce
+

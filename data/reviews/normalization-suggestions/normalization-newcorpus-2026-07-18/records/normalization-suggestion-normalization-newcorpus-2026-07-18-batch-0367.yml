@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0367
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-arrangement-attributed-to-divine-guidance
+  motif_id: marriage_arrangement_attributed_to_divine_guidance
+  label: marriage arrangement attributed to divine guidance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes divine guidance directing a human marriage arrangement.
+  cautions: Could also relate to sacred_marriage or sacred_love if the passage frames
+    marriage as cosmic, royal, or devotional union rather than guidance.
+  suggested_aliases:
+  - divinely guided marriage
+  - marriage arranged by divine guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-ordered-by-sacred-authority
+  motif_id: marriage_ordered_by_sacred_authority
+  label: Marriage ordered by sacred authority
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Marriage commanded by sacred authority functions as a norm or obligation
+    under sacred order.
+  cautions: If the source stresses divine intervention in arranging events, divine_intervention
+    may be a secondary mapping; if it legitimizes lineage or rule, royal_legitimacy
+    may apply.
+  suggested_aliases:
+  - sacredly ordered marriage
+  - divinely commanded marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-vow-conditioned-on-fearlessness
+  motif_id: marriage_vow_conditioned_on_fearlessness
+  label: Marriage vow conditioned on fearlessness
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A condition attached to marriage or bride-winning fits the existing sacred_love
+    cluster containing marriage choice and bride-winning motifs.
+  cautions: If fearlessness is the central ordeal rather than the marriage bond, initiation
+    or sacred_combat may be better secondary contexts.
+  suggested_aliases:
+  - fearlessness condition for marriage
+  - bride-winning condition of fearlessness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-force-opposed-to-erotic-or-persuasive-divine-aid
+  motif_id: martial_force_opposed_to_erotic_or_persuasive_divine_aid
+  label: Martial force opposed to erotic or persuasive divine aid
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and contrasts narrative forces rather than naming
+    a clear recurring motif.
+  cautions: Could fit divine_warrior, sacred_love, divine_intervention, or a passage-specific
+    literary contrast depending on evidence; avoid treating broad opposition as a
+    taxonomy placement without context.
+  suggested_aliases:
+  - warfare opposed by erotic divine aid
+  - persuasion over martial force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-fourfold-sacred-architecture
+  motif_id: marvelous_fourfold_sacred_architecture
+  label: marvelous fourfold sacred architecture
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sacred architecture with cosmological fourfold patterning likely marks
+    a sacred center or ordered cosmos.
+  cautions: If the passage is mainly about construction skill, sacred_craft may be
+    secondary; if fourfoldness encodes cosmic opposition or quarters, duality or cosmic_origin
+    may also be relevant.
+  suggested_aliases:
+  - fourfold sacred architecture
+  - quadripartite sacred architecture
+  - cosmic fourfold building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-ceremonial-characters-shared-across-rites
+  motif_id: masked_ceremonial_characters_shared_across_rites
+  label: masked ceremonial characters shared across rites
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual roles across ceremonies rather than a narrative
+    motif, and the cultural context is sensitive.
+  cautions: Human review should confirm whether this is an indexable ritual-personation
+    motif or an ethnographic/classificatory note; avoid overgeneralizing specific
+    ceremonial beings.
+  suggested_aliases:
+  - masked ritual characters
+  - ceremonial masked roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-divine-personation-in-ceremony
+  motif_id: masked_divine_personation_in_ceremony
+  label: masked divine personation in ceremony
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Masked embodiment of sacred beings in ritual is a coherent pattern, but
+    no existing group cleanly covers ritual personation.
+  cautions: Culturally sensitive ceremonial material needs review; theophany may be
+    related only if the source frames the event as divine manifestation to witnesses.
+  suggested_aliases:
+  - ritual divine personation
+  - masked deity embodiment
+  - ceremonial divine embodiment
+  suggested_new_group:
+    id: ritual_personation
+    label: Ritual Personation and Sacred Masking
+    description: Ceremonial masking, embodiment, or personation of divine, ancestral,
+      spirit, or semi-divine beings by ritual actors.
+    parent_group_ids:
+    - divine_intervention
+    - theophany
+    related_group_ids:
+    - sacred_law
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover divine manifestation,
+      intervention, or transformation, but not ritual embodiment/personation by ceremonial
+      actors.
+- suggestion_id: normalization.suggestion.masked-ritual-embodiment-of-demi-god
+  motif_id: masked_ritual_embodiment_of_demi_god
+  label: masked ritual embodiment of demi-god
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label matches a ritual personation or sacred masking pattern not
+    fully represented by current groups.
+  cautions: Culturally sensitive ceremonial material needs human review; do not collapse
+    into shapeshifter unless actual change of form is central.
+  suggested_aliases:
+  - masked demigod embodiment
+  - ritual embodiment of a demigod
+  - masked sacred personation
+  suggested_new_group:
+    id: ritual_personation
+    label: Ritual Personation and Sacred Masking
+    description: Ceremonial masking, embodiment, or personation of divine, ancestral,
+      spirit, or semi-divine beings by ritual actors.
+    parent_group_ids:
+    - divine_intervention
+    - theophany
+    related_group_ids:
+    - sacred_law
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover divine manifestation,
+      intervention, or transformation, but not ritual embodiment/personation by ceremonial
+      actors.
+- suggestion_id: normalization.suggestion.material-spoils-redirected-toward-divine-purpose
+  motif_id: material_spoils_redirected_toward_divine_purpose
+  label: material spoils redirected toward divine purpose
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Redirecting spoils to a divine purpose functions as dedicatory giving
+    or sacred redistribution.
+  cautions: If the emphasis is legal regulation of spoils, sacred_law or covenant
+    may be more precise; if offered as sacrifice, sacrifice may be secondary.
+  suggested_aliases:
+  - spoils dedicated to divine purpose
+  - war spoils consecrated
+  - material goods redirected to the sacred
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-curse-causing-enchanted-captivity
+  motif_id: maternal_curse_causing_enchanted_captivity
+  label: Maternal curse causing enchanted captivity
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A mother's curse that causes captivity centers on performative speech
+    producing binding transformation.
+  cautions: If the captivity occurs in an enchanted realm, otherworld may be a secondary
+    mapping; if the curse transforms bodily form, shapeshifter may also apply.
+  suggested_aliases:
+  - maternal curse
+  - curse causing enchanted captivity
+  - binding curse by mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several marriage-related labels may require passage context to distinguish sacred
+  law, divine guidance, sacred love, and sacred marriage functions.
+- Masked ceremonial personation labels appear culturally sensitive and may warrant
+  a future ritual_personation group, but should not be promoted without human review
+  and source evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; ritual personation and abstract contrast labels
+    especially need human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0367
+  input_sha256: de74e70f61ad0368d91763210249ca63e58378d74147102a1207785f9097c980
+

@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l1566-l1672
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: INDEXES / ADDENDA 300 / INTRODUCTION / THUS     THERE     RESULTS     AS    THE     PROBABLE     YEAH,    OF     THE;
+    lines 1566-1672
+  start: '1566'
+  end: '1672'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly introduction discusses chronological discrepancies in notices
+    about Asoka, Mutasiva, Devanampiyatissa, the planting of the Bodhi-tree at Anuradhapura,
+    Mahinda's arrival in Ceylon, and the foundations of the Mahavihara and Abhayagiri-vihara.
+    It compares dates and readings in the Mahavamsa, Samantapasadika, Dipavamsa, inscriptions,
+    and later Ceylonese sources.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the cited Samantapasadika phrasing is not ambiguous about
+    Mutasiva's death and Devanampiyatissa obtaining kingship, but the author recalculates
+    Tissa's coronation as falling in the eighteenth year of Asoka rather than the
+    seventeenth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Mahavamsa 20.1 places the planting of the Bodhi-tree
+    in Anuradhapura in Asoka's eighteenth year, while the author says the event should
+    fall in Asoka's nineteenth year.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mahavamsa 33.80-81 is reported as giving 217 years, 10 months, and 10 days
+    between the founding of the Mahavihara by Devanampiyatissa and the founding of
+    the Abhayagiri-vihara by Vattagamani.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mahinda is said to have come to Ceylon on the full-moon day of the month Jettha
+    and to have come to the capital one day later.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The king is said to have presented the Mahameghavana to Mahinda and his companions
+    as an arama; the passage identifies this as the founding day of the Mahavihara.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says the founding of the Abhayagiri-vihara took place in the second
+    half of Vattagamani's reign, which the author places near the end of 29 B.C. or
+    the beginning of 28 B.C.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The passage discusses variant manuscript readings for the reign of the Damilas
+    Sena and Guttika, contrasting twenty-two years with twelve years.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Asoka
+  description: A ruler whose abhiseka and regnal years are used to date events in
+    the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mutasiva
+  description: A king mentioned in the cited Samantapasadika phrasing as having died
+    before Devanampiyatissa obtained kingship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Devanampiyatissa
+  description: A king whose coronation and role in the founding of the Mahavihara
+    are discussed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Mahinda
+  description: A religious figure who came to Ceylon, came to the capital, and received
+    the Mahameghavana with his companions.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Mahinda's companions
+  description: The companions of Mahinda who are included as recipients when the Mahameghavana
+    is presented as an arama.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Vattagamani
+  description: A ruler associated with the founding of the Abhayagiri-vihara and with
+    chronological calculations in the passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Sena and Guttika
+  description: Damilas whose reign length is discussed through variant textual readings.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: regnal dating reference
+  assigned_to:
+  - fig:1
+  basis: Asoka's abhiseka and regnal years are used to date Tissa's coronation and
+    the Bodhi-tree planting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deceased predecessor king
+  assigned_to:
+  - fig:2
+  basis: The cited phrasing says Mutasiva died before Devanampiyatissa obtained kingship.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: king whose coronation is dated
+  assigned_to:
+  - fig:3
+  basis: The passage discusses Devanampiyatissa's coronation in relation to Asoka's
+    regnal year.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: royal founder or donor associated with Mahavihara
+  assigned_to:
+  - fig:3
+  basis: The passage says the Mahavihara was founded by Devanampiyatissa and that
+    the king presented the Mahameghavana to Mahinda and companions.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: arrival figure
+  assigned_to:
+  - fig:4
+  basis: Mahinda is said to have come to Ceylon and then to the capital.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: recipient of royal gift
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Mahameghavana is presented to Mahinda and his companions as an arama.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: monastery founder associated with later chronology
+  assigned_to:
+  - fig:6
+  basis: The passage links Vattagamani with the founding of Abhayagiri-vihara and
+    with later chronological calculations.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:8
+  label: rulers in variant reign-length reading
+  assigned_to:
+  - fig:7
+  basis: The passage contrasts manuscript readings that give Sena and Guttika either
+    twenty-two or twelve years of reign.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Bodhi-tree
+  literal_form: tree planted in Anuradhapura
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Mahameghavana
+  literal_form: place presented as an arama
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: full-moon day of Jettha
+  literal_form: calendrical full-moon day marking Mahinda's arrival
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Recalculation of Tissa's coronation
+  summary: The author discusses the Samantapasadika wording about Mutasiva and Devanampiyatissa
+    and argues that Tissa's coronation falls in Asoka's eighteenth regnal year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bodhi-tree planting date discrepancy
+  summary: The passage compares the Mahavamsa date for the planting of the Bodhi-tree
+    at Anuradhapura with the author's recalculation to Asoka's nineteenth year.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mahinda's arrival and Mahavihara foundation
+  summary: Mahinda arrives in Ceylon, comes to the capital, stays in Mahameghavana,
+    and the king presents the place to Mahinda and his companions as an arama, which
+    is identified as the founding of the Mahavihara.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Abhayagiri-vihara chronological calculation
+  summary: The passage calculates the interval between the founding of Mahavihara
+    and Abhayagiri-vihara, links Abhayagiri's foundation to Vattagamani, and discusses
+    related inscriptional and regnal data.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Variant reign-length reading for Sena and Guttika
+  summary: The passage discusses whether a manuscript reading gives Sena and Guttika
+    twenty-two or twelve years of reign and notes the Dipavamsa reading.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: sacred tree planting at a royal city
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage mentions the planting of the Bodhi-tree in Anuradhapura and dates
+    it by Asoka's regnal year.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage only discusses chronology; it does not describe ritual, cosmic-axis
+    symbolism, or narrative meaning of the Bodhi-tree.
+- id: motif:2
+  label: royal gift of land for a religious foundation
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The king presents Mahameghavana to Mahinda and his companions as an arama,
+    and the passage identifies this as the founding of the Mahavihara.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is historical-chronological exposition rather than a full
+    narrative of ritual exchange.
+- id: motif:3
+  label: royal monastic foundation and chronology
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Devanampiyatissa and Vattagamani are linked to the foundations of major monasteries,
+    and the passage treats these foundations as important chronological events.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: low
+  cautions: Royal legitimacy is not explicitly argued in the passage; the evidence
+    supports royal involvement in foundations, not a developed legitimacy narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Mahavamsa chronology with nearby textual witnesses such
+    as the Samantapasadika and Dipavamsa, noting divergent or corrective regnal-year
+    reckonings for events connected with Devanampiyatissa, Asoka, and Mahinda.
+  claim_level: same_function
+  target: Samantapasadika and Dipavamsa chronological notices alongside Mahavamsa
+    notices
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a comparison of chronological witnesses, not a claim of shared
+    mythic motif or historical contact beyond the passage's own textual comparison.
+- id: claim:2
+  claim: The passage compares Mahavamsa data with later Ceylonese or inscriptional
+    traditions that preserve related numbers for Vattagamani and the Abhayagiri-vihara
+    chronology.
+  claim_level: same_function
+  target: Galvihara inscription, Nikaya Samgraha, Mahavamsa Tika, and later Ceylonese
+    literature as chronological witnesses
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports comparison of date traditions and manuscript readings
+    only; it does not establish a motif transmission argument.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1566-1579
+  quote_or_summary: The passage discusses Samantapasadika wording about Mutasiva's
+    death and Devanampiyatissa's accession, then argues that Tissa's coronation falls
+    in Asoka's eighteenth rather than seventeenth year.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:2
+  type: summary
+  locator: lines 1581-1588
+  quote_or_summary: Mahavamsa 20.1 is said to place the planting of the Bodhi-tree
+    in Anuradhapura in Asoka's eighteenth year, while the author states that the event
+    falls in the nineteenth year and that dates based on it shift accordingly.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:3
+  type: summary
+  locator: lines 1593-1597
+  quote_or_summary: According to Mahavamsa 33.80-81, there is an interval of 217 years,
+    10 months, and 10 days between the founding of the Mahavihara by Devanampiyatissa
+    and the founding of Abhayagiri-vihara by Vattagamani.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:4
+  type: summary
+  locator: lines 1599-1603 and 1623
+  quote_or_summary: Mahinda came to Ceylon on the full-moon day of Jettha and came
+    to the capital the following day, spending the night in Mahameghavana.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:5
+  type: summary
+  locator: lines 1623-1628
+  quote_or_summary: The king presented Mahameghavana to Mahinda and his companions
+    as an arama on May 18, 246 B.C.; the passage identifies this as the founding of
+    the Mahavihara and then calculates a date for Abhayagiri-vihara.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:6
+  type: summary
+  locator: lines 1630-1638
+  quote_or_summary: The author emphasizes dates that state intervals between important
+    events and notes that the number 218 connected with Vattagamani was known later,
+    including in the Galvihara inscription calculation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:7
+  type: summary
+  locator: lines 1640-1645
+  quote_or_summary: The passage says Mahavamsa 33.78 ff. places the founding of Abhayagiri-vihara
+    in the second half of Vattagamani's reign, which the author places at the end
+    of 29 or beginning of 28 B.C.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:8
+  type: summary
+  locator: lines 1647-1653
+  quote_or_summary: Adding individual reign figures between Devanampiyatissa and Vattagamani
+    gives Vattagamani's second accession in 39 B.C., creating an approximate ten-year
+    difference.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+- id: ev:9
+  type: summary
+  locator: lines 1655-1661
+  quote_or_summary: The author discusses variant readings for Mahavamsa 21.11, where
+    Sena and Guttika may have twenty-two rather than twelve years of reign; the Dipavamsa
+    has the twelve-year reading, while later Ceylonese literature is also considered.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; provided metadata allows full text and training
+    use.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a modern chronological discussion rather than a mythic narrative.
+    Literal persons, places, dates, and textual comparisons are clear, but motif assignments
+    are limited and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No additional figures, symbols, or motif-family links have been inferred beyond what the supplied passage supports.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l1566-l1672
+  passage_sha256=5c1fe583eb0575d9c0ec1a1c6ad5f3917d0e5b54a28657a2638ade9696da60ef
+

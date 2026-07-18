@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l8286-l8310
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: THE BOOK OF JUBILEES / CHAPTER IV. 17, 18 37 / CHAPTER IV. 19-26 / CHAPTER
+    IV. 27-31 41; lines 8286-8310
+  start: '8286'
+  end: '8310'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is editorial commentary on names and textual variants. It notes
+    the name Emzdrd in Syriac and manuscript witnesses and connects its derivation
+    with living in the days of the Flood. It also notes an emendation of “Brother”
+    and discusses the order of Shem, Ham, and Japhet/Japheth, stating that Jubilees
+    represents Shem as the eldest and comparing this reading with Genesis 10:21 and
+    several interpretive traditions.
+  language: English, with Hebrew/Greek transliteration and Greek text fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies the name Emzdrd and says it is found in the Syriac Fragment
+    and Lagarde’s LAX MS 7.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Frankel is cited as deriving the name Emzdrd from words connected by the note
+    with her living in the days of the Flood.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The word “Brother” is described as emended as in verse 15.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note lists Shem, Ham, and Japhet.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that Jubilees represents Shem as the eldest, and compares
+    this with Jubilees x.14 and interpretations of Genesis x.21.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Emzdrd
+  description: A named female figure whose name is discussed in relation to manuscript
+    witnesses and the days of the Flood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shem
+  description: A named figure in the listed sequence “Shem . Ham . Japhet,” represented
+    in the note as the eldest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Ham
+  description: A named figure in the listed sequence “Shem . Ham . Japhet.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Japhet/Japheth
+  description: A named figure in the listed sequence and in the discussion of whether
+    Shem is the elder brother of Japhet or Japheth is the elder.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: figure associated with the days of the Flood
+  assigned_to:
+  - fig:1
+  basis: The note explains Emzdrd’s name in connection with her living in the days
+    of the Flood.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: eldest brother in the discussed reading
+  assigned_to:
+  - fig:2
+  basis: The commentary states that Shem is represented as the eldest and as older
+    than Japhet in a cited tradition.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named figure in genealogical order note
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ham and Japhet/Japheth are named in the sequence being discussed, but no
+    further action is described in the passage.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Flood
+  literal_form: the Flood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Flood-era association
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage explicitly mentions the Flood only as the time in which Emzdrd
+    lived, not as a narrated flood episode.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is a passing chronological and etymological reference in commentary,
+    not a narrative flood scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Jubilees’ representation of Shem as eldest with Genesis
+    x.21 and with other textual or interpretive traditions, noting disagreement over
+    whether Shem or Japheth is the elder.
+  claim_level: linguistic_similarity
+  target: Genesis x.21, Vulgate, Masoretic interpretation, Symmachus, Rashi, LXX,
+    Bereshit Rabbah, Book of Jashar, and Sanhedrin 69b traditions on Shem and Japheth
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns textual interpretation and genealogical ordering,
+    not a fully developed mythic motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8286-8291
+  quote_or_summary: "“‘Emzdrd. This name is found in the Syriac Fragment and Lagarde’s
+    LAX MS 7... because she lived in the days of the Flood.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:2
+  type: quote
+  locator: 8292-8293
+  quote_or_summary: "“Brother. Emended as in ver. 15.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:3
+  type: summary
+  locator: 8294-8310
+  quote_or_summary: The note lists “Shem . Ham . Japhet,” says Jubilees again represents
+    Shem as the eldest, discusses Genesis x.21, and contrasts several traditions that
+    read the elder-brother relation differently.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized for concision.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily textual commentary rather than narrative. Motif
+    extraction is limited to the explicit Flood reference and genealogical-order discussion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scene is extracted because the supplied passage consists of editorial notes and textual comparisons.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l8286-l8310
+  passage_sha256=c824bf23fd555b5b469d05cd7ff7122b1001742df19d8c765b2e68dc54540df5
+

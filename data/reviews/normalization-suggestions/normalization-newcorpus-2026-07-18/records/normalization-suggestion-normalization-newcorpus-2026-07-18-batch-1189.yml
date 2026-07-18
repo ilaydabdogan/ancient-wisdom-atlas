@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1189
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weapon-impervious-monster-defeated-by-alternate-method
+  motif_id: weapon_impervious_monster_defeated_by_alternate_method
+  label: Weapon-impervious monster defeated by alternate method
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Existing group explicitly includes monsters impervious to ordinary weapons
+    and defeated by alternate means.
+  cautions: Preserve the specific alternate method in evidence notes; do not collapse
+    into generic combat if invulnerability is central.
+  suggested_aliases:
+  - invulnerable_monster_defeated
+  - monster_invulnerable_to_weapons_defeated_by_alternate_method
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-impervious-warriors-killed-by-stones
+  motif_id: weapon_impervious_warriors_killed_by_stones
+  label: weapon-impervious warriors killed by stones
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Weapon-impervious warriors defeated by a nonstandard method fit the existing
+    conditional invulnerability pattern.
+  cautions: The stone-killing detail is granular and should remain an evidence note
+    unless it recurs widely.
+  suggested_aliases:
+  - weapon_proof_warriors_killed_by_stones
+  - invulnerable_warriors_defeated_by_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-of-exalted-provenance
+  motif_id: weapon_of_exalted_provenance
+  label: weapon of exalted provenance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A weapon marked by divine, heroic, or exalted origin functions as a sacred
+    power object conferring authority or efficacy.
+  cautions: If provenance only identifies ownership in a catalogue, it may be an episode
+    detail rather than a motif; confirm sacred or empowering function.
+  suggested_aliases:
+  - exalted_weapon
+  - weapon_of_divine_or_heroic_provenance
+  - sacred_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-of-the-slain-hero-borne-by-his-killer
+  motif_id: weapon_of_the_slain_hero_borne_by_his_killer
+  label: Weapon of the slain hero borne by his killer
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate trophy-taking, transfer of heroic power, humiliation,
+    inheritance, or a passage-specific combat detail.
+  cautions: Source context is needed before mapping to sacred_treasures, heroic_funeral_rites,
+    sacred_combat, or divine_judgment.
+  suggested_aliases:
+  - slain_hero_weapon_borne_by_killer
+  - killer_carries_victim_hero_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-ordeal-as-homicide-trial
+  motif_id: weapon_ordeal_as_homicide_trial
+  label: Weapon ordeal as homicide trial
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A weapon ordeal used to adjudicate homicide is a ritual-legal procedure
+    maintaining social order.
+  cautions: Culturally specific legal and ritual context should be reviewed carefully;
+    could also relate to divine_judgment if sacred agency decides guilt.
+  suggested_aliases:
+  - ordeal_as_homicide_trial
+  - weapon_trial_for_homicide
+  - ritual_weapon_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-placed-between-man-and-woman
+  motif_id: weapon_placed_between_man_and_woman
+  label: weapon placed between man and woman
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A weapon between a man and woman may signal chastity, boundary, hostility,
+    oath, kinship taboo, or narrative staging.
+  cautions: Do not map to sacred_combat solely because a weapon appears; source function
+    is required.
+  suggested_aliases:
+  - sword_between_man_and_woman
+  - weapon_as_separation_token
+  - weapon_between_bed_partners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-proof-monstrous-body
+  motif_id: weapon_proof_monstrous_body
+  label: weapon-proof monstrous body
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: A monster's body resistant to weapons is covered by the existing invulnerable
+    monster/alternate defeat complex.
+  cautions: If no defeat or vulnerable exception is present, index as resistance detail
+    under the group rather than full loophole structure.
+  suggested_aliases:
+  - weapon_impervious_monster_body
+  - weapon_resistant_monster_body
+  - invulnerable_monstrous_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-proof-warriors-attacked-with-stones
+  motif_id: weapon_proof_warriors_attacked_with_stones
+  label: weapon-proof warriors attacked with stones
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Weapon-proof warriors attacked with stones match invulnerable warriors
+    defeated or challenged through nonstandard means.
+  cautions: May be the same passage pattern as weapon_impervious_warriors_killed_by_stones;
+    review for deduplication.
+  suggested_aliases:
+  - weapon_impervious_warriors_attacked_with_stones
+  - invulnerable_warriors_attacked_with_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-recognition-catalogue
+  motif_id: weapon_recognition_catalogue
+  label: Weapon recognition catalogue
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe recognition by arms, a heroic catalogue, or a
+    textual/listing artifact rather than a stable motif.
+  cautions: If weapons prove identity, map to recognition_tokens_hidden_identity;
+    if merely an inventory, exclude as a passage or catalogue artifact.
+  suggested_aliases:
+  - recognition_by_weapons
+  - catalogue_of_recognized_weapons
+  - weapon_identity_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-sent-by-helper-enables-victory
+  motif_id: weapon_sent_by_helper_enables_victory
+  label: weapon sent by helper enables victory
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon supplied by a helper and enabling victory functions as a power
+    object conferring decisive ability.
+  cautions: If the helper's supernatural agency is central, divine_intervention may
+    be a secondary mapping; if ordinary logistics, it may be too contextual.
+  suggested_aliases:
+  - helper_sends_victory_weapon
+  - victory_enabled_by_helper_weapon
+  - weapon_delivered_by_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch cluster around weapon-impervious bodies and alternate
+  means of defeat; consider deduplicating near-synonyms under conditional_invulnerability_hidden_weakness.
+- Weapon presence alone should not force a conflict mapping; distinguish sacred/power
+  object, identity proof, legal ordeal, boundary token, and ordinary combat detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence weapon catalogue and interpersonal
+    boundary labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1189
+  input_sha256: a26bf81bf2cac0486d880845b1bf73fa4eb9cb82ce1f3cb7ee7e9f9be40fa04a
+

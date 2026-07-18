@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1113
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monster-s-mortal-retreat-to-wetland-dwelling
+  motif_id: monster_s_mortal_retreat_to_wetland_dwelling
+  label: Monster's mortal retreat to wetland dwelling
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a monster's lair, retreat, or death-site, but
+    the narrative function is unclear from wording alone.
+  cautions: Single occurrence and highly contextual; wetland setting should not be
+    promoted unless it functions as a recurring liminal or chthonic combat space.
+  suggested_aliases:
+  - monster_retreat_to_wetland
+  - wetland_monster_lair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-after-helper-s-gifts
+  motif_id: monster_slaying_after_helper_s_gifts
+  label: monster-slaying after helper's gifts
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Monster-slaying fits the sacred combat complex; helper gifts specify
+    the enabling means.
+  cautions: If the passage emphasizes magical objects more than combat, secondary
+    indexing under sacred_treasures may be useful.
+  suggested_aliases:
+  - monster_slaying_with_helper_gifts
+  - helper_gifts_enable_monster_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-as-basis-for-royal-reward
+  motif_id: monster_slaying_as_basis_for_royal_reward
+  label: monster-slaying as basis for royal reward
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is monster-slaying as heroic combat, with reward as the
+    social outcome.
+  cautions: Royal reward may also support royal_legitimacy or hero_journey if the
+    slaying establishes status or succession.
+  suggested_aliases:
+  - monster_slaying_wins_royal_reward
+  - hero_rewarded_for_monster_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-as-bridal-test
+  motif_id: monster_slaying_as_bridal_test
+  label: monster-slaying as bridal test
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already groups bride-winning contests under sacred_love;
+    the monster-slaying is the test form.
+  cautions: If combat is more central than marriage acquisition, divine_warrior or
+    sacred_combat should be a secondary mapping.
+  suggested_aliases:
+  - bridal_test_monster_slaying
+  - bride_winning_by_monster_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-by-beheading
+  motif_id: monster_slaying_by_beheading
+  label: Monster-slaying by beheading
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: high
+  rationale: A specific killing method within the broader monster-slaying and sacred
+    combat pattern.
+  cautions: Beheading detail is likely evidence-level granularity unless it recurs
+    as a structural requirement.
+  suggested_aliases:
+  - beheading_the_monster
+  - monster_beheaded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-by-specialized-enchanted-equipment
+  motif_id: monster_slaying_by_specialized_enchanted_equipment
+  label: monster-slaying by specialized enchanted equipment
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: Special equipment defeating a monster often signals that ordinary weapons
+    are insufficient and a special method is required.
+  cautions: Confirm the passage actually requires specialized enchanted equipment;
+    if it merely helps the hero, divine_warrior or sacred_treasures may fit better.
+  suggested_aliases:
+  - monster_slaying_with_enchanted_equipment
+  - special_weapon_defeats_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-confrontation
+  motif_id: monster_slaying_confrontation
+  label: monster-slaying confrontation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: This is a broad label for heroic or sacred combat against a monster.
+  cautions: Too generic for a new motif; preserve local monster type, setting, and
+    outcome in evidence notes.
+  suggested_aliases:
+  - monster_slaying
+  - hero_monster_confrontation
+  - combat_with_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-frees-the-trapped-vessel
+  motif_id: monster_slaying_frees_the_trapped_vessel
+  label: Monster-slaying frees the trapped vessel
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The distinctive object is a vessel whose release restores access to contained
+    or trapped power.
+  cautions: If the passage focuses on the combat rather than the vessel's sacred function,
+    divine_warrior should be primary instead.
+  suggested_aliases:
+  - trapped_vessel_freed_by_monster_slaying
+  - monster_guarded_vessel_released
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-yields-a-healing-substance
+  motif_id: monster_slaying_yields_a_healing_substance
+  label: monster-slaying yields a healing substance
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The healing substance produced by the slain monster is the distinctive
+    transformative object or material.
+  cautions: If the healing matter is only a trophy or reward, sacred_treasures or
+    divine_warrior may be more appropriate secondary mappings.
+  suggested_aliases:
+  - healing_substance_from_s slain_monster
+  - monster_body_yields_healing_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-woman-seizes-and-woos-a-hero
+  motif_id: monster_woman_seizes_and_woos_a_hero
+  label: Monster-woman seizes and woos a hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines abduction, monstrous femininity, courtship, and heroic
+    ordeal without enough context to choose a primary function.
+  cautions: Review for culturally loaded wording and gendered framing; placement may
+    be sacred_love, threshold_guardian, shapeshifter, otherworld, or conflict depending
+    on the passage.
+  suggested_aliases:
+  - monster_woman_woos_hero
+  - hero_seized_by_monster_woman
+  - monstrous_bride_or_suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - threshold_guardian
+    - shapeshifter
+    - otherworld
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurring monster-slaying complex. Existing divine_warrior
+  and sacred_combat can hold most cases, but reviewers may consider whether a dedicated
+  monster_slaying group is warranted if many more labels recur across traditions.
+- Do not infer transmission or shared origin from the shared monster-slaying placements;
+  these are functional taxonomy suggestions only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements; monster-woman and wetland-retreat items need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1113
+  input_sha256: adc9847952add706a9625bc19fde1f3f180fc2a166bf533a65280b10bf64910e
+

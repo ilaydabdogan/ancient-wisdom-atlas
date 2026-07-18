@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l11201-l11242
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE SECRET SERMON ON THE MOUNTAIN 229 / THE SECRET SERMON ON THE MOUNTAIN
+    231 / THE SECRET SEEMON ON THE MOUNTAIN 233 / COMMENTAKY; lines 11201-11242
+  start: '11201'
+  end: '11242'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: '"For the ''Mountain'' was symbolic of stages of inner development"'
+  summary: The commentary explains the title “The Secret Sermon on the Mountain,”
+    defends the mountain setting as symbolic of inner developmental stages, defines
+    “Secret” or “apocryphal” as hidden or esoteric, and compares ancient logoi/logia
+    to Sanskrit mahā-vākyam and Upanishadic mystical sayings.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The main title is reported as “The Secret Sermon on the Mountain” in all manuscripts
+    except A.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Reitzenstein is reported to think that the main title arose by mistake, though
+    the commentary says he does not explain the mistake.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary says Tat has come to the top of the Mountain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary states that the Mountain was symbolic of stages of inner development.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fifth step is quoted as “Righteousness’ firm seat.”
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Mountain is described as an ascent or stair of steps, compared with imagery
+    often seen in Egyptian frescoes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The term “Secret” is identified with apocryphal and defined in its original
+    sense as hidden away, esoteric, or not put into circulation.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentary says a logos or logia had a meaning for the Ancients similar
+    to Sanskrit mahā-vākyam for an Indian theosophist.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Examples of mahā-vākyam are described as great mystical utterances of the
+    Upanishads, including “That art thou.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tat
+  description: A named figure said to have come to the top of the Mountain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Reitzenstein
+  description: A cited scholar who is said to think the main title arose by mistake.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the Ancients
+  description: A collective group for whom logoi or logia are said to have had a meaning
+    similar to Sanskrit mahā-vākyam.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: an Indian theosophist
+  description: A comparative modern figure for whom Sanskrit mahā-vākyam means a “great
+    saying.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: one who has reached the mountain-top
+  assigned_to:
+  - fig:1
+  basis: The commentary says Tat has now come to the top of the Mountain.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cited critic of the title
+  assigned_to:
+  - fig:2
+  basis: Reitzenstein is reported as thinking the main title arose by mistake.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ancient users of logoi or logia
+  assigned_to:
+  - fig:3
+  basis: The passage says logoi or logia had a particular meaning for “our Ancients.”
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: recipient of comparative analogy
+  assigned_to:
+  - fig:4
+  basis: The passage compares the ancient use of logos to the meaning of Sanskrit
+    mahā-vākyam for an Indian theosophist.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Mountain
+  literal_form: Mountain or Mount
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: steps or stair of ascent
+  literal_form: fifth step, ascent, stair of steps
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Secret or apocryphal sermon
+  literal_form: hidden-away, esoteric logos or sermon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: great mystical saying
+  literal_form: logos/logia compared with Sanskrit mahā-vākyam and the saying “That
+    art thou”
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Interpretation of the mountain title
+  summary: The commentary discusses the title “The Secret Sermon on the Mountain,”
+    rejects the objection that the mountain may be mistaken, and explains the Mountain
+    as a symbolic ascent of inner development that Tat has reached.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Definition of secret apocryphal teaching
+  summary: The commentary defines “Secret” or apocryphal as hidden, esoteric, or not
+    circulated, and applies it to a logos, sermon, or collection of sayings.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Comparison of logos and mahā-vākyam
+  summary: The commentary compares ancient logoi or logia to Sanskrit mahā-vākyam,
+    identifying both with short mystical utterances or great sayings.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ascent through stages of inner development
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly describes the Mountain as symbolic of stages of inner
+    development and as an ascent or stair of steps.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is commentary on a title and symbol, not a full narrative
+    of ascent.
+- id: motif:2
+  label: secret esoteric wisdom teaching
+  taxonomy_refs:
+  - wisdom
+  basis: The passage defines “Secret” as hidden away or esoteric and applies it to
+    a logos, sermon, or sayings; it also discusses mystical utterances.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not present the content of the secret sermon itself,
+    only the commentary’s explanation of the term and title.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly compares ancient logoi or logia with Sanskrit mahā-vākyam
+    as functionally similar “great sayings” or mystical utterances.
+  claim_level: same_function
+  target: Sanskrit mahā-vākyam and Upanishadic mystical utterances
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is an explanatory analogy in the commentary; it does
+    not claim historical contact, common inheritance, or textual dependence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11201-11208
+  quote_or_summary: "“The Secret Sermon on the Mountain” is described as the main
+    title in all manuscripts except A."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 11208-11216
+  quote_or_summary: Reitzenstein is said to think the main title arose by mistake,
+    though the commentary notes he does not specify the mistake.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 11216-11222
+  quote_or_summary: The commentary says the teaching is “On the Mount,” to whose top
+    Tat has come, and that the “Mountain” was symbolic of stages of inner development.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation and summary used.
+- id: ev:4
+  type: quote
+  locator: lines 11222-11227
+  quote_or_summary: The passage quotes “This step (the fifth) is Righteousness’ firm
+    seat” and says the Mountain was conceived as an ascent or stair of steps, as often
+    seen in Egyptian frescoes.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation and summary used.
+- id: ev:5
+  type: summary
+  locator: lines 11229-11235
+  quote_or_summary: The term “Secret” or apocryphal is defined as hidden away, esoteric,
+    or not circulated, applied to a logos, sermon, or collection of sayings.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 11236-11242
+  quote_or_summary: The passage says logos or logia had much the same meaning for
+    the Ancients as Sanskrit mahā-vākyam, “great saying,” has for an Indian theosophist,
+    citing Upanishadic utterances such as “That art thou.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation and summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on an explicit commentary passage. Motif identification
+    is strongest for ascent and esoteric wisdom; broader mythic or historical comparisons
+    are not asserted beyond the passage’s own analogy to Sanskrit mahā-vākyam.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line range contains commentary rather than the sermon narrative itself; extracted motifs and symbols reflect the commentary’s explicit explanations.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l11201-l11242
+  passage_sha256=92301aac598a6f20837d7087a46976a5b9952d80b341ed715ec1a82f513b3865
+

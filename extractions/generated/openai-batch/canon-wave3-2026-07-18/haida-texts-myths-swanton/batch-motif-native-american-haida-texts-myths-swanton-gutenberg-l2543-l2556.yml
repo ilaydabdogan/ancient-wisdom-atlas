@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l2543-l2556
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: HOW SHINING-HEAVENS CAUSED HIMSELF TO BE BORN / HOW MASTER-CARPENTER BEGAN
+    MAKING A CANOE TO WAR WITH SOUTHEAST / THE CANOE PEOPLE WHO WEAR HEADDRESSES /
+    THE GIRL WHO FED A RAVEN; lines 2543-2556
+  start: '2543'
+  end: '2556'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage is a Haida-language transliterated narrative segment
+    with a marked direct-speech passage. The locator label associates this line range
+    with headings concerning Shining-Heavens causing himself to be born, Master-Carpenter
+    making a canoe to war with Southeast, headdress-wearing canoe people, and a girl
+    feeding a raven. No English translation of the Haida lines is supplied in the
+    passage text.
+  language: Haida, Skidegate dialect, transliterated
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied passage text is in Haida transliteration rather than an English
+    translation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contains a direct-speech segment marked by quotation marks near
+    the beginning.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: The locator label identifies associated headings involving self-caused birth,
+    canoe-making for war, headdress-wearing canoe people, and a girl feeding a raven.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The transliterated narrative uses repeated sentence-opening connective forms
+    such as “Giê′nhao” and “Giên.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Shining-Heavens
+  description: Named in the locator heading as one who caused himself to be born.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Master-Carpenter
+  description: Named in the locator heading as beginning to make a canoe to war with
+    Southeast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Southeast
+  description: Named in the locator heading as the direction or opponent connected
+    with Master-Carpenter’s canoe-making for war.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: canoe people who wear headdresses
+  description: Collective group named in the locator heading.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: girl
+  description: Named in the locator heading as feeding a raven.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: raven
+  description: Named in the locator heading as being fed by a girl.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: self-born figure
+  assigned_to:
+  - fig:1
+  basis: The locator heading states that Shining-Heavens caused himself to be born.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: canoe-maker for war
+  assigned_to:
+  - fig:2
+  basis: The locator heading states that Master-Carpenter began making a canoe to
+    war with Southeast.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named war target or directional opponent
+  assigned_to:
+  - fig:3
+  basis: The locator heading links Southeast to Master-Carpenter’s war-canoe action.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: headdress-wearing canoe group
+  assigned_to:
+  - fig:4
+  basis: The locator heading names canoe people who wear headdresses.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: feeder of raven
+  assigned_to:
+  - fig:5
+  basis: The locator heading identifies the girl as one who fed a raven.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: animal recipient of food
+  assigned_to:
+  - fig:6
+  basis: The locator heading identifies the raven as being fed by the girl.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: headdresses
+  literal_form: headdresses worn by canoe people
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: raven
+  literal_form: raven
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Southeast
+  literal_form: direction or place named as Southeast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: marked direct speech in Haida narrative
+  summary: The Haida transliterated text includes a passage of direct speech, but
+    no English translation is supplied for its content.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: self-caused birth heading
+  summary: The locator heading names an episode in which Shining-Heavens causes himself
+    to be born.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: canoe-making for war heading
+  summary: The locator heading names an episode in which Master-Carpenter begins making
+    a canoe to war with Southeast.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: headdress-wearing canoe people heading
+  summary: The locator heading names canoe people who wear headdresses.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:5
+  label: girl feeding raven heading
+  summary: The locator heading names an episode concerning a girl who fed a raven.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: self-caused birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: The locator heading states that Shining-Heavens caused himself to be born.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Supported by heading metadata only; the supplied Haida passage is not
+    translated here, so episode details are not extractable from the body text.
+- id: motif:2
+  label: canoe crafted for war
+  taxonomy_refs: []
+  basis: The locator heading states that Master-Carpenter began making a canoe to
+    war with Southeast.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The heading supports the action, but the untranslated body text does not
+    supply further details.
+- id: motif:3
+  label: distinctive headdress-wearing canoe people
+  taxonomy_refs: []
+  basis: The locator heading names canoe people who wear headdresses.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Only the group description is available; no action or narrative function
+    is extractable from the supplied untranslated lines.
+- id: motif:4
+  label: feeding a raven
+  taxonomy_refs: []
+  basis: The locator heading identifies an episode concerning a girl who fed a raven.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The heading does not state whether the feeding is reciprocal, sacred,
+    trickster-related, or otherwise symbolic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2543-2556
+  quote_or_summary: The supplied passage is Haida transliteration arranged in narrative
+    paragraphs; it includes a marked direct-speech segment and repeated narrative
+    connective forms.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:2
+  type: citation
+  locator: passage_locator.label
+  quote_or_summary: 'The supplied locator label gives the heading path: “HOW SHINING-HEAVENS
+    CAUSED HIMSELF TO BE BORN / HOW MASTER-CARPENTER BEGAN MAKING A CANOE TO WAR WITH
+    SOUTHEAST / THE CANOE PEOPLE WHO WEAR HEADDRESSES / THE GIRL WHO FED A RAVEN.”'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source metadata; short heading quotation.
+- id: ev:3
+  type: quote
+  locator: lines 2544-2545
+  quote_or_summary: "“Ha′da-i. Na-iku′n gu hao kun ʟ̣g̣ō′diañ wᴀnsū′ga."
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source metadata; short excerpt quoted for speech marking.
+confidence:
+  extraction: low
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is constrained because the provided passage body is untranslated
+    Haida transliteration. Figures and motif candidates are drawn from the supplied
+    passage locator heading rather than from a translated narrative body.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself provide enough translated narrative detail to support cautious cross-textual or historical comparison beyond the heading-based motif tags.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l2543-l2556
+  passage_sha256=0ed05b93d8165b206fec3bb153d635773d004c6a68167b9a169a4e6c7a0b4528
+

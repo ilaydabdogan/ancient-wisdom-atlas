@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1181
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.war-host-and-impending-slaughter-on-a-full-plain
+  motif_id: war_host_and_impending_slaughter_on_a_full_plain
+  label: War host and impending slaughter on a full plain
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a battle setting and anticipated slaughter, fitting
+    the broad warfare and heroic combat group.
+  cautions: Single occurrence and scene-specific; preserve plain/slaughter imagery
+    as evidence detail rather than a canonical child unless it recurs.
+  suggested_aliases:
+  - battle_host_on_plain
+  - impending_battle_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-host-represented-through-natural-mass-imagery
+  motif_id: war_host_represented_through_natural_mass_imagery
+  label: War host represented through natural mass imagery
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a poetic simile or descriptive style rather than a narrative
+    motif of warfare.
+  cautions: If the passage treats the natural mass as symbolic or ominous, sacred_combat
+    or dream_and_vision may be relevant; otherwise exclude as literary imagery.
+  suggested_aliases:
+  - army_compared_to_natural_mass
+  - war_host_nature_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-machines-answered-by-a-concealed-pitfall
+  motif_id: war_machines_answered_by_a_concealed_pitfall
+  label: war machines answered by a concealed pitfall
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed pitfall used against war machines is best treated as a deceptive
+    stratagem, already covered by trickster/war stratagem aliases.
+  cautions: Could also be indexed under sacred_combat if the emphasis is battle technology
+    rather than deception; source context should decide secondary placement.
+  suggested_aliases:
+  - concealed_pitfall_stratagem
+  - deceptive_war_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-muster-prompted-by-failed-acquisition
+  motif_id: war_muster_prompted_by_failed_acquisition
+  label: War muster prompted by failed acquisition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed acquisition triggering a war muster fits the cattle-raid or
+    contested-wealth catalyst patterns already grouped under sacred combat.
+  cautions: If the failed acquisition is not ritually or heroically significant, this
+    may be a plot detail rather than a motif.
+  suggested_aliases:
+  - failed_acquisition_triggers_war
+  - war_muster_after_failed_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-over-or-for-a-woman
+  motif_id: war_over_or_for_a_woman
+  label: war over or for a woman
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: War motivated by conflict over a woman aligns with existing sacred_combat
+    children involving violated queens, bride contests, and vengeance triggers.
+  cautions: May also relate to sacred_love if the woman’s agency, marriage choice,
+    or beloved status is central; avoid reducing gendered conflict to a generic battle
+    trigger without evidence.
+  suggested_aliases:
+  - woman_as_cause_of_war
+  - conflict_over_bride_or_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-signaled-by-raising-a-red-shield
+  motif_id: war_signaled_by_raising_a_red_shield
+  label: War signaled by raising a red shield
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal visual signal initiating war fits ritualized warfare and martial
+    convention under sacred_combat.
+  cautions: The red shield detail is culturally specific and may be an episode or
+    legal custom rather than a broad motif; preserve as evidence detail.
+  suggested_aliases:
+  - red_shield_war_signal
+  - shield_signal_for_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-spoil-deferred-until-victory
+  motif_id: war_spoil_deferred_until_victory
+  label: war spoil deferred until victory
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns martial distribution ethics or discipline, but its
+    mythic function is unclear from the label alone.
+  cautions: Could fit sacred_combat, sacred_law, or heroic honor depending on whether
+    the passage frames spoil as oath, rule, temptation, or tactical delay.
+  suggested_aliases:
+  - deferred_war_spoils
+  - battle_spoils_after_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-summons-interrupting-the-hero-s-rest
+  motif_id: war_summons_interrupting_the_hero_s_rest
+  label: war summons interrupting the hero's rest
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A summons that interrupts rest functions like a call to action or departure
+    into ordeal.
+  cautions: If the focus is battle duty rather than transformative departure, sacred_combat
+    or divine_warrior may be a better secondary group.
+  suggested_aliases:
+  - hero_called_from_rest
+  - war_call_interrupts_rest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-with-neighboring-people
+  motif_id: war_with_neighboring_people
+  label: war with neighboring people
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a generic historical or plot description of intergroup war
+    without a distinctive mythic function.
+  cautions: If source evidence shows etiological origin, sacred combat, divine sanction,
+    or ritual warfare, remap with that function; otherwise exclude from motif queries.
+  suggested_aliases:
+  - intergroup_war
+  - war_between_neighbors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-against-a-dangerous-forbidden-direction
+  motif_id: warning_against_a_dangerous_forbidden_direction
+  label: warning against a dangerous forbidden direction
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A warning against a forbidden direction functions as taboo or prohibition
+    regulating dangerous movement.
+  cautions: Could also involve threshold_guardian, initiation, or sacred geography
+    if the direction marks a liminal boundary or ordeal; culturally specific directionality
+    should be reviewed carefully.
+  suggested_aliases:
+  - forbidden_direction_taboo
+  - dangerous_direction_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several warfare labels are single-occurrence and may be episode summaries; preserve
+  granular details as evidence rather than new canonical groups.
+- For battle-related items, distinguish sacred or ritualized combat from ordinary
+  martial plot description and from deceptive stratagems.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source function for
+    single-occurrence martial labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1181
+  input_sha256: b4fac6ff680c774012e83ca7a1b2737b8d10e5b5a743dcc8280ade9f039bdae6
+

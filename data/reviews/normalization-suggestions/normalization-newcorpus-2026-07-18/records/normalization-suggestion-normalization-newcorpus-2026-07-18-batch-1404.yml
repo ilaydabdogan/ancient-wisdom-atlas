@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1404
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forfeited-spouse-after-faithlessness
+  motif_id: forfeited_spouse_after_faithlessness
+  label: Forfeited spouse after faithlessness
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a spouse/bond lost through faithlessness, which may
+    fit love, marriage, or violated relational obligation.
+  cautions: Single occurrence and culturally contextual; may be a local marriage-law
+    episode, moral judgment, betrayal motif, or passage-specific plot detail.
+  suggested_aliases:
+  - spouse_lost_after_faithlessness
+  - marital_bond_forfeited_by_infidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgetfulness-caused-by-forbidden-kiss-or-contact
+  motif_id: forgetfulness_caused_by_forbidden_kiss_or_contact
+  label: Forgetfulness caused by forbidden kiss or contact
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A forbidden contact causing harmful memory loss fits taboo/prohibition
+    logic and consequences of transgression.
+  cautions: Could instead be enchantment, love-separation, or magical affliction;
+    source context is needed before treating the kiss/contact as ritual taboo.
+  suggested_aliases:
+  - forbidden_contact_causes_forgetfulness
+  - taboo_kiss_causes_forgetting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgetfulness-drink-breaks-remembered-bond
+  motif_id: forgetfulness_drink_breaks_remembered_bond
+  label: forgetfulness drink breaks remembered bond
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A drink that alters memory and breaks a bond fits the sacred or magical
+    substance complex.
+  cautions: May also involve betrayal, love separation, oath-breaking, or enchantment;
+    preserve the bond-breaking function in notes.
+  suggested_aliases:
+  - drink_of_forgetfulness
+  - memory_erasing_drink
+  - forgetfulness_potion_breaks_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgetting-lowly-origins-as-moral-indictment
+  motif_id: forgetting_lowly_origins_as_moral_indictment
+  label: Forgetting lowly origins as moral indictment
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames forgetfulness of origins as moral failure subject to
+    indictment or reckoning.
+  cautions: Could be prophetic rhetoric or ethical teaching rather than a narrative
+    motif; avoid indexing if only a passage-level admonition.
+  suggested_aliases:
+  - forgetting_origins_as_moral_failure
+  - ingratitude_for_origins
+  - lowly_origins_forgotten
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forging-capture-and-loss-of-a-powerful-object
+  motif_id: forging_capture_and_loss_of_a_powerful_object
+  label: Forging, capture, and loss of a powerful object
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on forging a potent object, fitting sacred craft even
+    though capture and loss also involve power-object circulation.
+  cautions: If the object’s authority or possession matters more than its making,
+    sacred_treasures may be a better primary group; label is a composite episode.
+  suggested_aliases:
+  - forged_power_object_captured_and_lost
+  - loss_of_forged_sacred_object
+  - forging_of_powerful_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgiveness-after-confession-of-sin
+  motif_id: forgiveness_after_confession_of_sin
+  label: Forgiveness after confession of sin
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Confession followed by forgiveness repairs a broken sacred or moral bond.
+  cautions: Could also fit divine_judgment if the emphasis is pardon after reckoning,
+    or sacred_law if framed as repentance doctrine.
+  suggested_aliases:
+  - confession_and_forgiveness
+  - repentance_followed_by_pardon
+  - forgiveness_after_sin_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgiveness-after-sibling-wrongdoing
+  motif_id: forgiveness_after_sibling_wrongdoing
+  label: forgiveness after sibling wrongdoing
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forgiveness after kin wrongdoing restores a violated bond and social-moral
+    order.
+  cautions: Could be a sibling_pair episode if sibling opposition is structurally
+    central; otherwise may be ethical teaching rather than motif.
+  suggested_aliases:
+  - sibling_wrongdoing_forgiven
+  - fraternal_forgiveness
+  - forgiveness_restores_sibling_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgiveness-by-a-commissioned-savior
+  motif_id: forgiveness_by_a_commissioned_savior
+  label: Forgiveness by a commissioned savior
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A commissioned savior granting forgiveness suggests divine agency intervening
+    to repair or redeem.
+  cautions: Gnostic context may involve specialized soteriology not captured by existing
+    groups; review whether this is doctrine, salvific role, or narrative motif.
+  suggested_aliases:
+  - commissioned_savior_grants_forgiveness
+  - savior_forgiveness
+  - redeemer_as_forgiver
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgiveness-spoken-from-the-place-of-execution
+  motif_id: forgiveness_spoken_from_the_place_of_execution
+  label: forgiveness spoken from the place of execution
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key action is a charged speech act of forgiveness uttered at a death/execution
+    threshold.
+  cautions: May also fit sacrifice or martyrdom if the execution context is primary;
+    avoid creating a separate motif from a single scene unless recurrent.
+  suggested_aliases:
+  - execution_site_forgiveness
+  - forgiveness_at_execution
+  - dying_forgiveness_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgotten-guest-exposed-to-a-released-guard
+  motif_id: forgotten_guest_exposed_to_a_released_guard
+  label: forgotten guest exposed to a released guard
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: The presence of a forgotten guest may implicate failed hospitality and
+    danger to a guest under protection.
+  cautions: Label is highly episode-specific; the released guard may be an animal,
+    warrior, or supernatural guardian, so threshold_guardian or passage artifact may
+    fit better after source review.
+  suggested_aliases:
+  - forgotten_guest_endangered
+  - guest_exposed_to_guard
+  - failed_protection_of_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and ethically or doctrinally
+  contextual; suggested placements should be treated as provisional broad query grouping,
+  not taxonomy edits.
+- Forgiveness labels cluster around repaired bonds, moral reckoning, and performative
+  speech; human review may decide whether covenant, divine_judgment, or curse_blessing_speech
+  should be primary by passage function.
+- Memory-loss labels may indicate taboo, enchanted substance, love separation, or
+  passage-specific magic; avoid merging contact-caused and drink-caused forgetfulness
+  without evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1404
+  input_sha256: d4538d02325f6f7fe1f10b51729ff584359ea73751b98966002705415ad00cad
+

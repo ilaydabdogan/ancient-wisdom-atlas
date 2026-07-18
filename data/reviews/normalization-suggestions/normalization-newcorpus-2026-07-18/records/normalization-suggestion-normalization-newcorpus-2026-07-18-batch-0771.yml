@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0771
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.stolen-or-friendless-child-grouped-with-orphan-tales
+  motif_id: stolen_or_friendless_child_grouped_with_orphan_tales
+  label: stolen or friendless child grouped with orphan tales
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'grouped with orphan tales' reads as a tale-type or cataloging
+    note rather than a motif in the narrative itself.
+  cautions: If the source passage actually centers on an abandoned, stolen, or persecuted
+    child, review for miraculous_child or jealous_stepmother_persecuted_child instead.
+  suggested_aliases:
+  - orphan tale grouping
+  - stolen child in orphan tale cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-personal-weapon-used-as-proof-token
+  motif_id: stolen_personal_weapon_used_as_proof_token
+  label: Stolen personal weapon used as proof-token
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A personal weapon functions as an identity or encounter proof-token,
+    matching the existing recognition-token group.
+  cautions: If emphasis falls on the weapon's sacred power rather than proof, sacred_treasures
+    may be a secondary mapping.
+  suggested_aliases:
+  - weapon as proof-token
+  - stolen weapon as identity token
+  - personal weapon recognition token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stored-garments-used-to-transform-a-maiden-s-public-appearance
+  motif_id: stored_garments_used_to_transform_a_maiden_s_public_appearance
+  label: stored garments used to transform a maiden's public appearance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Garments changing public appearance could signal disguise, recognition,
+    bride display, magical transformation, or social status change.
+  cautions: Do not map to shapeshifter unless the garments effect a true form-change;
+    could also fit recognition_tokens_hidden_identity or sacred_love depending on
+    the episode.
+  suggested_aliases:
+  - stored garments transform appearance
+  - maiden transformed by garments
+  - garments reveal maiden's status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-water-kills-the-beloved-in-a-cave
+  motif_id: storm_water_kills_the_beloved_in_a_cave
+  label: Storm water kills the beloved in a cave
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label centers on death of the beloved, a tragic love pattern already
+    covered by sacred_love's love-beyond-death field.
+  cautions: Highly episode-specific; if the cave or storm-water functions as an underworld
+    threshold or water ordeal, also review descent or sacred_waters.
+  suggested_aliases:
+  - beloved killed by storm water
+  - tragic death of beloved in cave
+  - beloved lost to floodwater
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stranger-at-the-well-encountered-by-maidens
+  motif_id: stranger_at_the_well_encountered_by_maidens
+  label: Stranger at the well encountered by maidens
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key recurring structure is an encounter with a stranger at a socially
+    charged threshold where reception or response matters.
+  cautions: If the episode initiates marriage or bride choice, sacred_love may be
+    a secondary mapping; if the well is mainly a sacred water threshold, review sacred_waters.
+  suggested_aliases:
+  - well encounter with maidens
+  - stranger at the well
+  - maidens meet stranger at well
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.subduing-of-a-powerful-bride-through-union
+  motif_id: subduing_of_a_powerful_bride_through_union
+  label: subduing of a powerful bride through union
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves gendered coercion and may depend on culturally specific
+    evidence about marriage, combat, sovereignty, or domination.
+  cautions: Review sensitively; possible mappings include sacred_love, sacred_marriage,
+    bride-winning contest, or divine_judgment, but the wording may encode a problematic
+    summary rather than a stable motif.
+  suggested_aliases:
+  - powerful bride subdued through union
+  - bride subdued by union
+  - marital union subdues powerful woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitute-bridegroom-in-a-strength-test
+  motif_id: substitute_bridegroom_in_a_strength_test
+  label: Substitute bridegroom in a strength test
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bridegroom substitute in a strength test fits the bride-winning and
+    marriage-contest cluster already nested under sacred_love.
+  cautions: If the substitute's deception is the main narrative function, trickster
+    may be secondary; if the test confers rule, review royal_legitimacy.
+  suggested_aliases:
+  - proxy bridegroom in strength test
+  - substitute suitor in strength contest
+  - bridegroom strength-test substitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitute-image-deceives-the-pursuer-or-bridegroom
+  motif_id: substitute_image_deceives_the_pursuer_or_bridegroom
+  label: Substitute image deceives the pursuer or bridegroom
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A substitute image used to mislead a pursuer or bridegroom is primarily
+    a deception and escape strategy.
+  cautions: If the image is magically crafted or animated, sacred_craft may be a secondary
+    mapping; if the focus is courtship flight, sacred_love may also apply.
+  suggested_aliases:
+  - substitute image deception
+  - decoy image deceives pursuer
+  - decoy image deceives bridegroom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-failed-creations-before-the-desired-wonder-object
+  motif_id: successive_failed_creations_before_the_desired_wonder_object
+  label: Successive failed creations before the desired wonder-object
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Repeated failed making before a wondrous object is achieved fits sacred
+    or magical craft and construction of power objects.
+  cautions: If the passage is cosmogonic rather than object-making, review cosmic_origin
+    or failed_creation; preserve the sequence of failed attempts as evidence detail.
+  suggested_aliases:
+  - successive failed makings before wonder-object
+  - failed crafting attempts before wondrous object
+  - trial creations of a wonder-object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sudden-love-for-the-widow-of-the-slain-opponent
+  motif_id: sudden_love_for_the_widow_of_the_slain_opponent
+  label: sudden love for the widow of the slain opponent
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif is a love or marriage attachment arising after violent death,
+    fitting the broader sacred_love group.
+  cautions: Episode-specific and may also involve sacred_combat, rivalry, or post-conflict
+    reconciliation; avoid treating sudden attraction alone as a sacred-marriage motif
+    without more evidence.
+  suggested_aliases:
+  - love for slain opponent's widow
+  - widow of slain opponent becomes beloved
+  - post-combat love for widow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local evidence details rather than promoting them as new canonical motifs.
+- Love and marriage labels often overlap with combat, deception, recognition, and
+  social-order motifs; final placement should follow the episode's narrative function,
+  not the review bucket alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    gender-sensitive and context-dependent marriage motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0771
+  input_sha256: fd3aef81f22abebf833eaab8ed38a79163df5cbc5bb457e0570e697080cda30e
+

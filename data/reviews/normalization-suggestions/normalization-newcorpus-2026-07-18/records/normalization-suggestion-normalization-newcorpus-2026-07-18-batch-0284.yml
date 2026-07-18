@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0284
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-banquet-for-marduk
+  motif_id: divine_banquet_for_marduk
+  label: divine banquet for Marduk
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A divine banquet may function as ritual feeding, offering, or reciprocal
+    honor among gods, which fits sacred exchange if supported by the passage.
+  cautions: Could instead be an episode-specific Mesopotamian divine assembly scene,
+    royal-legitimacy ritual, or passage detail; Marduk-specific label should not become
+    canonical without recurrence.
+  suggested_aliases:
+  - divine_banquet
+  - banquet_for_a_deity
+  - ritual_feeding_of_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-battle-favor-through-storm-and-terror
+  motif_id: divine_battle_favor_through_storm_and_terror
+  label: Divine battle-favor through storm and terror
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a deity aiding battle by sending storm and terror,
+    a direct intervention in human conflict.
+  cautions: If the passage emphasizes sacred combat or a divine warrior's own battle
+    rather than aid to humans, secondary mapping to divine_warrior or sacred_combat
+    may be appropriate.
+  suggested_aliases:
+  - divine_battle_favor
+  - supernatural_battle_aid
+  - storm_and_terror_as_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-being-assumes-human-form-to-kill-an-antagonist
+  motif_id: divine_being_assumes_human_form_to_kill_an_antagonist
+  label: divine being assumes human form to kill an antagonist
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine being taking human form is a change of visible form used to
+    cross limits and accomplish an act.
+  cautions: If the point is cosmic restoration through killing an enemy, divine_warrior
+    or divine_judgment may be important secondary contexts; do not reduce avatar theology
+    to generic disguise without review.
+  suggested_aliases:
+  - deity_assumes_human_form
+  - divine_incognito_combat
+  - god_in_human_form_slays_antagonist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-being-in-hostile-disguise-or-semblance
+  motif_id: divine_being_in_hostile_disguise_or_semblance
+  label: divine being in hostile disguise or semblance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key motif is a deity adopting a deceptive or hostile appearance,
+    fitting transformation and disguise.
+  cautions: Could overlap with trickster, divine_intervention, or divine_warrior depending
+    on whether the disguise deceives, rescues, tests, or destroys an opponent.
+  suggested_aliases:
+  - divine_disguise
+  - hostile_divine_semblance
+  - deity_in_deceptive_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-beings-dwelling-in-caves-cliff-dwellings-and-sacred-mountains
+  motif_id: divine_beings_dwelling_in_caves_cliff_dwellings_and_sacred_mountains
+  label: Divine beings dwelling in caves, cliff-dwellings, and sacred mountains
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Sacred mountains and cave dwellings can mark charged vertical or liminal
+    sacred geography, aligning with axis_mundi when they connect realms or centers.
+  cautions: Culturally specific Navajo sacred geography needs source-sensitive review;
+    if the label merely locates divine beings, it may be too place-descriptive for
+    motif queries.
+  suggested_aliases:
+  - divine_dwelling_in_sacred_mountains
+  - divine_cave_dwelling
+  - sacred_cliff_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-belief-distribution-independent-of-social-stage
+  motif_id: divine_belief_distribution_independent_of_social_stage
+  label: Divine-belief distribution independent of social stage
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes an analytical claim about belief distribution and
+    social evolution, not a narrative or symbolic motif.
+  cautions: Preserve only as scholarly/provenance metadata if needed; avoid indexing
+    it as a motif, especially for culturally sensitive comparative claims.
+  suggested_aliases:
+  - distribution_of_divine_belief
+  - divine_belief_social_stage_commentary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-blessing-expressed-through-abundance-during-famine
+  motif_id: divine_blessing_expressed_through_abundance_during_famine
+  label: Divine blessing expressed through abundance during famine
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculous abundance during famine is a clear instance of divine provision
+    or intervention in crisis.
+  cautions: If framed as covenant reward or moral test, covenant or divine_judgment
+    may be secondary contexts; preserve famine setting as evidence detail.
+  suggested_aliases:
+  - miraculous_abundance_in_famine
+  - divine_provision_during_famine
+  - blessing_as_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-blessing-on-a-dangerous-mission
+  motif_id: divine_blessing_on_a_dangerous_mission
+  label: Divine blessing on a dangerous mission
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine blessing that authorizes or protects a perilous undertaking
+    fits divine guidance and intervention.
+  cautions: If the mission is a hero's quest, exile, or battle, hero_journey or sacred_combat
+    may be useful secondary mappings.
+  suggested_aliases:
+  - divine_blessing_for_mission
+  - supernatural_mission_blessing
+  - divine_sanction_for_dangerous_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-boat-and-command-creation
+  motif_id: divine_boat_and_command_creation
+  label: Divine boat and command creation
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creation by divine command belongs to cosmic origin, with the boat likely
+    an Egyptian creation or solar-cosmic vehicle detail.
+  cautions: If the boat is primarily an afterlife or solar journey vessel rather than
+    a creation agent, afterlife_passage, sacred_vessel, or sacred_waters may be relevant;
+    source context needed.
+  suggested_aliases:
+  - creation_by_divine_command
+  - divine_boat_in_creation
+  - command_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-boat-empowered-by-sacred-speech
+  motif_id: divine_boat_empowered_by_sacred_speech
+  label: Divine boat empowered by sacred speech
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The active force is sacred speech empowering an object, fitting performative
+    sacred utterance.
+  cautions: The boat may also be a sacred vessel or afterlife-navigation object in
+    Egyptian context; map there secondarily if the passage emphasizes journey or containment.
+  suggested_aliases:
+  - sacred_speech_empowers_vessel
+  - performative_speech_empowers_boat
+  - divine_boat_sacred_words
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several single-occurrence labels
+  are culturally or contextually specific and should not be promoted without passage
+  evidence.
+- Where divine action overlaps with combat, disguise, creation, or sacred speech,
+  the suggested group identifies the apparent primary function rather than claiming
+  transmission or origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Human review recommended for culturally sensitive sacred geography and for
+    labels that may be passage-specific rather than durable motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0284
+  input_sha256: 761cf704166adcb23332cfea36d3bb8dc744d6614aafbf23bdcd0102afec8e4a
+

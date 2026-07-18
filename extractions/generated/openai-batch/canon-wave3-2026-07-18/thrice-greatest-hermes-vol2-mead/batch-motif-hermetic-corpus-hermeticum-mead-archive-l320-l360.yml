@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l320-l360
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CORP. HERM. VI. (VII.) / IN GOD ALONE IS GOOD AND / CORP. HERM. VII. (VIII.)
+    / THE GREATEST ILL AMONG MEN IS; lines 320-360
+  start: '320'
+  end: '360'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“IN GOD ALONE IS GOOD AND ELSEWHERE NOWHERE” … “THE GREATEST ILL AMONG MEN
+    IS IGNORANCE OF GOD”"
+  summary: The passage is a table-of-contents segment listing Corpus Hermeticum sermon
+    titles and commentary headings. It names topics including unmanifest God as manifest,
+    God as the sole location of good, dualism, God as pleroma of good, ignorance of
+    God as the greatest ill among men, and a preaching-related commentary.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists a Corpus Hermeticum section titled “Though Unmanifest God
+    Is Most Manifest.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists a Corpus Hermeticum section titled “In God Alone Is Good
+    and Elsewhere Nowhere.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary headings under the section on good include “Dualism?” and “God
+    the Pleroma of Good.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists a Corpus Hermeticum section titled “The Greatest Ill Among
+    Men Is Ignorance of God.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary headings under the section on ignorance include “A Preaching”
+    and “The Probable Completion of an Oxyrhynchus Logion.”
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named in multiple listed titles and commentary headings, including
+    as unmanifest yet manifest, as the sole locus of good, and as the object of ignorance.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: men
+  description: A collective human group named in the title stating that ignorance
+    of God is the greatest ill among men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine subject of doctrinal titles
+  assigned_to:
+  - fig:1
+  basis: The titles and commentary headings repeatedly use “God” as their central
+    subject.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: source or locus of good
+  assigned_to:
+  - fig:1
+  basis: One listed title says good is in God alone and nowhere else, and a commentary
+    heading calls God the pleroma of good.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: human recipients or subjects of ignorance
+  assigned_to:
+  - fig:2
+  basis: The title names ignorance of God as the greatest ill among men.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Table-of-contents listing of Hermetic doctrinal topics
+  summary: The passage enumerates sermon titles and commentary headings concerning
+    divine manifestation, good, dualism, and ignorance of God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: knowledge and ignorance of the divine
+  taxonomy_refs:
+  - wisdom
+  basis: The title identifies ignorance of God as the greatest ill among men, making
+    knowledge or ignorance of God a central listed topic.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is extracted from a contents listing, not a narrative passage; the
+    detailed sermon text is not present here.
+- id: motif:2
+  label: good concentrated in the divine
+  taxonomy_refs: []
+  basis: The listed title states that good is in God alone and nowhere else, and the
+    commentary heading names God as the pleroma of good.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a doctrinal heading rather than a developed mythic episode.
+- id: motif:3
+  label: duality or dualism as a discussed topic
+  taxonomy_refs:
+  - duality
+  basis: The commentary heading explicitly lists “Dualism?” under the sermon on good
+    in God alone.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage only supplies a heading; it does not describe a dualistic
+    structure or mythic opposition in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 320-330
+  quote_or_summary: "“THOUGH UNMANIFEST GOD IS MOST MANIFEST” appears as a Corpus
+    Hermeticum section title."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 335-340
+  quote_or_summary: "“IN GOD ALONE IS GOOD AND ELSEWHERE NOWHERE” appears as a Corpus
+    Hermeticum section title."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 341-348
+  quote_or_summary: Commentary headings include “Dualism?” and “God the Pleroma of
+    Good.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 350-355
+  quote_or_summary: "“THE GREATEST ILL AMONG MEN IS IGNORANCE OF GOD” appears as a
+    Corpus Hermeticum section title."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 356-360
+  quote_or_summary: Commentary headings include “A Preaching” and “The Probable Completion
+    of an Oxyrhynchus Logion.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a contents listing, so literal extraction is straightforward,
+    but motif identification is limited because no full sermon argument or narrative
+    episode is included. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy occur literally in the passage. Comparison claims are omitted because the passage itself does not support comparison to another tradition or motif family beyond available taxonomy tagging.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l320-l360
+  passage_sha256=0f7b54c4948f116acfde6496f83946a98824a68acb9546dbde85b61504aa510d
+

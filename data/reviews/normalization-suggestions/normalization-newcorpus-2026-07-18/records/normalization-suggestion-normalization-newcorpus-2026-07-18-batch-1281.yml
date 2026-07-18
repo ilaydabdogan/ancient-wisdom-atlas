@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1281
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.agricultural-desolation-and-ceased-vintage-joy
+  motif_id: agricultural_desolation_and_ceased_vintage_joy
+  label: Agricultural desolation and ceased vintage joy
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe judgment, lament, or seasonal/agricultural loss,
+    but the function is unclear from wording alone.
+  cautions: Single biblical occurrence; avoid forcing into sacred_time or divine_judgment
+    without passage evidence for ritual cycle or sacred punishment.
+  suggested_aliases:
+  - agricultural_desolation
+  - ceased_vintage_joy
+  - failed_harvest_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-fertility-and-field-support
+  motif_id: agricultural_fertility_and_field_support
+  label: agricultural fertility and field support
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Agricultural fertility and support of fields likely belongs with seasonal/ritual
+    cycles of renewal and harvest abundance.
+  cautions: If the passage centers on a deity, offering, or sacred substance rather
+    than seasonal cycle, secondary mapping to sacrifice, sacred_exchange, or sacred_substance
+    may be needed.
+  suggested_aliases:
+  - field_fertility
+  - agricultural_fertility
+  - ritual_support_of_fields
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-paradise-of-the-blessed
+  motif_id: agricultural_paradise_of_the_blessed
+  label: agricultural paradise of the blessed
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: An Egyptian blessed agricultural paradise likely refers to an afterlife
+    destination or postmortem blessed realm.
+  cautions: If the scene is an enchanted non-death realm, otherworld may be relevant;
+    preserve agricultural abundance as evidence detail.
+  suggested_aliases:
+  - field_of_blessed_dead
+  - agricultural_afterlife_paradise
+  - blessed_agricultural_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aid-to-the-distressed-rather-than-enrichment-of-the-wealthy
+  motif_id: aid_to_the_distressed_rather_than_enrichment_of_the_wealthy
+  label: aid to the distressed rather than enrichment of the wealthy
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label expresses an ethical social obligation and preference for care
+    of the vulnerable over elite enrichment.
+  cautions: May be ethical teaching rather than narrative motif; if merely doctrinal
+    commentary, keep as a granular child or evidence note.
+  suggested_aliases:
+  - social_care_over_enrichment
+  - aid_to_the_distressed
+  - ethical_care_for_vulnerable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alarm-and-armed-pursuit-into-prepared-trap
+  motif_id: alarm_and_armed_pursuit_into_prepared_trap
+  label: Alarm and armed pursuit into prepared trap
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A feigned alarm or provoked pursuit into a prepared trap fits deception
+    and stratagem more than sacred combat alone.
+  cautions: Could belong under sacred_combat if the emphasis is warfare rather than
+    trickery; single occurrence may be episode-specific.
+  suggested_aliases:
+  - pursuit_into_prepared_trap
+  - alarm_lure_trap
+  - deceptive_pursuit_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alarm-lure-into-ambush
+  motif_id: alarm_lure_into_ambush
+  label: Alarm lure into ambush
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using an alarm as a lure into ambush is a deception strategy, matching
+    existing trickster/stratagem coverage.
+  cautions: If the passage centers on battle ritual or martial honor, sacred_combat
+    may be a better parent; preserve as a granular ambush detail.
+  suggested_aliases:
+  - alarm_lure_ambush
+  - false_alarm_ambush
+  - deceptive_alarm_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alien-cultural-attributes-imposed-in-retelling
+  motif_id: alien_cultural_attributes_imposed_in_retelling
+  label: alien cultural attributes imposed in retelling
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes retelling, cultural overlay, or editorial/transmission
+    commentary rather than a narrative motif.
+  cautions: Keep only as provenance or source-critical note; do not use as evidence
+    for motif patterning or transmission claims.
+  suggested_aliases:
+  - cultural_overlay_in_retelling
+  - retelling_artifact
+  - alien_attributes_in_retelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-seeing-royal-woman
+  motif_id: all_seeing_royal_woman
+  label: all-seeing royal woman
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The figure could represent prophecy, sovereignty, supernatural perception,
+    or a specific character role.
+  cautions: Single occurrence; avoid mapping to royal_legitimacy or prophecy_divination
+    without evidence for political sanction or formal seer function.
+  suggested_aliases:
+  - all_seeing_queen
+  - royal_woman_with_supernatural_sight
+  - sovereign_seer_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-mediated-settlement-and-peace
+  motif_id: alliance_mediated_settlement_and_peace
+  label: Alliance-mediated settlement and peace
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peace settlement mediated through alliance fits binding social repair
+    and ordered relations.
+  cautions: May be ordinary political negotiation unless framed as sacred bond, ritual
+    agreement, or mythic social order; review source context.
+  suggested_aliases:
+  - peace_through_alliance
+  - mediated_alliance_settlement
+  - alliance_peacemaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-of-mutual-aid-before-rescue
+  motif_id: alliance_of_mutual_aid_before_rescue
+  label: alliance of mutual aid before rescue
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mutual aid before a rescue emphasizes reciprocal obligation and alliance
+    as the condition enabling help.
+  cautions: Could map to hero_journey if the alliance functions mainly as quest preparation;
+    verify whether reciprocity or rescue is central.
+  suggested_aliases:
+  - mutual_aid_alliance
+  - reciprocal_alliance_before_rescue
+  - rescue_enabled_by_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and may be evidence details rather than durable
+  motif groups.
+- Agricultural motifs may need future review for whether sacred_time is sufficient
+  or whether a distinct agricultural fertility/abundance group is warranted.
+- Do not infer transmission from shared placement, especially for retelling/commentary
+  artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1281
+  input_sha256: 64b552092f1f656d5a6c7c0612eaefdc80354a22e20c11c2bf136c6cf834a519
+

@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1357
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.discovery-of-repeated-killings-by-hidden-witnesses
+  motif_id: discovery_of_repeated_killings_by_hidden_witnesses
+  label: discovery of repeated killings by hidden witnesses
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve witness revelation, serial killing, or social justice,
+    but the narrative function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific context; avoid mapping to divine_judgment
+    or sacred_combat without evidence of sacred reckoning or ritualized violence.
+  suggested_aliases:
+  - hidden_witnesses_reveal_repeated_killings
+  - concealed_witnesses_discover_serial_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disembodied-hands-as-obedient-laborers
+  motif_id: disembodied_hands_as_obedient_laborers
+  label: Disembodied hands as obedient laborers
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Autonomous body parts performing labor fit the artificial/animated labor
+    and magical craft cluster better than general shapeshifting.
+  cautions: If the hands are spirits, severed remains, or demonic servants rather
+    than crafted/animated agents, divine_intervention or death_and_transformation
+    may be secondary.
+  suggested_aliases:
+  - autonomous_hands_as_laborers
+  - magical_disembodied_hands_perform_work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dismembered-demon-body-becomes-celestial-features
+  motif_id: dismembered_demon_body_becomes_celestial_features
+  label: Dismembered demon body becomes celestial features
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dismembered being's body becoming celestial features matches cosmic
+    formation through body transformation or dismemberment.
+  cautions: Do not assume sacrifice or primordial creation unless the passage frames
+    the event as world-making; otherwise death_and_transformation may be the safer
+    parent.
+  suggested_aliases:
+  - dismembered_body_becomes_celestial_features
+  - demon_body_transformed_into_sky_features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dismemberment-and-distribution-of-defeated-enemies
+  motif_id: dismemberment_and_distribution_of_defeated_enemies
+  label: Dismemberment and distribution of defeated enemies
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is post-combat treatment of defeated enemies, fitting sacred
+    combat and warrior victory imagery.
+  cautions: If the distribution is ritual offering, magical containment, or corpse-rite
+    theology, sacrifice or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - distribution_of_dismembered_enemies
+  - dismembered_enemy_parts_distributed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacrifice
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dismemberment-of-defeated-enemies
+  motif_id: dismemberment_of_defeated_enemies
+  label: Dismemberment of defeated enemies
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enemy dismemberment after defeat is a martial victory motif within sacred
+    combat or divine-warrior imagery.
+  cautions: May be too broad as a violence detail unless the passage gives it ritual,
+    mythic, or cosmic significance.
+  suggested_aliases:
+  - defeated_enemy_dismemberment
+  - dismembering_defeated_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disobedient-deputy-of-a-high-being
+  motif_id: disobedient_deputy_of_a_high_being
+  label: Disobedient deputy of a high being
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A subordinate sacred agent acting against a high being fits divine agency
+    in human or cosmic affairs, but the function is broad.
+  cautions: Could also represent trickster rebellion, fall of a heavenly being, or
+    etiological disorder; source evidence is needed before firm placement.
+  suggested_aliases:
+  - rebellious_deputy_of_high_god
+  - disobedient_subordinate_of_high_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dispersal-of-a-powerful-contingent-to-prevent-dominance
+  motif_id: dispersal_of_a_powerful_contingent_to_prevent_dominance
+  label: Dispersal of a powerful contingent to prevent dominance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns regulating power and preventing political dominance,
+    which fits social order and kingship broadly.
+  cautions: May be a historical-political episode or tactical detail rather than a
+    mythic motif; review before using in pattern queries.
+  suggested_aliases:
+  - powerful_group_dispersed_to_prevent_dominance
+  - dispersal_to_preserve_balance_of_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.displaced-religious-communities-becoming-influential-in-a-new-region
+  motif_id: displaced_religious_communities_becoming_influential_in_a_new_region
+  label: displaced religious communities becoming influential in a new region
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as historical or sociological summary rather than a symbolic
+    narrative motif.
+  cautions: If a specific sacred exile, migration, or founding story is present, remap
+    to departure, return, culture_hero, or covenant as appropriate.
+  suggested_aliases:
+  - displaced_religious_community_influence
+  - religious_communities_influential_after_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - culture_hero
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.display-of-tongue-tips
+  motif_id: display_of_tongue_tips
+  label: Display of tongue tips
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The gesture may be oath, insult, proof, threat, ritual sign, or episode
+    detail; function is not recoverable from the label.
+  cautions: Likely over-specific unless it recurs or has clear ritual/symbolic significance
+    in the source.
+  suggested_aliases:
+  - tongue_tip_display
+  - displayed_tongues_as_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dispossessed-heiress-seeks-champion-s-aid
+  motif_id: dispossessed_heiress_seeks_champion_s_aid
+  label: Dispossessed heiress seeks champion’s aid
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The existing sacred_love group includes bride-choice and champion-aid
+    courtship structures, making this a plausible placement.
+  cautions: If the emphasis is inheritance, sovereignty, or restoration of rule rather
+    than romantic alliance, royal_legitimacy should be preferred.
+  suggested_aliases:
+  - heiress_seeks_champion_aid
+  - dispossessed_woman_requests_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - hero_journey
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; suggested placements
+  should be treated as provisional evidence sorting, not taxonomy edits.
+- For culturally specific Australian Aboriginal items, source context should be reviewed
+  before assigning strong cross-cultural motif functions.
+- Enemy dismemberment labels may duplicate or nest under future granular combat/body-treatment
+  motifs if more examples recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1357
+  input_sha256: c783f4212ed47626191a70249718a9720b95cce56442be477810230600e215f9
+

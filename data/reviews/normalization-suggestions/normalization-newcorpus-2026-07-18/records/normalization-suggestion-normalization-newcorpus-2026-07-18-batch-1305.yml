@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1305
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cannibal-predator-preying-on-wood-gatherers
+  motif_id: cannibal_predator_preying_on_wood_gatherers
+  label: Cannibal predator preying on wood-gatherers
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: A predatory figure attacking vulnerable humans may fit the existing predator/deception
+    cluster under trickster, but the cannibal and wood-gatherer details may mark a
+    local monster episode.
+  cautions: Could instead require a monster/ogre or perilous-wilderness group if similar
+    labels recur; culturally specific Hopi context should be reviewed before broad
+    mapping.
+  suggested_aliases:
+  - cannibal predator
+  - woodland predator attack
+  - predator preys on gatherers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canonical-standardization-and-suppression-of-variants
+  motif_id: canonical_standardization_and_suppression_of_variants
+  label: Canonical standardization and suppression of variants
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual canon formation and variant suppression rather
+    than a narrative or symbolic motif.
+  cautions: Preserve as provenance or textual-history metadata, not as a motif query
+    term; avoid deriving transmission claims from this placement.
+  suggested_aliases:
+  - canon standardization
+  - suppression of textual variants
+  - textual standardization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cap-of-invisibility-as-magical-aid
+  motif_id: cap_of_invisibility_as_magical_aid
+  label: Cap of invisibility as magical aid
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: An invisibility cap is a power object that grants special ability and
+    aids the bearer.
+  cautions: If the passage emphasizes disguise or liminal identity more than the object,
+    shapeshifter or trickster may be a secondary relation.
+  suggested_aliases:
+  - invisibility cap
+  - magical cap of invisibility
+  - invisibility object as aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-ancestress-whose-descendants-become-free-founders
+  motif_id: captive_ancestress_whose_descendants_become_free_founders
+  label: Captive ancestress whose descendants become free founders
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on ancestral origin and founding descent, which may
+    fit origin-of-peoples material under cosmic_origin.
+  cautions: Captivity, gendered ancestry, and Navajo clan/founding context are culturally
+    sensitive; review whether the motif is genealogy, liberation, social charter,
+    or passage-specific history.
+  suggested_aliases:
+  - captive ancestress as founder
+  - descendants become free founders
+  - founding ancestress from captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-escapes-through-hidden-token-smuggled-tool-and-kin-assistance
+  motif_id: captive_escapes_through_hidden_token_smuggled_tool_and_kin_assistance
+  label: Captive escapes through hidden token, smuggled tool, and kin assistance
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The hidden token appears to enable recognition, proof, or coordinated
+    rescue, aligning with the existing token/identity-proof group.
+  cautions: The composite escape strategy is over-specific; if the token is merely
+    a tool rather than identity proof, sacred_treasures or hero_journey may be better.
+  suggested_aliases:
+  - hidden token aids escape
+  - smuggled tool escape
+  - kin-assisted captive escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-feigns-acceptance-and-escapes-while-captor-sleeps
+  motif_id: captive_feigns_acceptance_and_escapes_while_captor_sleeps
+  label: Captive feigns acceptance and escapes while captor sleeps
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning compliance to cross captivity boundaries and escape is a deception-based
+    survival strategy close to existing trickster escape motifs.
+  cautions: May be a local episode-specific escape motif rather than a broad trickster
+    pattern; review whether the captive is framed as trickster, victim, spouse, or
+    initiate.
+  suggested_aliases:
+  - feigned acceptance escape
+  - escape while captor sleeps
+  - deceptive compliance escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-helpers-use-a-magic-object-stratagem
+  motif_id: captive_helpers_use_a_magic_object_stratagem
+  label: Captive helpers use a magic-object stratagem
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magic object used to effect rescue or escape fits the power-object
+    function of sacred_treasures.
+  cautions: If the main pattern is deceptive strategy rather than the object, trickster
+    may be secondary; label is broad and needs source evidence.
+  suggested_aliases:
+  - magic object rescue stratagem
+  - magical aid for captive escape
+  - power object used by helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-incorporation-and-clan-or-cult-transmission
+  motif_id: captive_incorporation_and_clan_or_cult_transmission
+  label: Captive incorporation and clan or cult transmission
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Incorporation into a group and transfer of cult or clan knowledge may
+    involve sacred social exchange and transmission of ritual identity.
+  cautions: Highly contextual and culturally sensitive; may be ethnographic, historical,
+    or clan-origin material rather than a reusable motif. Avoid transmission claims
+    without evidence.
+  suggested_aliases:
+  - captive incorporation
+  - clan transmission through captive
+  - cult transmission through incorporation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-released-after-defeat-of-captor
+  motif_id: captive_released_after_defeat_of_captor
+  label: Captive released after defeat of captor
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Release of a captive through the captor's defeat fits rescue as an outcome
+    of combat against an antagonist.
+  cautions: If no sacred or heroic combat is present, this may be only a plot resolution;
+    consider hero_journey if the rescue completes a quest.
+  suggested_aliases:
+  - captive freed after captor defeated
+  - rescue by defeat of captor
+  - liberation after antagonist defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-royal-women-in-degrading-servitude-awaiting-rescue
+  motif_id: captive_royal_women_in_degrading_servitude_awaiting_rescue
+  label: captive royal women in degrading servitude awaiting rescue
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Captive women awaiting rescue may function as a beloved/kin rescue pattern,
+    but the label also emphasizes royal status and degradation.
+  cautions: Gendered captivity and servitude require source review; may belong to
+    royal_legitimacy, hero_journey, sacred_love, or be too episode-specific for pattern
+    queries.
+  suggested_aliases:
+  - captive royal women awaiting rescue
+  - royal women in degrading captivity
+  - rescue of captive noble women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are captivity/rescue episodes. Existing groups can
+  hold some by function, but a future captivity/rescue group may be warranted if many
+  comparable labels recur across sources.
+- Do not infer cultural transmission from labels involving clan, cult, canon, or variant
+  standardization; those require separate evidence review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Hopi, Navajo, and Australian
+    Aboriginal captivity labels should receive human review before indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1305
+  input_sha256: 69a64905fdb5911641a315fc81f506ae27385c4db624d25a09540a0baa407238
+

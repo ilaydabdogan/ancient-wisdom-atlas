@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.ethiopian-kebra-nagast-budge-archive-l5611-l5638
+source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+passage_locator:
+  label: PLATE  IV / B  I7 / QUEEN / QUEEN; lines 5611-5638
+  start: '5611'
+  end: '5638'
+  translation: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: '"Dismiss me, and let me depart to my own country."'
+  summary: Solomon wakes disturbed after a vision in sleep, marvels at the Queen’s
+    strength, beauty, virginity, reign, and purity, and receives her request to return
+    to her country. He gives her rich gifts, apparel, loaded camels and wagons, desert
+    wagons, and vessels for sea and air travel made by the wisdom God gave him. The
+    excerpt also includes a heading concerning a sign Solomon gave the Queen, but
+    the sign itself is not described within the provided lines.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Solomon sees a vision in his sleep and wakes with a disturbed soul and agitated
+    mind.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Solomon marvels at the Queen, described as strong, beautiful, undefiled in
+    virginity, ruling for six years in her own country, and preserving her body pure.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Queen asks Solomon to dismiss her and allow her to depart to her own country.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Solomon enters his house and gives the Queen splendid things, riches, beautiful
+    apparel, and valued goods associated with Ethiopia.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The gifts include six thousand camels and wagons loaded with desirable things,
+    as well as wagons for carrying loads over the desert.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage mentions a vessel for sea travel and a vessel for traversing the
+    air or winds, made by Solomon through wisdom God gave him.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The excerpt includes a heading about the sign Solomon gave the Queen, but
+    the provided lines do not describe the sign itself.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Solomon the King
+  description: A king who sees a disturbing sleep-vision, marvels at the Queen, grants
+    her rich gifts and transport, and is said to have made sea- and air-travel vessels
+    by wisdom given by God.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the Queen
+  description: A queen described as strong, beautiful, virginal, pure, and ruling
+    for six years in her own country; she asks to depart and receives Solomon’s gifts.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: God
+  description: The divine source of the wisdom said to have enabled Solomon to make
+    the vessels.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  basis: Solomon is called “the King.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sleep-vision recipient
+  assigned_to:
+  - fig:1
+  basis: Solomon sees a vision in his sleep and wakes agitated.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: royal giver and host
+  assigned_to:
+  - fig:1
+  basis: Solomon gives the Queen riches, apparel, transport animals, wagons, and vessels.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: maker by God-given wisdom
+  assigned_to:
+  - fig:1
+  basis: The vessels are said to have been made by Solomon through wisdom God gave
+    him.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: queen and ruler
+  assigned_to:
+  - fig:2
+  basis: The passage calls her the Queen and says she had reigned for six years in
+    her own country.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: departing requester
+  assigned_to:
+  - fig:2
+  basis: She asks Solomon to dismiss her so she may return to her own country.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: recipient of royal gifts
+  assigned_to:
+  - fig:2
+  basis: Solomon gives her splendid goods, riches, transport animals, wagons, and
+    vessels.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: divine source of wisdom
+  assigned_to:
+  - fig:3
+  basis: The passage says God gave Solomon the wisdom by which the vessels were made.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sleep-vision
+  literal_form: vision in Solomon’s sleep
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: royal departure gifts
+  literal_form: splendid things, riches, beautiful apparel, and valued Ethiopian goods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: loaded transport train
+  literal_form: six thousand camels and wagons laden with desirable things, plus desert
+    wagons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sea-travel vessel
+  literal_form: a vessel wherein one could travel over the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: air- or wind-traversing vessel
+  literal_form: a vessel wherein one could traverse the air or winds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: God-given wisdom
+  literal_form: wisdom that God had given unto Solomon
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Solomon wakes from a disturbing vision
+  summary: Solomon sees a vision in sleep, becomes inwardly disturbed, and wakes with
+    an agitated mind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Solomon marvels at the Queen
+  summary: Solomon contemplates the Queen’s strength, beauty, virginity, purity, and
+    six-year reign in her own country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The Queen asks to depart
+  summary: The Queen asks Solomon to dismiss her so that she may go back to her own
+    country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Solomon gives gifts and extraordinary transport
+  summary: Solomon gives the Queen rich goods, apparel, loaded camels and wagons,
+    desert wagons, and vessels for sea and air travel made by God-given wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: disturbing dream-vision
+  taxonomy_refs: []
+  basis: Solomon receives a vision in sleep and wakes disturbed and agitated.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The content of the vision is not included in the provided passage.
+- id: motif:2
+  label: departure to one’s own country
+  taxonomy_refs:
+  - departure
+  basis: The Queen explicitly asks Solomon to dismiss her and let her depart to her
+    own country.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The actual journey is not narrated in the provided excerpt.
+- id: motif:3
+  label: royal gift-giving at leave-taking
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After the Queen requests departure, Solomon gives her riches, apparel, valued
+    goods, camels, wagons, and vessels.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes one-way gift-giving; a reciprocal or explicitly
+    sacred exchange is not stated in these lines.
+- id: motif:4
+  label: God-given wisdom enabling extraordinary craft
+  taxonomy_refs:
+  - wisdom
+  basis: The sea- and air-travel vessels are said to have been made by Solomon through
+    wisdom given by God.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the divine source of wisdom but does not describe the
+    construction process.
+- id: motif:5
+  label: marvelous vessel transport
+  taxonomy_refs:
+  - ark_vessel
+  basis: The passage mentions a vessel for sea travel and another for traversing air
+    or winds.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The vessels are not described as an ark or as preservation vessels; the
+    match is limited to the broader vessel-transport pattern.
+- id: motif:6
+  label: royal purity and chastity
+  taxonomy_refs: []
+  basis: The Queen is praised for virginity and bodily purity despite her beauty and
+    reign.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents these as attributes; it does not explicitly connect
+    them to a broader ritual or legitimacy claim within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5611-5615
+  quote_or_summary: Solomon sees a vision in sleep; his soul is disturbed, his understanding
+    is snatched away as by lightning, and he wakes agitated.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:2
+  type: summary
+  locator: 5615-5622
+  quote_or_summary: Solomon marvels at the Queen’s strength, beauty, undefiled virginity,
+    six-year reign in her own country, and bodily purity.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:3
+  type: quote
+  locator: 5622-5624
+  quote_or_summary: '"Dismiss me, and let me depart to my own country."'
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:4
+  type: summary
+  locator: 5624-5632
+  quote_or_summary: Solomon gives the Queen splendid things, riches, beautiful apparel,
+    Ethiopian-valued goods, and six thousand loaded camels and wagons, including desert
+    wagons.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:5
+  type: summary
+  locator: 5632-5636
+  quote_or_summary: The passage mentions a vessel for sea travel and a vessel for
+    traversing air or winds, made by Solomon through wisdom God gave him.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:6
+  type: citation
+  locator: 5634-5638
+  quote_or_summary: The line range includes headings concerning the sign Solomon gave
+    the Queen, but the provided excerpt does not describe the sign.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; source metadata marks full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are cautious because some taxonomy links, especially sacred_exchange and ark_vessel,
+    are broad and not explicitly named in the passage. No comparison claims are made
+    beyond candidate motif classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage ends at a heading about a sign; the sign itself is not available in the supplied excerpt and is not extracted as an event.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:ethiopian-kebra-nagast-budge-archive__l5611-l5638
+  passage_sha256=62fd3491ff8736754b366cabfdd479c842163e29db6a9ee5faf08f0b2fee4b0b
+

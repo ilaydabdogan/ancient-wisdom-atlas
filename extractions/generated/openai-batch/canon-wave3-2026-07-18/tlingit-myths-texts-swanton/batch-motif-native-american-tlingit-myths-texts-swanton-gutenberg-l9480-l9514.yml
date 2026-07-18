@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.native-american-tlingit-myths-texts-swanton-gutenberg-l9480-l9514
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+passage_locator:
+  label: 'FOOTNOTES: / FOOTNOTES: / FOOTNOTES: / FOOTNOTES:; lines 9480-9514'
+  start: '9480'
+  end: '9514'
+  translation: Tlingit Myths and Texts
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A winter famine at a Copper River place leaves many dead. Eight remaining
+    men leave along the riverbank; cold kills them one by one until one man remains.
+    He follows a calling voice to a great fire, warms himself, and then sees the dead
+    villagers and men around it. The fire, named Self-burning Fire, is said to have
+    brought them back to life, after which they obtain food easily at the river mouth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In winter, people at a place on Copper River are left without food and begin
+    dying.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: When only eight men remain, they decide to leave and walk down the riverbank.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The departing men freeze to death one after another, with some being buried,
+    until only one man remains.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The last remaining man is sickly-looking but feels strong, and he continues
+    after his last companion falls.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lone man hears a shout or voice ahead of him and follows it as it keeps
+    calling.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The man reaches a great fire and stands near it to warm himself.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After warming himself, the man sees the men who froze and the village people
+    standing around the fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The fire is named Self-burning Fire and is said to have brought the dead people
+    to life.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After this event, the people can get food very easily at the mouth of the
+    river.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Copper River community
+  description: People at a certain place on Copper River who suffer famine, die in
+    large numbers, appear around the fire, and afterward obtain food easily.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Eight remaining men
+  description: The last eight men who leave down the riverbank; members of this group
+    freeze to death one by one.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Last surviving man
+  description: The final man left from the village, described as sickly-looking but
+    strong; he follows the calling voice to the fire and witnesses the others around
+    it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Self-burning Fire
+  description: A great fire that calls the man, warms him, and is said to have brought
+    the dead people to life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: famine-stricken community
+  assigned_to:
+  - fig:1
+  basis: The people at a Copper River place have no food and begin dying through the
+    winter.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: departing survivors
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The remaining men decide to leave and walk down the riverbank; the last man
+    continues alone.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lone witness
+  assigned_to:
+  - fig:3
+  basis: After the others die, the last man follows the voice to the fire and sees
+    the dead people around it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: calling reviver
+  assigned_to:
+  - fig:4
+  basis: The fire is the source of the calling voice and is said to have brought the
+    dead people to life.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: revived people
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The men who froze and the village people stand around the fire after it has
+    brought them to life.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: self-burning fire
+  literal_form: great fire called Self-burning Fire
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: river setting
+  literal_form: Copper River, riverbank, and mouth of the river
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: winter famine on Copper River
+  summary: A winter food shortage at a Copper River place kills many children and
+    adults, leaving only a reduced population.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: departure and freezing deaths
+  summary: Eight remaining men leave along the riverbank; cold kills them successively
+    until one man remains.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: the call to the fire
+  summary: The lone man hears a continuing call, follows it, and finds a great fire
+    where he warms himself.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: revival around Self-burning Fire
+  summary: The man sees the frozen men and village people standing around the fire,
+    which is named Self-burning Fire and credited with restoring them to life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: renewed access to food
+  summary: After the revival, the people are able to obtain food easily at the river
+    mouth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dead restored to life by a supernatural fire
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage states that Self-burning Fire brought the frozen men and village
+    people to life.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives no ritual procedure or doctrinal explanation; the motif
+    is based only on the stated revival.
+- id: motif:2
+  label: calling fire guides a lone survivor
+  taxonomy_refs: []
+  basis: The last man follows a voice that continues calling and reaches the great
+    fire, which is later identified as the caller.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a local passage-level pattern; no supplied taxonomy family directly
+    names an animate or calling fire.
+- id: motif:3
+  label: departure from famine toward renewed subsistence
+  taxonomy_refs:
+  - departure
+  basis: The remaining men leave after famine and population loss; after the fire’s
+    action, the people obtain food easily at the river mouth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage does not describe a complete quest cycle or explicit return;
+    the departure taxonomy link is limited.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: line 9486
+  quote_or_summary: Title identifies the passage as “THE SELF-BURNING FIRE.”
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; brief quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 9488-9492
+  quote_or_summary: In winter at a place on Copper River, the people have no food;
+    children, some adults, and about half the former population die.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9492-9500
+  quote_or_summary: Eight men leave down the riverbank; companions freeze to death
+    in sequence, some are buried, and only one man from the village remains.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9502-9505
+  quote_or_summary: The lone man hears a continuing call ahead, follows it, reaches
+    a great fire, and warms himself; the fire had been calling him.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9507-9512
+  quote_or_summary: The frozen men and village people stand around the fire; the fire
+    is called Self-burning Fire and is said to have brought them to life.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9512-9513
+  quote_or_summary: From that time onward, the people can obtain food very easily
+    at the mouth of the river.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied English passage. Motif candidates
+    are conservative. No comparison claims were made; the preceding footnote appears
+    separate from the titled tale and was not used for comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote marker [110] appears in the passage, but its footnote text is not included in the supplied excerpt.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-tlingit-myths-texts-swanton-gutenberg__l9480-l9514
+  passage_sha256=c8b76d24f15f354116ec468f66b5016e45c3b153c263e0b12bcbf791ddb2cdec
+

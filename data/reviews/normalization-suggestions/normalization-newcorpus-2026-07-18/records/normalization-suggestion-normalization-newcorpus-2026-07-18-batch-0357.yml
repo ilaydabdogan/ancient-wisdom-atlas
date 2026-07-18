@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0357
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.inexhaustible-divine-word-beyond-cosmic-writing-materials
+  motif_id: inexhaustible_divine_word_beyond_cosmic_writing_materials
+  label: Inexhaustible divine word beyond cosmic writing materials
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on divine speech or revelation as inexhaustible sacred
+    knowledge beyond material inscription.
+  cautions: Could alternatively fit performative sacred speech if the passage emphasizes
+    utterance rather than revelation or knowledge.
+  suggested_aliases:
+  - inexhaustible_divine_word
+  - divine_word_beyond_writing
+  - limitless_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inheritance-reform-as-divine-ordinance
+  motif_id: inheritance_reform_as_divine_ordinance
+  label: Inheritance reform as divine ordinance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A social-legal rule presented as divine ordinance fits sacred law and
+    social order.
+  cautions: If the passage is only a historical-legal note with no mythic or sacred
+    framing, it may be too contextual for motif queries.
+  suggested_aliases:
+  - divine_inheritance_law
+  - inheritance_as_sacred_law
+  - divinely_ordained_inheritance_reform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-and-continuing-feud-after-battle
+  motif_id: inherited_and_continuing_feud_after_battle
+  label: inherited and continuing feud after battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Inherited Feud and Vengeance Cycle
+  relationship: child
+  confidence: medium
+  rationale: A continuing feud inherited after battle is a recurrent revenge-cycle
+    structure not cleanly covered by sacred combat alone.
+  cautions: May be an episode-specific political or kinship detail; verify recurrence
+    and whether feud inheritance, not battle itself, is the core motif.
+  suggested_aliases:
+  - inherited_feud
+  - continuing_feud_after_battle
+  - vengeance_cycle
+  suggested_new_group:
+    id: inherited_feud_vengeance_cycle
+    label: Inherited Feud and Vengeance Cycle
+    description: Blood feud, revenge obligation, or hostility passes across kin groups
+      or generations, sustaining violence even after battle, settlement, or compensation.
+    parent_group_ids:
+    - sacred_combat
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing combat and law groups cover warfare
+      or social order, but not the distinctive transmission of feud obligations across
+      generations or settlements.
+- suggestion_id: normalization.suggestion.inherited-disposition-expressed-through-tree-analogy
+  motif_id: inherited_disposition_expressed_through_tree_analogy
+  label: Inherited disposition expressed through tree analogy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a moral analogy or rhetorical image rather than
+    a stable narrative motif.
+  cautions: Do not map to sacred tree or axis mundi unless the tree has cosmological
+    or sacred-center function; may be an ethical teaching detail.
+  suggested_aliases:
+  - tree_analogy_for_inherited_disposition
+  - inherited_nature_tree_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-epic-episode-elaborated-by-later-storytellers
+  motif_id: inherited_epic_episode_elaborated_by_later_storytellers
+  label: inherited epic episode elaborated by later storytellers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual transmission and later elaboration, not a narrative
+    or symbolic motif within the story world.
+  cautions: Preserve for provenance or reception history, but exclude from motif pattern
+    queries.
+  suggested_aliases:
+  - later_storyteller_elaboration
+  - inherited_epic_episode_transmission
+  - epic_episode_elaborated_in_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-epic-made-vivid-by-the-poet
+  motif_id: inherited_epic_made_vivid_by_the_poet
+  label: Inherited epic made vivid by the poet
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label evaluates poetic handling of inherited material rather than
+    identifying a mythic motif.
+  cautions: Could be relevant to literary history, but should not drive motif comparison
+    queries.
+  suggested_aliases:
+  - poetic_vivification_of_inherited_epic
+  - inherited_epic_poetic_elaboration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-feud-and-revenge-killing
+  motif_id: inherited_feud_and_revenge_killing
+  label: Inherited feud and revenge killing
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Inherited Feud and Vengeance Cycle
+  relationship: child
+  confidence: medium
+  rationale: The label names a revenge obligation carried through an inherited feud,
+    matching a feud-cycle pattern.
+  cautions: Could be folded under sacred_combat if the evidence emphasizes battle
+    rather than kin vengeance or inherited obligation.
+  suggested_aliases:
+  - inherited_revenge_killing
+  - blood_feud_revenge
+  - vengeance_obligation
+  suggested_new_group:
+    id: inherited_feud_vengeance_cycle
+    label: Inherited Feud and Vengeance Cycle
+    description: Blood feud, revenge obligation, or hostility passes across kin groups
+      or generations, sustaining violence even after battle, settlement, or compensation.
+    parent_group_ids:
+    - sacred_combat
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing combat and law groups do not specifically
+      capture inherited retaliation as the narrative engine.
+- suggestion_id: normalization.suggestion.inherited-feud-and-vengeance-despite-compensation
+  motif_id: inherited_feud_and_vengeance_despite_compensation
+  label: Inherited feud and vengeance despite compensation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Inherited Feud and Vengeance Cycle
+  relationship: child
+  confidence: high
+  rationale: Vengeance continuing despite compensation strongly indicates a feud-cycle
+    motif involving failed settlement and inherited obligation.
+  cautions: May also touch sacred law if compensation norms are central; keep compensation
+    detail as evidence.
+  suggested_aliases:
+  - vengeance_despite_compensation
+  - compensation_fails_to_end_feud
+  - inherited_blood_feud
+  suggested_new_group:
+    id: inherited_feud_vengeance_cycle
+    label: Inherited Feud and Vengeance Cycle
+    description: Blood feud, revenge obligation, or hostility passes across kin groups
+      or generations, sustaining violence even after battle, settlement, or compensation.
+    parent_group_ids:
+    - sacred_combat
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - divine_judgment
+    reason_existing_groups_insufficient: Sacred combat covers conflict, and sacred
+      law covers compensation norms, but neither captures the recurrent structure
+      of feud persisting across attempted settlement.
+- suggestion_id: normalization.suggestion.inherited-feud-recalled-as-political-warning
+  motif_id: inherited_feud_recalled_as_political_warning
+  label: Inherited feud recalled as political warning
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may describe a rhetorical exemplum or political memory rather
+    than an active narrative feud motif.
+  cautions: If the source depicts the feud as an inherited vengeance cycle, map to
+    the proposed feud group; if it is commentary, exclude as contextual artifact.
+  suggested_aliases:
+  - feud_as_political_warning
+  - inherited_feud_memory
+  - political_warning_from_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-heroic-weapon-identifies-lineage
+  motif_id: inherited_heroic_weapon_identifies_lineage
+  label: Inherited heroic weapon identifies lineage
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A weapon functioning as proof of lineage is an identity token, even if
+    it is also a heroic object.
+  cautions: Secondary relevance to sacred_treasures if the weapon confers power or
+    authority beyond identification.
+  suggested_aliases:
+  - weapon_as_lineage_token
+  - inherited_weapon_identity_proof
+  - heroic_weapon_recognition_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels were placed in a proposed inherited_feud_vengeance_cycle group because
+  the current taxonomy has combat and law groups but no durable home for blood-feud
+  persistence across generations or failed settlements.
+- The review bucket appears noisy for this batch; many items are legal, conflict,
+  or meta-textual rather than divine ritual or sacrifice.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should decide whether the inherited
+    feud cluster merits a new canonical motif group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0357
+  input_sha256: 4dce1a33becc7673d500d1f3d90f3638f66bad12d2519721f3720b67036edd7e
+

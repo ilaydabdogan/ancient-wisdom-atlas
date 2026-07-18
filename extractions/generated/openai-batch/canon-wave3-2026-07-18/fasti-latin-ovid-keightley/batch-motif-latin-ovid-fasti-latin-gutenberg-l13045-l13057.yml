@@ -1,0 +1,203 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l13045-l13057
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'LIBER V. / NOTES: / LIBER VI. / NOTES:; lines 13045-13057'
+  start: '13045'
+  end: '13057'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Si novus a Jani sacris numerabitur annus...
+  summary: A note discusses manuscript readings for a lyre-related phrase, then reports
+    that five good manuscripts include four verses that may begin a seventh book.
+    The verses contrast counting a new year from Janus's rites with arranging the
+    Kalends from Mars so that the times keep their proper order.
+  language: English with Latin excerpts
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note states that five manuscripts read “Lyram,” while the rest read “lyra.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note explains “Increp. lyr.” as meaning “struck the lyre.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says five of the best manuscripts contain four following verses that
+    look like the beginning of a seventh book.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Latin verses mention a new year counted from the sacred rites of Janus.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The verses state that, under that reckoning, Quintilis would be named falsely.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The verses refer to making the Kalends first from Mars, so that the times
+    stand in their proper order.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Janus
+  description: Named in the phrase referring to the sacred rites of Janus as a possible
+    point from which a new year is counted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mars
+  description: Named as the reference point from which the first Kalends had been
+    reckoned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sacred calendar reference
+  assigned_to:
+  - fig:1
+  basis: The verses refer to counting a new year from Janus's sacred rites.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: calendar-order reference
+  assigned_to:
+  - fig:2
+  basis: The verses refer to making the first Kalends from Mars so that the times
+    keep their order.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Lyre
+  literal_form: lyram / lyra
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sacred rites of Janus
+  literal_form: Jani sacris
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Kalends from Mars
+  literal_form: primus a Marte Kalendas
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Ordered times
+  literal_form: Tempora ... ordine
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lyre manuscript note
+  summary: The note records variant manuscript readings for a lyre term and explains
+    the abbreviated phrase as striking the lyre.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Calendar-order verses
+  summary: Four verses preserved in several manuscripts contrast a new-year reckoning
+    from Janus's rites with a Kalends reckoning from Mars that preserves the order
+    of the times.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Sacred calendar ordering by divine reference points
+  taxonomy_refs: []
+  basis: The verses use Janus's rites and Mars as reference points for organizing
+    the year, the Kalends, and the order of times.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a textual note and brief quoted verse fragment; it supports
+    a calendrical pattern but not a fully developed mythic narrative.
+- id: motif:2
+  label: Correct or false naming within a calendrical sequence
+  taxonomy_refs: []
+  basis: The verses say Quintilis would be falsely named under one new-year reckoning,
+    while another reckoning preserves ordered time.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a calendrical and textual observation rather than a clear mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13045-13048
+  quote_or_summary: "“Lyram” is reported as one manuscript reading, with “lyra” in
+    others; “Increp. lyr.” is explained as “struck the lyre.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public-domain source; short excerpt summarized with minimal quotation.
+- id: ev:2
+  type: summary
+  locator: 13050-13053
+  quote_or_summary: The note says five of the best manuscripts include the following
+    four verses, which look like the commencement of a seventh book.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public-domain source; summary.
+- id: ev:3
+  type: quote
+  locator: 13054-13057
+  quote_or_summary: "“Si novus a Jani sacris numerabitur annus... Si facis, ut fuerant,
+    primus a Marte Kalendas, / Tempora constabunt ordine ducta suo.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public-domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is mainly a textual note with a short calendrical verse fragment.
+    No external comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was applied; the passage does not clearly support one of the supplied taxonomy IDs.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l13045-l13057
+  passage_sha256=0ddc269efac1b58752b8ad5313e9cb211e8ee7669279264b3cb259dc5e031774
+

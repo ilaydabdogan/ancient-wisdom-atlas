@@ -1,0 +1,329 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0857
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-of-dogs-from-summoned-earth-hummocks
+  motif_id: origin_of_dogs_from_summoned_earth_hummocks
+  label: origin of dogs from summoned earth-hummocks
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiological Animal Traits
+  relationship: child
+  confidence: medium
+  rationale: The label explains the origin of an animal species through a mythic creative
+    act, which is not well covered by current animal or creation groups.
+  cautions: Single occurrence and culturally specific; review source context before
+    promoting beyond a granular child label.
+  suggested_aliases:
+  - animal species origin
+  - origin of animals
+  - etiological animal origin
+  suggested_new_group:
+    id: animal_origins_etiology
+    label: Animal Origins and Etiological Animal Traits
+    description: Myths explaining the origin of animal species, animal markings, traits,
+      adornments, behaviors, or enduring relations between animal kinds and humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: Existing cosmic_origin handles creation broadly
+      and some place/people etiologies, while shapeshifter covers transformation;
+      neither cleanly groups recurring animal-origin and animal-trait etiologies.
+- suggestion_id: normalization.suggestion.origin-of-enduring-enmity-between-animal-tribes
+  motif_id: origin_of_enduring_enmity_between_animal_tribes
+  label: Origin of enduring enmity between animal tribes
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiological Animal Traits
+  relationship: child
+  confidence: medium
+  rationale: This is an etiological explanation for animal intergroup relations rather
+    than trickster action alone.
+  cautions: May depend on local ancestral-law context; review before using as a broad
+    comparative motif.
+  suggested_aliases:
+  - origin of animal enmity
+  - etiology of animal hostility
+  - animal tribes become enemies
+  suggested_new_group:
+    id: animal_origins_etiology
+    label: Animal Origins and Etiological Animal Traits
+    description: Myths explaining the origin of animal species, animal markings, traits,
+      adornments, behaviors, or enduring relations between animal kinds and humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not clearly cover animal-behavior
+      or animal-relation etiologies as a recurring pattern.
+- suggestion_id: normalization.suggestion.origin-of-hostility-between-humans-and-birds
+  motif_id: origin_of_hostility_between_humans_and_birds
+  label: origin of hostility between humans and birds
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiological Animal Traits
+  relationship: child
+  confidence: medium
+  rationale: The label explains a lasting human-animal relation, fitting an animal
+    etiological pattern better than an existing trickster or sacred-law group.
+  cautions: Could involve taboo, failed exchange, or conflict depending on passage
+    evidence; keep as provisional.
+  suggested_aliases:
+  - origin of human-animal hostility
+  - origin of hostility with birds
+  - etiology of bird-human enmity
+  suggested_new_group:
+    id: animal_origins_etiology
+    label: Animal Origins and Etiological Animal Traits
+    description: Myths explaining the origin of animal species, animal markings, traits,
+      adornments, behaviors, or enduring relations between animal kinds and humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: Current groups lack a stable home for etiologies
+      of human-animal relations unless a specific legal, trickster, or transformation
+      function is present.
+- suggestion_id: normalization.suggestion.origin-of-marine-animals-from-severed-body-parts
+  motif_id: origin_of_marine_animals_from_severed_body_parts
+  label: Origin of marine animals from severed body parts
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: functional_variant
+  confidence: medium
+  rationale: The creation of beings from severed body parts aligns with body-derived
+    creation and dismemberment motifs.
+  cautions: If the episode is not primordial or sacrificial, animal_origins_etiology
+    may be a better primary group with primordial_sacrifice as related.
+  suggested_aliases:
+  - animals from severed body parts
+  - marine animals from dismemberment
+  - body parts become animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-or-explanation-of-animal-adornment
+  motif_id: origin_or_explanation_of_animal_adornment
+  label: origin or explanation of animal adornment
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiological Animal Traits
+  relationship: child
+  confidence: medium
+  rationale: This explains a distinctive animal feature or appearance, a recurring
+    animal-etiology type not represented by current groups.
+  cautions: The label is broad and may be a generated abstraction; verify actual narrative
+    detail before indexing.
+  suggested_aliases:
+  - animal adornment etiology
+  - origin of animal decoration
+  - explanation of animal appearance
+  suggested_new_group:
+    id: animal_origins_etiology
+    label: Animal Origins and Etiological Animal Traits
+    description: Myths explaining the origin of animal species, animal markings, traits,
+      adornments, behaviors, or enduring relations between animal kinds and humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: Shapeshifter covers change of form, but not
+      stable etiological explanations of animal markings or adornment.
+- suggestion_id: normalization.suggestion.origin-or-recognition-of-distinctive-animal-mark
+  motif_id: origin_or_recognition_of_distinctive_animal_mark
+  label: origin or recognition of distinctive animal mark
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiological Animal Traits
+  relationship: child
+  confidence: medium
+  rationale: The motif concerns an animal mark as an etiological or recognition feature,
+    fitting an animal-trait etiology group.
+  cautions: Because the label combines origin and recognition, review whether it functions
+    as etiology, identity proof, or merely descriptive detail.
+  suggested_aliases:
+  - distinctive animal mark
+  - animal marking etiology
+  - recognition by animal mark
+  suggested_new_group:
+    id: animal_origins_etiology
+    label: Animal Origins and Etiological Animal Traits
+    description: Myths explaining the origin of animal species, animal markings, traits,
+      adornments, behaviors, or enduring relations between animal kinds and humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Recognition_tokens covers proof of identity,
+      but not the origin of animal markings; current animal groups lack etiological
+      trait coverage.
+- suggestion_id: normalization.suggestion.otherworldly-music-with-enchanted-birds
+  motif_id: otherworldly_music_with_enchanted_birds
+  label: Otherworldly music with enchanted birds
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The functional center is supernatural or otherworldly music, with birds
+    as the enchanted medium or setting.
+  cautions: If the passage emphasizes entry into an enchanted realm more than musical
+    power, otherworld may be a useful secondary mapping.
+  suggested_aliases:
+  - enchanted bird music
+  - otherworldly bird song
+  - supernatural bird music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outsider-animal-joins-a-bird-dance
+  motif_id: outsider_animal_joins_a_bird_dance
+  label: outsider animal joins a bird dance
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual dance, animal society, outsider intrusion,
+    trickster participation, or a local ceremonial episode.
+  cautions: Source context is needed; avoid forcing into trickster, initiation, or
+    animal etiology without evidence of narrative function.
+  suggested_aliases:
+  - animal outsider at bird dance
+  - outsider joins animal dance
+  - bird dance intrusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overnight-transformation-of-forest-into-bread
+  motif_id: overnight_transformation_of_forest_into_bread
+  label: overnight transformation of forest into bread
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forest becoming bread centers on miraculous transformation into food
+    or abundance, closest to sacred substance/provision patterns.
+  cautions: Could fit divine_intervention if the emphasis is miraculous aid, or shapeshifter
+    if transformation itself is the primary motif; label may be episode-specific.
+  suggested_aliases:
+  - miraculous food transformation
+  - forest transformed into bread
+  - overnight creation of bread
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overseas-origin-of-europeans-from-dog-offspring
+  motif_id: overseas_origin_of_europeans_from_dog_offspring
+  label: Overseas origin of Europeans from dog offspring
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines people-origin etiology, dog ancestry, overseas outsiders,
+    and a specific ethnic category.
+  cautions: Culturally sensitive and historically contextual; review source framing
+    before mapping to cosmic_origin, animal_origins_etiology, or excluding as over-specific
+    ethnographic classification.
+  suggested_aliases:
+  - foreign peoples from animal offspring
+  - dog offspring ancestor of outsiders
+  - origin of Europeans from dog ancestry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items point to a recurring animal-origin/animal-trait etiology complex not
+  cleanly covered by existing groups; consider whether animal_origins_etiology should
+  be added as a normalization group after human review.
+- Do not infer transmission or shared origin from the repeated animal-etiology structure;
+  these are placement suggestions only.
+- Single-occurrence and culturally specific labels should remain granular evidence
+  unless recurrence across sources is confirmed.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0857
+  input_sha256: 07ae0203503c9a91c392cf4f106d9f38e558b0ed78dcd361db236d51104783c7
+

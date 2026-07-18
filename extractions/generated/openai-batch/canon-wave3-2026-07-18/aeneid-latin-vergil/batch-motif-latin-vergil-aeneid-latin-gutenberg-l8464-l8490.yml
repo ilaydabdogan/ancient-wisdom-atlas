@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.latin-vergil-aeneid-latin-gutenberg-l8464-l8490
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+passage_locator:
+  label: LIBER IX / PUBLI VERGILI MARONIS / AENEIDOS / LIBER X; lines 8464-8490
+  start: '8464'
+  end: '8490'
+  translation: Aeneidos
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a duel, a Trojan hero withstands repeated missiles, then drives a spear
+    into the opposing warrior's horse, causing it to rear, throw its rider, and fall
+    upon him. Aeneas approaches with sword drawn and taunts Mezentius. The Tyrrhenian
+    warrior asks only that his body be buried and that he share his son's tomb; he
+    then receives the sword in his throat and dies bleeding onto the field.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A warrior casts weapon after weapon at an enemy, and a golden shield-boss
+    withstands the blows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A mounted combatant rides three leftward circles around a standing opponent
+    while throwing missiles; the Trojan hero carries a great mass of missiles on his
+    bronze shield-covering.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Trojan hero, weary of delay and of pulling out missiles, hurls a spear
+    between the war-horse's temples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The horse rears, beats the air with its heels, throws its rider, follows over
+    him, and falls forward onto his shoulder.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Trojans and Latins raise a great shout after the rider falls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Aeneas rushes up, draws his sword from its sheath, and addresses Mezentius
+    with a taunting question about his former fierceness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Tyrrhenian warrior regains breath and sense, calls Aeneas a bitter enemy,
+    denies wrongdoing in being killed, and says Lausus made no pact with Aeneas for
+    him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Tyrrhenian warrior asks that his body be covered with earth, that Aeneas
+    protect it from the hatred of his people, and that he be allowed to share his
+    son's tomb.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The warrior knowingly receives the sword in his throat and pours out his life
+    with flowing blood onto the fields.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Lausus is presented as the warrior's son through the request to be made companion
+    of the son's sepulcher.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Aeneas / Trojan hero
+  description: Trojan combatant who withstands the missile attack, casts the spear
+    into the horse, approaches with sword drawn, and addresses Mezentius.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Mezentius / Tyrrhenian warrior
+  description: Warrior addressed as Mezentius and described as Tyrrhenian; after his
+    horse falls, he answers Aeneas, requests burial with his son, and dies by the
+    sword.
+  role_refs:
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Lausus
+  description: Named in Mezentius' speech and associated with the requested shared
+    sepulcher as the warrior's son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: War-horse
+  description: The warrior's horse, struck between the temples, rears, throws its
+    rider, and falls upon him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Trojans
+  description: One of the two groups that raise a shout after the fall of the rider.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Latins
+  description: One of the two groups that raise a shout after the fall of the rider.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Trojan combatant
+  assigned_to:
+  - fig:1
+  basis: The passage calls the standing fighter the Trojan hero while he endures the
+    missile attack and acts in the duel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Tyrrhenian opponent
+  assigned_to:
+  - fig:2
+  basis: Aeneas addresses Mezentius, and the responding warrior is called Tyrrhenian.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: father seeking burial with son
+  assigned_to:
+  - fig:2
+  basis: The warrior asks to be made companion of his son's tomb.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: son named in burial request
+  assigned_to:
+  - fig:3
+  basis: Lausus is named in the speech and linked with the requested sepulcher.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: war-horse that unseats rider
+  assigned_to:
+  - fig:4
+  basis: The horse is struck, rears, throws the rider, and falls on him.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: dying supplicant for burial
+  assigned_to:
+  - fig:2
+  basis: The wounded warrior asks for burial and protection from hostile fury before
+    death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: sword-bearing victor
+  assigned_to:
+  - fig:1
+  basis: Aeneas draws his sword, and the opponent receives the sword in his throat.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: shouting battle groups
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Trojans and Latins are named as raising a shout after the fall.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: golden shield-boss and bronze shield-covering
+  literal_form: aureus umbo; aerato tegmine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forest of missiles on shield
+  literal_form: immanem ... silvam of missiles carried on the shield-covering
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: war-horse
+  literal_form: bellatoris equi; quadrupes
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: spear aimed at the horse
+  literal_form: hasta cast between the horse's temples
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: drawn sword and throat wound
+  literal_form: ensem drawn from the sheath; sword received in the throat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: burial in earth and shared sepulcher
+  literal_form: body covered with earth; companion of the son's tomb
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: flowing blood on the fields
+  literal_form: undans cruor spread into the fields
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Circling missile duel
+  summary: A mounted warrior circles the standing Trojan hero three times while casting
+    missiles, and the Trojan hero's shield holds the accumulated weapons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Horse struck and rider thrown
+  summary: The Trojan hero strikes the war-horse with a spear; the horse rears, throws
+    the rider, and falls upon him while both armies shout.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Aeneas' taunt and Mezentius' burial plea
+  summary: Aeneas approaches with sword drawn and taunts Mezentius; the Tyrrhenian
+    warrior answers by asking for burial and a place with his son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Death by sword
+  summary: The warrior knowingly receives the sword in his throat and dies as his
+    blood flows onto the fields.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: threefold circling before decisive blow
+  taxonomy_refs: []
+  basis: The mounted combatant circles the standing opponent three times before the
+    combat shifts to the spear blow against the horse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the threefold action clearly, but no broader comparative
+    claim is made.
+- id: motif:2
+  label: shield bearing a mass of enemy missiles
+  taxonomy_refs: []
+  basis: The Trojan hero's shield withstands repeated missiles and is described as
+    carrying an immense forest of them.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The extraction treats the image as a local battle motif rather than assigning
+    a taxonomy family.
+- id: motif:3
+  label: war-horse causes the rider's fall
+  taxonomy_refs: []
+  basis: A spear wound to the horse makes it rear, throw the rider, and fall onto
+    him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No symbolic reading of the horse is asserted beyond the literal action.
+- id: motif:4
+  label: dying warrior requests burial with son
+  taxonomy_refs: []
+  basis: The defeated Tyrrhenian asks that his body be buried and that he share his
+    son's sepulcher.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy does not include a precise burial-request family;
+    no forced taxonomy reference is assigned.
+- id: motif:5
+  label: acceptance of death by sword
+  taxonomy_refs: []
+  basis: After making his request, the warrior knowingly receives the sword in his
+    throat and dies.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supports conscious reception of the death blow, but the degree
+    of ritual or voluntary surrender should be reviewed.
+- id: motif:6
+  label: battlefield taunt before death
+  taxonomy_refs: []
+  basis: Aeneas approaches the fallen opponent and questions where Mezentius' fierce
+    strength now is before the final exchange.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern; no external comparison is implied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8464-8470
+  quote_or_summary: A weapon is thrown at the enemy; more missiles follow; the golden
+    shield-boss withstands them. The mounted fighter circles three times to the left
+    while throwing, and the Trojan hero carries a great 'forest' of missiles on his
+    bronze shield-covering.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 8471-8478
+  quote_or_summary: Weary of delay and of pulling out many missiles, the Trojan hero
+    throws a spear between the horse's temples. The horse rears, kicks the air, throws
+    the rider, falls upon him, and Trojans and Latins shout.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 8479-8482
+  quote_or_summary: Aeneas rushes up, draws his sword from its sheath, and asks where
+    fierce Mezentius and his wild force of mind now are.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 8482-8488
+  quote_or_summary: The Tyrrhenian warrior regains breath and sense, answers Aeneas,
+    denies that killing is unlawful, refers to Lausus, and asks that his body be buried,
+    protected from his people's hatred, and placed with his son in the sepulcher.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 8489-8490
+  quote_or_summary: After speaking, the warrior knowingly receives the sword in his
+    throat and pours out his life with flowing blood onto the fields.
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about the duel, the horse's fall, the burial request,
+    and the death. Motif candidates are limited to local passage patterns without
+    external comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned because the passage supports battlefield and burial motifs more precisely than the provided taxonomy families.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-vergil-aeneid-latin-gutenberg__l8464-l8490
+  passage_sha256=aa5e43beba1178461ec044355f31e7766dc64d123bcdc19fca88f92e47c2fb6a
+

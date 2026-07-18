@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l7653-l7667
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  XXII L / Chapter  XXIV. / CHAPTER    XXIV,   I-I  7.  89 / CHAPTER    XXIV,    I  8
+    -XXV,   3.  9  I; lines 7653-7667
+  start: '7653'
+  end: '7667'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage ranks certain trees, mountains, and birds by value or precedence.
+    It names the Gokar tree as the tree by which the dead are restored; Mount Aparsen
+    as a chief mountain except for Alburs; and A'amro as chief among birds except
+    for the griffon of three natures. It concludes that whoever performs a great duty
+    has much value.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Certain trees, said to be formed on a particular model, are valued as worth
+    all the trees of Khvaniras except the Gokar tree.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Gokar tree is described as the tree with which the dead are restored.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mount Aparsen is said to begin in Sagastan and end in Khuzistan; some say
+    it comprises all the mountains of Pars.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mount Aparsen is called chief of all mountains except Alburs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A'amro is called chief among birds and is valued as worth all the birds in
+    Khvaniras except the griffon of three natures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage concludes that anyone who performs a great duty has much value.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: A'amro
+  description: A bird named as chief among birds and valued above the birds of Khvaniras
+    except for the griffon of three natures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: griffon of three natures
+  description: An exceptional bird-like being named as the exception to A'amro's value
+    among birds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: chief of birds
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls A'amro chief among birds.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: exceptional being among birds
+  assigned_to:
+  - fig:2
+  basis: The griffon of three natures is named as the exception to A'amro's surpassing
+    value among birds.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Gokar tree
+  literal_form: Tree used to restore the dead.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mount Aparsen
+  literal_form: Mountain said to extend from Sagastan to Khuzistan and to be chief
+    of mountains except Alburs.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Alburs
+  literal_form: Mountain named as the exception to Mount Aparsen's chief status among
+    mountains.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: A'amro bird
+  literal_form: Bird named as chief among birds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: griffon of three natures
+  literal_form: Griffon named as an exception among birds.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ranking of trees, mountains, and birds
+  summary: The passage presents a catalogue-like ranking of natural beings and places,
+    identifying exceptional trees, mountains, and birds and ending with a moral conclusion
+    about the value of performing a great duty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: restoration of the dead by a sacred tree
+  taxonomy_refs:
+  - resurrection
+  basis: The Gokar tree is described as the means by which the dead are restored.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a brief catalogue statement, not a full resurrection
+    episode.
+- id: motif:2
+  label: ranked chiefs among natural kinds
+  taxonomy_refs: []
+  basis: The passage identifies exceptional or chief representatives among trees,
+    mountains, and birds, then links great duty with great value.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a local classificatory pattern in the passage, not a supplied
+    taxonomy motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7653-7656
+  quote_or_summary: Trees are ranked by value, with the Gokar tree singled out as
+    the tree by which the dead are restored.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7657-7662
+  quote_or_summary: Mount Aparsen is described as extending from Sagastan to Khuzistan,
+    possibly encompassing the mountains of Pars, and as chief of all mountains except
+    Alburs.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7662-7665
+  quote_or_summary: A'amro is described as chief of birds and worth all birds in Khvaniras
+    except the griffon of three natures.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7665-7667
+  quote_or_summary: The passage concludes that whoever performs a great duty has much
+    value.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR-like spellings and the passage's catalogue format.
+    No external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; uncertain spellings were not emended beyond neutral summaries.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l7653-l7667
+  passage_sha256=733b8a30986d100307c193d273e09cfde380e9f2029a1746454be570e0f56f18
+

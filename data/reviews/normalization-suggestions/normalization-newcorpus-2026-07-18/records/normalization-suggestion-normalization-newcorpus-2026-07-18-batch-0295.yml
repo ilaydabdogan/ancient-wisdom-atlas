@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0295
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-food-from-the-sky
+  motif_id: divine_food_from_the_sky
+  label: Divine food from the sky
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Heaven-sent food is a direct divine provision pattern; the group already
+    includes miraculous or inexhaustible provision aliases.
+  cautions: If the food is primarily ritual meal, sacrificial food, or sacred intoxicant,
+    secondary indexing to sacred_substance or sacred_exchange may be useful.
+  suggested_aliases:
+  - heavenly_food_provision
+  - miraculous_food_from_heaven
+  - divine_food_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-food-provision-in-the-wilderness
+  motif_id: divine_food_provision_in_the_wilderness
+  label: Divine food provision in the wilderness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is miraculous divine provision during need, already
+    covered by divine_intervention and its miraculous provision aliases.
+  cautions: Wilderness setting may also support hero_journey or initiation only if
+    the passage emphasizes ordeal or transformation.
+  suggested_aliases:
+  - miraculous_food_in_wilderness
+  - divine_wilderness_provision
+  - miraculous_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-forgiveness-after-authorized-nullification
+  motif_id: divine_forgiveness_after_authorized_nullification
+  label: divine forgiveness after authorized nullification
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Authorized nullification followed by forgiveness concerns repair of a
+    sacred bond through sanctioned legal or ritual action.
+  cautions: Label is abstract and may refer to a specific legal passage; review whether
+    covenant, sacred_law, or divine_judgment is primary.
+  suggested_aliases:
+  - authorized_nullification_and_forgiveness
+  - ritual_legal_release_and_forgiveness
+  - sacred_bond_repaired_by_nullification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-fulfillment-of-communal-petitions
+  motif_id: divine_fulfillment_of_communal_petitions
+  label: divine fulfillment of communal petitions
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine response granting communal requests is direct sacred action
+    in human affairs.
+  cautions: If the emphasis is vow, offering, or liturgical exchange, sacred_exchange
+    may be a better or secondary placement.
+  suggested_aliases:
+  - answered_communal_petition
+  - divine_answer_to_prayer
+  - communal_prayer_fulfilled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-giant-slayer-defeats-a-hostile-giant-household
+  motif_id: divine_giant_slayer_defeats_a_hostile_giant_household
+  label: divine giant-slayer defeats a hostile giant household
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: child
+  confidence: high
+  rationale: A divine combatant defeating hostile giants fits sacred combat against
+    chaotic or monstrous opponents.
+  cautions: The household detail is episode-specific; preserve it as evidence rather
+    than promoting a separate motif.
+  suggested_aliases:
+  - divine_giant_slayer
+  - giant_slaying_by_divine_warrior
+  - divine_combat_against_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-gift-followed-by-idolatrous-attribution
+  motif_id: divine_gift_followed_by_idolatrous_attribution
+  label: divine gift followed by idolatrous attribution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misattributing a divine gift to idols frames ingratitude or transgression
+    that invites moral reckoning.
+  cautions: Could also belong under sacred_law or covenant if the passage centers
+    on prohibition of idolatry rather than consequence.
+  suggested_aliases:
+  - idolatrous_misattribution_of_divine_gift
+  - divine_gift_denied_to_true_source
+  - ingratitude_for_divine_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-gifts-enclosed-in-a-vessel
+  motif_id: divine_gifts_enclosed_in_a_vessel
+  label: Divine gifts enclosed in a vessel
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: The key motif is a vessel containing divine powers or gifts, matching
+    the sacred container complex.
+  cautions: If the gifts function primarily as authority objects, secondary mapping
+    to sacred_treasures may be appropriate; if opening is forbidden, note forbidden_knowledge.
+  suggested_aliases:
+  - divine_gifts_in_vessel
+  - sacred_container_of_gifts
+  - vessel_of_divine_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-grant-of-a-land-to-a-people
+  motif_id: divine_grant_of_a_land_to_a_people
+  label: divine grant of a land to a people
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine land grant establishes or confirms a binding sacred relationship
+    between deity and people.
+  cautions: May also support royal_legitimacy or cosmic_origin when the passage centers
+    on sovereignty or people-land origins.
+  suggested_aliases:
+  - promised_land_grant
+  - divine_land_grant
+  - sacred_grant_of_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-granting-of-victory-through-promise-and-weapon
+  motif_id: divine_granting_of_victory_through_promise_and_weapon
+  label: divine granting of victory through promise and weapon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divinely promised victory mediated by a weapon belongs to sacred combat
+    and divine warrior empowerment.
+  cautions: The weapon may also be indexed as sacred_treasures if the object itself
+    carries ongoing power or authority.
+  suggested_aliases:
+  - divinely_granted_victory
+  - victory_promised_with_sacred_weapon
+  - divine_weapon_grants_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guidance-and-presence-by-cloud-and-fire
+  motif_id: divine_guidance_and_presence_by_cloud_and_fire
+  label: divine guidance and presence by cloud and fire
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The group already includes cloud_fire_guidance as a child; fire and cloud
+    mark divine presence and guidance.
+  cautions: Also related to divine_intervention and theophany; choose primary placement
+    based on whether guidance, manifestation, or fire symbolism is emphasized.
+  suggested_aliases:
+  - cloud_fire_guidance
+  - pillar_of_cloud_and_fire
+  - divine_presence_in_cloud_and_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch fit existing broad groups; no new group candidate is needed.
+- Several items are single-occurrence and should preserve contextual details as evidence
+  notes rather than taxonomy children.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should confirm passage functions
+    and secondary mappings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0295
+  input_sha256: 4f41db5b598d45d862eb7616f7726cf855e06cf7da44b9e95e6f02880b8bd4f0
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1433
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hostile-envoys-announce-invasion
+  motif_id: hostile_envoys_announce_invasion
+  label: hostile envoys announce invasion
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Envoys announcing invasion are part of a war-initiation or conflict-escalation
+    sequence, fitting ritualized or heroic warfare better than general kingship.
+  cautions: Single occurrence; if the envoys mainly deliver binding speech, oath,
+    or threat, curse_blessing_speech may be a secondary fit.
+  suggested_aliases:
+  - invasion_announced_by_envoys
+  - war_heralds_announce_invasion
+  - hostile_messengers_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-fiends-repelled-and-their-paths-turned-back
+  motif_id: hostile_fiends_repelled_and_their_paths_turned_back
+  label: Hostile fiends repelled and their paths turned back
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repelling harmful fiends and turning back their paths matches the existing
+    ritual expulsion and boundary-sealing cluster under sacrifice.
+  cautions: If the passage is a funerary spell for safe postmortem travel, afterlife_passage
+    may also be relevant; review Egyptian ritual context carefully.
+  suggested_aliases:
+  - fiends_repelled
+  - hostile_spirits_turned_back
+  - apotropaic_repulsion_of_fiends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-giant-like-alien-powers-slain-or-left-to-trouble-humanity
+  motif_id: hostile_giant_like_alien_powers_slain_or_left_to_trouble_humanity
+  label: Hostile giant-like alien powers slain or left to trouble humanity
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: Slaying hostile giant-like powers may fit sacred combat against dangerous
+    beings, but the label also includes unresolved beings left to trouble humanity.
+  cautions: Culturally specific Navajo monster/alien-power categories need source-sensitive
+    review; avoid flattening into generic chaos monsters without evidence.
+  suggested_aliases:
+  - hostile_giant_powers
+  - giant_like_powers_trouble_humanity
+  - slaying_of_hostile_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-hospitality-and-refusal-of-raw-meat
+  motif_id: hostile_hospitality_and_refusal_of_raw_meat
+  label: Hostile hospitality and refusal of raw meat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a dangerous hospitality scene where offered food
+    becomes a test or threat.
+  cautions: Refusal of raw meat may involve taboo, purity, or warrior ordeal; map
+    to sacred_law only if the food prohibition is the main motif.
+  suggested_aliases:
+  - hostile_hospitality
+  - dangerous_feast_refused
+  - refusal_of_raw_meat_in_hostile_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-siblings-attack-a-miraculous-pregnancy
+  motif_id: hostile_siblings_attack_a_miraculous_pregnancy
+  label: hostile siblings attack a miraculous pregnancy
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A threatened miraculous pregnancy belongs with sacred birth and the endangered
+    extraordinary child complex.
+  cautions: Sibling hostility may also support sacred_twins or sibling_pair if the
+    sibling conflict drives the whole narrative.
+  suggested_aliases:
+  - threatened_miraculous_pregnancy
+  - siblings_attack_sacred_pregnancy
+  - hostile_kin_threaten_divine_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-abduction-by-a-leshy-into-hidden-forest-captivity
+  motif_id: human_abduction_by_a_leshy_into_hidden_forest_captivity
+  label: human abduction by a Leshy into hidden forest captivity
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: Abduction by a forest spirit into hidden captivity fits the enchanted
+    otherworld or hidden realm pattern.
+  cautions: Leshy specificity should remain evidence detail; if the focus is child
+    abduction, compare existing child_taken_by_wood_spirits_and_recovered_in_a_tree.
+  suggested_aliases:
+  - forest_spirit_abduction
+  - leshy_abduction
+  - human_taken_into_hidden_forest_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-acquisition-without-independent-causation
+  motif_id: human_acquisition_without_independent_causation
+  label: Human acquisition without independent causation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The abstract wording is unclear and may be theological commentary about
+    causation rather than a narrative motif.
+  cautions: Needs passage evidence before mapping; possible fits include divine_intervention,
+    sacred_knowledge, or covenantal theology, but label alone is too opaque.
+  suggested_aliases:
+  - acquisition_without_independent_causation
+  - human_gain_by_divine_causation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-bargain-or-careless-dedication-to-the-devil
+  motif_id: human_bargain_or_careless_dedication_to_the_devil
+  label: Human bargain or careless dedication to the Devil
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bargain or dedication to a supernatural adversary is a dangerous reciprocal
+    exchange or vow involving sacred powers.
+  cautions: If the emphasis is binding spoken promise, curse_blessing_speech may be
+    secondary; if moral punishment dominates, divine_judgment may fit.
+  suggested_aliases:
+  - devil_bargain
+  - careless_dedication_to_the_devil
+  - dangerous_supernatural_bargain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-body-fashioned-by-deity-from-mutable-substances
+  motif_id: human_body_fashioned_by_deity_from_mutable_substances
+  label: human body fashioned by deity from mutable substances
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Divine fashioning of the human body from substances is an anthropogonic
+    creation motif within cosmic origin.
+  cautions: Could justify a future human-creation subgroup if many anthropogony labels
+    recur; do not map to primordial_sacrifice unless a body is sacrificed or dismembered
+    to create humans.
+  suggested_aliases:
+  - human_creation_from_substance
+  - deity_fashions_human_body
+  - anthropogony_from_mutable_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-consort-of-a-mermaid
+  motif_id: human_consort_of_a_mermaid
+  label: human consort of a mermaid
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A human consort of a mermaid centers on cross-boundary love or union
+    between human and nonhuman otherworldly partners.
+  cautions: If the mermaid’s realm or abduction is primary, otherworld may be a better
+    placement; if marriage establishes fertility or sovereignty, consider sacred_marriage-related
+    review.
+  suggested_aliases:
+  - mermaid_human_union
+  - human_mermaid_consort
+  - otherworldly_bride_or_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several single-occurrence labels may be episode-specific
+  and should be checked against source passages before indexing broadly.
+- For supernatural beings such as Leshy, Devil, fiends, and Navajo giant-like powers,
+  preserve culturally specific names in evidence notes rather than collapsing them
+  into generic monster categories.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Suggested best-fit normalization groups; ambiguous theological and culturally
+    specific items flagged for review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1433
+  input_sha256: 50bcf30bbbc3ee247c73b0cc28494ab568226e1ed98fba2a8558822f719d9be7
+

@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1110
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.messenger-sent-with-fatal-news-to-an-absent-hero
+  motif_id: messenger_sent_with_fatal_news_to_an_absent_hero
+  label: Messenger sent with fatal news to an absent hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A messenger bringing fatal news can trigger return, combat, or tragic
+    recognition, but the label is episode-specific and lacks the hero's response.
+  cautions: May fit lament_and_mourning, hero_journey, sacred_combat, or be only a
+    plot-detail artifact depending on passage evidence.
+  suggested_aliases:
+  - fatal_news_to_absent_hero
+  - messenger_bears_death_news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-warning-communal-rejection-rescue-of-believers
+  motif_id: messenger_warning_communal_rejection_rescue_of_believers
+  label: messenger warning, communal rejection, rescue of believers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence of warning, rejection, and selective rescue matches divine
+    judgment responding to communal refusal.
+  cautions: If the passage emphasizes the messenger's prophetic role more than judgment,
+    prophecy_divination or divine_intervention may be secondary mappings.
+  suggested_aliases:
+  - rejected_messenger_and_rescue_of_believers
+  - warning_rejection_and_deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-warrior-boasts-of-lord-and-coming-army
+  motif_id: messenger_warrior_boasts_of_lord_and_coming_army
+  label: Messenger-warrior boasts of lord and coming army
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: A martial envoy announcing a lord and army belongs to conflict escalation
+    and ritualized war speech.
+  cautions: Could be an over-specific battle-scene detail; if the speech has performative
+    sacred force, curse_blessing_speech may also apply.
+  suggested_aliases:
+  - warrior_messenger_boast
+  - martial_envoy_boasts_of_army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-over-magic-contest
+  motif_id: miracle_over_magic_contest
+  label: Miracle over magic contest
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A miracle defeating magic centers on divine action overriding rival supernatural
+    power.
+  cautions: Could also involve divine_judgment if the contest vindicates a prophet
+    or punishes opponents; avoid treating all magic contests as combat motifs.
+  suggested_aliases:
+  - miracle_defeats_magic
+  - divine_miracle_over_magicians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-worker-refuses-reward-while-companion-seeks-wealth
+  motif_id: miracle_worker_refuses_reward_while_companion_seeks_wealth
+  label: Miracle-worker refuses reward while companion seeks wealth
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between refusal of reward and companion's desire for wealth
+    fits moral testing and greed-temperance reckoning.
+  cautions: If the passage emphasizes saintly renunciation rather than judgment, mystical_quest
+    or sacred_exchange may be better secondary groups.
+  suggested_aliases:
+  - miracle_worker_refuses_reward
+  - greedy_companion_contrasted_with_holy_refusal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-insect-allies-in-battle
+  motif_id: miraculous_insect_allies_in_battle
+  label: miraculous insect allies in battle
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculous animal or insect allies in battle fit supernatural assistance
+    in human affairs.
+  cautions: If the insects are strategic helpers rather than divine agents, sacred_combat
+    or animal_helpers under divine_intervention may be more precise; preserve insect
+    specificity as evidence detail.
+  suggested_aliases:
+  - insect_allies_in_battle
+  - supernatural_insect_battle_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-victory-and-altered-perception-in-battle
+  motif_id: miraculous_victory_and_altered_perception_in_battle
+  label: Miraculous victory and altered perception in battle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A battle victory produced through miraculous altered perception is direct
+    sacred intervention in conflict.
+  cautions: Dream_and_vision may be a secondary mapping if perception itself is central;
+    sacred_combat may apply if ritual warfare is emphasized.
+  suggested_aliases:
+  - miraculous_battle_victory
+  - altered_perception_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculously-identical-independent-testimonies
+  motif_id: miraculously_identical_independent_testimonies
+  label: miraculously identical independent testimonies
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Miraculous agreement of independent testimony suggests sacred confirmation
+    or intervention in human affairs.
+  cautions: May be a legal/vindication motif, a textual apologetic detail, or a passage
+    artifact; human review should verify narrative function.
+  suggested_aliases:
+  - miraculous_concordant_testimony
+  - identical_independent_testimonies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculously-prolonged-heroic-life
+  motif_id: miraculously_prolonged_heroic_life
+  label: miraculously prolonged heroic life
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernaturally prolonged life concerns altered mortality and transformation
+    of the hero's relation to death.
+  cautions: If prolonged life becomes burdensome or lacks renewal, immortality_without_renewal
+    may be a better fit; if it is battlefield survival, divine_intervention may be
+    secondary.
+  suggested_aliases:
+  - supernaturally_prolonged_life
+  - heroic_life_extended_by_miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misattributed-victory-sustained-by-alibi
+  motif_id: misattributed_victory_sustained_by_alibi
+  label: Misattributed victory sustained by alibi
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: An alibi sustaining false credit for victory may involve hidden identity
+    or disputed proof of heroic action.
+  cautions: Could instead be deception, legal testimony, comic plot, or over-specific
+    episode detail; current groups do not clearly cover misattributed achievement.
+  suggested_aliases:
+  - false_credit_for_victory
+  - victory_misattributed_by_alibi
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, battle-adjacent composites;
+  preserve local detail and avoid promoting them to canonical motifs without recurrence.
+- 'For miracle-in-conflict labels, distinguish divine intervention from sacred combat:
+  map to combat only when warfare structure is primary, and to divine_intervention
+  when supernatural agency is primary.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for low-confidence
+    and over-specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1110
+  input_sha256: fe4e9750c62ef50fc02de02312759471c45d080d6cbd851f5fb37a1d1ab41e8d
+

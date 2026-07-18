@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0192
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroes-defend-oppressed-allies-under-a-friendship-obligation
+  motif_id: heroes_defend_oppressed_allies_under_a_friendship_obligation
+  label: heroes defend oppressed allies under a friendship obligation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on obligation, alliance, and defense of the vulnerable,
+    fitting social order and ethical duty more than journey structure.
+  cautions: Could map to sacred_combat if the passage emphasizes battle rather than
+    friendship obligation; single occurrence may be episode-specific.
+  suggested_aliases:
+  - friendship_obligation_to_defend_allies
+  - defense_of_oppressed_allies
+  - alliance_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-arrival-and-recognition-catalogue
+  motif_id: heroic_arrival_and_recognition_catalogue
+  label: heroic arrival and recognition catalogue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition of the arriving hero aligns with identity proof and recognition
+    scenes, even if presented as a catalogue.
+  cautions: If the catalogue is mainly a poetic description of arrival or equipment,
+    it may be a textual or episode artifact rather than a motif.
+  suggested_aliases:
+  - hero_recognition_on_arrival
+  - arrival_recognition_catalogue
+  - recognition_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-arrival-marked-by-splendor-and-a-mighty-horse
+  motif_id: heroic_arrival_marked_by_splendor_and_a_mighty_horse
+  label: Heroic arrival marked by splendor and a mighty horse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The mighty horse may function as a heroic power object or status marker
+    in an arrival scene.
+  cautions: May be only descriptive heroic diction; if the horse is not supernatural
+    or identity-conferring, exclude or preserve as evidence detail. Could also relate
+    to heroic journey if arrival function matters most.
+  suggested_aliases:
+  - splendid_heroic_arrival
+  - mighty_horse_arrival
+  - heroic_horse_as_status_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-chariot-arrival-before-combat
+  motif_id: heroic_chariot_arrival_before_combat
+  label: heroic chariot arrival before combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The arrival is framed as a pre-combat heroic scene, so the combat function
+    is stronger than the travel element.
+  cautions: Likely episode-specific; if merely a vehicle description, preserve as
+    detail rather than indexing as a broad motif.
+  suggested_aliases:
+  - warrior_arrival_before_combat
+  - chariot_arrival_to_battle
+  - precombat_heroic_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-equipment-catalogue-before-arrival
+  motif_id: heroic_equipment_catalogue_before_arrival
+  label: heroic equipment catalogue before arrival
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a catalogue-form descriptive passage more than a
+    reusable symbolic or narrative motif.
+  cautions: If specific equipment confers identity, authority, or magical power, remap
+    those objects under sacred_treasures or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - equipment_catalogue
+  - heroic_gear_catalogue
+  - arrival_equipment_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-memorial-mound-visible-to-travelers
+  motif_id: heroic_memorial_mound_visible_to_travelers
+  label: heroic memorial mound visible to travelers
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: A visible mound memorializes a dead hero and reaffirms heroic memory
+    for later witnesses.
+  cautions: The traveler element is secondary unless the passage emphasizes journey
+    guidance or landscape etiology.
+  suggested_aliases:
+  - heroic_memorial_mound
+  - visible_hero_tomb
+  - heroic_tomb_for_travelers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-memorial-witnessed-by-future-travelers
+  motif_id: heroic_memorial_witnessed_by_future_travelers
+  label: heroic memorial witnessed by future travelers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on memorialization of a heroic dead figure and its
+    enduring public witness.
+  cautions: If the emphasis is fame through narration rather than funerary marker,
+    storytelling_as_power may be a secondary mapping.
+  suggested_aliases:
+  - future_travelers_witness_hero_memorial
+  - enduring_heroic_memorial
+  - public_hero_memorial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-mount-prepared-for-quest
+  motif_id: heroic_mount_prepared_for_quest
+  label: heroic mount prepared for quest
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preparing the mount supports departure into quest and travel ordeal within
+    the hero journey complex.
+  cautions: If the mount is magical or independently powerful, shapeshifter or sacred_treasures
+    may be relevant; single occurrence may be a scene detail.
+  suggested_aliases:
+  - quest_mount_preparation
+  - hero_prepares_mount
+  - mount_prepared_for_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-pair-forms-a-last-resistance-before-ships-burn
+  motif_id: heroic_pair_forms_a_last_resistance_before_ships_burn
+  label: heroic pair forms a last resistance before ships burn
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is a heroic last stand in a combat crisis, not the
+    journey or ship-burning detail.
+  cautions: Highly specific episode label; if the pair relationship is central, sacred_twins
+    or duality could be secondary, but source evidence is needed.
+  suggested_aliases:
+  - heroic_last_resistance
+  - heroic_pair_last_stand
+  - last_stand_before_ship_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-quest-for-exceptional-horses
+  motif_id: heroic_quest_for_exceptional_horses
+  label: Heroic quest for exceptional horses
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A quest to obtain exceptional horses fits the hero journey structure
+    of departure, objective, and ordeal.
+  cautions: If the horses are divine power objects or markers of kingship, sacred_treasures
+    or royal_legitimacy may be secondary mappings.
+  suggested_aliases:
+  - quest_for_wondrous_horses
+  - horse_obtaining_quest
+  - quest_for_exceptional_mounts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic scene descriptions; reviewers
+  should distinguish reusable motifs from catalogue or episode artifacts.
+- Horse, chariot, and equipment details should only be promoted when they carry identity,
+  sacred power, kingship, or quest function rather than decorative heroic diction.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: llm
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for over-specific heroic
+    arrival and catalogue labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0192
+  input_sha256: 8323adb82f68072eb0c7c2ea2dc30a89760f5736d55081b885fb14387aed35c0
+

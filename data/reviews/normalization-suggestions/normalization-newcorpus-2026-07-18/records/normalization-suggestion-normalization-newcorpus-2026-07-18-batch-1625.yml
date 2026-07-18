@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1625
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ultimate-source-as-ocean-from-which-beings-arise
+  motif_id: ultimate_source_as_ocean_from_which_beings_arise
+  label: ultimate source as ocean from which beings arise
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes beings arising from a primordial ocean or ultimate
+    source, fitting creation from primordial substance or waters.
+  cautions: Do not map to flood unless destructive renewal is present; Hindu philosophical
+    context may distinguish metaphysical source from narrative cosmogony.
+  suggested_aliases:
+  - primordial_ocean_as_source
+  - beings_arise_from_cosmic_ocean
+  - ultimate_source_as_ocean
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unaccounted-for-eye-defeats-sleep-formula
+  motif_id: unaccounted_for_eye_defeats_sleep_formula
+  label: unaccounted-for eye defeats sleep formula
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: A sleep formula is a performative speech act whose power fails because
+    of a loophole or unaddressed condition.
+  cautions: Highly episode-specific; could instead belong with magical compulsion,
+    conditional vulnerability, or trickster if the source emphasizes deception rather
+    than spoken power.
+  suggested_aliases:
+  - sleep_formula_loophole
+  - failed_sleep_spell
+  - magical_sleep_formula_defeated_by_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unappeased-wrong-leading-to-vengeance-planning
+  motif_id: unappeased_wrong_leading_to_vengeance_planning
+  label: unappeased wrong leading to vengeance planning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on an unresolved wrong generating vengeance action,
+    a common driver of heroic conflict and feud combat.
+  cautions: If the focus is moral debt or violated trust rather than combat, betrayal_violated_trust
+    or divine_judgment may be better; source context needed.
+  suggested_aliases:
+  - vengeance_for_unappeased_wrong
+  - unresolved_wrong_prompts_revenge
+  - feud_vengeance_planning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unavoidable-predestined-fate
+  motif_id: unavoidable_predestined_fate
+  label: unavoidable predestined fate
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The existing group covers death or outcomes understood as destined and
+    unavoidable by human action.
+  cautions: If the passage concerns providence or destiny generally rather than death,
+    consider a broader fate/destiny group in future review; avoid reducing Islamic
+    qadar to only death-fate without evidence.
+  suggested_aliases:
+  - inescapable_fate
+  - predestined_outcome
+  - unavoidable_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-chariot-apparition
+  motif_id: uncanny_chariot_apparition
+  label: Uncanny chariot apparition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: An uncanny apparition may be a supernatural manifestation, omen, otherworld
+    encounter, or scene-specific vehicle image.
+  cautions: Need source evidence for whether the chariot is divine presence, ghostly
+    omen, otherworld procession, or simply an episode detail.
+  suggested_aliases:
+  - supernatural_chariot_apparition
+  - otherworldly_chariot_vision
+  - uncanny_vehicle_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-chariot-procession-at-a-ford
+  motif_id: uncanny_chariot_procession_at_a_ford
+  label: Uncanny chariot procession at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: medium
+  rationale: The ford is a liminal crossing, and an uncanny procession there aligns
+    with existing uncanny ford encounter and threshold motifs.
+  cautions: If no confrontation, test, or passage function is present, it may be an
+    over-specific apparition detail better placed under dream_and_vision or excluded.
+  suggested_aliases:
+  - uncanny_ford_procession
+  - otherworldly_procession_at_ford
+  - chariot_procession_at_liminal_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-headless-woman-and-lost-gift
+  motif_id: uncanny_headless_woman_and_lost_gift
+  label: uncanny headless woman and lost gift
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a supernatural figure, bodily mutilation, and a lost
+    gift without enough functional information for placement.
+  cautions: Could involve otherworld exchange, death omen, sacred exchange, or passage-specific
+    detail; source context is required before indexing.
+  suggested_aliases:
+  - headless_woman_apparition
+  - lost_otherworld_gift
+  - uncanny_woman_and_lost_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-hidden-treasure-beneath-a-ruined-castle
+  motif_id: uncanny_hidden_treasure_beneath_a_ruined_castle
+  label: uncanny hidden treasure beneath a ruined castle
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: low
+  rationale: A hidden uncanny treasure can fit the broad group for power objects or
+    significant sacred treasures.
+  cautions: May be a folklore treasure-location episode rather than a sacred object
+    motif; ruined castle setting is likely over-specific evidence detail.
+  suggested_aliases:
+  - hidden_uncanny_treasure
+  - treasure_beneath_ruins
+  - supernatural_hidden_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-hunting-implement
+  motif_id: uncanny_hunting_implement
+  label: uncanny hunting implement
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An uncanny implement is a power object whose force or significance is
+    tied to hunting ability or supernatural efficacy.
+  cautions: Could also belong to sacred_craft if the implement's making is central,
+    or divine_intervention if it is a sent aid; preserve Inuit hunting context carefully.
+  suggested_aliases:
+  - supernatural_hunting_tool
+  - magical_hunting_implement
+  - uncanny_hunting_tool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-rider-appears-at-the-moment-of-treasure-recovery
+  motif_id: uncanny_rider_appears_at_the_moment_of_treasure_recovery
+  label: Uncanny rider appears at the moment of treasure recovery
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: The rider may function as a guardian or supernatural interrupter at the
+    threshold of treasure recovery.
+  cautions: Could instead be a treasure guardian, omen, apparition, or episode-specific
+    narrative detail; existing taxonomy lacks a clean treasure-guardian group.
+  suggested_aliases:
+  - uncanny_rider_at_treasure_recovery
+  - supernatural_treasure_guardian
+  - rider_appears_when_treasure_is_found
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; suggested placements
+  should be treated as provisional evidence-indexing rather than taxonomy expansion.
+- Repeated uncanny apparition and treasure-guardian labels may eventually justify
+  a focused review bucket, but this batch alone is insufficient for a new group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1625
+  input_sha256: bc27c3d4d5ecf0a0d0a46a1bb5caf2876b1a3358724ff76b525dd48ad561bf7a
+

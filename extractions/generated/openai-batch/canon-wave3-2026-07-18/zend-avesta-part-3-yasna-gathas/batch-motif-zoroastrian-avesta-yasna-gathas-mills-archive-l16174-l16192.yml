@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l16174-l16192
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA  XXXVI. / YASNA    XXXVII.  285 / YASNA  XXXVII. / YASNA   XXXVIII.;
+    lines 16174-16192
+  start: '16174'
+  end: '16192'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“we worship this earth which bears us”"
+  summary: A liturgical passage addresses Ahura Mazda while worshipping the earth,
+    the sacred waters or wives associated with him, and sacrificing to their wishes,
+    capabilities, inquiries concerning duty, and wise acts of pious reverence. A note
+    states that the waters are wives, as is the earth, and that below they are mothers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as addressed to the Earth and the Sacred Waters.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers worship the earth, described as bearing them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ahura Mazda is directly addressed in connection with the earth and his wives.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speakers worship the wives of Ahura Mazda, described as desired because
+    of their sanctity.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speakers sacrifice to the wives' zealous wishes, capabilities, inquiries
+    as to duty, and wise acts of pious reverence.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A translator's note says the waters are wives, as is the earth, and adds that
+    below they are mothers.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Worshipping speakers
+  description: The collective voice that says “we worship” and “we sacrifice.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Earth
+  description: The earth is worshipped and described as bearing the speakers.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Ahura Mazda
+  description: The deity addressed as “O Ahura Mazda” and associated with “Thy wives.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Sacred Waters / wives of Ahura Mazda
+  description: The sacred waters are associated with Ahura Mazda's wives in the heading
+    and translator's note; the wives are worshipped for their sanctity.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Worshippers and sacrificers
+  assigned_to:
+  - fig:1
+  basis: The collective speakers state that they worship and sacrifice.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Bearer of humans
+  assigned_to:
+  - fig:2
+  basis: The earth is described as bearing the speakers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Addressed deity
+  assigned_to:
+  - fig:3
+  basis: Ahura Mazda is directly addressed by name in the prayer.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Sacred female or wife-associated recipient of worship
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The earth and the wives are worshipped; the note identifies waters and earth
+    as wives.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: Recipients of sacrifice to their attributes and acts
+  assigned_to:
+  - fig:4
+  basis: The speakers sacrifice to the wishes, capabilities, inquiries, and pious
+    acts of the wives.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Earth
+  literal_form: Earth that bears the worshippers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Sacred Waters
+  literal_form: Sacred waters identified in the heading and note as wives
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: Divine wives
+  literal_form: Wives of Ahura Mazda desired from their sanctity
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Worship of Earth and Sacred Waters
+  summary: The worshipping speakers address Ahura Mazda, worship the earth and the
+    wives associated with him, and sacrifice to the wives' wishes, capacities, duty-seeking
+    inquiries, and wise acts of pious reverence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Liturgical sacrifice to sacred beings or powers
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says the speakers sacrifice to the wishes, capabilities,
+    inquiries, and pious acts of the sacred wives.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes a ritual utterance but does not narrate a mythic
+    sacrificial event.
+- id: motif:2
+  label: Divine consort imagery for earth and waters
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage and note identify the earth and waters with Ahura Mazda's wives,
+    and these figures are worshipped for sanctity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage states a wife relationship but does not describe a marriage
+    rite or union narrative.
+- id: motif:3
+  label: Sacred exchange through worship and sacrifice
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speakers offer worship and sacrifice toward sacred earth/water figures
+    and their pious capacities or actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state a reciprocal gift or outcome; exchange
+    is inferred only from ritual offering language.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16174-16177
+  quote_or_summary: 'Heading: “To the Earth and the Sacred Waters.”'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 16178-16180
+  quote_or_summary: "“we worship this earth which bears us, together with Thy wives,
+    O Ahura Mazda!”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 16180-16182
+  quote_or_summary: The speakers worship Ahura Mazda's wives, who are described as
+    desired because of their sanctity.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16182-16186
+  quote_or_summary: The speakers sacrifice to the wives' zealous wishes, capabilities,
+    inquiries about duty, and wise acts of pious reverence.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 16190-16192
+  quote_or_summary: 'Translator''s note: “The waters are wives, as is the earth; below
+    they are mothers.”'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels involving sacred marriage
+    or sacred exchange are tentative because the passage is a ritual invocation rather
+    than a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another tradition or motif family beyond the available taxonomy mapping.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l16174-l16192
+  passage_sha256=2c0e3aba854257dd976e1810d0e3f1125a8565e44944a2a8457b4e6f1c32b86d
+

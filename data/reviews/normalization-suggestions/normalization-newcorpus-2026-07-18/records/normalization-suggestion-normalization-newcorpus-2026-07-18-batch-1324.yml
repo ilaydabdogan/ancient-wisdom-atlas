@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1324
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.compelled-silence-preserving-deception
+  motif_id: compelled_silence_preserving_deception
+  label: compelled silence preserving deception
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve magical constraint, oath/taboo speech, or plot-specific
+    concealment; function is unclear from the label alone.
+  cautions: Single occurrence; may be an over-specific episode detail unless the silence
+    is a binding sacred speech act or enchantment.
+  suggested_aliases:
+  - forced silence enabling deception
+  - silence under compulsion
+  - concealment by compelled silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - storytelling_as_power
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compelling-summons-by-celestial-attendant
+  motif_id: compelling_summons_by_celestial_attendant
+  label: Compelling summons by celestial attendant
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A celestial attendant issuing an effective summons is a supernatural
+    intervention or messenger action in human affairs.
+  cautions: If the episode centers on a direct divine manifestation, theophany may
+    be secondary; if it initiates a quest, divine_call/hero_journey may also apply.
+  suggested_aliases:
+  - celestial messenger summons
+  - supernatural summons by attendant
+  - divine attendant summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.competing-local-claims-over-a-poet-s-biography
+  motif_id: competing_local_claims_over_a_poet_s_biography
+  label: Competing local claims over a poet's biography
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes reception, biographical tradition, or local scholarly
+    claims rather than a narrative or symbolic motif.
+  cautions: Preserve as provenance or historiographic evidence if useful, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - local biographical claims
+  - competing poet biographies
+  - biographical tradition dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.competitive-skill-games-with-explicit-winning-conditions
+  motif_id: competitive_skill_games_with_explicit_winning_conditions
+  label: competitive skill games with explicit winning conditions
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual contest, social game, ordeal, or passage-specific
+    narrative mechanics; existing groups do not clearly cover games as such.
+  cautions: Avoid forcing into sacred_combat unless violence or ritual warfare is
+    present, or initiation unless status transformation is explicit.
+  suggested_aliases:
+  - skill contest with winning conditions
+  - competitive ritual game
+  - formalized contest rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.competitive-surpassing-of-a-praised-champion
+  motif_id: competitive_surpassing_of_a_praised_champion
+  label: competitive surpassing of a praised champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Surpassing a renowned champion fits heroic contest logic, especially
+    in Celtic warrior contexts where competitive prowess structures combat status.
+  cautions: If the passage is nonviolent praise competition rather than martial rivalry,
+    initiation or royal_legitimacy may be better; verify source context.
+  suggested_aliases:
+  - champion surpassed in contest
+  - rival exceeds praised champion
+  - competitive champion surpassing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.complaint-to-deity-after-failed-mission
+  motif_id: complaint_to_deity_after_failed_mission
+  label: Complaint to deity after failed mission
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be prophetic dialogue, lament, covenant dispute, or narrative transition
+    after a failed divine commission.
+  cautions: Single occurrence and context-dependent; map to divine_call only if tied
+    to a mission vocation, or covenant if it frames a binding divine-human dispute.
+  suggested_aliases:
+  - prophetic complaint after failure
+  - lament to deity after failed mission
+  - failed mission protest to God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - covenant
+    - lament_and_mourning
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.complementary-impaired-companions-succeed-together
+  motif_id: complementary_impaired_companions_succeed_together
+  label: Complementary impaired companions succeed together
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Complementary Companions and Cooperative Wholeness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on paired companions whose different limitations become
+    complementary strengths; no existing group captures cooperative impairment as
+    the core pattern.
+  cautions: Review culturally sensitive wording around impairment; could alternatively
+    be a child of duality if the pair expresses symbolic complementarity rather than
+    social cooperation.
+  suggested_aliases:
+  - complementary disabled companions
+  - paired impairments enabling success
+  - cooperative companions with offsetting limitations
+  suggested_new_group:
+    id: complementary_companions_cooperative_wholeness
+    label: Complementary Companions and Cooperative Wholeness
+    description: Two or more companions with contrasting limitations, abilities, or
+      social positions succeed together because each compensates for what the other
+      lacks.
+    parent_group_ids:
+    - duality
+    related_group_ids:
+    - sacred_twins
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: Existing duality and sibling-pair groups
+      cover symbolic opposition or kin pairs, but not the narrative function of cooperative
+      complementary abilities or impairments.
+- suggestion_id: normalization.suggestion.complete-burning-required-to-prevent-supernatural-escape
+  motif_id: complete_burning_required_to_prevent_supernatural_escape
+  label: complete burning required to prevent supernatural escape
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fire functions as a purifying or containing force against a supernatural
+    being or power.
+  cautions: If the passage is a mortuary/apotropaic rule, sacred_law may be secondary;
+    if it destroys a monster in combat, divine_warrior or sacred_combat may also apply.
+  suggested_aliases:
+  - burning prevents supernatural return
+  - complete cremation to prevent escape
+  - fire containment of supernatural being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.completion-followed-by-renewal
+  motif_id: completion_followed_by_renewal
+  label: completion followed by renewal
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Completion followed by renewal suggests cyclical sacred time, especially
+    in calendrical or Maya cycle contexts.
+  cautions: If the passage describes world destruction and recreation, flood_and_renewal
+    or death_and_transformation may be more precise; label is broad.
+  suggested_aliases:
+  - cycle completion and renewal
+  - renewal after completion
+  - period-ending renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - flood_and_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.composite-epic-absorbing-myths-codes-and-cult-material
+  motif_id: composite_epic_absorbing_myths_codes_and_cult_material
+  label: Composite epic absorbing myths, codes, and cult material
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual composition and genre accretion rather than
+    an in-story motif.
+  cautions: Useful as a literary-history note, but should not be indexed as a mythic
+    pattern; constituent myths or codes should be mapped separately.
+  suggested_aliases:
+  - composite epic accretion
+  - epic absorbs cult and legal material
+  - textual compilation of myth and code
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several single-occurrence labels are highly contextual and should be checked against
+  passage evidence before adding aliases or children.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch includes two likely meta-textual exclusions, several context-dependent
+    human-review items, and one possible new cooperative-pair group candidate.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1324
+  input_sha256: 97b8bafe155893e1237f7398c83e8375fb6cfe323d26a997542e3aef1f540ba3
+

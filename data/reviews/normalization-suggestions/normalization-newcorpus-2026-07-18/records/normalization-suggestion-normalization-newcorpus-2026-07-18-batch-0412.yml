@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0412
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-fire-sign-of-distant-danger
+  motif_id: ritual_fire_sign_of_distant_danger
+  label: ritual fire sign of distant danger
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual fire functioning as a warning sign fits fire as sacred/ritual
+    medium and signal of danger.
+  cautions: Single occurrence; if the focus is omen communication rather than fire
+    ritual, dream_and_vision or prophecy_divination may be secondary.
+  suggested_aliases:
+  - warning_fire
+  - ritual_warning_fire
+  - fire_sign_of_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-forms-compared-to-christian-baptism-consubstantiation-and-confession
+  motif_id: ritual_forms_compared_to_christian_baptism_consubstantiation_and_confession
+  label: Ritual forms compared to Christian baptism, consubstantiation, and confession
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative scholarly framing of rituals against
+    Christian categories, not a motif in the source tradition itself.
+  cautions: Preserve as provenance or reception-history note if needed; do not use
+    as evidence of ritual equivalence or transmission.
+  suggested_aliases:
+  - comparative_christian_ritual_framing
+  - ritual_comparison_to_christian_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fumigation-healing
+  motif_id: ritual_fumigation_healing
+  label: Ritual fumigation healing
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fumigation used for healing resembles apotropaic or purification practice
+    already folded under sacred_law.
+  cautions: Could also relate to sacred_fire or divine_intervention if smoke/fire
+    or spirit agency is central; source evidence should decide.
+  suggested_aliases:
+  - healing_fumigation
+  - smoke_healing_rite
+  - purifying_fumigation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gathering-as-occasion-for-incorporation-of-strangers
+  motif_id: ritual_gathering_as_occasion_for_incorporation_of_strangers
+  label: Ritual gathering as occasion for incorporation of strangers
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: low
+  rationale: The incorporation of strangers at a ritual gathering overlaps with stranger/guest
+    integration and sacred social obligation.
+  cautions: May instead be a passage-specific social detail or initiation/adoption
+    rite; review for whether the stranger role is ritually tested or transformed.
+  suggested_aliases:
+  - ritual_incorporation_of_strangers
+  - strangers_incorporated_at_ritual_gathering
+  - ritual_guest_integration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gesture-preceding-affliction-or-cessation
+  motif_id: ritual_gesture_preceding_affliction_or_cessation
+  label: Ritual gesture preceding affliction or cessation
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too ambiguous to tell whether the gesture causes, prevents,
+    signals, or ends affliction.
+  cautions: Could map to divine_judgment, sacred_law, curse_blessing_speech, or ritual
+    healing depending on source context; avoid indexing from the label alone.
+  suggested_aliases:
+  - affliction_related_ritual_gesture
+  - ritual_gesture_and_affliction_cessation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gestures-against-a-perceived-demonic-threat
+  motif_id: ritual_gestures_against_a_perceived_demonic_threat
+  label: ritual gestures against a perceived demonic threat
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protective gestures against demonic danger fit the apotropaic protection
+    complex currently grouped under sacred_law.
+  cautions: If the passage centers on expelling an attached spirit, sacrifice/ritual_expulsion
+    may be a better secondary placement.
+  suggested_aliases:
+  - apotropaic_gestures_against_demons
+  - protective_ritual_gestures
+  - ritual_gestures_against_demonic_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-glorification-at-appointed-times
+  motif_id: ritual_glorification_at_appointed_times
+  label: Ritual glorification at appointed times
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual praise at appointed times is primarily a sacred-time and calendrical/devotional
+    ordering motif.
+  cautions: If the source emphasizes speech act efficacy rather than timing, curse_blessing_speech
+    or sacred_song may be relevant secondary mappings.
+  suggested_aliases:
+  - appointed_times_of_praise
+  - timed_ritual_glorification
+  - ritual_praise_at_fixed_times
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-grooming-through-difficult-acquisitions
+  motif_id: ritual_grooming_through_difficult_acquisitions
+  label: Ritual grooming through difficult acquisitions
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is unclear: it may refer to grooming/preparation, quest acquisition,
+    or ritual qualification.'
+  cautions: Could fit initiation, hero_journey, sacred_treasures, or be an over-specific
+    episode detail; source passage is needed.
+  suggested_aliases:
+  - ritual_preparation_by_difficult_acquisition
+  - grooming_through_quest_acquisitions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-hair-removal-at-fulfilled-visitation
+  motif_id: ritual_hair_removal_at_fulfilled_visitation
+  label: Ritual hair removal at fulfilled visitation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Hair removal after a fulfilled visitation can function as a vow-completion
+    or ritual offering act within sacred reciprocity.
+  cautions: If tied to pilgrimage timing and ritual cycle, sacred_time may be secondary;
+    if merely legal prescription, sacred_law may fit better.
+  suggested_aliases:
+  - hair_removal_after_fulfilled_vow
+  - ritual_shaving_after_visitation
+  - votive_hair_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-handwashing-to-disclaim-blood-guilt
+  motif_id: ritual_handwashing_to_disclaim_blood_guilt
+  label: Ritual handwashing to disclaim blood guilt
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: high
+  rationale: The rite dramatizes denial of guilt and moral accountability for bloodshed,
+    fitting judgment and reckoning.
+  cautions: Could also relate to sacred_law if treated as purity law, or sacred_exchange/sacrifice
+    if tied to blood ritual rather than culpability.
+  suggested_aliases:
+  - handwashing_to_disclaim_guilt
+  - ritual_disclaimer_of_blood_guilt
+  - washing_hands_of_blood_guilt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence ritual labels; placements should remain provisional
+  until passage evidence confirms whether the function is protection, purification,
+  vow completion, social incorporation, or commentary artifact.
+- Avoid using comparative Christian framing as a cross-cultural motif; it is better
+  treated as metadata or reception/comparison language.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0412; ambiguous
+    ritual labels flagged for human review where source function is unclear.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0412
+  input_sha256: 826fe4f4ab1f98dc9168fdc20c94a69387091cf306c45b5f675a8457f1d42148
+

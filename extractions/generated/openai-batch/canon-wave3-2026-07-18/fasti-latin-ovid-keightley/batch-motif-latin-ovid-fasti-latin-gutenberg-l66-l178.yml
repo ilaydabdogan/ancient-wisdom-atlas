@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l66-l178
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: OVID'S FASTI; / NOTES AND AN INTRODUCTION, / THOMAS KEIGHTLEY, / PREFACE;
+    lines 66-178
+  start: '66'
+  end: '178'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Title-page and preface material for Thomas Keightley's edition of Ovid's
+    Fasti. The passage describes the Fasti as a six-book calendrical poem valuable
+    for Roman history, religion, mythology, customs, Greek mythology, and astronomy;
+    explains editorial choices; and includes an embedded quotation from Ford about
+    holy rites, feasts, and unseen saintly guests.
+  language: English with Latin title and quotation material
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title material identifies the work as Publius Ovidius Naso's Fasti in
+    six books, with notes and an introduction by Thomas Keightley.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Latin epigraph attributed to Ovid's Tristia states that six books of the
+    Fasti were written and that each volume ends with its own month.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The preface characterizes the Fasti as containing ancient Roman history, religion,
+    mythology, manners and customs, Greek mythology, and astronomy concerning the
+    rising and setting of constellations.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Keightley says the edition's text is based on Krebs, includes variant readings
+    from fifty-eight manuscripts, and adopts Krebs' Calendar as a substitute for arguments
+    to the books.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Keightley says his notes avoid extended mythic or historic narrations and
+    assume that the student can identify figures and places such as Hercules, Romulus,
+    and Mount Haemus.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Keightley reports that he had mistaken the sense of Fasti Book II, lines 619-620,
+    and says he later encountered the same idea in a play by Ford.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The quoted Ford passage depicts holy rites already performed, a day to be
+    spent in feasts, and saints who are guests though not visible to mortal eyes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Publius Ovidius Naso / Ovid
+  description: Named as the author associated with the Fasti and as the cited source
+    of the Latin epigraph.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Thomas Keightley
+  description: Named on the title page as author of the notes and introduction and
+    speaker of the preface.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Hercules Ciofanus
+  description: Identified as one of the earliest editors of the poem and quoted praising
+    the Fasti.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Krebs
+  description: Identified as the latest German editor whose text and Calendar Keightley
+    uses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hercules
+  description: Named only as an example of a mythic figure the student is expected
+    to know or discover.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Romulus
+  description: Named only as an example of a figure the student is expected to know
+    or discover.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Saints
+  description: In the Ford quotation, saints are described as guests who are not visible
+    to mortal eyes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Ford
+  description: Identified by Keightley as an old dramatist whose play contains a similar
+    idea.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: poet or source author
+  assigned_to:
+  - fig:1
+  basis: The title names Ovid and the epigraph is attributed to Ovid's Tristia.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: editor and commentator
+  assigned_to:
+  - fig:2
+  basis: Keightley is named as author of the notes and introduction and speaks throughout
+    the preface about his editorial method.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: referenced editor
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ciofanus is called one of the earliest editors; Krebs is called the latest
+    German editor whose text and Calendar are adopted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: named mythic or historical exemplar
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Hercules and Romulus are mentioned only as examples of material the student
+    is assumed to know.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: unseen sacred guest
+  assigned_to:
+  - fig:7
+  basis: The Ford quotation says the saints are guests, though not visible to mortal
+    eyes.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: quoted dramatist
+  assigned_to:
+  - fig:8
+  basis: Keightley identifies Ford as the dramatist whose play contains the quoted
+    idea.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: six monthly books
+  literal_form: Six books of Fasti, each volume ending with its own month
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: calendar
+  literal_form: Krebs' Calendar adopted for the edition
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: constellations
+  literal_form: Rising and setting of different constellations
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Mount Haemus
+  literal_form: A mountain-place named as assumed student knowledge
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: holy rites and feasts
+  literal_form: Holy rites performed, followed by feasts or repasts
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Calendrical framing of the Fasti
+  summary: The title and epigraph frame the Fasti as a six-book work organized by
+    months; the edition also adopts a Calendar for the books.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Editorial characterization of the poem's contents
+  summary: The preface presents the Fasti as a source for Roman antiquity, religion,
+    mythology, customs, Greek mythology, and astral timing through constellation risings
+    and settings.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Embedded ritual-feast image from Ford
+  summary: In the quoted dramatic passage, holy rites have been completed, the remainder
+    of the day is to be spent in feasts, and saints are imagined as unseen guests.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: calendar organization of sacred and mythic material
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage frames the Fasti as six books ending with their respective months,
+    adopts a Calendar for the books, and says the work includes constellation risings
+    and settings alongside religion and mythology.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a prefatory description of a calendrical poem, not a narrative
+    episode within the poem.
+- id: motif:2
+  label: ritual feast with unseen sacred guests
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The embedded Ford quotation describes holy rites followed by feasts that
+    please saints who are guests though invisible to mortal eyes.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage is an external literary quotation within the preface, not
+    an Ovidian mythic scene; the taxonomy link is approximate.
+comparison_claims:
+- id: claim:1
+  claim: Keightley reports that a play by Ford contains the same idea as the more
+    poetical sense he had previously given to Fasti Book II, lines 619-620.
+  claim_level: same_motif
+  target: Ford dramatic quotation compared with Keightley's interpretation of Ovid,
+    Fasti II.619-620
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The relevant Ovidian lines are not included in the supplied passage,
+    and the comparison is only Keightley's reported similarity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 66-87
+  quote_or_summary: Title page names Publius Ovidius Naso's Fasti in six books; the
+    epigraph from Ovid's Tristia says six Fasti books were written and each volume
+    ends with its month.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 91-102
+  quote_or_summary: Ciofanus praises the Fasti; Keightley says it contains Roman history,
+    religion, mythology, customs, Greek mythology, and astronomy of constellation
+    risings and settings.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 119-124
+  quote_or_summary: Keightley says the text follows Krebs with some changes, notes
+    important readings from fifty-eight manuscripts, and adopts Krebs' Calendar.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 126-135
+  quote_or_summary: Keightley explains that the introduction prepares students and
+    that the notes avoid extended mythic or historical narration; he assumes students
+    can identify Hercules, Romulus, and Mount Haemus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 166-177
+  quote_or_summary: Keightley discusses his mistaken interpretation of Fasti II.619-620,
+    says he found the same idea in Ford, and quotes a passage about holy rites, feasts,
+    and saints who are unseen guests.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is editorial prefatory prose rather than a myth narrative. Motif
+    candidates are therefore limited to the calendrical framing described by the editor
+    and the embedded Ford ritual-feast quotation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported mythic actions are inferred for Hercules, Romulus, or Mount Haemus; they are recorded only as names mentioned in the preface.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l66-l178
+  passage_sha256=7e4207a0efbe06dc763fcd46f5c48aa0b6a9119d9938691ae3f56597ea369e4c
+

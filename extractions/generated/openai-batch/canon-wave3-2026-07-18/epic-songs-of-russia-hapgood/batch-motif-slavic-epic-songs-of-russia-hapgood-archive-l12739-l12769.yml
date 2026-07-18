@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l12739-l12769
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: EPIC  SONGS   OF  RUSSIA.  333 / EPIC  SONGS   OF  RUSSIA.  335 / EPIC  SONGS   OF  RUSSIA.
+    / ILYA    OP    MUROM.; lines 12739-12769
+  start: '12739'
+  end: '12769'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Ilya of Murom as a widely believed-in peasant hero
+    and bogatyr, reports local claims of descent from him, describes a Karacharof
+    chapel marking a fountain said to have burst forth beneath the hoofs of his steed
+    Cloudfall, notes that bears drink there to gain heroic strength, explicitly compares
+    the spring to those made by Pegasus, and connects Ilya with religious legends
+    and attestations in Kiev.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ilya of Murom is described as a great peasant hero, popular and firmly believed
+    in.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A group called Ilya's peasants regard themselves as direct descendants of
+    Ilya.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people inhabiting the primeval forests of Murom are said by local testimony
+    to be notable for great stature and strength.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Peasants of Karacharof point out a chapel built on the spot where a fountain
+    is said to have burst forth beneath the hoofs of Ilya's steed Cloudfall.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage explicitly compares the fountain from Cloudfall's hoofs to springs
+    made by a blow from the hoof of Pegasus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The legend says fierce bears still come to the fountain to drink the waters
+    and gain heroic strength.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ilya is described as bound up with religious legends of Kiev, including a
+    reported tomb in a chapel of St. Sophia.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ilya's portrait is said to have been published among the saints of Kiev in
+    the seventeenth century.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ilya of Murom / Elia Morowlin
+  description: A great peasant hero and bogatyr, claimed ancestor of Ilya's peasants,
+    connected with Murom, Karacharof, and religious legends of Kiev.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Cloudfall
+  description: Ilya's good steed; a fountain is said to have burst forth beneath its
+    hoofs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ilya's peasants
+  description: A race of peasants who regard themselves as direct descendants of Ilya.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Fierce bears
+  description: Bears that come to the fountain to drink and gain heroic strength,
+    according to the legend.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Pegasus
+  description: 'Named in a comparison: springs are said to have arisen at a blow from
+    Pegasus''s hoof.'
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: hero and bogatyr
+  assigned_to:
+  - fig:1
+  basis: Ilya is called the great peasant hero and later a distinguished hero and
+    bogatyr.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: claimed ancestor
+  assigned_to:
+  - fig:1
+  basis: Ilya's peasants regard themselves as his direct descendants.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: heroic steed
+  assigned_to:
+  - fig:2
+  basis: Cloudfall is called Ilya's good steed and is associated with the hoof-caused
+    fountain.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: claimed descendants
+  assigned_to:
+  - fig:3
+  basis: The peasants called Ilya's peasants claim direct descent from the hero.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: strength-seeking drinkers
+  assigned_to:
+  - fig:4
+  basis: The bears drink from the fountain and gain heroic strength in the reported
+    legend.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: comparative spring-making horse
+  assigned_to:
+  - fig:5
+  basis: Pegasus is cited as an analogue for springs produced by a hoof blow.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: religiously commemorated hero
+  assigned_to:
+  - fig:1
+  basis: Ilya is linked with Kiev religious legends, a reported tomb, and a portrait
+    among saints of Kiev.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fountain waters
+  literal_form: A fountain at Karacharof whose waters are drunk by bears to gain heroic
+    strength.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hoof-struck spring
+  literal_form: A spring or fountain bursting forth beneath or at the blow of a horse's
+    hoof.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: chapel at the fountain site
+  literal_form: A chapel built on the spot where the fountain burst forth beneath
+    Cloudfall's hoofs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: tomb and saintly portrait
+  literal_form: A reported tomb in St. Sophia and a portrait published among the saints
+    of Kiev.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ilya's local descent and strength tradition
+  summary: The passage presents Ilya as a widely believed-in peasant hero; a peasant
+    group claims descent from him, and Murom forest inhabitants are noted for stature
+    and strength.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Karacharof fountain legend
+  summary: At Ilya's birthplace, peasants point to a chapel marking a fountain said
+    to have burst forth beneath Cloudfall's hoofs; the passage compares this to Pegasus's
+    hoof-made springs, and bears drink the waters for heroic strength.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Kiev religious attestations
+  summary: The passage connects Ilya with Kiev religious legends, reporting a tomb
+    seen in St. Sophia, a later date assigned to his life, and a portrait among Kiev
+    saints.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Peasant culture hero with claimed descendants
+  taxonomy_refs:
+  - culture_hero
+  basis: Ilya is described as a great peasant hero and bogatyr, and a peasant group
+    claims direct descent from him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage is introductory prose about legend and local testimony rather
+    than a full narrative episode.
+- id: motif:2
+  label: Miraculous spring created by a hero's horse
+  taxonomy_refs: []
+  basis: A fountain is said to have burst forth beneath the hoofs of Ilya's steed
+    Cloudfall.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only the origin of the fountain is given; no larger quest or combat context
+    is supplied in this passage.
+- id: motif:3
+  label: Strength-giving waters
+  taxonomy_refs: []
+  basis: The legend says bears drink the fountain waters and gain heroic strength.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The stated beneficiaries are bears; the passage does not say that humans
+    drink the water or receive strength from it.
+- id: motif:4
+  label: Hero incorporated into religious memory
+  taxonomy_refs: []
+  basis: Ilya is associated with Kiev religious legends, a reported tomb at St. Sophia,
+    and a portrait among the saints of Kiev.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: These are reported historical or antiquarian attestations, not a mythic
+    action sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Cloudfall's hoof-caused fountain with springs
+    produced by the hoof of Pegasus; the shared function is a horse's hoof bringing
+    forth spring water.
+  claim_level: same_function
+  target: Pegasus hoof-created springs
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is stated in the passage, but it does not by itself
+    establish historical contact, common inheritance, or borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12739-12769; opening paragraph on Ilya's popularity, descendants,
+    and Murom strength
+  quote_or_summary: Ilya is described as the great peasant hero of Murom; Ilya's peasants
+    regard themselves as his direct descendants, and Murom forest inhabitants are
+    noted for great stature and strength.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 12739-12769; Karacharof chapel and fountain passage
+  quote_or_summary: At Karacharof, peasants point to a chapel on the spot where a
+    fountain burst forth beneath the hoofs of Ilya's steed Cloudfall, compared to
+    springs made by a blow from Pegasus's hoof.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:3
+  type: quote
+  locator: lines 12739-12769; fountain legend
+  quote_or_summary: '"to the fountain fierce bears still come to quaff the waters
+    and gain heroic strength"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 12739-12769; Kiev religious legends and tomb report
+  quote_or_summary: Ilya is said to be bound up with religious legends of Kiev; Erich
+    Lassota reported seeing the tomb of Elia Morowlin, a distinguished hero and bogatyr,
+    in a chapel of St. Sophia, and Kalnoforsky dated Ilya to about 1188.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 12739-12769; seventeenth-century portrait note
+  quote_or_summary: Ilya's portrait is said to have been published in the seventeenth
+    century among the saints of Kiev.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear but is a prose introduction and antiquarian summary,
+    so motif candidates beyond the explicit hoof-created fountain and culture-hero
+    material remain cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external taxonomy identifiers or additional comparative traditions were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l12739-l12769
+  passage_sha256=d38e0e051f49e5b48bde770e3a21b7a46a5175e031f47fc4cb71697e50b7d992
+

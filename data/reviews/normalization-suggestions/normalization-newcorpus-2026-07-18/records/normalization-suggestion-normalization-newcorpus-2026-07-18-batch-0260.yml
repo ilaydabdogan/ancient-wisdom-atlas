@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0260
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ceremonial-gathering-with-sacred-objects
+  motif_id: ceremonial_gathering_with_sacred_objects
+  label: ceremonial gathering with sacred objects
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves sacred objects in a ritual setting, but the objects'
+    function is not specified.
+  cautions: Single Navajo occurrence; avoid flattening culturally specific ceremonial
+    context into a generic object motif without source review.
+  suggested_aliases:
+  - ritual gathering with sacred objects
+  - ceremonial sacred objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-object-preserved-by-ritual-requirement
+  motif_id: ceremonial_object_preserved_by_ritual_requirement
+  label: ceremonial object preserved by ritual requirement
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritually preserved ceremonial object fits sacred objects whose handling
+    confers or protects sacred value.
+  cautions: The specific ritual requirement may be culturally important; preserve
+    as evidence detail and review whether sacred_law is also relevant.
+  suggested_aliases:
+  - ritually preserved ceremonial object
+  - ritual preservation of sacred object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-reception-marked-by-offerings-at-a-horse-s-feet
+  motif_id: ceremonial_reception_marked_by_offerings_at_a_horse_s_feet
+  label: ceremonial reception marked by offerings at a horse's feet
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Offerings made during a ceremonial reception fit ritualized giving and
+    sacred reciprocity.
+  cautions: Horse-specific detail may signal royal, martial, or local ceremonial symbolism;
+    do not overgeneralize without passage evidence.
+  suggested_aliases:
+  - offerings at a horse's feet
+  - ceremonial reception offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenge-to-a-city-s-divine-protector
+  motif_id: challenge_to_a_city_s_divine_protector
+  label: Challenge to a city's divine protector
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A city’s divine protector is a tutelary sacred power whose challenged
+    authority implies divine agency in civic affairs.
+  cautions: Could also fit divine_warrior or divine_judgment if the passage centers
+    on sacred combat or punishment.
+  suggested_aliases:
+  - city's divine protector challenged
+  - challenge to tutelary deity
+  - challenge to civic divine protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.charity-as-union-with-god-and-perfection-of-the-elect
+  motif_id: charity_as_union_with_god_and_perfection_of_the_elect
+  label: Charity as union with God and perfection of the elect
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label frames charity as mystical union and perfected spiritual identity,
+    close to contemplative union themes.
+  cautions: May be theological commentary rather than a narrative motif; human review
+    should decide whether to index under annihilation_union or exclude as doctrinal
+    abstraction.
+  suggested_aliases:
+  - charity as union with God
+  - perfection of the elect through charity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cherubim-on-sacred-boundary-textiles
+  motif_id: cherubim_on_sacred_boundary_textiles
+  label: Cherubim on sacred boundary textiles
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cherubim imagery on boundary textiles marks and guards a sacred threshold.
+  cautions: If the focus is sanctuary furnishing rather than guardian function, sacred_treasures
+    or axis_mundi may be secondary placements.
+  suggested_aliases:
+  - cherubim boundary textile
+  - guardian figures on sacred veil
+  - sacred boundary textile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-dedicated-to-temple-purity-and-service
+  motif_id: child_dedicated_to_temple_purity_and_service
+  label: Child dedicated to temple purity and service
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A child set apart for temple purity and service fits sacred childhood
+    marked by protected or consecrated destiny.
+  cautions: Could also map to sacrifice or sacred_law if the emphasis is vow, offering,
+    or purity regulation rather than the child's destiny.
+  suggested_aliases:
+  - child dedicated to temple service
+  - consecrated temple child
+  - child set apart for purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-water-sprinkling-rite
+  motif_id: child_water_sprinkling_rite
+  label: Child water-sprinkling rite
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite involving sprinkling a child with water fits water as purifier
+    and ritual transformer.
+  cautions: If the rite primarily names, legitimizes, or incorporates the child socially,
+    sacred_law or miraculous_child may be secondary.
+  suggested_aliases:
+  - water sprinkling rite for child
+  - ritual sprinkling of child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-given-as-servants-after-divine-anger
+  motif_id: children_given_as_servants_after_divine_anger
+  label: children given as servants after divine anger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Divine anger followed by social penalty or servitude suggests judgment
+    after transgression.
+  cautions: The label may encode a specific etiological or social-order episode involving
+    children; source context is needed before mapping.
+  suggested_aliases:
+  - servitude after divine anger
+  - children assigned to service after divine wrath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-left-at-a-divine-altar-for-protection
+  motif_id: children_left_at_a_divine_altar_for_protection
+  label: children left at a divine altar for protection
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Children placed at a divine altar for protection fit the threatened or
+    protected child pattern under sacred care.
+  cautions: Could also involve sanctuary asylum, supplication, or sacred exchange
+    if the altar act is the main ritual function.
+  suggested_aliases:
+  - children placed at altar for protection
+  - altar protection of children
+  - children entrusted to divine altar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several single-occurrence ritual labels need source-context
+  review before durable indexing.
+- For culturally specific Navajo ceremonial labels, preserve local ritual terminology
+  and avoid broad pattern claims without human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft placements only; human taxonomy review required for culturally specific
+    ritual and doctrinal abstraction labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0260
+  input_sha256: 8faa48aa0ee01a39d8513e7804e6d265e97cdc82f41164785c69eecaf12071b7
+

@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0283
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-assistance-brings-victory-and-mass-religious-entry
+  motif_id: divine_assistance_brings_victory_and_mass_religious_entry
+  label: Divine assistance brings victory and mass religious entry
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is divine aid producing a historical or communal outcome;
+    victory and conversion are effects of intervention.
+  cautions: Mass religious entry is context-specific and may also involve sacred law
+    or covenantal community formation; avoid treating as a general transmission claim.
+  suggested_aliases:
+  - divine_aid_in_victory
+  - divine_help_brings_communal_conversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-granting-victory
+  motif_id: divine_assistance_granting_victory
+  label: Divine assistance granting victory
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Direct sacred aid in human affairs is explicitly covered by divine_intervention,
+    with victory as the result.
+  cautions: If the passage emphasizes sacred combat or divine warrior imagery, secondary
+    review under divine_warrior or sacred_combat may be useful.
+  suggested_aliases:
+  - divine_aid_in_victory
+  - divinely_granted_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-in-battle-and-failed-reliance-on-numbers
+  motif_id: divine_assistance_in_battle_and_failed_reliance_on_numbers
+  label: Divine assistance in battle and failed reliance on numbers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine aid overriding ordinary military strength,
+    a form of intervention in conflict.
+  cautions: The failed reliance on numbers adds a pride/downfall or moral-reckoning
+    dimension; preserve that as evidence detail rather than making it the primary
+    group without passage review.
+  suggested_aliases:
+  - divine_aid_over_numbers
+  - victory_by_divine_help_not_numbers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assisted-victory-followed-by-purification-and-prayer
+  motif_id: divine_assisted_victory_followed_by_purification_and_prayer
+  label: divine-assisted victory followed by purification and prayer
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The opening function is victory through divine aid; subsequent purification
+    and prayer are ritual responses to that intervention.
+  cautions: Composite label; if purification/prayer is the main recurring pattern,
+    sacrifice, sacred_exchange, or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - divine_aid_in_victory_with_purification
+  - victory_followed_by_ritual_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-associated-sword-as-conflict-and-rescue-object
+  motif_id: divine_associated_sword_as_conflict_and_rescue_object
+  label: Divine-associated sword as conflict and rescue object
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A divinely associated sword functioning in conflict and rescue is a power
+    object conferring sacred ability or protection.
+  cautions: If the sword mainly proves kingship or identity, review also under royal_legitimacy
+    or recognition_tokens_hidden_identity; if it drives combat, sacred_combat may
+    be secondary.
+  suggested_aliases:
+  - divine_sword
+  - sacred_sword_as_rescue_object
+  - divine_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-association-in-war
+  motif_id: divine_association_in_war
+  label: Divine association in war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: broader_label
+  confidence: medium
+  rationale: A divine link to war fits the divine warrior or sacred combat field when
+    the deity or sacred power is tied to battle.
+  cautions: The wording is very broad; if it only names a god's domain or epithet
+    without narrative function, it may be too thin for pattern queries.
+  suggested_aliases:
+  - divine_war_association
+  - war_god_association
+  - sacred_association_with_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-association-with-fire
+  motif_id: divine_association_with_fire
+  label: divine association with fire
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Fire as a marker of divine presence or power is directly covered by sacred_fire.
+  cautions: Do not map to world-destroying fire unless the passage involves cosmic
+    destruction, judgment, or renewal by fire.
+  suggested_aliases:
+  - divine_fire
+  - fire_as_divine_presence
+  - deity_associated_with_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-association-with-vegetation-and-flowers
+  motif_id: divine_association_with_vegetation_and_flowers
+  label: divine association with vegetation and flowers
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Vegetation and flowers may signal fertility, sacred beauty, seasonal
+    renewal, deity attributes, or ritual offering; current groups do not clearly capture
+    the function from the label alone.
+  cautions: Avoid forcing into sacred_tree_axis unless the plant functions as an axis
+    or sacred center; source context is needed to distinguish fertility, offering,
+    seasonal cycle, or deity iconography.
+  suggested_aliases:
+  - divine_vegetation
+  - deity_associated_with_flowers
+  - sacred_flowers
+  suggested_new_group:
+    id: sacred_vegetation_flowers
+    label: Sacred Vegetation and Flowers
+    description: Plants, flowers, blossoms, or cultivated vegetation mark divine presence,
+      fertility, beauty, seasonal renewal, offering, or sacred abundance without necessarily
+      functioning as a world tree or axis.
+    parent_group_ids:
+    - sacred_time
+    - sacred_substance
+    - mother_goddess
+    related_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - axis_mundi
+    reason_existing_groups_insufficient: Existing plant-related coverage is mostly
+      world-tree/axis, harvest cycle, or sacred substances; a divine floral/vegetal
+      attribute may lose meaning if collapsed into those without evidence of axis,
+      food, or seasonal function.
+- suggestion_id: normalization.suggestion.divine-attributes-and-unity-under-dispute
+  motif_id: divine_attributes_and_unity_under_dispute
+  label: Divine attributes and unity under dispute
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like theological debate or doctrinal classification rather
+    than a clear narrative motif.
+  cautions: May be a commentary artifact; only map if the passage frames disputed
+    divine unity as revelation, sacred knowledge, covenantal boundary, or judgment
+    in a narrative/ritual context.
+  suggested_aliases:
+  - divine_unity_disputed
+  - disputed_divine_attributes
+  - theological_dispute_over_divine_unity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-authorization-for-armed-defense-and-attack
+  motif_id: divine_authorization_for_armed_defense_and_attack
+  label: divine authorization for armed defense and attack
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns sacred authorization regulating legitimate violence,
+    fitting divine law and social order more than combat alone.
+  cautions: Could also relate to sacred_combat or divine_judgment if the passage emphasizes
+    battle outcome or punishment; review sensitive legal-war framing carefully.
+  suggested_aliases:
+  - divinely_authorized_warfare
+  - sacred_authorization_for_defense
+  - lawful_armed_defense_by_divine_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and composite; suggested placements
+  should preserve victory, ritual response, and legal authorization as evidence details
+  rather than promoting them automatically.
+- Divine aid in battle can fit divine_intervention, divine_warrior, sacred_combat,
+  or sacred_law depending on whether the passage emphasizes aid, deity role, battle
+  structure, or authorization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0283
+  input_sha256: a48b57967f745a5503c103fab5472eed74b3fc66dd6c1056e475d7f65cae27f7
+

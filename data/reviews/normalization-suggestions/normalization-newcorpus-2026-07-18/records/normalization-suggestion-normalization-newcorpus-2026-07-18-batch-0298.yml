@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0298
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-incarnation-as-named-hero
+  motif_id: divine_incarnation_as_named_hero
+  label: divine incarnation as named hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: medium
+  rationale: A deity taking heroic form may fit divine action in human affairs, but
+    incarnation/avatar theology is more specific than ordinary intervention.
+  cautions: Could warrant a new incarnation/avatar group if recurring; avoid flattening
+    named avatara into generic heroic intervention without source review.
+  suggested_aliases:
+  - divine incarnation
+  - avatar as hero
+  - god embodied as hero
+  suggested_new_group:
+    id: divine_incarnation_avatar
+    label: Divine Incarnation and Avatar
+    description: A deity or supreme power becomes embodied in a named human, animal,
+      or heroic form to restore order, teach, protect, or intervene in the world.
+    parent_group_ids:
+    - divine_intervention
+    - theophany
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing divine_intervention and theophany
+      groups cover divine action or manifestation, but not the distinctive embodied
+      descent/incarnation pattern.
+- suggestion_id: normalization.suggestion.divine-incarnation-sequence
+  motif_id: divine_incarnation_sequence
+  label: divine incarnation sequence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: medium
+  rationale: A sequence of incarnations indicates repeated divine intervention in
+    world order, but may represent a distinct avatar-cycle schema.
+  cautions: The label may refer to a doctrinal list rather than a narrative motif;
+    review whether passages narrate incarnations or merely enumerate them.
+  suggested_aliases:
+  - avatar sequence
+  - successive divine incarnations
+  - cycle of incarnations
+  suggested_new_group:
+    id: divine_incarnation_avatar
+    label: Divine Incarnation and Avatar
+    description: A deity or supreme power becomes embodied in a named human, animal,
+      or heroic form to restore order, teach, protect, or intervene in the world.
+    parent_group_ids:
+    - divine_intervention
+    - theophany
+    related_group_ids:
+    - sacred_time
+    - world_ages_cosmic_decline
+    - divine_warrior
+    reason_existing_groups_insufficient: Existing groups do not preserve the recurring
+      sequence of embodied divine descents across ages or crises.
+- suggestion_id: normalization.suggestion.divine-incitement-and-exhortation-of-battle
+  motif_id: divine_incitement_and_exhortation_of_battle
+  label: Divine incitement and exhortation of battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine urging of warriors belongs with sacred combat where gods shape
+    or authorize battle.
+  cautions: If the emphasis is only a deity manipulating events, divine_intervention
+    may be a secondary placement.
+  suggested_aliases:
+  - divine battle exhortation
+  - god incites battle
+  - divine encouragement in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-incitement-of-warriors
+  motif_id: divine_incitement_of_warriors
+  label: Divine incitement of warriors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Gods rousing warriors to fight is a martial divine-action variant of
+    sacred combat.
+  cautions: May overlap with divine_intervention when the passage centers on supernatural
+    agency rather than battle ideology.
+  suggested_aliases:
+  - god rouses warriors
+  - divine arousal of fighters
+  - divine battle incitement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-incomparability-against-anthropomorphic-resemblance
+  motif_id: divine_incomparability_against_anthropomorphic_resemblance
+  label: Divine incomparability against anthropomorphic resemblance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as theological teaching about divine nature rather than
+    a clear narrative motif.
+  cautions: May be doctrinal commentary or creed rather than motif evidence; culturally
+    sensitive theological category should be reviewed before indexing.
+  suggested_aliases:
+  - divine incomparability
+  - anti-anthropomorphic divine description
+  - transcendent divine uniqueness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-influence-within-human-combat
+  motif_id: divine_influence_within_human_combat
+  label: Divine influence within human combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns divine agency operating through or within battle,
+    fitting sacred combat and divine warrior patterns.
+  cautions: Keep distinct from general divine_intervention if the combat function
+    is explicit.
+  suggested_aliases:
+  - divine agency in combat
+  - god influences battle
+  - supernatural influence in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-infusion-of-martial-fury
+  motif_id: divine_infusion_of_martial_fury
+  label: Divine infusion of martial fury
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A god filling a warrior with battle rage is a sacred combat empowerment
+    motif.
+  cautions: If described primarily as possession or madness, a future altered-state
+    or divine-possession group might be more precise.
+  suggested_aliases:
+  - god-given battle fury
+  - divinely inspired martial rage
+  - infusion of war fury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-inheritance-instead-of-land-inheritance
+  motif_id: divine_inheritance_instead_of_land_inheritance
+  label: Divine inheritance instead of land inheritance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Inheritance defined as relation to the divine rather than land fits covenantal
+    sacred bond and social-religious order.
+  cautions: Could be a legal-theological passage detail rather than a broad motif;
+    sacred_law may be a secondary placement if inheritance law is central.
+  suggested_aliases:
+  - God as inheritance
+  - divine portion instead of land
+  - sacred inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-inspiration-as-martial-fire
+  motif_id: divine_inspiration_as_martial_fire
+  label: Divine inspiration as martial fire
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label explicitly frames divine inspiration through fire imagery,
+    fitting sacred fire as divine power and illumination.
+  cautions: If the passage emphasizes combat empowerment more than fire symbolism,
+    divine_warrior should be the primary or secondary group.
+  suggested_aliases:
+  - martial fire of inspiration
+  - divine battle fire
+  - fire as war inspiration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-instruction-before-joining-the-gods
+  motif_id: divine_instruction_before_joining_the_gods
+  label: Divine instruction before joining the gods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Instruction by or about the divine before apotheosis fits sacred knowledge,
+    with possible death-transformation implications.
+  cautions: 'Needs source context: may involve apotheosis, initiation, afterlife passage,
+    or a one-off episode-specific detail.'
+  suggested_aliases:
+  - pre-apotheosis instruction
+  - divine teaching before apotheosis
+  - instruction before joining gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Greek battle labels are close variants and could later be consolidated under
+  a child such as divine_battle_inspiration if they recur.
+- Hindu incarnation labels may deserve a dedicated divine_incarnation_avatar group,
+  but source review should confirm narrative recurrence rather than doctrinal enumeration.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for incarnation, apotheosis,
+    and theological abstraction labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0298
+  input_sha256: 13eb8c93098f00515042a8b8b603b1b7b6c6447918854e9341ab5e4953d33672
+

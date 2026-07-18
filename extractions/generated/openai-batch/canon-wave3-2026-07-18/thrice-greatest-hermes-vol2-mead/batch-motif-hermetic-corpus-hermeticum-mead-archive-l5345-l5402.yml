@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l5345-l5402
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: COEPUS HEEMETICUM V. (VL) / THOUGH UNMANIFEST GOD IS MOST MANIFEST 101 /
+    THOUGH UNMANIFEST GOD IS MOST MANIFEST 103 / THOUGH UNMANIFEST GOD IS MOST MANIFEST
+    105; lines 5345-5402
+  start: '5345'
+  end: '5402'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: For Thou art all, and there is nothing else which Thou art not.
+  summary: The speaker addresses God as all-named and nameless, beyond place and time,
+    containing and originating all things. The passage asks how, when, and for what
+    God can be hymned, then describes God as all that exists and does not exist, as
+    Mind, Father, God, Good, and Maker, and closes with a graded sequence from matter
+    to air, soul, mind, and God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: God is described as all, as having all names because they are one Father's,
+    and as having no name because he is Father of all.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks who can sing praise to God and where to turn the eyes, naming
+    above, below, within, and without.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says there is no way, place, or other thing about God; all are
+    in God and from God.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God is said to give all and take nothing, because he has all and lacks nothing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker asks when, for what, and how God should be hymned, and says that
+    none can seize God's hour or time.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker says God is whatever the speaker may be, do, or speak.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: God is described as all that exists and also what does not exist.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: God is named Mind when thinking, Father when making, God when energizing,
+    and Good and Maker of all things.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A sequence is given in which the subtler part of matter is air, of air is
+    soul, of soul is mind, and of mind is God.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God / Father
+  description: The addressed deity, described as all, all-named and nameless, Father,
+    giver of all, Mind, God, Good, and Maker of all things.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: speaker / hymnist
+  description: The first-person speaker who asks how, when, where, and for what God
+    may be praised or hymned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: all-encompassing divine source
+  assigned_to:
+  - fig:1
+  basis: God is said to be all, to contain and originate all, and to give all while
+    lacking nothing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: creator and maker
+  assigned_to:
+  - fig:1
+  basis: God is called Father when making and Good and Maker of all things.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: hymning inquirer
+  assigned_to:
+  - fig:2
+  basis: The speaker poses questions about how, where, when, and for what God can
+    be praised or hymned.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: all names and no name
+  literal_form: God has all names and no name.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: directions without place
+  literal_form: above, below, within, without; no way or place about God
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: graded subtler orders
+  literal_form: matter, air, soul, mind, God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Questions of praise before an unplaceable deity
+  summary: The speaker asks who can praise God and where the eyes should turn, while
+    the passage denies any way or place about God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: All-named and nameless source of all
+  summary: God is described as all, as both all-named and nameless, as the one in
+    whom and from whom all are, and as lacking nothing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:3
+  label: Hymn to God as all existence and nonexistence
+  summary: The speaker asks when and how to hymn God, then identifies God with whatever
+    the speaker is, does, or speaks, and with both what exists and what does not exist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sequence from matter to God
+  summary: The passage closes with a hierarchy of subtler parts moving from matter
+    to air, soul, mind, and God.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: All-named and nameless deity
+  taxonomy_refs: []
+  basis: God is explicitly said to have all names and also no name.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the paradox as theology; no narrative episode accompanies
+    it.
+- id: motif:2
+  label: Divine all-in-all as source and container of all
+  taxonomy_refs: []
+  basis: All are said to be in God and from God, and God is said to be all that exists
+    and what does not exist.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is doctrinal and hymnic rather than a mythic action sequence.
+- id: motif:3
+  label: Unlocatable and untimable divine object of praise
+  taxonomy_refs: []
+  basis: The speaker cannot locate where to turn in praise, and no one can seize God's
+    hour or time.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is expressed through rhetorical questions, not through a journey
+    or quest.
+- id: motif:4
+  label: Graded ascent from matter toward God
+  taxonomy_refs:
+  - ascent
+  basis: The closing sequence orders matter, air, soul, mind, and God as increasingly
+    subtle levels.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a hierarchy but does not narrate an actual ascent.
+- id: motif:5
+  label: Resolution of opposites in deity
+  taxonomy_refs:
+  - duality
+  basis: The passage juxtaposes all names and no name, manifest and concealed objects
+    of hymn, and what exists and what does not exist within the description of God.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy label 'duality' is broad; the passage emphasizes
+    divine inclusion or transcendence of paired terms rather than conflict between
+    two powers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5345-5351
+  quote_or_summary: God is described as all, as having all names because they are
+    one Father's, and as having no name because he is Father of all.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 5352-5357
+  quote_or_summary: 'The speaker asks who can praise God and where to turn the eyes:
+    above, below, within, or without.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 5358-5365
+  quote_or_summary: No way or place is said to be about God; all are in God and from
+    God, who gives all and takes nothing.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 5366-5377
+  quote_or_summary: The speaker asks when and for what God should be hymned, saying
+    none can seize God's hour or time and asking whether to hymn what God made, did
+    not make, manifested, or concealed.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: 5378-5398
+  quote_or_summary: '"For Thou art all, and there is nothing else which Thou art not."
+    God is also described as whatever the speaker may be, do, or speak, as all that
+    exists and does not exist, and as Mind, Father, God, Good, and Maker.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: 5399-5402
+  quote_or_summary: The passage states that the subtler part of matter is air, of
+    air the soul, of soul the mind, and of mind God.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about divine attributes, praise, and hierarchy. Motif-family
+    mapping is less certain because the passage is hymnic-theological rather than
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l5345-l5402
+  passage_sha256=69e4fc13c2695c2a02634ac91e8e23411c25f82bd631e533631306a75252ef44
+

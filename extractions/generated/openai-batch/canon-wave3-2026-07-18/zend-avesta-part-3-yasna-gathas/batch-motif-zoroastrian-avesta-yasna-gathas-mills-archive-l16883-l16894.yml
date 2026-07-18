@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l16883-l16894
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA    LIV.  293 / YASNA    LV.  295 / YASNA    LVII.  297 / YASNA    LVII.  299;
+    lines 16883-16894
+  start: '16883'
+  end: '16894'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed male figure saves unspecified persons, guards the corporeal
+    world after sunset with a raised halberd, has never slept quietly since the two
+    Spirits made the worlds, guards the homes of Asha, battles the Daevas through
+    days and nights, and causes the Daevas to flee into darkness. A closing formula
+    refers to his splendour, glory, and might.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed male figure saves unspecified “them” and guards all the corporeal
+    world after sunset with a raised halberd.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figure has never slept in quiet since the two Spirits made the worlds.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The two Spirits are described in the bracketed gloss as bounteous and evil.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The figure guards the homes of Asha.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The figure battles the Daevas through the days and nights.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The figure does not turn terror-stricken or affrighted before the Daevas’
+    power.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Daevas turn in affright before the figure and rush to darkness in fear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage invokes the figure’s splendour, glory, and might.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unnamed armed guardian
+  description: A male figure referred to as “he” who saves, guards the corporeal world
+    after sunset with a raised halberd, never sleeps quietly, guards the homes of
+    Asha, battles the Daevas, and is associated with splendour, glory, and might.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The two Spirits
+  description: A pair of Spirits said to have made the worlds; the bracketed gloss
+    identifies them as bounteous and evil.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Daevas
+  description: Hostile beings whom the guardian battles through days and nights; they
+    turn in fear before him and rush to darkness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: unsleeping protector
+  assigned_to:
+  - fig:1
+  basis: The figure saves, guards all the corporeal world after sunset, has never
+    slept quietly, and guards the homes of Asha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: combatant against Daevas
+  assigned_to:
+  - fig:1
+  basis: The figure battles the Daevas throughout days and nights and does not retreat
+    in fear before them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: world-making pair
+  assigned_to:
+  - fig:2
+  basis: The two Spirits are said to have made the worlds.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fearful adversaries
+  assigned_to:
+  - fig:3
+  basis: The Daevas are battled by the guardian and flee in fear into darkness before
+    him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: raised halberd
+  literal_form: halberd raised on high
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: corporeal world after sunset
+  literal_form: all the corporeal world after setting of the sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: homes of Asha
+  literal_form: homes of Asha
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: darkness
+  literal_form: darkness into which the Daevas rush in fear
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: After-sunset guardianship
+  summary: The unnamed guardian saves unspecified persons, raises a halberd, guards
+    the corporeal world after sunset, has not slept quietly since the two Spirits
+    made the worlds, and guards the homes of Asha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Battle with Daevas and flight into darkness
+  summary: The guardian battles the Daevas through days and nights, does not turn
+    away in fear, and the Daevas themselves turn affrighted and rush into darkness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: unsleeping armed guardian of the world at night
+  taxonomy_refs: []
+  basis: The figure guards the corporeal world after sunset with a raised halberd,
+    never sleeps quietly, protects the homes of Asha, and battles Daevas day and night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage excerpt does not name the guardian or specify the antecedent
+    of “them.” No available taxonomy family exactly labels this guardian pattern.
+- id: motif:2
+  label: cosmic moral duality
+  taxonomy_refs:
+  - duality
+  basis: The passage mentions two Spirits, glossed as bounteous and evil, who made
+    the worlds, and it places the guardian and the homes of Asha in opposition to
+    the Daevas.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The two Spirits appear in a bracketed gloss and are not elaborated in
+    the excerpt.
+- id: motif:3
+  label: hostile beings flee into darkness before a protector
+  taxonomy_refs: []
+  basis: The Daevas, after being opposed by the guardian, turn in affright before
+    him and rush to darkness in fear.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the flight into darkness but not a fuller narrative
+    of origin, pursuit, or defeat.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with the duality motif family because
+    it names two Spirits described as bounteous and evil and depicts opposition between
+    the guardian associated with Asha and the Daevas.
+  claim_level: same_motif
+  target: duality
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a motif-family classification only; the excerpt does not support
+    claims about historical contact, common inheritance, or a complete cosmogonic
+    doctrine beyond the supplied lines.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16883-16884
+  quote_or_summary: The passage says the figure saves unspecified persons and, with
+    a raised halberd, guards all the corporeal world after sunset.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain per source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16885-16887
+  quote_or_summary: The figure is said never to have slept quietly since the two Spirits
+    made the worlds; a bracketed gloss identifies them as the bounteous and evil one.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain per source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16887-16890
+  quote_or_summary: The figure guards the homes of Asha and battles the Daevas through
+    days and nights, with a parenthetical Pazand reference to the Mazanian.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain per source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16890-16893
+  quote_or_summary: The figure does not turn back in fear before the Daevas; instead,
+    the Daevas turn in affright before him and rush into darkness.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain per source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: line 16894
+  quote_or_summary: A closing formula refers to the figure’s splendour, glory, and
+    might.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain per source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The actions and relationships in the excerpt are clear, but the figure’s
+    name and the antecedent of “them” are outside the supplied lines. Motif classification
+    is therefore limited to what the passage states.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l16883-l16894
+  passage_sha256=7568a4da8404b3c291e122cdb5d64ef735ed4242c6fc90439ece0569d7d1f70c
+

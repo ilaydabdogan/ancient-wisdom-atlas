@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0401
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rainmaking-by-a-ritual-specialist-during-drought
+  motif_id: rainmaking_by_a_ritual_specialist_during_drought
+  label: Rainmaking by a ritual specialist during drought
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Ritual
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing groups include one rain-coercion child under sacred_exchange,
+    but repeated rainmaking labels point to a distinct weather-ritual pattern.
+  cautions: Culturally specific ritual roles and drought context need source review;
+    avoid collapsing all weather rites into sacrifice or exchange.
+  suggested_aliases:
+  - rainmaking
+  - ritual weather specialist
+  - weather rite during drought
+  suggested_new_group:
+    id: rainmaking_weather_ritual
+    label: Rainmaking and Weather Ritual
+    description: Ritual specialists, implements, substitutions, or sacred actions
+      are used to request, coerce, summon, or regulate rain and weather, especially
+      during drought or communal crisis.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: sacred_exchange can hold rain-god coercion,
+      but these labels emphasize weather-making ritual practice and specialist roles
+      rather than reciprocal offering alone.
+- suggestion_id: normalization.suggestion.rainmaking-by-water-rite-and-ritual-implements
+  motif_id: rainmaking_by_water_rite_and_ritual_implements
+  label: rainmaking by water rite and ritual implements
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Ritual
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on a rainmaking rite using water and implements, fitting
+    a proposed weather-ritual group better than general sacred waters.
+  cautions: If the passage emphasizes water symbolism or purification rather than
+    weather efficacy, sacred_waters may be a secondary mapping.
+  suggested_aliases:
+  - water rite for rain
+  - rainmaking implements
+  - ritual implements for weather
+  suggested_new_group:
+    id: rainmaking_weather_ritual
+    label: Rainmaking and Weather Ritual
+    description: Ritual specialists, implements, substitutions, or sacred actions
+      are used to request, coerce, summon, or regulate rain and weather, especially
+      during drought or communal crisis.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: sacred_waters covers water as boundary or
+      purifier, while sacred_exchange covers reciprocal ritual; neither cleanly captures
+      weather-making as the primary function.
+- suggestion_id: normalization.suggestion.rainmaking-witch-or-ritual-weather-specialist
+  motif_id: rainmaking_witch_or_ritual_weather_specialist
+  label: rainmaking witch or ritual weather specialist
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Ritual
+  relationship: role_variant
+  confidence: medium
+  rationale: The label identifies a ritual weather specialist, aligning with a recurring
+    rainmaking/weather-control complex.
+  cautions: The term witch may be an imposed or translated category; human review
+    should preserve local terminology and avoid pejorative flattening.
+  suggested_aliases:
+  - ritual weather specialist
+  - rainmaking specialist
+  - weather worker
+  suggested_new_group:
+    id: rainmaking_weather_ritual
+    label: Rainmaking and Weather Ritual
+    description: Ritual specialists, implements, substitutions, or sacred actions
+      are used to request, coerce, summon, or regulate rain and weather, especially
+      during drought or communal crisis.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: Existing divine_intervention and sacred_exchange
+      groups do not preserve the specialist role and weather-control function clearly
+      enough.
+- suggestion_id: normalization.suggestion.rare-sacred-dancer-desired-by-the-king
+  motif_id: rare_sacred_dancer_desired_by_the_king
+  label: rare sacred dancer desired by the king
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred performance, rarity, royal desire, and possible
+    court narrative without a clear motif function.
+  cautions: May be passage-specific, erotic/court detail, ritual performance, or royal-legitimacy
+    material; source evidence is needed before grouping.
+  suggested_aliases:
+  - sacred dancer desired by king
+  - royal desire for ritual performer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reason-versus-tradition-as-rival-modes-of-sacred-law
+  motif_id: reason_versus_tradition_as_rival_modes_of_sacred_law
+  label: Reason versus tradition as rival modes of sacred law
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns modes of grounding sacred law and ethical authority,
+    fitting the sacred_law group.
+  cautions: May be theological or jurisprudential commentary rather than narrative
+    motif; exclude if it is only an abstract doctrinal note.
+  suggested_aliases:
+  - reason and tradition in sacred law
+  - rival modes of sacred law
+  - legal reasoning versus tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellious-ruler-punished-after-rejecting-divine-messenger
+  motif_id: rebellious_ruler_punished_after_rejecting_divine_messenger
+  label: rebellious ruler punished after rejecting divine messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A ruler rejects a divine message and is punished, a clear sacred-order
+    response to transgression.
+  cautions: Could also support royal_legitimacy or divine_intervention if the passage
+    emphasizes messenger authority or kingship more than punishment.
+  suggested_aliases:
+  - punishment for rejecting divine messenger
+  - rebellious ruler judged
+  - rejection of messenger punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recapitulated-series-of-divine-deliverances
+  motif_id: recapitulated_series_of_divine_deliverances
+  label: recapitulated series of divine deliverances
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A sequence of divine deliverances is best treated as repeated divine
+    intervention on behalf of humans or a community.
+  cautions: The word recapitulated may indicate a textual summary or liturgical retelling;
+    exclude if it is only a narrative list or commentary artifact.
+  suggested_aliases:
+  - series of divine deliverances
+  - divine rescue sequence
+  - recited deliverance history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.receiving-lineage-gods-at-seven-caves
+  motif_id: receiving_lineage_gods_at_seven_caves
+  label: receiving lineage gods at Seven Caves
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve origin place, cave threshold, lineage deities,
+    or sacred center, but the main function is unclear.
+  cautions: Seven Caves may be a culturally specific origin/place complex; source
+    context is needed before mapping to cosmic_origin, otherworld, descent, or axis_mundi.
+  suggested_aliases:
+  - lineage gods at Seven Caves
+  - receiving gods at caves
+  - cave origin of lineage deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reclaiming-foreign-buildings-for-indigenous-ritual-space
+  motif_id: reclaiming_foreign_buildings_for_indigenous_ritual_space
+  label: reclaiming foreign buildings for indigenous ritual space
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns ritual-space transformation under colonial or intercultural
+    conditions, not clearly covered by existing sacred-space groups.
+  cautions: Culturally and historically sensitive; may be historical memory or commentary
+    rather than a mythic motif. Avoid flattening indigenous reclamation into generic
+    world_center without evidence.
+  suggested_aliases:
+  - reclaiming foreign buildings as ritual space
+  - indigenous ritual reuse of foreign buildings
+  - ritual reclamation of buildings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reclaiming-oppressor-materials-for-sacred-communal-space
+  motif_id: reclaiming_oppressor_materials_for_sacred_communal_space
+  label: Reclaiming oppressor materials for sacred communal space
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes transforming oppressive materials into sacred communal
+    space, a sensitive historical-ritual pattern without a clear existing group.
+  cautions: May be a colonial-history or ethnographic detail rather than a reusable
+    motif; review alongside related Hopi label before considering any new group.
+  suggested_aliases:
+  - oppressor materials reclaimed for sacred space
+  - ritual reclamation of oppressive materials
+  - sacred communal space from reclaimed materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- The three Australian rainmaking labels suggest a possible durable Rainmaking and
+  Weather Ritual group; review together with existing coerce-rain-god material under
+  sacred_exchange.
+- The two Hopi reclamation labels appear related and culturally sensitive; human review
+  should decide whether they are motif patterns, historical memory, or contextual
+  evidence notes.
+- Several single-occurrence labels are over-specific and should not be promoted without
+  source evidence and recurrence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0401
+  input_sha256: ad723da45b1319a8103cbfd1c7bb5dd29a52bd89540e3cf852ee1d561dd5ad7a
+

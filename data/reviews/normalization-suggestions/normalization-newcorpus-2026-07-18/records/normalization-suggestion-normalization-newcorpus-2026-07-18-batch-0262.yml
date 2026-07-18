@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0262
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.coercive-wooing-by-weapon-and-magical-curse
+  motif_id: coercive_wooing_by_weapon_and_magical_curse
+  label: Coercive wooing by weapon and magical curse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines coercive courtship, weapon threat, and curse magic;
+    placement depends on whether the passage emphasizes sacred speech, violence, or
+    marriage coercion.
+  cautions: Single occurrence and potentially culturally/contextually specific; avoid
+    normalizing coercion as sacred love without source review.
+  suggested_aliases:
+  - magical curse in coercive wooing
+  - weapon threat in courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_love
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collapse-of-sacred-and-profane-distinctions
+  motif_id: collapse_of_sacred_and_profane_distinctions
+  label: collapse of sacred and profane distinctions
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an abstract theological or interpretive theme rather than
+    a clear narrative motif; it may concern holiness boundaries or theophany depending
+    on evidence.
+  cautions: Could be commentary artifact if it summarizes interpretation rather than
+    passage content.
+  suggested_aliases:
+  - sacred profane boundary collapse
+  - collapse of holiness boundaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - theophany
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-council-decision-and-clan-execution-of-oppressive-priest
+  motif_id: collective_council_decision_and_clan_execution_of_oppressive_priest
+  label: collective council decision and clan execution of oppressive priest
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns communal judgment against a ritual authority, but
+    it is highly contextual and may be historical, social, or mythic.
+  cautions: Culturally sensitive and single-occurrence; requires source review before
+    mapping to divine judgment, sacred law, or political order.
+  suggested_aliases:
+  - communal execution of oppressive priest
+  - council judgment against ritual authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commanded-construction-of-sacred-dwelling
+  motif_id: commanded_construction_of_sacred_dwelling
+  label: Commanded construction of sacred dwelling
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine command to build a sacred dwelling fits sacred construction
+    as a religiously authorized craft act.
+  cautions: If the dwelling functions primarily as a portable sanctuary or world center,
+    secondary review under axis_mundi or sacred_vessel may be useful.
+  suggested_aliases:
+  - divinely commanded sacred construction
+  - commanded sanctuary construction
+  - construction of sacred dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_vessel
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commanded-ritual-practice-among-descendants
+  motif_id: commanded_ritual_practice_among_descendants
+  label: commanded ritual practice among descendants
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual practice commanded for descendants functions as inherited sacred
+    obligation or law.
+  cautions: If the emphasis is reciprocal offering rather than command, sacred_exchange
+    or sacrifice may be secondary; review local ritual meaning.
+  suggested_aliases:
+  - inherited ritual command
+  - descendant ritual obligation
+  - commanded ancestral ritual practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_exchange
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commander-rallies-warriors-through-shame-and-prayer
+  motif_id: commander_rallies_warriors_through_shame_and_prayer
+  label: Commander rallies warriors through shame and prayer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene uses prayer and honor-shame rhetoric to mobilize warriors in
+    a charged combat setting.
+  cautions: May be an episode-specific martial speech rather than a recurring sacred
+    motif; if prayer is incidental, preserve as evidence detail.
+  suggested_aliases:
+  - warrior rally through prayer
+  - martial exhortation by shame and prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commemorative-funerary-offerings-after-hearing-an-ancient-tale
+  motif_id: commemorative_funerary_offerings_after_hearing_an_ancient_tale
+  label: Commemorative funerary offerings after hearing an ancient tale
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Funerary offerings for the dead align with ritual care and feeding of
+    dead souls or ancestors.
+  cautions: The tale-triggered commemoration may also involve storytelling_as_power;
+    avoid treating the narrative frame as the core motif unless emphasized.
+  suggested_aliases:
+  - commemorative funerary offerings
+  - offerings after ancient tale
+  - ritual offerings to the remembered dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - heroic_funeral_rites
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commissioned-divine-combat-against-tiamat
+  motif_id: commissioned_divine_combat_against_tiamat
+  label: commissioned divine combat against Tiamat
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: child
+  confidence: high
+  rationale: A god or hero commissioned to fight Tiamat is a paradigmatic divine-warrior
+    combat against chaos.
+  cautions: Preserve Tiamat-specific evidence; if the passage centers on creation
+    from the defeated body, primordial_sacrifice or cosmic_origin may also apply.
+  suggested_aliases:
+  - divine combat against Tiamat
+  - commissioned chaos combat
+  - god commissioned against chaos monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - primordial_sacrifice
+    - sacred_combat
+    - chaos
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-blessing-and-increase
+  motif_id: communal_blessing_and_increase
+  label: communal blessing and increase
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A blessing that produces communal increase fits performative sacred speech
+    and sacred prosperity language.
+  cautions: If increase is covenantal fertility or divine reward rather than a speech
+    act, covenant or divine_intervention may be secondary.
+  suggested_aliases:
+  - blessing of communal increase
+  - communal increase through blessing
+  - performative blessing of the community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-concord-through-mutual-prayer
+  motif_id: communal_concord_through_mutual_prayer
+  label: communal concord through mutual prayer
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mutual prayer restoring or expressing communal concord fits sacred reciprocity
+    and relationship repair.
+  cautions: Could also be covenantal community order or prayer as passage-specific
+    devotional practice; source context should confirm ritual function.
+  suggested_aliases:
+  - mutual prayer for concord
+  - communal harmony through prayer
+  - reciprocal prayer restoring community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and contextual; suggested placements
+  are provisional and should be checked against passage evidence.
+- 'Prayer, blessing, and curse labels should be distinguished by function: performative
+  speech, reciprocal ritual, covenant obligation, or incidental narrative detail.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0262
+  input_sha256: 169708d3d386521814d21e2853010290b6cf0707f48d1751c7fc3e231f18b983
+

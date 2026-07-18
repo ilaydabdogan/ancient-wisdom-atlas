@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0535
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-chastisement-of-seditious-speech
+  motif_id: public_chastisement_of_seditious_speech
+  label: public chastisement of seditious speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on public speech treated as dangerous and corrected
+    through authoritative speech or rebuke.
+  cautions: Could instead be political discipline or passage-specific social order
+    if no sacred or performative speech force is present.
+  suggested_aliases:
+  - seditious_speech_chastised
+  - public_rebuke_of_dangerous_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-gallows-as-scene-of-revelation
+  motif_id: public_gallows_as_scene_of_revelation
+  label: public gallows as scene of revelation
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A place of execution becomes the setting where hidden truth or sacred
+    reality is disclosed.
+  cautions: If the revelation is merely plot disclosure rather than sacred manifestation,
+    map to storytelling_as_power or exclude as scene detail.
+  suggested_aliases:
+  - execution_site_revelation
+  - gallows_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-of-a-captive-in-a-named-game
+  motif_id: public_humiliation_of_a_captive_in_a_named_game
+  label: Public humiliation of a captive in a named game
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, humiliation, and a culturally specific
+    game without enough evidence for a stable motif placement.
+  cautions: May belong to sacred_combat, royal_legitimacy, initiation, or be an episode-specific
+    artifact; the named game should be reviewed in source context.
+  suggested_aliases:
+  - captive_humiliated_in_game
+  - ritualized_humiliation_of_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-song-as-accusation-and-entrapment
+  motif_id: public_song_as_accusation_and_entrapment
+  label: public song as accusation and entrapment
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song functions as an active social or supernatural force that exposes,
+    accuses, and traps the target.
+  cautions: If the power lies in narrative disclosure rather than musical compulsion,
+    storytelling_as_power or curse_blessing_speech may be better.
+  suggested_aliases:
+  - accusatory_song
+  - song_as_entrapment
+  - public_song_exposes_wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-speech-contradicted-by-private-aside
+  motif_id: public_speech_contradicted_by_private_aside
+  label: Public speech contradicted by private aside
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a discourse or narration technique rather than a
+    symbolic motif.
+  cautions: If the aside is a magical, oath-breaking, or truth-revealing speech act,
+    reconsider under curse_blessing_speech or storytelling_as_power.
+  suggested_aliases:
+  - public_private_speech_contradiction
+  - contradictory_aside
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pun-based-resemblance-riddle
+  motif_id: pun_based_resemblance_riddle
+  label: pun-based resemblance riddle
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: narrower_than
+  confidence: medium
+  rationale: A riddle based on wordplay is a verbal performance that encodes wit,
+    recognition, or knowledge through speech.
+  cautions: Single occurrence and may be a genre detail; avoid promoting unless riddling
+    speech recurs across sources.
+  suggested_aliases:
+  - wordplay_riddle
+  - resemblance_riddle
+  - pun_riddle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.queenly-counsel-linking-reward-fame-and-obligation
+  motif_id: queenly_counsel_linking_reward_fame_and_obligation
+  label: Queenly counsel linking reward, fame, and obligation
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Queenly counsel frames fame, reward, and duty within royal or aristocratic
+    order.
+  cautions: Could also fit wisdom if the source emphasizes instruction rather than
+    governance; one occurrence may be too contextual for a durable child motif.
+  suggested_aliases:
+  - queenly_counsel
+  - royal_counsel_on_fame_and_obligation
+  - counsel_linking_reward_and_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-obtained-through-instructed-performance-and-song
+  motif_id: rain_obtained_through_instructed_performance_and_song
+  label: Rain obtained through instructed performance and song
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes ritual instruction and performance used to obtain
+    rain from sacred or spirit powers.
+  cautions: Could also relate to enchanting_music or divine_intervention; culturally
+    specific rainmaking practices should be reviewed carefully.
+  suggested_aliases:
+  - rainmaking_performance
+  - rain_obtained_by_song
+  - instructed_rain_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reception-of-revelation-by-rejoicing-assembly
+  motif_id: reception_of_revelation_by_rejoicing_assembly
+  label: Reception of revelation by rejoicing assembly
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The emphasis is communal reception of revealed teaching or sacred knowledge.
+  cautions: May be a formulaic passage ending or liturgical frame rather than an independent
+    motif; exclude if only textual convention.
+  suggested_aliases:
+  - assembly_receives_revelation
+  - rejoicing_at_revelation
+  - communal_reception_of_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-care-and-provisioning-between-opponents
+  motif_id: reciprocal_care_and_provisioning_between_opponents
+  label: Reciprocal care and provisioning between opponents
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mutual care and provisioning across enmity foreground reciprocal obligation
+    as the structuring motif.
+  cautions: If embedded in battle etiquette, sacred_combat may be a secondary mapping;
+    if moral mercy is central, covenant may fit better.
+  suggested_aliases:
+  - opponents_exchange_care
+  - reciprocity_between_enemies
+  - provisioning_between_opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and scene-specific; suggested placements should
+  remain provisional until passage evidence confirms ritual, sacred, or narrative
+  function.
+- Speech-related items should be distinguished between performative sacred speech,
+  storytelling/narrative technique, musical compulsion, and ordinary dialogue or literary
+  artifact.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0535
+  input_sha256: 4e5e93088e4aaaee5267397de71985c651e9ea45e78b01dea3aa5c052c658892
+

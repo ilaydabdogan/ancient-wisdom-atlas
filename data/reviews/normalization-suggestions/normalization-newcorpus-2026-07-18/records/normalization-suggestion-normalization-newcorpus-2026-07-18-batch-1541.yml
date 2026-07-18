@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1541
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.radiant-young-armed-commander
+  motif_id: radiant_young_armed_commander
+  label: Radiant young armed commander
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A radiant armed commander fits heroic or semi-divine martial authority
+    and sacred combat imagery.
+  cautions: Single occurrence; if radiance marks kingship, beauty, or theophany rather
+    than combat role, royal_legitimacy or theophany may be better.
+  suggested_aliases:
+  - radiant_armed_commander
+  - young_warrior_commander
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raid-carrying-off-people-and-cattle
+  motif_id: raid_carrying_off_people_and_cattle
+  label: Raid carrying off people and cattle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Cattle raids and seizure of people are already represented in the sacred_combat
+    raid complex.
+  cautions: May be a plain battle detail unless the raid drives heroic, ritual, or
+    social-order consequences.
+  suggested_aliases:
+  - cattle_raid_and_captive_taking
+  - raid_with_cattle_and_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raid-followed-by-destructive-burning
+  motif_id: raid_followed_by_destructive_burning
+  label: raid followed by destructive burning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A raid culminating in burning fits the warfare and raid cluster under
+    sacred_combat.
+  cautions: Do not map to world_destroying_fire unless the burning is cosmic, purifying,
+    or world-renewing rather than tactical destruction.
+  suggested_aliases:
+  - destructive_burning_after_raid
+  - raid_and_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raid-spoils-of-captives-treasures-and-cattle
+  motif_id: raid_spoils_of_captives_treasures_and_cattle
+  label: Raid-spoils of captives, treasures, and cattle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Spoils from cattle raids belong with the existing cattle raid and ritual
+    warfare complex.
+  cautions: If the focus is a sacred object among the spoils, sacred_treasures may
+    be a secondary mapping.
+  suggested_aliases:
+  - raid_spoils
+  - cattle_raid_spoils
+  - captives_treasures_and_cattle_as_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ransom-refused-in-favor-of-pledged-release
+  motif_id: ransom_refused_in_favor_of_pledged_release
+  label: Ransom refused in favor of pledged release
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing ransom in favor of a pledge centers binding promise and obligation
+    over exchange value.
+  cautions: Could instead fit sacred_exchange if the passage emphasizes ransom economics,
+    or sacred_law if framed as legal custom.
+  suggested_aliases:
+  - pledged_release_over_ransom
+  - ransom_refused_for_oath_release
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rapid-body-part-recitation-with-pointing-gestures
+  motif_id: rapid_body_part_recitation_with_pointing_gestures
+  label: Rapid body-part recitation with pointing gestures
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual speech, performance, healing, counting,
+    or a passage-specific action.
+  cautions: Needs source context and culturally careful review before mapping; do
+    not assume sacred speech or ritual function from gestures alone.
+  suggested_aliases:
+  - body_part_recitation_with_gestures
+  - gestural_body_part_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rapid-first-crop-growth
+  motif_id: rapid_first_crop_growth
+  label: Rapid first crop growth
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: First crop growth suggests agricultural origin or seasonal abundance
+    within sacred time and renewal cycles.
+  cautions: If the passage emphasizes miraculous provision rather than crop cycle,
+    divine_intervention may be secondary; if it is creation of agriculture, culture_hero
+    or cosmic_origin may apply.
+  suggested_aliases:
+  - miraculous_first_crop_growth
+  - first_crop_rapid_growth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rare-expert-face-distortion-performance
+  motif_id: rare_expert_face_distortion_performance
+  label: rare expert face-distortion performance
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be ritual performance, comic display, shamanic skill, or a descriptive
+    ethnographic detail.
+  cautions: Culturally sensitive and too context-dependent to place from the label
+    alone; avoid reducing it to shapeshifting without evidence of transformation.
+  suggested_aliases:
+  - face_distortion_performance
+  - expert_face_distortion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rare-rich-entrant-celebrated-in-heaven
+  motif_id: rare_rich_entrant_celebrated_in_heaven
+  label: Rare rich entrant celebrated in heaven
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns admission to and reception within heaven, an afterlife
+    destination or passage outcome.
+  cautions: May also be an ethical exemplum about wealth and salvation; if the point
+    is moral reversal, divine_judgment may be secondary.
+  suggested_aliases:
+  - rich_person_celebrated_in_heaven
+  - heavenly_reception_of_rare_rich_entrant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rash-wish-with-literal-harmful-fulfillment
+  motif_id: rash_wish_with_literal_harmful_fulfillment
+  label: rash wish with literal harmful fulfillment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A spoken wish becoming literally and harmfully fulfilled fits performative
+    speech that binds or transforms reality.
+  cautions: If the wish is granted by a trickster or magical object, trickster or
+    sacred_treasures may be secondary mappings.
+  suggested_aliases:
+  - harmful_literal_wish_fulfillment
+  - rash_wish_fulfilled_literally
+  - dangerous_wish_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Raid-related Celtic Irish labels appear to fit the existing sacred_combat cattle-raid
+  cluster, but source context should verify mythic or ritual significance rather than
+  ordinary warfare description.
+- Several single-occurrence Inuit performance labels require human review because
+  the generated wording may be ethnographic or culturally specific rather than a reusable
+  motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1541
+  input_sha256: e1fb9a6f762bc132a6ff007b04489249c51ece4348f2a596f2cd6f11129e85d1
+

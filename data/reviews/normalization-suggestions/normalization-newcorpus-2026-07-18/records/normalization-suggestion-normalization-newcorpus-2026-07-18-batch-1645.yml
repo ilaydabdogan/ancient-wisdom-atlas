@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1645
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.work-diminished-when-watched
+  motif_id: work_diminished_when_watched
+  label: Work diminished when watched
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a magical labor taboo, secrecy condition, or episode-specific
+    comic detail; no existing group is a clear fit from the label alone.
+  cautions: Single occurrence and context-dependent; review whether watching breaks
+    enchantment, violates taboo, or is only plot mechanics.
+  suggested_aliases:
+  - watched_work_loses_power
+  - labor_taboo_against_witnessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.work-postponed-by-eating-and-sleep
+  motif_id: work_postponed_by_eating_and_sleep
+  label: Work postponed by eating and sleep
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads like an episode-level delay or behavioral detail rather than
+    a reusable symbolic or narrative motif.
+  cautions: If source context shows enchanted sleep, feast betrayal, or ritual feasting,
+    remap to storytelling_as_power, betrayal_violated_trust, or sacred_exchange as
+    appropriate.
+  suggested_aliases:
+  - delay_by_eating_and_sleeping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worthy-guest-comes-unbidden-to-a-worthy-feast
+  motif_id: worthy_guest_comes_unbidden_to_a_worthy_feast
+  label: Worthy guest comes unbidden to a worthy feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unbidden guest at a feast likely tests or reveals hospitality, honor,
+    and guest-worthiness.
+  cautions: If no test, obligation, divine disguise, or host-guest tension is present,
+    this may be only an episode detail; feast context could also involve sacred_exchange.
+  suggested_aliases:
+  - unbidden_worthy_guest
+  - guest_arrives_uninvited_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrathful-envoy-awakens-a-negligent-ally
+  motif_id: wrathful_envoy_awakens_a_negligent_ally
+  label: Wrathful envoy awakens a negligent ally
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: An envoy rousing an ally functions as intervention or guidance in a crisis,
+    especially if the envoy is divine or ritually charged.
+  cautions: If the scene is purely martial command or comic negligence, sacred_combat
+    or exclusion may be better; source evidence needed for sacred agency.
+  suggested_aliases:
+  - envoy_awakens_negligent_ally
+  - messenger_rouses_sleeping_ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrathful-leader-leads-massacre
+  motif_id: wrathful_leader_leads_massacre
+  label: wrathful leader leads massacre
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad violent action by a leader, but the sacred, moral,
+    or ritual function is unclear.
+  cautions: Could fit divine_judgment, sacred_combat, pride_and_downfall, or a culture-specific
+    historical/ethnographic episode; review carefully before indexing.
+  suggested_aliases:
+  - wrathful_chief_leads_massacre
+  - angered_leader_orders_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-threat-presented-before-the-deity
+  motif_id: written_threat_presented_before_the_deity
+  label: Written threat presented before the deity
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Presenting a written threat to a deity is an appeal for divine response
+    or intervention in human conflict.
+  cautions: May also involve theophany, covenant prayer, or divine_judgment if the
+    passage emphasizes revelation or punishment; preserve the written-document detail.
+  suggested_aliases:
+  - letter_laid_before_deity
+  - threat_presented_to_god
+  - written_petition_for_divine_help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongdoer-punished-by-burning-in-a-barrel
+  motif_id: wrongdoer_punished_by_burning_in_a_barrel
+  label: Wrongdoer punished by burning in a barrel
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is wrongdoing followed by punitive moral reckoning;
+    the barrel-burning method is granular evidence.
+  cautions: Do not promote the execution method as canonical unless it recurs; if
+    punishment is trickster revenge rather than sacred judgment, review placement.
+  suggested_aliases:
+  - wrongdoer_burned_as_punishment
+  - punitive_burning_of_wrongdoer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-righteous-aided-after-expulsion
+  motif_id: wronged_righteous_aided_after_expulsion
+  label: wronged righteous aided after expulsion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aid to a wronged righteous figure after expulsion fits providential guidance
+    and protection after unjust rejection.
+  cautions: Could also support divine_judgment if persecutors are punished, or hero_journey
+    if the expulsion begins a transformative exile.
+  suggested_aliases:
+  - righteous_exile_divinely_aided
+  - wronged_righteous_helped_after_banishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-youth-sold-for-a-small-price
+  motif_id: wronged_youth_sold_for_a_small_price
+  label: wronged youth sold for a small price
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A wronged youth sold into danger may belong to the threatened or destined
+    child/youth complex when later sacred destiny is central.
+  cautions: If the point is betrayal, slavery/exile, or recognition rather than sacred
+    childhood, consider betrayal_violated_trust, hero_journey, or recognition_tokens_hidden_identity;
+    source context is needed.
+  suggested_aliases:
+  - destined_youth_sold_cheaply
+  - wronged_child_sold_for_small_price
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongful-condemnation-after-a-magical-disappearance
+  motif_id: wrongful_condemnation_after_a_magical_disappearance
+  label: Wrongful condemnation after a magical disappearance
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Wrongful condemnation aligns with false accusation and eventual vindication
+    patterns already grouped under divine_judgment.
+  cautions: If the disappearance itself is the main motif, shapeshifter, otherworld,
+    or divine_intervention may be relevant; verify whether vindication or judgment
+    occurs.
+  suggested_aliases:
+  - false_condemnation_after_disappearance
+  - wrongful_judgment_after_magical_absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific, and should
+  remain provisional until passage context confirms sacred, ritual, or narrative function.
+- Avoid treating violent or punitive details as divine judgment unless the source
+  frames the outcome as moral, cosmic, or sacred reckoning.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional mapping suggestions only; human review recommended for low-confidence
+    and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1645
+  input_sha256: a48e553f34772a00bda4a3bad63cd26e74b89cdd1df1856ec34b1c80fd09b0d7
+

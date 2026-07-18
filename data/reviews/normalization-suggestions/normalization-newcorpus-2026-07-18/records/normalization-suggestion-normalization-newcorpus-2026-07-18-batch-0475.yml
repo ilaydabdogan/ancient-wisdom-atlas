@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0475
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.balanced-character-substance-and-ornament
+  motif_id: balanced_character_substance_and_ornament
+  label: 'Balanced character: substance and ornament'
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label reads as an ethical wisdom teaching about cultivated character
+    and expression.
+  cautions: Single Confucian occurrence may be a doctrinal or commentary abstraction
+    rather than a narrative motif; sacred_law could be secondary if framed as social
+    order.
+  suggested_aliases:
+  - substance_and_ornament
+  - balanced_character_cultivation
+  - wen_and_zhi_balance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banquet-drink-causing-loss-of-speech-and-sleep
+  motif_id: banquet_drink_causing_loss_of_speech_and_sleep
+  label: Banquet drink causing loss of speech and sleep
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A drink at a feast alters consciousness and bodily capacity, matching
+    intoxicating or enchanted substance motifs.
+  cautions: If the passage emphasizes magical compulsion or plot device over substance,
+    storytelling_as_power or enchanting_music-related enchantment may be more relevant;
+    preserve banquet context as evidence detail.
+  suggested_aliases:
+  - enchanted_banquet_drink
+  - sleep_inducing_drink
+  - drink_causing_speechlessness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bardic-song-opens-bonds-and-releases-a-prisoner
+  motif_id: bardic_song_opens_bonds_and_releases_a_prisoner
+  label: Bardic song opens bonds and releases a prisoner
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Song acts as supernatural force that releases bonds and changes material
+    conditions.
+  cautions: Could also relate to storytelling_as_power if the emphasis is bardic verbal
+    art rather than music as compulsion; keep prisoner-release detail granular.
+  suggested_aliases:
+  - liberating_bardic_song
+  - song_opens_bonds
+  - music_releases_prisoner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-at-a-ford-with-place-name-etiology
+  motif_id: battle_at_a_ford_with_place_name_etiology
+  label: battle at a ford with place-name etiology
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The ford battle matches the existing sacred_combat cluster, especially
+    ford-duel and battle-site motifs.
+  cautions: The place-name explanation also relates to cosmic_origin's etiological
+    landscape naming; map there only if the naming etiology is the primary function.
+  suggested_aliases:
+  - ford_battle_etiology
+  - battle_site_place_name_etiology
+  - combat_at_ford_names_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-blood-consecrates-or-names-a-ford-of-destruction
+  motif_id: battle_blood_consecrates_or_names_a_ford_of_destruction
+  label: battle blood consecrates or names a ford of destruction
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood from battle marks and names a combat threshold, fitting the ford-combat
+    and ritual warfare cluster.
+  cautions: If the emphasis is blood as sacred substance or place-name etiology rather
+    than battle structure, sacred_law or cosmic_origin may be secondary.
+  suggested_aliases:
+  - blood_named_ford
+  - battle_blood_place_naming
+  - ford_consecrated_by_battle_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-name-explained-by-color-and-bloodlessness
+  motif_id: battle_name_explained_by_color_and_bloodlessness
+  label: Battle-name explained by color and bloodlessness
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to explain a specific battle name through local color/bloodlessness
+    detail rather than a reusable motif.
+  cautions: If source evidence shows a recurring etiological naming pattern, review
+    under cosmic_origin or sacred_combat; otherwise preserve as passage evidence only.
+  suggested_aliases:
+  - battle_name_etiology_by_color
+  - bloodless_battle_name_explanation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-named-after-slaughter
+  motif_id: battlefield_named_after_slaughter
+  label: battlefield named after slaughter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing group already includes place-name origins from violent death
+    or heroic events as etiological naming.
+  cautions: Despite the group label, this is landscape/toponym etiology rather than
+    cosmic creation; sacred_combat may be a secondary facet if battle is emphasized.
+  suggested_aliases:
+  - place_name_from_slaughter
+  - battlefield_toponymy
+  - slaughter_site_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-prophecy-of-slaughter-by-a-feared-warrior
+  motif_id: battlefield_prophecy_of_slaughter_by_a_feared_warrior
+  label: battlefield prophecy of slaughter by a feared warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is foretelling slaughter on a battlefield, a prophetic
+    revelation of future violence.
+  cautions: If the passage centers on warrior doom or combat honor, sacred_combat
+    or death_by_fate may be secondary; verify that prophecy is explicit, not just
+    narrative foreshadowing.
+  suggested_aliases:
+  - battlefield_prophecy
+  - prophecy_of_slaughter
+  - warrior_slaughter_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.believers-tested-through-possessions-persons-and-hostile-speech
+  motif_id: believers_tested_through_possessions_persons_and_hostile_speech
+  label: Believers tested through possessions, persons, and hostile speech
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing believers through losses and hostile speech fits moral trial
+    and sacred evaluation.
+  cautions: May be Qur'anic ethical instruction rather than narrative motif; initiation
+    or sacred_law could fit if the emphasis is discipline or commandment.
+  suggested_aliases:
+  - trial_of_believers
+  - faith_test_through_loss_and_speech
+  - believers_tested_by_adversity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-first-encountered-in-a-dream
+  motif_id: beloved_first_encountered_in_a_dream
+  label: Beloved first encountered in a dream
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dream mediates first encounter with the beloved, aligning with dream
+    vision as revelation or altered perception.
+  cautions: If the dream initiates an erotic or mystical quest, sacred_love may be
+    an important secondary mapping.
+  suggested_aliases:
+  - dream_encounter_with_beloved
+  - beloved_seen_in_dream
+  - dream_reveals_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Celtic Irish labels combine combat with place-name etiology; reviewers may
+  want consistent dual indexing between sacred_combat and cosmic_origin/toponymic
+  etiology.
+- Single-occurrence ethical or doctrinal abstractions should be checked against passage
+  evidence before promotion beyond group-level indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0475
+  input_sha256: 4fcc520da45eee07bbc45291bc2bcb28b7e13dc66decb42bcc09790f6ec5cb96
+

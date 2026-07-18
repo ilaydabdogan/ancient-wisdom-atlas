@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1388
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-reassurance-concealing-abandonment
+  motif_id: false_reassurance_concealing_abandonment
+  label: false reassurance concealing abandonment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates deception and abandonment, but the narrative function
+    is unclear from wording alone.
+  cautions: Could be betrayal, trickster deception, exile/abandonment, or an episode-specific
+    plot detail; needs source context.
+  suggested_aliases:
+  - deceptive reassurance before abandonment
+  - abandonment concealed by false comfort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - trickster
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-recognition-of-the-sought-woman
+  motif_id: false_recognition_of_the_sought_woman
+  label: False recognition of the sought woman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: False recognition is a reversal or failure of the recognition/identity-proof
+    pattern during a quest for a person.
+  cautions: If the scene is mainly romantic quest or mistaken identity without tokens,
+    preserve as granular evidence rather than canonical child.
+  suggested_aliases:
+  - mistaken recognition of sought woman
+  - failed recognition of beloved
+  - false identification of sought woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-recourse-to-a-forbidden-power
+  motif_id: false_recourse_to_a_forbidden_power
+  label: false recourse to a forbidden power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase combines illegitimate appeal and forbidden power, but 'false
+    recourse' is ambiguous without passage evidence.
+  cautions: May belong to forbidden_knowledge, divine_judgment, sacred_law, or be
+    a theological commentary artifact; review culturally specific context.
+  suggested_aliases:
+  - illicit appeal to forbidden power
+  - misplaced reliance on forbidden power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-refuge-in-a-foreign-shadow
+  motif_id: false_refuge_in_a_foreign_shadow
+  label: False refuge in a foreign shadow
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds metaphorical for misplaced protection or political-religious
+    dependence, not a clear motif group fit.
+  cautions: Could be divine judgment, covenant violation, royal politics, or a passage-specific
+    prophetic metaphor; do not map from wording alone.
+  suggested_aliases:
+  - misplaced refuge in foreign protection
+  - false sanctuary under another power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-report-corrected-by-investigation
+  motif_id: false_report_corrected_by_investigation
+  label: false report corrected by investigation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false report checked by investigation functions as a legal-ethical
+    norm for truthful social order.
+  cautions: If it is merely procedural narration rather than sacred instruction or
+    moral order, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - verification of false report
+  - investigation corrects rumor
+  - ethical verification of reports
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-rescue-as-deception
+  motif_id: false_rescue_as_deception
+  label: false rescue as deception
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rescue offer used as deception fits trickster or predatory deceptive
+    strategy patterns already grouped under trickster.
+  cautions: Could instead be betrayal if the deceiver has a trust/protector role;
+    source context should decide secondary mapping.
+  suggested_aliases:
+  - deceptive rescue offer
+  - feigned rescue
+  - rescue ruse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-rescue-by-sabotaged-rope
+  motif_id: false_rescue_by_sabotaged_rope
+  label: False rescue by sabotaged rope
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sabotaged rescue device makes the broken trust of rescue the central
+    narrative engine.
+  cautions: The rope detail is likely over-specific; if the scene is a trickster trap
+    rather than trust betrayal, trickster may be better.
+  suggested_aliases:
+  - sabotaged rescue rope
+  - betrayal during rescue
+  - false rescue through cut rope
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-retreat-report-dissolves-defenses
+  motif_id: false_retreat_report_dissolves_defenses
+  label: false retreat report dissolves defenses
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false military report that lowers defenses is a deceptive stratagem,
+    matching existing trickster children for war deception.
+  cautions: If the passage centers on sacred warfare rather than deception, sacred_combat
+    may be a secondary mapping.
+  suggested_aliases:
+  - false retreat ruse
+  - deceptive retreat report
+  - war stratagem by false report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-rivals-exposed-and-punished
+  motif_id: false_rivals_exposed_and_punished
+  label: false rivals exposed and punished
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure and punishment of false rivals fits moral reckoning and vindication
+    after deception.
+  cautions: If the main mechanism is identity proof, recognition_tokens_hidden_identity
+    may be equally important; label is broad and plot-resolution-like.
+  suggested_aliases:
+  - impostor rivals exposed
+  - false rivals punished
+  - deceptive rivals unmasked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-slayer-claimant-exposed-by-recognition-and-trophies
+  motif_id: false_slayer_claimant_exposed_by_recognition_and_trophies
+  label: False slayer claimant exposed by recognition and trophies
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Recognition signs and trophies expose a false claimant, directly matching
+    identity-proof and token-based recognition patterns.
+  cautions: Also touches warrior trophies and divine judgment; preserve the false-slayer
+    detail as granular evidence.
+  suggested_aliases:
+  - false hero exposed by trophies
+  - false slayer unmasked by tokens
+  - recognition trophies expose impostor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern deception with false claims or false reports;
+  use existing groups according to narrative function rather than creating a generic
+  falsehood group prematurely.
+- Single-occurrence, highly contextual labels should remain provisional until passage
+  evidence confirms recurring motif value.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for metaphorical
+    or theological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1388
+  input_sha256: 52111c8d352e5613f0569e979dbed2ff9bc111d83035ac6f203a249ed4701fa5
+

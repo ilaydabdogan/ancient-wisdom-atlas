@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0740
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-widow-resists-remarriage
+  motif_id: mourning_widow_resists_remarriage
+  label: mourning widow resists remarriage
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on mourning and fidelity after a spouse's death, fitting
+    the existing lament and mourning group.
+  cautions: Could also be a social-marriage or chastity motif if the passage emphasizes
+    remarriage norms more than grief.
+  suggested_aliases:
+  - widow refuses remarriage
+  - widowed fidelity in mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-woman-beside-slain-husband-in-the-wild
+  motif_id: mourning_woman_beside_slain_husband_in_the_wild
+  label: Mourning woman beside slain husband in the wild
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A woman mourning beside a slain husband is a specific scene of bereavement
+    and lament for the dead.
+  cautions: The wild setting and slain-husband detail should remain evidence notes
+    unless the scene recurs across sources.
+  suggested_aliases:
+  - wife mourns slain husband
+  - mourning beside slain spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murder-motivated-by-desire-for-another-man-s-wife
+  motif_id: murder_motivated_by_desire_for_another_man_s_wife
+  label: Murder motivated by desire for another man's wife
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sexual desire, murder, rivalry, and violated marriage
+    bonds without a clear existing best-fit group.
+  cautions: Could fit sacred_law, betrayal_violated_trust, sacred_love, divine_judgment,
+    or conflict depending on whether the passage stresses taboo, betrayal, punishment,
+    or violent rivalry.
+  suggested_aliases:
+  - wife-desire motivates murder
+  - adulterous desire leading to murder
+  - murder from marital rivalry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murdered-hero-exposed-at-beloved-s-threshold
+  motif_id: murdered_hero_exposed_at_beloved_s_threshold
+  label: Murdered hero exposed at beloved's threshold
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The exposed murdered hero at a beloved's threshold likely functions as
+    a tragic recognition or mourning scene.
+  cautions: Highly episode-specific; if the emphasis is corpse exposure or denied
+    burial, heroic_funeral_rites may be a better secondary mapping.
+  suggested_aliases:
+  - slain lover exposed at threshold
+  - murdered beloved at the doorway
+  - corpse placed at beloved's threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murdered-son-mourned-by-father
+  motif_id: murdered_son_mourned_by_father
+  label: murdered son mourned by father
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A father mourning a murdered son is a clear kinship lament scene.
+  cautions: If the passage emphasizes vengeance, succession, or heroic funeral obligations,
+    sacred_combat or heroic_funeral_rites may also apply.
+  suggested_aliases:
+  - father laments murdered son
+  - paternal mourning for slain son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murderer-s-house-entered-by-intended-bride
+  motif_id: murderer_s_house_entered_by_intended_bride
+  label: murderer’s house entered by intended bride
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a scene fragment involving bride, murderer, and dangerous
+    entry, but its narrative function is unclear.
+  cautions: Could be a bride test, perilous threshold, hidden danger, revenge setup,
+    or passage-specific plot detail; source context is needed.
+  suggested_aliases:
+  - bride enters murderer's house
+  - intended bride enters killer's dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-fidelity-of-separated-lovers
+  motif_id: mutual_fidelity_of_separated_lovers
+  label: Mutual fidelity of separated lovers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: Faithful love sustained through separation fits the existing sacred_love
+    group and its longing/fidelity children.
+  cautions: If the passage is purely domestic or courtly without sacred or quest significance,
+    treat as a love-theme evidence note rather than a major mythic pattern.
+  suggested_aliases:
+  - fidelity of separated lovers
+  - lovers remain faithful while apart
+  - separated lovers' mutual devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-rescue-between-lovers
+  motif_id: mutual_rescue_between_lovers
+  label: Mutual rescue between lovers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reciprocal rescue of lovers fits love as a quest-driving and transformative
+    force.
+  cautions: Could also map to hero_journey if the rescue sequence is primarily an
+    adventure ordeal rather than a love motif.
+  suggested_aliases:
+  - lovers rescue one another
+  - reciprocal rescue of beloveds
+  - mutual aid of lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-battle-comparison-to-indra-and-vritra
+  motif_id: mythic_battle_comparison_to_indra_and_vritra
+  label: Mythic battle comparison to Indra and Vritra
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a comparison to a mythic battle rather than the
+    battle motif itself.
+  cautions: If the passage actually narrates a chaos-monster combat, map that evidence
+    to divine_warrior or sacred_combat instead; do not index a mere simile as a motif.
+  suggested_aliases:
+  - comparison to Indra and Vritra
+  - Indra-Vritra battle simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-precedent-for-care-of-abandoned-children
+  motif_id: mythic_precedent_for_care_of_abandoned_children
+  label: mythic precedent for care of abandoned children
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mythic precedent grounding care for abandoned children functions as
+    sacred social obligation or ethical law.
+  cautions: Could fit miraculous_child if the abandoned child has sacred destiny,
+    or social_care/covenant if framed as communal duty; review source emphasis.
+  suggested_aliases:
+  - mythic sanction for child care
+  - care for abandoned children as sacred precedent
+  - abandoned child social obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, scene-level love/family motifs;
+  preserve granular wording as evidence notes unless recurrence supports new children.
+- The review bucket is love/family, but some labels are better handled under mourning,
+  sacred law, or meta-textual exclusion based on function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for low-confidence violent
+    bride/marriage items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0740
+  input_sha256: 5b47e8caed34cb8c0e3750e624035a12bf5a0da0ff127c3daa7e48b007d7810b
+

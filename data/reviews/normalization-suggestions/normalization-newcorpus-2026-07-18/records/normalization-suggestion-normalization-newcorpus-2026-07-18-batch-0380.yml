@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0380
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.overwhelming-divine-manifestation-on-a-mountain
+  motif_id: overwhelming_divine_manifestation_on_a_mountain
+  label: Overwhelming divine manifestation on a mountain
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly describes a divine manifestation; the mountain setting
+    is a common theophany/ascent context.
+  cautions: Could also be indexed secondarily under axis_mundi or cosmic_mountain
+    if the mountain itself is emphasized.
+  suggested_aliases:
+  - mountain theophany
+  - overwhelming theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pagan-gods-named-as-infernal-fiends
+  motif_id: pagan_gods_named_as_infernal_fiends
+  label: Pagan gods named as infernal fiends
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe polemical reinterpretation or demonization of
+    other deities rather than a recurring narrative motif.
+  cautions: Culturally and theologically sensitive; may be a commentary artifact or
+    sectarian classification rather than passage-level motif evidence.
+  suggested_aliases:
+  - demonization of rival gods
+  - foreign gods as demons
+  - pagan deities as infernal beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-divine-rescuers-kill-the-monster
+  motif_id: paired_divine_rescuers_kill_the_monster
+  label: Paired divine rescuers kill the monster
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a paired divine rescue role; monster-slaying is
+    present but the paired structure is distinctive.
+  cautions: If the passage emphasizes cosmic combat over the rescuing pair, sacred_combat
+    or divine_warrior may be better primary mappings.
+  suggested_aliases:
+  - divine pair slays monster
+  - paired rescuers monster-slaying
+  - twin rescuers kill monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-witnesses-as-sacred-trees-and-lamps
+  motif_id: paired_witnesses_as_sacred_trees_and_lamps
+  label: paired witnesses as sacred trees and lamps
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The paired witnesses form a symbolic double, with tree and lamp imagery
+    reinforcing sacred witness and complementarity.
+  cautions: Could also relate to axis_mundi for sacred trees, sacred_fire for lamps,
+    or divine_judgment if witness testimony is the main function.
+  suggested_aliases:
+  - paired sacred witnesses
+  - two witnesses as trees and lamps
+  - dual witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-drink-from-a-sacred-fountain
+  motif_id: paradisal_drink_from_a_sacred_fountain
+  label: Paradisal drink from a sacred fountain
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The focus is a sacred drink that confers paradisal blessing or delight,
+    fitting the sacred food/drink complex.
+  cautions: If the fountain as water-source or paradise geography is primary, sacred_waters
+    or afterlife_passage may be useful secondary mappings.
+  suggested_aliases:
+  - sacred paradisal drink
+  - drink from paradise fountain
+  - heavenly fountain drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-sacred-water-and-tree-as-sources-of-delight-and-clothing
+  motif_id: paradisal_sacred_water_and_tree_as_sources_of_delight_and_clothing
+  label: paradisal sacred water and tree as sources of delight and clothing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines paradise setting, sacred water, sacred tree, delight,
+    and clothing in one highly specific composite.
+  cautions: May need splitting into sacred_waters, sacred_tree_axis, sacred_substance,
+    or afterlife reward depending on the passage evidence; avoid promoting the full
+    composite as canonical.
+  suggested_aliases:
+  - paradisal water and tree
+  - heavenly water and tree of delight
+  - paradise tree and water provide garments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradise-prepared-for-the-godly-as-reward
+  motif_id: paradise_prepared_for_the_godly_as_reward
+  label: Paradise prepared for the godly as reward
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Paradise as reward for the godly is a moral reckoning outcome tied to
+    divine evaluation of conduct.
+  cautions: If the passage maps paradise as a postmortem realm, afterlife_passage
+    may also be relevant; do not conflate all paradise imagery with judgment.
+  suggested_aliases:
+  - paradise as reward
+  - heavenly reward for the righteous
+  - afterlife reward for the godly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-curse-delivers-child-to-demonic-powers
+  motif_id: parental_curse_delivers_child_to_demonic_powers
+  label: parental curse delivers child to demonic powers
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The causal force is a parental curse whose utterance binds or transfers
+    the child to dangerous powers.
+  cautions: Could also involve persecuted child or demonic abduction motifs if the
+    narrative centers on the child rather than the speech act.
+  suggested_aliases:
+  - parental curse binds child
+  - curse delivers child to demons
+  - performative parental curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.part-divine-hero
+  motif_id: part_divine_hero
+  label: Part-divine hero
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: role_variant
+  confidence: medium
+  rationale: A hero of partial divine origin fits the divine parentage and extraordinary
+    birth complex.
+  cautions: If the passage only identifies status without birth narrative, this may
+    be an identity descriptor rather than a motif; royal_legitimacy may apply when
+    rule is authorized by divine descent.
+  suggested_aliases:
+  - semi-divine hero
+  - demigod hero
+  - hero of divine parentage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partisan-divine-intervention-in-human-war
+  motif_id: partisan_divine_intervention_in_human_war
+  label: partisan divine intervention in human war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes direct divine action in human affairs, specifically
+    taking sides in war.
+  cautions: If the combat itself is sacralized or cosmic, sacred_combat or divine_warrior
+    may be useful secondary mappings.
+  suggested_aliases:
+  - divine intervention in battle
+  - god takes sides in war
+  - partisan gods in warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence composites; preserve local evidence details
+  and avoid promoting them without recurrence.
+- Paradise imagery may map differently depending on whether the passage emphasizes
+  reward, geography, sacred drink, water, or tree symbolism.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for polemical deity
+    labels and composite paradise imagery.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0380
+  input_sha256: 0ee98c2d09ad4971d713e47ed133d16f76046de7342d231b732f3fe34a48d249
+

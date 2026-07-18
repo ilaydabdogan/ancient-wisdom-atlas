@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0339
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.four-colored-ritual-sweat-house-preparation
+  motif_id: four_colored_ritual_sweat_house_preparation
+  label: Four-colored ritual sweat-house preparation
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A sweat-house preparation with color symbolism suggests ritual purification
+    or ordered ritual practice, but the label is culturally specific and under-evidenced.
+  cautions: Review Navajo source context carefully; may involve ceremonial directions,
+    healing, purification, or a passage-specific ethnographic detail rather than a
+    broad motif.
+  suggested_aliases:
+  - ritual_sweat_house_preparation
+  - four_color_ritual_preparation
+  - sweat_house_purification_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-protective-rite
+  motif_id: four_direction_protective_rite
+  label: Four-direction protective rite
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective rite organized by four directions fits the existing apotropaic
+    and ritual-prohibition material under sacred_law.
+  cautions: If the passage emphasizes cosmic spatial ordering rather than protection,
+    axis_mundi or world_center may be a better secondary placement.
+  suggested_aliases:
+  - cardinal_direction_protective_rite
+  - four_directions_apotropaic_rite
+  - four_direction_ritual_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-directional-ritual-entrance
+  motif_id: four_directional_ritual_entrance
+  label: Four-directional ritual entrance
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual entry through four directions may mark sacred spatial orientation
+    around a center or threshold.
+  cautions: Could instead belong with initiation, sacred_law, or a local ceremonial
+    practice; source evidence is needed before treating it as a general axis or center
+    motif.
+  suggested_aliases:
+  - four_direction_ritual_entry
+  - cardinal_ritual_entrance
+  - ritual_entrance_by_four_directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-call-before-divine-appearance
+  motif_id: fourfold_call_before_divine_appearance
+  label: fourfold call before divine appearance
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A repeated call that precedes divine appearance functions as ritual preparation
+    for theophany.
+  cautions: If the emphasis is the spoken formula itself rather than manifestation,
+    curse_blessing_speech or storytelling_as_power may be relevant; preserve fourfold
+    detail as local evidence.
+  suggested_aliases:
+  - ritual_call_before_theophany
+  - fourfold_invocation_before_divine_manifestation
+  - repeated_call_summons_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-cardinal-ordering-of-sacred-city-space
+  motif_id: fourfold_cardinal_ordering_of_sacred_city_space
+  label: Fourfold cardinal ordering of sacred city space
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: high
+  rationale: A sacred city ordered by four cardinal divisions fits world center and
+    axis-mundi spatial organization.
+  cautions: May also support royal_legitimacy or sacred_law if the passage emphasizes
+    political order or ritual regulation; avoid inferring shared origin across traditions.
+  suggested_aliases:
+  - cardinal_ordering_of_sacred_city
+  - fourfold_sacred_city_space
+  - quadripartite_sacred_city_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-formulaic-prayer-ending
+  motif_id: fourfold_formulaic_prayer_ending
+  label: Fourfold formulaic prayer ending
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: low
+  rationale: A formulaic prayer ending is a ritual speech act, but the label may describe
+    textual or liturgical structure more than a motif.
+  cautions: Could be excluded as a passage/formula artifact if it only notes repetition
+    in a prayer; review whether the speech is performative or narratively consequential.
+  suggested_aliases:
+  - fourfold_prayer_formula
+  - formulaic_prayer_closure
+  - ritual_prayer_ending
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-repetition-marking-divine-action
+  motif_id: fourfold_repetition_marking_divine_action
+  label: fourfold repetition marking divine action
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label links fourfold repetition with divine action, but it may be
+    a narrative or ritual style marker rather than a motif.
+  cautions: Review whether the fourfold repetition has ritual efficacy, signals sacred
+    presence, or is only a generated observation about formulaic narration.
+  suggested_aliases:
+  - fourfold_repetition_of_divine_action
+  - repetition_marking_divine_action
+  - ritual_repetition_signaling_divine_agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-ritual-pattern
+  motif_id: fourfold_ritual_pattern
+  label: Fourfold ritual pattern
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: broader_label
+  confidence: low
+  rationale: A repeated fourfold ritual structure broadly fits ritual order, but the
+    label is too general to place confidently.
+  cautions: May be a structural description rather than a symbolic motif; consider
+    consolidating with other fourfold ritual labels only after source review.
+  suggested_aliases:
+  - fourfold_ceremonial_pattern
+  - quadripartite_ritual_pattern
+  - four_part_ritual_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-ritual-repetition
+  motif_id: fourfold_ritual_repetition
+  label: Fourfold ritual repetition
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual repetition belongs broadly with regulated sacred practice, but
+    fourfold repetition alone is not enough for a confident motif mapping.
+  cautions: Could be merged with fourfold_ritual_pattern after review; preserve as
+    evidence detail unless repetition has explicit ritual function or cosmological
+    meaning.
+  suggested_aliases:
+  - four_times_ritual_repetition
+  - ritual_repetition_in_fours
+  - fourfold_ceremonial_repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-ritualized-repetition
+  motif_id: fourfold_ritualized_repetition
+  label: Fourfold ritualized repetition
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes ritualized repetition in fours, which broadly fits
+    sacred ritual order but lacks specific function.
+  cautions: Likely overlaps with fourfold_ritual_repetition and fourfold_ritual_pattern;
+    avoid proliferating near-duplicate motifs without human consolidation.
+  suggested_aliases:
+  - fourfold_ceremonial_repetition
+  - ritualized_repetition_in_fours
+  - four_times_ritualized_repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many items in this batch are single-occurrence fourfold ritual labels from Navajo
+  or Pueblo-related contexts; they should be reviewed for cultural specificity and
+  possible consolidation rather than automatically promoted.
+- A future review-only grouping such as fourfold_cardinal_ritual_order may be useful
+  if four-direction/fourfold ritual structures recur across enough passages, but current
+  evidence is too thin to propose a new canonical group here.
+- Do not treat fourfold patterning as evidence of transmission; these suggestions
+  only address indexing placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: model:openai/o3
+  reviewed_at: ''
+  notes: Provisional placements; human review recommended for culturally specific
+    ceremonial labels and near-duplicate fourfold repetition motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0339
+  input_sha256: 88e3db127017b6f555e68e213dd1730bf5d357652193a50c2219ad68865cfc1a
+

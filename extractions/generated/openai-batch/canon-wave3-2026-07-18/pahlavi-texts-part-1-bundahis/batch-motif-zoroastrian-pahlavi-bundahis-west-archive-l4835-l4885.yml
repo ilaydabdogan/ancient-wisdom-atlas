@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l4835-l4885
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    VIII,    3-X,    I.  31 / Chapter  X. / Chapter  XI. / CHAPTER    X,    2
+    -XI,  5.  33; lines 4835-4885
+  start: '4835'
+  end: '4885'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes seven regions arranged around the middle region Khvaniras.
+    Khvaniras is encircled by sea and separated from other regions by a lofty mountain
+    barrier. It is the place where benefits, heroic groups, the Mazdayasnian religion,
+    and Soshyans are located or originate, while the evil spirit also acts there most
+    strongly until made impotent by Soshyans.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The term keshvar is applied to the regions, which are described as existing
+    side by side.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The passage lists seven regions: Savah on the east, Arzah on the west, Frada^^afsh
+    and Vidart^afsh on the south, Vorubar^t and Voru^ar^-t on the north, and Khvaniras
+    in the middle.'
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Khvaniras has the sea because part of the wide-formed ocean winds around it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A lofty mountain grew up from the two northern regions, making travel from
+    region to region impossible.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Every benefit is said to have been created most in Khvaniras.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The evil spirit is said to have produced most for Khvaniras because of the
+    superiority seen in it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Kayanians, heroes, and the good religion of the Mazdayasnians were created
+    in Khvaniras; the religion was afterwards conveyed to the other regions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Soshyans is born in Khvaniras, makes the evil spirit impotent, and causes
+    resurrection and future existence.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: 'A supplied note says related Pahlavi passages add an exception to the impossibility
+    of travel between regions: permission of angels or demons.'
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Evil spirit
+  description: Entity said to produce most for Khvaniras and to be made impotent by
+    Soshyans.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Kayanians and heroes
+  description: Groups said to have been created in Khvaniras.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Soshyans
+  description: Figure born in Khvaniras who makes the evil spirit impotent and causes
+    resurrection and future existence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: producer of evil and defeated adversary
+  assigned_to:
+  - fig:1
+  basis: The evil spirit produces most for Khvaniras and is later made impotent by
+    Soshyans.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: created heroic groups
+  assigned_to:
+  - fig:2
+  basis: The Kayanians and heroes are explicitly said to have been created in Khvaniras.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: resurrection agent
+  assigned_to:
+  - fig:3
+  basis: Soshyans is born in Khvaniras and causes resurrection and future existence
+    after making the evil spirit impotent.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Seven keshvar regions
+  literal_form: A set of seven named world regions arranged around a middle region.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Khvaniras
+  literal_form: The middle region among the seven regions.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Sea or wide-formed ocean
+  literal_form: A part of the wide-formed ocean winding around Khvaniras.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Lofty mountain barrier
+  literal_form: A lofty mountain growing up from the two northern regions and preventing
+    passage between regions.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Arrangement of seven regions
+  summary: The passage maps six named surrounding regions around Khvaniras, the middle
+    region.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ocean and mountain boundary
+  summary: Khvaniras is associated with the sea, while a lofty mountain from the northern
+    regions prevents travel from one region to another.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Concentration of benefit and evil in Khvaniras
+  summary: Khvaniras is described as the region with the most created benefit, and
+    also as the place where the evil spirit produced most because of its superiority.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Heroes, religion, and Soshyans in Khvaniras
+  summary: The Kayanians, heroes, and Mazdayasnian religion originate in Khvaniras;
+    the religion is conveyed to other regions, and Soshyans is born there to defeat
+    the evil spirit and cause resurrection and future existence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Seven-region world with a privileged center
+  taxonomy_refs:
+  - world_center
+  basis: Khvaniras is named as the middle region among seven and is the locus of the
+    greatest benefits, heroes, religion, and Soshyans.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy label 'world_center' is interpretive; the passage itself
+    uses geographical and evaluative descriptions rather than that exact term.
+- id: motif:2
+  label: Mountain-ocean boundary between world regions
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The passage describes ocean around Khvaniras and a lofty mountain arising
+    from northern regions so that movement between regions is impossible.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The mountain functions as a cosmological barrier here; the passage does
+    not explicitly describe it as an axis or central cosmic mountain.
+- id: motif:3
+  label: Concentration of benefit and evil in the same region
+  taxonomy_refs:
+  - duality
+  basis: Khvaniras is described as receiving the most created benefit while also being
+    the place where the evil spirit produced most.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The duality is thematic rather than expressed through a formal paired
+    figure structure in this excerpt.
+- id: motif:4
+  label: Savior-linked resurrection and future existence
+  taxonomy_refs:
+  - resurrection
+  basis: Soshyans is born in Khvaniras, makes the evil spirit impotent, and causes
+    resurrection and future existence.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the eschatological outcome but does not narrate the
+    resurrection event in detail.
+comparison_claims:
+- id: claim:1
+  claim: The supplied note connects the passage's impassable-region statement with
+    Pahlavi Vendidad I, 4a and Mainyo-i-khard IX, 6, where an exception is added for
+    movement by permission of angels or demons.
+  claim_level: same_function
+  target: Pahlavi Vendidad I, 4a and Mainyo-i-khard IX, 6, as cited in the supplied
+    note
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison relies only on the translator's note included in the
+    supplied passage; the cited parallel passages themselves are not provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter X, 2-XI, 5.33, section 3; lines 4835-4843
+  quote_or_summary: The passage applies keshvar to the regions and lists Savah, Arzah,
+    two southern regions, two northern regions, and Khvaniras in the middle.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: Chapter X, 2-XI, 5.33, section 4; lines 4843-4850
+  quote_or_summary: Khvaniras has the sea; part of the wide-formed ocean winds around
+    it, and a lofty mountain from the northern regions makes travel from region to
+    region impossible.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: Chapter X, 2-XI, 5.33, section 5; lines 4851-4856
+  quote_or_summary: Every benefit is created most in Khvaniras, and the evil spirit
+    also produced most for Khvaniras because of the superiority seen there.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: Chapter X, 2-XI, 5.33, section 6; lines 4856-4864
+  quote_or_summary: Kayanians, heroes, and the Mazdayasnian religion are created in
+    Khvaniras; the religion is conveyed to other regions; Soshyans is born there and
+    causes resurrection and future existence.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: note
+  locator: Footnote 2 to Chapter X, 2-XI, 5.33; lines 4869-4873
+  quote_or_summary: 'The note says Pahlavi Vendidad I, 4a and Mainyo-i-khard IX, 6
+    add an exception to travel between regions: permission of angels or demons.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized translator note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main geographical and eschatological claims are explicit. Motif labels
+    require cautious taxonomy mapping, especially for the mountain boundary and world-center
+    categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line range includes translator footnotes; the comparison claim uses only the supplied note.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l4835-l4885
+  passage_sha256=ba20e3ec0c8bb77397f93f91c65f9760209f718da81f22e42e027c8767c1f993
+

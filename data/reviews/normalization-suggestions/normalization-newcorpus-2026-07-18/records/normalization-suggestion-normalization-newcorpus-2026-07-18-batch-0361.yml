@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0361
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.irrevocable-divine-sign-that-fixes-fate
+  motif_id: irrevocable_divine_sign_that_fixes_fate
+  label: irrevocable divine sign that fixes fate
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on fate being fixed by a divine sign, fitting destiny-governance
+    more than sacrifice or ritual purity.
+  cautions: Could instead be prophecy_divination or divine_judgment if the sign functions
+    mainly as omen or punishment; source context needed.
+  suggested_aliases:
+  - divine_sign_fixes_fate
+  - irrevocable_fate_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irrevocable-spoken-blessing
+  motif_id: irrevocable_spoken_blessing
+  label: Irrevocable spoken blessing
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: child
+  confidence: high
+  rationale: An irrevocable blessing is a performative sacred speech act whose utterance
+    binds events or status.
+  cautions: If embedded in covenant succession, covenant or royal_legitimacy may be
+    secondary mappings.
+  suggested_aliases:
+  - binding_spoken_blessing
+  - irrevocable_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.itinerant-sacred-relic-vessel
+  motif_id: itinerant_sacred_relic_vessel
+  label: itinerant sacred relic vessel
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core object is a sacred vessel containing or mediating relic power,
+    matching the sacred container group.
+  cautions: If the emphasis is relic devotion or shrine pilgrimage rather than the
+    container, sacred_treasures may be more appropriate.
+  suggested_aliases:
+  - relic_vessel
+  - mobile_relic_container
+  - itinerant_reliquary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-kinswoman-curses-or-destroys-children
+  motif_id: jealous_kinswoman_curses_or_destroys_children
+  label: jealous kinswoman curses or destroys children
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: high
+  rationale: A jealous female kinswoman harming children closely matches the existing
+    persecuted-child household jealousy complex.
+  cautions: If the curse itself is the primary sacred mechanism, curse_blessing_speech
+    may be a secondary mapping.
+  suggested_aliases:
+  - jealous_kinswoman_harms_children
+  - jealous_woman_curses_children
+  - persecuted_children_by_jealous_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.judged-objects-transformed-into-a-sacred-warning-sign
+  motif_id: judged_objects_transformed_into_a_sacred_warning_sign
+  label: Judged objects transformed into a sacred warning sign
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Objects transformed into a warning sign after judgment function as material
+    evidence of sacred punishment or moral reckoning.
+  cautions: Could be too episode-specific; if the transformation of objects is central,
+    sacred_treasures or death_and_transformation may be secondary only with evidence.
+  suggested_aliases:
+  - judgment_sign_object_transformation
+  - sacred_warning_sign_from_judged_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.just-governance-under-divine-command
+  motif_id: just_governance_under_divine_command
+  label: just governance under divine command
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Governance authorized and directed by divine command fits sacred kingship
+    and legitimate rule under divine sanction.
+  cautions: If the label refers to general law or ethics rather than a ruler’s authority,
+    sacred_law or covenant may be better.
+  suggested_aliases:
+  - divinely_commanded_just_rule
+  - just_rule_under_divine_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.justice-as-witness-before-god
+  motif_id: justice_as_witness_before_god
+  label: Justice as witness before God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: Justice appearing as witness before God belongs to moral reckoning and
+    divine evaluation of deeds.
+  cautions: May be an ethical teaching rather than a narrative motif; consider sacred_law
+    if it functions as legal exhortation.
+  suggested_aliases:
+  - justice_witness_before_god
+  - justice_as_divine_witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kapu-sacred-place-guarded-by-attendants
+  motif_id: kapu_sacred_place_guarded_by_attendants
+  label: Kapu sacred place guarded by attendants
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Kapu indicates sacred restriction or taboo around place, broadly fitting
+    sacred law and ritual prohibition.
+  cautions: Culturally specific kapu practice should be reviewed by a human; guarded
+    sacred place could also fit threshold_guardian or axis_mundi depending on function.
+  suggested_aliases:
+  - taboo_sacred_place_guarded
+  - kapu_restricted_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-of-a-ruler-after-removal-from-an-altar
+  motif_id: killing_of_a_ruler_after_removal_from_an_altar
+  label: Killing of a ruler after removal from an altar
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Removal from an altar before killing centers on sanctuary violation,
+    supplication, and sacred-place protection rules.
+  cautions: If the ruler’s status is central, royal_legitimacy or divine_judgment
+    may be relevant; label may be episode-specific.
+  suggested_aliases:
+  - sanctuary_violation_against_ruler
+  - ruler_killed_after_sanctuary_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-of-a-suppliant-at-an-altar
+  motif_id: killing_of_a_suppliant_at_an_altar
+  label: killing of a suppliant at an altar
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Killing a suppliant at an altar is a violation of sacred sanctuary and
+    supplication norms.
+  cautions: Could also support divine_judgment if the passage emphasizes punishment
+    for the violation; preserve altar/suppliant specificity as evidence.
+  suggested_aliases:
+  - altar_suppliant_killing
+  - sanctuary_violation_against_suppliant
+  - killing_at_altar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern sacred law, sanctuary, and performative speech
+  rather than sacrifice in the narrow sense.
+- Single-occurrence, culturally specific labels should remain provisional and be checked
+  against source passages before promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0361
+  input_sha256: bd92da2b6f411d2fc1b5646710d71fb1558beda593895180d4ee435d0fe88ee6
+

@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.native-american-myths-of-cherokee-mooney-gutenberg-l6778-l6787
+source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+passage_locator:
+  label: THE REMOVAL--1838-39 / THE ARKANSAS BAND--1817-1838 / THE TEXAS BAND--1817-1900
+    / THE CHEROKEE NATION IN THE WEST--1840-1900; lines 6778-6787
+  start: '6778'
+  end: '6787'
+  translation: Myths of the Cherokee
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes the 1898 census of the Cherokee Nation as reported
+    by Agent Wisdom, gives demographic categories and totals, states the Nation's
+    total acreage and a hypothetical per-capita allotment under the Curtis bill, and
+    notes disputed claims on the official rolls.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The 1898 census is described as the most recent census and as reported by
+    Agent Wisdom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Cherokee Nation is said to have numbered 34,461 persons in the 1898 census.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The census breakdown lists Cherokee by blood, intermarried whites, negro freedmen,
+    Delaware, and Shawnee, with numerical totals for each category.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The total acreage of the Nation is given as 5,031,351 acres.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After deducting 60,000 acres reserved for town-site and other purposes, a
+    hypothetical per-capita division under the Curtis bill would give each Cherokee
+    citizen 144 acres.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage notes that official rolls include many persons whose claims are
+    disputed by Cherokee authorities.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agent Wisdom
+  description: The agent who is said to have reported the 1898 census figures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cherokee Nation
+  description: The polity or collective population counted at 34,461 persons and associated
+    with 5,031,351 acres.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Cherokee authorities
+  description: Authorities who dispute the claims of many persons included on the
+    official rolls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reporting agent
+  assigned_to:
+  - fig:1
+  basis: The census is described as reported by Agent Wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: census population and landholding nation
+  assigned_to:
+  - fig:2
+  basis: The passage gives the Cherokee Nation's census population and total acreage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: disputing authority
+  assigned_to:
+  - fig:3
+  basis: The passage states that Cherokee authorities dispute claims by many persons
+    on the official rolls.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: 1898 census and acreage summary
+  summary: A historical administrative summary reports population categories for the
+    Cherokee Nation, states total acreage, describes a hypothetical land division
+    under the Curtis bill, and notes disputes over official-roll claims.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6778-6779
+  quote_or_summary: The 1898 census, described as the most recent and as reported
+    by Agent Wisdom, gives the Cherokee Nation's total population as 34,461 persons.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6780-6782
+  quote_or_summary: The population is broken down into Cherokee by blood, intermarried
+    whites, negro freedmen, Delaware, and Shawnee, with stated counts for each group.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6782-6786
+  quote_or_summary: The Nation's total acreage is stated as 5,031,351 acres; after
+    deducting 60,000 reserved acres, a Curtis-bill per-capita division would give
+    each Cherokee citizen 144 acres.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6786-6787
+  quote_or_summary: The passage notes that official rolls include many persons whose
+    claims are disputed by Cherokee authorities.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an administrative-historical census and land-allotment summary,
+    not a mythic narrative. No motif, symbol, or comparison claims are supported by
+    the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol refs are applied because the passage does not present mythic symbols or narrative motifs.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-myths-of-cherokee-mooney-gutenberg__l6778-l6787
+  passage_sha256=85f1fbba1b1087b590457214619d6cb85e3673b60f289404d1b728881e77f16a
+

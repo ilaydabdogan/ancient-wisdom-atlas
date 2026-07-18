@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0606
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hospitality-banquet-with-rank-ordering-and-favored-portion
+  motif_id: hospitality_banquet_with_rank_ordering_and_favored_portion
+  label: hospitality banquet with rank ordering and favored portion
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on banquet hospitality and guest treatment, with rank
+    and favored portion as social-order details.
+  cautions: If the passage is primarily about royal hierarchy or succession rather
+    than hosting obligation, royal_legitimacy or sacred_law may be secondary.
+  suggested_aliases:
+  - ranked banquet hospitality
+  - favored portion at banquet
+  - hospitality feast with honor ranking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-masking-lethal-intent
+  motif_id: hospitality_masking_lethal_intent
+  label: hospitality masking lethal intent
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: False hospitality used to conceal killing makes violated trust the core
+    narrative engine.
+  cautions: Could also relate to hospitality_test_stranger_guest if the focus is breach
+    of guest-host duty rather than betrayal plot.
+  suggested_aliases:
+  - treacherous hospitality
+  - murderous hospitality
+  - feast hospitality conceals killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-stop-at-a-kinsman-s-city
+  motif_id: hospitality_stop_at_a_kinsman_s_city
+  label: hospitality stop at a kinsman's city
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a travel or episode detail unless the kinsman-hosting
+    obligation is tested or violated.
+  cautions: Map to hospitality_test_stranger_guest only if the passage emphasizes
+    sacred guest-host duty, refusal, test, or breach.
+  suggested_aliases:
+  - kinsman hospitality stop
+  - lodging at a kinsman's city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-a-lodging-seeking-stranger
+  motif_id: hospitality_to_a_lodging_seeking_stranger
+  label: hospitality to a lodging-seeking stranger
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: A stranger seeking lodging is a direct instance of the host-stranger
+    hospitality pattern.
+  cautions: If no test, danger, or moral obligation is present, this may be a simple
+    scene detail rather than a durable motif.
+  suggested_aliases:
+  - lodging-seeking stranger
+  - hospitality to stranger guest
+  - sheltering a stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-a-speaking-animal-stranger
+  motif_id: hospitality_to_a_speaking_animal_stranger
+  label: hospitality to a speaking animal stranger
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The speaking animal functions as a strange guest whose reception tests
+    hospitality norms.
+  cautions: May also involve animal helper, shapeshifter, or trickster functions;
+    confirm whether the animal is guest, messenger, disguise, or supernatural tester.
+  suggested_aliases:
+  - animal stranger guest
+  - speaking animal guest
+  - hospitality to animal visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-king-pacifies-warrior-guest
+  motif_id: host_king_pacifies_warrior_guest
+  label: Host king pacifies warrior guest
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: role_variant
+  confidence: medium
+  rationale: A king as host managing a dangerous guest fits hospitality obligation
+    in a courtly power setting.
+  cautions: If emphasis falls on royal conflict management, warrior honor, or political
+    order, royal_legitimacy or sacred_combat may be better secondary groups.
+  suggested_aliases:
+  - king pacifies guest
+  - warrior guest pacified by host
+  - royal host calms warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-cosmic-rulers-mock-the-suffering-supplicant
+  motif_id: hostile_cosmic_rulers_mock_the_suffering_supplicant
+  label: hostile cosmic rulers mock the suffering supplicant
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Cosmic rulers responding to a supplicant may involve judgment, hostile
+    archons, or cosmological oppression.
+  cautions: Gnostic context is culturally and theologically specific; source evidence
+    is needed before mapping to divine_judgment, pride_and_downfall, supplication,
+    or cosmic sovereignty.
+  suggested_aliases:
+  - hostile cosmic rulers
+  - mocked suffering supplicant
+  - archontic mockery of supplicant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-foreigners-seeking-men-to-eat
+  motif_id: hostile_foreigners_seeking_men_to_eat
+  label: hostile foreigners seeking men to eat
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe enemy cannibalism, monstrous outsiders, war propaganda,
+    or a passage-specific threat.
+  cautions: Culturally sensitive wording and source context are required; avoid treating
+    ethnicized hostility as a normalized motif without evidence of a recurring narrative
+    function.
+  suggested_aliases:
+  - cannibal hostile outsiders
+  - foreign enemies seek human prey
+  - man-eating hostile strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-in-law-sets-a-lethal-animal-ordeal
+  motif_id: hostile_in_law_sets_a_lethal_animal_ordeal
+  label: Hostile in-law sets a lethal animal ordeal
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lethal trial imposed by an affinal relative functions as an ordeal
+    that tests status or worthiness.
+  cautions: Could fit sacred_love or marriage-contest patterns if tied to bride-winning,
+    or animals_trickster contexts if animal agency is central.
+  suggested_aliases:
+  - in-law imposes lethal ordeal
+  - animal ordeal set by in-law
+  - affinal hostility ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-mother-in-law-steals-newborn-children
+  motif_id: hostile_mother_in_law_steals_newborn_children
+  label: hostile mother-in-law steals newborn children
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile female in-law stealing newborns fits the household persecution
+    of children by a rival caretaker figure.
+  cautions: If the emphasis is miraculous birth, hidden royal heirs, or recognition,
+    miraculous_child or recognition_tokens_hidden_identity may be secondary mappings.
+  suggested_aliases:
+  - mother-in-law steals children
+  - hostile in-law abducts newborns
+  - persecuted newborns by mother-in-law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around hospitality and guest-host obligation; most can be
+  reviewed under hospitality_test_stranger_guest unless the passage emphasizes betrayal,
+  royal hierarchy, or ordinary travel detail.
+- Items involving hostile foreigners or culturally specific cosmic rulers should receive
+  source-context review before normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    and single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0606
+  input_sha256: 488f67e4fabfe82b501570a90f153fe14e8b1e33f0144805e90a9efedf046fd5
+

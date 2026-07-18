@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l24233-l24401
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: SI.  16,  6. / INDEX. / PAHLAVI    TEXTS. / INDEX.; lines 24233-24401
+  start: '24233'
+  end: '24401'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index section listing topics, persons, places, ritual objects,
+    religious offices, afterlife realms, and citations to passages elsewhere in the
+    volume.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section rather than a continuous narrative passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heaven is indexed with the descriptor that it is not to be despaired of.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hell is indexed as described elsewhere, as an abode of demons, for the wicked,
+    with a gate, purification, and grades.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage indexes several rivers, including Helmand, Hendva, Hetumand, Hiddekel,
+    and Iaxartes.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage indexes religious offices and ritual items, including high-priest,
+    holy-water, Horn, Homast rite, prayers, and nask references.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:6
+  text: Horn is indexed as an angel and also in association with dron, juice, mortar,
+    tree, and twigs.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Horvadart is indexed as an angel and also as a month and yast.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: Hoshyang is indexed as a king.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: The passage indexes idols, idolatry, and idolators.
+  category: object
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Horn
+  description: Listed as an angel and also connected in the index with dron, juice,
+    mortar, tree, and twigs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Horvadart
+  description: Listed as an angel; the entry also mentions a month and yast.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: Hoshyang
+  description: Listed as a king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:4
+  name_or_label: High-priest / dastur
+  description: Indexed as a high-priestly office, with related priestly terms and
+    a supreme form noted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Demons
+  description: Hell is indexed as the abode of demons.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: The wicked
+  description: Hell is indexed as being for the wicked.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Hijshe/ar
+  description: Listed as an apostle in the index spelling supplied in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:12
+- id: fig:8
+  name_or_label: Hushefl'ar-mah
+  description: Listed as an apostle in the index spelling supplied in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: angel
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The index explicitly marks Horn and Horvadart as angels.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:2
+  label: king
+  assigned_to:
+  - fig:3
+  basis: The index explicitly marks Hoshyang as king.
+  evidence_refs:
+  - ev:10
+- id: role:3
+  label: high-priestly office
+  assigned_to:
+  - fig:4
+  basis: The index entry is for high-priest and includes dastur and related priestly
+    terms.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: denizens of Hell
+  assigned_to:
+  - fig:5
+  basis: The Hell entry says Hell is an abode of demons.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: wicked associated with Hell
+  assigned_to:
+  - fig:6
+  basis: The Hell entry says Hell is for the wicked.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: apostle
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Both named entries are explicitly marked as apostles.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: Hell
+  literal_form: Afterlife place indexed with description, demons, wicked, gate, purification,
+    and grades.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Heaven
+  literal_form: Heaven, indexed with the phrase not to be despaired of.
+  associated_figures: []
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Gate of Hell
+  literal_form: Gate associated with Hell in the index entry.
+  associated_figures: []
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Holy-water
+  literal_form: Water designated as holy-water in the index.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Horn tree and ritual forms
+  literal_form: Tree, juice, mortar, twigs, and dron associated with the Horn entry.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Hugar and Hukairya mountains
+  literal_form: Mountains indexed as Hugar and Hukairya.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: Idols
+  literal_form: Idols and idolatry indexed as topics.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Hell as a judged and stratified afterlife realm
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The index entry for Hell links it with demons, the wicked, a gate, purification,
+    and grades.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an index entry, not a narrative or doctrinal exposition;
+    details are summarized by the index rather than described in full.
+- id: motif:2
+  label: Holy-water as ritual object
+  taxonomy_refs: []
+  basis: Holy-water is listed as a recurring indexed topic with citations in multiple
+    sections of the volume.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The index does not describe the ritual action or symbolic function of
+    the holy-water.
+- id: motif:3
+  label: Horn as angelic and plant-associated ritual complex
+  taxonomy_refs: []
+  basis: The Horn entry lists an angel and related ritual or material forms, including
+    juice, mortar, tree, and twigs.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The supplied passage uses index wording and OCR-like spellings; it does
+    not explain the relationship among the angel, plant, and ritual objects.
+- id: motif:4
+  label: Idolatry as indexed religious opposition
+  taxonomy_refs: []
+  basis: The index groups idolators, idolatry, and idols as topics in the volume.
+  evidence_refs:
+  - ev:13
+  confidence: low
+  cautions: The index does not provide the narrative or doctrinal context for idolatry.
+comparison_claims:
+- id: claim:1
+  claim: The Hell topic is indexed across several cited parts of the same Pahlavi-text
+    volume, suggesting a recurring afterlife motif within the compiled corpus.
+  claim_level: same_motif
+  target: Hell references in Bd., Zs., Byt., and SI. citations listed by the index
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based only on index cross-references and does not compare
+    the underlying passages directly.
+- id: claim:2
+  claim: Holy-water is indexed with citations in multiple cited sections, suggesting
+    the same ritual object recurs within the volume.
+  claim_level: same_function
+  target: Holy-water references in Bd., Byt., and SI. citations listed by the index
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not describe the function of holy-water, only its
+    indexed occurrences.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24233-24401; index section
+  quote_or_summary: The passage consists of alphabetic index entries with citations
+    to other sections, not a continuous mythic episode.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 24237-24240; entry 'Heaven'
+  quote_or_summary: Heaven, not to be despaired of, SI. 12, 28, 29.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 24245-24256; entry 'Hell'
+  quote_or_summary: Hell is indexed as described, as abode of demons, for the wicked,
+    having a gate, being purified, and having grades.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 24257-24273 and 24396; river entries
+  quote_or_summary: The index lists river entries including Helmand, Hendva, Hetumand,
+    Hiddekel, and Iaxartes.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24274-24289; entry 'High-priest'
+  quote_or_summary: The index lists high-priest, dastur, rat, and a supreme high-priestly
+    reference with citations.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 24300-24305; entry 'Holy-water'
+  quote_or_summary: Holy-water, Bd. 21, 3, 4; Byt. 2, 59; SI. 2, (43;) 7, 9; 12, 5;
+    13, 9; 15, 12; 16, 6.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 24306-24318; entry 'Horn'
+  quote_or_summary: Horn is indexed as an angel and under dron, juice, mortar, tree,
+    and twigs.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 24319-24320; entry 'Homast'
+  quote_or_summary: Homast, rite, Byt. 2, (59 n;) SI. 9, 12n; 16, 6n.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:9
+  type: summary
+  locator: lines 24321-24327; entry 'Horvadart'
+  quote_or_summary: Horvadart is indexed as an angel; the same entry also lists month
+    and yast references.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 24328-24333; entry 'Hoshyang'
+  quote_or_summary: Hoshyang, king, Bd. 15, (28;) 31, 1, 2, 9n...
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:11
+  type: summary
+  locator: lines 24347-24355; entries 'Hugar' and 'Hukairya'
+  quote_or_summary: The index lists Hugar m. and Hukairya m. as mountain entries with
+    citations.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 24361-24368; apostle entries
+  quote_or_summary: The index lists Hijshe/ar and Hushefl'ar-mah as apostles with
+    citations.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 24398-24401; entries 'Idolators', 'Idolatry', and 'Idols'
+  quote_or_summary: The index lists idolators, idolatry, and idols as topics with
+    citations.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is an index page, so it supports topic and symbol extraction
+    but provides little narrative context. Some spellings appear OCR-like; supplied
+    spellings are preserved where relevant.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes were extracted because the passage is an index rather than an episode.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l24233-l24401
+  passage_sha256=9e0f9b1852ff95198a0fe7fcdde521c90c3ebdf73bf085a9f3028a0dabd167ac
+

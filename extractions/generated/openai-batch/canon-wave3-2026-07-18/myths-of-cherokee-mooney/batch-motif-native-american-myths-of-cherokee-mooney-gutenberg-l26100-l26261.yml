@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.native-american-myths-of-cherokee-mooney-gutenberg-l26100-l26261
+source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+passage_locator:
+  label: SECOND VERSION / WAHNENAUHI VERSION / VI--NOTES AND PARALLELS TO MYTHS /
+    GLOSSARY OF CHEROKEE WORDS; lines 26100-26261
+  start: '26100'
+  end: '26261'
+  translation: Myths of the Cherokee
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a glossary section describing Cherokee pronunciation and
+    dialect features, followed by entries defining Cherokee words and names. Several
+    entries identify terms for supernatural beings, a Shawano captive associated with
+    killing the Uktena serpent, a corn spirit name, an invoked animal-god figure,
+    water-dwelling terms, and a term glossed as cannibals or roasters.
+  language: English with Cherokee terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins with pronunciation and dialect notes for Cherokee, including
+    vowel sounds, the absence of o, dialectal variation between l and r, and consonant
+    values.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several glossary entries define Cherokee terms for a staff or cane, soul,
+    magician or supernatural being, and very great magician.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The entry for Â'gan-uni'tsi identifies the name as meaning “Groundhogs'-mother”
+    and as the Cherokee name of a Shawano captive.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The same entry says that, according to tradition, this Shawano captive killed
+    the great Uktena serpent and procured the Ulûñsû'ti.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The entry for Agawe'la glosses the name as “Old Woman” and describes it as
+    a formulistic name for corn or the spirit of corn.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The entry for Agis'-e'gwa glosses the name as “Great Female,” possibly “Great
+    Doe,” and describes the being as probably an animal god invoked in sacred formulas.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The glossary gives ama' as water, notes a Lower dialect form awa', and gives
+    terms meaning dwelling in the water and dwellers in the water.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The entry for Anada'dûñtaski glosses the term as “Roasters,” identified as
+    cannibals, and derives it from putting a round object into the fire to roast.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Â'gan-uni'tsi / Groundhogs'-mother
+  description: A Shawano captive named in Cherokee as “Groundhogs'-mother”; the passage
+    says tradition credits this figure with killing the great Uktena serpent and procuring
+    the Ulûñsû'ti.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Uktena serpent
+  description: The passage calls Uktena a great serpent killed by Â'gan-uni'tsi according
+    to tradition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Agawe'la / Old Woman
+  description: A formulistic name for corn or the spirit of corn.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Agis'-e'gwa / Great Female
+  description: A being, possibly “Great Doe,” described as probably an animal god
+    invoked in sacred formulas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Anada'dûñtaski / Roasters / Cannibals
+  description: A term glossed as “Roasters,” identified as cannibals.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Shawano captive
+  assigned_to:
+  - fig:1
+  basis: The glossary identifies Â'gan-uni'tsi as the Cherokee name of a Shawano captive.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: serpent slayer and obtainer of Ulûñsû'ti
+  assigned_to:
+  - fig:1
+  basis: The entry says the figure killed the great Uktena serpent and procured the
+    Ulûñsû'ti according to tradition.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: great serpent
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls Uktena the great serpent.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: corn or corn spirit
+  assigned_to:
+  - fig:3
+  basis: The entry says Agawe'la is a formulistic name for corn or the spirit of corn.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: invoked animal god
+  assigned_to:
+  - fig:4
+  basis: The entry describes Agis'-e'gwa as probably an animal god invoked in sacred
+    formulas.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: cannibal group
+  assigned_to:
+  - fig:5
+  basis: The entry identifies Anada'dûñtaski as “Roasters,” meaning cannibals.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: great Uktena serpent
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: ama' / awa'; water, in-water dwelling, dwellers in the water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: fire
+  literal_form: fire used for roasting in the derivation of the cannibal term
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: corn spirit
+  literal_form: Agawe'la, “Old Woman,” as corn or the spirit of corn
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Alluded tradition of killing the Uktena
+  summary: A glossary entry alludes to a tradition in which the Shawano captive called
+    Â'gan-uni'tsi kills the great Uktena serpent and obtains the Ulûñsû'ti.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: slaying the great serpent to obtain a named object
+  taxonomy_refs:
+  - serpent
+  basis: The passage states that Â'gan-uni'tsi killed the great Uktena serpent and
+    procured the Ulûñsû'ti.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a glossary entry and only alludes to the tradition; it
+    does not explain the Ulûñsû'ti or narrate the full episode.
+- id: motif:2
+  label: personified corn spirit named Old Woman
+  taxonomy_refs: []
+  basis: The passage identifies Agawe'la, “Old Woman,” as a formulistic name for corn
+    or the spirit of corn.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The entry gives a formulistic identification but no narrative action.
+- id: motif:3
+  label: water-dwelling beings
+  taxonomy_refs: []
+  basis: The glossary includes terms glossed as “dwelling in the water” and “dwellers
+    in the water.”
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage gives lexical definitions only and does not identify a specific
+    story or class of beings beyond the terms themselves.
+- id: motif:4
+  label: cannibal roasters associated with fire
+  taxonomy_refs: []
+  basis: The passage glosses Anada'dûñtaski as “Roasters,” i.e. cannibals, derived
+    from putting something into the fire to roast.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The entry is lexical and etymological; it does not narrate a cannibal
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26100-26261, glossary pronunciation introduction
+  quote_or_summary: The glossary introduction describes Cherokee sounds and dialect
+    features, including vowel values, absence of o, nasalization, rare or absent labial
+    m, l/r dialect variation, and consonant values.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 26100-26261, entries adâ'lanûñ'sti through ada'wehi'yu
+  quote_or_summary: The entries define adâ'lanûñ'sti as a staff or cane, adan'ta as
+    soul, ada'wehi as a magician or supernatural being, and ada'wehi'yu as a very
+    great magician.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 26100-26261, entry Â'gan-uni'tsi
+  quote_or_summary: Â'gan-uni'tsi is glossed as “Groundhogs'-mother” and identified
+    as the Cherokee name of a Shawano captive.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 26100-26261, entry Â'gan-uni'tsi
+  quote_or_summary: "“according to tradition, killed the great Uktena serpent and
+    procured the Ulûñsû'ti.”"
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 26100-26261, entry Agawe'la
+  quote_or_summary: "“Agawe'la--‘Old Woman,’ a formulistic name for corn or the spirit
+    of corn.”"
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 26100-26261, entry Agis'-e'gwa
+  quote_or_summary: "“Agis'-e'gwa--‘Great Female,’ possibly ‘Great Doe.’ A being,
+    probably an animal god, invoked in the sacred formulas.”"
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 26100-26261, entries ama', amaye'hi, and ama'yine'hi
+  quote_or_summary: The glossary gives ama' as water, awa' as the Lower dialect form,
+    amaye'hi as “dwelling in the water,” and ama'yine'hi as “dwellers in the water.”
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 26100-26261, entry Anada'dûñtaski
+  quote_or_summary: "“Anada'dûñtaski--‘Roasters,’ i. e., Cannibals; from gûñ'taskû',
+    ‘I am putting it (round) into the fire to roast.’”"
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily a glossary, so figures and motifs are mostly lexical
+    or allusive rather than narrated. Comparison claims are omitted because the passage
+    does not itself support cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated taxonomy references were used.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-myths-of-cherokee-mooney-gutenberg__l26100-l26261
+  passage_sha256=58aece329d9ac565368d05700b54f034e18144338942c6900c0eb6ffecb359b1
+

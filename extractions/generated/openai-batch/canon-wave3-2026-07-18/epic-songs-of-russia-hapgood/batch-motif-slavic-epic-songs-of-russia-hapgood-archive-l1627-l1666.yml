@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l1627-l1666
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: EPIC  SONGS   OF  RUSSIA.  31 / EPIC  SONGS   OF  RUSSIA.  33 / EPIC  SONGS   OF  RUSSIA.
+    / EPIC  SONGS   OF  RUSSIA.  35; lines 1627-1666
+  start: '1627'
+  end: '1666'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Svyatogor rides for three days to a great tree and smithy, where a smith
+    is forging two hairs and says he is forging the fates of those who will wed. The
+    smith tells Svyatogor that his bride is in a royal city by the sea and has lain
+    thirty years on a dung-heap. Svyatogor resolves to kill her, goes to the city,
+    finds a maiden in a hut on the dung-heap with a body like fir bark, leaves five
+    hundred rubles, strikes her breast with his sword, and departs. The maiden wakes,
+    the bark falls from her body, she becomes extraordinarily beautiful, and she uses
+    the money to trade, gain treasure, and build ships.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Svyatogor rides for three days as commanded and arrives at a great tree and
+    a smithy.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A smith stands at the smithy forging two fine hairs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The smith says that he forges the fates of those who shall wed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The smith tells Svyatogor that his bride is in the kingdom by the sea, in
+    the royal city, and has lain thirty years on the dung-heap.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Svyatogor thinks that he will go to the kingdom by the sea and slay his bride.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the royal city, Svyatogor enters a miserable hut where only a maiden lies
+    on the dung-heap, and her body is like fir-tree bark.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Svyatogor lays five hundred rubles on the table and strikes the maiden on
+    her white breast with his sharp sword.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After Svyatogor departs, the maiden wakes, the fir bark falls from her limbs,
+    and she becomes an unparalleled beauty.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The maiden uses the five hundred rubles to trade, accumulates untold treasure
+    of gold, builds dark red ships, and freights them with precious wares.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Svyatogor
+  description: A hero who rides to the smithy, asks about his bride, attempts to kill
+    the prophesied bride, and leaves money behind.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the smith
+  description: A smith at the great tree and smithy who forges two hairs and says
+    he forges the fates of those who shall wed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the maiden / Svyatogor's bride
+  description: The prophesied bride in the kingdom by the sea, found lying on a dung-heap
+    with a body like fir bark; after being struck, she wakes, becomes beautiful, and
+    gains wealth through trade.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: hero who seeks and attacks his prophesied bride
+  assigned_to:
+  - fig:1
+  basis: Svyatogor is called a hero, asks whom he shall wed, resolves to slay his
+    bride, travels to her location, and strikes her with his sword.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: fate-forging smith
+  assigned_to:
+  - fig:2
+  basis: The smith forges two hairs and states that he forges the fates of those who
+    shall wed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: prophesied bride and transformed maiden
+  assigned_to:
+  - fig:3
+  basis: The smith identifies her as Svyatogor's bride; she is found on the dung-heap,
+    wakes after the sword blow, loses the bark from her limbs, and becomes beautiful.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: great tree
+  literal_form: The great tree beside the smithy where Svyatogor arrives.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two forged hairs
+  literal_form: Two fine hairs being forged by the smith, identified as the fates
+    of those who shall wed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: kingdom by the sea
+  literal_form: The kingdom by the sea and its royal city where the bride is said
+    to be.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: dung-heap
+  literal_form: The dung-heap on which the maiden has lain for thirty years.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: fir-bark body
+  literal_form: The maiden's body is like the bark of fir-trees; the bark later falls
+    from her limbs.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:6
+  label: sharp sword wound
+  literal_form: Svyatogor's sharp sword striking the maiden on her white breast.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: five hundred rubles
+  literal_form: Five hundred rubles left on the table by Svyatogor and later used
+    by the maiden to trade.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:8
+  label: dark red ships
+  literal_form: Dark red ships built by the maiden after gaining treasure through
+    trade.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Svyatogor reaches the great tree and fate-forging smith
+  summary: Svyatogor arrives after a three-day ride at a great tree and smithy, where
+    the smith forges two hairs and explains that he forges the fates of those who
+    shall wed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The prophesied bride in the kingdom by the sea
+  summary: The smith tells Svyatogor where his bride is and describes her long degradation
+    on a dung-heap; Svyatogor resolves to slay her and travels to the royal city by
+    the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Sword strike and transformation of the maiden
+  summary: Svyatogor finds the maiden on the dung-heap, leaves five hundred rubles,
+    strikes her with his sword, and leaves; she wakes, sheds fir bark from her limbs,
+    and becomes extraordinarily beautiful.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: The transformed maiden becomes wealthy through trade
+  summary: The maiden uses the rubles left on the table to trade, gains great treasure,
+    builds dark red ships, and loads them with precious wares.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: fate-forging smith determines a destined marriage
+  taxonomy_refs: []
+  basis: A smith literally says he forges the fates of those who shall wed and identifies
+    Svyatogor's bride.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names fate-forging or marriage fate;
+    the label is passage-specific.
+- id: motif:2
+  label: attempt to avert a foretold marriage by killing the bride
+  taxonomy_refs: []
+  basis: After learning who and where his bride is, Svyatogor decides to go to that
+    kingdom and slay her, then strikes her with a sword.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not yet show whether the marriage ultimately occurs.
+- id: motif:3
+  label: degraded maiden transformed after a violent wound
+  taxonomy_refs:
+  - death_rebirth
+  basis: The maiden is found on a dung-heap with a fir-bark-like body; after Svyatogor
+    strikes her with his sword and leaves, she wakes, sheds the bark, and becomes
+    beautiful.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage describes awakening and transformation, not literal death
+    and rebirth; the taxonomy reference is therefore approximate.
+- id: motif:4
+  label: gift left by attacker becomes source of prosperity
+  taxonomy_refs: []
+  basis: Svyatogor leaves five hundred rubles before departing; the maiden later uses
+    that money to trade, gather gold, and build ships.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage gives the economic sequence but does not explicitly frame
+    the money as magical or sacred.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1627-1631
+  quote_or_summary: Svyatogor rides three days and comes to the great tree and smithy,
+    where a smith stands forging two fine hairs.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1632-1636
+  quote_or_summary: 'The smith answers Svyatogor: "I forge the fates of those that
+    shall wed."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 1637-1641
+  quote_or_summary: The smith says Svyatogor's bride is in the kingdom by the sea,
+    in the royal city, and has lain thirty years on the dung-heap.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1642-1645
+  quote_or_summary: Svyatogor thinks that he will go to the kingdom by the sea and
+    slay his bride.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1646-1652
+  quote_or_summary: In the royal city, Svyatogor enters a miserable hut; only a maiden
+    lies on the dung-heap, and her body is like fir-tree bark.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1652-1655
+  quote_or_summary: Svyatogor lays five hundred rubles on the table and strikes the
+    maiden on her white breast with his sharp sword.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1655-1660
+  quote_or_summary: After Svyatogor departs, the maiden wakes; the fir bark falls
+    from her limbs, and she becomes a beauty never before seen or heard of.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:8
+  type: quote
+  locator: lines 1661-1666
+  quote_or_summary: The five hundred rubles lie on the table; with them the maiden
+    trades, accumulates untold treasure of gold, builds dark red ships, and freights
+    them with precious wares.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main narrative actions and figures are explicit. Motif taxonomy alignment
+    is less certain because several strong passage motifs, especially fate-forging,
+    do not map directly to the supplied motif-family list. No comparison claims were
+    made because the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line locators are approximate within the supplied line range because the passage text is provided without per-line numbering.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l1627-l1666
+  passage_sha256=ddfdc2fe700de2cf543f7daa516d19ce5b1f867aa048a0c101c0ebeb62510818
+

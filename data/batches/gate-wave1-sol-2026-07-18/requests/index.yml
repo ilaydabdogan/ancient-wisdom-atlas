@@ -1,0 +1,63 @@
+---
+batch_request_index_version: '1'
+run_id: gate-wave1-sol-2026-07-18
+source_run: motif-extraction-2026-07-17-azure-wave1
+created_at: '2026-07-18T08:01:46Z'
+updated_at: '2026-07-18T13:21:22Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-sol
+honeypot_count: 64
+shards:
+- shard_id: shard-0001
+  path: data/batches/gate-wave1-sol-2026-07-18/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 19419941
+  sha256: b6990e311523e408908727870e2fcd07b93a6bbb36c85dea678c038d28eef086
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-wave1-sol-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: 7252ed36e9019f524a6e86f03e012c2ce45b6f875b53f7c0bb86ea42bbf1af2d
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T10:05:26Z'
+- shard_id: shard-0002
+  path: data/batches/gate-wave1-sol-2026-07-18/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 19869206
+  sha256: e426dfa7ef1fd6afea25f2d55254de864a5db92eea43b7fdcb732f54361ef57b
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-wave1-sol-2026-07-18/results/shard-0002.output.jsonl
+  output_sha256: 10ea0696604ff2b81c7cfe95885dc4cfaf22bac3acbe10d54401872a936c9553
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T12:02:11Z'
+- shard_id: shard-0003
+  path: data/batches/gate-wave1-sol-2026-07-18/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 19763084
+  sha256: b641069a62029665ea5bb47e939292346b0dd02eaa442581611b86f5534a6f4c
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-wave1-sol-2026-07-18/results/shard-0003.output.jsonl
+  output_sha256: 99d9f24b7af77201d2b3d44ef357eb4f70b8d2680ca7b3973fccd6d82de63735
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T13:04:40Z'
+- shard_id: shard-0004
+  path: data/batches/gate-wave1-sol-2026-07-18/requests/shard-0004.jsonl
+  request_count: 281
+  bytes: 5634338
+  sha256: 052a97011631f716c3a47e3f27600e020db4c9d1112e5c3ea30f15a845fb1b71
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-wave1-sol-2026-07-18/results/shard-0004.output.jsonl
+  output_sha256: a31ed6f1cc149212aa09ac515d22763dcc3550a7304b0304ed01a58d5e22c823
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T13:21:22Z'
+

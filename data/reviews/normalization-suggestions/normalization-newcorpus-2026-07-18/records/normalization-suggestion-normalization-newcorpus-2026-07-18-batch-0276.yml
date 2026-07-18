@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0276
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deceptive-divine-dream-message
+  motif_id: deceptive_divine_dream_message
+  label: deceptive divine dream-message
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine message delivered through a dream belongs with dreams and visions
+    as channels of revelation, even when deceptive.
+  cautions: If the emphasis is divine manipulation or punishment rather than dream
+    medium, divine_intervention or divine_judgment may be secondary.
+  suggested_aliases:
+  - deceptive dream message
+  - divine dream deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-hospitality-by-divine-hosts
+  motif_id: deceptive_hospitality_by_divine_hosts
+  label: deceptive hospitality by divine hosts
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on hospitality as the scene of testing or deception
+    by sacred hosts.
+  cautions: If the divine hosts are primarily tricksters, a secondary trickster mapping
+    may be appropriate; source context needed.
+  suggested_aliases:
+  - deceptive hospitality
+  - divine hospitality test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-test-of-a-ritual-specialist
+  motif_id: deceptive_test_of_a_ritual_specialist
+  label: Deceptive test of a ritual specialist
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A deceptive test could be initiation, trickster action, ritual validation,
+    or social contest depending on the episode.
+  cautions: Do not map solely from the role label 'ritual specialist'; culturally
+    specific ritual authority should be reviewed with source evidence.
+  suggested_aliases:
+  - ritual specialist tested by deception
+  - deceptive ordeal of ritual expert
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.decisive-sacred-weapon-from-divine-and-sage-sources
+  motif_id: decisive_sacred_weapon_from_divine_and_sage_sources
+  label: decisive sacred weapon from divine and sage sources
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: high
+  rationale: A weapon of divine or sage origin that grants decisive power is a sacred
+    power object.
+  cautions: If the narrative focus is combat establishing cosmic order, divine_warrior
+    or sacred_combat may be secondary.
+  suggested_aliases:
+  - divine weapon
+  - sage-given sacred weapon
+  - decisive power weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.decree-stele-with-carved-divine-and-temple-official-figures
+  motif_id: decree_stele_with_carved_divine_and_temple_official_figures
+  label: Decree stele with carved divine and temple-official figures
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an inscribed artifact and iconographic content rather
+    than a recurring narrative or symbolic motif.
+  cautions: If the decree itself establishes sacred law or royal legitimacy, preserve
+    that evidence separately under covenant, sacred_law, or royal_legitimacy.
+  suggested_aliases:
+  - decree stele with divine figures
+  - temple decree stele
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-chieftain-escapes-and-vows-revenge
+  motif_id: defeated_chieftain_escapes_and_vows_revenge
+  label: Defeated chieftain escapes and vows revenge
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a martial conflict sequence involving defeat, escape, and
+    revenge vow, closest to combat/vengeance motifs.
+  cautions: May be a plot detail rather than a sacred motif; only retain if the revenge
+    vow has ritual, sacred, or recurring narrative force.
+  suggested_aliases:
+  - defeated leader vows revenge
+  - escaped defeated chieftain revenge vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-ritual-specialists-become-believers
+  motif_id: defeated_ritual_specialists_become_believers
+  label: Defeated ritual specialists become believers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeat of ritual specialists leading to belief functions as public vindication
+    of sacred authority and correction of opposition.
+  cautions: Could also fit sacred_knowledge if the focus is recognition of truth,
+    or divine_intervention if a miracle causes the defeat.
+  suggested_aliases:
+  - defeated magicians become believers
+  - ritual experts converted after defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deferred-healing-or-salvation-substance-from-a-sacred-tree
+  motif_id: deferred_healing_or_salvation_substance_from_a_sacred_tree
+  label: deferred healing or salvation substance from a sacred tree
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is a healing or salvific substance, with the sacred
+    tree as its source.
+  cautions: If the tree is the cosmological focus, axis_mundi or sacred_tree_axis
+    may be secondary; if salvation is through death/renewal, death_and_transformation
+    may also apply.
+  suggested_aliases:
+  - healing substance from sacred tree
+  - salvific tree substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deification-of-a-revered-female-holy-figure-contested-as-idolatry
+  motif_id: deification_of_a_revered_female_holy_figure_contested_as_idolatry
+  label: deification of a revered female holy figure contested as idolatry
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sanctity, deification, gendered devotion, and polemic
+    against idolatry; placement depends on source framing.
+  cautions: Culturally sensitive and possibly a theological or polemical commentary
+    artifact rather than a motif; review before indexing.
+  suggested_aliases:
+  - contested deification of female holy figure
+  - female holy figure treated as deity
+  - revered woman contested as idol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deified-food-animal-taboo
+  motif_id: deified_food_animal_taboo
+  label: deified food animal taboo
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo around eating an animal because of divine status fits sacred
+    law, ritual prohibition, and food taboo patterns.
+  cautions: If the animal is an ancestor or deity manifestation, source-specific review
+    may justify related mappings to divine_intervention or sacred_substance.
+  suggested_aliases:
+  - deified animal food taboo
+  - sacred animal dietary taboo
+  - taboo on eating deified animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch have single occurrences and may be over-specific episode
+  summaries; preserve evidence notes where mapped.
+- Items involving ritual specialists, deification, idolatry, and culturally specific
+  taboo should receive human review against source passages before final indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0276
+  input_sha256: a0fc0719732607a74e2a29917440b2766333943ccc786edb2a12da8156d686de
+

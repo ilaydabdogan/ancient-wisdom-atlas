@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1014
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.battle-fury-terrifies-the-host
+  motif_id: battle_fury_terrifies_the_host
+  label: Battle fury terrifies the host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Extraordinary terrifying battle fury fits heroic or sacred combat power
+    already grouped under divine_warrior.
+  cautions: Single occurrence; if the passage stresses psychological panic rather
+    than heroic sacral force, sacred_combat may be a better broad parent.
+  suggested_aliases:
+  - terrifying_battle_fury
+  - heroic_battle_frenzy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-officers-assigned-to-kill-or-rescue-leaders-according-to-defeat
+  motif_id: battle_officers_assigned_to_kill_or_rescue_leaders_according_to_defeat
+  label: Battle officers assigned to kill or rescue leaders according to defeat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a tactical episode or passage-specific battle arrangement
+    rather than a durable mythic motif.
+  cautions: If recurring as ritualized protection or execution of rulers after defeat,
+    review under royal_legitimacy or sacred_combat; current evidence is too specific.
+  suggested_aliases:
+  - assigned_battle_officers_for_leader_rescue_or_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-over-fallen-hero-s-body-and-armor
+  motif_id: battle_over_fallen_hero_s_body_and_armor
+  label: battle over fallen hero's body and armor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Conflict over a fallen hero's body and armor centers on retrieval, honor,
+    burial, and memorial order after heroic death.
+  cautions: Could also be indexed under divine_warrior or sacred_combat if the combat
+    over spoils is the main narrative function.
+  suggested_aliases:
+  - battle_for_fallen_hero_body
+  - contest_over_heroic_arms_and_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-over-the-body-and-spoils-of-a-fallen-hero
+  motif_id: battle_over_the_body_and_spoils_of_a_fallen_hero
+  label: Battle over the body and spoils of a fallen hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The body and spoils of a fallen hero are contested as part of heroic
+    death, honor, and funerary memorialization.
+  cautions: The spoils element may also relate to sacred_treasures or warrior honor;
+    avoid creating a separate motif unless this exact structure recurs.
+  suggested_aliases:
+  - battle_for_fallen_hero_body_and_spoils
+  - contest_over_dead_hero_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-rage-marked-by-extraordinary-force
+  motif_id: battle_rage_marked_by_extraordinary_force
+  label: Battle rage marked by extraordinary force
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Superhuman force in battle rage belongs with heroic or divine combat
+    power.
+  cautions: If the source emphasizes bodily transformation in rage, shapeshifter or
+    death_and_transformation may be relevant as secondary context.
+  suggested_aliases:
+  - extraordinary_battle_rage
+  - superhuman_battle_frenzy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-remembered-through-a-local-landscape-marker
+  motif_id: battle_remembered_through_a_local_landscape_marker
+  label: battle remembered through a local landscape marker
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The current group already includes etiological landscape and place-name
+    memory from violent events.
+  cautions: If the marker is only an historical memory rather than etiological landscape
+    formation or naming, exclude as a contextual artifact.
+  suggested_aliases:
+  - landscape_marker_commemorates_battle
+  - battle_etiology_of_landscape_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-reversal-after-a-hero-is-felled
+  motif_id: battle_reversal_after_a_hero_is_felled
+  label: Battle reversal after a hero is felled
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A decisive reversal triggered by a hero's fall is a battle-structure
+    motif within sacred or heroic combat.
+  cautions: May be a plot event rather than a reusable motif; if the fall functions
+    as sacrifice or divine judgment, secondary mapping may be needed.
+  suggested_aliases:
+  - combat_reversal_after_hero_fall
+  - fallen_hero_turns_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-reversal-after-abandonment-of-an-assigned-post
+  motif_id: battle_reversal_after_abandonment_of_an_assigned_post
+  label: Battle reversal after abandonment of an assigned post
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeat following abandonment of duty can function as moral consequence
+    or sacred reckoning.
+  cautions: If framed simply as military tactics, exclude as a passage-specific detail;
+    if framed as obedience to command, covenant or sacred_law may also apply.
+  suggested_aliases:
+  - defeat_after_abandoning_post
+  - battle_reversal_as_consequence_of_disobedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-rout-caused-by-epiphany-and-voice-rather-than-direct-combat
+  motif_id: battle_rout_caused_by_epiphany_and_voice_rather_than_direct_combat
+  label: battle rout caused by epiphany and voice rather than direct combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: A battle rout caused by epiphany and voice is divine manifestation acting
+    directly in human conflict.
+  cautions: Could also be related to divine_intervention or curse_blessing_speech
+    if the voice itself is the operative sacred speech act.
+  suggested_aliases:
+  - epiphany_routs_army
+  - divine_voice_causes_battle_rout
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-signal-followed-by-dispersal
+  motif_id: battle_signal_followed_by_dispersal
+  label: battle signal followed by dispersal
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a tactical or narrative sequence, not a
+    symbolic motif with clear taxonomy placement.
+  cautions: If the signal is supernatural sound or sacred command, review under enchanting_music,
+    curse_blessing_speech, or divine_intervention.
+  suggested_aliases:
+  - signal_causes_battle_dispersal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence battle-scene details; preserve as evidence
+  notes unless recurrence shows a stable combat motif.
+- For battle motifs, distinguish tactical plot mechanics from sacred combat, divine
+  intervention, heroic funerary honor, and moral consequence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context for
+    tactical versus mythic function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1014
+  input_sha256: 15b4cb2fd38cfdafc8d262613a3c7239fbb0463f189eec813ad8a0947839f061
+

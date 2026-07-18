@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.native-american-myths-of-cherokee-mooney-gutenberg-l15445-l15466
+source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+passage_locator:
+  label: V--THE MYTHS / WAHNENAUHI VERSION / SECOND VERSION / SECOND VERSION; lines
+    15445-15466
+  start: '15445'
+  end: '15466'
+  translation: Myths of the Cherokee
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A giant fish called the Dakwa' lives in the Tennessee River. It overturns
+    a canoe of warriors, swallows one man, and dives. The man survives inside the
+    fish, uses swallowed mussel shells to cut his way out, escapes near shore, and
+    returns bald because the fish's stomach juices scalded away his hair.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Dakwa' is described as a great fish living in the Tennessee River at Dakwâ'i,
+    large enough to swallow a man.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A canoe filled with warriors is crossing the river when the Dakwa' rises under
+    it and throws the occupants into the air.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Dakwa' swallows one man and dives with him to the bottom of the river.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Inside the Dakwa', the swallowed man is uninjured but nearly smothered by
+    heat and closeness.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The man finds mussel shells in the fish and uses one as a knife to cut from
+    inside.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fish becomes uneasy and then pained, surfaces for air, swims about, and
+    thrashes the water into foam.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the cut is large enough and the fish rests in shallow water near shore,
+    the man climbs out carefully and wades to shore.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The man returns to the settlement, but the fish's stomach juices have scalded
+    all hair from his head, leaving him bald thereafter.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dakwa'
+  description: A great fish in the Tennessee River, large enough to swallow a man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: swallowed hunter
+  description: One man from the canoe who is swallowed by the Dakwa', cuts his way
+    out, returns to the settlement, and remains bald afterward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: warriors in the canoe
+  description: A canoe filled with warriors crossing from the town to the other side
+    of the river.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: swallowing river monster
+  assigned_to:
+  - fig:1
+  basis: The Dakwa' rises from the river, overturns the canoe, swallows one man, and
+    carries him to the river bottom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: swallowed survivor
+  assigned_to:
+  - fig:2
+  basis: The man survives inside the Dakwa', cuts his way out, escapes to shore, and
+    returns changed by the experience.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: imperiled canoe party
+  assigned_to:
+  - fig:3
+  basis: The warriors are in the canoe struck by the Dakwa'.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Dakwa' fish
+  literal_form: great fish large enough to swallow a man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Tennessee River
+  literal_form: river where the Dakwa' lives and where the canoe crossing occurs
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: mussel shell knife
+  literal_form: mussel shell used by the swallowed man as a cutting tool
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fish belly interior
+  literal_form: hot, close, dark interior of the Dakwa' where the man is nearly smothered
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bald head after escape
+  literal_form: head made bald when stomach juices scald away the hair
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dakwa' in the Tennessee River
+  summary: The passage locates the Dakwa' at Dakwâ'i in the Tennessee River and describes
+    it as a fish large enough to swallow a man.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Canoe overturned and man swallowed
+  summary: The Dakwa' rises beneath a canoe of warriors, throws them into the air,
+    swallows one man, and dives to the river bottom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cutting from inside the fish
+  summary: The swallowed man finds himself alive inside the hot, close fish, discovers
+    mussel shells, and uses one to cut his way out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Escape and lasting mark
+  summary: The man exits the fish near the shore, returns to the settlement, and remains
+    bald because the fish's stomach juices scalded away his hair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Man swallowed by giant fish and escaping alive
+  taxonomy_refs: []
+  basis: The Dakwa' swallows a man, who survives inside it and cuts his way out with
+    a mussel shell.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference for a swallowed-by-fish motif is provided
+    in the available list.
+- id: motif:2
+  label: Escape through cutting from inside a monster
+  taxonomy_refs: []
+  basis: The man uses a swallowed mussel shell as a knife and enlarges a hole until
+    he can climb out of the Dakwa'.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Recorded as a passage-level motif without assigning a broader comparative
+    taxonomy.
+- id: motif:3
+  label: Lasting bodily mark from monster-belly ordeal
+  taxonomy_refs: []
+  basis: After escaping, the man is permanently bald because stomach juices scalded
+    all hair from his head.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the bodily change but does not explicitly frame it
+    as an explanatory origin motif beyond this individual case.
+- id: motif:4
+  label: Descent into a dangerous watery interior and return
+  taxonomy_refs:
+  - hero_descent
+  - return
+  basis: The swallowed man is taken to the river bottom inside the Dakwa', survives
+    in a dark enclosed space, escapes, and returns to the settlement.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage presents an involuntary swallowing and escape, not an intentional
+    heroic descent; taxonomy assignment is therefore provisional.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15445-15449
+  quote_or_summary: A great fish called the Dakwa' lives in the Tennessee River at
+    Dakwâ'i and is large enough to swallow a man.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15449-15454
+  quote_or_summary: The Dakwa' rises beneath a canoe of warriors crossing the river,
+    throws them upward, swallows one man, and dives to the bottom.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15454-15458
+  quote_or_summary: The swallowed man regains his senses inside the fish, finds it
+    hot, close, and dark, discovers mussel shells, and begins cutting with one as
+    a knife.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15458-15463
+  quote_or_summary: The fish surfaces and thrashes in pain while the man keeps cutting
+    until he can look out and sees it resting in shallow water near shore.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15463-15466
+  quote_or_summary: The man climbs out carefully, wades to shore, returns to the settlement,
+    and is bald afterward because stomach juices scalded the hair from his head.
+  source_text_path: texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence is clear. Broader motif-family mapping is limited because
+    the available taxonomy does not include a specific giant-fish-swallowing category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-myths-of-cherokee-mooney-gutenberg__l15445-l15466
+  passage_sha256=82bb181483ac269c77c63640ea7874ee953e27fbd9e8afbe25e31e839e43fad7
+

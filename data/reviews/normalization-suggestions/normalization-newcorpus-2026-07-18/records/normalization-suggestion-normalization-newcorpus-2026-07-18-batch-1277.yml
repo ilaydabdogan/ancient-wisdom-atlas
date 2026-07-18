@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1277
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abstention-from-wine-as-negative-precept
+  motif_id: abstention_from_wine_as_negative_precept
+  label: abstention from wine as negative precept
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on wine fits sacred law, ritual prohibition, and ethical
+    command patterns already grouped under sacred_law.
+  cautions: Single occurrence; if the passage specifically concerns intoxicants as
+    spiritually dangerous substances, sacred_substance or divine_judgment may be secondary.
+  suggested_aliases:
+  - wine_abstention
+  - forbidden_intoxicants
+  - intoxicant_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absurd-ignorance-of-ordinary-procedures-or-tools
+  motif_id: absurd_ignorance_of_ordinary_procedures_or_tools
+  label: absurd ignorance of ordinary procedures or tools
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a comic folktale stupidity motif, but no existing
+    group clearly covers foolishness or absurd incompetence.
+  cautions: May be a passage-specific joke rather than a reusable mythic motif; review
+    source context before adding a trickster/fool group.
+  suggested_aliases:
+  - comic_ignorance
+  - foolish_ignorance_of_tools
+  - absurd_incompetence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-desirable-land
+  motif_id: abundant_desirable_land
+  label: abundant desirable land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An abundant desirable land often functions as an enchanted or blessed
+    otherworld in Celtic material.
+  cautions: If the land is ordinary promised territory rather than an enchanted realm,
+    sacred_exchange, divine_intervention, or journey context may be more relevant.
+  suggested_aliases:
+  - abundant_blessed_land
+  - desirable_otherworld_land
+  - land_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-land-verified-by-brought-back-produce
+  motif_id: abundant_land_verified_by_brought_back_produce
+  label: abundant land verified by brought-back produce
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns verification of divinely guided provision or promised
+    abundance, closest to divine_intervention and miraculous provision.
+  cautions: Could be better treated as a journey reconnaissance detail or promised-land
+    evidence; no current land-promise group exists, so human review is advised.
+  suggested_aliases:
+  - brought_back_produce_as_land_proof
+  - abundant_land_proof
+  - promised_land_verified_by_fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abused-blind-youth-deprived-of-his-own-kill
+  motif_id: abused_blind_youth_deprived_of_his_own_kill
+  label: abused blind youth deprived of his own kill
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific episode combining disability, abuse, and theft
+    of prey without a clear existing broad motif.
+  cautions: May fit persecuted child, violated trust, trickster exploitation, or divine
+    judgment depending on narrative outcome; review source evidence carefully.
+  suggested_aliases:
+  - abused_blind_youth
+  - deprived_of_own_kill
+  - vulnerable_hunter_exploited
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - betrayal_violated_trust
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abuser-literalizes-a-moral-marital-formula
+  motif_id: abuser_literalizes_a_moral_marital_formula
+  label: Abuser literalizes a moral-marital formula
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: Literalizing a formula centers on the binding or dangerous force of a
+    spoken moral-marital expression.
+  cautions: The abuser context may make this an episode-specific legal or domestic
+    violence motif; if the formula is not performative, exclude or review under sacred_law.
+  suggested_aliases:
+  - literalized_marital_formula
+  - dangerous_literal_speech
+  - moral_formula_literalized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-introduction-of-mussels-to-creeks
+  motif_id: accidental_introduction_of_mussels_to_creeks
+  label: Accidental introduction of mussels to creeks
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This appears to be a local etiological explanation for how a species
+    came to inhabit a landscape feature.
+  cautions: May be too specific for broad pattern queries unless it recurs as animal/place
+    etiology; avoid flattening culturally specific ecological knowledge.
+  suggested_aliases:
+  - species_introduction_etiology
+  - mussels_in_creeks_etiology
+  - accidental_ecological_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-killing-of-a-supernatural-protector
+  motif_id: accidental_killing_of_a_supernatural_protector
+  label: Accidental killing of a supernatural protector
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Killing a protective supernatural being often creates moral or cosmic
+    consequence and loss of sacred protection.
+  cautions: If the emphasis is on violated trust or tutelary-spirit loss rather than
+    judgment, divine_intervention or betrayal_violated_trust may be better secondary
+    mappings.
+  suggested_aliases:
+  - slain_supernatural_protector
+  - accidental_slaying_of_guardian_spirit
+  - loss_of_protective_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-kin-killing
+  motif_id: accidental_kin_killing
+  label: Accidental kin-killing
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin-killing, even accidental, commonly drives guilt, reckoning, curse,
+    exile, or social repair.
+  cautions: If the passage emphasizes tragic recognition or heroic combat rather than
+    moral reckoning, lament_and_mourning or sacred_combat may be secondary.
+  suggested_aliases:
+  - unwitting_kin_slaying
+  - accidental_family_killing
+  - tragic_kin_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_combat
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accomplice-left-to-take-blame-for-crop-theft
+  motif_id: accomplice_left_to_take_blame_for_crop_theft
+  label: Accomplice left to take blame for crop theft
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Abandoning an accomplice to bear blame for theft is a deception and scapegoating
+    strategy typical of trickster/fable plots.
+  cautions: If the narrative emphasizes violated partnership more than clever escape,
+    betrayal_violated_trust may be a secondary mapping.
+  suggested_aliases:
+  - accomplice_scapegoated_for_theft
+  - trickster_shifts_blame
+  - crop_theft_blame_shift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply historical transmission
+  or shared origin.
+- Several single-occurrence labels are over-specific and should be checked against
+  passage evidence before inclusion in broad Pattern Explorer queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Batch contains a mix of clear existing-group fits and low-confidence contextual
+    labels requiring human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1277
+  input_sha256: 96f3bad2d48fb348addc825bac8c18f00fabd8d8ed206e42d82674c5874424fe
+

@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l5420-l5431
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    XII,   16-28. / Chapter  XIII. / CHAPTER    XIII,    2-II.  43
+    / CHAPTER    XIII,   12 -XIV,    2.  45; lines 5420-5431
+  start: '5420'
+  end: '5431'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the sea Kyansih in Sagastan. It was initially sweet
+    and lacked noxious creatures, snakes, and lizards; later it became salty and foul-smelling
+    through the hot wind; at the renovation of the universe it will become sweet again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a sea named Kyansih and places it in Sagastan.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At first, noxious creatures, snakes, and lizards were not in the sea.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At first, the water of the sea was sweeter than the water in any of the other
+    seas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Later, the sea became salt.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sea is described as having such stench and saltness that one cannot approach
+    within one league.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The stench and saltness are attributed to the violence of the hot wind.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: When the renovation of the universe occurs, the sea will again become sweet.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sea Kyansih
+  description: A sea in Sagastan whose water changes from sweet to salt and is said
+    to become sweet again at the renovation of the universe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Noxious creatures, snakes, and lizards
+  description: Creatures said not to have been in the sea at first.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: transformed sea
+  assigned_to:
+  - fig:1
+  basis: The sea is first sweet, later salty and foul-smelling, and finally expected
+    to become sweet again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: initially absent creatures
+  assigned_to:
+  - fig:2
+  basis: The passage states that these creatures were not in the sea at first.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water
+  literal_form: The water of the sea Kyansih, described as sweet, later salt, and
+    eventually sweet again.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: serpent
+  literal_form: Snakes listed among the creatures absent from the sea at first.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Initial sweet sea
+  summary: The sea Kyansih is in Sagastan; at first it contains no noxious creatures,
+    snakes, or lizards, and its water is sweeter than other seas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Salty and foul sea
+  summary: Later the sea becomes salt and so foul-smelling that approach within one
+    league is impossible; the hot wind is named in connection with the stench and
+    saltness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Future sweetening at renovation
+  summary: At the renovation of the universe, the sea will become sweet again.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: corrupted water restored at cosmic renovation
+  taxonomy_refs: []
+  basis: The sea changes from sweet to salt and foul-smelling, then is predicted to
+    become sweet again when the universe is renovated.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a specific cosmological restoration of one sea; no broader
+    comparative parallel is stated in the passage.
+- id: motif:2
+  label: absence of serpents and noxious creatures from primordial pure waters
+  taxonomy_refs:
+  - serpent
+  basis: The sea's initial sweet state is accompanied by the absence of noxious creatures,
+    snakes, and lizards.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The snakes and other creatures do not act in the passage; they are mentioned
+    only as absent from the initial state.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5420-5424
+  quote_or_summary: The sea Kyansih is described as being in Sagastan; at first noxious
+    creatures, snakes, and lizards were not in it, and its water was sweeter than
+    that of other seas.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5424-5429
+  quote_or_summary: Later the sea became salt; because of its stench and saltness
+    one cannot approach within a league, and the condition is connected with the violence
+    of the hot wind.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5429-5431
+  quote_or_summary: When the renovation of the universe occurs, the sea will again
+    become sweet.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    descriptive and passage-based; no external comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l5420-l5431
+  passage_sha256=4be5a0866f270019258dfadc843c342ad8612b6ce4d87ea00ceb10b347c945f9
+

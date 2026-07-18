@@ -1,0 +1,224 @@
+---
+record_id: batch.motif.sikh-sikh-religion-macauliffe-v1-archive-l11852-l11882
+source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+passage_locator:
+  label: THE  SIKH  RELIGION / LIFE  OF  GURU  NANAK / THE  SIKH  RELIGION / LIFE  OF  GURU  NANAK;
+    lines 11852-11882
+  start: '11852'
+  end: '11882'
+  translation: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Truth is heaven, falsehood is hell.
+  summary: The passage gives a series of didactic moral equivalences contrasting truth
+    and falsehood, virtues and vices, proper guidance and lack of guidance, and social
+    duties. It concludes that one who knows and teaches these things is called wise,
+    after which the Guru and Mian Mitha separate.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage equates truth with heaven and falsehood with hell.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists moral and religious equivalences involving mildness, force,
+    justice, God's praises, a call to prayer, theft, adultery, patience, and impatience.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the right way is associated with spiritual advisers, while
+    the wrong way is associated with those who have none.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage connects compassion with wealth and lack of compassion with uselessness,
+    and states that the sword is for warriors and justice for monarchs.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that one who knows these things and causes others to know
+    them is called a wise man.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the didactic statement, the Guru and Mian Mitha separated.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Guru Nanak / the Guru
+  description: Nanak is named in the passage's address, and the final sentence refers
+    to one participant as the Guru.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Mian Mitha
+  description: Mian Mitha is named as the person who separated from the Guru.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: wise man
+  description: A generic person who knows the stated teachings and causes others to
+    know them is called wise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Guru
+  assigned_to:
+  - fig:1
+  basis: The passage's final sentence calls one participant 'the Guru.'
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: named participant in parting
+  assigned_to:
+  - fig:2
+  basis: Mian Mitha is named in the sentence describing separation from the Guru.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wise teacher
+  assigned_to:
+  - fig:3
+  basis: The wise man is defined as one who knows these things and causes others to
+    know them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heaven and hell contrast
+  literal_form: heaven; hell
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: right way and wrong way
+  literal_form: right way; wrong way
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sword
+  literal_form: sword
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Didactic moral equivalences
+  summary: A series of statements define virtues, vices, ritual terms, and social
+    duties through moral equivalences and contrasts.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Separation of the Guru and Mian Mitha
+  summary: After the statement, the Guru and Mian Mitha part from one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom as knowing and teaching moral distinctions
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly defines a wise man as one who knows the listed teachings
+    and causes others to know them.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is aphoristic and didactic rather than an extended narrative
+    episode.
+- id: motif:2
+  label: ethical duality through paired oppositions
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts truth with falsehood, right way with wrong way, patience
+    with impatience, compassion with lack of compassion, and other paired moral states.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The duality is ethical and instructional; the passage does not present
+    a cosmological dualism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11856-11866
+  quote_or_summary: The passage states moral equivalences including truth as heaven,
+    falsehood as hell, mildness as victuals, force as oppression, justice as pure,
+    God's praises as ablutions, the call to prayer as noise, theft as greed, adultery
+    as uncleanness, patience as humility, and impatience as deceit.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 11868-11873
+  quote_or_summary: The passage says the right way is that of spiritual advisers and
+    the wrong way is for those without them; compassion is wealth, lack of compassion
+    useless, the sword is for warriors, and justice for monarchs.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 11875-11880
+  quote_or_summary: He who knoweth and causeth others to know these things is called
+    a wise man.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: line 11882
+  quote_or_summary: Upon this the Guru and Mian Mitha separated.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to wisdom is strong;
+    assignment to duality is cautious because the passage is an ethical teaching,
+    not a mythic dualist narrative. No comparison claims are made because the passage
+    itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:sikh-sikh-religion-macauliffe-v1-archive__l11852-l11882
+  passage_sha256=9bccd62e4555e1e9a1345caa263164629239e18fa89687c68f60553bc6eaf32c
+

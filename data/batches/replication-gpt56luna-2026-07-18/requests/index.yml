@@ -1,0 +1,72 @@
+---
+batch_request_index_version: '1'
+run_id: replication-gpt56luna-2026-07-18
+created_at: '2026-07-18T06:44:12Z'
+updated_at: '2026-07-18T10:40:07Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-luna
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/motif-extraction-2026-04-27-corpus/passages.jsonl
+request_map_path: data/batches/replication-gpt56luna-2026-07-18/request-map.jsonl
+skip_ingested_from_run_id: replication-gpt56luna-2026-07-18
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/replication-gpt56luna-2026-07-18/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 16469416
+  sha256: 302215262694c973caeff07494ed3b35c6f8c707efa03a58d15503f911fe48c9
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt56luna-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: b852b48774a3e9353618cf1e533c10a23e1f3cf9c1dfa4fef58946e03db7de56
+  errors_path: data/batches/replication-gpt56luna-2026-07-18/results/shard-0001.errors.jsonl
+  errors_sha256: 0c7a4ff849cf2f97dfa8850a87ba4b42d6d19624840e489fdff50343184622ac
+  runtime: realtime
+  error_count: 1
+  last_checked_at: '2026-07-18T07:49:59Z'
+- shard_id: shard-0002
+  path: data/batches/replication-gpt56luna-2026-07-18/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 16809348
+  sha256: b78e1819665d3e9b0bf7523849d47c9a1d59945d205e7aeff7e3b832b3a0468e
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt56luna-2026-07-18/results/shard-0002.output.jsonl
+  output_sha256: da15a92bd31fb15c9822cd4e2e507587feda63a06adbf9114aa21b1c815d8b33
+  errors_path: data/batches/replication-gpt56luna-2026-07-18/results/shard-0002.errors.jsonl
+  errors_sha256: c48d3b7cce9b86653a2ec1d15073b6328491e8abf4d8fcf24c92f937d6c161fa
+  runtime: realtime
+  error_count: 1
+  last_checked_at: '2026-07-18T09:00:16Z'
+- shard_id: shard-0003
+  path: data/batches/replication-gpt56luna-2026-07-18/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 16718439
+  sha256: 7d223199781a563b7e3027bfe0a1a72d49945043a5c864ca8e42e2670ca78dd8
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed
+  output_path: data/batches/replication-gpt56luna-2026-07-18/results/shard-0003.output.jsonl
+  output_sha256: dad6e3fffc05617a4e839672bd5d93ece7e1f96b658547c1f2c05b71dea8bcc9
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T10:07:09Z'
+- shard_id: shard-0004
+  path: data/batches/replication-gpt56luna-2026-07-18/requests/shard-0004.jsonl
+  request_count: 386
+  bytes: 6432082
+  sha256: ba4eaefbc18c3c79685343cbd0177ec30313916f18e65c69f8ddc0bf730c9631
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed_with_errors
+  output_path: data/batches/replication-gpt56luna-2026-07-18/results/shard-0004.output.jsonl
+  output_sha256: e0e9e0a54ffd827e0a686a2bb25eac813f67ad0f5ad0da7bda10d8bd4e591a51
+  errors_path: data/batches/replication-gpt56luna-2026-07-18/results/shard-0004.errors.jsonl
+  errors_sha256: 2350742953e0ffaafd2f04e740d0b66171c904b22e39b541d3a21e3df72a9909
+  runtime: realtime
+  error_count: 1
+  last_checked_at: '2026-07-18T10:40:07Z'
+

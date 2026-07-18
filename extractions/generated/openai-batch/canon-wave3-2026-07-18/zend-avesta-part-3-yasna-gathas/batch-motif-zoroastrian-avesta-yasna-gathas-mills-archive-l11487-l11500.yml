@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l11487-l11500
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA    LI.  183 / YASNA    LI.  185 / I  86  THE    GATHAS. / YASNA    LIII.  187;
+    lines 11487-11500
+  start: '11487'
+  end: '11500'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker prays for blessing through Ahura Mazda's grace, names Righteousness,
+    Religion, Sovereign Power, and Good Mind, says Ahura Mazda knows the man whose
+    best gift for sacrifice is given from Righteousness, and declares worship of eternal
+    ones by their holy names while drawing near to their thrones with praise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker prays for a blessing from Ahura Mazda's grace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage associates Righteousness with blessedness, Religion, Sovereign
+    Power, and the Good Mind.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ahura Mazda is said to know the man whose best gift for sacrifice is given
+    to the speaker from the motive of Righteousness.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he will worship the eternal ones.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The eternal ones are described as those who have ever lived and who still
+    live.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says he will draw near to the thrones of the eternal ones with
+    praise and by their holy names.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice who prays, worships, and offers praise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Ahura Mazda
+  description: The divine figure whose grace is requested and who knows the man giving
+    the sacrificial gift.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the man whose best gift is given
+  description: A man known by Ahura Mazda, whose best gift for sacrifice is given
+    to the speaker from the motive of Righteousness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the eternal ones
+  description: Those who have ever lived and still live, worshipped by the speaker
+    by their holy names.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prayer and worship speaker
+  assigned_to:
+  - fig:1
+  basis: The first-person voice asks for blessing, says he will worship, and approaches
+    with praise.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine knower and source of grace
+  assigned_to:
+  - fig:2
+  basis: The passage asks blessing from His grace and states that Ahura Mazda knows
+    the sacrificial donor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: sacrificial donor
+  assigned_to:
+  - fig:3
+  basis: The man is identified by his best gift for the sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: worshipped eternal beings
+  assigned_to:
+  - fig:4
+  basis: The speaker says he will worship those who have ever lived and still live.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacrifice
+  literal_form: A sacrifice for which a best gift is given.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: holy names
+  literal_form: Names by which the eternal ones are invoked or addressed in worship.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: thrones
+  literal_form: Thrones belonging to the eternal ones, approached by the speaker with
+    praise.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prayer for blessing and righteous power
+  summary: The speaker prays for blessing from Ahura Mazda's grace and names Righteousness,
+    Religion, Sovereign Power, and Good Mind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Recognition of sacrificial gift
+  summary: Ahura Mazda is said to know the man whose best gift for sacrifice is given
+    to the speaker from the motive of Righteousness.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Worship of the eternal ones
+  summary: The speaker declares worship of the eternal ones by their holy names and
+    says he will draw near to their thrones with praise.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacrificial gift and worship
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly mentions a best gift for the sacrifice and the speaker's
+    worship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is brief and does not describe the sacrificial procedure.
+- id: motif:2
+  label: ritual praise by holy names
+  taxonomy_refs: []
+  basis: The speaker worships eternal beings by their holy names and approaches their
+    thrones with praise.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly matches name-invocation or throne-approach.
+- id: motif:3
+  label: righteous motive known by deity
+  taxonomy_refs: []
+  basis: Ahura Mazda is said to know the man whose sacrificial gift is given from
+    the motive of Righteousness.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states divine knowledge, but does not explicitly narrate judgment
+    or reward.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11487-11491
+  quote_or_summary: The speaker refers to blessed Righteousness, Religion, Sovereign
+    Power established through the Good Mind, and prays for blessing from Ahura Mazda's
+    grace.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:2
+  type: quote
+  locator: lines 11492-11495
+  quote_or_summary: '"Ahura Mazda knoweth the man whose best gift for the sacrifice
+    is given unto me, and from the motive of Righteousness"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 11496-11500
+  quote_or_summary: The speaker says he will worship those who have ever lived and
+    still live, using their holy names, and will draw near to their thrones with praise.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    by the short, liturgical nature of the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not provide a clear cross-textual comparison.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l11487-l11500
+  passage_sha256=c48bb00d8d78dada53f5071aad770c28232c14858414014cca186e8997c0d838
+

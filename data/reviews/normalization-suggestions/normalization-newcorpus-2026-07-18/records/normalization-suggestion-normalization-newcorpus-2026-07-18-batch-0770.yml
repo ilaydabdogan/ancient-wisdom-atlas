@@ -1,0 +1,335 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0770
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.son-measured-against-heroic-father
+  motif_id: son_measured_against_heroic_father
+  label: Son measured against heroic father
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern heroic lineage, filial comparison, succession,
+    or social expectation, but the narrative function is unclear.
+  cautions: Single occurrence; could fit royal_legitimacy, heroic_funeral_rites, sacred_combat,
+    or a family-lineage theme depending on passage evidence.
+  suggested_aliases:
+  - heroic paternal comparison
+  - son compared to father
+  - filial heroic standard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sorcerer-father-equips-son-for-masked-nocturnal-arson
+  motif_id: sorcerer_father_equips_son_for_masked_nocturnal_arson
+  label: Sorcerer father equips son for masked nocturnal arson
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship, sorcery, disguise, and destructive attack
+    without a clear existing narrative function.
+  cautions: Culturally sensitive and over-specific; verify whether the motif is magical
+    instruction, masked ritual, arson attack, or episode-specific plot detail before
+    mapping.
+  suggested_aliases:
+  - father equips son for magical attack
+  - masked nocturnal arson by sorcerer's son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - shapeshifter
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sorcerous-killing-through-detached-breath-and-poisoned-object
+  motif_id: sorcerous_killing_through_detached_breath_and_poisoned_object
+  label: Sorcerous killing through detached breath and poisoned object
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Detached breath used in killing points to separable life-force or soul
+    substance vulnerable outside the body.
+  cautions: Poisoned object may indicate sorcery or harmful ritual rather than external-soul
+    dependency; source context should confirm the breath/life-force function.
+  suggested_aliases:
+  - detached breath used to kill
+  - separable breath as vulnerable life-force
+  - sorcerous killing through externalized breath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spousal-creation-with-love-and-compassion
+  motif_id: spousal_creation_with_love_and_compassion
+  label: Spousal creation with love and compassion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames spousal relation as divinely meaningful through love
+    and compassion, fitting sacred love rather than generic marriage.
+  cautions: If the passage primarily explains human origins or creation of spouses,
+    cosmic_origin or sacred_marriage may be important secondary mappings.
+  suggested_aliases:
+  - spouses created in love and mercy
+  - compassionate spousal creation
+  - divinely grounded spousal affection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spousal-impersonation-through-disguise
+  motif_id: spousal_impersonation_through_disguise
+  label: spousal impersonation through disguise
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Impersonating a spouse through disguise uses altered appearance or identity
+    to cross relational boundaries.
+  cautions: If the narrative function is deception in marriage rather than bodily
+    transformation, a future disguise/deception group may fit better; do not assume
+    supernatural shapeshifting.
+  suggested_aliases:
+  - disguised spouse impersonation
+  - marital impostor in disguise
+  - spouse replaced by disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - recognition_tokens_hidden_identity
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stepmother-s-promised-favor-reverses-into-persecution
+  motif_id: stepmother_s_promised_favor_reverses_into_persecution
+  label: Stepmother’s promised favor reverses into persecution
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is hostile stepmotherly reversal into persecution, matching
+    the established persecuted-child group.
+  cautions: Preserve the promised-favor reversal as episode detail; not all stepmother
+    persecution involves jealousy or false favor.
+  suggested_aliases:
+  - false favor from stepmother
+  - promised favor becomes persecution
+  - stepmotherly reversal into harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stepmother-uses-witchcraft-against-stepchildren
+  motif_id: stepmother_uses_witchcraft_against_stepchildren
+  label: Stepmother uses witchcraft against stepchildren
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: high
+  rationale: The key narrative function is persecution of stepchildren by a stepmother;
+    witchcraft is the means.
+  cautions: If the passage emphasizes magical transformation or spell mechanics more
+    than family persecution, shapeshifter or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - witchcraft against stepchildren
+  - magical persecution by stepmother
+  - stepmother harms children by magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-children-and-false-accusation-against-mother
+  motif_id: stolen_children_and_false_accusation_against_mother
+  label: Stolen children and false accusation against mother
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines child theft with false accusation and maternal condemnation;
+    existing groups only partially cover it.
+  cautions: May belong with persecuted mother/childbirth tale-types rather than jealous
+    stepmother; source evidence is needed to identify accuser, motive, and resolution.
+  suggested_aliases:
+  - children stolen and mother falsely accused
+  - false accusation after child theft
+  - mother condemned after stolen children
+  suggested_new_group:
+    id: persecuted_mother_and_stolen_children
+    label: Persecuted Mother and Stolen Children
+    description: A mother is falsely accused, condemned, or displaced after her infant
+      or children are stolen, hidden, substituted, or made to appear monstrous or
+      absent.
+    parent_group_ids:
+    - miraculous_child
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - divine_judgment
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing persecuted-child and false-accusation
+      groups do not capture the recurring maternal-childbirth pattern where stolen
+      children cause the mother's disgrace or punishment.
+- suggestion_id: normalization.suggestion.stolen-infant-and-falsely-condemned-mother
+  motif_id: stolen_infant_and_falsely_condemned_mother
+  label: stolen infant and falsely condemned mother
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Persecuted Mother and Stolen Children
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a close instance of the persecuted mother after stolen child
+    pattern, which existing child-focused groups do not fully capture.
+  cautions: Only one occurrence in this batch, but paired with a near-duplicate label;
+    verify recurrence outside this batch before adding a group.
+  suggested_aliases:
+  - stolen infant and condemned mother
+  - mother falsely condemned after infant theft
+  - infant theft causing maternal disgrace
+  suggested_new_group:
+    id: persecuted_mother_and_stolen_children
+    label: Persecuted Mother and Stolen Children
+    description: A mother is falsely accused, condemned, or displaced after her infant
+      or children are stolen, hidden, substituted, or made to appear monstrous or
+      absent.
+    parent_group_ids:
+    - miraculous_child
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - divine_judgment
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: The current jealous_stepmother_persecuted_child
+      group centers the endangered child, while this pattern centers false condemnation
+      of the mother through child theft or substitution.
+- suggestion_id: normalization.suggestion.stolen-maiden-in-a-demonic-palace-as-adviser
+  motif_id: stolen_maiden_in_a_demonic_palace_as_adviser
+  label: Stolen maiden in a demonic palace as adviser
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: stolen_beloved
+  suggested_group_label: Stolen Or Lost Beloved
+  relationship: functional_variant
+  confidence: medium
+  rationale: A stolen maiden held in a demonic palace fits the abduction or loss that
+    initiates rescue, quest, or ordeal.
+  cautions: The adviser role and demonic palace setting may point to otherworld or
+    sacred_knowledge if she chiefly provides hidden knowledge rather than functioning
+    as lost beloved.
+  suggested_aliases:
+  - abducted maiden in demonic palace
+  - stolen beloved as adviser
+  - captive maiden adviser
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_knowledge
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggestions should be
+  treated as provisional until passage evidence confirms narrative function.
+- The paired stolen-child/mother-condemnation labels suggest a possible recurring
+  group distinct from persecuted-child motifs, but recurrence should be checked before
+  taxonomy promotion.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch 0770.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0770
+  input_sha256: 0aceb87366b4d5988267d61d5af3bc0ba236ba823423b47ae3953a0c570c7e92
+

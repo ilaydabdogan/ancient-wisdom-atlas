@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l16267-l16281
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    II,    96-104.  271 / CHAPTER    II,    IO5-II6.  273 / CHAPTER    II,   II  7-1  22.  275
+    / T    2; lines 16267-16281
+  start: '16267'
+  end: '16281'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A ritual-legal passage gives rules for cleanliness, pollution, and washing
+    of foodstuffs and materials. It states that fruit with a perceptible rind is not
+    polluted by contact with dead matter, while fruit without a perceptible rind is
+    washed like another specified substance. It also states that meat, butter, milk,
+    cheese, and preserves are not washed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the date is clean and that washing a stone is like
+    washing wood.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pomegranate, citron, quince, apple, pear, and other fruit are listed as fruits
+    under consideration when bearing fruit and having a perceptible rind.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If dead matter comes upon fruit while its rind is perceptible, the passage
+    says there is no pollution of it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If the rind is not perceptible on the fruit, its washing is prescribed as
+    being like that of another named substance in the text.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that rind is always with the citron.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Meat, butter, milk, cheese, and preserves are listed as substances for which
+    there is no washing.
+  category: object
+  evidence_refs:
+  - ev:4
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: fruit rind
+  literal_form: perceptible rind on fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: dead matter
+  literal_form: dead matter coming upon fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: milk
+  literal_form: milk listed among substances for which there is no washing
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: washing
+  literal_form: washing of stone, wood, and fruit without perceptible rind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Purity rules for fruit and foodstuffs
+  summary: 'The passage sets out ritual-cleanliness rules: some materials are compared
+    in method of washing, fruit with a visible rind is not polluted by dead matter,
+    fruit without such a rind is washed, and several animal or prepared foods are
+    not washed.'
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Dead matter as a source of ritual pollution
+  taxonomy_refs: []
+  basis: The passage evaluates whether fruit becomes polluted when dead matter comes
+    upon it and distinguishes conditions under which there is no pollution.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a ritual-legal purity rule rather than a narrative mythic motif;
+    no supplied taxonomy motif precisely matches it.
+- id: motif:2
+  label: Washing as ritual purification rule
+  taxonomy_refs: []
+  basis: The passage compares washing of stone and wood and prescribes washing for
+    fruit without a perceptible rind, while exempting other foods from washing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes procedural purity law; symbolic or comparative significance
+    is not stated in the passage.
+- id: motif:3
+  label: Protective boundary of the fruit rind
+  taxonomy_refs: []
+  basis: Fruit with a perceptible rind is said not to become polluted when dead matter
+    comes upon it, while fruit without a perceptible rind is treated differently.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The protective function is limited to the stated purity rule; broader
+    symbolism should not be inferred from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16271-16272
+  quote_or_summary: The passage states that the date is clean and that the washing
+    of stone is like that of wood.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16272-16276
+  quote_or_summary: Pomegranate, citron, quince, apple, pear, and other fruit, when
+    bearing and with perceptible rind, are not polluted when dead matter comes upon
+    them.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16276-16279
+  quote_or_summary: When the rind is not perceptible, the fruit is to be washed like
+    another specified substance; the passage adds that rind is always with the citron.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16279-16281
+  quote_or_summary: For meat, butter, milk, cheese, and preserves, the passage says
+    there is no washing.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and ritual-legal rather than narrative. Literal
+    purity rules are clear, but motif classification is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make comparative claims to other traditions or motif families.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l16267-l16281
+  passage_sha256=299b4c008bb2c9aa08c385f6353db8647ded9cee44141853f60b1c429e0be0f7
+

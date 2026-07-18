@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0517
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.music-or-song-accompanying-magical-navigation
+  motif_id: music_or_song_accompanying_magical_navigation
+  label: Music or song accompanying magical navigation
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music or song functions as supernatural aid during navigation, fitting
+    sound as magical force.
+  cautions: If the song is only accompaniment and not causally magical, it may be
+    an over-specific episode detail.
+  suggested_aliases:
+  - magical_song_navigation
+  - song_guided_navigation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-or-song-used-at-a-turning-point
+  motif_id: music_or_song_used_at_a_turning_point
+  label: Music or song used at a turning point
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A song marking a narrative turning point may function as performative
+    oral power or transformative speech.
+  cautions: Very broad label; if the music compels, enchants, heals, or summons, enchanting_music
+    may be better. Source context needed.
+  suggested_aliases:
+  - song_at_turning_point
+  - turning_point_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myth-interwoven-with-historical-memory
+  motif_id: myth_interwoven_with_historical_memory
+  label: myth interwoven with historical memory
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive relation between myth and history rather
+    than a narrative motif.
+  cautions: Preserve as contextual or historiographic metadata if useful; do not treat
+    as evidence of transmission or historicity.
+  suggested_aliases:
+  - myth_and_historical_memory
+  - historical_memory_in_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-animal-combat-explains-place-names
+  motif_id: mythic_animal_combat_explains_place_names
+  label: Mythic animal combat explains place names
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core function is etiological place naming, already represented under
+    cosmic_origin landscape/name-origin variants.
+  cautions: Animal combat detail should be preserved; if combat itself is central,
+    sacred_combat or divine_warrior may be a secondary relation.
+  suggested_aliases:
+  - animal_combat_place_name_etiology
+  - place_name_etiology_from_mythic_animal_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-charter-for-ceremonial-songs
+  motif_id: mythic_charter_for_ceremonial_songs
+  label: Mythic charter for ceremonial songs
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ceremonial songs belong near sacred sound, but the charter function may
+    be ritual authorization rather than magical music.
+  cautions: Culturally sensitive ceremonial material; review source context before
+    indexing. Could fit sacred_law, sacred_knowledge, or storytelling_as_power depending
+    on evidence.
+  suggested_aliases:
+  - ceremonial_song_charter
+  - mythic_origin_of_ceremonial_songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-explanation-of-a-poetic-gold-name
+  motif_id: mythic_explanation_of_a_poetic_gold_name
+  label: mythic explanation of a poetic gold-name
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to explain a poetic diction or kenning term rather
+    than a reusable mythic pattern.
+  cautions: If the underlying myth explains the origin of gold or a treasure, preserve
+    that episode under sacred_treasures or cosmic_origin as appropriate.
+  suggested_aliases:
+  - poetic_gold_name_etiology
+  - mythic_kenning_explanation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-manufacture-of-children-by-non-human-or-named-makers
+  motif_id: mythic_manufacture_of_children_by_non_human_or_named_makers
+  label: mythic manufacture of children by non-human or named makers
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: Extraordinary making of children by non-human agents overlaps with sacred
+    birth or miraculous child origins.
+  cautions: Culturally sensitive and source-dependent; may instead be creation of
+    humans, ancestral origins, or sacred craft. Avoid flattening local ontology.
+  suggested_aliases:
+  - children_made_by_nonhuman_makers
+  - manufactured_children_mythic_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-and-memory-as-continuity-or-erasure
+  motif_id: name_and_memory_as_continuity_or_erasure
+  label: name and memory as continuity or erasure
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Names and memory as preservation or erasure concern sacred knowledge,
+    identity, and transmission of remembrance.
+  cautions: Abstract label; could also fit divine_judgment if erasure is punishment,
+    storytelling_as_power if memory is narrative survival, or death_and_transformation
+    if postmortem continuity is central.
+  suggested_aliases:
+  - name_memory_continuity
+  - memory_erasure_by_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-as-provisional-designation
+  motif_id: name_as_provisional_designation
+  label: name as provisional designation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A provisional name may encode philosophical teaching about identity,
+    language, and knowledge.
+  cautions: Likely doctrinal or commentary abstraction rather than a motif; review
+    whether it appears as a narrative pattern or teaching concept.
+  suggested_aliases:
+  - provisional_naming
+  - name_as_conventional_designation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-derived-from-hidden-underground-preservation
+  motif_id: name_derived_from_hidden_underground_preservation
+  label: name derived from hidden underground preservation
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: low
+  rationale: The name-derivation aspect resembles etiological naming, but hidden underground
+    preservation may involve emergence, refuge, or sacred geography.
+  cautions: Culturally specific place/name etiology likely needs source review; do
+    not collapse underground preservation into underworld descent unless a death/otherworld
+    journey is present.
+  suggested_aliases:
+  - name_etiology_from_underground_preservation
+  - hidden_underground_preservation_name_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly abstract; placements
+  should remain provisional until source passages are checked.
+- Song-related labels split between enchanting_music and storytelling_as_power depending
+  on whether sound has causal supernatural force or narrative/ritual authorization.
+- Name-etiology labels should preserve local context and avoid transmission or historicity
+  claims.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific ceremonial, Aboriginal, Navajo, and Buddhist doctrinal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0517
+  input_sha256: 3aea9276c006d3af2ed363565fa1691b24ce0ec4fae7aa72bec9063d5086b00f
+

@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0533
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-dreams-hidden-by-deceptive-interpretation
+  motif_id: prophetic_dreams_hidden_by_deceptive_interpretation
+  label: Prophetic dreams hidden by deceptive interpretation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is a prophetic dream whose meaning is mediated or concealed
+    through interpretation.
+  cautions: Deception may also relate to trickster or betrayal if the narrative emphasizes
+    the interpreter's falsehood more than the dream revelation.
+  suggested_aliases:
+  - deceptive_interpretation_of_prophetic_dream
+  - concealed_prophetic_dream_meaning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-dreams-interpreted-as-a-future-companion
+  motif_id: prophetic_dreams_interpreted_as_a_future_companion
+  label: prophetic dreams interpreted as a future companion
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: high
+  rationale: A dream is explicitly prophetic and interpreted as revealing a future
+    relationship or companion.
+  cautions: Preserve the companion-specific content as evidence detail; it is likely
+    too specific for a canonical motif.
+  suggested_aliases:
+  - prophetic_dream_of_future_companion
+  - dream_interpretation_reveals_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-oracle-reinterpreted-as-cosmic-revelation
+  motif_id: prophetic_oracle_reinterpreted_as_cosmic_revelation
+  label: Prophetic oracle reinterpreted as cosmic revelation
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines oracle, reinterpretation, and cosmic revelation, which
+    may be motif evidence or a scholarly/redactional claim.
+  cautions: If the emphasis is reinterpretation by a later text or school, exclude
+    as textual commentary; if an oracle reveals cosmic structure, map to prophecy_divination
+    with sacred_knowledge or theophany as related context.
+  suggested_aliases:
+  - oracle_as_cosmic_revelation
+  - prophetic_oracle_cosmic_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-riddle-and-parable-commission
+  motif_id: prophetic_riddle_and_parable_commission
+  label: prophetic riddle and parable commission
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A commissioned prophetic utterance using riddles or parables fits prophetic
+    speech and hidden revelation.
+  cautions: Could also index under storytelling_as_power or sacred_knowledge if the
+    passage foregrounds parable as teaching rather than prophetic office.
+  suggested_aliases:
+  - prophetic_parable_commission
+  - riddling_prophetic_speech
+  - commission_to_speak_in_parables
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-speech-as-authoritative-living-proclamation
+  motif_id: prophetic_speech_as_authoritative_living_proclamation
+  label: Prophetic speech as authoritative living proclamation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: broader_label
+  confidence: medium
+  rationale: The label emphasizes authoritative sacred speech whose utterance has
+    binding or living force.
+  cautions: If the passage is primarily about prophetic role or revelation rather
+    than performative speech, prophecy_divination or sacred_knowledge may be better
+    secondary mappings.
+  suggested_aliases:
+  - authoritative_prophetic_proclamation
+  - living_prophetic_speech
+  - performative_prophetic_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-victory-song-with-tambourine-dance
+  motif_id: prophetic_victory_song_with_tambourine_dance
+  label: Prophetic victory song with tambourine dance
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: uncertain
+  confidence: low
+  rationale: No exact existing group covers ritual victory song; the closest recurring
+    expressive pattern may be sacred song, currently under mystical_quest aliases,
+    but the victory context is not mystical.
+  cautions: Do not force into sacred_fire semantically; human review should likely
+    decide between storytelling_as_power, enchanting_music, prophecy_divination, or
+    a future ritual song/praise group. The tambourine detail is probably over-specific.
+  suggested_aliases:
+  - prophetic_victory_song
+  - ritual_victory_song
+  - sacred_victory_dance
+  suggested_new_group:
+    id: sacred_song_praise
+    label: Sacred Song, Praise, and Ritual Proclamation
+    description: Song, chant, praise, or ritual performance used to proclaim divine
+      action, victory, teaching, lament, or sacred memory without necessarily functioning
+      as magical compulsion.
+    parent_group_ids:
+    - storytelling_as_power
+    - prophecy_divination
+    related_group_ids:
+    - enchanting_music
+    - sacred_knowledge
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing enchanting_music emphasizes supernatural
+      compulsion, while sacred_song is only an alias under mystical_quest; prophetic
+      victory praise is expressive and ritual rather than necessarily mystical or
+      coercive.
+- suggestion_id: normalization.suggestion.prophetic-vision-of-foreign-possession-of-land
+  motif_id: prophetic_vision_of_foreign_possession_of_land
+  label: prophetic vision of foreign possession of land
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a prophetic vision, but its colonial or land-possession
+    content is historically and culturally sensitive.
+  cautions: Review source context carefully; it may be an historical prophecy, political
+    memory, land dispossession narrative, or later interpretive artifact rather than
+    a generalizable motif.
+  suggested_aliases:
+  - vision_of_future_foreign_rule
+  - prophetic_vision_of_land_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-vision-verified-by-later-secure-entry
+  motif_id: prophetic_vision_verified_by_later_secure_entry
+  label: Prophetic vision verified by later secure entry
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A vision is confirmed by later events, fitting prophetic vision and verification
+    through fulfillment.
+  cautions: If the passage emphasizes formal prophecy or communal legitimacy, prophecy_divination
+    or royal_legitimacy may be relevant secondary contexts.
+  suggested_aliases:
+  - fulfilled_prophetic_vision
+  - verified_prophetic_vision
+  - vision_confirmed_by_later_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-maiden-in-a-locked-house-opened-by-a-secret-song
+  motif_id: protected_maiden_in_a_locked_house_opened_by_a_secret_song
+  label: Protected maiden in a locked house opened by a secret song
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The operative motif is a secret song that opens or controls access to
+    a protected enclosure.
+  cautions: The maiden-in-locked-house element may belong to sacred_love, threshold_guardian,
+    or captivity motifs depending on narrative function; avoid reducing the episode
+    solely to music if protection or rescue is central.
+  suggested_aliases:
+  - secret_song_opens_locked_house
+  - song_password_opens_threshold
+  - protected_maiden_accessed_by_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-threshold-with-a-password
+  motif_id: protected_threshold_with_a_password
+  label: protected threshold with a password
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A password controls passage across a protected boundary, matching threshold-access
+    logic even without a named guardian figure.
+  cautions: If the password is chiefly a sacred name or word of power, afterlife_passage
+    or curse_blessing_speech may be relevant; if merely a plot device, preserve as
+    evidence detail.
+  suggested_aliases:
+  - password_protected_threshold
+  - secret_word_opens_threshold
+  - guarded_boundary_password
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence prophetic or vision variants;
+  prefer broad placement under dream_and_vision or prophecy_divination while preserving
+  local details as aliases/evidence notes.
+- The existing taxonomy lacks a clean non-coercive ritual song or praise group; one
+  item suggests a possible future sacred_song_praise group, but human review should
+  compare against enchanting_music, storytelling_as_power, and prophecy_divination
+  before adding it.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Draft provisional placements only; culturally sensitive land-possession vision
+    and reinterpretation/oracle labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0533
+  input_sha256: 1446f21561e44cc9a778a0c04d1755755bcb4bd019b2163ac9eae1de945aa06e
+

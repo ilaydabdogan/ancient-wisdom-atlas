@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0228
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.solar-or-divine-boat-journey
+  motif_id: solar_or_divine_boat_journey
+  label: Solar or divine boat journey
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine or solar boat journey often functions as a celestial/heavenly
+    transit rather than an ordinary quest.
+  cautions: Egyptian solar barque material may also involve underworld/night journey,
+    sacred waters, or cosmic renewal; source context should decide secondary mappings.
+  suggested_aliases:
+  - solar boat journey
+  - divine boat journey
+  - solar barque journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-animal-companion-on-bridal-journey
+  motif_id: speaking_animal_companion_on_bridal_journey
+  label: Speaking animal companion on bridal journey
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal speech, companionship, and bridal journey;
+    no existing group cleanly captures the whole function.
+  cautions: Could fit animal helper under divine_intervention, sacred_love if marriage
+    is central, or hero_journey if the bridal journey is the ordeal. Source evidence
+    needed.
+  suggested_aliases:
+  - speaking animal helper on bridal journey
+  - animal companion in marriage journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-animal-household-encountered-during-quest
+  motif_id: speaking_animal_household_encountered_during_quest
+  label: Speaking animal household encountered during quest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be a quest episode, animal-helper encounter, enchanted
+    household, or fable-like scene depending on passage function.
+  cautions: Avoid creating a broad talking-animal group from a single over-specific
+    quest detail unless similar labels recur.
+  suggested_aliases:
+  - talking animal household on quest
+  - speaking animals encountered during quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-enchanted-fish-answer-a-ritual-question
+  motif_id: speaking_enchanted_fish_answer_a_ritual_question
+  label: Speaking enchanted fish answer a ritual question
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An enchanted fish answering a ritual question functions as divinatory
+    access to hidden knowledge.
+  cautions: If the fish is primarily an animal helper or marvel encountered on a journey,
+    divine_intervention or otherworld may be relevant instead.
+  suggested_aliases:
+  - speaking fish oracle
+  - enchanted fish answers ritual question
+  - animal divination response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-plant-or-fruit-requests-plucking
+  motif_id: speaking_plant_or_fruit_requests_plucking
+  label: Speaking plant or fruit requests plucking
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates an animate plant or fruit, but its narrative function
+    is unclear from wording alone.
+  cautions: Could involve sacred tree/plant symbolism, enchanted otherworld, quest
+    aid, sacrifice, or a passage-specific marvel. Needs source context.
+  suggested_aliases:
+  - speaking plant requests plucking
+  - speaking fruit requests plucking
+  - animate plant requests harvest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speech-taboo-averting-storm-during-dangerous-crossing
+  motif_id: speech_taboo_averting_storm_during_dangerous_crossing
+  label: Speech taboo averting storm during dangerous crossing
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is a speech rule whose observance has protective power
+    during a perilous crossing.
+  cautions: Also overlaps sacred_law for taboo/prohibition and sacred_waters or hero_journey
+    for the dangerous crossing; preserve local storm-crossing detail.
+  suggested_aliases:
+  - speech taboo during crossing
+  - taboo speech averts storm
+  - silence or speech rule averts storm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-ownership-claim-controls-destructive-fire
+  motif_id: spoken_ownership_claim_controls_destructive_fire
+  label: spoken ownership claim controls destructive fire
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken claim directly controlling a destructive force fits performative
+    sacred speech.
+  cautions: If the main motif is fire as divine or destructive power, sacred_fire
+    or world-destroying fire may be secondary; avoid mapping to cosmic catastrophe
+    unless world/order renewal is present.
+  suggested_aliases:
+  - spoken claim controls fire
+  - performative ownership over fire
+  - speech controls destructive fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spouse-insists-on-sharing-exile-and-fate
+  motif_id: spouse_insists_on_sharing_exile_and_fate
+  label: spouse insists on sharing exile and fate
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on conjugal fidelity and shared destiny through exile,
+    aligning with sacred love and devotion.
+  cautions: Could also index to hero_journey or death_by_fate if the passage emphasizes
+    exile structure or destiny more than fidelity.
+  suggested_aliases:
+  - spouse shares exile
+  - conjugal fidelity in exile
+  - spouse shares fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.staff-bearing-solar-traveller
+  motif_id: staff_bearing_solar_traveller
+  label: staff-bearing solar traveller
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is sparse and may describe a solar figure, travel role, iconographic
+    attribute, or episode-specific detail.
+  cautions: Could fit sacred_fire/solar power, hero_journey, culture_hero, or sacred_treasures
+    if the staff is a power object; source evidence is required.
+  suggested_aliases:
+  - solar traveller with staff
+  - staff-bearing sun traveler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-driven-shipwreck-and-sea-ordeal
+  motif_id: storm_driven_shipwreck_and_sea_ordeal
+  label: storm-driven shipwreck and sea ordeal
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shipwreck caused by storm is a perilous travel ordeal within a quest
+    or journey sequence.
+  cautions: If the sea ordeal marks transformation, death-like descent, or water crossing,
+    initiation, descent, or sacred_waters may be secondary mappings.
+  suggested_aliases:
+  - storm shipwreck ordeal
+  - sea ordeal by storm
+  - shipwreck as journey ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine journey framing with animal speech, divination, taboo, or
+  marital fidelity; final placement should follow narrative function, not the review
+  bucket alone.
+- Single-occurrence, over-specific labels should generally remain granular evidence
+  unless recurring parallels justify a new group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous animal/plant
+    speech and solar-traveller labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0228
+  input_sha256: 86be8f30b0627f8028a58fc31ec7ee5be365711e55d59bc0f8c6b07be3f0f7c8
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0750
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pick-and-choose-spouse-refusal-before-monster-marriage
+  motif_id: pick_and_choose_spouse_refusal_before_monster_marriage
+  label: pick-and-choose spouse refusal before monster marriage
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns marriage choice and refusal, which may relate to bride-choice
+    or bride-winning motifs already under sacred_love.
+  cautions: Monster marriage and refusal may instead be coercive marriage, animal
+    bridegroom, perilous suitor, or over-specific tale detail; source context is needed.
+  suggested_aliases:
+  - monster marriage refused
+  - spouse choice refusal
+  - coerced monster marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.planted-object-used-to-frame-or-retain-a-person
+  motif_id: planted_object_used_to_frame_or_retain_a_person
+  label: planted object used to frame or retain a person
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already contains several planted-token false-accusation motifs;
+    this label functions as a framing or coercive accusation device.
+  cautions: If the planted object is mainly an identity token or retention charm rather
+    than accusation, recognition_tokens_hidden_identity or sacred_treasures may be
+    secondary.
+  suggested_aliases:
+  - planted evidence framing a person
+  - planted object false accusation
+  - planted token used to retain someone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pledged-marriage-resisted-by-flight
+  motif_id: pledged_marriage_resisted_by_flight
+  label: Pledged marriage resisted by flight
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Flight from a pledged marriage may fit marriage-choice and resisted-union
+    motifs grouped under sacred_love.
+  cautions: Could be a culturally specific kinship-law or marriage-rule episode rather
+    than sacred love; review with care before indexing.
+  suggested_aliases:
+  - flight from pledged marriage
+  - resisted arranged marriage
+  - marriage pledge evaded by flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plot-against-a-chaste-wife
+  motif_id: plot_against_a_chaste_wife
+  label: plot against a chaste wife
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plot against a chaste wife commonly functions as false accusation,
+    testing, and vindication, already represented in divine_judgment aliases and children.
+  cautions: If the passage emphasizes marital fidelity or persecuted spouse more than
+    moral reckoning, sacred_love may be a secondary mapping.
+  suggested_aliases:
+  - chaste wife falsely accused
+  - persecuted chaste wife
+  - plot against faithful wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-casket-and-averted-self-destruction
+  motif_id: poison_casket_and_averted_self_destruction
+  label: Poison casket and averted self-destruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A poison casket is a dangerous container or power object, but the key
+    narrative function is unclear from the label.
+  cautions: May belong with sacred_vessel, death_and_transformation, divine_judgment,
+    or be too episode-specific; do not map solely from the object.
+  suggested_aliases:
+  - poison casket
+  - averted suicide by poison
+  - poison container and self-destruction averted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-expelled-by-incantation
+  motif_id: poison_expelled_by_incantation
+  label: poison expelled by incantation
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on spoken incantation acting performatively to expel
+    poison.
+  cautions: If framed as healing rite or divine intervention rather than speech act,
+    divine_intervention or sacred_law may be relevant secondary groups.
+  suggested_aliases:
+  - healing incantation expels poison
+  - poison removed by spell
+  - spoken charm against poison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-expelled-to-earth-or-ground
+  motif_id: poison_expelled_to_earth_or_ground
+  label: Poison expelled to earth or ground
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Expelling poison to the ground may be a ritual transfer or pollution-removal
+    practice, loosely fitting sacred_law's apotropaic and contagion cluster.
+  cautions: Could instead belong under sacred_exchange if transfer is central, divine_intervention
+    if a deity heals, or be a granular evidence detail paired with poison_expulsion_by_incantation.
+  suggested_aliases:
+  - poison transferred to ground
+  - poison expelled into earth
+  - ritual removal of poison to earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-immunity-and-failed-protection-of-the-son
+  motif_id: poison_immunity_and_failed_protection_of_the_son
+  label: poison immunity and failed protection of the son
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: low
+  rationale: Poison immunity suggests conditional protection, but the failed protection
+    of the son makes the exact motif ambiguous.
+  cautions: May be a parent-child protection tragedy, fate/death motif, or episode-specific
+    detail; source evidence is required before final mapping.
+  suggested_aliases:
+  - poison immunity fails to protect child
+  - failed protective immunity
+  - son unprotected despite poison immunity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-transferred-through-animal-food-chain-kills-enemies
+  motif_id: poison_transferred_through_animal_food_chain_kills_enemies
+  label: poison transferred through animal food chain kills enemies
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The poison transfer functions as an indirect killing stratagem against
+    enemies in a conflict context.
+  cautions: If the emphasis is treachery or moral retribution, betrayal_violated_trust
+    or divine_judgment may be better; animal food-chain detail is likely over-specific.
+  suggested_aliases:
+  - poisoned food-chain kills enemies
+  - indirect poison stratagem
+  - poison through carrion kills foes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-transferred-through-food-and-carrion
+  motif_id: poison_transferred_through_food_and_carrion
+  label: Poison transferred through food and carrion
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Poison moving through food and carrion may involve taboo, contagion,
+    or dangerous substance logic covered loosely by sacred_law.
+  cautions: Without a clear narrative function, this may be an over-specific poisoning
+    detail; could also map to sacred_combat, betrayal, or divine_judgment if used
+    to kill or punish.
+  suggested_aliases:
+  - poison through food and carrion
+  - poison contagion through carrion
+  - poisoned food transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern marriage coercion/refusal and poisoning but
+  lack enough context to distinguish symbolic motif from episode detail.
+- Poison-related labels may eventually justify a recurring poison/healing/contagion
+  review cluster, but current evidence here is mostly single-occurrence and should
+  not be promoted yet.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific marriage rules and poison-healing ritual contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0750
+  input_sha256: 69e094bb26cabba22cd0c4a87444d8c8e1becef5ed69fad4bdb8d1a2f9522e92
+

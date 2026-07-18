@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0389
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.preservation-of-ritually-used-substance-for-future-use
+  motif_id: preservation_of_ritually_used_substance_for_future_use
+  label: Preservation of ritually used substance for future use
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on a ritually charged substance retained for later
+    sacred use, fitting the sacred_substance group.
+  cautions: Single occurrence; if preservation is mainly offering storage or covenant
+    memorial, sacred_exchange or sacred_treasures may be secondary.
+  suggested_aliases:
+  - ritually_preserved_substance
+  - preserved_ritual_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserved-bodily-remnant-connected-to-sacred-anointing
+  motif_id: preserved_bodily_remnant_connected_to_sacred_anointing
+  label: Preserved bodily remnant connected to sacred anointing
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A preserved bodily remnant used or remembered through anointing functions
+    like a relic or sacred power object.
+  cautions: Could also involve heroic/saintly relic devotion or funerary preservation;
+    passage context should determine whether it is relic, anointing rite, or bodily
+    transformation.
+  suggested_aliases:
+  - anointed_bodily_remnant
+  - preserved_sacred_remnant
+  - anointed_relic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserved-revelation-with-purity-restriction
+  motif_id: preserved_revelation_with_purity_restriction
+  label: Preserved revelation with purity restriction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core is guarded sacred revelation, with purity restriction as the
+    access condition.
+  cautions: If the passage primarily legislates purity rather than transmission of
+    revelation, sacred_law may be a better primary group.
+  suggested_aliases:
+  - guarded_revelation_with_purity_rule
+  - purity_restricted_revelation
+  - preserved_sacred_text_with_purity_access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserved-token-of-divine-provision-for-future-generations
+  motif_id: preserved_token_of_divine_provision_for_future_generations
+  label: Preserved token of divine provision for future generations
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A preserved token memorializing divine provision is a sacred object that
+    transmits protection, memory, or authority to later generations.
+  cautions: If the provision itself is emphasized over the preserved token, divine_intervention
+    or sacred_substance may also apply.
+  suggested_aliases:
+  - memorial_token_of_divine_provision
+  - preserved_provision_token
+  - divine_provision_memorial_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-access-and-ministry-near-the-deity
+  motif_id: priestly_access_and_ministry_near_the_deity
+  label: Priestly access and ministry near the deity
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes priestly mediation and sacred access, but no existing
+    group directly covers priesthood as a ritual role.
+  cautions: Could fit covenant, sacred_law, sacrifice, portable_sanctuary/world_center,
+    or theophany depending on whether the passage emphasizes law, ritual service,
+    place, or divine presence.
+  suggested_aliases:
+  - priestly_access_to_divine_presence
+  - priestly_ministry_near_deity
+  - ritual_mediation_by_priests
+  suggested_new_group:
+    id: priestly_mediation
+    label: Priestly Mediation and Sacred Access
+    description: Priestly or ritual specialists mediate access to divine presence,
+      perform service near sacred space, administer rites, blessings, purity status,
+      or divine decisions, and regulate who may approach the deity.
+    parent_group_ids:
+    - sacred_law
+    - sacrifice
+    - covenant
+    related_group_ids:
+    - theophany
+    - world_center
+    - royal_legitimacy
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups cover sacrifice, law, and
+      sacred places, but not the recurring role of priestly office as mediator of
+      access and ritual authority.
+- suggestion_id: normalization.suggestion.priestly-authority-outranking-royal-access
+  motif_id: priestly_authority_outranking_royal_access
+  label: Priestly authority outranking royal access
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The motif concerns hierarchy between ritual and royal authority, which
+    overlaps sacred kingship but may require a priestly mediation group.
+  cautions: Culturally sensitive and context-dependent; avoid flattening distinct
+    Mesoamerican and Andean offices into a generic priesthood without evidence.
+  suggested_aliases:
+  - ritual_authority_over_royal_access
+  - priestly_authority_limits_king
+  - sacerdotal_authority_over_ruler
+  suggested_new_group:
+    id: priestly_mediation
+    label: Priestly Mediation and Sacred Access
+    description: Priestly or ritual specialists mediate access to divine presence,
+      perform service near sacred space, administer rites, blessings, purity status,
+      or divine decisions, and regulate who may approach the deity.
+    parent_group_ids:
+    - sacred_law
+    - sacrifice
+    - covenant
+    related_group_ids:
+    - royal_legitimacy
+    - theophany
+    - world_center
+    - prophecy_divination
+    reason_existing_groups_insufficient: Royal_legitimacy covers sacred kingship,
+      but not the distinct motif of ritual office outranking or limiting royal access
+      to sacred powers.
+- suggestion_id: normalization.suggestion.priestly-blessing-and-divine-name-placed-on-the-community
+  motif_id: priestly_blessing_and_divine_name_placed_on_the_community
+  label: Priestly blessing and divine name placed on the community
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: The central action is a priestly blessing whose spoken divine name affects
+    or marks the community.
+  cautions: Also relates to covenant and priestly mediation; preserve the priestly
+    role and divine-name detail in evidence notes.
+  suggested_aliases:
+  - priestly_blessing_with_divine_name
+  - divine_name_placed_on_community
+  - communal_blessing_by_priest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-consultation-for-divine-decision
+  motif_id: priestly_consultation_for_divine_decision
+  label: Priestly consultation for divine decision
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: high
+  rationale: Consulting through a priest for a divine decision is a formal divinatory
+    or oracular access pattern.
+  cautions: If the passage emphasizes priestly office more than the decision method,
+    a future priestly_mediation group may be a better primary mapping.
+  suggested_aliases:
+  - priestly_oracular_consultation
+  - divine_decision_by_priestly_consultation
+  - priestly_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-diagnosis-of-purity-status
+  motif_id: priestly_diagnosis_of_purity_status
+  label: Priestly diagnosis of purity status
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label describes ritual/legal determination of purity status by authorized
+    priestly office.
+  cautions: Could be included under a future priestly_mediation group if priestly
+    role becomes the main query facet.
+  suggested_aliases:
+  - priestly_purity_diagnosis
+  - ritual_diagnosis_of_purity
+  - priest_declares_purity_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-exemption-from-general-land-transfer
+  motif_id: priestly_exemption_from_general_land_transfer
+  label: Priestly exemption from general land transfer
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A special land-transfer rule for priests is a sacred legal arrangement
+    governing social and ritual order.
+  cautions: May be too specific or legal-administrative for broad pattern queries
+    if not recurring; preserve as evidence detail under sacred law.
+  suggested_aliases:
+  - priestly_land_exemption
+  - priestly_exception_to_land_transfer
+  - sacred_office_land_exemption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch point to priestly office as a mediator of sacred access,
+  purity, blessing, and divine decision. Consider whether a durable group such as
+  priestly_mediation is warranted if similar labels recur.
+- Single-occurrence legal or ritual-administrative labels should remain provisional
+  and may be over-specific evidence notes rather than canonical motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; priestly-role items especially need taxonomy
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0389
+  input_sha256: 97222a813adaf7c2dde5c2532cfeffe913c1c9be49140257336edb1456578404
+

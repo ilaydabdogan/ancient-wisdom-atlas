@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0674
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.avenging-poisoned-drink-after-kin-slaying
+  motif_id: avenging_poisoned_drink_after_kin_slaying
+  label: avenging poisoned drink after kin-slaying
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on kin vengeance through a lethal stratagem after killing,
+    fitting conflict and revenge within the sacred combat complex.
+  cautions: Could also belong with betrayal_violated_trust if the poisoned drink is
+    a feast/drink betrayal rather than open vengeance; single occurrence is highly
+    episode-specific.
+  suggested_aliases:
+  - kin vengeance by poisoned drink
+  - revenge after kin slaying
+  - poisoned-drink vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-son-confronts-father-s-killer
+  motif_id: avenging_son_confronts_father_s_killer
+  label: avenging son confronts father's killer
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A son confronting a father's killer is a revenge-combat or kin-vengeance
+    pattern already adjacent to avenging a fallen companion or hero.
+  cautions: If the passage emphasizes filial duty, succession, or moral reckoning
+    more than combat, sacred_law, royal_legitimacy, or divine_judgment may be relevant
+    secondary placements.
+  suggested_aliases:
+  - son avenges father
+  - filial vengeance
+  - avenging heir confronts killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-the-slain-father-or-kin-through-concealed-attack
+  motif_id: avenging_the_slain_father_or_kin_through_concealed_attack
+  label: Avenging the slain father or kin through concealed attack
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance after a slain father or relative fits the revenge and ritualized
+    violence side of sacred combat, with concealed attack as tactical detail.
+  cautions: Concealment may indicate deceptive stratagem and overlap with trickster
+    or betrayal motifs; avoid promoting the full phrase as canonical unless it recurs.
+  suggested_aliases:
+  - concealed kin vengeance
+  - avenging slain father by ambush
+  - vengeance for slain kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-wife-destroys-husband-s-household-by-fire
+  motif_id: avenging_wife_destroys_husband_s_household_by_fire
+  label: avenging wife destroys husband’s household by fire
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marital betrayal or kin vengeance, household destruction,
+    and fire; the dominant function is unclear without passage evidence.
+  cautions: Could map to sacred_combat as vengeance, betrayal_violated_trust as violated
+    marriage/household bond, world_destroying_fire only if cosmic renewal is present,
+    or divine_judgment if framed as moral retribution.
+  suggested_aliases:
+  - wife's vengeance by fire
+  - household burned in marital vengeance
+  - avenging wife destroys household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-marriage-with-local-daughters
+  motif_id: avoidance_of_marriage_with_local_daughters
+  label: Avoidance of marriage with local daughters
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding marriage with local daughters functions as an endogamy or boundary
+    rule organizing sacred social identity.
+  cautions: If the source frames the episode as covenant lineage preservation, covenant
+    may be a better primary group; if merely narrative marriage preference, it may
+    be too contextual.
+  suggested_aliases:
+  - endogamous marriage rule
+  - marriage boundary prohibition
+  - avoidance of local intermarriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.baba-yaga-attacks-an-isolated-maiden-when-protectors-are-absent
+  motif_id: baba_yaga_attacks_an_isolated_maiden_when_protectors_are_absent
+  label: Baba Yaga attacks an isolated maiden when protectors are absent
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: Baba Yaga often functions as a liminal dangerous tester or guardian figure
+    confronting an isolated heroine at a threshold of ordeal.
+  cautions: This exact wording is episode-specific; if the passage emphasizes persecuted
+    child/maiden vulnerability or domestic absence rather than threshold ordeal, a
+    human reviewer may choose another group.
+  suggested_aliases:
+  - Baba Yaga as dangerous tester
+  - isolated maiden attacked by liminal figure
+  - absent protectors and maiden ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-news-messenger-to-waiting-beloved-and-kin
+  motif_id: battle_news_messenger_to_waiting_beloved_and_kin
+  label: battle-news messenger to waiting beloved and kin
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A messenger brings battle news to beloved and kin, typically triggering
+    grief, recognition of loss, or communal mourning.
+  cautions: If the message serves primarily as recognition proof or plot transmission
+    rather than lament, recognition_tokens_hidden_identity or storytelling_as_power
+    may be secondary; source context needed.
+  suggested_aliases:
+  - messenger brings battle news
+  - death news to beloved and kin
+  - battle report prompting lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-shout-with-cosmic-resonance
+  motif_id: battle_shout_with_cosmic_resonance
+  label: Battle shout with cosmic resonance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A battle shout amplified to cosmic scale fits sacred or divine warrior
+    imagery where combat action resonates with cosmic order.
+  cautions: Could also relate to enchanting_music or curse_blessing_speech if the
+    sound itself has supernatural force; do not infer divine combat unless the passage
+    supports it.
+  suggested_aliases:
+  - cosmic battle shout
+  - war cry with cosmic resonance
+  - resounding divine-warrior cry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beautiful-but-inconstant-beloved
+  motif_id: beautiful_but_inconstant_beloved
+  label: beautiful but inconstant beloved
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The beloved's beauty and instability shape longing, suffering, and desire,
+    fitting the sacred love and longing complex.
+  cautions: If the passage is purely secular courtly love or satire, keep as contextual
+    evidence; if the emphasis is paradoxical beauty/pain, beauty_and_paradox may be
+    a secondary mapping.
+  suggested_aliases:
+  - inconstant beloved
+  - faithless beautiful beloved
+  - beloved as beautiful and unstable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beauty-and-erotic-charm-contrasted-with-martial-courage
+  motif_id: beauty_and_erotic_charm_contrasted_with_martial_courage
+  label: Beauty and erotic charm contrasted with martial courage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract contrast between erotic beauty and warrior virtue
+    rather than a clear narrative motif.
+  cautions: Could fit sacred_love, beauty_and_paradox, divine_warrior, or social gender
+    ideology depending on the passage; may be a literary comparison rather than a
+    reusable motif.
+  suggested_aliases:
+  - erotic beauty versus martial courage
+  - beauty contrasted with warrior valor
+  - charm and courage contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence kin-vengeance or love/war contrast
+  labels; preserve local detail as evidence and avoid promoting episode-specific wording
+  into canonical taxonomy without recurrence.
+- No transmission or borrowing claim is implied by these suggested placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0674
+  input_sha256: 2bb0ae650bffc3684614a2ba33198f6532f3b9cf971d25e5dc10d2432ee0fbac
+

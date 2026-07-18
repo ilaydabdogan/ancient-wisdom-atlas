@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0314
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-shepherding-of-a-community
+  motif_id: divine_shepherding_of_a_community
+  label: divine shepherding of a community
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine figure guiding or tending a community fits protective divine
+    guidance in human affairs.
+  cautions: Could alternatively index under royal_legitimacy or covenant if shepherding
+    is primarily leadership, kingship, or sacred bond imagery.
+  suggested_aliases:
+  - divine_guidance_of_a_community
+  - divine_pastoral_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sign-creature-with-a-protective-prohibition
+  motif_id: divine_sign_creature_with_a_protective_prohibition
+  label: divine sign creature with a protective prohibition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The protective prohibition is the clearest function and fits sacred law,
+    taboo, and apotropaic protection patterns.
+  cautions: If the creature itself is mainly a miracle or divine proof, divine_intervention
+    may be a secondary mapping; source context is needed.
+  suggested_aliases:
+  - protective_prohibition_attached_to_a_divine_sign
+  - sacred_creature_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sign-defeats-magical-illusion
+  motif_id: divine_sign_defeats_magical_illusion
+  label: Divine sign defeats magical illusion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine sign overcoming illusion is a direct sacred intervention that
+    redirects or validates events.
+  cautions: Could also relate to sacred_knowledge if the emphasis is discerning true
+    revelation from deception; avoid treating this as evidence of transmission.
+  suggested_aliases:
+  - divine_sign_overcomes_magic
+  - miracle_defeats_illusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sign-distinguished-from-enchantment
+  motif_id: divine_sign_distinguished_from_enchantment
+  label: divine sign distinguished from enchantment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe theological or exegetical classification rather
+    than a narrative motif.
+  cautions: If the passage narrates a divine sign exposing magic, map to divine_intervention;
+    if it is commentary distinguishing miracle from enchantment, exclude as a meta
+    artifact.
+  suggested_aliases:
+  - miracle_distinguished_from_enchantment
+  - divine_sign_not_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-signs-validating-power-and-guidance
+  motif_id: divine_signs_validating_power_and_guidance
+  label: Divine signs validating power and guidance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine signs that validate authority and guide action fit direct divine
+    intervention and guidance.
+  cautions: If validation specifically authorizes rule, royal_legitimacy may be a
+    secondary mapping.
+  suggested_aliases:
+  - divine_signs_of_guidance
+  - signs_validating_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-singer-with-lyre
+  motif_id: divine_singer_with_lyre
+  label: Divine singer with lyre
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine singer with a lyre belongs with supernatural music and sound
+    power when the music has sacred effect.
+  cautions: If the label is only an iconographic description of a deity with an instrument,
+    it may be too specific for pattern queries.
+  suggested_aliases:
+  - divine_musician_with_lyre
+  - sacred_lyre_singer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smith-and-animated-artifacts
+  motif_id: divine_smith_and_animated_artifacts
+  label: divine smith and animated artifacts
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine manufacture of animated artifacts directly matches sacred craft
+    and artificial-life children already in the group.
+  cautions: Animated artifact details may also relate to sacred_treasures if the object
+    confers power or authority.
+  suggested_aliases:
+  - divine_craft_of_animated_artifacts
+  - animated_artifacts_made_by_a_divine_smith
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smith-forges-wondrous-heroic-arms
+  motif_id: divine_smith_forges_wondrous_heroic_arms
+  label: Divine smith forges wondrous heroic arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine smith forging heroic arms is a clear instance of sacred craft
+    and divinely made power objects.
+  cautions: Secondary relevance to sacred_treasures or divine_warrior may apply if
+    the arms authorize or enable sacred combat.
+  suggested_aliases:
+  - divine_forging_of_heroic_arms
+  - wondrous_arms_forged_by_divine_smith
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smiths-forging-a-thunderbolt-with-fire
+  motif_id: divine_smiths_forging_a_thunderbolt_with_fire
+  label: divine smiths forging a thunderbolt with fire
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on divine smiths forging a powerful sacred object,
+    fitting sacred craft.
+  cautions: Fire and thunderbolt imagery may also support sacred_fire or divine_warrior
+    if the passage emphasizes divine weaponry in combat rather than craft.
+  suggested_aliases:
+  - divine_forging_of_thunderbolt
+  - thunderbolt_forged_by_divine_smiths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-source-of-all-faculties-and-agency
+  motif_id: divine_source_of_all_faculties_and_agency
+  label: Divine source of all faculties and agency
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad theological claim rather than a clear narrative
+    or ritual motif.
+  cautions: If tied to a theophany or cosmic vision, map to theophany; if presented
+    as wisdom teaching, map to sacred_knowledge. Otherwise it may be too doctrinally
+    abstract for motif queries.
+  suggested_aliases:
+  - divine_source_of_agency
+  - divine_origin_of_faculties
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several divine-sign labels are close to miracle/apologetic classification; reviewers
+  should distinguish narrated divine intervention from commentary about signs versus
+  magic.
+- Divine-smith labels are best handled under the existing sacred_craft group, with
+  possible secondary links to sacred_treasures, sacred_fire, or divine_warrior depending
+  on passage function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence labels should be checked against
+    source passages before index updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0314
+  input_sha256: e89f2ed82755212f1d87dea809311c0f7a0f1cb62729974ef00cf41f31e003bf
+

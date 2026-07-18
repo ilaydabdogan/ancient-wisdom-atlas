@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0119
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repentance-accompanied-by-death-or-trials
+  motif_id: repentance_accompanied_by_death_or_trials
+  label: Repentance accompanied by death or trials
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Repentance under death or trial likely concerns moral reckoning, but
+    the label does not show whether judgment, penance, martyrdom, or narrative ordeal
+    is primary.
+  cautions: Single occurrence; could also fit sacrifice, initiation, sacred_law, or
+    Christian penitential theology rather than a cross-tradition motif.
+  suggested_aliases:
+  - deathbed_repentance
+  - repentance_through_trials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-before-death-and-divine-mercy
+  motif_id: repentance_before_death_and_divine_mercy
+  label: Repentance before death and divine mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on repentance and divine mercy repairing the human-divine
+    relationship before death, matching covenantal mercy/forgiveness themes already
+    grouped under covenant.
+  cautions: Could also support divine_judgment if the passage emphasizes final moral
+    accounting; preserve deathbed specificity as evidence detail.
+  suggested_aliases:
+  - deathbed_repentance_and_mercy
+  - repentance_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-bride-search-defined-by-dead-queen-s-features
+  motif_id: replacement_bride_search_defined_by_dead_queen_s_features
+  label: Replacement bride search defined by dead queen's features
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a highly specific plot condition in a bride-search
+    episode rather than a durable death or afterlife motif.
+  cautions: If this recurs as a tale-type pattern of spouse replacement by resemblance,
+    human review could group it under sacred_love or household succession, but current
+    evidence is too narrow.
+  suggested_aliases:
+  - bride_replacement_by_resemblance
+  - dead_queen_resemblance_bride_search
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-child-after-death
+  motif_id: replacement_child_after_death
+  label: replacement child after death
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: A child replacing one who died may signal renewed lineage or providential
+    birth, but the label alone does not establish sacred birth or miraculous-child
+    function.
+  cautions: Could be a family narrative detail, consolation after death, lineage restoration,
+    or theological replacement motif; source evidence needed.
+  suggested_aliases:
+  - child_given_after_death
+  - replacement_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-of-a-dead-queen-mourned-by-the-household
+  motif_id: replacement_of_a_dead_queen_mourned_by_the_household
+  label: replacement of a dead queen mourned by the household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The household mourning for a dead queen fits lament and mourning more
+    clearly than afterlife or death-return patterns.
+  cautions: Replacement aspect may be a plot detail in a marriage/succession tale;
+    avoid promoting unless similar dead-spouse replacement motifs recur.
+  suggested_aliases:
+  - household_mourning_for_dead_queen
+  - dead_queen_mourned_before_replacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-of-spirit-service-by-christian-worship-in-a-frame-narrative
+  motif_id: replacement_of_spirit_service_by_christian_worship_in_a_frame_narrative
+  label: replacement of spirit service by Christian worship in a frame narrative
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines conversion, spirit service, Christian worship, and
+    frame-narrative structure; its motif function is unclear without source context.
+  cautions: Culturally sensitive and may reflect missionary or editorial framing.
+    Could be textual/commentary artifact rather than a mythic motif.
+  suggested_aliases:
+  - replacement_of_spirit_service_by_christian_worship
+  - conversion_from_spirit_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-killing-of-an-imagined-obstructing-hunting-spirit
+  motif_id: reported_killing_of_an_imagined_obstructing_hunting_spirit
+  label: reported killing of an imagined obstructing hunting spirit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: An obstructing hunting spirit may involve spirit agency affecting human
+    affairs, but 'reported' and 'imagined' make the evidence status ambiguous.
+  cautions: Could be a narrative report, shamanic encounter, hunting taboo, spirit-conflict
+    motif, or commentator skepticism; review source language carefully.
+  suggested_aliases:
+  - obstructing_hunting_spirit
+  - killing_of_hunting_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-from-death-destruction-famine-and-lions-followed-by-praise
+  motif_id: rescue_from_death_destruction_famine_and_lions_followed_by_praise
+  label: Rescue from death, destruction, famine, and lions followed by praise
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif lists multiple mortal dangers followed by praise, fitting divine
+    rescue or providential intervention in human affairs.
+  cautions: Over-specific composite label; if praise is the main function, it may
+    be liturgical thanksgiving rather than a narrative motif.
+  suggested_aliases:
+  - rescue_from_mortal_danger_followed_by_praise
+  - divine_rescue_from_death_and_famine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescued-queen-accompanying-the-hero-s-return
+  motif_id: rescued_queen_accompanying_the_hero_s_return
+  label: rescued queen accompanying the hero's return
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rescued queen accompanying the hero's return belongs to the return
+    phase of a quest/rescue arc.
+  cautions: Could also relate to stolen_beloved or sacred_love if the lost/rescued
+    spouse drives the quest; death bucket may be incidental.
+  suggested_aliases:
+  - rescued_beloved_accompanies_return
+  - return_with_rescued_queen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.respectful-burial-after-violent-death
+  motif_id: respectful_burial_after_violent_death
+  label: respectful burial after violent death
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns proper burial after violent death, fitting funeral
+    rites and memorial treatment of the dead.
+  cautions: If the death is not heroic or socially central, ancestor_rites or sacred_law
+    may be better; preserve violent-death detail.
+  suggested_aliases:
+  - proper_burial_after_violent_death
+  - honorable_burial_after_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; recommendations should
+  be treated as provisional evidence placements, not taxonomy additions.
+- Repentance and mercy labels may need a future penitence/forgiveness subgroup if
+  they recur across traditions, but current covenant/divine_judgment groups are adequate
+  for review placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Draft machine suggestions only; culturally sensitive spirit-service and hunting-spirit
+    items require source-aware human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0119
+  input_sha256: 29f7b9e03b096fdfb7bfe485e3cb0b9161c5ce7708966502320910d354019c7c
+

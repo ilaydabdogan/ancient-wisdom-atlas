@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1428
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-token-left-at-abduction-site
+  motif_id: hidden_token_left_at_abduction_site
+  label: hidden token left at abduction site
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A left-behind token functions as evidence for locating, recognizing,
+    or proving an abduction event.
+  cautions: Single occurrence; if the focus is abduction/rescue rather than identity
+    proof, this may be only an evidence detail.
+  suggested_aliases:
+  - abduction token
+  - recognition token left at abduction site
+  - token evidence of abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-track-revealed-by-footprints
+  motif_id: hidden_track_revealed_by_footprints
+  label: hidden track revealed by footprints
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe tracking, hidden-path discovery, pursuit, or a
+    passage-specific clue rather than a stable motif.
+  cautions: No existing group cleanly covers footprint tracking; source context is
+    needed before mapping to hero journey, sacred knowledge, or exclusion.
+  suggested_aliases:
+  - footprints reveal hidden path
+  - track discovered by footprints
+  - hidden trail clue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-beneath-a-stone-in-an-open-field
+  motif_id: hidden_treasure_beneath_a_stone_in_an_open_field
+  label: Hidden treasure beneath a stone in an open field
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core motif is discovery or concealment of a treasure/power object,
+    while the stone-field setting is granular evidence.
+  cautions: May be ordinary folktale treasure rather than sacred power object; if
+    no supernatural or authority function is present, review for exclusion from broad
+    motif queries.
+  suggested_aliases:
+  - hidden treasure under stone
+  - treasure concealed beneath stone
+  - field treasure under stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-connected-with-devils
+  motif_id: hidden_treasure_connected_with_devils
+  label: hidden treasure connected with devils
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hidden treasure linked to demonic beings fits treasure as a dangerous
+    supernatural object or prize.
+  cautions: Could also involve trickster, temptation, or divine judgment depending
+    on the narrative function; do not infer sacred status from treasure alone.
+  suggested_aliases:
+  - devil-guarded treasure
+  - demonic hidden treasure
+  - supernatural hidden treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-in-a-hill-opened-by-special-objects
+  motif_id: hidden_treasure_in_a_hill_opened_by_special_objects
+  label: hidden treasure in a hill opened by special objects
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A treasure hidden in a magically opened hill centers on access to a supernatural
+    or power-laden object cache.
+  cautions: The opened hill may also indicate otherworld access or threshold passage;
+    map secondarily to otherworld only if the hidden realm, not the treasure, is central.
+  suggested_aliases:
+  - hill treasure opened by magic object
+  - treasure hill opened by special objects
+  - hidden hill treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-revealed-for-a-task
+  motif_id: hidden_treasure_revealed_for_a_task
+  label: Hidden treasure revealed for a task
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The treasure is revealed as enabling aid for a task, suggesting guided
+    provision rather than treasure as object alone.
+  cautions: If the treasure itself confers power or authority, sacred_treasures may
+    be a better primary group; if mundane, it may be a plot device.
+  suggested_aliases:
+  - treasure revealed to complete task
+  - hidden treasure as providential aid
+  - task-enabling treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-stories
+  motif_id: hidden_treasure_stories
+  label: hidden treasure stories
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a story category or corpus topic rather than a specific
+    symbolic or narrative motif.
+  cautions: If individual passages contain supernatural treasure discovery, map those
+    granular motifs separately under sacred_treasures or related groups.
+  suggested_aliases:
+  - hidden treasure tale type
+  - treasure story category
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-tradition
+  motif_id: hidden_treasure_tradition
+  label: hidden treasure tradition
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording names a tradition or genre of treasure lore, not a discrete
+    motif event or function.
+  cautions: Preserve as provenance if useful, but index actual treasure motifs from
+    passage-level labels instead.
+  suggested_aliases:
+  - hidden treasure lore tradition
+  - treasure tradition
+  - treasure legend tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-underground-realm-exposed-by-tokens
+  motif_id: hidden_underground_realm_exposed_by_tokens
+  label: hidden underground realm exposed by tokens
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden underground realm revealed through tokens fits disclosure of
+    an enchanted otherworld adjacent to ordinary reality.
+  cautions: If the underground realm is specifically the land of the dead, descent
+    or afterlife_passage may be better; tokens may also support recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - hidden underground realm revealed by tokens
+  - tokens reveal hidden realm
+  - token-disclosed otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-wages-restored-through-a-food-container
+  motif_id: hidden_wages_restored_through_a_food_container
+  label: Hidden wages restored through a food container
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines lost wages, restoration, and a food container without
+    clear sacred, narrative, or symbolic function.
+  cautions: Could be miraculous provision, just recompense, sacred vessel, or a folktale
+    plot detail; source evidence is needed before placement.
+  suggested_aliases:
+  - wages restored through container
+  - lost wages returned in food vessel
+  - food container restores wages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern hidden treasure. Existing sacred_treasures can hold supernatural
+  or power-object cases, but genre-level labels should be excluded as meta artifacts.
+- For single-occurrence treasure-location labels, preserve location and access details
+  as evidence rather than promoting them to canonical motifs.
+- 'Tokens should be distinguished by function: identity proof, event evidence, or
+  access key to an otherworld/treasure site.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence labels require passage
+    context before final indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1428
+  input_sha256: b89d3498fc3a84a737ad48fceb56adb0a69e2ee14439a47c46ea43ecb44b1f30
+

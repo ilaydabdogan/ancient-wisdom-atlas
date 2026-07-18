@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0645
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.selective-punishment-and-gratitude
+  motif_id: selective_punishment_and_gratitude
+  label: selective punishment and gratitude
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Selective punishment fits moral reckoning, while gratitude may imply
+    reciprocal obligation or reward.
+  cautions: Single occurrence and abstract label; source evidence is needed to know
+    whether this is judgment, sacred exchange, or a narrative resolution detail.
+  suggested_aliases:
+  - selective_punishment
+  - gratitude_after_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-begotten-creator-sovereignty
+  motif_id: self_begotten_creator_sovereignty
+  label: self-begotten creator sovereignty
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A self-begotten creator belongs to creation/origin patterns, with sovereignty
+    as divine creative authority.
+  cautions: If the passage emphasizes kingship theology rather than cosmogony, royal_legitimacy
+    or supreme_ruler may be secondary mappings.
+  suggested_aliases:
+  - self_begotten_creator
+  - creator_sovereignty
+  - self_generated_creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-condemning-royal-judgment
+  motif_id: self_condemning_royal_judgment
+  label: Self-condemning royal judgment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler's own judgment condemning himself is a moral reckoning and justice-reversal
+    pattern.
+  cautions: Could also index royal_legitimacy if the focus is the ruler's authority
+    or fitness to rule rather than judgment itself.
+  suggested_aliases:
+  - self_condemnation_by_judgment
+  - royal_self_condemnation
+  - judge_condemned_by_own_sentence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-imprecatory-oath-under-suspicion
+  motif_id: self_imprecatory_oath_under_suspicion
+  label: Self-imprecatory oath under suspicion
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A self-imprecatory oath is a performative speech act that binds the speaker
+    under possible curse or penalty.
+  cautions: If embedded in legal proof or trial procedure, sacred_law or covenant
+    may be relevant secondary groups.
+  suggested_aliases:
+  - self_cursing_oath
+  - self_imprecation
+  - oath_under_suspicion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-risking-loyal-service
+  motif_id: self_risking_loyal_service
+  label: Self-risking loyal service
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: low
+  rationale: Risking oneself in loyal service may function as self-offering or duty
+    before danger.
+  cautions: The label is ethically broad; could be martyrdom, service, covenant loyalty,
+    royal duty, or merely plot action depending on context.
+  suggested_aliases:
+  - loyal_self_risk
+  - self_sacrificing_service
+  - loyal_service_at_personal_risk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpentine-enclosure-of-a-besieged-city
+  motif_id: serpentine_enclosure_of_a_besieged_city
+  label: Serpentine enclosure of a besieged city
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A serpent-like enclosure may function as protective or dangerous boundary
+    around a threatened city.
+  cautions: Could be siege imagery, magical protection, chaos-serpent symbolism, or
+    a passage-specific metaphor; source evidence is required before mapping firmly.
+  suggested_aliases:
+  - serpent_enclosure
+  - serpentine_city_boundary
+  - serpent_protection_of_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-ordered-household-of-dwarf-miners
+  motif_id: sevenfold_ordered_household_of_dwarf_miners
+  label: sevenfold ordered household of dwarf miners
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific household/social detail rather than
+    a reusable mythic motif.
+  cautions: If the passage emphasizes sacred number seven, dwarven craft, or underworld
+    mining, preserve as evidence under sacred_craft or otherworld after review.
+  suggested_aliases:
+  - ordered_dwarf_household
+  - seven_dwarf_miners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sexual-transgression-foretold-to-destroy-king-and-city
+  motif_id: sexual_transgression_foretold_to_destroy_king_and_city
+  label: sexual transgression foretold to destroy king and city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foretold destruction of king and city after transgression fits moral
+    consequence and sacred judgment.
+  cautions: Could also involve prophecy_divination if the prediction mechanism is
+    central, or sacred_law if the transgression rule is the main focus.
+  suggested_aliases:
+  - foretold_destruction_for_sexual_transgression
+  - transgression_destroys_king_and_city
+  - prophecy_of_city_destruction_after_transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-markings-between-ruler-and-animal-servants
+  motif_id: shared_markings_between_ruler_and_animal_servants
+  label: Shared markings between ruler and animal servants
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: Shared markings may function as identity, affiliation, or authority signs
+    linking ruler and attendants.
+  cautions: Culturally sensitive and ambiguous; may concern totemic identity, animal
+    helpers, royal legitimacy, or local ritual marking rather than recognition tokens.
+  suggested_aliases:
+  - shared_ruler_animal_markings
+  - markings_link_ruler_and_servants
+  - totemic_shared_markings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.siege-envoy-challenges-trust-in-king-and-deity
+  motif_id: siege_envoy_challenges_trust_in_king_and_deity
+  label: siege envoy challenges trust in king and deity
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A challenge to trust in king and deity tests political and divine allegiance
+    under crisis.
+  cautions: May also fit divine_judgment, royal_legitimacy, or sacred_combat if the
+    siege context rather than trust is central.
+  suggested_aliases:
+  - challenge_to_trust_in_king_and_deity
+  - siege_speech_tests_faith
+  - envoy_challenges_divine_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence and several are abstract or episode-specific;
+  suggested placements should be checked against passage evidence.
+- Do not infer transmission or shared origin from these normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional group placements only; human review recommended especially for
+    culturally specific marking, serpentine enclosure, and broad ethical-service labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0645
+  input_sha256: 3d27e2725002378aeba9958084f045ba7909f2a5238d631d55ebcb2933f59bcc
+

@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0403
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-prophet-and-divinely-marked-animal
+  motif_id: rejected_prophet_and_divinely_marked_animal
+  label: Rejected prophet and divinely marked animal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Combines rejected prophetic authority with a divinely marked animal;
+    the operative function depends on the passage.
+  cautions: May fit divine_judgment if rejection leads to punishment, prophecy_divination
+    if centered on prophetic warning, or sacred_treasures/protective_mark if the animal
+    mark is central.
+  suggested_aliases:
+  - rejected_prophet
+  - divinely_marked_animal
+  - prophet_rejected_with_sign_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-suitor-vows-revenge
+  motif_id: rejected_suitor_vows_revenge
+  label: Rejected suitor vows revenge
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed courtship producing revenge belongs with love/choice conflicts
+    and dangerous longing.
+  cautions: If the passage emphasizes feud, oath, or violence rather than courtship,
+    sacred_combat or curse_blessing_speech may be secondary; single occurrence may
+    remain granular evidence.
+  suggested_aliases:
+  - rejected_suitor_revenge
+  - vengeful_rejected_suitor
+  - courtship_rejection_and_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-a-divine-warner
+  motif_id: rejection_of_a_divine_warner
+  label: Rejection of a divine warner
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Rejecting a divine warning typically sets up moral reckoning or punishment
+    for refusal of sacred guidance.
+  cautions: If the passage focuses on the messenger role itself rather than consequences,
+    divine_intervention or prophecy_divination may also be relevant.
+  suggested_aliases:
+  - rejected_divine_warning
+  - rejection_of_prophetic_warning
+  - divine_warning_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-celestial-bodies-as-divine
+  motif_id: rejection_of_celestial_bodies_as_divine
+  label: rejection of celestial bodies as divine
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes discernment of true divine agency through theological
+    reasoning about celestial signs.
+  cautions: Could also fit sacred_law or divine_judgment if framed as anti-idolatry
+    command or polemic; do not map to celestial/cosmos groups unless the bodies function
+    cosmologically.
+  suggested_aliases:
+  - celestial_bodies_rejected_as_divine
+  - rejection_of_astral_divinity
+  - discernment_against_astral_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-idols-and-exclusive-divine-agency
+  motif_id: rejection_of_idols_and_exclusive_divine_agency
+  label: rejection of idols and exclusive divine agency
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rejection of idols and assertion of exclusive divine agency functions
+    as a sacred-law or cultic-prohibition motif.
+  cautions: The existing idol alias is flagged for human review; if the passage is
+    primarily theological argument, sacred_knowledge may be more appropriate.
+  suggested_aliases:
+  - anti_idolatry_exclusive_divine_agency
+  - rejection_of_idols
+  - exclusive_divine_agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-rival-cultic-tree-and-stone-beside-the-altar
+  motif_id: rejection_of_rival_cultic_tree_and_stone_beside_the_altar
+  label: Rejection of rival cultic tree and stone beside the altar
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on cultic prohibition regulating acceptable sacred
+    objects and altar practice.
+  cautions: Tree and stone details should be preserved as evidence; do not map to
+    axis_mundi unless the tree or stone functions as world center or cosmic connector.
+  suggested_aliases:
+  - rejection_of_rival_cultic_objects
+  - cultic_tree_and_stone_prohibited
+  - altar_purity_against_rival_symbols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-unauthorized-divine-names
+  motif_id: rejection_of_unauthorized_divine_names
+  label: Rejection of unauthorized divine names
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Authorized or unauthorized divine names concern sacred speech that binds,
+    invokes, or misdirects religious practice.
+  cautions: Could alternatively fit sacred_law if framed as prohibition, or sacred_knowledge
+    if focused on true names and doctrine.
+  suggested_aliases:
+  - unauthorized_divine_names
+  - rejected_divine_names
+  - illegitimate_sacred_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-unauthorized-local-divine-names
+  motif_id: rejection_of_unauthorized_local_divine_names
+  label: Rejection of unauthorized local divine names
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a local-name variant of regulating sacred divine naming and speech
+    acts.
+  cautions: May be too context-specific; if the issue is cultic exclusivity rather
+    than speech power, sacred_law is a strong secondary placement.
+  suggested_aliases:
+  - unauthorized_local_divine_names
+  - rejected_local_divine_names
+  - local_divine_names_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejuvenating-food-guarded-by-a-divine-keeper
+  motif_id: rejuvenating_food_guarded_by_a_divine_keeper
+  label: rejuvenating food guarded by a divine keeper
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine food that renews life or youth is a sacred substance with transformative
+    power.
+  cautions: The guardian role may also relate to threshold_guardian or sacred_treasures;
+    if the food prevents aging without full renewal, consider immortality_without_renewal
+    as related.
+  suggested_aliases:
+  - rejuvenating_food
+  - divine_food_of_renewal
+  - life_renewing_food_guarded_by_keeper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.release-of-the-mother-bird-with-blessing-of-long-life
+  motif_id: release_of_the_mother_bird_with_blessing_of_long_life
+  label: Release of the mother bird with blessing of long life
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label describes an ethical/ritual command involving animal release
+    and promised longevity.
+  cautions: If the blessing speech itself is foregrounded, curse_blessing_speech may
+    be a secondary mapping; preserve mother-bird specificity as evidence detail.
+  suggested_aliases:
+  - mother_bird_release_and_long_life
+  - animal_release_with_longevity_blessing
+  - bird_release_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern anti-idolatry, authorized naming, or cultic
+  exclusivity; these may cluster under sacred_law, sacred_knowledge, and curse_blessing_speech
+  depending on passage evidence.
+- Single-occurrence labels should generally be preserved as granular evidence rather
+  than promoted to new canonical groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for Islamic theological
+    and cultic-prohibition labels to avoid flattening doctrinal context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0403
+  input_sha256: c46f15a9d1813e8f46f487c15beb83129a5260b1b031473e30d5dfeb4e6f2ada
+

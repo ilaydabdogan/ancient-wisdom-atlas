@@ -1,0 +1,224 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: canon-wave-2026-07-18
+created_at: '2026-07-18T08:50:02Z'
+updated_at: '2026-07-18T09:45:29Z'
+artifacts:
+  passages_path: data/batches/canon-wave-2026-07-18/passages.jsonl
+  requests_index_path: data/batches/canon-wave-2026-07-18/requests/index.yml
+  request_map_path: data/batches/canon-wave-2026-07-18/request-map.jsonl
+  results_dir: data/batches/canon-wave-2026-07-18/results
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-18T09:45:29Z'
+  realtime_concurrency: 48
+pipeline: motif_extraction
+status: results_downloaded
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+    - texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+    - texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md
+    - texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+    - texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+    - texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+    - texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+    - texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+    - texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+    - texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: canon-wave-2026-07-18
+counts:
+  source_texts_segmented: 10
+  passages: 1062
+  requests_prepared: 1062
+  request_shards: 2
+  skipped_ingested_requests: 0
+source_texts:
+- path: texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md
+  source_text_id: arthurian.holy_graal.evans_gutenberg
+  title: The High History of the Holy Graal
+  tradition: arthurian
+  culture: medieval_french_grail_romance_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: ca010eb292555e1411c681a5922eef93270e3e9619f83997083a869ad028b0d4
+  passage_count: 221
+- path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md
+  source_text_id: egyptian.tales_first_series.petrie_gutenberg
+  title: 'Egyptian Tales, Translated from the Papyri: First Series, IVth to XIIth
+    Dynasty'
+  tradition: egyptian
+  culture: middle_kingdom_egyptian_narrative_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: d96f2622dbe2a6d73107f2c9a2c8b1584d9ecf9990fa7251fdc61a2f092106ec
+  passage_count: 25
+- path: texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md
+  source_text_id: egyptian.tales_second_series.petrie_gutenberg
+  title: 'Egyptian Tales, Translated from the Papyri: Second Series, XVIIIth to XIXth
+    Dynasty'
+  tradition: egyptian
+  culture: new_kingdom_egyptian_narrative_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 9236ee6838f4c7989932b91af6924d7013d260b99f905b327689edaf10144e46
+  passage_count: 23
+- path: texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md
+  source_text_id: filipino.folk_tales.cole_gutenberg
+  title: Philippine Folk Tales
+  tradition: filipino
+  culture: philippine_oral_traditions_early_20th_century_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 852f15d83bc635f2ea57d3d954057e3bca0e97425d28c4d863a7346c3f26f252
+  passage_count: 48
+- path: texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md
+  source_text_id: hindu.vishnu_purana.dutt_gutenberg
+  title: A Prose English Translation of Vishnupuranam
+  tradition: hindu
+  culture: puranic_hinduism_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 2a183ba636546eb3330a3c6b9004b7af50f7f41fcbee9be3301dbe1e13dee18e
+  passage_count: 1
+- path: texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md
+  source_text_id: norse.njals_saga.dasent_gutenberg
+  title: 'The Story of Burnt Njal: From the Icelandic of the Njals Saga'
+  tradition: norse
+  culture: icelandic_family_saga_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 73cd4e828917031d75b8c901f4fd37ee858afbd2eb610fe2b999ceb3e5d57c1d
+  passage_count: 210
+- path: texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md
+  source_text_id: norse.grettis_saga.hight_gutenberg
+  title: 'The Saga of Grettir the Strong: Grettir''s Saga'
+  tradition: norse
+  culture: icelandic_family_saga_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 7bf214111b8512cf5aca8d17e3228d01c41323eb5eb4a3c7911eca9df5ee5be8
+  passage_count: 102
+- path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
+  source_text_id: romanian.fairy_tales.kremnitz_gutenberg
+  title: Roumanian Fairy Tales
+  tradition: romanian
+  culture: romanian_oral_tradition_19th_century_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: 6a736c0bdddcb19b511922101106ebe013959d54c039615551695cd9139e11b6
+  passage_count: 62
+- path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  source_text_id: african.specimens_of_bushman_folklore.bleek_lloyd_archive
+  title: Specimens of Bushman Folklore
+  tradition: san
+  culture: xam_san_oral_traditions_verbatim_colonial_record
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Serious ethical recording context - the
+      |Xam narrators (including ||Kabbo and Han-kasso) were prisoners and ex-prisoners
+      of the Cape Colony living in the Bleek household; the |Xam language and community
+      were subsequently destroyed, making this near-verbatim bilingual record both
+      irreplaceable and inseparable from colonial violence. Present with full provenance
+      and narrator attribution. Use English columns; |Xam orthography OCR is unusable.
+  sha256: 33c2f37c41ad5d15cbefa3a651de020ccdbf6e8946859510ed6395a5420076d0
+  passage_count: 301
+- path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  source_text_id: siberian.koryak_texts.bogoras_archive
+  title: Koryak Texts
+  tradition: siberian
+  culture: koryak_oral_traditions_verbatim_ethnographic_record
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1917, US public domain. Recording context - Bogoras recorded
+      these texts verbatim from named Koryak narrators during the Jesup Expedition;
+      interlinear Koryak with facing English translation makes this unusually faithful,
+      but it remains an outsider-published record of a living tradition. OCR of the
+      Koryak-language portions is noisy - use the English translations.
+  sha256: c83cc0f1a86f36b4146c98b8dc005a2e50b70db0bcea7daa408ac56c7e9e02b0
+  passage_count: 69
+

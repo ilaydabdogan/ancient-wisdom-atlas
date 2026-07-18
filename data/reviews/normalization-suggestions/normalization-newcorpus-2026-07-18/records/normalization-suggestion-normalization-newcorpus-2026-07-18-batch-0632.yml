@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0632
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-religious-contest-before-a-ruler
+  motif_id: public_religious_contest_before_a_ruler
+  label: public religious contest before a ruler
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A ruler presiding over a public religious contest may concern royal authority,
+    adjudication, or sacred legitimacy.
+  cautions: Single occurrence; could instead be polemical debate, miracle contest,
+    court judgment, or passage-specific episode. Source evidence is needed.
+  suggested_aliases:
+  - court religious contest
+  - religious contest before ruler
+  - public disputation before ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-sexual-slander-as-an-attack-on-honor
+  motif_id: public_sexual_slander_as_an_attack_on_honor
+  label: Public sexual slander as an attack on honor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on public accusation, honor injury, and likely vindication
+    or moral reckoning, matching existing false-accusation judgment variants.
+  cautions: If the passage emphasizes gendered honor codes or feud escalation rather
+    than judgment, sacred_law or sacred_combat may be secondary. Preserve sexual-slander
+    specificity as evidence detail.
+  suggested_aliases:
+  - sexual slander as honor attack
+  - public slander and honor injury
+  - false sexual accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-stoning-as-communal-punishment
+  motif_id: public_stoning_as_communal_punishment
+  label: Public stoning as communal punishment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A public communal punishment is a social-order and legal sanction pattern,
+    best held under sacred law unless divine judgment is explicit.
+  cautions: Could be ordinary legal violence or passage-specific execution detail;
+    map to divine_judgment only if sacred punishment or moral reckoning is central.
+  suggested_aliases:
+  - communal stoning punishment
+  - public execution by stoning
+  - collective punitive stoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.publicly-managed-honor-and-status-in-heroic-competition
+  motif_id: publicly_managed_honor_and_status_in_heroic_competition
+  label: Publicly managed honor and status in heroic competition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroic competition that publicly regulates honor and status fits the
+    sacred-combat field of contests, rank, and martial reputation.
+  cautions: If no combat or ritualized contest is present, royal_legitimacy or sacred_law
+    may fit better. The label is abstract and may be commentary-like.
+  suggested_aliases:
+  - heroic honor competition
+  - public status contest
+  - managed honor in heroic contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-by-burning-of-the-harmful-accused-woman
+  motif_id: punishment_by_burning_of_the_harmful_accused_woman
+  label: Punishment by burning of the harmful accused woman
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Punishment of an accused harmful figure may express communal or sacred
+    moral reckoning.
+  cautions: Culturally and gender-sensitive label; may encode accusation, witchcraft
+    discourse, legal punishment, or source bias. Human review should verify agency
+    and framing before mapping.
+  suggested_aliases:
+  - burning punishment of accused woman
+  - punishment of harmful accused woman
+  - accused woman punished by fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-by-heated-furnace-after-failed-wonder-working
+  motif_id: punishment_by_heated_furnace_after_failed_wonder_working
+  label: Punishment by heated furnace after failed wonder-working
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed wonder-working followed by fiery punishment functions as exposure
+    and punishment of false power or transgression.
+  cautions: Could also involve sacred_fire if the furnace has ritual or divine-fire
+    meaning. Single occurrence and highly specific.
+  suggested_aliases:
+  - failed wonder-worker punished by furnace
+  - fiery punishment after failed miracle
+  - heated furnace punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-followed-by-marital-or-sexual-transfer
+  motif_id: punishment_followed_by_marital_or_sexual_transfer
+  label: punishment followed by marital or sexual transfer
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines punishment with marital or sexual transfer, but the
+    narrative function and cultural context are unclear.
+  cautions: Culturally sensitive and potentially over-compressed; avoid normalizing
+    without source evidence about consent, kinship law, exchange, or sanction. May
+    fit sacred_law, sacred_exchange, or sacred_love depending on context.
+  suggested_aliases:
+  - punitive marital transfer
+  - sexual transfer after punishment
+  - marriage transfer as sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-for-disobedience
+  motif_id: punishment_for_disobedience
+  label: Punishment for disobedience
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: broader_label
+  confidence: medium
+  rationale: Punishment for disobedience is a broad moral-reckoning pattern already
+    covered by divine judgment and consequence motifs.
+  cautions: Very broad label; if the disobedience is legal, ritual, familial, or royal
+    rather than sacred, sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - disobedience punished
+  - punitive consequence for disobedience
+  - punishment of transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-of-a-witch-like-offender-by-binding-and-fire
+  motif_id: punishment_of_a_witch_like_offender_by_binding_and_fire
+  label: punishment of a witch-like offender by binding and fire
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Binding and fiery punishment of an offender may mark communal moral sanction
+    or purgation.
+  cautions: Culturally sensitive witchcraft/offender label; may reflect persecutory
+    accusation, demon-expulsion logic, or folktale violence. Verify whether fire is
+    judicial, apotropaic, sacrificial, or narrative punishment.
+  suggested_aliases:
+  - witch-like offender punished by fire
+  - binding and burning punishment
+  - fiery punishment of magical offender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-of-guilty-royal-kin
+  motif_id: punishment_of_guilty_royal_kin
+  label: Punishment of guilty royal kin
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishing guilty royal kin concerns the maintenance of legitimate rule,
+    succession order, and royal justice.
+  cautions: If the emphasis is moral punishment rather than kingship, divine_judgment
+    may be the better primary group. Single occurrence.
+  suggested_aliases:
+  - royal kin punished for guilt
+  - punishment of guilty prince or kin
+  - royal household punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence punishment labels; prefer broad
+  existing groups and preserve execution method or accused status as evidence detail.
+- Labels involving sexual transfer, accused women, or witch-like offenders should
+  receive human review for culturally sensitive framing and source context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    sensitive punishment and accusation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0632
+  input_sha256: 77a9092cdc1eb625bc40b872f7a0aeecbcbfb7db638005f113a6ca620965398f
+

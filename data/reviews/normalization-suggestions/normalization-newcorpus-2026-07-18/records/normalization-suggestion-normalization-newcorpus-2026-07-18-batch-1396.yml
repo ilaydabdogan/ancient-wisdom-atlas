@@ -1,0 +1,332 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1396
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.female-huntress-adventure-figure
+  motif_id: female_huntress_adventure_figure
+  label: female huntress adventure figure
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a role or character type, but the narrative function
+    is unclear from the label alone.
+  cautions: Could fit hero_journey, divine_warrior, culture_hero, sacred_love, or
+    a local heroine cycle; single occurrence and culturally specific context need
+    review.
+  suggested_aliases:
+  - female_huntress
+  - huntress_heroine
+  - huntress_adventure_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_warrior
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-ogress-enchantress-as-adversary
+  motif_id: female_ogress_enchantress_as_adversary
+  label: Female ogress-enchantress as adversary
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: An ogress-enchantress adversary likely functions as a perilous supernatural
+    opponent or boundary obstacle to be overcome.
+  cautions: If the emphasis is on magical transformation or deception, shapeshifter
+    or trickster may be secondary; if she is just an episode-specific villain, avoid
+    over-indexing.
+  suggested_aliases:
+  - ogress_enchantress_adversary
+  - female_supernatural_adversary
+  - enchantress_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-protection-or-helper-enabling-transit
+  motif_id: female_protection_or_helper_enabling_transit
+  label: Female protection or helper enabling transit
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protective helper enabling passage fits supernatural guidance or intervention
+    in a journey or threshold crossing.
+  cautions: If the helper is not divine or supernatural, hero_journey or threshold_guardian
+    may be better; preserve the female-helper role as evidence detail.
+  suggested_aliases:
+  - female_helper_enabling_transit
+  - protective_female_helper
+  - female_guide_for_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fertile-highland-amid-barren-desert
+  motif_id: fertile_highland_amid_barren_desert
+  label: Fertile highland amid barren desert
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a charged landscape contrast, but its narrative function
+    is not clear.
+  cautions: Could be sacred geography, miraculous provision, paradise/otherworld imagery,
+    or a simple place description; source context is needed.
+  suggested_aliases:
+  - fertile_oasis_highland
+  - fertility_amid_desert_barrenness
+  - fertile_refuge_in_desert
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - otherworld
+    - divine_intervention
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festive-dance-with-drink-feather-adornment-chant-and-chorus
+  motif_id: festive_dance_with_drink_feather_adornment_chant_and_chorus
+  label: Festive dance with drink, feather adornment, chant, and chorus
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a detailed ritual or festival scene rather than a clearly normalized
+    motif.
+  cautions: Could involve sacred song, sacred substance, initiation, or communal ritual;
+    avoid flattening culturally specific performance details without passage evidence.
+  suggested_aliases:
+  - ritual_festive_dance
+  - communal_chant_and_dance
+  - festival_drink_chant_chorus
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_substance
+    - sacred_exchange
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-chain-dragging-night-duppy
+  motif_id: fiery_chain_dragging_night_duppy
+  label: fiery chain-dragging night duppy
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: A night duppy is a ghostly figure, and chain-dragging haunting fits the
+    restless-dead complex.
+  cautions: The fiery and chained imagery may indicate punishment, danger, or local
+    spirit taxonomy; handle Afro-Caribbean spirit terminology carefully.
+  suggested_aliases:
+  - chain_dragging_duppy
+  - fiery_night_ghost
+  - chain_dragging_restless_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_fire
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-creature-swallowed-by-a-fish-causes-torment
+  motif_id: fiery_creature_swallowed_by_a_fish_causes_torment
+  label: Fiery creature swallowed by a fish causes torment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific episode combining fire, animal ingestion,
+    and torment without clear broader function.
+  cautions: Could relate to sacred_fire, monster/animal ordeal, punishment, or a creation/etiology
+    episode; source evidence needed before mapping.
+  suggested_aliases:
+  - fiery_being_inside_fish
+  - swallowed_fiery_creature
+  - fish_tormented_by_fiery_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - divine_judgment
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-enclosure-of-the-punished
+  motif_id: fiery_enclosure_of_the_punished
+  label: fiery enclosure of the punished
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: high
+  rationale: A fiery enclosure for the punished is a judgment or punishment image,
+    likely tied to moral reckoning.
+  cautions: If it is part of a mapped postmortem route, afterlife_passage should also
+    be considered; do not generalize to world-destroying fire unless cosmic destruction
+    is present.
+  suggested_aliases:
+  - fiery_punishment_enclosure
+  - fire_prison_for_the_punished
+  - punished_confined_in_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-volcanic-pursuit-that-overwhelms-bystanders
+  motif_id: fiery_volcanic_pursuit_that_overwhelms_bystanders
+  label: Fiery volcanic pursuit that overwhelms bystanders
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests fiery supernatural danger or punishment, but pursuit,
+    volcanic landscape, and bystander destruction need context.
+  cautions: Could fit divine_judgment, sacred_fire, world_destroying_fire, or local
+    volcanic deity narratives; culturally specific Hawaiian evidence should guide
+    placement.
+  suggested_aliases:
+  - volcanic_fire_pursuit
+  - lava_pursuit_overwhelms_bystanders
+  - fiery_volcanic_overwhelming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - divine_judgment
+    - flood_and_renewal
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.figural-game-pieces-as-prohibited-images
+  motif_id: figural_game_pieces_as_prohibited_images
+  label: figural game pieces as prohibited images
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on a prohibition against images, fitting sacred law
+    and ritual/legal restriction.
+  cautions: May be a legal commentary artifact rather than a narrative motif; if the
+    point is idolatry or forbidden images, idol/forbidden_knowledge may be a secondary
+    review path.
+  suggested_aliases:
+  - prohibited_figural_images
+  - figural_images_prohibited_in_game_pieces
+  - image_prohibition_in_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, role- or episode-specific items;
+  preserve local evidence and avoid promoting to taxonomy motifs without recurrence.
+- Fire imagery appears in multiple labels but should not be automatically mapped to
+  world-destroying fire unless cosmic destruction or renewal is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review especially needed for culturally
+    specific spirit, ritual, and landscape labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1396
+  input_sha256: 92b9c002d1cd07817070bf98af644405ecc3ac2c81741fc16b6ee6d32a092de3
+

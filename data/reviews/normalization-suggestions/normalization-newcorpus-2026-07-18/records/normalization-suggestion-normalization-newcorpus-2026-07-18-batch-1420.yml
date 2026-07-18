@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1420
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.harpooning-a-witch
+  motif_id: harpooning_a_witch
+  label: harpooning a witch
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe combat against a harmful supernatural being, but
+    the function is unclear from the wording alone.
+  cautions: Single occurrence; culturally sensitive witch/shamanic terminology and
+    source context need review before mapping to sacred_combat, divine_warrior, or
+    ritual expulsion.
+  suggested_aliases:
+  - witch harpooned
+  - combat with witch
+  - harmful supernatural being attacked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hated-official-publicly-humiliated
+  motif_id: hated_official_publicly_humiliated
+  label: hated official publicly humiliated
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public humiliation of a hated authority figure likely functions as moral
+    reversal or social reckoning.
+  cautions: May be a comic or political episode rather than sacred judgment; verify
+    whether humiliation is framed as deserved punishment.
+  suggested_aliases:
+  - public humiliation of corrupt official
+  - hated official humbled
+  - official punished by humiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.haughty-refusal-of-pity-followed-by-reversed-sorrow
+  motif_id: haughty_refusal_of_pity_followed_by_reversed_sorrow
+  label: Haughty refusal of pity followed by reversed sorrow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: Haughty lack of pity followed by reversal fits the established pride/downfall
+    and moral humbling pattern.
+  cautions: Could also support divine_judgment if a sacred agent causes the reversal;
+    preserve the pity/refusal detail as evidence.
+  suggested_aliases:
+  - proud refusal of pity reversed
+  - haughty mercilessness punished
+  - refusal of compassion followed by reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.haunted-domestic-or-agricultural-structure
+  motif_id: haunted_domestic_or_agricultural_structure
+  label: haunted domestic or agricultural structure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: A haunted structure is a localized manifestation of haunting by unresolved
+    dead or spirits.
+  cautions: If no dead or vengeance is involved, this may instead be a place-spirit
+    or domestic-spirit motif under divine_intervention or otherworld.
+  suggested_aliases:
+  - haunted house or barn
+  - haunted farm structure
+  - spirit-haunted domestic building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hawk-faced-crowned-fighter-with-harpoon-against-hippopotamus
+  motif_id: hawk_faced_crowned_fighter_with_harpoon_against_hippopotamus
+  label: hawk-faced crowned fighter with harpoon against hippopotamus
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The crowned hawk-faced combatant suggests a divine or royal warrior fighting
+    a dangerous beast or chaos figure.
+  cautions: Highly iconographic and Egyptian-specific; verify whether the hippopotamus
+    represents chaos/enemy defeat rather than a literal hunt scene.
+  suggested_aliases:
+  - hawk-faced divine warrior harpoons hippopotamus
+  - crowned fighter against hippopotamus
+  - harpooning hippopotamus as sacred combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hazardous-wage-bargain-with-a-greedy-employer
+  motif_id: hazardous_wage_bargain_with_a_greedy_employer
+  label: hazardous wage bargain with a greedy employer
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous bargain with a greedy employer likely centers on greed, exploitation,
+    and eventual moral consequence.
+  cautions: Could instead be a trickster bargain or social-contract tale if no sacred
+    or moral reckoning occurs; source sequence is needed.
+  suggested_aliases:
+  - greedy employer wage bargain
+  - dangerous bargain over wages
+  - exploiter punished through wage bargain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.head-carried-by-loyal-men
+  motif_id: head_carried_by_loyal_men
+  label: head carried by loyal men
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to heroic funeral retrieval, relic-bearing, or a
+    severed-head episode, but the motif function is ambiguous.
+  cautions: Do not map solely from body-part imagery; determine whether the head is
+    a relic, trophy, memorial object, or episode detail.
+  suggested_aliases:
+  - loyal retainers carry severed head
+  - carrying the hero's head
+  - head borne by loyal followers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.headless-royal-figure
+  motif_id: headless_royal_figure
+  label: headless royal figure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A headless royal figure could signal haunting, royal downfall, martyrdom,
+    or iconographic detail depending on context.
+  cautions: Single occurrence and too underspecified for confident mapping; review
+    whether it is a ghost, corpse, omen, or symbolic kingship motif.
+  suggested_aliases:
+  - headless king or ruler
+  - decapitated royal figure
+  - headless royal apparition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healed-sufferer-becomes-witness-and-guide
+  motif_id: healed_sufferer_becomes_witness_and_guide
+  label: healed sufferer becomes witness and guide
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing followed by witness and guidance fits divine intervention that
+    transforms a sufferer into a mediating guide.
+  cautions: Could also fit initiation or sacred_knowledge if the emphasis is testimony
+    and instruction rather than miraculous healing.
+  suggested_aliases:
+  - healed person becomes guide
+  - healed witness guides others
+  - sufferer healed and made witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-and-medicine-deities
+  motif_id: healing_and_medicine_deities
+  label: Healing and medicine deities
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The label names a class of divine roles rather than a clear narrative
+    function in the current groups.
+  cautions: May be a deity-domain classification rather than a motif; if passages
+    show intervention, healing, or disease-causing/cure agency, map to divine_intervention.
+  suggested_aliases:
+  - medicine gods
+  - healing deities
+  - divine healers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  granular wording as evidence notes even when mapped to broad groups.
+- Combat with witches or animal enemies needs source review to distinguish sacred
+  combat, ritual expulsion, hunting, and culturally specific spirit categories.
+- Healing-related labels may justify a future healing/affliction subgroup if more
+  recurring evidence appears, but current evidence can often be reviewed under divine_intervention.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source passages should be checked for
+    ambiguous single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1420
+  input_sha256: f190e420584946d1037c36bb0391942db5f6a40e1d2659fb5df82f635cef1d43
+

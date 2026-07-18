@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0373
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-rites-of-widows
+  motif_id: mourning_rites_of_widows
+  label: mourning rites of widows
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on socially prescribed mourning practices after death,
+    fitting the broader mourning complex.
+  cautions: Widow-specific rites may involve purity law, gendered seclusion, or ancestor
+    relations; source context should guide secondary indexing.
+  suggested_aliases:
+  - widow_mourning_rites
+  - mourning_rites_for_widows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-taboo-and-temporary-withdrawal
+  motif_id: mourning_taboo_and_temporary_withdrawal
+  label: Mourning taboo and temporary withdrawal
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mourning taboo with temporary withdrawal functions as a ritual prohibition
+    regulating death-related danger or impurity.
+  cautions: Could also fit lament_and_mourning if the evidence emphasizes grief practice
+    rather than taboo or ritual danger.
+  suggested_aliases:
+  - mourning_seclusion
+  - temporary_withdrawal_during_mourning
+  - mourning_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-taboo-intensifies-danger
+  motif_id: mourning_taboo_intensifies_danger
+  label: mourning taboo intensifies danger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns death-related taboo and danger, matching ritual prohibition
+    and protective sacred law patterns.
+  cautions: The wording may be a passage-specific inference; verify whether danger
+    is ritual, spiritual, social, or narrative peril.
+  suggested_aliases:
+  - danger_intensified_by_mourning_taboo
+  - mourning_taboo_danger
+  - death_taboo_increases_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-local-creator-god-traditions
+  motif_id: multiple_local_creator_god_traditions
+  label: Multiple local creator-god traditions
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe variant theological traditions rather than a narrative
+    creation motif.
+  cautions: If the passage presents actual creation accounts, cosmic_origin may fit;
+    if it catalogues local cult variants, exclude as commentary or textual artifact.
+  suggested_aliases:
+  - local_creator_god_traditions
+  - multiple_creation_theologies
+  - regional_creator_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murder-of-a-holy-or-prophetic-figure-in-a-sacred-precinct
+  motif_id: murder_of_a_holy_or_prophetic_figure_in_a_sacred_precinct
+  label: murder of a holy or prophetic figure in a sacred precinct
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: low
+  rationale: The killing of a holy figure in sacred space may function as martyrdom
+    or sacrificial death within sacred-order violation.
+  cautions: Could instead be sacred_combat, divine_judgment, martyrdom, or an over-specific
+    episode; verify whether the death is ritually meaningful, not merely murder location.
+  suggested_aliases:
+  - holy_figure_murdered_in_sacred_precinct
+  - prophetic_martyrdom_in_sanctuary
+  - sacred_precinct_murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutilated-animal-vows-revenge-through-feigned-pity
+  motif_id: mutilated_animal_vows_revenge_through_feigned_pity
+  label: mutilated animal vows revenge through feigned pity
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigned pity used by an injured animal to pursue revenge fits deceptive
+    animal strategy and trickster-adjacent reversal patterns.
+  cautions: May be a fable-like narrative detail rather than a sacred or ritual motif;
+    animal mutilation may also require context around violence or taboo.
+  suggested_aliases:
+  - injured_animal_feigns_pity_for_revenge
+  - mutilated_animal_deceptive_revenge
+  - animal_revenge_by_feigned_pity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-event-represented-in-sacred-drama
+  motif_id: mythic_event_represented_in_sacred_drama
+  label: mythic event represented in sacred drama
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Performance and Mythic Reenactment
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is specifically ritual dramatization or reenactment of myth, not
+    simply sacrifice, storytelling, or sacred song.
+  cautions: Single occurrence; review whether existing storytelling_as_power can hold
+    performance cases before adding a group.
+  suggested_aliases:
+  - mythic_reenactment_in_sacred_drama
+  - sacred_drama_reenacts_myth
+  - ritual_drama_of_mythic_event
+  suggested_new_group:
+    id: sacred_performance_mythic_reenactment
+    label: Sacred Performance and Mythic Reenactment
+    description: Ritual drama, dance, song, or performance reenacts mythic events
+      to renew, transmit, heal, or actualize sacred order in the present.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_time
+    related_group_ids:
+    - sacrifice
+    - sacred_song
+    - enchanting_music
+    reason_existing_groups_insufficient: Existing groups cover narrative power, sacred
+      song, and ritual cycles, but not the distinct function of enacted myth as ritual
+      performance.
+- suggestion_id: normalization.suggestion.mythic-healing-extended-to-a-human-or-ritual-patient
+  motif_id: mythic_healing_extended_to_a_human_or_ritual_patient
+  label: mythic healing extended to a human or ritual patient
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mythic healing power applied to a ritual patient is divine or sacred
+    agency extended into human healing practice.
+  cautions: Could support a future ritual-healing group if many such cases recur;
+    avoid reducing Egyptian therapeutic myth to generic intervention without preserving
+    ritual context.
+  suggested_aliases:
+  - mythic_healing_applied_to_patient
+  - ritual_patient_receives_mythic_healing
+  - divine_healing_extended_to_human_patient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-injury-of-horus-applied-to-a-ritual-patient
+  motif_id: mythic_injury_of_horus_applied_to_a_ritual_patient
+  label: Mythic injury of Horus applied to a ritual patient
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The patient is ritually identified with a divine injury-healing precedent,
+    making divine mythic agency operative in healing.
+  cautions: Horus-specific detail should remain as evidence; may belong with a future
+    mythic-healing or ritual-identification group if recurrent.
+  suggested_aliases:
+  - horus_injury_applied_to_patient
+  - divine_injury_model_for_healing
+  - mythic_wound_applied_to_ritual_patient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-precedent-for-ritual-songs
+  motif_id: mythic_precedent_for_ritual_songs
+  label: mythic precedent for ritual songs
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label ties ritual songs to mythic authorization, fitting sacred sound
+    or song as operative ritual power.
+  cautions: If emphasis is on precedent/etiology rather than song power, sacred_performance_mythic_reenactment
+    or storytelling_as_power may be better secondary mappings.
+  suggested_aliases:
+  - ritual_songs_authorized_by_myth
+  - mythic_origin_of_ritual_songs
+  - mythic_precedent_for_sacred_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch concern death-related taboos and mourning practices;
+  human review should decide whether a mortuary taboo subgroup is needed under sacred_law,
+  ancestor_rites, or lament_and_mourning.
+- Egyptian healing labels may indicate a recurring mythic-healing/ritual-identification
+  pattern not fully captured by divine_intervention, but existing grouping is adequate
+  provisionally.
+- Do not treat creator-god plurality as a creation motif unless passage evidence contains
+  actual cosmogonic narrative rather than scholarly/cultic classification.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual contexts require
+    human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0373
+  input_sha256: 58dd8032d768e685b87cbf71ffa88f634936f9b7674281e8c70f87c17f7c3c54
+

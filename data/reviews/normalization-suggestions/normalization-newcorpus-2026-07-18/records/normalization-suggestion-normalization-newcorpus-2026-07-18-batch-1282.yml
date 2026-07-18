@@ -1,0 +1,281 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1282
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ally-falls-while-saving-another-ally
+  motif_id: ally_falls_while_saving_another_ally
+  label: Ally falls while saving another ally
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: A death or fall endured to save another functions as self-surrender for
+    another's preservation.
+  cautions: Single occurrence; if the scene is mainly battlefield honor rather than
+    self-offering, divine_warrior or sacred_combat may be better.
+  suggested_aliases:
+  - self_sacrifice_to_save_an_ally
+  - ally_sacrifices_self_for_another
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ally-intervenes-when-the-chosen-champion-weakens
+  motif_id: ally_intervenes_when_the_chosen_champion_weakens
+  label: ally intervenes when the chosen champion weakens
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: The label describes a supporting-warrior role within a champion combat
+    sequence.
+  cautions: May be only a battle-scene detail unless the intervention has sacred,
+    heroic, or decisive narrative function; sacred_combat is a possible alternative.
+  suggested_aliases:
+  - supporting_ally_aids_weakened_champion
+  - champion_rescued_by_ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ally-restores-courage-after-leader-s-fall
+  motif_id: ally_restores_courage_after_leader_s_fall
+  label: ally restores courage after leader’s fall
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Restoring morale after a leader falls belongs to heroic-warrior crisis
+    and combat order.
+  cautions: Could be too generic or psychological for motif indexing; if framed as
+    grief response, lament_and_mourning may be secondary.
+  suggested_aliases:
+  - courage_restored_after_leader_falls
+  - ally_rallies_warriors_after_leader_fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alternation-between-paired-and-triple-metrical-groupings
+  motif_id: alternation_between_paired_and_triple_metrical_groupings
+  label: alternation between paired and triple metrical groupings
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes metrical structure rather than a narrative, ritual,
+    or symbolic motif.
+  cautions: Preserve for poetics or performance analysis if needed, but exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - metrical_alternation_paired_triple_groupings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.altruistic-reception-of-displaced-believers
+  motif_id: altruistic_reception_of_displaced_believers
+  label: Altruistic reception of displaced believers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Receiving displaced believers centers on sacred hospitality and protection
+    of vulnerable strangers.
+  cautions: If the passage emphasizes communal ethics or covenantal obligation more
+    than hospitality, sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - reception_of_displaced_believers
+  - hospitality_to_refugee_believers
+  - protection_of_displaced_believers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-hospitality-after-fright
+  motif_id: ambiguous_hospitality_after_fright
+  label: ambiguous hospitality after fright
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on uncertain reception of a guest or stranger after
+    fear, fitting the hospitality-test field.
+  cautions: Ambiguity may depend on source context; if no guest-obligation or test
+    is present, it may be an episode detail.
+  suggested_aliases:
+  - fearful_hospitality
+  - uncertain_hospitality_after_fright
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-messenger-failure-through-forgetfulness-or-malice
+  motif_id: ambiguous_messenger_failure_through_forgetfulness_or_malice
+  label: ambiguous messenger failure through forgetfulness or malice
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Messenger failure can be etiological, trickster-like, moral, or passage-specific
+    depending on narrative function.
+  cautions: Do not map without evidence showing whether the failed message causes
+    death, social disorder, lost immortality, or simple plot delay.
+  suggested_aliases:
+  - failed_messenger
+  - message_failed_by_forgetfulness_or_malice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-by-distant-archer
+  motif_id: ambush_by_distant_archer
+  label: Ambush by distant archer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a combat tactic within a violent conflict scene.
+  cautions: Likely too specific for broad motif queries unless the distant archer
+    has sacred or fated significance; otherwise preserve as evidence detail.
+  suggested_aliases:
+  - distant_archer_ambush
+  - archer_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-reversed-by-rock-entrapment
+  motif_id: ambush_reversed_by_rock_entrapment
+  label: Ambush reversed by rock entrapment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ambush turned back on attackers through entrapment reads as punitive
+    reversal and moral reckoning.
+  cautions: If the rock entrapment is explicitly miraculous protection, divine_intervention
+    may be a stronger mapping; if merely tactical, it may be too specific.
+  suggested_aliases:
+  - ambush_reversed_on_attackers
+  - attackers_entrapped_by_rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambusher-punished-by-concealed-countermeasures
+  motif_id: ambusher_punished_by_concealed_countermeasures
+  label: Ambusher punished by concealed countermeasures
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif emphasizes the ambusher's punishment through reversal of intended
+    harm.
+  cautions: Could instead fit trickster if the concealed countermeasure is a deception
+    contest rather than moral punishment.
+  suggested_aliases:
+  - ambush_reversal_by_hidden_countermeasure
+  - ambusher_punished_by_own_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several combat labels are single-occurrence and may be episode details; review source
+  evidence before adding granular children.
+- No transmission or borrowing claims are implied by these placement suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for batch 1282.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1282
+  input_sha256: 3d0f4d520f22d0c68fa7bc2e96c8ac48a4569a9f7f5638c04ec40a1e01567d9b
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0018
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.burial-shrine-adjoining-a-temple
+  motif_id: burial_shrine_adjoining_a_temple
+  label: burial shrine adjoining a temple
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A burial shrine adjoining a temple resembles existing shrine, tomb, and
+    relic-devotion children under sacred_treasures.
+  cautions: May be a site-description artifact if no devotional, relic, pilgrimage,
+    or sacred-object function is present; Islamic shrine contexts should be reviewed
+    carefully.
+  suggested_aliases:
+  - saintly_tomb_pilgrimage
+  - burial_shrine_temple_complex
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burial-song-repetition-in-adapted-dumb-wife-tale
+  motif_id: burial_song_repetition_in_adapted_dumb_wife_tale
+  label: burial-song repetition in adapted dumb-wife tale
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording centers on tale adaptation and repeated song placement rather
+    than a stable mythic motif.
+  cautions: If the burial song itself has ritual or supernatural power in the passage,
+    remap to storytelling_as_power or lament_and_mourning.
+  suggested_aliases:
+  - burial_song_repetition
+  - adapted_tale_song_repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burial-with-named-stone-memorial
+  motif_id: burial_with_named_stone_memorial
+  label: Burial with named stone memorial
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A named stone memorial after burial fits funeral commemoration and enduring
+    tomb proclamation.
+  cautions: If the main function is place-name origin rather than memorial rite, cosmic_origin
+    or etiological naming may be a secondary fit.
+  suggested_aliases:
+  - named_stone_memorial
+  - burial_memorial_stone
+  - enduring_tomb_proclamation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buried-alive-and-escape-from-the-grave
+  motif_id: buried_alive_and_escape_from_the_grave
+  label: Buried alive and escape from the grave
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escape from burial or the grave functions as survival after deathlike
+    confinement and possible return from death.
+  cautions: Could be a heroic ordeal, revenant episode, or realistic escape depending
+    on passage evidence; do not equate with resurrection unless actual death/restoration
+    is present.
+  suggested_aliases:
+  - escape_from_the_grave
+  - deathlike_burial_escape
+  - buried_alive_survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buried-alive-spirits-whose-cries-persist
+  motif_id: buried_alive_spirits_whose_cries_persist
+  label: Buried-alive spirits whose cries persist
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: Persistent cries of buried-alive spirits indicate active unresolved dead
+    remaining perceptible after death.
+  cautions: Review cultural context and avoid flattening local spirit categories into
+    generic haunting if the source distinguishes ancestral, place, or Dreaming beings.
+  suggested_aliases:
+  - crying_buried_spirits
+  - restless_buried_dead
+  - persistent_cries_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calling-a-person-by-name-as-death-omen
+  motif_id: calling_a_person_by_name_as_death_omen
+  label: Calling a person by name as death omen
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A name-call functioning as a death omen belongs with signs that disclose
+    future hidden fate.
+  cautions: If this is a spontaneous auditory experience rather than an omen system,
+    dream_and_vision may be a better mapping; if it is a binding call, curse_blessing_speech
+    may be secondary.
+  suggested_aliases:
+  - death_omen_by_name_call
+  - name_call_death_omen
+  - auditory_death_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-lament-with-wish-for-death
+  motif_id: captive_lament_with_wish_for_death
+  label: captive lament with wish for death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is primarily a lament expressing grief and despair, with death-wish
+    as content.
+  cautions: If the focus is abduction, chastity, or beloved separation, sacred_love
+    or stolen_beloved may be relevant as secondary context.
+  suggested_aliases:
+  - captivity_lament
+  - death_wish_lament
+  - lament_in_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capture-or-loss-of-personal-spirit-causing-death
+  motif_id: capture_or_loss_of_personal_spirit_causing_death
+  label: Capture or loss of personal spirit causing death
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: narrower_than
+  confidence: high
+  rationale: Death caused by capture or loss of a personal spirit is a direct soul-loss
+    pattern.
+  cautions: If the spirit is stored outside the body as a life-token, external_soul
+    may be a secondary or alternate mapping; culturally specific soul terminology
+    needs review.
+  suggested_aliases:
+  - personal_spirit_loss_causes_death
+  - capture_of_personal_spirit
+  - soul_loss_causing_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-woman-as-deadly-serpent-to-the-captor
+  motif_id: captured_woman_as_deadly_serpent_to_the_captor
+  label: captured woman as deadly serpent to the captor
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, woman-as-serpent imagery, and danger to
+    the captor, but the narrative function is unclear.
+  cautions: Could fit serpent_guardian, shapeshifter, sacred_love, divine_judgment,
+    or a contextual metaphor; source evidence is needed before placement.
+  suggested_aliases:
+  - woman_as_deadly_serpent
+  - captured_beloved_as_danger_to_captor
+  - serpent_woman_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrion-animal-battle-or-death-imagery
+  motif_id: carrion_animal_battle_or_death_imagery
+  label: Carrion-animal battle or death imagery
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Carrion animals in battle imagery most directly index warfare and death-field
+    symbolism.
+  cautions: May be poetic imagery rather than a narrative motif; if only a descriptive
+    kenning or formula, consider excluding from pattern queries.
+  suggested_aliases:
+  - battle_carrion_animals
+  - carrion_birds_of_battle
+  - death_field_animal_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have single occurrences and should remain provisional until source
+  passages confirm motif function rather than descriptive detail.
+- Burial, shrine, soul, and spirit labels may require culturally specific review before
+  broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0018
+  input_sha256: a71809c1a72bd6141de31397cf1b6b261fd77568068d184fc2d48d2767cbaf35
+

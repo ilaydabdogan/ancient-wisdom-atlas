@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l9406-l9425
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: XVIII. / XXII. / XXIII. / XXIV.; lines 9406-9425
+  start: '9406'
+  end: '9425'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: we invoke, we bless Rashnu, the strong.
+  summary: 'Three adjacent invocations address holy Rashnu as possibly present in
+    stars: stars containing the seed of the earth, stars containing the seed of plants,
+    and stars belonging to the Good Spirit. In each case the speaker invokes and blesses
+    Rashnu and asks for his friendship toward a prepared var.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses Rashnu as holy and strong.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The speaker asks whether Rashnu is in stars that have the seed of the earth
+    in them.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks whether Rashnu is in stars that have the seed of plants in
+    them.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks whether Rashnu is in stars that belong to the Good Spirit.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In each unit, the speaker invokes and blesses Rashnu.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: In each unit, the speaker invokes Rashnu's friendship toward a prepared var.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Rashnu
+  description: Addressed as holy and strong; invoked and blessed by the speaker.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Good Spirit
+  description: Named as the one to whom a group of stars belongs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: invoked holy figure
+  assigned_to:
+  - fig:1
+  basis: Rashnu is repeatedly addressed as holy and is invoked and blessed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: source of requested friendship
+  assigned_to:
+  - fig:1
+  basis: The speaker invokes Rashnu's friendship toward the prepared var.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: owner or associated power of stars
+  assigned_to:
+  - fig:2
+  basis: The passage refers to stars that belong to the Good Spirit.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: stars with seed of the earth
+  literal_form: stars that have the seed of the earth in them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stars with seed of plants
+  literal_form: stars that have the seed of the plants in them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stars of the Good Spirit
+  literal_form: stars that belong to the Good Spirit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: prepared var
+  literal_form: this var prepared
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: seed
+  literal_form: seed of the earth; seed of the plants
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Invocation of Rashnu in seed-bearing stars
+  summary: The speaker addresses holy Rashnu as possibly present in stars containing
+    the seed of the earth, invokes and blesses him, and invokes his friendship toward
+    the prepared var.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invocation of Rashnu in plant-seed stars
+  summary: The speaker addresses holy Rashnu as possibly present in stars containing
+    the seed of plants, invokes and blesses him, and invokes his friendship toward
+    the prepared var.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Invocation of Rashnu in stars of the Good Spirit
+  summary: The speaker addresses holy Rashnu as possibly present in stars belonging
+    to the Good Spirit, invokes and blesses him, and invokes his friendship toward
+    the prepared var.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual invocation of a holy power across celestial locations
+  taxonomy_refs: []
+  basis: Each unit asks whether Rashnu is in a specified class of stars and then invokes
+    and blesses him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is formulaic and does not narrate an action by Rashnu.
+- id: motif:2
+  label: celestial seeds of earth and plants
+  taxonomy_refs: []
+  basis: Two invocations describe stars as containing the seed of the earth and the
+    seed of plants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the function of these seeds beyond locating
+    them in stars.
+- id: motif:3
+  label: request for divine friendship toward a prepared ritual object or space
+  taxonomy_refs: []
+  basis: Each unit states that the speaker invokes Rashnu's friendship toward a prepared
+    var.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not define the var or specify the ritual context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXIII.30 / lines 9406-9412
+  quote_or_summary: Rashnu is addressed in stars with the seed of the earth; the speaker
+    invokes and blesses him and invokes his friendship toward the prepared var.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; excerpt summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: XXIV.31 / lines 9413-9418
+  quote_or_summary: Rashnu is addressed in stars with the seed of plants; the speaker
+    invokes and blesses him and invokes his friendship toward the prepared var.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; excerpt summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: XXV.32 / lines 9419-9425
+  quote_or_summary: Rashnu is addressed in stars that belong to the Good Spirit; the
+    speaker invokes and blesses him and invokes his friendship toward the prepared
+    var.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; excerpt summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and passage-internal;
+    no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy reference was assigned because the passage does not clearly support one of the supplied motif-family or symbol IDs.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l9406-l9425
+  passage_sha256=ecdbedcfeb5bd6d907f973805da3b8de9556b5ac4b4eb3c1b33d072cca0e4caa
+

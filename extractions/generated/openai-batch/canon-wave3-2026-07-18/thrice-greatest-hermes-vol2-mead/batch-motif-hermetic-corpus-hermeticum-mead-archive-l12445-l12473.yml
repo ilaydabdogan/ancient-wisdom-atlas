@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l12445-l12473
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE SECRET SERMON ON THE MOUNTAIN 251 / THE SECRET SERMON ON THE MOUNTAIN
+    253 / THE SECRET SERMON ON THE MOUNTAIN 255 / CORPUS HEEMETICUM XIV. (XV.); lines
+    12445-12473
+  start: '12445'
+  end: '12473'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A letter attributed to Thrice-Greatest Hermes addresses Asclepius with
+    a wish for health of soul. Hermes explains that, while Asclepius was absent, his
+    son Tat wanted to learn the nature of existing things; because Tat was young and
+    newly come to gnosis of the teachings, Hermes was compelled to explain more so
+    that contemplation would be easier for him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is framed as a letter from Thrice-Greatest Hermes to Asclepius.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The greeting wishes Asclepius good health of soul.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hermes says Asclepius was absent when Tat asked to learn the nature of the
+    things that are.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tat is described as Hermes' son and as a younger son newly come to gnosis
+    of the teachings.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hermes says he was compelled to tell Tat more so that Tat could more easily
+    follow the contemplation of the teachings.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote discusses the greeting formula as possibly meaning wisdom, good
+    thought, right thinking, or good health of soul among disciples of the Inner Way.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thrice-Greatest Hermes
+  description: Sender of the letter to Asclepius; speaker who taught Tat.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Asclepius
+  description: Recipient of the letter; absent when Tat asked Hermes to teach him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Tat
+  description: Hermes' son, described as young and newly come to gnosis, who desired
+    to learn the nature of things.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the text as a letter of Thrice-Greatest Hermes to
+    Asclepius.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: teacher
+  assigned_to:
+  - fig:1
+  basis: Hermes says he was compelled to tell Tat more to aid his contemplation.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: father
+  assigned_to:
+  - fig:1
+  basis: Hermes refers to Tat as his son.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: letter recipient
+  assigned_to:
+  - fig:2
+  basis: The heading and greeting address Asclepius.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: son
+  assigned_to:
+  - fig:3
+  basis: Tat is called Hermes' son and younger son.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: student seeking knowledge
+  assigned_to:
+  - fig:3
+  basis: Tat desired to learn the nature of the things that are and was newly come
+    to gnosis of the teachings.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Letter opening to Asclepius
+  summary: The text presents itself as a letter from Thrice-Greatest Hermes to Asclepius
+    and opens with a wish for health of soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hermes explains his teaching of Tat
+  summary: Hermes explains that during Asclepius' absence Tat wanted to learn the
+    nature of existing things, so Hermes gave him fuller instruction to make contemplation
+    easier.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: instruction in wisdom or gnosis
+  taxonomy_refs:
+  - wisdom
+  basis: Tat seeks to learn the nature of the things that are, is described as newly
+    come to gnosis, and receives fuller explanation from Hermes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives an instructional frame rather than a developed narrative
+    episode.
+- id: motif:2
+  label: initiation into teachings
+  taxonomy_refs:
+  - initiation
+  basis: Tat is described as newly come to gnosis of the teachings, and Hermes gives
+    additional explanation so he can follow contemplation more easily.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe a formal rite or initiatory ordeal; the
+    motif is inferred from the language of new gnosis and instruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 12445-12450
+  quote_or_summary: The heading identifies the work as Corpus Hermeticum XIV/XV and
+    as a letter of Thrice-Greatest Hermes to Asclepius.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: quote
+  locator: line 12452
+  quote_or_summary: "“Unto Asglepius Good Health of Soul!”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 12456-12462
+  quote_or_summary: Hermes states that, in Asclepius' absence, his son Tat wanted
+    to learn the nature of the things that are and would not let him defer the teaching;
+    Tat is described as a younger son newly come to gnosis of the teachings.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12462-12465
+  quote_or_summary: Hermes says he was compelled to tell Tat more so that contemplation
+    would be easier for Tat to follow.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12467-12473
+  quote_or_summary: A note discusses the greeting expression and suggests it may have
+    been used among disciples of the Inner Way to wish one another wisdom, good thought,
+    right thinking, or good health of soul.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The figures and instructional frame are explicit. Motif tagging is limited
+    because the excerpt is an opening explanation rather than a complete mythic narrative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols were extracted because the passage contains no clear literal object, place, being, number, gesture, or image functioning as a symbol within the excerpt.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l12445-l12473
+  passage_sha256=f6478db790c382bad1573fa7ecd424d0221164129150ef63910f6191a9ff40ed
+

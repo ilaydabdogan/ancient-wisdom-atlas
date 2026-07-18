@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l15081-l15099
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA    XVII. / YASNA    XIX.  259 / YASNA    XVIII4. / YASNA    XIX.; lines
+    15081-15099
+  start: '15081'
+  end: '15099'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: Enabling us to receive the blessings which they bestow through the influence
+    of the sun.
+  summary: The passage is a set of translator or editorial notes. It refers to the
+    wording of the Ahuna, explains reception of blessings through the sun's influence,
+    discusses a Pahlavi rendering, states that Ahura speaks no further at this point,
+    and notes that “Z.” had long been among the dead.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note says the wording being discussed refers to the Ahuna.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note describes “us” as enabled to receive blessings bestowed by an unnamed
+    plural “they” through the influence of the sun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The phrase “sun-shaped matter” is discussed as producing a materialistic interpretation.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note states that Ahura speaks no further at this point.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note calls something fictitious because “Z.” had long been among the dead.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage includes philological questions about forms and meanings, including
+    whether a term means “past” and whether another form can be third singular.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ahura
+  description: Named figure said by the note to speak no further here.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Z.
+  description: Abbreviated figure described as having long been among the dead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: unnamed plural bestowers
+  description: An unnamed plural “they” who bestow blessings through the influence
+    of the sun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker whose speech ceases
+  assigned_to:
+  - fig:1
+  basis: The note says, “Ahura speaks no further here.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: dead or deceased figure
+  assigned_to:
+  - fig:2
+  basis: The note says “Z.” had long been among the dead.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: bestowers of blessings
+  assigned_to:
+  - fig:3
+  basis: The passage says blessings are bestowed by “they.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: the sun; sun-shaped matter
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Blessings received through the sun
+  summary: The note explains a wording as enabling people to receive blessings bestowed
+    through the influence of the sun.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ahura’s speech ends
+  summary: The note states that Ahura does not speak further at this point.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Z. among the dead
+  summary: The note describes a point as fictitious because “Z.” had long been among
+    the dead.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Blessings mediated by the sun
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes blessings received by “us” and bestowed by “they” through
+    the influence of the sun.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is a translator or editorial note rather than a self-contained
+    mythic narrative; the identity of “they” is not explicit, and reciprocal exchange
+    is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15081-15081
+  quote_or_summary: "“So, referring to the wording of the Ahuna.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 15083-15087
+  quote_or_summary: "“Enabling us to receive the blessings which they bestow through
+    the influence of the sun. 'The sun-shaped matter' would give us a materialism.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: line 15092
+  quote_or_summary: "“I hold that Ahura speaks no further here.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: line 15096
+  quote_or_summary: "“Of course fictitious, as Z. had long been among the dead.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 15098-15099
+  quote_or_summary: The notes ask whether one term means “past” and whether another
+    form can be a third singular.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is largely philological/editorial commentary. Literal figures
+    and the sun imagery are clear, but motif identification is weak because the passage
+    does not provide a full narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or motif family beyond the tentative internal motif classification.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l15081-l15099
+  passage_sha256=d71332ef884c8c93966dc437f93bdc41ffd87985b423bbe55b36c4e3f75204e3
+

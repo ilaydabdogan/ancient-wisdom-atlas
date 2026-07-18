@@ -1,0 +1,114 @@
+---
+record_id: batch.motif.native-american-haida-texts-myths-swanton-gutenberg-l1825-l1882
+source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+passage_locator:
+  label: TEXTS WITH FREE AND INTERLINEAR TRANSLATION / MOLDY-FOREHEAD / STORIES ACCOMPANIED
+    BY TEXTS / HOW SHINING-HEAVENS CAUSED HIMSELF TO BE BORN; lines 1825-1882
+  start: '1825'
+  end: '1882'
+  translation: 'Haida Texts and Myths: Skidegate Dialect'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage is a Haida-language text under the title “How Shining-Heavens
+    caused himself to be born.” It contains narrated action and repeated direct speech,
+    but no English free translation is included in the provided passage text.
+  language: Haida, Skidegate dialect transcription
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage locator identifies the narrative as “How Shining-Heavens caused
+    himself to be born.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The provided passage text is in Haida transcription and includes multiple
+    segments of direct speech marked by quotation marks.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The title presents Shining-Heavens as the subject of an unusual birth action,
+    described as causing himself to be born.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Shining-Heavens
+  description: Named in the passage title as the figure who caused himself to be born.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: self-birth subject
+  assigned_to:
+  - fig:1
+  basis: The title states that Shining-Heavens caused himself to be born.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Shining-Heavens’ self-caused birth narrative
+  summary: The passage is identified as a narrative about how Shining-Heavens caused
+    himself to be born; the supplied text does not provide enough English translation
+    to summarize the internal sequence of events reliably.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: self-caused or extraordinary birth
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: The passage title explicitly frames the narrative around Shining-Heavens
+    causing himself to be born.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Motif assignment is based on the English title/locator rather than an
+    English translation of the full passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: passage label, lines 1825-1882
+  quote_or_summary: 'The passage label gives the title: “HOW SHINING-HEAVENS CAUSED
+    HIMSELF TO BE BORN.”'
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source metadata; short title quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 1825-1882
+  quote_or_summary: The supplied passage is Haida transcription with repeated quoted
+    speech segments, but no English free translation is included in the provided text.
+  source_text_path: texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+confidence:
+  extraction: low
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Only the passage title is available in English. The Haida text itself is
+    not translated in the prompt, so extraction is limited to title-supported observations
+    and requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols or comparison claims were extracted because the supplied passage lacks an English translation adequate to support them.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:native-american-haida-texts-myths-swanton-gutenberg__l1825-l1882
+  passage_sha256=b36c7fbcafd50e51a31cfff4d8bc2e674cc6b9acfebeffbaa4b8dd328d439145
+

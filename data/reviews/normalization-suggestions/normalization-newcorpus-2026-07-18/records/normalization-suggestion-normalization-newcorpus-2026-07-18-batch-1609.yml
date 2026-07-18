@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1609
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tempter-s-path-avoided
+  motif_id: tempter_s_path_avoided
+  label: Tempter's path avoided
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Avoiding a tempter's path suggests moral discipline and obedience to
+    sacred conduct norms.
+  cautions: Could instead fit divine_judgment, initiation, or pride/downfall depending
+    on whether the passage emphasizes trial, punishment, or moral law.
+  suggested_aliases:
+  - temptation_resisted
+  - avoidance_of_satanic_path
+  - moral_path_avoided_or_chosen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempting-food-leads-out-of-confinement
+  motif_id: tempting_food_leads_out_of_confinement
+  label: tempting food leads out of confinement
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines lure, food, and escape from confinement but does not
+    show whether the function is trickery, liberation, initiation, or origin narrative.
+  cautions: Single occurrence and culturally specific; do not map to sacred_substance
+    unless the food itself is ritually or supernaturally significant.
+  suggested_aliases:
+  - food_lure_out_of_confinement
+  - tempting_food_as_escape_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ten-day-mourning-observance
+  motif_id: ten_day_mourning_observance
+  label: ten-day mourning observance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fixed mourning observance belongs with mourning practices and ritualized
+    grief after death.
+  cautions: If the passage emphasizes mortuary rites for the soul's journey or ancestor
+    feeding, ancestor_rites or afterlife_passage may be better secondary mappings.
+  suggested_aliases:
+  - fixed_mourning_period
+  - ritual_mourning_observance
+  - ten_day_death_observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrified-army-rallied-by-steadfast-leader
+  motif_id: terrified_army_rallied_by_steadfast_leader
+  label: terrified army rallied by steadfast leader
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on a leader's martial steadiness restoring battle order,
+    fitting heroic or sacred combat leadership.
+  cautions: May be a battlefield episode detail rather than a durable motif; use sacred_combat
+    if the raid or battle structure matters more than the leader role.
+  suggested_aliases:
+  - army_rallied_by_steadfast_leader
+  - fearful_troops_restored_by_leader
+  - battle_panic_reversed_by_leadership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrifying-helmet-as-treasure-regalia
+  motif_id: terrifying_helmet_as_treasure_regalia
+  label: terrifying helmet as treasure-regalia
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: high
+  rationale: A helmet functioning as fearsome regalia is a power object conferring
+    martial authority or protection.
+  cautions: If the helmet primarily legitimizes kingship, royal_legitimacy may be
+    a secondary mapping; if only descriptive armor, it may be over-specific.
+  suggested_aliases:
+  - fearsome_helmet_regalia
+  - helmet_as_power_object
+  - terrifying_war_helmet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrifying-martial-appearance-of-champions
+  motif_id: terrifying_martial_appearance_of_champions
+  label: terrifying martial appearance of champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Fearsome warrior appearance is part of the champion or divine-warrior
+    combat complex.
+  cautions: Could be over-specific descriptive detail unless the terrifying appearance
+    has supernatural, ritual, or battle-turning function.
+  suggested_aliases:
+  - fearsome_champion_appearance
+  - terrifying_warrior_display
+  - martial_terror_of_champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.territorial-gain-after-a-raid
+  motif_id: territorial_gain_after_a_raid
+  label: Territorial gain after a raid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Raid outcome and territorial acquisition fit the warfare and raid complex
+    already grouped under sacred_combat.
+  cautions: May be a plot consequence or historical detail rather than a motif; use
+    royal_legitimacy if the gain establishes sovereignty or rightful rule.
+  suggested_aliases:
+  - land_gain_after_raid
+  - raid_resulting_in_territory
+  - territory_won_by_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terror-as-enforcement-of-domestic-conduct
+  motif_id: terror_as_enforcement_of_domestic_conduct
+  label: terror as enforcement of domestic conduct
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests fear used to enforce household norms, but source context
+    is needed to know whether this is sacred law, initiation, taboo, or social discipline.
+  cautions: Culturally sensitive and potentially an ethnographic interpretation; avoid
+    flattening into generic moral law without passage evidence.
+  suggested_aliases:
+  - fear_enforces_domestic_rules
+  - terror_as_social_discipline
+  - domestic_conduct_enforced_by_fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thanksgiving-hymn-after-redemption
+  motif_id: thanksgiving_hymn_after_redemption
+  label: thanksgiving hymn after redemption
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A hymn after redemption is sacred expressive speech that marks deliverance
+    and transmits religious meaning.
+  cautions: Could also fit sacred_song under mystical_quest if devotional transformation
+    is central, or sacred_exchange if the hymn is an offering of thanks.
+  suggested_aliases:
+  - hymn_of_thanksgiving_after_redemption
+  - redemption_thanksgiving_song
+  - praise_after_deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-accusation-resulting-in-servitude-or-custody
+  motif_id: theft_accusation_resulting_in_servitude_or_custody
+  label: theft accusation resulting in servitude or custody
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: An accusation leading to custody or servitude fits the judgment and accusation
+    complex, especially where truth, guilt, or vindication is at stake.
+  cautions: If the accusation is a deliberate stratagem or recognition device, trickster
+    or recognition_tokens_hidden_identity may be better; verify whether false accusation
+    is present.
+  suggested_aliases:
+  - accusation_of_theft_leads_to_custody
+  - theft_charge_resulting_in_servitude
+  - custody_after_theft_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several single-occurrence labels may be episode
+  details rather than durable motifs.
+- For battle and domestic-discipline labels, source context should determine whether
+  the function is sacred, social, political, or merely narrative.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: JSON-only provisional normalization suggestions generated for batch 1609.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1609
+  input_sha256: 6cc878bb464b25ea651b979832d3024734664cca21410dd4cf3da34062452740
+

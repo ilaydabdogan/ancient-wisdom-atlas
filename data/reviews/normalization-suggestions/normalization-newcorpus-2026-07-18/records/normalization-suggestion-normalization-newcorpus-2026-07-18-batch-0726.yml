@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0726
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.love-by-report-before-meeting
+  motif_id: love_by_report_before_meeting
+  label: love by report before meeting
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Love arising before direct encounter fits the broader love-longing complex
+    already represented by unseen or distant beloved patterns.
+  cautions: Single occurrence; may be a courtly romance plot device rather than sacred
+    or mystical love unless the passage frames longing as transformative.
+  suggested_aliases:
+  - love from report
+  - love before meeting
+  - distant beloved by reputation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-caused-by-heroic-renown-heard-at-a-distance
+  motif_id: love_caused_by_heroic_renown_heard_at_a_distance
+  label: Love caused by heroic renown heard at a distance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core pattern is desire awakened at a distance by reputation, a variant
+    of longing for an absent or unseen beloved.
+  cautions: Could also relate to hero_journey or royal_legitimacy if the emphasis
+    is heroic fame rather than love-longing; preserve renown detail as evidence.
+  suggested_aliases:
+  - love by renown
+  - love from distant fame
+  - love awakened by heroic reputation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-charm-creates-a-helper-for-the-hero
+  motif_id: love_charm_creates_a_helper_for_the_hero
+  label: Love charm creates a helper for the hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines erotic magic, helper creation, and heroic assistance,
+    and the dominant narrative function is unclear from the label alone.
+  cautions: May fit sacred_love, divine_intervention, magical compulsion under storytelling_as_power,
+    or hero_journey depending on source context; avoid adding a love-magic group from
+    a single occurrence.
+  suggested_aliases:
+  - erotic charm creates helper
+  - love magic as heroic aid
+  - magical love helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-cure-at-a-distance-by-token-and-message
+  motif_id: love_cure_at_a_distance_by_token_and_message
+  label: love cure at a distance by token and message
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A love affliction cured by communication from the beloved fits existing
+    sacred_love children concerning love as an affliction cured only by the beloved.
+  cautions: The token-and-message mechanism also overlaps recognition_tokens_hidden_identity;
+    use secondary mapping there if the token proves identity or relationship.
+  suggested_aliases:
+  - love sickness cured by message
+  - distant cure by beloved token
+  - love affliction cured at a distance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-exposed-to-public-mockery
+  motif_id: love_exposed_to_public_mockery
+  label: love exposed to public mockery
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate love tested by shame, social exposure, satire,
+    or a passage-specific romance episode.
+  cautions: Could fit sacred_love if humiliation intensifies longing, pride_and_downfall
+    if mockery punishes overreach, or be too contextual for motif queries.
+  suggested_aliases:
+  - public mockery of love
+  - love shamed in public
+  - beloved exposed to ridicule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-expressed-through-cosmic-and-perilous-images
+  motif_id: love_expressed_through_cosmic_and_perilous_images
+  label: love expressed through cosmic and perilous images
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes love framed as an overwhelming cosmic or dangerous
+    force, matching the sacred_love field of longing and perilous love.
+  cautions: May be primarily poetic imagery rather than narrative motif; if danger
+    and beauty are inseparable, beauty_and_paradox may be a secondary group.
+  suggested_aliases:
+  - cosmic imagery of love
+  - perilous love imagery
+  - love as cosmic danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-for-an-unseen-beloved
+  motif_id: love_for_an_unseen_beloved
+  label: Love for an unseen beloved
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: high
+  rationale: Longing for an absent or unseen beloved is central to the sacred_love
+    and divine_beloved complex.
+  cautions: If the unseen beloved is explicitly divine, consider canonical divine_beloved;
+    if purely romance, keep at group level rather than over-mysticizing.
+  suggested_aliases:
+  - unseen beloved
+  - love without sight
+  - longing for unseen beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-for-another-woman-s-husband-or-another-man-s-wife-precipitates-armed-conflict
+  motif_id: love_for_another_woman_s_husband_or_another_man_s_wife_precipitates_armed_conflict
+  label: Love for another woman's husband or another man's wife precipitates armed
+    conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is illicit or contested love triggering armed
+    conflict, aligning with sacred_combat catalyst patterns such as violated queen
+    or household reversal.
+  cautions: Also belongs thematically to sacred_love; choose sacred_combat only when
+    the conflict outcome is central, not merely the love situation.
+  suggested_aliases:
+  - adulterous love triggers war
+  - contested spouse precipitates conflict
+  - illicit love as war catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-induced-vulnerability-to-magical-deception
+  motif_id: love_induced_vulnerability_to_magical_deception
+  label: Love-induced vulnerability to magical deception
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines erotic vulnerability, magic, and deception; the primary
+    motif may be love, trickery, enchantment, or ordeal.
+  cautions: Could map to sacred_love, trickster, or storytelling_as_power/magical
+    compulsion depending on whether love, deception, or enchantment drives the episode.
+  suggested_aliases:
+  - love makes victim vulnerable to magic
+  - erotic vulnerability to deception
+  - magical deception through love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-longing-with-floral-comparison
+  motif_id: love_longing_with_floral_comparison
+  label: love-longing with floral comparison
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Love-longing belongs under sacred_love, while the floral comparison is
+    a local poetic image rather than a separate motif group.
+  cautions: If the passage centers on plant symbolism, fertility, or ritual botany
+    rather than longing, source review may alter placement; likely over-specific as
+    a standalone motif.
+  suggested_aliases:
+  - floral comparison of longing
+  - flower imagery for love-longing
+  - love-longing as flower image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence romance or poetic-love variants;
+  preserve wording as evidence but avoid promoting new canonical motifs without recurrence.
+- Several items may need secondary mappings to recognition_tokens_hidden_identity,
+  sacred_combat, trickster, or storytelling_as_power depending on passage function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check whether each love
+    motif is sacred/transformative, courtly-romance conventional, or passage-specific.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0726
+  input_sha256: 6ae61ab057aeb7685eed1c91ea009082d9d36801949ad88ab7c106a5f7d64bff
+

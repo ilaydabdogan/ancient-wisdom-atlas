@@ -1,0 +1,169 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l7977-l8031
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter    XXV. / CHAPTER    XXV,   4-6.  93 / CHAPTER    XXV,   7- 1 4-  95
+    / Chapter  XXVI.; lines 7977-8031
+  start: '7977'
+  end: '8031'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage includes a note that month names are selected from day names
+    but ordered differently, then opens Chapter XXVI with definitions of measures:
+    a Hasar on the ground is equated with a Parasang of one thousand two-foot steps;
+    a Parasang is described as the distance at which a far-seeing man can discern
+    a beast of burden and tell whether it is black or white; a man''s measure is eight
+    medium spans. Footnotes discuss textual and comparative details about these measures.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The names of the months are said to be selected from the names of the days
+    of the month, but arranged in a different order.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Hasar on the ground is defined as a Parasang of one thousand steps of the
+    two feet.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Parasang is defined by the distance at which a far-seeing man can see a
+    beast of burden and identify whether it is black or white.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The measure of a man is stated to be eight medium spans.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The translator's note says statements about the length of a Hasar are perplexing
+    and cites other passages and related measures.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: far-seeing man
+  description: A generic man used in the definition of a Parasang, able to look out
+    and distinguish a beast of burden as black or white.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: beast of burden
+  description: A generic beast of burden seen at a distance in the definition of a
+    Parasang.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: man measured by spans
+  description: A generic man whose measure is stated as eight medium spans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: observer in distance definition
+  assigned_to:
+  - fig:1
+  basis: The Parasang is defined by what a far-seeing man can look out, see, and identify.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: distant object of sight
+  assigned_to:
+  - fig:2
+  basis: The beast of burden is the object seen and classified as black or white.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: body used as measure
+  assigned_to:
+  - fig:3
+  basis: The passage states the measure of a man in medium spans.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Definitions of measures
+  summary: Chapter XXVI defines Hasar, Parasang, and the measure of a man by steps,
+    visual range, and spans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7977-7979
+  quote_or_summary: The month names are selected from day names but arranged in a
+    different order.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: Chapter XXVI.1; lines 7987-7990
+  quote_or_summary: '"A Hasar on the ground is a Parasang of one thousand steps of
+    the two feet."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: Chapter XXVI.2; lines 7990-7994
+  quote_or_summary: A Parasang is as much as a far-seeing man may look out, see a
+    beast of burden, and say whether it is black or white.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: Chapter XXVI.3; lines 7994-7995
+  quote_or_summary: '"the measure of a man is eight medium spans"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: footnote to Chapter XXVI.1; lines 7998-8022
+  quote_or_summary: The footnote says statements about Hasar length are perplexing,
+    compares Hasar and Parasang, and mentions other distance measures such as takar,
+    asvast, dashmast, and yojest.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is metrological and explanatory rather than mythic or narrative.
+    No candidate mythological motif or comparison claim is supported by the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l7977-l8031
+  passage_sha256=6a91a03504c6f1d426a808f4ff527bbddf12dd42df93bab18141fa26ccb9c8f0
+

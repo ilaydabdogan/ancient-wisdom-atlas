@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0704
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-sight-of-personified-plague
+  motif_id: fatal_sight_of_personified_plague
+  label: Fatal sight of personified plague
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Personified plague causing death may be punitive sacred agency, fatal
+    vision, or disease-spirit folklore.
+  cautions: Single occurrence and bucket mismatch; confirm whether plague is divine
+    punishment, spirit encounter, or local etiological detail before mapping.
+  suggested_aliases:
+  - fatal vision of plague
+  - personified disease causes death
+  - death by seeing plague spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-step-family-conflict-after-slain-kin
+  motif_id: fatal_step_family_conflict_after_slain_kin
+  label: fatal step-family conflict after slain kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin-slaying followed by lethal step-family conflict centers on broken
+    household bonds and trust collapse.
+  cautions: Could instead belong to sacred_combat or lament_and_mourning if the passage
+    emphasizes feud, heroic vengeance, or grief more than household betrayal.
+  suggested_aliases:
+  - fatal kinship conflict after slain kin
+  - step-family feud after kin-slaying
+  - household conflict after slain relative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-and-ill-fortune-personified
+  motif_id: fate_and_ill_fortune_personified
+  label: fate and ill fortune personified
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: high
+  rationale: Personified fate or misfortune fits the existing group for fate figures
+    governing destiny.
+  cautions: If the passage only names bad luck abstractly, it may be a theme rather
+    than an active motif.
+  suggested_aliases:
+  - personified fate
+  - personified ill fortune
+  - fate as a figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-as-consequence-of-actions-in-previous-births
+  motif_id: fate_as_consequence_of_actions_in_previous_births
+  label: Fate as consequence of actions in previous births
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destiny determined by prior actions functions as moral consequence and
+    cosmic reckoning.
+  cautions: Do not flatten karma/rebirth doctrine into generic punishment; source
+    context may warrant a future karma-rebirth group if many examples recur.
+  suggested_aliases:
+  - karmic fate
+  - destiny from previous births
+  - fate as past-life consequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-assigned-from-birth
+  motif_id: fate_assigned_from_birth
+  label: fate assigned from birth
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: A destiny fixed from birth fits the broader fate/destiny complex already
+    represented by death_by_fate.
+  cautions: The existing group is death-focused; if the assigned fate is not death-related,
+    fate_figures_cosmic_weaving or a broader destiny group may be better.
+  suggested_aliases:
+  - destiny fixed at birth
+  - birth-assigned fate
+  - fate decreed at birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-bound-victory-that-destroys-the-beloved-s-kin
+  motif_id: fate_bound_victory_that_destroys_the_beloved_s_kin
+  label: Fate-bound victory that destroys the beloved's kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines destined victory, kin destruction, and beloved conflict;
+    fate is present but the motif is highly contextual.
+  cautions: May fit sacred_combat, sacred_love, lament_and_mourning, or death_by_fate
+    depending on passage emphasis; preserve as evidence detail unless it recurs.
+  suggested_aliases:
+  - destined victory destroys beloved's kin
+  - fated combat against beloved's family
+  - victory under fate causing kin-loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-overrides-royal-opposition-to-marriage
+  motif_id: fate_overrides_royal_opposition_to_marriage
+  label: Fate overrides royal opposition to marriage
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destined union overcoming royal obstruction fits love or marriage as
+    a compelling sacred/narrative force.
+  cautions: If royal authority and succession are central, secondary review under
+    royal_legitimacy may be needed; if fate is foregrounded, relate to fate_figures_cosmic_weaving.
+  suggested_aliases:
+  - destined marriage overcomes royal opposition
+  - fated union against royal will
+  - royal opposition defeated by fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-overrules-protective-parental-warning
+  motif_id: fate_overrules_protective_parental_warning
+  label: fate overrules protective parental warning
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is the inability of human warning or protection to avert
+    destined outcome.
+  cautions: If the outcome is marriage or quest rather than death, a broader destiny
+    placement may be needed; avoid assuming death from the group label alone.
+  suggested_aliases:
+  - fate defeats parental warning
+  - destiny overrules protective warning
+  - warning cannot avert fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-powers-connected-with-childbirth
+  motif_id: fate_powers_connected_with_childbirth
+  label: fate powers connected with childbirth
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: high
+  rationale: Fate powers present at childbirth align with personified destiny figures
+    assigning life courses.
+  cautions: May also relate to sacred_birth if the child has marked sacred destiny;
+    keep childbirth context as evidence detail.
+  suggested_aliases:
+  - birth fate powers
+  - destiny powers at childbirth
+  - fate figures at birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-shaping-maidens-at-birth
+  motif_id: fate_shaping_maidens_at_birth
+  label: Fate-shaping maidens at birth
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: alias
+  confidence: high
+  rationale: Maidens shaping fate at birth are a direct variant of personified fate
+    figures governing destiny.
+  cautions: If the passage specifically concerns the child's sacred mission, miraculous_child
+    may be a secondary relation, but the primary motif is fate-personification.
+  suggested_aliases:
+  - fate maidens at birth
+  - norns assigning fate at birth
+  - birth destiny maidens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels were bucketed under love/family/body but primarily concern fate,
+  destiny, and household conflict; review bucket assignment may need correction.
+- No transmission or borrowing claims are implied by these placements.
+- Fate-related labels expose a possible gap between death_by_fate and fate_figures_cosmic_weaving
+  for non-death destiny motifs; current suggestions prefer existing groups pending
+  broader review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    evidence, especially for single-occurrence and over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0704
+  input_sha256: cfd294bc8fb016b0cc35f419f5bec5bc2f999aa3725886ccb7806d6e34cec8d3
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1028
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.combat-postponed-at-nightfall
+  motif_id: combat_postponed_at_nightfall
+  label: Combat postponed at nightfall
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a battle-etiquette scene, a narrative pacing detail, or a
+    ritualized combat convention.
+  cautions: Single occurrence and too contextual to map confidently without passage
+    evidence; sacred_combat only if nightfall truce has ritual or heroic-code significance.
+  suggested_aliases:
+  - nightfall truce
+  - battle paused at nightfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-sparked-by-contested-herd
+  motif_id: combat_sparked_by_contested_herd
+  label: combat sparked by contested herd
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A contested herd initiating combat aligns closely with existing cattle-raid
+    and wealth-contest patterns under sacred_combat.
+  cautions: Preserve herd-contest specificity; do not treat as cosmic combat unless
+    passage frames the conflict ritually or mythically.
+  suggested_aliases:
+  - contested herd sparks combat
+  - herd dispute triggers battle
+  - cattle dispute combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-terms-escalating-into-large-battle
+  motif_id: combat_terms_escalating_into_large_battle
+  label: combat terms escalating into large battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Negotiated combat terms that escalate into wider battle fit the warfare-escalation
+    and failed-exchange patterns already grouped under sacred_combat.
+  cautions: May be a plot mechanics detail if no ritual, heroic, or social-order function
+    is present.
+  suggested_aliases:
+  - combat agreement escalates to battle
+  - failed combat terms
+  - single-combat terms lead to battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-to-vindicate-an-innocent-woman
+  motif_id: combat_to_vindicate_an_innocent_woman
+  label: Combat to vindicate an innocent woman
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat functions as ordeal-like vindication after accusation, aligning
+    with judgment and moral reckoning more than generic battle.
+  cautions: If the passage emphasizes chivalric combat or martial honor rather than
+    vindication, sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - trial by combat vindication
+  - combat vindicates accused woman
+  - ordeal combat for innocence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-truce-with-affectionate-reconciliation
+  motif_id: combat_truce_with_affectionate_reconciliation
+  label: Combat truce with affectionate reconciliation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines battle truce and emotional reconciliation, and its
+    main function is unclear from wording alone.
+  cautions: Could fit sacred_combat, covenant, sacred_love, or a passage-specific
+    heroic-recognition scene; review source context before mapping.
+  suggested_aliases:
+  - truce and reconciliation after combat
+  - affectionate reconciliation in battle
+  - combat pause with kinship affection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-undertaken-from-fear-of-disgrace
+  motif_id: combat_undertaken_from_fear_of_disgrace
+  label: combat undertaken from fear of disgrace
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Fear of disgrace motivates martial action through warrior honor, a theme
+    represented in the divine_warrior group’s heroic honor and service children.
+  cautions: If the emphasis is social shame rather than sacred or heroic duty, this
+    may be an ethical-psychological detail rather than a motif.
+  suggested_aliases:
+  - warrior acts from fear of shame
+  - combat compelled by honor shame
+  - fear of disgrace in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-with-a-weapon-invulnerable-monster
+  motif_id: combat_with_a_weapon_invulnerable_monster
+  label: combat with a weapon-invulnerable monster
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: child
+  confidence: high
+  rationale: A monster invulnerable to weapons matches the existing conditional-invulnerability
+    complex, especially invulnerable monster defeated by alternate means.
+  cautions: Map to sacred_combat secondarily only if the combat establishes or restores
+    cosmic order.
+  suggested_aliases:
+  - weapon-invulnerable monster
+  - monster invulnerable to ordinary weapons
+  - weapon-proof monster combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-wound-enabled-by-supernatural-entanglement
+  motif_id: combat_wound_enabled_by_supernatural_entanglement
+  label: Combat wound enabled by supernatural entanglement
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could indicate divine intervention, magical constraint, fate,
+    or an episode-specific combat mechanism.
+  cautions: Source evidence is needed to determine whether the supernatural entanglement
+    is a curse, binding, helper, weapon effect, or plot detail.
+  suggested_aliases:
+  - supernatural entanglement enables wound
+  - magically constrained combat wound
+  - wounding through supernatural binding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combatant-lured-by-reward-and-promised-woman
+  motif_id: combatant_lured_by_reward_and_promised_woman
+  label: combatant lured by reward and promised woman
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes recruitment, deception, reward, and bride-promise motifs
+    without enough evidence to select a parent group.
+  cautions: Could fit sacred_combat, sacred_love, bride-winning, deception, or betrayal
+    depending on whether the lure is martial, erotic, or treacherous.
+  suggested_aliases:
+  - warrior lured by reward and bride
+  - combatant recruited by promised woman
+  - battle lure by reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-cowards-going-to-war
+  motif_id: comic_cowards_going_to_war
+  label: comic cowards going to war
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a comic tale type or character-tone label rather than a
+    clear sacred combat motif.
+  cautions: May warrant exclusion if it is only genre characterization; map to trickster
+    only if cowardice functions as deception or comic reversal.
+  suggested_aliases:
+  - cowards go to war
+  - comic coward soldiers
+  - cowardice in battle comedy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence combat micro-scenes; avoid promoting them unless
+  they recur or carry ritual, heroic-code, judgment, or transformation functions in
+  source passages.
+- For Celtic cattle and ford-combat material, sacred_combat is often the best broad
+  group, but source evidence should preserve local cattle-raid, honor, truce, and
+  kinship details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous combat-scene labels flagged for human
+    source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1028
+  input_sha256: 55e27d0f64791766ff2df4ba8523f61738f873e5032f1340c49d4628b56f2d25
+

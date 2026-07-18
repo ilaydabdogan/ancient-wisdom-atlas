@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0734
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-settlement-by-cattle-gift
+  motif_id: marriage_settlement_by_cattle_gift
+  label: Marriage settlement by cattle-gift
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The cattle-gift functions as a socially binding exchange that establishes
+    marriage relations.
+  cautions: Could fit sacred_love if the passage emphasizes courtship or bride-winning
+    rather than settlement exchange; single occurrence may be a legal custom detail.
+  suggested_aliases:
+  - bridewealth_cattle_gift
+  - marriage_by_gift_exchange
+  - cattle_bridewealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-suit-carried-by-intermediaries
+  motif_id: marriage_suit_carried_by_intermediaries
+  label: marriage suit carried by intermediaries
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: low
+  rationale: The label concerns a courtship procedure within marriage negotiation,
+    adjacent to existing bride-choice and bride-winning motifs.
+  cautions: May be too procedural or socially contextual for pattern queries unless
+    it recurs; could instead be excluded as an episode detail.
+  suggested_aliases:
+  - marriage_proposal_by_intermediaries
+  - courtship_by_envoys
+  - intermediary_marriage_suit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-timing-and-good-or-bad-spouse
+  motif_id: marriage_timing_and_good_or_bad_spouse
+  label: marriage timing and good-or-bad spouse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is ambiguous between auspicious timing, moral advice, astrology/calendar
+    lore, and marriage ethics.
+  cautions: Needs source evidence; if calendrical omen, sacred_time or prophecy_divination
+    may fit, but if proverb-like advice it may be a commentary artifact.
+  suggested_aliases:
+  - auspicious_marriage_timing
+  - marriage_omen_for_spouse_quality
+  - marital_timing_advice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-to-a-maiden-rescued-from-fire
+  motif_id: marriage_to_a_maiden_rescued_from_fire
+  label: Marriage to a maiden rescued from fire
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage follows rescue of a threatened maiden, fitting bride-winning
+    and love-through-ordeal patterns already under sacred_love.
+  cautions: If the fire ordeal is the main motif, secondary review under sacred_fire
+    or initiation may be warranted; current label is episode-specific.
+  suggested_aliases:
+  - rescued_maiden_as_bride
+  - bride_won_by_rescue_from_fire
+  - marriage_after_fire_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-to-an-apparently-lowly-stranger-followed-by-recognition
+  motif_id: marriage_to_an_apparently_lowly_stranger_followed_by_recognition
+  label: Marriage to an apparently lowly stranger followed by recognition
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key narrative function is hidden or misread identity resolved by
+    recognition after marriage.
+  cautions: If the marriage itself is central, sacred_love may be a secondary mapping;
+    verify whether recognition uses tokens, status revelation, or direct disclosure.
+  suggested_aliases:
+  - lowly_stranger_recognized_after_marriage
+  - hidden_identity_marriage_recognition
+  - misrecognized_spouse_revealed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-to-princess-as-reward-for-fulfilled-task
+  motif_id: marriage_to_princess_as_reward_for_fulfilled_task
+  label: Marriage to princess as reward for fulfilled task
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a bride-winning reward structure, closely aligned with existing
+    bride-winning contest motifs under sacred_love.
+  cautions: If the task is chiefly an initiation or royal succession ordeal, initiation
+    or royal_legitimacy may also be relevant.
+  suggested_aliases:
+  - bride_as_reward_for_task
+  - princess_won_by_task_fulfillment
+  - marriage_reward_for_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-with-a-dwarf-woman
+  motif_id: marriage_with_a_dwarf_woman
+  label: Marriage with a dwarf woman
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe marriage across human/nonhuman or otherworldly
+    boundaries, but the narrative function is unclear.
+  cautions: Culturally sensitive being category and single occurrence; could fit otherworld,
+    sacred_love, shapeshifter, or be too person-type-specific without context.
+  suggested_aliases:
+  - marriage_with_nonhuman_woman
+  - marriage_with_otherworldly_woman
+  - dwarf_woman_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-with-church-avoidance-condition
+  motif_id: marriage_with_church_avoidance_condition
+  label: marriage with church-avoidance condition
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marriage governed by a binding condition or taboo fits oath/geis-like
+    speech acts that constrain action.
+  cautions: If the condition reflects demonic or otherworld identity, otherworld or
+    shapeshifter may be secondary; source context is needed to avoid overfitting.
+  suggested_aliases:
+  - conditional_marriage_taboo
+  - marriage_under_avoidance_condition
+  - spousal_taboo_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-won-through-impossible-construction-tasks
+  motif_id: marriage_won_through_impossible_construction_tasks
+  label: Marriage won through impossible construction tasks
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a bride-winning task pattern, with impossible tasks as the ordeal
+    required to obtain marriage.
+  cautions: Construction imagery may also relate to sacred_craft if divinely aided
+    building is central; otherwise keep as a courtship ordeal variant.
+  suggested_aliases:
+  - bride_won_by_impossible_tasks
+  - marriage_by_impossible_building_tasks
+  - construction_task_bride_winning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.married-woman-loves-renowned-absent-hero-and-sends-messengers
+  motif_id: married_woman_loves_renowned_absent_hero_and_sends_messengers
+  label: married woman loves renowned absent hero and sends messengers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Longing for an absent renowned beloved and sending messengers fits love
+    as quest-like desire and mediated courtship.
+  cautions: The adultery or messenger episode may be passage-specific; if messengers
+    carry recognition objects, recognition_tokens_hidden_identity may be secondary.
+  suggested_aliases:
+  - longing_for_absent_hero
+  - messengers_sent_to_absent_beloved
+  - married_woman_desires_absent_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence marriage and courtship labels; preserve as granular
+  evidence unless recurrence supports a dedicated marriage-negotiation subgroup.
+- Existing sacred_love covers bride choice, bride winning, and love-longing patterns,
+  but legal/procedural marriage customs may require human review before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; several marriage-procedure labels need passage
+    evidence to distinguish motif from social custom or episode detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0734
+  input_sha256: 25b3102bc3a5a402e2036179b80c42dedba1049498c827dc11e3ff8e55b26585
+

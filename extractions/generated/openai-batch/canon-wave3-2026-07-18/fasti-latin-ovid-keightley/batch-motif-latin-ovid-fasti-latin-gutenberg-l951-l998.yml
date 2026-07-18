@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l951-l998
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: KALENDARES ROMANI / JANUARIUS. LIB. I. / FEBRUARIUS. LIB. II. / MARTIUS.
+    LIB. III.; lines 951-998
+  start: '951'
+  end: '998'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Latin calendrical table for March lists Roman sacred days, temple and
+    priestly notices, public rites, coming-of-age and educational payments, astronomical
+    risings and settings, the vernal equinox, and rites for named deities and personifications.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On the Kalends of March, new laurels are placed in the houses of the flamines,
+    the regia, the curia, and the temple of Vesta; the fire of Vesta is renewed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The March 1 entry also names Matronalia and the printed 'Salinorum' festival
+    days.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several entries mark celestial risings or settings, including Pisces, Arctophylax,
+    Vindemitor, the neck of Pegasus, and the Gnossian Crown.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The March 6 entry notes a sacred rite of Vesta and that Caesar Augustus was
+    made Pontifex Maximus; the March 7 entry notes the consecration of Vejovis' temple.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The March 14 entry lists the second Equiria in the Campus Martius or on the
+    Coelian hill; March 15 lists rites of Anna Perenna and the killing of Julius Caesar.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The March 16-17 entries mention partial setting of Scorpius, going to the
+    Argei, Liberalia as a sacred rite of Bacchus, the giving of the toga libera, and
+    the rising of Milvus.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The March 19-23 entries list Minerva's Quinquatria, Minerva's birthday, payment
+    of the Minerval to teachers, dedication of Minerva Capta shrines, gladiatorial
+    contests, the sun entering Aries, and Tubilustrium as Minerva's rite.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The March 26, 30, and 31 entries respectively note the vernal equinox, a day
+    of Janus, Concordia, Salus, and Pax, and rites of Luna on the Aventine hill.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vesta
+  description: Named in relation to her temple, sacred rite, and renewed fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Caesar Augustus
+  description: Named as having been made Pontifex Maximus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Vejovis
+  description: Named in the notice of his temple's consecration.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Anna Perenna
+  description: Named in the notice of her sacred rites on March 15.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Julius Caesar
+  description: Named in the notice of his killing on March 15.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Bacchus
+  description: Named in the notice of Liberalia as a sacred rite of Bacchus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Minerva
+  description: Named in connection with Quinquatria, her birthday, Minerva Capta shrines,
+    and Tubilustrium.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Janus
+  description: Named among the deities or personifications for the March 30 day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Concordia
+  description: Named among the deities or personifications for the March 30 day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Salus
+  description: Named among the deities or personifications for the March 30 day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Pax
+  description: Named among the deities or personifications for the March 30 day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:12
+  name_or_label: Luna
+  description: Named in relation to sacred rites on the Aventine hill.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Deity or personification associated with a March rite, sacred day, or temple
+    notice
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  basis: The calendar entries name these figures in relation to rites, festivals,
+    sacred days, temple consecration, or cult locations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Pontifex Maximus
+  assigned_to:
+  - fig:2
+  basis: The passage states that Caesar Augustus was made Pontifex Maximus.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Commemorated victim of killing
+  assigned_to:
+  - fig:5
+  basis: The March 15 entry records the killing of Julius Caesar.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Vesta's renewed fire
+  literal_form: ignis Vestae reficitur
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: New laurels placed in sacred and civic spaces
+  literal_form: novae laureae in flaminum domibus, regia, curia, and Vesta's temple
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Ritual hills or mounts
+  literal_form: monte Coelio; monte Aventino
+  associated_figures:
+  - fig:12
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Celestial calendar markers
+  literal_form: Pisces, Arctophylax, Vindemitor, Pegasus' neck, Corona Gnossis, Scorpius,
+    Milvus, Sol entering Aries
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Kalends of March renewal notices
+  summary: The calendar opens March with placement of new laurels in priestly and
+    civic buildings, renewal of Vesta's fire, and named festival notices.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mid-March civic, ritual, and life-stage notices
+  summary: The calendar groups the Equiria, rites of Anna Perenna, the killing of
+    Julius Caesar, Argei visits, Liberalia, the toga libera, and related celestial
+    markers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Late-March Minerva and spring-transition notices
+  summary: The calendar lists Minerva's Quinquatria cycle, related educational and
+    temple notices, gladiatorial contests, solar and equinoctial markers, and rites
+    for Janus, Concordia, Salus, Pax, and Luna.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Month-opening ritual renewal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Kalends of March entry combines new laurels in sacred/civic buildings
+    with renewal of Vesta's fire.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a calendar notice rather than a narrative myth; the seasonal-cycle
+    reading rests on calendrical renewal language and placement at the month opening.
+- id: motif:2
+  label: Astral and seasonal calendrical ordering
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly marks risings and settings of celestial bodies, the
+    sun entering Aries, and the vernal equinox.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives calendrical data, not an explanatory cosmological myth.
+- id: motif:3
+  label: Coming-of-age through toga libera
+  taxonomy_refs:
+  - initiation
+  basis: The Liberalia entry states that the toga libera is given.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the calendrical notice is given; no detailed rite, participant, or
+    mythic narrative is described.
+- id: motif:4
+  label: Religious office and civic authority
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The calendar notes that Caesar Augustus was made Pontifex Maximus on a day
+    also marked by Vesta's sacred rite.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not explicitly state a legitimacy argument; it only records
+    the office appointment.
+- id: motif:5
+  label: Ritualized educational payment
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Minerva sequence notes that the Minerval is paid to teachers.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not explain the payment's ritual meaning; classification
+    as sacred exchange is tentative.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to the seasonal-cycle motif family
+    because it organizes March by celestial risings/settings, solar movement into
+    Aries, and the vernal equinox.
+  claim_level: same_motif
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The evidence is calendrical and astronomical, not a mythic story of
+    seasonal transformation.
+- id: claim:2
+  claim: The notice that the toga libera is given at Liberalia has the same ritual-transition
+    function as an initiation or coming-of-age pattern.
+  claim_level: same_function
+  target: initiation motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief calendar entry and no description of
+    participants or ritual sequence.
+- id: claim:3
+  claim: The notice that Augustus became Pontifex Maximus may be compared at a functional
+    level to religious legitimation of authority.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage records an office appointment but does not explicitly describe
+    kingship, sovereignty, or legitimation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: March 1 entry within lines 951-998
+  quote_or_summary: New laurels are placed in the flamines' houses, regia, curia,
+    and Vesta's temple; Vesta's fire is renewed; Matronalia and the printed 'Salinorum'
+    festival days are listed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: March 3-8 entries within lines 951-998
+  quote_or_summary: Entries list celestial settings or risings for Pisces, Arctophylax,
+    Vindemitor, Pegasus' neck, and Corona Gnossis; they also list Vesta's rite, Augustus
+    made Pontifex Maximus, and Vejovis' temple consecration.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: March 14-15 entries within lines 951-998
+  quote_or_summary: The second Equiria is located in the Campus Martius or on the
+    Coelian hill; Anna Perenna's rites and the killing of Julius Caesar are listed
+    on the Ides.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: March 16-17 entries within lines 951-998
+  quote_or_summary: Scorpius partly sets; there is going to the Argei on this and
+    the following day; Liberalia is listed as Bacchus' rite; the toga libera is given;
+    Milvus rises.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: March 19-23 entries within lines 951-998
+  quote_or_summary: Quinquatria and Minerva notices are listed, including Minerva's
+    birthday, Minerval paid to teachers, Minerva Capta shrines dedicated, gladiatorial
+    contests, the sun entering Aries, and Tubilustrium as Minerva's rite.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: March 26, 30, and 31 entries within lines 951-998
+  quote_or_summary: The vernal equinox is listed; March 30 is a day of Janus, Concordia,
+    Salus, and Pax; March 31 lists rites of Luna on the Aventine hill.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Named calendar entries are explicit; motif assignments are more tentative
+    because the passage is a concise calendrical table rather than a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Internal numbers in the source passage were treated as references within the Fasti entry list, not as separate evidence locators.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l951-l998
+  passage_sha256=2191eaaf89e510b052185386f0325d2b8f1d59822a9f1a36ca01f9e050c814f8
+

@@ -1,0 +1,325 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1370
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.escape-and-substitution-episodes
+  motif_id: escape_and_substitution_episodes
+  label: escape and substitution episodes
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Broad escape/substitution wording could be trickster strategy, pursuit
+    episode, sacrifice substitute, or passage-specific plot detail.
+  cautions: Single occurrence and too generic without source evidence; do not map
+    to sacrifice solely from 'substitution'.
+  suggested_aliases:
+  - escape_by_substitution
+  - substitution_escape_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - hero_journey
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-cutting-a-binding-barrier
+  motif_id: escape_by_cutting_a_binding_barrier
+  label: escape by cutting a binding barrier
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif describes a concrete escape technique, but its broader function
+    depends on whether the barrier is ritual, magical, spatial, or captivity-related.
+  cautions: May be an over-specific episode detail; avoid forcing into threshold_guardian
+    without a guarded liminal boundary.
+  suggested_aliases:
+  - cutting_barrier_escape
+  - escape_through_severed_barrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - threshold_guardian
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-extraordinary-leap-over-pursuers
+  motif_id: escape_by_extraordinary_leap_over_pursuers
+  label: escape by extraordinary leap over pursuers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Extraordinary leaping in pursuit may mark heroic ability, magical escape,
+    or a local episode rather than a stable motif group.
+  cautions: Single occurrence; may be too action-specific unless more pursuit-escape
+    variants cluster together.
+  suggested_aliases:
+  - supernatural_leap_escape
+  - leap_over_pursuers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-raft-from-rock-throwing-giants
+  motif_id: escape_by_raft_from_rock_throwing_giants
+  label: escape by raft from rock-throwing giants
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This combines vehicle, pursuers, and projectile detail in a likely episode-specific
+    escape scene.
+  cautions: Could relate to otherworld travel, giant antagonists, or sea journey,
+    but current evidence is too specific for broad mapping.
+  suggested_aliases:
+  - raft_escape_from_giants
+  - escape_from_giant_projectiles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-sequentially-thrown-magical-objects
+  motif_id: escape_by_sequentially_thrown_magical_objects
+  label: escape by sequentially thrown magical objects
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magical Flight and Obstacle Escape
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sequentially thrown magical objects creating escape obstacles is a recognizable
+    pursuit-flight structure not cleanly covered by existing groups.
+  cautions: Confirm recurrence before adding; if isolated, preserve as granular child
+    under a pursuit/escape cluster rather than a taxonomy family.
+  suggested_aliases:
+  - magical_flight
+  - obstacle_flight
+  - magic_objects_delay_pursuit
+  suggested_new_group:
+    id: magical_flight_obstacle_escape
+    label: Magical Flight and Obstacle Escape
+    description: Escape from pursuit through thrown objects, transformations, barriers,
+      decoys, or magically generated obstacles that delay or defeat pursuers.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - threshold_guardian
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, tricksters,
+      and magical objects, but not the recurring pursuit-escape structure where sequential
+      obstacles are the central function.
+- suggestion_id: normalization.suggestion.escape-from-encirclement-by-sudden-recovery
+  motif_id: escape_from_encirclement_by_sudden_recovery
+  label: escape from encirclement by sudden recovery
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Sudden recovery from encirclement could be heroic resilience, healing,
+    divine intervention, or battle reversal.
+  cautions: Needs passage context; do not map to resurrection unless actual death/restoration
+    is present.
+  suggested_aliases:
+  - sudden_recovery_escape
+  - encirclement_escape_by_revival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - death_and_transformation
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-from-predator-through-concealment-and-misread-sign
+  motif_id: escape_from_predator_through_concealment_and_misread_sign
+  label: Escape from predator through concealment and misread sign
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Predator-prey escape through concealment and mistaken signs matches existing
+    trickster/fable predator deception patterns.
+  cautions: If the passage emphasizes animal behavior without cunning or reversal,
+    it may be an over-specific fable detail.
+  suggested_aliases:
+  - predator_escape_by_concealment
+  - misread_sign_escape
+  - concealment_deceives_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eschatological-banquet
+  motif_id: eschatological_banquet
+  label: eschatological banquet
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: An end-time banquet may involve sacred substance, afterlife reward, cosmic
+    renewal, or eschatological judgment depending on the passage.
+  cautions: Culturally and doctrinally specific; review before deciding whether to
+    add an eschatology/end-time group.
+  suggested_aliases:
+  - end_time_banquet
+  - last_day_banquet
+  - afterlife_banquet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - divine_judgment
+    - afterlife_passage
+    - flood_and_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eschatological-leveling-or-removal-of-the-cosmic-landscape
+  motif_id: eschatological_leveling_or_removal_of_the_cosmic_landscape
+  label: eschatological leveling or removal of the cosmic landscape
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: End-time removal or leveling of the cosmic landscape fits catastrophe
+    and world-renewal imagery, though not specifically flood.
+  cautions: If the passage only describes apocalyptic signs without renewal, divine_judgment
+    or a future eschatology group may be better.
+  suggested_aliases:
+  - apocalyptic_landscape_leveling
+  - end_time_cosmic_removal
+  - eschatological_cosmic_renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - world_ages_cosmic_decline
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eschatological-signal-or-announcement
+  motif_id: eschatological_signal_or_announcement
+  label: Eschatological signal or announcement
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An announced end-time signal functions as revelation of future sacred
+    events and warning.
+  cautions: If the signal is a cosmic portent rather than prophetic speech or divination,
+    dream_and_vision or divine_judgment may be a better secondary placement.
+  suggested_aliases:
+  - end_time_signal
+  - apocalyptic_announcement
+  - last_day_announcement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - dream_and_vision
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are pursuit-escape episode labels. A future broad group for magical
+  flight or pursuit escape may be useful if more such labels recur, but most singletons
+  need source-context review.
+- Eschatological labels currently split across divine_judgment, flood_and_renewal,
+  prophecy_divination, afterlife_passage, and sacred_substance; human reviewers may
+  consider whether an end-time/apocalypse query group is warranted.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and culturally specific labels
+    should be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1370
+  input_sha256: 86bbf09a41a390dc5e97055dc4c611f4776f4cb4ce1d6f77b4983a08477e9b74
+

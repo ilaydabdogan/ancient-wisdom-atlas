@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1300
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.body-part-interrogation-ending-in-fatal-contact
+  motif_id: body_part_interrogation_ending_in_fatal_contact
+  label: body-part interrogation ending in fatal contact
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly specific episode involving body parts, questioning,
+    and lethal contact; its narrative function is unclear without source context.
+  cautions: Could involve taboo contact, trickster humor, violent ordeal, magical
+    body part agency, or a passage artifact. Do not map solely from wording.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-remains-used-for-magical-artifact-construction
+  motif_id: body_remains_used_for_magical_artifact_construction
+  label: Body remains used for magical artifact construction
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is crafting a magical artifact from bodily remains,
+    which fits sacred or magical construction.
+  cautions: If the emphasis is relic power, corpse taboo, or postmortem transformation
+    rather than making, sacred_treasures or death_and_transformation may be secondary.
+    Single occurrence; preserve remains-specific detail.
+  suggested_aliases:
+  - corpse remains used to make magical object
+  - body remains as magical material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-wager-after-loss-of-property
+  motif_id: body_wager_after_loss_of_property
+  label: body wager after loss of property
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests gambling or staking the body after material loss,
+    but the mythic function is not clear from the label alone.
+  cautions: Could be ordeal, debt-bondage, trickster wager, social law, sacrifice,
+    or an episode-specific narrative detail. Needs source evidence and cultural review.
+  suggested_aliases:
+  - wagering the body after losing possessions
+  - body staked after property loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bone-hole-tale-with-oral-performance-emphasis
+  motif_id: bone_hole_tale_with_oral_performance_emphasis
+  label: bone-hole tale with oral performance emphasis
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes a tale-type detail with performance context, making its
+    motif function ambiguous.
+  cautions: The phrase 'oral performance emphasis' may be a textual or ethnographic
+    note rather than a motif. Could relate to storytelling_as_power only if performance
+    itself drives survival, transformation, or sacred transmission.
+  suggested_aliases:
+  - bone-hole tale
+  - bone hole oral performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.book-and-staff-of-doom
+  motif_id: book_and_staff_of_doom
+  label: book and staff of doom
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A doom-associated book and staff are power objects that confer or mediate
+    supernatural authority, fate, or judgment.
+  cautions: If the book contains prophecy or judgment records, prophecy_divination
+    or divine_judgment may be secondary. The phrase is compact and may require source
+    verification.
+  suggested_aliases:
+  - doom book and staff
+  - fateful book and staff
+  - book and staff as power objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-protected-foe-with-an-excluded-vulnerable-class
+  motif_id: boon_protected_foe_with_an_excluded_vulnerable_class
+  label: Boon-protected foe with an excluded vulnerable class
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of invulnerability granted by a boon with an
+    omitted or excluded class that enables defeat.
+  cautions: Preserve the specific excluded class in evidence notes; do not merge with
+    general divine boon motifs when the vulnerability structure is central.
+  suggested_aliases:
+  - boon protected enemy with excluded class
+  - invulnerability boon with excluded opponent class
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-protection-with-an-exposed-class-of-adversaries
+  motif_id: boon_protection_with_an_exposed_class_of_adversaries
+  label: Boon protection with an exposed class of adversaries
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: The motif describes protection limited by a class of adversaries left
+    able to harm the protected figure.
+  cautions: Likely duplicates existing boon-with-exception children. Keep adversary-class
+    detail as passage evidence.
+  suggested_aliases:
+  - boon protection with adversary exception
+  - exposed adversary class defeats boon protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-that-becomes-a-communal-plague
+  motif_id: boon_that_becomes_a_communal_plague
+  label: Boon that becomes a communal plague
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A granted boon turning into a plague functions as a reversal with communal
+    punishment or moral reckoning.
+  cautions: Could instead belong under divine_intervention if no moral judgment is
+    present, or under sacred_exchange if the failed gift/boon relationship is central.
+    Needs passage context.
+  suggested_aliases:
+  - gift becomes communal plague
+  - boon turns into affliction
+  - blessing becomes plague
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-with-a-fatal-exception
+  motif_id: boon_with_a_fatal_exception
+  label: Boon with a fatal exception
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: This closely matches existing children such as boon_with_fatal_omitted_exception
+    and divine_boon_with_fatal_exception.
+  cautions: Check whether this is duplicate wording for an already indexed child;
+    preserve the exact exception if known.
+  suggested_aliases:
+  - divine boon with fatal exception
+  - boon with fatal loophole
+  - fatal exception in protective boon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-with-neglected-human-vulnerability
+  motif_id: boon_with_neglected_human_vulnerability
+  label: Boon with neglected human vulnerability
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: The label directly describes invulnerability weakened by an overlooked
+    human exception, already represented in this group.
+  cautions: Likely duplicates invulnerability_boon_with_overlooked_human_vulnerability
+    or invulnerability_boon_with_fatal_human_exception. Treat as alias unless evidence
+    distinguishes it.
+  suggested_aliases:
+  - overlooked human vulnerability in boon
+  - invulnerability boon with human exception
+  - boon with overlooked human vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Hindu boon/vulnerability labels appear to be near-duplicate aliases of the
+  existing conditional_invulnerability_hidden_weakness group and should be deduplicated
+  during taxonomy review.
+- Single-occurrence, episode-specific body and performance labels need source context
+  before being promoted or mapped broadly.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1300
+  input_sha256: e565974bca738ff2ebf7f6a9174792d5359a655e115039efab7f270310e9c6d1
+

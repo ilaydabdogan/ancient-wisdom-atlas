@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0249
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.apotheosized-rainbow-goddess-in-ritual-image
+  motif_id: apotheosized_rainbow_goddess_in_ritual_image
+  label: Apotheosized rainbow goddess in ritual image
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: A deified goddess represented in ritual image may indicate divine manifestation
+    or ritual presence.
+  cautions: Single Navajo occurrence; ritual-image and deity-specific context may
+    be culturally sensitive and could be an iconographic detail rather than a reusable
+    motif.
+  suggested_aliases:
+  - rainbow_goddess_in_ritual_image
+  - ritual_image_of_apotheosized_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apotropaic-stele-as-universal-divine-barrier
+  motif_id: apotropaic_stele_as_universal_divine_barrier
+  label: apotropaic stele as universal divine barrier
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on apotropaic protection and a ritually effective barrier,
+    already folded under sacred_law protection variants.
+  cautions: The stele as object could also relate to sacred_treasures; preserve the
+    Egyptian stele detail as evidence.
+  suggested_aliases:
+  - apotropaic_divine_barrier
+  - protective_stele
+  - stele_as_apotropaic_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-thunder-god-for-lightning-weapons
+  motif_id: appeal_to_thunder_god_for_lightning_weapons
+  label: Appeal to thunder god for lightning weapons
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A request to a thunder god for weapons invokes direct divine aid in human
+    conflict.
+  cautions: If the passage emphasizes sacred combat or weapon-as-power-object more
+    than appeal for aid, divine_warrior or sacred_treasures may be secondary.
+  suggested_aliases:
+  - appeal_for_divine_weapons
+  - thunder_god_grants_lightning_weapons
+  - divine_weapon_request
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approach-of-war-gods
+  motif_id: approach_of_war_gods
+  label: Approach of war gods
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: War gods approaching plausibly belongs to divine warrior or sacred combat
+    imagery.
+  cautions: The label is vague and may describe a ritual procession, iconographic
+    scene, or passage-specific arrival rather than a narrative motif.
+  suggested_aliases:
+  - arrival_of_war_gods
+  - war_gods_approach
+  - approaching_war_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approach-to-a-saint-s-hermitage-at-a-sacred-river-confluence
+  motif_id: approach_to_a_saint_s_hermitage_at_a_sacred_river_confluence
+  label: approach to a saint's hermitage at a sacred river confluence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_geography_pilgrimage
+  suggested_group_label: Sacred Geography and Pilgrimage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core pattern is movement toward a holy site at a sacred water confluence
+    and hermitage.
+  cautions: Group id appears as a child under axis_mundi rather than a full canonical
+    group in the supplied list; if not valid as a group target, map to axis_mundi
+    with sacred_waters as related context.
+  suggested_aliases:
+  - approach_to_sacred_hermitage
+  - pilgrimage_to_river_confluence
+  - sacred_river_confluence_hermitage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arbitrary-divine-command-as-obedience-test
+  motif_id: arbitrary_divine_command_as_obedience_test
+  label: arbitrary divine command as obedience test
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine command testing obedience concerns the binding divine-human
+    relation and response to sacred obligation.
+  cautions: If the command involves surrender of life or property, sacrifice may be
+    a secondary mapping; avoid judging theological content from the word arbitrary
+    alone.
+  suggested_aliases:
+  - divine_command_obedience_test
+  - obedience_test_by_divine_command
+  - test_of_submission_to_divine_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-attendance-at-sacred-service
+  motif_id: armed_attendance_at_sacred_service
+  label: Armed attendance at sacred service
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: Weapons present during a sacred service may indicate ritualized martial
+    sacrality.
+  cautions: Could be merely a social or historical custom, not a motif; source evidence
+    is needed to determine ritual function.
+  suggested_aliases:
+  - armed_ritual_attendance
+  - weapons_at_sacred_service
+  - martial_presence_in_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-champion-vows-to-restore-or-defend-a-claimant
+  motif_id: armed_champion_vows_to_restore_or_defend_a_claimant
+  label: Armed champion vows to restore or defend a claimant
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion defending or restoring a claimant concerns succession, rightful
+    rule, and legitimation by martial support.
+  cautions: If the emphasis is the vow itself, curse_blessing_speech or covenant may
+    be secondary; if combat dominates, sacred_combat may also apply.
+  suggested_aliases:
+  - champion_vows_to_defend_claimant
+  - warrior_defends_rightful_claimant
+  - armed_vow_to_restore_claimant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-divine-epiphany-with-cosmic-reaction
+  motif_id: armed_divine_epiphany_with_cosmic_reaction
+  label: Armed divine epiphany with cosmic reaction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine epiphany producing cosmic reaction is a direct manifestation
+    of sacred presence.
+  cautions: The armed aspect may also index divine_warrior if combat or martial authority
+    is central.
+  suggested_aliases:
+  - armed_theophany
+  - divine_epiphany_with_cosmic_response
+  - martial_divine_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-divine-opposition-during-ritual-performance
+  motif_id: armed_divine_opposition_during_ritual_performance
+  label: Armed divine opposition during ritual performance
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Divine opposition during ritual suggests direct sacred intervention in
+    ritual action.
+  cautions: Single Zuni occurrence and culturally specific ritual context require
+    human review; could be ritual drama, divine judgment, sacred combat, or passage-specific
+    description.
+  suggested_aliases:
+  - divine_opposition_to_ritual
+  - armed_deity_opposes_ritual_performance
+  - sacred_opposition_during_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and ritual- or culture-specific;
+  placements should remain provisional until source passages are reviewed.
+- Where armed/divine imagery appears, distinguish theophany, divine intervention,
+  divine warrior, and sacred combat by narrative function rather than by the presence
+  of weapons alone.
+- One suggested target, sacred_geography_pilgrimage, is present as a child label under
+  axis_mundi but not clearly as a standalone canonical_motif_group in the supplied
+  group list; reviewer should verify allowed target ids.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for culturally specific
+    ritual image, Navajo/Zuni ritual contexts, and vague armed-divine labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0249
+  input_sha256: 1c78b7c5ebc960c715121644d5f8532e267bab6cdf1fde6c53e13a6701b53a28
+

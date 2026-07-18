@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0699
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enchantment-spreads-from-person-to-household-and-environment
+  motif_id: enchantment_spreads_from_person_to_household_and_environment
+  label: enchantment spreads from person to household and environment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests contagious enchantment affecting people and surroundings,
+    but the function could be magical compulsion, curse, pollution, or household transformation.
+  cautions: Single occurrence and context-dependent; avoid mapping to shapeshifter
+    or sacred_law without evidence of bodily transformation or ritual contagion.
+  suggested_aliases:
+  - contagious_enchantment
+  - household_enchantment
+  - environmental_spread_of_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - shapeshifter
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-beautiful-maiden-at-water
+  motif_id: encounter_with_a_beautiful_maiden_at_water
+  label: Encounter with a beautiful maiden at water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A water-side encounter with a beautiful maiden commonly initiates courtship,
+    longing, or otherworldly love in Celtic material.
+  cautions: If the maiden functions mainly as a water spirit, threshold guardian,
+    or otherworld guide, secondary review under sacred_waters, threshold_guardian,
+    or otherworld may be needed.
+  suggested_aliases:
+  - beautiful_maiden_at_water
+  - water_maiden_encounter
+  - encounter_with_maiden_by_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-giant-animal-ally-tied-to-the-father
+  motif_id: encounter_with_a_giant_animal_ally_tied_to_the_father
+  label: encounter with a giant animal ally tied to the father
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes animal helpers; a giant animal ally aiding
+    a figure fits supernatural guidance or intervention.
+  cautions: The father connection may indicate lineage, ancestry, or recognition rather
+    than divine intervention; preserve that detail in evidence notes.
+  suggested_aliases:
+  - giant_animal_ally
+  - animal_ally_linked_to_father
+  - paternal_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - animal_helpers
+    - recognition_tokens_hidden_identity
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-attends-the-mother-of-a-future-enemy
+  motif_id: enemy_attends_the_mother_of_a_future_enemy
+  label: Enemy attends the mother of a future enemy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern threatened birth, ironic protection, fate, or enemy
+    recognition, but the narrative function is unclear from the label alone.
+  cautions: Do not force into miraculous_child unless the future enemy's birth or
+    infancy is marked by destiny, threat, or protection.
+  suggested_aliases:
+  - enemy_present_at_future_enemy_birth
+  - foe_attends_mother_of_future_foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - death_by_fate
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-spy-discovers-hidden-children
+  motif_id: enemy_spy_discovers_hidden_children
+  label: Enemy spy discovers hidden children
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden children discovered by an enemy fits the threatened or concealed
+    child pattern within the miraculous_child group.
+  cautions: If the children are not sacred, destined, or ritually significant, this
+    may be a plot detail rather than a motif; review Indigenous source context carefully.
+  suggested_aliases:
+  - hidden_children_discovered_by_enemy
+  - spy_finds_hidden_children
+  - threatened_hidden_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envious-beauty-rivalry-leading-to-murder-attempts
+  motif_id: envious_beauty_rivalry_leading_to_murder_attempts
+  label: envious beauty rivalry leading to murder attempts
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group already includes envy and rivalry patterns; beauty-driven
+    envy escalating to attempted murder is a close social variant.
+  cautions: If the passage centers on persecuted child/stepmother or romantic rivalry,
+    sacred_love or jealous_stepmother_persecuted_child may be better secondary mappings.
+  suggested_aliases:
+  - beauty_envy_rivalry
+  - envious_rivalry_over_beauty
+  - beauty_rivalry_murder_attempt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - jealous_stepmother_persecuted_child
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envious-rival-arms-himself-with-poisoned-weapons
+  motif_id: envious_rival_arms_himself_with_poisoned_weapons
+  label: Envious rival arms himself with poisoned weapons
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The armed rival preparing poisoned weapons belongs broadly to conflict/combat,
+    but the exact poisoned-weapon detail is over-specific.
+  cautions: Could also belong under pride_and_downfall if envy and rivalry are the
+    main motif; preserve poison as episode evidence rather than canonicalizing it.
+  suggested_aliases:
+  - poisoned_weapons_of_envious_rival
+  - envious_rival_with_poisoned_weapons
+  - rival_arms_with_poison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-from-dangerous-husband-across-water-or-toward-land
+  motif_id: escape_from_dangerous_husband_across_water_or_toward_land
+  label: escape from dangerous husband across water or toward land
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water crossing marks escape, boundary passage, and transformation from
+    a dangerous domestic relation.
+  cautions: If the main pattern is marital violence or animal/spirit husband escape,
+    current groups may not capture the social meaning; do not treat as flood or underworld
+    descent without evidence.
+  suggested_aliases:
+  - escape_across_water_from_dangerous_husband
+  - flight_from_husband_over_water
+  - water_crossing_escape_from_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - hero_journey
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eternity-measured-by-the-erosion-of-a-mountain
+  motif_id: eternity_measured_by_the_erosion_of_a_mountain
+  label: eternity measured by the erosion of a mountain
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image uses cosmic-scale duration to express sacred or immeasurable
+    time, with the mountain as a measuring figure rather than a world axis.
+  cautions: Do not map to cosmic_mountain unless the mountain functions as a sacred
+    center; this may be a proverb or teaching image rather than narrative motif.
+  suggested_aliases:
+  - mountain_erosion_measures_eternity
+  - eternity_by_mountain_wearing_away
+  - cosmic_duration_measured_by_erosion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-contrast-between-exemplary-and-deficient-persons
+  motif_id: ethical_contrast_between_exemplary_and_deficient_persons
+  label: ethical contrast between exemplary and deficient persons
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes moral instruction through contrast, fitting ethical/social
+    order more than narrative transformation.
+  cautions: May be a teaching or commentary artifact rather than a mythic motif; if
+    the passage is purely philosophical classification, consider excluding from pattern
+    queries.
+  suggested_aliases:
+  - exemplary_and_deficient_persons
+  - ethical_contrast_of_person_types
+  - moral_contrast_between_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels are single-occurrence and may be
+  over-specific episode summaries rather than durable motifs.
+- The review bucket is love/family/body, but several best-fit placements fall under
+  sacred law, combat, sacred waters, or time because the generated labels emphasize
+  narrative function rather than family relation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Suggested existing groups where plausible; flagged context-dependent and
+    over-specific labels for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0699
+  input_sha256: 9863e8b438bf95d29dd3d9d35a9b08b1ab837286c2308ee9ae018c5854841302
+

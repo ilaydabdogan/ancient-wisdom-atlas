@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0322
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divinely-commanded-census
+  motif_id: divinely_commanded_census
+  label: Divinely commanded census
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A census commanded by deity functions as divinely authorized social ordering
+    and administrative law.
+  cautions: Single occurrence; if the passage emphasizes covenant obligation or ritual
+    purity, covenant may be a secondary fit.
+  suggested_aliases:
+  - divine census command
+  - sacred population enumeration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-commanded-census-of-sacred-workers
+  motif_id: divinely_commanded_census_of_sacred_workers
+  label: Divinely commanded census of sacred workers
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Counting sacred workers by divine command organizes ritual service under
+    sacred law.
+  cautions: May be too administrative and context-specific; if focused on sanctuary
+    roles, covenant or portable_sanctuary may be relevant secondary mappings.
+  suggested_aliases:
+  - divine census of ritual personnel
+  - sacred worker enumeration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-commanded-sacred-construction
+  motif_id: divinely_commanded_sacred_construction
+  label: divinely commanded sacred construction
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes building or construction authorized by divine
+    command.
+  cautions: If the constructed object is a sanctuary that functions as cosmic center,
+    axis_mundi or portable_sanctuary may also apply.
+  suggested_aliases:
+  - divine command to build
+  - sacred construction by command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-commanded-sacred-itinerary
+  motif_id: divinely_commanded_sacred_itinerary
+  label: divinely commanded sacred itinerary
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity directing an itinerary is a guidance intervention shaping human
+    movement.
+  cautions: If the itinerary is primarily pilgrimage or exile, hero_journey or sacred_geography_pilgrimage
+    may be relevant; source context needed.
+  suggested_aliases:
+  - divinely directed route
+  - sacred itinerary by divine command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-commissioned-confrontation-with-an-oppressive-ruler
+  motif_id: divinely_commissioned_confrontation_with_an_oppressive_ruler
+  label: Divinely commissioned confrontation with an oppressive ruler
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human agent is commissioned by divine authority to act in political
+    conflict.
+  cautions: Could also fit divine_call, divine_judgment, or sacred_law depending on
+    whether the emphasis is prophetic vocation, punishment, or justice.
+  suggested_aliases:
+  - divine commission against tyrant
+  - prophetic confrontation with oppressive ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-directed-prophetic-succession
+  motif_id: divinely_directed_prophetic_succession
+  label: divinely directed prophetic succession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Divinely authorized succession resembles sacred legitimation of office
+    and authority.
+  cautions: This concerns prophetic rather than royal office; may require a future
+    sacred_office_or_prophetic_authority group if many such labels recur.
+  suggested_aliases:
+  - prophetic succession by divine direction
+  - divinely authorized succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-empowered-combatants-and-weapons
+  motif_id: divinely_empowered_combatants_and_weapons
+  label: divinely empowered combatants and weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine empowerment of fighters and weapons belongs to sacred combat and
+    divine-warrior functions.
+  cautions: If the focus is on the weapon as object rather than combat role, sacred_treasures
+    may be a secondary mapping.
+  suggested_aliases:
+  - divinely empowered warriors and weapons
+  - sacredly empowered combatants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-empowered-warrior-after-prayer
+  motif_id: divinely_empowered_warrior_after_prayer
+  label: Divinely empowered warrior after prayer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A warrior receiving divine power for combat after prayer fits divine-warrior
+    and sacred-combat patterns.
+  cautions: Prayer context also touches sacred_exchange, but the narrative function
+    is empowerment for combat.
+  suggested_aliases:
+  - warrior empowered by prayer
+  - divine aid in battle after prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-enforced-terror-around-a-forbidden-or-protected-place
+  motif_id: divinely_enforced_terror_around_a_forbidden_or_protected_place
+  label: Divinely enforced terror around a forbidden or protected place
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divinely imposed fear protects a boundary or forbidden place, functioning
+    like threshold guarding.
+  cautions: If no guardian or passage test is present, sacred_law or divine_judgment
+    may be better; terror around a place may be a local cultic detail.
+  suggested_aliases:
+  - divine terror guarding forbidden place
+  - sacred fear protecting a boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-fashioned-maiden-from-earth-and-water
+  motif_id: divinely_fashioned_maiden_from_earth_and_water
+  label: Divinely fashioned maiden from earth and water
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A divinely made human-like figure from elemental materials fits sacred
+    craft and artificial creation.
+  cautions: Could also relate to cosmic_origin if framed as first-human creation,
+    or miraculous_child if birth/destiny is emphasized.
+  suggested_aliases:
+  - divinely fashioned woman
+  - maiden made from earth and water
+  - artificially created maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence and command/commission formulas;
+  preserve local evidence rather than promoting them to new canonical motifs.
+- Several items may need secondary mappings if passage evidence emphasizes covenant,
+  prophetic office, sanctuary, or sacred combat more strongly than the generated label
+  indicates.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0322
+  input_sha256: 8a1b707720754d5e2c7e40a4ff5dd4188681e210f3b316858cb9494f90c1538c
+

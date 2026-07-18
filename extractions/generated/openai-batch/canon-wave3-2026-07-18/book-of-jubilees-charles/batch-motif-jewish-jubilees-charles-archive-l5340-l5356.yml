@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l5340-l5356
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER I. 18-26 7 / CHAPTER I. 27-29 9 / CHAPTER II. 1-2 II / CHAPTER II.
+    2-4 13; lines 5340-5356
+  start: '5340'
+  end: '5356'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: the garden of Eden was said to have been created before the world
+  summary: 'A commentary note compares traditions about the timing of Eden''s creation:
+    Eden as a third-day creation in several cited sources, and a later view in which
+    Eden/paradise was created or planted before the world, connected to an interpretation
+    of Genesis 2:8 as “from the beginning” rather than “on the east.”'
+  language: English with Latin quotation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says Eden is a creation of the third day in Ber. rabba 15, Slavonic
+    Enoch xxx.1, and Book of Adam and Eve i.1.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the third-day view is the earliest view so far as
+    the note's evidence goes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage reports that by the latter half of the first century A.D. the
+    garden of Eden was said to have been created before the world, citing 4 Ezra iii.6.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Latin quotation presents paradise as planted by “your right hand” before
+    the earth came.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage explains the pre-world view as arising from reading a term in
+    Genesis 2:8 as “from the beginning” instead of “on the east.”
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the new interpretation was adopted by the Targums, Syriac
+    and Latin Versions, and Aquila; the line range ends with a truncated “Sym-” reference.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Garden of Eden / paradise
+  literal_form: Garden or paradise called Eden
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Third day
+  literal_form: The third day as a creation-time marker
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Right hand planting paradise
+  literal_form: "“dextera tua” / “your right hand” planting paradise"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Third-day Eden chronology
+  summary: The note reports a tradition in which Eden belongs to the third day of
+    creation and cites several witnesses for this view.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pre-world paradise chronology
+  summary: The note reports a later view in which the garden of Eden or paradise existed
+    before the world or before the earth came.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Exegetical reinterpretation and adoption
+  summary: The note attributes the pre-world Eden view to a reading of Genesis 2:8
+    as “from the beginning” and says this interpretation was adopted by several translation
+    traditions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Eden created on the third day
+  taxonomy_refs: []
+  basis: The passage explicitly states that Eden is a creation of the third day in
+    several cited sources.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a commentary note and does not quote the full cited sources.
+- id: motif:2
+  label: Paradise created before the world
+  taxonomy_refs: []
+  basis: The passage reports a first-century view that Eden was created before the
+    world and quotes 4 Ezra iii.6 about paradise planted before the earth came.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Only a short cited line from 4 Ezra is supplied in the passage.
+- id: motif:3
+  label: Mythic chronology produced by scriptural reinterpretation
+  taxonomy_refs: []
+  basis: The passage says the pre-world Eden view arose from interpreting Genesis
+    2:8 temporally as “from the beginning” rather than spatially as “on the east.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is primarily an exegetical pattern rather than a narrative episode.
+- id: motif:4
+  label: Divine right-hand planting of paradise
+  taxonomy_refs: []
+  basis: The Latin quotation describes paradise as planted by “your right hand” before
+    the earth came.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The addressed figure is not named in the supplied passage, and the phrase
+    may be formulaic.
+comparison_claims:
+- id: claim:1
+  claim: The passage groups Ber. rabba 15, Slavonic Enoch xxx.1, and Book of Adam
+    and Eve i.1 as witnesses to the same Eden-on-the-third-day chronology.
+  claim_level: same_motif
+  target: Ber. rabba 15; Slavonic Enoch xxx.1; Book of Adam and Eve i.1
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The cited passages themselves are not included in this line range.
+- id: claim:2
+  claim: The passage contrasts the third-day Eden chronology with a view in 4 Ezra
+    iii.6 in which Eden/paradise exists before the world or before the earth came.
+  claim_level: same_function
+  target: 4 Ezra iii.6 compared with the third-day Eden witnesses
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the creation-timing function of Eden;
+    no broader narrative context is provided.
+- id: claim:3
+  claim: The passage says the interpretation of Genesis 2:8 as “from the beginning”
+    was adopted by the Targums, Syriac and Latin Versions, and Aquila, supporting
+    a cautious comparison of a shared linguistic interpretation.
+  claim_level: linguistic_similarity
+  target: Targums; Syriac Versions; Latin Versions; Aquila
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The final source list is truncated after “Sym-,” and the passage does
+    not provide examples from each version.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5340-5344
+  quote_or_summary: "“Eden is likewise a creation of the third day in Ber. rabba 15;
+    Slav. Enoch xxx. 1; Book of Adam and Eve i. 1. This is the earliest view so far
+    as our evidence goes.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 5345-5348
+  quote_or_summary: "“the garden of Eden was said to have been created before the
+    world. Thus 4 Ezra iii. 6”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 5349-5350
+  quote_or_summary: "“In paradisum, quem plantavit dextera tua antequam terra adventaret.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 5351-5353
+  quote_or_summary: The view arose from taking the term in Genesis 2:8 to mean “from
+    the beginning” instead of “on the east.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summary with short quoted phrases.
+- id: ev:5
+  type: summary
+  locator: lines 5353-5356
+  quote_or_summary: The passage says this new interpretation was adopted by the Targums,
+    the Syriac and Latin Versions, and Aquila; the line range ends with a truncated
+    “Sym-” reference.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a secondary commentary note rather than a continuous mythic
+    narrative, and the final source list is truncated. Comparisons are explicit within
+    the note but based on brief citations only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family or symbol IDs were assigned because the available taxonomy list does not directly include Eden, paradise, primordial garden, or pre-world paradise.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l5340-l5356
+  passage_sha256=c8e47789d495621f864a3d3528878e61de803e913b9a5dcc5241d48914ca79c1
+

@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0636
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refugees-warn-a-city-of-approaching-war
+  motif_id: refugees_warn_a_city_of_approaching_war
+  label: Refugees warn a city of approaching war
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a warning before conflict, but it is unclear whether
+    the function is prophecy, civic defense, messenger warning, or plot logistics.
+  cautions: Single occurrence and may be an episode-specific war notice rather than
+    a durable motif; source context needed before mapping to sacred_combat, prophecy_divination,
+    or royal/civic order.
+  suggested_aliases:
+  - war warning by refugees
+  - refugees as warning messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - prophecy_divination
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-dishonoring-erotic-summons
+  motif_id: refusal_of_dishonoring_erotic_summons
+  label: refusal of dishonoring erotic summons
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern chastity, honor, erotic coercion, sacred law, or
+    courtly social order; existing groups do not clearly capture it from the label
+    alone.
+  cautions: Could be a culturally specific honor/sexual ethics episode; avoid forcing
+    into sacred_love unless love or longing is central rather than refused dishonor.
+  suggested_aliases:
+  - refusal of dishonorable sexual summons
+  - chaste refusal of erotic command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-expected-marriage-leading-to-public-punishment
+  motif_id: refusal_of_expected_marriage_leading_to_public_punishment
+  label: Refusal of expected marriage leading to public punishment
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage refusal, social expectation, and punishment;
+    placement depends on whether the passage emphasizes martyrdom, law, gendered coercion,
+    or public judgment.
+  cautions: Single occurrence and potentially sensitive; do not reduce to sacred_love
+    if the core is coercive punishment or religious refusal.
+  suggested_aliases:
+  - marriage refusal punished publicly
+  - punishment for refusing expected marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_love
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-food-to-a-humble-stranger-followed-by-punishment
+  motif_id: refusal_of_food_to_a_humble_stranger_followed_by_punishment
+  label: refusal of food to a humble stranger followed by punishment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: A humble stranger denied food and then punished is a clear hospitality-test
+    structure with moral consequence.
+  cautions: If no test or disguised sacred status is present, secondary mapping to
+    divine_judgment may be sufficient; preserve food-refusal detail as evidence.
+  suggested_aliases:
+  - refusal of hospitality to humble stranger
+  - stranger denied food and punished
+  - failed hospitality test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-marriage-to-preserve-maiden-freedom-and-local-seasonal-order
+  motif_id: refusal_of_marriage_to_preserve_maiden_freedom_and_local_seasonal_order
+  label: Refusal of marriage to preserve maiden freedom and local seasonal order
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes marriage refusal, maiden autonomy, and seasonal order;
+    source evidence is needed to identify the dominant function.
+  cautions: May belong with sacred_time if seasonal order is central, sacred_love
+    if courtship/marriage choice is central, or sacred_law if social obligation is
+    central; likely over-specific.
+  suggested_aliases:
+  - marriage refusal preserving seasonal order
+  - maiden freedom against marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-marriage-while-seeking-the-mother
+  motif_id: refusal_of_marriage_while_seeking_the_mother
+  label: refusal of marriage while seeking the mother
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The narrative function could be quest delay, filial duty, marriage refusal,
+    or family restoration, none of which can be selected confidently from the label
+    alone.
+  cautions: Single occurrence and over-contextual; may be evidence detail under hero_journey
+    if the mother-search is the quest frame.
+  suggested_aliases:
+  - marriage refused during mother quest
+  - quest for mother over marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-oath-under-religious-law
+  motif_id: refusal_of_oath_under_religious_law
+  label: refusal of oath under religious law
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: An oath is a binding sacred speech act, and refusal under religious law
+    concerns its performative and legal force.
+  cautions: Could also be indexed under sacred_law if the focus is the legal prohibition
+    rather than the oath act itself; source context should confirm.
+  suggested_aliases:
+  - refusal to swear oath
+  - religious refusal of oath
+  - oath refusal under sacred law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-rise-before-a-hostile-queen
+  motif_id: refusal_to_rise_before_a_hostile_queen
+  label: Refusal to rise before a hostile queen
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a specific gesture of defiance within a courtly or
+    hostile-power scene rather than a broad motif.
+  cautions: May fit sacred_law, royal_legitimacy, pride/downfall, or conflict depending
+    on consequences; likely too scene-specific without recurrence.
+  suggested_aliases:
+  - courtly refusal of homage
+  - refusal to honor hostile queen
+  - defiant refusal to rise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messenger-and-chastised-ruler-as-warning-pattern
+  motif_id: rejected_messenger_and_chastised_ruler_as_warning_pattern
+  label: Rejected messenger and chastised ruler as warning pattern
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of a messenger followed by chastisement of a ruler functions
+    as warning and moral reckoning by sacred authority.
+  cautions: If the messenger role is the main focus, divine_intervention or prophecy_divination
+    may be useful secondary mappings; avoid transmission claims.
+  suggested_aliases:
+  - rejected messenger punished ruler
+  - ruler chastised after rejecting warning
+  - messenger rejection and judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - prophecy_divination
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-poor-looking-kinsman-reveals-power
+  motif_id: rejected_poor_looking_kinsman_reveals_power
+  label: Rejected poor-looking kinsman reveals power
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A low-status or poor-looking figure is rejected and then reveals hidden
+    power, resembling the stranger/guest test and reversal of misrecognition.
+  cautions: If kinship recognition rather than hospitality is central, recognition_tokens_hidden_identity
+    may be a better group; if punishment follows, divine_judgment may be secondary.
+  suggested_aliases:
+  - rejected humble kinsman reveals power
+  - disguised poor kinsman test
+  - lowly kinsman revealed as powerful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence refusal or courtly-defiance scenes;
+  most need source evidence before being promoted beyond evidence notes.
+- Where marriage refusal is coercive or punitive, review should avoid flattening gendered/social
+  violence into generic sacred_love.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for over-specific refusal
+    and marriage-related labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0636
+  input_sha256: fe7fb465e30f09bc2f812c57de165220f6df725f433f8dbc3f28453055e82bc8
+

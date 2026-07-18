@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l17280-l17376
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter  VI. / CHAPTER   VI,    3-6.  295 / CHAPTER    VI,   7 -VII,   I.  297
+    / Chapter  VII.; lines 17280-17376
+  start: '17280'
+  end: '17376'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A short transition fragment names several religious groups. Chapter VII
+    then prescribes reverence of the sun at successive daily periods, gives rules
+    for cases involving hand-washing or non-visibility of the sun, and assigns ritual
+    fault or merit to omission or performance. The moon and fire are said to be treated
+    in like manner, with translator notes linking the practice to Nyayis liturgical
+    salutations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening fragment names the Zandiki, Christians, Jews, and others in relation
+    to a classification of law or religious groupings.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage prescribes reverence of the morning sun until midday, the midday
+    sun until afternoon, and the afternoon sun until night, when the person is prepared
+    for activity.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a situation occurs in which it is not proper to wash the hands, the person
+    is instructed to reverence the sun beforehand and again after the hands are washed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The text states that failure to reverence the sun once is a sin of thirty
+    stirs, while each reverence of the sun is a good work of one Tanapuhar; the moon
+    and fire are said to be similar.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When clouds make the sun invisible, reverencing the sun is still described
+    as proper.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The translator note identifies the sun reverence with the Khurshed Nyayis,
+    a salutation of the sun performed three times daily, and notes separate Nyayis
+    for the moon and fire.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: generic ritual practitioner
+  description: The unnamed person addressed as one who should reverence the sun, wash
+    hands, or omit reverence under stated conditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ritual observer
+  assigned_to:
+  - fig:1
+  basis: The passage gives prescriptive actions and consequences for the person who
+    performs or omits reverence of the sun, moon, and fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: the sun in morning, midday, and afternoon periods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: washed hands
+  literal_form: hands washed before or after reverence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: moon
+  literal_form: the moon as an object of similar reverence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: fire
+  literal_form: fire as an object of similar reverence
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: appointed daily sun reverence
+  summary: A practitioner is instructed to reverence the sun through successive daily
+    periods from morning to night.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: hand-washing condition before and after reverence
+  summary: When hand-washing is not immediately proper, the practitioner should reverence
+    the sun before the circumstance and again after washing the hands.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: ritual value of reverence and omission
+  summary: The passage assigns fault to omitting sun reverence and merit to performing
+    it, extending the pattern to the moon and fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: reverence of the cloud-hidden sun
+  summary: The practitioner may properly reverence the sun even when clouds make it
+    invisible.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: appointed daily solar reverence
+  taxonomy_refs: []
+  basis: The passage prescribes reverence of the sun across morning, midday, and afternoon
+    periods, with a note identifying a three-times-daily salutation of the sun.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a ritual prescription rather than a narrative myth episode; no
+    supplied motif-family taxonomy directly names solar daily liturgy.
+- id: motif:2
+  label: ritual purity condition before prayer
+  taxonomy_refs: []
+  basis: The passage connects proper reverence with hand-washing and instructs reverence
+    before and after the hands are washed under specified conditions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage concerns ritual propriety; broader purity symbolism should
+    not be inferred beyond the hand-washing rule.
+- id: motif:3
+  label: measured ritual merit and fault
+  taxonomy_refs: []
+  basis: Omission of sun reverence is quantified as a sin, while performance is quantified
+    as a good work; the same pattern is extended to moon and fire.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact doctrinal values of stirs and Tanapuhar depend on wider textual
+    context not included in the passage.
+- id: motif:4
+  label: reverence despite non-visibility
+  taxonomy_refs: []
+  basis: The text states that reverencing the sun remains proper when clouds make
+    it invisible.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a brief ritual rule; no further symbolic interpretation of hiddenness
+    is stated.
+comparison_claims:
+- id: claim:1
+  claim: The prescribed sun reverence is identified in the passage notes with the
+    Khurshed Nyayis, the Zoroastrian salutation of the sun performed three times daily;
+    analogous Nyayis are noted for the moon and fire.
+  claim_level: same_function
+  target: Khurshed Nyayis and related Nyayis for moon and fire in the same Zoroastrian
+    liturgical tradition
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supported by translator notes included in the passage,
+    not by an internal narrative parallel; it should be reviewed against the source
+    text and wider liturgical corpus.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17280-17284; Chapter VI.7 fragment
+  quote_or_summary: A fragment names the Zandiki, Christians, Jews, and others of
+    this sort in relation to law or religious categorization.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 17286-17308; Chapter VII.1
+  quote_or_summary: The morning sun is to be reverenced until midday, the midday sun
+    until afternoon, and the afternoon sun until night, when the person is prepared
+    for activity.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 17309-17334; Chapter VII.2
+  quote_or_summary: When circumstances make it improper to wash the hands, the sun
+    should be fully reverenced beforehand and then reverenced again after the hands
+    are washed; omission may become irreverence unless avoiding a worse fault.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17345-17362; Chapter VII.3-4
+  quote_or_summary: Reverencing the sun at its proper period is better; omitting it
+    once is a sin of thirty stirs; each sun reverence is a good work of one Tanapuhar,
+    and the moon and fire are similar.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17362-17365; Chapter VII.5
+  quote_or_summary: If cloudiness makes the sun not visible, reverencing it is still
+    proper.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 17366-17376; translator notes to Chapter VII.1 and VII.4
+  quote_or_summary: The note relates the practice to the Khurshed Nyayis, the salutation
+    of the sun performed three times daily in the Havan, Rapitvin, and Auzerin Gahs,
+    and adds that the moon and fire each have a separate Nyayis.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual prescriptions are clear despite OCR irregularities. Motif labels
+    are intentionally conservative because the passage is prescriptive and liturgical
+    rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage includes a transition fragment from the preceding chapter, Chapter VII ritual prescriptions, and translator notes.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l17280-l17376
+  passage_sha256=3f742233d0a5360ca5a179835356364517e8176d3145c498372214e6c627005e
+

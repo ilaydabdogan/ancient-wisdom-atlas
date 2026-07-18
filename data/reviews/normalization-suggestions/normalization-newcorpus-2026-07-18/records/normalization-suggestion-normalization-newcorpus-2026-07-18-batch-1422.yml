@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1422
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heaven-appointed-illness-or-fate
+  motif_id: heaven_appointed_illness_or_fate
+  label: Heaven-appointed illness or fate
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Illness or fate appointed by Heaven fits destiny or non-human agency
+    governing human vulnerability and death.
+  cautions: If the passage emphasizes moral recompense by Heaven rather than destiny,
+    divine_judgment may be a better mapping.
+  suggested_aliases:
+  - heaven_appointed_fate
+  - illness_decreed_by_heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heaven-held-up-by-an-immovable-bearer
+  motif_id: heaven_held_up_by_an_immovable_bearer
+  label: Heaven held up by an immovable bearer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A figure or support holding up heaven expresses vertical cosmic structure
+    and separation of heaven and earth.
+  cautions: Could be a specific Atlas-like episode rather than a reusable motif; review
+    whether the bearer functions as axis, punishment, or cosmological explanation.
+  suggested_aliases:
+  - sky_bearer
+  - heaven_supported_by_bearer
+  - cosmic_supporter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heaven-protected-survivor
+  motif_id: heaven_protected_survivor
+  label: Heaven-protected survivor
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival through Heaven's protection is direct sacred aid in human danger.
+  cautions: If survival follows a catastrophe and founds a renewed order, survivor_pair
+    or flood_and_renewal may also apply; if only plot protection, keep as granular
+    evidence.
+  suggested_aliases:
+  - divinely_protected_survivor
+  - heavenly_protection_in_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-and-moral-record
+  motif_id: heavenly_and_moral_record
+  label: Heavenly and moral record
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A heavenly record of deeds supports moral accounting and judgment by
+    sacred authority.
+  cautions: If the passage centers on scripture's heavenly source rather than recorded
+    deeds, sacred_knowledge may be secondary or preferable.
+  suggested_aliases:
+  - heavenly_record_of_deeds
+  - moral_record_book
+  - book_of_deeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-archetype-of-scripture
+  motif_id: heavenly_archetype_of_scripture
+  label: heavenly archetype of scripture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A heavenly prototype of scripture concerns sacred knowledge preserved
+    or revealed from a divine source.
+  cautions: May deserve a future subgroup for heavenly books if recurrent; avoid treating
+    doctrinal formulation alone as a narrative motif without passage evidence.
+  suggested_aliases:
+  - celestial_scripture_archetype
+  - heavenly_book_archetype
+  - preexistent_scripture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-beings-descend-and-transgress-boundaries-with-human-women
+  motif_id: heavenly_beings_descend_and_transgress_boundaries_with_human_women
+  label: Heavenly beings descend and transgress boundaries with human women
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on descent and boundary transgression by heavenly beings,
+    but no existing group cleanly captures angelic fall, illicit divine-human union,
+    and resulting disorder.
+  cautions: Culturally sensitive and evidence-dependent; could map to sacred_marriage,
+    divine_judgment, descent, miraculous_child, or a fallen-heavenly-beings group
+    depending on context.
+  suggested_aliases:
+  - watchers_descend_to_human_women
+  - heavenly_beings_transgress_with_women
+  - angelic_boundary_transgression
+  suggested_new_group:
+    id: fallen_heavenly_beings
+    label: Fallen Heavenly Beings and Transgressive Descent
+    description: Heavenly or angelic beings descend across cosmic boundaries, violate
+      divine order, and create disorder through forbidden relations, knowledge, or
+      offspring.
+    parent_group_ids:
+    - divine_judgment
+    - descent
+    related_group_ids:
+    - trickster
+    - sacred_knowledge
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing groups cover descent, judgment,
+      or boundary crossing separately, but not the recurring combined pattern of heavenly
+      beings transgressing cosmic order through descent and forbidden union.
+- suggestion_id: normalization.suggestion.heavenly-beings-transgress-by-union-with-human-women-and-beget-giants
+  motif_id: heavenly_beings_transgress_by_union_with_human_women_and_beget_giants
+  label: Heavenly beings transgress by union with human women and beget giants
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: The begetting of giants is an extraordinary birth from heavenly-human
+    union, but the main function may be transgression and judgment rather than sacred
+    birth.
+  cautions: Do not collapse illicit union and giant offspring into sacred_marriage
+    or miraculous_child without checking whether the offspring, transgression, or
+    judgment is central.
+  suggested_aliases:
+  - giants_born_from_heavenly_beings_and_women
+  - watchers_beget_giants
+  - forbidden_heavenly_human_union_offspring
+  suggested_new_group:
+    id: fallen_heavenly_beings
+    label: Fallen Heavenly Beings and Transgressive Descent
+    description: Heavenly or angelic beings descend across cosmic boundaries, violate
+      divine order, and create disorder through forbidden relations, knowledge, or
+      offspring.
+    parent_group_ids:
+    - divine_judgment
+    - descent
+    related_group_ids:
+    - trickster
+    - sacred_knowledge
+    - miraculous_child
+    reason_existing_groups_insufficient: The label combines heavenly descent, forbidden
+      union, and monstrous or giant offspring; existing groups only partially cover
+      these roles.
+- suggestion_id: normalization.suggestion.heavenly-books-and-written-destinies
+  motif_id: heavenly_books_and_written_destinies
+  label: Heavenly books and written destinies
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Written destinies in heavenly books express destiny as a cosmic record
+    governing future events.
+  cautions: If the books record deeds for judgment, divine_judgment is preferable;
+    if they transmit revelation, sacred_knowledge may be secondary.
+  suggested_aliases:
+  - written_destinies
+  - heavenly_books_of_fate
+  - celestial_records_of_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-cow-upheld-by-deities
+  motif_id: heavenly_cow_upheld_by_deities
+  label: Heavenly cow upheld by deities
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A heavenly cow supported by gods functions as a cosmological image of
+    heaven upheld and ordered vertically.
+  cautions: Egyptian sky-cow imagery may also involve mother goddess or cosmic origin;
+    preserve the cow and deity-support details for specialist review.
+  suggested_aliases:
+  - sky_cow_supported_by_gods
+  - heavenly_cow_as_sky
+  - deities_uphold_the_sky_cow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-emissary-descends-into-material-embodiment
+  motif_id: heavenly_emissary_descends_into_material_embodiment
+  label: heavenly emissary descends into material embodiment
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heavenly emissary's descent into material embodiment is a downward
+    movement into a lower realm or condition with salvific or revelatory function.
+  cautions: In Gnostic context this may be doctrinal anthropology or redeemer myth;
+    if the emphasis is knowledge brought to humans, sacred_knowledge or divine_intervention
+    may be secondary.
+  suggested_aliases:
+  - redeemer_descends_into_matter
+  - heavenly_messenger_embodied
+  - descent_of_heavenly_emissary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels use ''heavenly'' in different senses: cosmic structure, divine protection,
+  moral record, scripture, fate, and transgressive descent should not be merged solely
+  by imagery.'
+- The Jewish pseudepigrapha Watchers/giants labels likely need specialist review because
+  existing groups only partially cover angelic descent, illicit union, knowledge transgression,
+  and monstrous offspring.
+- Heavenly books/records may split between divine_judgment, sacred_knowledge, and
+  fate_figures_cosmic_weaving depending on whether the passage emphasizes deeds, revelation,
+  or predetermined destiny.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human taxonomy review required for
+    culturally specific heavenly-being and heavenly-book motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1422
+  input_sha256: 464160f929c3bff2f9b16a3a1284c79a520f2d82dbf00ba9b4159df724d2fcad
+

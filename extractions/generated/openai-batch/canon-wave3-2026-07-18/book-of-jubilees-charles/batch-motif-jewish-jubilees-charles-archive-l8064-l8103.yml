@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l8064-l8103
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER IV. 15, 16 35 / THE BOOK OF JUBILEES / CHAPTER IV. 17, 18 37 / CHAPTER
+    IV. 19-26; lines 8064-8103
+  start: '8064'
+  end: '8103'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“This one will comfort me.”"
+  summary: The passage is an editorial note on Noah’s birth and naming. It dates Noah’s
+    birth within the fifteenth jubilee and discusses calculations that place it in
+    year 707, while noting a possible discrepancy leading to year 709. It also compares
+    the name Noah with Genesis v.29 and mentions textual/name variants.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that in the fifteenth jubilee, in the third week, a woman
+    bore a son named Noah.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note assigns Noah’s birthday to some year in 701-707 and states that 707
+    is likely intended.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Samaritan Chronicle is cited as stating that 707 years elapsed from Adam
+    to the birth of Noah.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note states that Lamech was born in 654 and that, according to the Samaritan
+    Chronicle, Lamech was fifty-three when Noah was born.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The note identifies a chronological discrepancy with other passages: one
+    calculation places Noah’s death in 1659, while a lifespan of 950 years would place
+    his birth in 709.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says that Noah observed the Feast of Weeks for 350 years, in a
+    calculation that counts 1309 years from creation to the days of Noah.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note says the text follows Genesis v.29 in connecting the name Noah with
+    the meaning expressed by “This one will comfort me,” while also saying that this
+    meaning belongs to Menachem.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage mentions textual or name variants including Béténés, a Greek form
+    in Lagarde’s manuscript, and a Syriac form identified as Enoshi.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: A son whose birth is dated in the passage; his name is discussed in
+    relation to comfort and textual traditions.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Lamech
+  description: A figure whose birth year and age at Noah’s birth are used in the chronological
+    calculation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Adam
+  description: A figure used as the starting point for the calculation of years elapsed
+    to Noah’s birth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed woman who bears Noah
+  description: The passage says that she bore a son named Noah.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: child born and named
+  assigned_to:
+  - fig:1
+  basis: Noah is the son born in the dated notice and is named in the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chronological referent at Noah’s birth
+  assigned_to:
+  - fig:2
+  basis: Lamech’s birth year and age are used to calculate Noah’s birth year.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: chronological starting ancestor
+  assigned_to:
+  - fig:3
+  basis: The Samaritan Chronicle is cited for the years elapsed from Adam to Noah’s
+    birth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: birth-giver
+  assigned_to:
+  - fig:4
+  basis: The passage states that she bore a son named Noah.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: name-etymology comforter
+  assigned_to:
+  - fig:1
+  basis: The note connects Noah’s name with the phrase “This one will comfort me.”
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Noah’s birth in jubilee chronology
+  summary: A son named Noah is born in the fifteenth jubilee and third week, with
+    the commentary assigning the intended year as 707.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Chronological calculation from Adam and Lamech
+  summary: The note uses the Samaritan Chronicle and Lamech’s age to support a 707
+    birth year for Noah, while also noting a competing calculation that would yield
+    709.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Noah’s name and textual variants
+  summary: The note compares the wording to Genesis v.29, gives the comfort formula
+    associated with Noah’s name, and records additional textual or name variants.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Birth of an ancestor dated within sacred chronology
+  taxonomy_refs: []
+  basis: Noah’s birth is placed within a jubilee framework and calculated from Adam
+    and Lamech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is primarily an editorial chronological note rather than a
+    full narrative episode.
+- id: motif:2
+  label: Naming etiology through a comfort formula
+  taxonomy_refs: []
+  basis: The note explicitly links Noah’s name with the phrase “This one will comfort
+    me” and compares this to Genesis v.29.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage itself notes a linguistic complication, saying the meaning
+    belongs to Menachem rather than straightforwardly to Noah.
+- id: motif:3
+  label: Sacred festival chronology associated with an ancestral figure
+  taxonomy_refs: []
+  basis: The note says the Feast of Weeks was counted from creation to Noah’s days
+    and that Noah observed it for 350 years.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives a chronological calculation only; it does not narrate
+    the festival observance in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares its naming explanation for Noah with Genesis
+    v.29, linking Noah’s name to a comfort formula.
+  claim_level: linguistic_similarity
+  target: Genesis v.29
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is a textual and linguistic note, not evidence here
+    for a broader shared mythic episode.
+- id: claim:2
+  claim: The passage compares Noah’s birth chronology with the Samaritan Chronicle,
+    using that tradition to support a 707 birth year.
+  claim_level: same_function
+  target: Samaritan Chronicle chronology from Adam to Noah
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage also records a discrepancy from other calculations that
+    would yield a different birth year.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8064-8067
+  quote_or_summary: "“In the fifteenth jubilee in the third week . . . she bare him
+    … son... Noah.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 8067-8073
+  quote_or_summary: The note assigns Noah’s birthday to 701-707, says 707 is likely
+    intended, and cites the Samaritan Chronicle for 707 years from Adam to Noah’s
+    birth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8074-8080
+  quote_or_summary: The note says Lamech was born in 654 and, according to the Samaritan
+    Chronicle, was fifty-three when Noah was born, yielding the year 707.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8080-8088
+  quote_or_summary: 'The note describes a discrepancy: Jubilees vi.18 counts 1309
+    years to Noah’s days and 350 years of Noah observing the Feast of Weeks, while
+    x.16 gives Noah a lifespan of 950 years, yielding a birth year of 709.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8090-8093
+  quote_or_summary: The note lists textual or name forms including Béténés, a Greek
+    form in Lagarde’s manuscript, and the Syriac Enoshi.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 8095-8103
+  quote_or_summary: "“This one will comfort me.” The note says the text follows Genesis
+    v.29 in attributing to Noah’s name a meaning belonging to Menachem."
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt and summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial/critical note rather than a continuous mythic
+    narrative, so figures and motifs are limited to the explicit birth, chronology,
+    festival reckoning, and naming-etymology material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol was assigned because the passage does not directly support a listed taxonomy reference beyond general birth, chronology, and naming patterns.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l8064-l8103
+  passage_sha256=85ac338127a159c190fac2f4d8cf618cac594ee28a5d798f9a6bd8a785d7c16a
+

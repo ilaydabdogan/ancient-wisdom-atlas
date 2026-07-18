@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0309
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-provision-of-fire
+  motif_id: divine_provision_of_fire
+  label: Divine provision of fire
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire is provided by divine agency and likely functions as sacred fire
+    or divine gift.
+  cautions: If the episode emphasizes culture-founding theft rather than provision,
+    culture_hero or sacred_theft may be a secondary fit.
+  suggested_aliases:
+  - divinely given fire
+  - divine gift of fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-provision-of-food-and-water-to-a-chosen-group
+  motif_id: divine_provision_of_food_and_water_to_a_chosen_group
+  label: Divine provision of food and water to a chosen group
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes direct divine aid supplying necessities to a human
+    group.
+  cautions: Could also touch sacred_waters or sacred_substance if the passage centers
+    on water or food symbolism rather than intervention.
+  suggested_aliases:
+  - miraculous provision
+  - divine sustenance for chosen group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-provision-through-rain-and-fertile-earth
+  motif_id: divine_provision_through_rain_and_fertile_earth
+  label: divine provision through rain and fertile earth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rain and fertility are framed as divine provision in human affairs.
+  cautions: If the focus is agricultural cycle rather than divine agency, sacred_time
+    or seasonal_cycle may be relevant; avoid treating all rain as flood_and_renewal.
+  suggested_aliases:
+  - divine rain provision
+  - fertile earth as divine gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-provision-through-water-plant-abundance-milk-and-transport
+  motif_id: divine_provision_through_water_plant_abundance_milk_and_transport
+  label: Divine provision through water, plant abundance, milk, and transport
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: high
+  rationale: A composite list of divine benefits fits miraculous provision under divine
+    intervention.
+  cautions: The label is highly enumerative; preserve details as evidence rather than
+    creating separate motifs for each provision item.
+  suggested_aliases:
+  - miraculous provision
+  - divine provision of abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-rearming-of-the-avenging-hero
+  motif_id: divine_rearming_of_the_avenging_hero
+  label: Divine rearming of the avenging hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine arming enables a hero's sacred or vengeance combat role.
+  cautions: If the weapon itself is central, sacred_treasures may be a secondary mapping;
+    if vengeance dominates, sacred_combat may fit better.
+  suggested_aliases:
+  - divinely armed hero
+  - divine arming before vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-reassurance-after-felt-abandonment
+  motif_id: divine_reassurance_after_felt_abandonment
+  label: Divine reassurance after felt abandonment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine reassurance is a direct intervention or guidance event in a moment
+    of distress.
+  cautions: May be devotional rhetoric or passage-specific consolation rather than
+    a durable motif; source context should confirm divine agency.
+  suggested_aliases:
+  - divine consolation
+  - reassurance after abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-reassurance-before-or-with-victory
+  motif_id: divine_reassurance_before_or_with_victory
+  label: divine reassurance before or with victory
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine promise or reassurance of victory functions as supernatural
+    guidance in conflict.
+  cautions: Could also relate to divine_warrior or divine_judgment if victory enacts
+    sacred combat or moral reckoning.
+  suggested_aliases:
+  - divine promise of victory
+  - divine encouragement before victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-reassurance-of-fate-before-renewed-combat
+  motif_id: divine_reassurance_of_fate_before_renewed_combat
+  label: Divine reassurance of fate before renewed combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine confirmation of fate in a combat setting.
+  cautions: If the emphasis is martial aid rather than destiny, divine_warrior or
+    sacred_combat may be better primary groups.
+  suggested_aliases:
+  - divine confirmation of fate before combat
+  - fated combat reassurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-record-of-righteous-deeds
+  motif_id: divine_record_of_righteous_deeds
+  label: Divine record of righteous deeds
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred record of deeds supports moral accounting and judgment.
+  cautions: If the passage focuses on writing or revelation rather than evaluation,
+    sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - record of deeds
+  - heavenly book of deeds
+  - divine moral record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-refuge-against-harmful-forces
+  motif_id: divine_refuge_against_harmful_forces
+  label: Divine refuge against harmful forces
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine protection from harm is a direct protective intervention or guidance
+    function.
+  cautions: If expressed as ritual formula or protective law, sacred_law or curse_blessing_speech
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - divine protection
+  - refuge in divine power
+  - protection from harmful forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern divine provision, reassurance, or protection
+  and fit the existing divine_intervention group without requiring a new provision
+  group.
+- Combat-adjacent labels should be reviewed for whether the primary function is divine
+  aid, fate, sacred combat, or power objects.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; verify source passages before adding mappings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0309
+  input_sha256: e1647e79b7bec3f2864ba7b45ba82d376eb85ec267f2c5ee7a4e1f79e8de75d1
+

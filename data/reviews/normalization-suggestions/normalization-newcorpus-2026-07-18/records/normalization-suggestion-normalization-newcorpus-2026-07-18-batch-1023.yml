@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1023
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.catalog-of-combat-slaying-and-battle-episodes
+  motif_id: catalog_of_combat_slaying_and_battle_episodes
+  label: catalog of combat, slaying, and battle episodes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a catalog/listing form rather than a reusable combat
+    motif.
+  cautions: If individual episodes contain ritual combat, heroic wounds, or vengeance,
+    map those separately from the catalog frame.
+  suggested_aliases:
+  - battle_catalogue
+  - catalogue_of_combat_episodes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-allied-war-contingents
+  motif_id: catalogue_of_allied_war_contingents
+  label: Catalogue of allied war contingents
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a literary catalog of forces, not a narrative or symbolic motif.
+  cautions: Do not merge with sacred_combat unless the passage emphasizes ritually
+    significant warfare rather than enumerative structure.
+  suggested_aliases:
+  - catalogue_of_forces
+  - allied_contingent_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-specialist-war-bands-identified-by-an-interpreter
+  motif_id: catalogue_of_specialist_war_bands_identified_by_an_interpreter
+  label: catalogue of specialist war-bands identified by an interpreter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The cataloguing and interpreter framing look like passage structure or
+    commentary, not a stable motif.
+  cautions: If the interpreter’s recognition has narrative force, consider recognition_tokens_hidden_identity
+    or sacred_knowledge only with passage evidence.
+  suggested_aliases:
+  - catalogue_of_war_bands
+  - interpreter_identifies_war_bands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-warriors-and-forces
+  motif_id: catalogue_of_warriors_and_forces
+  label: catalogue of warriors and forces
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: An enumerative warrior catalog is a textual feature rather than a mythic
+    pattern.
+  cautions: Specific warriors or combat functions within the catalog may still map
+    to divine_warrior or sacred_combat.
+  suggested_aliases:
+  - warrior_catalogue
+  - catalogue_of_forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-wounds-with-attacker-recognition
+  motif_id: catalogue_of_wounds_with_attacker_recognition
+  label: catalogue of wounds with attacker recognition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a catalog form, wound evidence, and recognition, making
+    the dominant motif unclear.
+  cautions: Could be meta-textual cataloguing, heroic wounds under divine_warrior,
+    or recognition proof depending on the passage.
+  suggested_aliases:
+  - wound_catalogue_with_recognition
+  - attacker_recognition_by_wounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogued-summons-to-a-war-muster
+  motif_id: catalogued_summons_to_a_war_muster
+  label: Catalogued summons to a war-muster
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A war muster may be a narrative mobilization scene, but catalogued wording
+    suggests a passage artifact.
+  cautions: Map to sacred_combat only if the summons has ritual or mythic war function
+    beyond enumeration.
+  suggested_aliases:
+  - war_muster_summons
+  - catalogued_war_muster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-linked-prelude-to-a-larger-heroic-cycle
+  motif_id: cattle_linked_prelude_to_a_larger_heroic_cycle
+  label: Cattle-linked prelude to a larger heroic cycle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Cattle-linked heroic-cycle preludes likely belong near cattle_raid_catalyst
+    and raid-related sacred combat patterns.
+  cautions: The phrase 'prelude to a larger heroic cycle' may be a structural note;
+    exclude if it only marks narrative placement.
+  suggested_aliases:
+  - cattle_raid_prelude
+  - cattle_linked_heroic_cycle_prelude
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-and-bloody-contest-over-herds
+  motif_id: cattle_raid_and_bloody_contest_over_herds
+  label: cattle raid and bloody contest over herds
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes cattle raid and combat-over-spoil variants
+    as ritually charged warfare patterns.
+  cautions: If the passage is ordinary livestock theft without heroic or sacred framing,
+    keep as a local episode detail.
+  suggested_aliases:
+  - cattle_raid
+  - contest_over_herds
+  - bloody_cattle_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cautious-testing-before-alliance
+  motif_id: cautious_testing_before_alliance
+  label: cautious testing before alliance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad strategic/social action and does not clearly match
+    an existing sacred or heroic motif group.
+  cautions: Could fit initiation, covenant, sacred_combat, or political alliance depending
+    on source evidence; may be too generic.
+  suggested_aliases:
+  - testing_before_alliance
+  - alliance_testing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-acclaim-after-the-enemy-s-fall
+  motif_id: celestial_acclaim_after_the_enemy_s_fall
+  label: celestial acclaim after the enemy’s fall
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Celestial approval after an enemy’s defeat supports sacred combat or
+    divine-warrior vindication.
+  cautions: If the acclaim is only a conventional victory flourish, it may be too
+    episodic for pattern queries.
+  suggested_aliases:
+  - heavenly_acclaim_after_victory
+  - celestial_approval_of_enemy_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch use catalogue/catalogued wording and likely represent
+  textual organization rather than motifs.
+- Combat-related labels should be mapped only when the passage evidence shows heroic,
+  sacred, ritual, or cosmological function beyond ordinary warfare.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for mixed
+    catalog-recognition and alliance-testing labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1023
+  input_sha256: 26c7cd98cc8319fa8ba3a081ee2c9f1f6eed0df8e7fad6c0ced8ef2e7574863b
+

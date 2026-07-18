@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0080
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.household-ruin-after-a-child-s-death
+  motif_id: household_ruin_after_a_child_s_death
+  label: household ruin after a child's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on bereavement and social collapse after a child's
+    death, which may fit mourning if grief drives the episode.
+  cautions: Could be a passage-specific consequence rather than a recurring motif;
+    may also involve curse, fate, or household succession depending on context.
+  suggested_aliases:
+  - household collapse after child death
+  - family ruin through bereavement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-body-as-vessel-for-spiritual-contents
+  motif_id: human_body_as_vessel_for_spiritual_contents
+  label: Human body as vessel for spiritual contents
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body as container for soul or spiritual contents resembles existing
+    body-as-dwelling/prison imagery in interior liberation and soul anthropology.
+  cautions: If the passage emphasizes separable soul mechanics, external_soul may
+    be a better secondary mapping; if purely doctrinal anthropology, review before
+    indexing.
+  suggested_aliases:
+  - body as spiritual vessel
+  - body as container of soul
+  - body as temporary dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-cries-and-prayers-summon-spirits-to-restore-a-darkened-luminary
+  motif_id: human_cries_and_prayers_summon_spirits_to_restore_a_darkened_luminary
+  label: Human cries and prayers summon spirits to restore a darkened luminary
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Human prayer invoking spirit agency to restore cosmic light fits supernatural
+    intervention in human and cosmic affairs.
+  cautions: Also touches sacred_fire/solar power, cosmic order, ritual speech, or
+    eclipse restoration; source context is needed before final placement.
+  suggested_aliases:
+  - prayer restores darkened luminary
+  - spirits restore eclipsed light
+  - communal cries summon cosmic restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-defeat-of-harmful-spirit-ends-affliction
+  motif_id: human_defeat_of_harmful_spirit_ends_affliction
+  label: Human defeat of harmful spirit ends affliction
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing normalization folds exorcism, spirit affliction, and expulsion
+    of harmful spirits under the sacrifice group's ritual-expulsion complex.
+  cautions: If this is combat with a spirit rather than ritual expulsion, divine_warrior,
+    sacred_combat, or divine_intervention may be more appropriate.
+  suggested_aliases:
+  - defeat of harmful spirit
+  - spirit affliction ended by defeat
+  - harmful spirit overcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-descent-from-a-dog
+  motif_id: human_descent_from_a_dog
+  label: human descent from a dog
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: low
+  rationale: The label is an origin-of-humans or ancestry motif, and cosmic_origin
+    already includes eponymous and genealogical origins of peoples.
+  cautions: Animal ancestry, totemic descent, and Inuit-specific context may need
+    a more precise future group; do not confuse genealogical descent with underworld
+    descent.
+  suggested_aliases:
+  - human ancestry from dog
+  - dog ancestor of humans
+  - animal ancestor origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-military-reliance-contrasted-with-divine-spirit
+  motif_id: human_military_reliance_contrasted_with_divine_spirit
+  label: Human military reliance contrasted with divine spirit
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif contrasts human military power with divine agency in conflict,
+    fitting sacred combat and divine warrior logic.
+  cautions: Could also be ethical teaching or prophetic speech rather than a narrative
+    combat motif; review if the passage is aphoristic or doctrinal.
+  suggested_aliases:
+  - divine spirit over military force
+  - trust in divine power over arms
+  - human arms contrasted with divine aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-mortality-and-inability-to-escape-the-grave
+  motif_id: human_mortality_and_inability_to_escape_the_grave
+  label: Human mortality and inability to escape the grave
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: broader_label
+  confidence: low
+  rationale: The label concerns universal mortality and the grave, adjacent to the
+    death-and-transformation complex.
+  cautions: It may be wisdom poetry or theological reflection rather than a narrative
+    motif; exclude or preserve as evidence if merely a generic mortality statement.
+  suggested_aliases:
+  - inescapable grave
+  - universal human mortality
+  - no escape from death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-mortality-as-flood-sleep-and-withering-grass
+  motif_id: human_mortality_as_flood_sleep_and_withering_grass
+  label: human mortality as flood, sleep, and withering grass
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif uses images of flood, sleep, and withering vegetation to express
+    mortality, broadly within death symbolism.
+  cautions: Likely a poetic image cluster rather than a reusable motif; do not map
+    to flood_and_renewal unless catastrophic world renewal is present.
+  suggested_aliases:
+  - mortality as withering grass
+  - mortality as sleep
+  - human life as passing flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-mortality-through-withdrawal-of-breath
+  motif_id: human_mortality_through_withdrawal_of_breath
+  label: Human mortality through withdrawal of breath
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Death through loss or withdrawal of breath fits soul/life-force imagery
+    already adjacent to death transformation and breath-as-soul labels.
+  cautions: If breath is treated as a separable captured soul, external_soul may be
+    relevant; if doctrinal creation language dominates, cosmic_origin may be secondary.
+  suggested_aliases:
+  - withdrawal of breath causes death
+  - breath as life-force
+  - loss of breath as mortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-origin-from-a-single-soul
+  motif_id: human_origin_from_a_single_soul
+  label: Human origin from a single soul
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes the origin of humanity from a primal single soul,
+    fitting creation and genealogical origins of peoples.
+  cautions: May be theological anthropology rather than narrative creation; preserve
+    the single-soul specificity and avoid merging with soul-loss or afterlife motifs.
+  suggested_aliases:
+  - humanity from one soul
+  - single soul origin of humankind
+  - common human origin from one soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were bucketed under death/descent because of wording such as descent,
+  mortality, spirit, or soul, but some are better treated as origin, combat, intervention,
+  or poetic-theological labels.
+- Single-occurrence poetic or doctrinal labels should be reviewed before promotion
+  to durable pattern-query children.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for narrative
+    function versus theological, poetic, or ethnographic wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0080
+  input_sha256: 8a680668db12dfeb2730e354ad441e663b884affffa309cd0a1bfa0d87c2b58c
+

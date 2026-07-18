@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1175
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unique-heroic-weapon
+  motif_id: unique_heroic_weapon
+  label: unique heroic weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: medium
+  rationale: A distinctive heroic weapon functions as a power object conferring martial
+    authority or ability.
+  cautions: Single occurrence; if the passage emphasizes combat role over object power,
+    sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - heroic_weapon
+  - unique_weapon
+  - heroic_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.united-warrior-companions
+  motif_id: united_warrior_companions
+  label: United warrior companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Warrior companionship may support a combat motif, but the label is too
+    general to identify a sacred or ritual function.
+  cautions: Could be a passage-specific social detail, heroic fellowship, military
+    alliance, or funeral/lament context; verify source evidence before indexing.
+  suggested_aliases:
+  - warrior_companions
+  - heroic_companions
+  - warrior_fellowship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-apostolic-warning
+  motif_id: universal_apostolic_warning
+  label: universal apostolic warning
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: Apostolic warning is a prophetic messenger role conveying divine warning
+    or hidden moral knowledge.
+  cautions: If the focus is punishment after rejection, divine_judgment should be
+    a related or secondary mapping.
+  suggested_aliases:
+  - apostolic_warning
+  - prophetic_warning
+  - messenger_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-messenger-warning-and-rejection-pattern
+  motif_id: universal_messenger_warning_and_rejection_pattern
+  label: Universal messenger warning and rejection pattern
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The sequence of divine messenger warning, rejection, and consequence
+    fits moral reckoning by sacred authority.
+  cautions: Preserve the prophetic-messenger component; prophecy_divination or divine_intervention
+    may be useful secondary facets.
+  suggested_aliases:
+  - messenger_warning_rejection
+  - rejected_messenger_warning
+  - prophetic_warning_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-warner-and-rejected-apostles
+  motif_id: universal_warner_and_rejected_apostles
+  label: Universal warner and rejected apostles
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejected divine warners commonly function within a judgment pattern where
+    refusal of warning leads to reckoning.
+  cautions: Could also be indexed under prophecy_divination if the passage centers
+    on the role of warning rather than subsequent punishment.
+  suggested_aliases:
+  - universal_warner
+  - rejected_apostles
+  - rejected_divine_warners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unknown-hero-withholds-identity-in-battle
+  motif_id: unknown_hero_withholds_identity_in_battle
+  label: Unknown hero withholds identity in battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on hidden identity in a martial setting, aligning with
+    recognition and identity-proof patterns.
+  cautions: If no later recognition or proof is involved, it may be an over-specific
+    battle episode under sacred_combat instead.
+  suggested_aliases:
+  - hidden_identity_in_battle
+  - unknown_warrior
+  - disguised_hero_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unlearned-feats-manifesting-in-crisis-combat
+  motif_id: unlearned_feats_manifesting_in_crisis_combat
+  label: unlearned feats manifesting in crisis combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sudden abilities emerging in crisis combat can mark a transformative
+    ordeal or heroic status change.
+  cautions: If the source frames the feats as divine aid, divine_intervention may
+    fit better; if only martial prowess, sacred_combat may be secondary.
+  suggested_aliases:
+  - sudden_combat_feats
+  - crisis_manifested_ability
+  - unlearned_heroic_skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unmatched-praised-war-deity
+  motif_id: unmatched_praised_war_deity
+  label: Unmatched praised war deity
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A praised war deity belongs to the divine warrior and sacred combat complex.
+  cautions: The label may be more hymnic praise than narrative motif; preserve only
+    if the passage attributes combat or cosmic-order function.
+  suggested_aliases:
+  - war_deity
+  - praised_war_god
+  - unmatched_divine_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unprecedented-funerary-reward-for-a-loyal-servant
+  motif_id: unprecedented_funerary_reward_for_a_loyal_servant
+  label: unprecedented funerary reward for a loyal servant
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A special funerary reward is a memorial and burial-honor motif, even
+    if the honored figure is a servant rather than a warrior.
+  cautions: If the reward is primarily royal administration or biography, it may be
+    too contextual for pattern queries.
+  suggested_aliases:
+  - funerary_reward
+  - burial_honor_for_loyal_service
+  - loyal_servant_funeral_honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-lowly-heroine-appears-as-a-splendid-foreign-princess
+  motif_id: unrecognized_lowly_heroine_appears_as_a_splendid_foreign_princess
+  label: Unrecognized lowly heroine appears as a splendid foreign princess
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene depends on unrecognized or transformed social identity and
+    later recognition potential.
+  cautions: Could also involve shapeshifter if the appearance is magical transformation,
+    or sacred_love if tied to bride recognition; source context needed.
+  suggested_aliases:
+  - unrecognized_heroine
+  - lowly_heroine_as_princess
+  - hidden_identity_heroine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and conflict-bucketed, but some
+  fit prophetic warning, identity recognition, or funerary honor better than combat
+  itself.
+- For Islamic messenger-warning labels, avoid treating taxonomy placement as a transmission
+  claim; distinguish warning role from judgment sequence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for single-occurrence
+    and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1175
+  input_sha256: 646da49b78dec34d2971fe22f83be389d7c24d59693c977c4bbd17fa54857c1d
+

@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1435
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-lowly-origin-and-disputatiousness
+  motif_id: human_lowly_origin_and_disputatiousness
+  label: Human lowly origin and disputatiousness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines anthropology, origin, and moral characterization without
+    a clear narrative function.
+  cautions: May be a passage-specific theological or exegetical statement rather than
+    a reusable motif; source context needed before mapping to cosmic_origin, sacred_law,
+    or divine_judgment.
+  suggested_aliases:
+  - human lowly origin
+  - human disputatiousness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-messenger-rejected-for-ordinary-human-traits
+  motif_id: human_messenger_rejected_for_ordinary_human_traits
+  label: Human messenger rejected for ordinary human traits
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A human messenger functions as the vehicle of divine guidance, with rejection
+    focused on the messenger's ordinary humanity.
+  cautions: Could also fit prophet_call_under_opposition if the passage centers on
+    prophetic opposition; avoid mapping to theophany unless direct divine manifestation
+    is present.
+  suggested_aliases:
+  - rejected human messenger
+  - prophet rejected for human traits
+  - ordinary human messenger rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-miser-outlasts-demon-in-pain-endurance
+  motif_id: human_miser_outlasts_demon_in_pain_endurance
+  label: human miser outlasts demon in pain endurance
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A human surviving or defeating a demon through endurance resembles contest-by-cunning
+    or reversal against a supernatural opponent.
+  cautions: Highly episode-specific; if the moral focus is greed/miserliness, divine_judgment
+    or pride_and_downfall may be better. Review before adding to pattern queries broadly.
+  suggested_aliases:
+  - human outlasts demon
+  - pain endurance contest with demon
+  - miser defeats demon by endurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-scent-betrays-a-concealed-visitor
+  motif_id: human_scent_betrays_a_concealed_visitor
+  label: Human scent betrays a concealed visitor
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a detection mechanism but not enough context to identify
+    a stable motif group.
+  cautions: May belong with hidden identity, monster encounter, otherworld visitation,
+    or animal/giant perception depending on the passage; could be too specific as
+    a generated detail.
+  suggested_aliases:
+  - human scent reveals visitor
+  - scent betrays concealed human
+  - concealed visitor detected by smell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-stratagem-defeats-pursuing-wolves
+  motif_id: human_stratagem_defeats_pursuing_wolves
+  label: Human stratagem defeats pursuing wolves
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weaker human survives predators through stratagem, aligning with trickster-like
+    cunning and reversal.
+  cautions: If the passage is mainly a wilderness escape episode without boundary
+    crossing or deception, it may be an over-specific folktale detail.
+  suggested_aliases:
+  - stratagem defeats wolves
+  - cunning escape from wolves
+  - human outwits pursuing wolves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-strength-compared-with-others
+  motif_id: human_strength_compared_with_others
+  label: Human strength compared with others
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether it is a contest, moral comparison,
+    etiological statement, or character description.
+  cautions: Could fit sacred_combat, trickster, culture_hero, or a passage artifact
+    depending on evidence; avoid indexing without context.
+  suggested_aliases:
+  - comparison of human strength
+  - human strength contest
+  - relative human strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-will-set-against-fate
+  motif_id: human_will_set_against_fate
+  label: Human will set against Fate
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The motif centers on human agency confronting destiny, fitting the fate/destiny
+    complex already represented by death_by_fate.
+  cautions: If no death or mortal limit is involved, fate_figures_cosmic_weaving or
+    sacred_law/karma-related review may be better; source context is important.
+  suggested_aliases:
+  - will against fate
+  - human agency versus destiny
+  - defiance of fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humanization-of-a-revered-figure-through-ordinary-bodily-need
+  motif_id: humanization_of_a_revered_figure_through_ordinary_bodily_need
+  label: Humanization of a revered figure through ordinary bodily need
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe theological characterization rather than
+    a clearly recurring narrative motif.
+  cautions: May be sensitive in prophetic or revered-figure contexts; could relate
+    to rejected human messenger, but should not be normalized without passage evidence.
+  suggested_aliases:
+  - revered figure shown with bodily need
+  - ordinary bodily need of sacred figure
+  - humanized holy figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-donor-gives-potent-hidden-gift
+  motif_id: humble_donor_gives_potent_hidden_gift
+  label: Humble donor gives potent hidden gift
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a gift whose hidden value transforms the exchange
+    relationship.
+  cautions: If the object itself is the focus, sacred_treasures may be a secondary
+    mapping; if the donor is a disguised tester, hospitality_test_stranger_guest may
+    fit better.
+  suggested_aliases:
+  - hidden potent gift
+  - humble giver of powerful gift
+  - lowly donor gives valuable gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-object-proves-more-valuable-than-splendid-objects
+  motif_id: humble_object_proves_more_valuable_than_splendid_objects
+  label: Humble object proves more valuable than splendid objects
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A modest object revealing superior hidden value fits the power-object
+    and treasure motif complex.
+  cautions: Could be a moral reversal about humility rather than a sacred object;
+    if no supernatural or authority-conferring power is present, review as a folktale
+    detail.
+  suggested_aliases:
+  - humble object of hidden value
+  - modest object surpasses splendid objects
+  - plain object proves most valuable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be treated as provisional until passage evidence confirms narrative
+  function.
+- Avoid making transmission or doctrinal claims from these placements, especially
+  for Islamic revered-figure and messenger labels.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for ambiguous and culturally
+    sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1435
+  input_sha256: 5d9834462cea8d641b4104c27f03e6a43261b3aad51490192c4690e8bd49d6cc
+

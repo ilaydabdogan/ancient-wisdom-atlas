@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1263
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.innocent-companion-harmed-by-fear
+  motif_id: innocent_companion_harmed_by_fear
+  label: innocent companion harmed by fear
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names an ethical-psychological cause of harm, but not enough
+    narrative function is visible for a stable group placement.
+  cautions: Could be fear-induced violence, taboo panic, failed discipline, or an
+    episode-specific plot detail; source context is needed.
+  suggested_aliases:
+  - fear harms innocent companion
+  - panic harms companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-accusation-forces-dangerous-disclosure
+  motif_id: jealous_accusation_forces_dangerous_disclosure
+  label: Jealous accusation forces dangerous disclosure
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Jealous accusation and disclosure could involve false accusation, secrecy,
+    taboo speech, or betrayal, but the core function is unclear.
+  cautions: Do not map to divine_judgment unless accusation is judged or punished;
+    do not map to sacred_knowledge unless the disclosure reveals protected knowledge.
+  suggested_aliases:
+  - jealous accusation compels disclosure
+  - dangerous disclosure under accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - betrayal_violated_trust
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-brothers-impose-escalating-dangerous-tasks
+  motif_id: jealous_brothers_impose_escalating_dangerous_tasks
+  label: Jealous brothers impose escalating dangerous tasks
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escalating dangerous tasks imposed by rivals function as ordeals that
+    test or transform the protagonist.
+  cautions: If the passage mainly concerns sibling rivalry or household persecution,
+    a future persecuting-siblings group could be better; current mapping should preserve
+    the jealous-brothers detail.
+  suggested_aliases:
+  - rival brothers impose impossible tasks
+  - jealous siblings set dangerous tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_twins
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.keening-music-as-omen-of-grief
+  motif_id: keening_music_as_omen_of_grief
+  label: Keening music as omen of grief
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Keening is grief-music, and the label centers on mourning signaled or
+    foreshadowed through sound.
+  cautions: If the music has supernatural compulsion or lures listeners, enchanting_music
+    may be a secondary mapping; if it predicts the future, prophecy_divination may
+    also be relevant.
+  suggested_aliases:
+  - keening as grief omen
+  - lament music foreshadows grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - prophecy_divination
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.literal-minded-fool-misapplies-advice
+  motif_id: literal_minded_fool_misapplies_advice
+  label: Literal-minded fool misapplies advice
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: role_variant
+  confidence: medium
+  rationale: A fool whose literalness creates comic or disruptive consequences fits
+    the trickster/fool boundary role more than sacred wisdom proper.
+  cautions: If the episode is a didactic exemplum about interpreting counsel, sacred_knowledge
+    or storytelling_as_power may be relevant; one occurrence may be too folktale-specific.
+  suggested_aliases:
+  - fool misapplies advice literally
+  - literal fool misunderstanding counsel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-companions-in-a-forest-find-dangerous-night-lodging
+  motif_id: lost_companions_in_a_forest_find_dangerous_night_lodging
+  label: lost companions in a forest find dangerous night lodging
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: Being lost and finding perilous lodging can function as a journey ordeal,
+    but the label is very episode-specific.
+  cautions: Could instead belong to otherworld, threshold_guardian, hospitality_test_stranger_guest,
+    or be excluded as a plot detail depending on what makes the lodging dangerous.
+  suggested_aliases:
+  - dangerous lodging during forest wandering
+  - lost travelers find perilous shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - otherworld
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-retainer-refuses-to-abandon-lord-in-mortal-danger
+  motif_id: loyal_retainer_refuses_to_abandon_lord_in_mortal_danger
+  label: loyal retainer refuses to abandon lord in mortal danger
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on social obligation and loyalty within a lord-retainer
+    order.
+  cautions: If the scene is a battlefield death or heroic last stand, divine_warrior
+    or sacred_combat may be better secondary groups; current taxonomy lacks a dedicated
+    loyalty/fealty group.
+  suggested_aliases:
+  - retainer loyalty in mortal danger
+  - faithful retainer refuses abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - divine_warrior
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-servant-s-grief-physically-bound-and-released
+  motif_id: loyal_servant_s_grief_physically_bound_and_released
+  label: loyal servant’s grief physically bound and released
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on grief made bodily or constrained and then released,
+    fitting mourning as transformative expression.
+  cautions: If the binding is magical compulsion or curse, curse_blessing_speech or
+    storytelling_as_power may be relevant; the phrase may be too specific for canonical
+    promotion.
+  suggested_aliases:
+  - bound grief released
+  - grief physically constrained and released
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyalty-to-a-fallen-or-endangered-lord-despite-loss
+  motif_id: loyalty_to_a_fallen_or_endangered_lord_despite_loss
+  label: loyalty to a fallen or endangered lord despite loss
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The emphasis is ethical loyalty to hierarchical duty after loss or danger,
+    aligning with sacred/social order.
+  cautions: In Confucian context, avoid forcing divine categories; this may be an
+    ethical-political motif rather than ritual law. A future loyalty/filial-duty group
+    may be warranted if many recur.
+  suggested_aliases:
+  - loyalty to fallen lord
+  - fealty despite loss
+  - loyalty to endangered ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-removal-of-missiles-and-self-healing
+  motif_id: magical_removal_of_missiles_and_self_healing
+  label: Magical removal of missiles and self-healing
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Supernatural healing of wounds can fit divine or sacred intervention
+    when agency is nonordinary.
+  cautions: If the act is a hero's innate power, ritual healing, or shamanic technique,
+    existing groups only approximate it; consider a healing/ritual medicine group
+    if such labels recur.
+  suggested_aliases:
+  - magical self-healing
+  - supernatural removal of missiles
+  - wounds healed by magical extraction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - death_and_transformation
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ethical or folktale episode labels;
+  preserve local detail and avoid promotion without recurrence.
+- The taxonomy has no dedicated group for loyalty/fealty or ritual healing; current
+  placements are best-fit provisional mappings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    low-confidence and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1263
+  input_sha256: 5deab0baaac1ba895c2cdd14d06add8125dc4af133cb6098e9a11e4b815a98f4
+

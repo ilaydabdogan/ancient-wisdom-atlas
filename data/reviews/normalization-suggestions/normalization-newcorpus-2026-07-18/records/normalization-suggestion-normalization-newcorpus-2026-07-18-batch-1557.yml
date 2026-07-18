@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1557
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-fright-by-the-same-supernatural-being
+  motif_id: repeated_fright_by_the_same_supernatural_being
+  label: repeated fright by the same supernatural being
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests supernatural encounter and fear, but not enough function
+    to distinguish haunting, ordeal, warning, or plot repetition.
+  cautions: Single occurrence; may be an over-specific episode detail or a culturally
+    specific spirit encounter needing source review.
+  suggested_aliases:
+  - recurrent supernatural fright
+  - repeated supernatural scare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - restless_dead_haunting_vengeance
+    - otherworld
+    - threshold_guardian
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-numerical-slaughter-counts
+  motif_id: repeated_numerical_slaughter_counts
+  label: Repeated numerical slaughter counts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase describes repeated counting or formulaic enumeration rather
+    than a symbolic or narrative motif.
+  cautions: If the counts are ritually or cosmologically meaningful, human review
+    could remap to sacred_combat or divine_judgment, but label alone reads as textual
+    patterning.
+  suggested_aliases:
+  - formulaic slaughter counts
+  - repeated battle enumeration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-one-eyed-calender-storyteller-pattern
+  motif_id: repeated_one_eyed_calender_storyteller_pattern
+  label: Repeated one-eyed calender storyteller pattern
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may refer to a frame-narrative storyteller pattern, a marked bodily
+    identity, or a repeated tale-type detail.
+  cautions: Likely episode- or corpus-specific; verify whether 'calender' is a character
+    role in a frame narrative before mapping to storytelling_as_power.
+  suggested_aliases:
+  - one-eyed calender storyteller
+  - recurrent calender narration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-provocation-of-a-miser-through-public-waste-of-hidden-wealth
+  motif_id: repeated_provocation_of_a_miser_through_public_waste_of_hidden_wealth
+  label: Repeated provocation of a miser through public waste of hidden wealth
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The miser and hidden wealth pattern fits moral testing or reckoning around
+    greed, already represented under divine_judgment greed variants.
+  cautions: If no sacred or moral consequence is present, this may be a comic trickster
+    episode rather than judgment.
+  suggested_aliases:
+  - miser provoked by wasted wealth
+  - hidden wealth wasted to shame miser
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-threefold-structure
+  motif_id: repeated_threefold_structure
+  label: Repeated threefold structure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label names a formal narrative pattern rather than a motif with symbolic
+    or narrative function.
+  cautions: If the triad is embodied by fate figures, sacred twins plus third, or
+    ritual cycles, remap based on passage evidence.
+  suggested_aliases:
+  - threefold structure
+  - repeated triplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-triadic-pattern
+  motif_id: repeated_triadic_pattern
+  label: Repeated triadic pattern
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This is a structural observation about repetition in threes, not a standalone
+    mythic motif.
+  cautions: Celtic triads may be culturally meaningful, but source evidence is needed
+    before creating or mapping a symbolic triad motif.
+  suggested_aliases:
+  - triadic pattern
+  - repeated triad
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-triadic-patterning
+  motif_id: repeated_triadic_patterning
+  label: Repeated triadic patterning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording indicates a formal or editorial observation rather than a
+    queryable motif.
+  cautions: Do not conflate structural triplication with fate figures, sacred time,
+    or cosmic order unless the passage supplies that function.
+  suggested_aliases:
+  - triadic patterning
+  - repeated threefold patterning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repellent-wealthy-suitor-refused-by-elder-sisters-and-accepted-by-youngest
+  motif_id: repellent_wealthy_suitor_refused_by_elder_sisters_and_accepted_by_youngest
+  label: repellent wealthy suitor refused by elder sisters and accepted by youngest
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The suitor-choice and youngest-sibling acceptance episode fits the existing
+    marriage-choice/bride-winning area under sacred_love only broadly.
+  cautions: May be a folktale tale-type detail without sacred love; could also involve
+    hidden identity, enchanted bridegroom, or social testing depending on source.
+  suggested_aliases:
+  - youngest accepts rejected suitor
+  - repellent suitor accepted by youngest sister
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - jealous_stepmother_persecuted_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-after-confession-of-falsehood
+  motif_id: repentance_after_confession_of_falsehood
+  label: Repentance after confession of falsehood
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Confession, falsehood, and repentance belong to moral reckoning and repair
+    after wrongdoing.
+  cautions: If framed primarily as covenant restoration, penitential rite, or ethical
+    teaching, covenant or sacred_law may be useful secondary mappings.
+  suggested_aliases:
+  - confession of falsehood followed by repentance
+  - repentance after lying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-after-fratricide
+  motif_id: repentance_after_fratricide
+  label: Repentance after fratricide
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repentance after killing a sibling centers on moral consequence and reckoning
+    after grave transgression.
+  cautions: Could also relate to sibling_pair if the sibling relationship structures
+    the narrative; do not map to sacred_twins unless paired sacred identity is present.
+  suggested_aliases:
+  - repentant fratricide
+  - remorse after killing a brother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - covenant
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'repeated' appear to be formal or editorial observations
+  rather than motifs; human review should verify whether any carry culturally specific
+  symbolic force.
+- Single-occurrence, highly specific folktale labels should generally remain evidence
+  details unless they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1557
+  input_sha256: 0c11b5f9d30600e1321c56723f1e7cc6b8cf611716285e756cc55d3c9c4883d2
+

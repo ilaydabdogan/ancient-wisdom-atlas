@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0245
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.alternative-privately-read-sacred-book
+  motif_id: alternative_privately_read_sacred_book
+  label: Alternative privately read sacred book
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: A privately read sacred book may concern transmission or access to sacred
+    knowledge, but the label is too contextual to place confidently.
+  cautions: Could be a textual/commentary artifact, polemical source detail, or ritual
+    practice depending on passage evidence.
+  suggested_aliases:
+  - private sacred reading
+  - alternative sacred book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-or-misread-divine-omen
+  motif_id: ambiguous_or_misread_divine_omen
+  label: Ambiguous or misread divine omen
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on interpreting divine signs, including failed or uncertain
+    omen-reading.
+  cautions: If the passage emphasizes moral punishment for misreading rather than
+    divination practice, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - misread omen
+  - ambiguous divine sign
+  - failed omen interpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-sacred-or-hostile-speech-formula
+  motif_id: ambiguous_sacred_or_hostile_speech_formula
+  label: Ambiguous sacred or hostile speech formula
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred or hostile formula may function as performative speech, curse,
+    blessing, adjuration, or taboo utterance.
+  cautions: The word 'ambiguous' suggests source-specific interpretation; verify whether
+    the formula acts ritually or is only a translation/commentary issue.
+  suggested_aliases:
+  - ambiguous sacred formula
+  - hostile speech formula
+  - performative ritual formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambrosial-divine-nourishment-restores-vigor
+  motif_id: ambrosial_divine_nourishment_restores_vigor
+  label: ambrosial divine nourishment restores vigor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: Ambrosial nourishment is a sacred food or divine substance that restores
+    vitality.
+  cautions: If the restoration is part of resurrection or battle healing, death_and_transformation
+    or divine_intervention may also be relevant.
+  suggested_aliases:
+  - ambrosial nourishment
+  - divine food restores vigor
+  - ambrosia as restorative substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-at-water-with-divine-war-leaders-and-personified-violence
+  motif_id: ambush_at_water_with_divine_war_leaders_and_personified_violence
+  label: Ambush at water with divine war leaders and personified violence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The central function is divine or personified war leadership in a violent
+    combat scene.
+  cautions: Water may be only a setting; do not map to sacred_waters unless the water
+    boundary transforms the episode.
+  suggested_aliases:
+  - divine war leaders in ambush
+  - personified violence in combat
+  - water ambush by divine warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-boundary-stone-used-as-divine-weapon
+  motif_id: ancient_boundary_stone_used_as_divine_weapon
+  label: ancient boundary stone used as divine weapon
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boundary stone used by divine agency functions as a charged object
+    or power object in combat.
+  cautions: Could also relate to sacred_combat or sacred_law if the boundary function,
+    rather than weapon function, is primary.
+  suggested_aliases:
+  - boundary stone as weapon
+  - divine weaponized stone
+  - sacred boundary object used in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-destroyed-peoples-in-inherited-legends
+  motif_id: ancient_destroyed_peoples_in_inherited_legends
+  label: Ancient destroyed peoples in inherited legends
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Destroyed peoples often function as exempla of divine judgment, but this
+    label emphasizes inherited legend rather than the destruction's cause.
+  cautions: May be a transmission/commentary artifact or historical-memory label;
+    confirm divine punishment or moral reckoning is explicit.
+  suggested_aliases:
+  - destroyed ancient peoples
+  - legend of destroyed peoples
+  - past peoples as warning exempla
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-enclosure-during-nocturnal-prayer
+  motif_id: angelic_enclosure_during_nocturnal_prayer
+  label: angelic enclosure during nocturnal prayer
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Angelic protection or enclosure during prayer is direct sacred assistance
+    in a ritual setting.
+  cautions: If the enclosure marks sacred space more than intervention, axis_mundi
+    or world_center may be secondary; verify whether angels actively protect or merely
+    appear.
+  suggested_aliases:
+  - angelic protection during prayer
+  - angelic prayer enclosure
+  - nocturnal prayer protected by angels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-instruction-of-ritual-purification
+  motif_id: angelic_instruction_of_ritual_purification
+  label: Angelic instruction of ritual purification
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Instruction in purification ritual fits sacred law and purity regulation,
+    with angelic mediation as the mode of transmission.
+  cautions: Could also be indexed under divine_intervention or sacred_knowledge if
+    the passage emphasizes revelation by an angel rather than the purification rule
+    itself.
+  suggested_aliases:
+  - angelic purification instruction
+  - ritual purification taught by angel
+  - divinely taught purification rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-sustenance-in-a-sacred-precinct
+  motif_id: angelic_sustenance_in_a_sacred_precinct
+  label: Angelic sustenance in a sacred precinct
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Angels providing sustenance in sacred space fits miraculous provision
+    through divine agency.
+  cautions: If the sacred food itself is central, sacred_substance may be a secondary
+    mapping; if the precinct is central, world_center may be relevant.
+  suggested_aliases:
+  - angelic provision
+  - angelic nourishment in sanctuary
+  - miraculous sustenance in sacred precinct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several one-occurrence labels are highly contextual and should be checked against
+  passage evidence before promotion beyond group-level indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Human review recommended especially for ambiguous speech/book labels and
+    inherited-legend wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0245
+  input_sha256: 8a1763c8d4767f4683611ce2f14f7ae2fc6ce1b80daa5ca5fc0990ed951cfd1c
+

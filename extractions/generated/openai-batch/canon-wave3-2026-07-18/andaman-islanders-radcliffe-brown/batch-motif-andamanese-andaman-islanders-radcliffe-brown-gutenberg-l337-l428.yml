@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.andamanese-andaman-islanders-radcliffe-brown-gutenberg-l337-l428
+source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+passage_locator:
+  label: CONTENTS / LIST OF PLATES AND MAPS / LIST OF FIGURES IN THE TEXT / INTRODUCTION;
+    lines 337-428
+  start: '337'
+  end: '428'
+  translation: 'The Andaman Islanders: A Study in Social Anthropology'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Introductory geographic and ethnographic description of the Andaman, Nicobar,
+    and nearby islands, including island-chain formation, sea depths, administrative
+    status, named population groups, terrain, forests, water features, and fauna.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes the islands from Cape Negrais to Achin Head as a single
+    geographical system resembling a submarine mountain range, with high points rising
+    above the ocean surface.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Andaman Group is described as consisting of Great Andaman, Little Andaman,
+    and outlying islets, while the Nicobars lie to the south across much deeper sea.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The island line is described as part of a long fold extending from the eastern
+    Himalayas through Burma, the Andaman and Nicobar Islands, and toward islands off
+    western Sumatra.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Andamans are separated from Madras by the Sea of Bengal and from the Malay
+    Peninsula by the Andaman Sea; a nearby line of volcanic activity is marked by
+    Barren Island and Narkondam.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Cocos, Andamans, and Nicobars are described as part of the Indian Empire;
+    the Cocos have a wireless telegraphy station, and Port Blair is a penal settlement.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the Andamans and Nicobars have long been inhabited
+    by two different population groups, the Andamanese and the Nicobarese, described
+    using period racial and physical categories.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Great Andaman is described as one long narrow landmass divided by narrow seawater
+    creeks, with named surrounding islands; Little Andaman lies south of it across
+    a shallow strait.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Viewed from the sea, the islands appear as hill ranges covered from skyline
+    to high-water mark with dense forest; named high points include Saddle Peak, Mt
+    Diavolo, the Mt Harriett Range, and Mt Foord.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage says there are no large streams; water drains from hills into
+    tidal creeks through mangrove swamps, and the coasts have harbours, coral reefs,
+    fish, and molluscs.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The islands are described as mostly covered with dense tropical forest and
+    as containing mammals, birds, reptiles, snakes, lizards, and a large monitor lizard.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Andamanese
+  description: Population group described as inhabiting the Andaman Islands and classified
+    in the text using early twentieth-century anthropological racial terminology.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Nicobarese
+  description: Population group described as inhabiting the Nicobar Islands and as
+    resembling peoples of Indo-China and Malaya in the author's classification.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Described inhabitants of the Andaman Islands
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the Andamanese as the population associated with the
+    Andaman Islands.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: Described inhabitants of the Nicobar Islands
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the Nicobarese as the population associated with the
+    Nicobar Islands.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Mountain ridge
+  literal_form: Submarine range of mountains; long geological fold; island hill ranges
+    and named peaks.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: Sea and tidal water
+  literal_form: Ocean, sea depths, shallow straits, seawater creeks, tidal creeks,
+    mangrove swamps, harbours, and coral reefs.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: Snakes
+  literal_form: Reptiles include a considerable number of species of snakes.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Regional island-chain geography
+  summary: The passage situates the Andaman, Nicobar, Cocos, and nearby islands within
+    a larger submarine ridge or geological fold, giving distances and sea depths between
+    them.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Administrative and population context
+  summary: The passage describes colonial administrative arrangements and distinguishes
+    the Andamanese and Nicobarese as the named populations of the Andamans and Nicobars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Landscape, water, forest, and fauna
+  summary: The passage describes the islands as forest-covered hills with tidal creeks,
+    mangroves, coral reefs, abundant marine life, and various mammals, birds, and
+    reptiles.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 337-356
+  quote_or_summary: 'Opening geography: the island chain stretches from Burma toward
+    Sumatra and is described as a submarine mountain range; the Andaman Group and
+    Nicobars are located by distance and sea depth.'
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 357-361
+  quote_or_summary: The island line is described as part of a long fold extending
+    from the eastern Himalayas through Burma, the Andaman and Nicobar Islands, and
+    onward toward western Sumatra.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 362-371
+  quote_or_summary: The passage describes seas separating the Andamans from Madras
+    and the Malay Peninsula and notes a nearby line of volcanic activity marked by
+    Barren Island and Narkondam.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 372-378
+  quote_or_summary: The Cocos, Andamans, and Nicobars are described as part of the
+    Indian Empire; the Cocos have a wireless station, Port Blair has a penal settlement,
+    and the Nicobars are administered with the Andamans.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 379-388
+  quote_or_summary: The Cocos are said to have been uninhabited until the nineteenth
+    century; the Andamanese and Nicobarese are described as different population groups
+    with physical traits categorized in period anthropological language.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 389-405
+  quote_or_summary: Great Andaman and Little Andaman are described with smaller islands,
+    seawater creeks, named areas, surrounding islands, and the shallow strait between
+    Little Andaman and Rutland Island.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 406-416
+  quote_or_summary: From the sea the islands appear as forest-covered hills; hill
+    ranges run north-south, and named elevations include Saddle Peak, Mt Diavolo,
+    Mt Harriett Range, and Mt Foord.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 416-421
+  quote_or_summary: The passage states there are no large streams; water drains from
+    hills into tidal creeks through mangrove swamps, with harbours, coral reefs, fish,
+    and molluscs along the coast.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 422-428
+  quote_or_summary: The islands are said to be covered with dense tropical forest
+    except for penal settlement clearings; fauna listed include pigs, civet-cats,
+    rats, a tree-shrew, bats, birds, snakes, lizards, and a monitor lizard.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is introductory geographic and ethnographic prose rather than
+    a mythic narrative. Literal setting, population, and symbol-like natural forms
+    are extractable, but no supported mythic motif candidates or comparison claims
+    are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No motif-family extraction was made because the supplied passage does not narrate a myth, ritual episode, legend, or comparative claim.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:andamanese-andaman-islanders-radcliffe-brown-gutenberg__l337-l428
+  passage_sha256=8f2ef2b15aa935baffad522adbb6145b22023bb48ba03069adb7057f8e321b1b
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0472
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-messenger-reveals-hidden-speech
+  motif_id: animal_messenger_reveals_hidden_speech
+  label: Animal messenger reveals hidden speech
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal messenger discloses concealed speech, functioning as mediation
+    or revelation of hidden knowledge.
+  cautions: May instead belong under animal helpers or trickster if the passage emphasizes
+    animal agency or deception more than revelation.
+  suggested_aliases:
+  - animal_messenger_reveals_hidden_speech
+  - animal messenger revealing hidden speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messengers-mediate-magical-counsel
+  motif_id: animal_messengers_mediate_magical_counsel
+  label: Animal messengers mediate magical counsel
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal messengers carrying magical counsel fit supernatural guidance
+    through nonhuman helpers.
+  cautions: If the counsel is primarily esoteric instruction, sacred_knowledge may
+    be a secondary mapping; if ordinary folktale assistance, avoid over-sacralizing.
+  suggested_aliases:
+  - animal_messengers_mediate_magical_counsel
+  - animal messengers as magical counselors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-name-and-trait-etiology
+  motif_id: animal_name_and_trait_etiology
+  label: animal name and trait etiology
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an etiological explanation for animal naming and traits,
+    broadly related to origin explanation.
+  cautions: Existing cosmic_origin contains many etiologies but not a clear animal-trait
+    etiology group; source context is needed, especially for culturally specific Australian
+    Aboriginal material.
+  suggested_aliases:
+  - animal_trait_etiology
+  - animal_naming_etiology
+  - animal name and trait origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-name-substitution-or-local-animal-identification
+  motif_id: animal_name_substitution_or_local_animal_identification
+  label: animal-name substitution or local animal identification
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes naming substitution or local identification, likely
+    a translation, classification, or commentary artifact rather than a motif.
+  cautions: If a source narrative itself centers on renaming an animal, review separately
+    as etiology rather than excluding the evidence.
+  suggested_aliases:
+  - animal-name substitution
+  - local animal identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-named-by-sound-and-attributes-in-song
+  motif_id: animal_named_by_sound_and_attributes_in_song
+  label: Animal named by sound and attributes in song
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: Naming an animal through song may reflect performative oral power or
+    ritualized knowledge transmission.
+  cautions: Navajo song context is culturally sensitive; determine whether this is
+    ceremonial song, etiological naming, poetic catalog, or passage-specific detail
+    before indexing.
+  suggested_aliases:
+  - animal named in song
+  - animal naming by sound and attributes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-named-song-dove-song
+  motif_id: animal_named_song_dove_song
+  label: 'Animal-named song: Dove Song'
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a specific song title or catalog label rather than
+    a reusable motif.
+  cautions: If the Dove Song has a ritual narrative function, preserve it as evidence
+    under storytelling_as_power or enchanting_music after human review.
+  suggested_aliases:
+  - Dove Song
+  - animal-named song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-provided-weapon-materials-and-craft-instruction
+  motif_id: animal_provided_weapon_materials_and_craft_instruction
+  label: animal-provided weapon materials and craft instruction
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on nonhuman provision of materials and instruction
+    for making weapons, fitting divinely or supernaturally aided craft.
+  cautions: Could also involve animal helpers, sacred_treasures, or culture_hero depending
+    on whether the focus is assistance, the weapon object, or civilizing instruction.
+  suggested_aliases:
+  - animal-provided craft instruction
+  - animal-given weapon materials
+  - animal helper teaches weapon craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-signs-and-provision-from-transformed-nature
+  motif_id: animal_signs_and_provision_from_transformed_nature
+  label: Animal signs and provision from transformed nature
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal signs and provision through transformed nature fit supernatural
+    guidance and miraculous provision.
+  cautions: If the passage emphasizes omen interpretation, prophecy_divination or
+    dream_and_vision may be relevant; if it emphasizes food supply, preserve provision
+    details.
+  suggested_aliases:
+  - animal signs and provision
+  - provision from transformed nature
+  - animal signs as divine guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-skin-garment-gives-new-name-and-marks-ordeal
+  motif_id: animal_skin_garment_gives_new_name_and_marks_ordeal
+  label: animal skin garment gives new name and marks ordeal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A garment, new name, and ordeal together mark a change of status or identity,
+    fitting initiation.
+  cautions: Could also relate to shapeshifter if the skin produces animal transformation,
+    or recognition_tokens_hidden_identity if the garment proves identity.
+  suggested_aliases:
+  - animal skin garment marks ordeal
+  - new name after ordeal
+  - animal-skin initiation garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-song-comments-on-human-food-preference
+  motif_id: animal_song_comments_on_human_food_preference
+  label: animal song comments on human food preference
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: An animal song commenting on human behavior may function as didactic
+    or performative speech within oral narrative.
+  cautions: May be an over-specific song-content note, food custom commentary, or
+    culturally specific ceremonial detail; human review should avoid flattening local
+    meaning.
+  suggested_aliases:
+  - animal song as commentary
+  - animal song about food preference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine animal agency with speech, song, or instruction; no broad
+  animal-messenger group exists, so suggestions use best-fit functional groups rather
+  than proposing a new group from single occurrences.
+- Song labels from Navajo and Hopi traditions should receive human review for ceremonial
+  context before pattern-query indexing.
+- Labels that read like translation, classification, or song-title metadata are suggested
+  for exclusion or review rather than canonical mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: model:api
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for culturally specific
+    song, naming, and animal-helper functions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0472
+  input_sha256: 0a1a7a2cbd01ae6bc2a610551e8d60de9b9754d151bcfcd19441bc5373aa2416
+

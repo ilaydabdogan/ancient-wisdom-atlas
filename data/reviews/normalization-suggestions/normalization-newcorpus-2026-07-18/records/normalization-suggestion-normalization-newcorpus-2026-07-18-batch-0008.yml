@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0008
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.angel-of-death-appointed-through-primordial-task
+  motif_id: angel_of_death_appointed_through_primordial_task
+  label: Angel of death appointed through primordial task
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: An appointed angel of death is a divine agent with a specialized role
+    in mortality administration.
+  cautions: Primordial appointment may be etiological or theological rather than a
+    reusable narrative motif; consider afterlife_passage only if soul-route administration
+    is central.
+  suggested_aliases:
+  - angel_of_death
+  - death_angel_appointment
+  - divine_agent_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angel-of-death-separating-or-receiving-souls
+  motif_id: angel_of_death_separating_or_receiving_souls
+  label: angel of death separating or receiving souls
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: medium
+  rationale: Receiving or separating souls is a postmortem transition function within
+    afterlife passage and death administration.
+  cautions: If the passage focuses on angelic agency rather than the soul’s route,
+    divine_intervention may be a useful secondary grouping.
+  suggested_aliases:
+  - angel_of_death_receives_souls
+  - separation_of_souls_by_death_angel
+  - angelic_soul_reception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-descent-with-spirit-bearing-monotheistic-warning
+  motif_id: angelic_descent_with_spirit_bearing_monotheistic_warning
+  label: Angelic descent with Spirit bearing monotheistic warning
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Angelic descent bearing warning is divine intervention through a messenger
+    and revelatory admonition.
+  cautions: Despite the word descent, this is not necessarily underworld descent;
+    if warning content is central, sacred_knowledge or prophecy_divination may also
+    apply.
+  suggested_aliases:
+  - angelic_warning
+  - spirit_bearing_angelic_descent
+  - angelic_messenger_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-mediation-and-afterlife-administration
+  motif_id: angelic_mediation_and_afterlife_administration
+  label: angelic mediation and afterlife administration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: high
+  rationale: The label directly concerns administration of postmortem passage by angelic
+    mediators.
+  cautions: Preserve angelic role detail; do not collapse into general divine judgment
+    unless evaluation or punishment is explicit.
+  suggested_aliases:
+  - angelic_afterlife_administration
+  - angelic_mediation_of_death
+  - afterlife_administrating_angels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-or-celestial-guide-for-journey-and-return
+  motif_id: angelic_or_celestial_guide_for_journey_and_return
+  label: angelic or celestial guide for journey and return
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: A guide enabling journey and return fits the departure-trial-return complex,
+    with angelic guidance as the helper role.
+  cautions: If the journey is explicitly postmortem or through otherworld regions,
+    afterlife_passage or descent may be better primary mappings.
+  suggested_aliases:
+  - celestial_guide_for_return_journey
+  - angelic_journey_guide
+  - heavenly_guide_for_journey_and_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-removal-and-escort-of-souls
+  motif_id: angelic_removal_and_escort_of_souls
+  label: angelic removal and escort of souls
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: high
+  rationale: Escorting souls after death is a clear postmortem passage and guidance
+    function.
+  cautions: May also involve divine_judgment if the escort leads to evaluation; keep
+    angelic agency as evidence detail.
+  suggested_aliases:
+  - angelic_soul_escort
+  - angels_escort_souls
+  - angelic_removal_of_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-adversary-s-death-threat-fulfilled
+  motif_id: animal_adversary_s_death_threat_fulfilled
+  label: animal adversary’s death-threat fulfilled
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Animal adversary threat fulfillment may belong to animal fable conflict
+    or predatory reversal, loosely near trickster/adversary patterns.
+  cautions: Label is episode-specific and may simply be plot outcome; source context
+    needed before mapping to trickster, divine_judgment, sacred_combat, or exclusion.
+  suggested_aliases:
+  - animal_death_threat_fulfilled
+  - fulfilled_threat_by_animal_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-aided-descent-from-a-dangerous-height
+  motif_id: animal_aided_descent_from_a_dangerous_height
+  label: animal-aided descent from a dangerous height
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal aid during perilous descent may be a journey ordeal or helper
+    episode rather than underworld descent.
+  cautions: Do not map to descent solely from vertical motion; if no transformation,
+    otherworld, or death-realm passage is present, it may be too specific for motif
+    queries.
+  suggested_aliases:
+  - animal_helper_in_dangerous_descent
+  - animal_aided_escape_from_height
+  - descent_from_height_with_animal_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-attachment-and-return-to-former-home
+  motif_id: animal_attachment_and_return_to_former_home
+  label: animal attachment and return to former home
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: return
+  suggested_group_label: Return
+  relationship: uncertain
+  confidence: low
+  rationale: The return-to-former-home element loosely matches return, but animal
+    attachment changes the likely function.
+  cautions: Could involve animal helper, domestication, soul-return, haunting, or
+    simple narrative detail; insufficient evidence for confident placement.
+  suggested_aliases:
+  - animal_returns_to_former_home
+  - animal_attachment_to_home
+  - returning_attached_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-body-parts-substituted-as-proof-of-death
+  motif_id: animal_body_parts_substituted_as_proof_of_death
+  label: animal body parts substituted as proof of death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Substituted animal body parts function as deceptive proof tokens concerning
+    identity and death.
+  cautions: If the episode centers on deception rather than recognition/proof, trickster
+    may be secondary; preserve animal-body-part specificity as evidence detail.
+  suggested_aliases:
+  - false_proof_of_death_by_animal_parts
+  - animal_parts_as_death_token
+  - substituted_body_parts_as_death_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use angelic roles around death; existing groups can
+  hold most under afterlife_passage or divine_intervention without creating a new
+  angelology-specific group yet.
+- Animal labels are mostly single-occurrence and context-dependent; human review should
+  distinguish animal-helper, fable deception, soul-return, and passage artifacts.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0008
+  input_sha256: 7282fa2066c8580760e777bd9c4320aad464746be83bb8d66bbe81c9279bfdc7
+

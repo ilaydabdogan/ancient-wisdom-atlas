@@ -1,0 +1,557 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15659-l15747
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER    II,    46-56.  259 / S    2 / CHAPTER    II,    57-63.  261 /
+    CHAPTER    II,    64-71.  263; lines 15659-15747
+  start: '15659'
+  end: '15747'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual-purity rules for moving corpses under different
+    conditions, especially whether a dog has seen the corpse, whether a stake or another
+    man's hand is used, and what washing or sin penalties result. Notes explain that
+    the stake blocks the Nasu, the demon of corruption. Further rules address uncertainty
+    about a corpse at night, dead matter contaminating a flock, forest, or firewood,
+    and doors struck by corpses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If a corpse which a dog has not seen is moved with a stake, the mover's washing
+    is not to be with ceremony, except in the specified case of moving it all.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a man moves a corpse not seen by a dog by means of another man's hand,
+    both the person arranging the movement and the person whose hand strength moves
+    it are bodily polluted, and Tanapuhar sin is assigned to both.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the responsible person lacks the strength to move the corpse himself, the
+    case is treated like moving it with a stake; the person who held it in hand-contact
+    is washed with ceremony, with different sin designations assigned to the parties.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If a corpse seen by a dog is moved by the hand of a man, the washing for him
+    is not to be with ceremony, except in the specified case of moving it all.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A translator's note states that the interposed stake or piece of wood prevents
+    the direct attack of the Nasu, the demon of corruption, which has not been driven
+    away by a dog; the note also says inanimate objects stop the progress of pollution.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If someone passes a place at night, returns the next day, finds a corpse there,
+    and does not know whether the evil was present when he passed, he is to consider
+    that it was not there.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'Afarg says that a flock containing a sheep that ate dead matter, a forest
+    containing a tree mingled with dead matter, and a firewood-stand containing greasy
+    firewood are subject to restrictions: the flock and forest are not to be made
+    fruitful, and the firewood is useless.'
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: For a door on which a corpse impinges, the town or city door is to be discarded
+    by comrades or the community; opinions differ about a mostly closed door.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: man moving a corpse
+  description: A generic man involved in moving a corpse with a stake, by another
+    man's hand, or by a man's hand.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: other man whose hand is used
+  description: Another man whose hand or hand strength is used to move the corpse
+    and who can become polluted or require ceremonial washing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: dog
+  description: A dog whose having seen or not seen a corpse changes the stated purity
+    procedure; the note says a dog can drive away the Nasu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Nasu
+  description: The Nasu is identified in a note as the demon of corruption that can
+    directly attack when not driven away by a dog.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: night passerby
+  description: A person who passes a place at night, returns the next day, finds a
+    corpse there, and is uncertain whether the evil was already present.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Afarg
+  description: An authority cited as stating the rule about a contaminated flock,
+    forest, and firewood.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: comrades or community
+  description: The group by whom a town or city door impinged on by a corpse is to
+    be discarded, according to the translator's rendering and note.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:8
+  name_or_label: sheep that ate dead matter
+  description: A sheep within a flock by whom dead matter is eaten.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: corpse-handler
+  assigned_to:
+  - fig:1
+  basis: The figure moves a corpse under different specified conditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: intermediary hand-contact bearer
+  assigned_to:
+  - fig:2
+  basis: The figure's hand or hand strength is used in moving the corpse and becomes
+    involved in pollution and washing rules.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: corpse-seeing animal affecting purification
+  assigned_to:
+  - fig:3
+  basis: The passage distinguishes corpses a dog has seen from those it has not seen,
+    and the note says the dog drives away the Nasu.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:4
+  label: demon of corruption
+  assigned_to:
+  - fig:4
+  basis: The note explicitly calls the Nasu the demon of corruption and links it with
+    direct attack and pollution.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: uncertain witness to a place later containing a corpse
+  assigned_to:
+  - fig:5
+  basis: The figure does not know whether the evil was present when he passed by at
+    night.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: cited ritual authority
+  assigned_to:
+  - fig:6
+  basis: Afarg is cited as saying the rule about flock, forest, and firewood.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:7
+  label: discarding agents
+  assigned_to:
+  - fig:7
+  basis: The town or city door is said to be discarded by comrades, with a note allowing
+    'by the community.'
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:8
+  label: dead-matter-eating animal
+  assigned_to:
+  - fig:8
+  basis: The sheep is described as the one by whom dead matter is eaten.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: corpse and dead matter
+  literal_form: Corpse; dead matter eaten by a sheep or mingled with a tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: dog's sight of the corpse
+  literal_form: A dog has or has not seen the corpse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: stake or piece of wood
+  literal_form: Stake (dar), described in the note as a piece of wood interposed when
+    moving a corpse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: hand contact
+  literal_form: A man's hand or hand strength used to move the corpse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Nasu corruption
+  literal_form: Nasu, demon of corruption
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: ceremonial washing
+  literal_form: Washing with ceremony or not with ceremony
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: tree mingled with dead matter
+  literal_form: A tree in a forest with which dead matter is mingled
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: greasy firewood
+  literal_form: A stick of firewood with which grease is mingled
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:9
+  label: door struck by a corpse
+  literal_form: A door on which a corpse impinges
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+scenes:
+- id: scene:1
+  label: Corpse moved under ritual-purity conditions
+  summary: A corpse is moved by a stake, by another man's hand, or by a man's hand;
+    the required washing and sin consequences vary according to dog sight, hand contact,
+    and the mover's strength.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Uncertain corpse at a place passed at night
+  summary: A person who passed a place at night and later finds a corpse there is
+    instructed to presume the evil was not there if he does not know whether it was
+    present earlier.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Dead matter contaminating flock, forest, and firewood
+  summary: Afarg states restrictions concerning a flock with a sheep that ate dead
+    matter, a forest with a tree mingled with dead matter, and firewood mingled with
+    grease.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: scene:4
+  label: Corpse impinging on a door
+  summary: 'A door struck by a corpse is treated according to its kind: a town or
+    city door is to be discarded by comrades or the community, while the case of a
+    mostly closed door is disputed.'
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: corpse-contact pollution
+  taxonomy_refs: []
+  basis: The passage repeatedly states that moving a corpse or making hand contact
+    with it can pollute the bodies of the persons involved, with distinctions according
+    to how the corpse is moved and whether a dog has seen it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a ritual-legal motif candidate rather than one of the supplied
+    mythic motif-family taxonomy items.
+- id: motif:2
+  label: mediated corpse handling reduces or alters pollution
+  taxonomy_refs: []
+  basis: The stake or piece of wood is treated differently from direct hand movement;
+    the note explains that inanimate interposition prevents the direct attack of the
+    Nasu and stops the progress of pollution.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The mechanism is described in a translator's note; it should be checked
+    against the Pahlavi source context.
+- id: motif:3
+  label: dog sight drives away corpse corruption
+  taxonomy_refs: []
+  basis: The ritual rules distinguish whether a dog has seen the corpse, and the note
+    says the dog drives away the Nasu, the demon of corruption.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The explicit statement that the dog drives away the Nasu appears in the
+    note, not in the numbered rule alone.
+- id: motif:4
+  label: dead matter contaminates living or useful materials
+  taxonomy_refs: []
+  basis: A flock, forest, tree, firewood, and door are treated as affected by dead
+    matter, grease, or corpse contact, leading to restrictions or discard.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage gives legal consequences but does not narrate a mythic episode.
+- id: motif:5
+  label: ritual uncertainty resolved by presumption of absence
+  taxonomy_refs: []
+  basis: When a person is unsure whether the evil connected with a corpse was present
+    at the time he passed by, he is told to consider that it was not there.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a rule of ritual judgment rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: A translator's note links Afarg's rule about greasy firewood in this passage
+    with Pahlavi Vendidad V, 14.
+  claim_level: same_function
+  target: Pahlavi Vendidad V, 14
+  evidence_refs:
+  - ev:7
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared Vendidad passage is not included here; the claim rests
+    on the supplied note.
+- id: claim:2
+  claim: A translator's note says the same rule about a town or city door struck by
+    a corpse is mentioned in Pahlavi Vendidad V, 14.
+  claim_level: same_function
+  target: Pahlavi Vendidad V, 14
+  evidence_refs:
+  - ev:8
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared Vendidad passage is not included here; the claim rests
+    on the supplied note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§68, lines 15659-15664"
+  quote_or_summary: A corpse not seen by a dog may be moved with a stake, and the
+    mover's washing is not to be with ceremony, except for the specified case of moving
+    it all.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: "§69, lines 15665-15677"
+  quote_or_summary: When a man moves a dog-unseen corpse by another man's hand, both
+    are polluted in body, and Tanapuhar sin is assigned to both because both bodies
+    are made polluted.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: "§70, lines 15677-15686"
+  quote_or_summary: If the responsible person's own hand lacks strength, the case
+    is treated like moving the corpse with a stake; the hand-contact holder is washed
+    with ceremony, and different sin designations are assigned.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: "§71, lines 15686-15693"
+  quote_or_summary: When a corpse seen by a dog is moved by the hand of a man, the
+    washing is not to be with ceremony, except for the specified case of moving it
+    all.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Note to §§68-70, lines 15694-15699
+  quote_or_summary: The note explains that a stake or piece of wood prevents direct
+    attack by the Nasu, the demon of corruption, which has not been driven away by
+    a dog; it also says inanimate objects stop pollution's progress.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized from translator's note.
+- id: ev:6
+  type: summary
+  locator: "§72, lines 15708-15714"
+  quote_or_summary: A person who passed a place at night and later finds a corpse
+    there, without knowing whether the evil was present earlier, is to consider that
+    it was not there.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: "§73, lines 15715-15722"
+  quote_or_summary: Afarg says that a flock with a sheep that ate dead matter and
+    a forest with a tree mingled with dead matter are not to be made fruitful, and
+    greasy firewood in a firewood-stand is useless.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: "§74, lines 15723-15729"
+  quote_or_summary: For a door on which a corpse impinges, a town or city door is
+    to be discarded by comrades; opinions differ about a mostly closed door.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; summarized.
+- id: ev:9
+  type: citation
+  locator: Note to §73, lines 15734-15736
+  quote_or_summary: The translator notes that Afarg's statement, as it relates to
+    greasy firewood, is found in Pahlavi Vendidad V, 14.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; citation summarized.
+- id: ev:10
+  type: citation
+  locator: Note to §74, lines 15737-15738
+  quote_or_summary: The translator notes that the same door rule is mentioned in Pahlavi
+    Vendidad V, 14, and glosses the agents as possibly the community.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public-domain source; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual rules and translator notes are explicit in the supplied English
+    passage. Motif labels are descriptive and not mapped to most supplied mythic taxonomy
+    families. Comparison claims rely only on translator notes pointing to Pahlavi
+    Vendidad passages not supplied here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy motif-family IDs were assigned. The only supplied symbol taxonomy reference used is tree, for the literal tree in §73.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15659-l15747
+  passage_sha256=96c81bf3dd57f93082ba8d0b34c2b1b3997d3861d2087f20217c9931847e9e59
+

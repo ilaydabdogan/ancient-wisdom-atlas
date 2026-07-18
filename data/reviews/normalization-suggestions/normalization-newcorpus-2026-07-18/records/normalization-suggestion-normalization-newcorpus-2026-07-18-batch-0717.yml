@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0717
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-prey-exposed-by-child-witness
+  motif_id: hidden_prey_exposed_by_child_witness
+  label: hidden prey exposed by child witness
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a child witness revealing concealed prey, but its
+    narrative function is unclear from wording alone.
+  cautions: Could be hunting trickery, child truth-telling, food concealment, or a
+    passage-specific detail; source context is needed.
+  suggested_aliases:
+  - child witness exposes hidden prey
+  - concealed prey revealed by child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-royal-child-in-humble-service
+  motif_id: hidden_royal_child_in_humble_service
+  label: hidden royal child in humble service
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed royal child fits the protected or hidden significant child
+    pattern, especially when status is temporarily obscured.
+  cautions: If the focus is later identity proof or succession rather than childhood
+    protection, recognition_tokens_hidden_identity or royal_legitimacy may be better
+    secondary mappings.
+  suggested_aliases:
+  - hidden royal child
+  - royal child in humble disguise
+  - concealed noble child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-son-challenges-and-replaces-oppressive-father
+  motif_id: hidden_son_challenges_and_replaces_oppressive_father
+  label: Hidden son challenges and replaces oppressive father
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The pattern centers on succession and replacement of an oppressive ruler
+    or father by a hidden heir.
+  cautions: Could also involve miraculous_child if threatened infancy or concealment
+    is central; avoid assuming sacred kingship without evidence of legitimate rule
+    or social order restored.
+  suggested_aliases:
+  - hidden son replaces father
+  - concealed heir overthrows oppressive father
+  - son challenges tyrant father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - divine_judgment
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.history-used-to-defend-land-rights-and-family-standing
+  motif_id: history_used_to_defend_land_rights_and_family_standing
+  label: History used to defend land rights and family standing
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe genealogy or historical memory used for social
+    legitimacy, but it reads partly as contextual legal-political evidence.
+  cautions: Could fit royal_legitimacy, sacred_law, covenant, or be a documentary/social-history
+    artifact rather than a reusable motif.
+  suggested_aliases:
+  - genealogy defends land rights
+  - ancestral history legitimizes family standing
+  - history as land claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hood-as-child-carrying-space
+  motif_id: hood_as_child_carrying_space
+  label: Hood as child-carrying space
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a culturally specific object-use detail
+    rather than a mythic narrative pattern.
+  cautions: If the hood functions as a protective womb-like enclosure during danger,
+    human review could consider ark_vessel or miraculous_child as contextual mappings.
+  suggested_aliases:
+  - child carried in hood
+  - hood used to carry child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-s-children-seized-by-a-man-devouring-giant
+  motif_id: host_s_children_seized_by_a_man_devouring_giant
+  label: Host's children seized by a man-devouring giant
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines host-guest context, child abduction, and a devouring
+    giant without enough evidence for a single existing group.
+  cautions: May fit threshold_guardian, sacred_combat, hospitality_test_stranger_guest,
+    or a future ogre/monstrous devourer group; likely over-specific as written.
+  suggested_aliases:
+  - children seized by devouring giant
+  - giant abducts host's children
+  - man-devouring giant seizes children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - hospitality_test_stranger_guest
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-s-daughter-designated-as-champion-s-lady-under-conditional-pledge
+  motif_id: host_s_daughter_designated_as_champion_s_lady_under_conditional_pledge
+  label: Host's daughter designated as champion's lady under conditional pledge
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label resembles a bride-allocation or champion-lady pledge episode,
+    adjacent to marriage choice and bride-winning patterns under sacred_love.
+  cautions: Very episode-specific; if the pledge or condition is central, covenant
+    or curse_blessing_speech may be more relevant than love or marriage.
+  suggested_aliases:
+  - champion's lady under pledge
+  - host's daughter promised to champion
+  - conditional pledge of bride to champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_combat
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-demon-driven-away-by-hostile-wife
+  motif_id: household_demon_driven_away_by_hostile_wife
+  label: household demon driven away by hostile wife
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: Driving away a demon fits the existing ritual expulsion and exorcism
+    cluster currently grouped under sacrifice.
+  cautions: The hostile wife element may be comic household tale logic rather than
+    ritual expulsion; review whether this is demon-expulsion, domestic conflict, or
+    trickster/fable material.
+  suggested_aliases:
+  - household demon expelled by wife
+  - hostile wife drives away demon
+  - domestic demon expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-vigilance-over-female-sexuality-and-public-reputation
+  motif_id: household_vigilance_over_female_sexuality_and_public_reputation
+  label: household vigilance over female sexuality and public reputation
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social control, sexual reputation, and household
+    honor, which may be legal or ethical rather than a distinct mythic motif.
+  cautions: Culturally sensitive; avoid normalizing gender surveillance as a motif
+    without source review. Could fit sacred_law only if framed as sacred legal order.
+  suggested_aliases:
+  - household honor and female sexuality
+  - vigilance over sexual reputation
+  - family reputation and sexual conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-born-royal-daughter-becomes-devouring-witch
+  motif_id: human_born_royal_daughter_becomes_devouring_witch
+  label: Human-born royal daughter becomes devouring witch
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human royal daughter becoming a devouring witch is a transformation
+    of identity and possibly body or social role into a monstrous form.
+  cautions: If the emphasis is on predatory witchcraft or devouring monster rather
+    than transformation, existing groups are imperfect and human review may be needed.
+  suggested_aliases:
+  - royal daughter becomes witch
+  - human princess transformed into devouring witch
+  - devouring witch transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - threshold_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; placements
+  should be treated as provisional evidence routing, not taxonomy edits.
+- The batch contains household, gender, and culturally specific social-order labels
+  that require careful source review before broad pattern indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended especially for culturally
+    sensitive family, gender, and household labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0717
+  input_sha256: c76714fd4ae02e887dabaa4e85d853d92c911399bcc9a64e72e1eeedb56819e0
+

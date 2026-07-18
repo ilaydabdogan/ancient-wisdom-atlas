@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0124
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-specialist-eats-manifested-evil-spirit
+  motif_id: ritual_specialist_eats_manifested_evil_spirit
+  label: Ritual specialist eats manifested evil spirit
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The act appears to be a ritual removal or neutralization of a harmful
+    spirit, fitting the existing exorcism and spirit-expulsion complex under sacrifice.
+  cautions: Eating the spirit may be culturally specific and could involve ritual
+    specialist power, healing, or spirit-contagion beliefs; source context should
+    be checked before final indexing.
+  suggested_aliases:
+  - ritual ingestion of evil spirit
+  - spirit affliction expelled by ritual specialist
+  - exorcistic consumption of manifested spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-specialist-warns-community-of-unseen-spirit-danger
+  motif_id: ritual_specialist_warns_community_of_unseen_spirit_danger
+  label: ritual specialist warns community of unseen spirit danger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A ritual specialist mediating knowledge of unseen spirit danger resembles
+    guidance or protective warning by a spiritually empowered agent.
+  cautions: Could instead fit prophecy_divination, sacred_knowledge, or sacred_law
+    if the passage emphasizes divination, esoteric perception, or taboo enforcement;
+    single occurrence is highly contextual.
+  suggested_aliases:
+  - ritual warning of unseen spirit danger
+  - spirit danger warning by ritual specialist
+  - community warned by shamanic specialist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transition-of-the-dead-through-water-and-pyre
+  motif_id: ritual_transition_of_the_dead_through_water_and_pyre
+  label: Ritual transition of the dead through water and pyre
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on mortuary rites that enable or mark the dead person's
+    transition, aligning with afterlife passage and funerary navigation.
+  cautions: Water and pyre imagery may also support sacred_waters or sacred_fire,
+    but those should remain secondary unless the elements, rather than postmortem
+    transition, are the focus.
+  suggested_aliases:
+  - mortuary transition through water and fire
+  - funerary passage through water and pyre
+  - ritual passage of the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-treatment-of-the-dead-ruler-s-organs
+  motif_id: ritual_treatment_of_the_dead_ruler_s_organs
+  label: Ritual treatment of the dead ruler's organs
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Special handling of a dead ruler's body parts belongs with elite or heroic
+    funerary rites that honor the dead and reaffirm social order.
+  cautions: If the organ treatment concerns royal sacrality, preservation of power,
+    or ancestor veneration, royal_legitimacy or ancestor_rites may be relevant secondary
+    groups.
+  suggested_aliases:
+  - royal mortuary organ treatment
+  - ritual handling of ruler's organs
+  - elite funerary treatment of body parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-truce-for-burial-honors
+  motif_id: ritual_truce_for_burial_honors
+  label: Ritual truce for burial honors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A temporary truce to permit burial honors directly fits funerary rites
+    for warriors or heroes and the restoration of social order around the dead.
+  cautions: May also relate to sacred_combat when the truce is embedded in battlefield
+    ethics, but the burial-honor function is primary.
+  suggested_aliases:
+  - burial truce
+  - truce for funeral rites
+  - battlefield truce for burial honors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-corpses-quarrel-over-a-living-victim
+  motif_id: rival_corpses_quarrel_over_a_living_victim
+  label: rival corpses quarrel over a living victim
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animated corpses contending over a living person fit the active, dangerous
+    dead who intrude on the living world.
+  cautions: This may be a folktale horror/comic episode rather than a mortuary or
+    ancestor motif; confirm whether the corpses are restless dead, revenants, or merely
+    enchanted bodies.
+  suggested_aliases:
+  - animated corpses quarrel over victim
+  - rival revenants contest living victim
+  - quarreling corpses threaten the living
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.robbers-frightened-by-a-living-corpse-and-abandoning-booty
+  motif_id: robbers_frightened_by_a_living_corpse_and_abandoning_booty
+  label: Robbers frightened by a living corpse and abandoning booty
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: low
+  rationale: A living or animated corpse frightening the living overlaps with the
+    active-dead and haunting complex.
+  cautions: The robbery and abandoned booty may make this a trickster or comic tale
+    detail rather than a true revenant motif; verify whether the corpse is supernatural
+    or only mistaken as such.
+  suggested_aliases:
+  - robbers frightened by animated corpse
+  - living corpse scares thieves
+  - corpse fright causes abandoned booty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.robbery-and-feigned-death-under-violence
+  motif_id: robbery_and_feigned_death_under_violence
+  label: Robbery and feigned death under violence
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigned death used under violent threat is a deception and survival strategy,
+    matching existing trickster children for feigning death to escape danger.
+  cautions: The death bucket may be misleading; this is not necessarily a death or
+    afterlife motif unless the passage treats death ritually or supernaturally.
+  suggested_aliases:
+  - feigned death to survive violence
+  - playing dead during robbery
+  - deceptive death under threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.robbery-of-royal-dead-and-treasury-followed-by-prosecution
+  motif_id: robbery_of_royal_dead_and_treasury_followed_by_prosecution
+  label: Robbery of royal dead and treasury followed by prosecution
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines tomb robbery, royal dead, treasury, and legal prosecution,
+    and its motif function is unclear from the wording alone.
+  cautions: Could be a historical/legal episode, textual case record, royal funerary
+    violation, sacred law transgression, or divine judgment motif; avoid mapping without
+    source evidence.
+  suggested_aliases:
+  - tomb robbery of royal dead
+  - royal tomb robbery prosecuted
+  - violation of royal dead and treasury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rope-and-basket-descent-to-inaccessible-cliff-nest
+  motif_id: rope_and_basket_descent_to_inaccessible_cliff_nest
+  label: Rope-and-basket descent to inaccessible cliff nest
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A perilous descent to an inaccessible place reads as a journey ordeal
+    rather than an underworld descent from the label alone.
+  cautions: Do not map to hero_descent unless the cliff nest functions as an otherworld,
+    death realm, or initiatory descent; it may be only an episode-specific travel
+    tactic.
+  suggested_aliases:
+  - perilous descent to cliff nest
+  - basket descent to inaccessible place
+  - rope descent ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local evidence and avoid promoting them as canonical motifs without recurrence.
+- Death-bucket placement appears noisy for several items involving deception, robbery,
+  or physical descent; suggested groups prioritize narrative function over bucket
+  assignment.
+- Spirit-danger and ritual-specialist labels require culturally sensitive source review
+  before final normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    spirit practices and ambiguous robbery/corpse tale labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0124
+  input_sha256: 4acf520fedbdcada0b1f9a65edd6b521bf8659955c22e268714e54a8598de5b4
+

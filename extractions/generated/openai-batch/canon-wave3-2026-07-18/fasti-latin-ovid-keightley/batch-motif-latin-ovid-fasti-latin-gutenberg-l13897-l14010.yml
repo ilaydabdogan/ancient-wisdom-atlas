@@ -1,0 +1,163 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l13897-l14010
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'NOTES: / LIBER VI. / NOTES: / INDEX RERUM ET VERBORUM NOTATU DIGNIORUM.;
+    lines 13897-14010'
+  start: '13897'
+  end: '14010'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section listing Latin names, places, ritual terms, objects, and
+    verbal forms from Tacita through Zephyrus, each followed by book and line references.
+  language: Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index rather than a continuous narrative passage; entries
+    consist of Latin headwords followed by book and line references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes underworld or chthonic place terms, including Taenaria
+    vallis and Tartara.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The index includes fire or burning-related terms: Vacunales foci, urere,
+    and vulpes combustae.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes water-place terms such as vada, ostia, and amnis in entries
+    for Terenti, Tiberini, and Tuscus.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes the phrase urbs draconigena.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes ritual or religious terms and names, including thura, Vejovis
+    templum, Vesta, Vestalis, victima, Vinalia, and Tubilustria.
+  category: other
+  evidence_refs:
+  - ev:6
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: fire and burning terms
+  literal_form: Vacunales foci; urere; vulpes combustae
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water-place terms
+  literal_form: Terenti vada; Tiberini ostia; Tuscus amnis
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: dragon-born or serpent-derived epithet
+  literal_form: urbs draconigena
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: chthonic place names
+  literal_form: Taenaria vallis; Tartara
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: dragon-born city
+  taxonomy_refs:
+  - serpent
+  basis: The index contains the phrase urbs draconigena, which literally supplies
+    a dragon-born city expression and may point to a serpent or dragon-associated
+    mythic reference.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage is only an index entry; it gives no narrative action, named
+    city, cause, or context for the dragon-born description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13897-14010
+  quote_or_summary: Index section in Latin listing entries from Tacita through Zephyrus
+    with book and line references.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text; excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: 13898; 13906
+  quote_or_summary: "“Taenaria vallis iv, 612.”; “Tartara iii, 620. iv, 605.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: 13977; 14004; 14007
+  quote_or_summary: "“Vacunales foci vi, 308.”; “urere i, 689. iii, 503, 831.”; “vulpes
+    combustae iv, 681.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: 13916; 13932-13933; 13966
+  quote_or_summary: "“Terenti vada i, 501.”; “Tiberini, ludi vi, 237. ostia iv, 329.”;
+    “Tuscus, amnis i, 233.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: '14003'
+  quote_or_summary: "“urbs draconigena iii, 865.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: 13927; 13963; 13980; 13984-13992
+  quote_or_summary: "“thura i, 341.”; “Tubilustria v, 725.”; “Vejovis templum iii,
+    430.”; “Vesta iii, 417, 426, 698, vi, 249, 267, 291, 299, 436.”; “Vestalis iii,
+    Il. humo defossa vi, 458.”; “victima i, 335.”; “Vinalia iv, 863.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the fact that the passage is an index, not
+    a narrative. Symbols are based on listed words and phrases only; motif inference
+    is minimal and marked low confidence. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No scenes or narrative figures were extracted because the passage provides index entries only.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l13897-l14010
+  passage_sha256=78a1b6744eead7239a89297a36fe8140fe7ef41d3c46553480c8b4b5df3f5f4e
+

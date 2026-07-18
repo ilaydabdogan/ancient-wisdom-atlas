@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1043
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.drastic-short-term-healing-before-renewed-combat
+  motif_id: drastic_short_term_healing_before_renewed_combat
+  label: Drastic short-term healing before renewed combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Temporary healing for renewed battle may fit heroic combat endurance
+    or sacred intervention in warfare.
+  cautions: Single occurrence and very episode-specific; may require a future healing-in-combat
+    subgroup or be preserved as evidence detail.
+  suggested_aliases:
+  - combat_healing
+  - temporary_healing_before_battle
+  - battlefield_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-vessel-offered-only-to-a-combatant
+  motif_id: drink_vessel_offered_only_to_a_combatant
+  label: drink vessel offered only to a combatant
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: ritual_variant
+  confidence: low
+  rationale: A restricted drink vessel may be a power object or status-marking vessel
+    tied to martial eligibility.
+  cautions: Could be hospitality, sovereignty, ordeal, or passage artifact depending
+    on source context; do not infer sacred vessel without evidence of power or ritual
+    restriction.
+  suggested_aliases:
+  - combatant_drink_vessel
+  - restricted_vessel_for_warrior
+  - martial_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drowned-heroine-in-lake
+  motif_id: drowned_heroine_in_lake
+  label: drowned heroine in lake
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: A heroine's drowning is a death scene that may lead to transformation,
+    haunting, or etiological water lore.
+  cautions: Label alone only states a specific death; if no transformation, haunting,
+    sacred water, or etiological function is present, exclude as episode detail.
+  suggested_aliases:
+  - heroine_drowned_in_lake
+  - drowning_death_in_lake
+  - water_death_of_heroine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.duel-decided-by-a-feared-weapon
+  motif_id: duel_decided_by_a_feared_weapon
+  label: duel decided by a feared weapon
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A decisive weapon in single combat fits the sacred combat cluster of
+    duels and martial crisis points.
+  cautions: If the weapon itself has divine origin or independent power, secondary
+    review under sacred_treasures may be warranted.
+  suggested_aliases:
+  - decisive_feared_weapon
+  - weapon_decides_duel
+  - fearsome_weapon_in_single_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dwarf-hoard-acquisition
+  motif_id: dwarf_hoard_acquisition
+  label: dwarf hoard acquisition
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Acquiring a dwarf hoard centers on gaining a powerful or numinous treasure
+    object complex.
+  cautions: If the key action is theft, trickery, or curse rather than possession
+    of treasure, trickster or divine_judgment may be secondary.
+  suggested_aliases:
+  - dwarf_hoard
+  - acquisition_of_dwarf_treasure
+  - numinous_hoard_acquisition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dwarf-treasure-theft-or-hoarding
+  motif_id: dwarf_treasure_theft_or_hoarding
+  label: dwarf treasure theft or hoarding
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns contested possession of treasure with special nonhuman
+    or mythic associations.
+  cautions: Theft may also fit sacred_theft or trickster if the narrative function
+    is transgressive acquisition; hoarding may be moralized under pride_and_downfall.
+  suggested_aliases:
+  - dwarf_treasure
+  - theft_of_dwarf_treasure
+  - hoarded_dwarf_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elder-nonhuman-helpers-in-a-war-council
+  motif_id: elder_nonhuman_helpers_in_a_war_council
+  label: elder nonhuman helpers in a war council
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Nonhuman helpers advising a war council function as supernatural guidance
+    in human conflict.
+  cautions: Review culturally specific identity of the helpers; may overlap with animal_helpers,
+    tutelary spirits, ancestor agency, or sacred combat.
+  suggested_aliases:
+  - nonhuman_war_council_helpers
+  - elder_spirit_helpers_in_war
+  - supernatural_advisers_in_war_council
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embassy-to-the-offended-hero
+  motif_id: embassy_to_the_offended_hero
+  label: Embassy to the offended hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: An embassy attempting reconciliation with an offended hero may involve
+    gifts, honor, persuasion, and repair of social bonds.
+  cautions: Could be a highly specific Iliadic episode or diplomatic plot device;
+    map only if the embassy functions as recurring reconciliation or honor-repair
+    pattern.
+  suggested_aliases:
+  - reconciliation_embassy_to_hero
+  - gifts_to_offended_hero
+  - appeal_to_withdrawn_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embedded-tale-used-as-warning-analogy
+  motif_id: embedded_tale_used_as_warning_analogy
+  label: embedded tale used as warning analogy
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: A story within a story used to warn or persuade fits narrative as an
+    instrument of wisdom and survival.
+  cautions: If this is merely a narratological annotation rather than an in-story
+    act, consider excluding as textual artifact.
+  suggested_aliases:
+  - warning_tale_as_analogy
+  - embedded_warning_story
+  - exemplary_tale_used_for_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embedded-warning-tale-used-to-resist-persuasion
+  motif_id: embedded_warning_tale_used_to_resist_persuasion
+  label: embedded warning tale used to resist persuasion
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: A warning tale deployed to resist persuasion is a clear use of embedded
+    narrative as protective speech or strategic wisdom.
+  cautions: Verify that the warning tale is part of the narrated action, not only
+    a scholarly description of structure.
+  suggested_aliases:
+  - warning_tale_resists_persuasion
+  - embedded_tale_as_counter_persuasion
+  - protective_warning_story
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict-bucket labels are single-occurrence and episode-specific; preserve
+  as evidence details unless cross-source recurrence is shown.
+- For martial items, distinguish combat function from the power-object function of
+  weapons, vessels, and treasures.
+- Embedded tale labels may belong in storytelling_as_power only when the narrative
+  itself uses the tale strategically, not when the label is a narratological commentary
+  artifact.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require source evidence
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1043
+  input_sha256: 4a2d0520f7ea067aebf1672e4bc8137efbb206af96096a2cfac2391192356473
+

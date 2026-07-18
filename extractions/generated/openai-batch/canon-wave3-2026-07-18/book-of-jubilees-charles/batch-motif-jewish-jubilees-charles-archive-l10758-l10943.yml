@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l10758-l10943
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER VII. 22-31 63 / CHAPTER VII. 32-39 65 / CHAPTER VIII. 1-7 / CHAPTER
+    VIII. 8-12; lines 10758-10943
+  start: '10758'
+  end: '10943'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: "“Shem’s lot the middle of the earth”"
+  summary: Noah’s sons take a writing from Noah. The writing discloses Shem’s territorial
+    inheritance as the middle of the earth and describes boundaries using mountains,
+    rivers, abysses, seas, and cardinal directions. The editor’s notes discuss difficulties
+    in defining Shem’s portion and compare the “middle of the earth” idea with related
+    ancient and rabbinic traditions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Noah’s three sons reach out their hands and take a writing from Noah’s bosom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Noah is identified as the father of the three sons.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The writing produces Shem’s lot, described as the middle of the earth and
+    as an inheritance for Shem and his sons for generations of eternity.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Shem’s portion is bounded from the mountain range of Rafi and the water or
+    river Tina, then westward through the river toward abyssal waters and seas.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The passage assigns what is toward the north to Japheth and what is toward
+    the south to Shem.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The boundary description continues through Karaso, the great sea, and the
+    tongue of the Egyptian Sea.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The editor states that Shem’s exact limits are difficult to define because
+    the text is indefinite and probably corrupt.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The editor glosses “the middle of the earth” as Palestine understood as the
+    navel of the earth in cited traditions.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: Father of the sons; the writing is taken from his bosom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Noah’s three sons
+  description: Collective group who take the writing from Noah in order to receive
+    possession.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Shem
+  description: Named recipient of the lot described as the middle of the earth and
+    the southern portion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Japheth
+  description: Named figure to whom the northern portion is assigned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: father and holder of the writing
+  assigned_to:
+  - fig:1
+  basis: The writing is taken from Noah’s bosom, and Noah is called the sons’ father.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipients of possession by writing
+  assigned_to:
+  - fig:2
+  basis: The three sons are said to take possession and take the writing from Noah.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: heir of the middle and southern portion
+  assigned_to:
+  - fig:3
+  basis: Shem’s lot is the middle of the earth, and the south belongs to Shem.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: northern allottee
+  assigned_to:
+  - fig:4
+  basis: The text states that all toward the north is Japheth’s.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: allotment writing
+  literal_form: Writing taken from the bosom of Noah and used to disclose the sons’
+    lots.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: middle of the earth
+  literal_form: Shem’s lot is described as the middle of the earth.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: mountain range of Rafi
+  literal_form: A mountain range named as a boundary point of Shem’s portion.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: boundary waters
+  literal_form: River Tina, waters of the abysses, sea Mé’at, the great sea, and the
+    Egyptian Sea used in boundary description.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: north and south division
+  literal_form: North assigned to Japheth and south assigned to Shem.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The sons take the writing
+  summary: Noah’s three sons reach out and take a writing from Noah’s bosom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shem’s central inheritance appears
+  summary: The writing discloses Shem’s lot as the middle of the earth, inherited
+    by Shem and his sons for enduring generations.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Boundaries of Shem’s portion
+  summary: The text maps Shem’s portion by the mountain range of Rafi, the river Tina,
+    abyssal waters, sea Mé’at, the great sea, Karaso, and the Egyptian Sea.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: North and south apportioned
+  summary: The text assigns the northern direction to Japheth and the southern direction
+    to Shem.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ancestral territorial allotment by writing
+  taxonomy_refs: []
+  basis: Noah’s sons receive possession by taking a writing from Noah, and the writing
+    reveals Shem’s inherited lot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not describe the full allotment for all sons.
+- id: motif:2
+  label: world center as inherited territory
+  taxonomy_refs:
+  - world_center
+  basis: Shem’s lot is called the middle of the earth; the editor connects this with
+    the navel-of-the-earth tradition.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The identification of the middle with Palestine is supplied by the editor’s
+    note; the narrative excerpt itself gives only the phrase “middle of the earth.”
+- id: motif:3
+  label: cosmographic boundary mapping by mountains and waters
+  taxonomy_refs: []
+  basis: The passage defines an inheritance through mountains, a named river, abyssal
+    waters, seas, and cardinal directions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The editor warns that the geographical limits are difficult to define
+    and that the transmitted text may be corrupt.
+comparison_claims:
+- id: claim:1
+  claim: The editor explicitly compares the passage’s “middle of the earth” with traditions
+    that describe Palestine as the navel of the earth, including Ezekiel, Ethiopic
+    Enoch, and rabbinic Hebrew sources.
+  claim_level: same_motif
+  target: Palestine as navel or center of the earth in Ezekiel xxxviii.12, Ethiopic
+    Enoch xxvi.1, and rabbinic traditions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: This comparison is made in the editorial note, not by the narrative
+    voice of the excerpt; the editor also notes broader uncertainty in the geographical
+    passage.
+- id: claim:2
+  claim: The editor treats Shem’s allotment as comparable to geographical allotment
+    traditions in Epiphanius, Syncellus, Josephus, and the Chronicles of Jerahmeel.
+  claim_level: same_function
+  target: nearby Jewish and Christian geographical traditions defining the portion
+    of Shem
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The comparison concerns boundary lists and territorial function rather
+    than a fully developed mythic episode; the editor states that the limits remain
+    hard to define.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter VIII.11, lines 10758-10943
+  quote_or_summary: "“three sons were to take in possession, and they reached forth
+    their hands, and took the writing out of the bosom of Noah, their father.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: Chapter VIII.12, lines 10758-10943
+  quote_or_summary: "“there came forth on the writing as Shem’s lot the middle of
+    the earth which he should take as an inheritance for himself and for his sons
+    for the generations of eternity.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: Chapter VIII.12, lines 10758-10943
+  quote_or_summary: Shem’s boundary is described from the mountain range of Rafi and
+    the river Tina, then westward through the river to the waters of the abysses,
+    sea Mé’at, and the great sea.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text summarized.
+- id: ev:4
+  type: quote
+  locator: Chapter VIII.12, lines 10758-10943
+  quote_or_summary: "“all that is towards the north is Japheth’s, and all that is
+    towards the south belongs to Shem.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:5
+  type: summary
+  locator: Chapter VIII.13-15, lines 10758-10943
+  quote_or_summary: The portion extends to Karaso, along the great sea, toward the
+    tongue looking south, named the tongue of the Egyptian Sea, and then turns south
+    toward the mouth of the great sea.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source text summarized.
+- id: ev:6
+  type: quote
+  locator: Editorial note on Chapter VIII.12, lines 10758-10943
+  quote_or_summary: "“The middle of the earth. Palestine according to Ezek. xxxviii.
+    12 ... was the navel ... of the earth. Cf. ... Eth. Enoch xxvi. 1 ... The idea
+    reappears in Rabbinic Hebrew.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain editorial note; short excerpt used for extraction.
+- id: ev:7
+  type: summary
+  locator: Editorial note on Chapter VIII.12-21, lines 10758-10943
+  quote_or_summary: The editor compares Shem’s portion with descriptions in Epiphanius,
+    the Chronicon Paschale, Syncellus, Cedrenus, the Chronicles of Jerahmeel, and
+    Josephus, especially regarding lands allotted to Shem.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain editorial note summarized.
+- id: ev:8
+  type: quote
+  locator: Editorial note on Chapter VIII.12-21, lines 10758-10943
+  quote_or_summary: "“It is impossible to define exactly the limits of Shem’s portion.
+    The text is at times indefinite and no doubt corrupt.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain editorial note; short excerpt used for extraction.
+- id: ev:9
+  type: summary
+  locator: Editorial notes on Rafi, Tina, and Mé’at, lines 10758-10943
+  quote_or_summary: The editor identifies Rafi with the Rhipaean mountains, Tina with
+    the Tanais or Don, and Mé’at with the Maeotis or Sea of Azov.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain editorial note summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The core narrative extraction is straightforward, but the supplied excerpt
+    is fragmentary and heavily interleaved with editorial notes. Geographical and
+    comparative claims depend partly on the editor’s commentary and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text and metadata were used. No figures or comparisons beyond the excerpt and its embedded notes were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l10758-l10943
+  passage_sha256=1d57786dd63c60f40fc6d4692097a132201f65b55d46ace37ecb6879b6978cac
+

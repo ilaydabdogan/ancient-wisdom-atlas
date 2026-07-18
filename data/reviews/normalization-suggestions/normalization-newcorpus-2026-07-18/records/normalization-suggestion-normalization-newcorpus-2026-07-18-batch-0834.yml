@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0834
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fire-bird-or-glowing-bird
+  motif_id: fire_bird_or_glowing_bird
+  label: fire-bird or glowing bird
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A glowing or fiery bird may be a magical animal, solar/fire symbol, quest
+    object, or episode-specific creature depending on context.
+  cautions: Single occurrence; do not collapse into sacred_fire unless the bird mediates
+    divine light, sacrifice, or sacred presence. A future magical-animal group may
+    be warranted if similar labels recur.
+  suggested_aliases:
+  - firebird
+  - glowing bird
+  - fiery bird
+  - magical glowing bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_treasures
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-breathing-bulls-and-dangerous-ploughing
+  motif_id: fire_breathing_bulls_and_dangerous_ploughing
+  label: fire-breathing bulls and dangerous ploughing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: The dangerous ploughing task with monstrous animals functions as a heroic
+    ordeal or trial.
+  cautions: Also relates to sacred_fire and divine_warrior, but the narrative function
+    is the imposed task rather than fire symbolism alone. Preserve bull and ploughing
+    details as evidence.
+  suggested_aliases:
+  - fire-breathing bulls
+  - dangerous ploughing task
+  - monstrous animal ploughing ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-concealed-within-nested-animal-bodies-and-colored-balls
+  motif_id: fire_concealed_within_nested_animal_bodies_and_colored_balls
+  label: Fire concealed within nested animal bodies and colored balls
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core recurring element is hidden or recovered fire as a sacred or
+    powerful substance, with animals as containers or concealment stages.
+  cautions: The nested animal-body structure may overlap with sacred_vessel or sacred_knowledge
+    if the passage emphasizes concealment/retrieval more than fire. Single occurrence
+    and highly specific.
+  suggested_aliases:
+  - hidden fire in animals
+  - concealed sacred fire
+  - fire hidden in nested bodies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fish-or-sea-animal-with-human-like-sleep-sound
+  motif_id: fish_or_sea_animal_with_human_like_sleep_sound
+  label: Fish or sea animal with human-like sleep sound
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific animal trait or episode cue rather
+    than a broad motif in the current taxonomy.
+  cautions: If the source uses the human-like sound to mark transformation, recognition,
+    or spirit presence, remap to shapeshifter or otherworld after evidence review.
+  suggested_aliases:
+  - human-like sleeping sea animal
+  - fish with human sleep sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.floats-or-buoys-tire-the-sea-animal-after-harpooning
+  motif_id: floats_or_buoys_tire_the_sea_animal_after_harpooning
+  label: Floats or buoys tire the sea animal after harpooning
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This appears to be a hunting-technique episode detail rather than a symbolic
+    or narrative motif supported by existing groups.
+  cautions: If the sea animal is a supernatural patron, transformed being, or ritual
+    adversary, source evidence could justify review under divine_intervention, sacred_law,
+    or sacred_combat.
+  suggested_aliases:
+  - buoys tire harpooned sea animal
+  - floats used after harpooning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flock-oppressed-by-appointed-shepherds-and-predatory-beasts
+  motif_id: flock_oppressed_by_appointed_shepherds_and_predatory_beasts
+  label: Flock oppressed by appointed shepherds and predatory beasts
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The flock, shepherds, and beasts likely function as allegorical figures
+    in a moral or apocalyptic judgment schema.
+  cautions: Could also map to royal_legitimacy or sacred_law if the focus is corrupt
+    rulers rather than divine reckoning. Animal imagery should not drive placement
+    by itself.
+  suggested_aliases:
+  - oppressed flock allegory
+  - corrupt shepherds and predatory beasts
+  - flock under unjust shepherds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flying-lion
+  motif_id: flying_lion
+  label: flying lion
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A flying lion may be a monstrous animal, transformed being, omen, or
+    episode-specific marvel; function is unclear from the label alone.
+  cautions: Do not map to shapeshifter unless transformation is explicit. Consider
+    exclusion if it is only a creature description without narrative function.
+  suggested_aliases:
+  - winged lion
+  - flying predatory beast
+  - aerial lion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_warrior
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-animal-patron-withholds-game-from-humans
+  motif_id: food_animal_patron_withholds_game_from_humans
+  label: Food-animal patron withholds game from humans
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A game-animal patron withholding animals from humans suggests disrupted
+    reciprocity between humans and a sacred or animal-master power.
+  cautions: Culturally sensitive animal-patron concepts need source review. Could
+    also fit sacred_law if caused by hunting taboo violation, or divine_intervention
+    if framed as spirit agency.
+  suggested_aliases:
+  - animal master withholds game
+  - game patron withholds animals
+  - withheld game after ritual breach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-source-injury-between-animal-companions
+  motif_id: food_source_injury_between_animal_companions
+  label: food-source injury between animal companions
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to identify whether the function is etiological,
+    moral, trickster-like, or merely an animal episode.
+  cautions: Single occurrence; may be a passage artifact. If it explains food origins
+    or animal relations, a new animal-etiology grouping could be considered only after
+    recurrence.
+  suggested_aliases:
+  - injury over food source among animal companions
+  - animal companions and food-source injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-hunting-followed-by-animal-retaliation
+  motif_id: forbidden_hunting_followed_by_animal_retaliation
+  label: forbidden hunting followed by animal retaliation
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Violation of a hunting prohibition followed by animal retaliation fits
+    taboo, ritual law, and consequence for improper human-animal relations.
+  cautions: May also involve divine_judgment if retaliation is sacred punishment,
+    or sacred_exchange if hunting reciprocity is central. Review culturally specific
+    hunting-taboo context.
+  suggested_aliases:
+  - hunting taboo and animal retaliation
+  - forbidden hunt punished by animals
+  - animal revenge after hunting prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence animal labels; many may be episode
+  details unless source evidence shows a repeated narrative function.
+- Animal imagery alone should not determine placement; suggested groups prioritize
+  function such as ordeal, sacred reciprocity, taboo, or judgment.
+- Consider whether recurring hunting-taboo and animal-master labels eventually warrant
+  a dedicated human-animal reciprocity subgroup, but current evidence here is too
+  sparse.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific animal-patron and hunting-taboo material.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0834
+  input_sha256: 2c5f8553310ae20163eabea66c09d81cb1779ab339cda032e73101e1a76ddfbc
+

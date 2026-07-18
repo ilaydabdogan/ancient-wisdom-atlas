@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0743
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.oracular-persons-and-oracular-place
+  motif_id: oracular_persons_and_oracular_place
+  label: Oracular persons and oracular place
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on oracular roles and sites, fitting established prophecy/divination
+    access to hidden or future knowledge.
+  cautions: Single occurrence and broad wording; confirm the source describes oracle
+    function rather than merely named persons or places.
+  suggested_aliases:
+  - oracular_persons
+  - oracular_place
+  - oracle_person_and_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordinary-object-disguised-as-animal-or-person
+  motif_id: ordinary_object_disguised_as_animal_or_person
+  label: Ordinary object disguised as animal or person
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve disguise, animation, trickster deception, or shapeshifting,
+    but the object/person/animal function is unclear.
+  cautions: Do not map to shapeshifter unless the object truly changes form; may be
+    a tale-specific deception or magical-object detail.
+  suggested_aliases:
+  - object_disguised_as_living_being
+  - disguised_object
+  - object_appears_as_animal_or_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-human-beauty-from-a-destroyed-body-s-remains
+  motif_id: origin_of_human_beauty_from_a_destroyed_body_s_remains
+  label: Origin of human beauty from a destroyed body's remains
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: functional_variant
+  confidence: medium
+  rationale: A valued human quality emerging from destroyed bodily remains resembles
+    creation through a dismembered or transformed body.
+  cautions: If the passage is not cosmic or etiological, death_and_transformation
+    may be a better broader placement; preserve beauty-origin detail.
+  suggested_aliases:
+  - beauty_from_body_remains
+  - human_beauty_from_destroyed_body
+  - etiology_of_beauty_from_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.original-or-father-of-heroes-epithet
+  motif_id: original_or_father_of_heroes_epithet
+  label: Original or father of heroes epithet
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording appears to be an epithet or title rather than a narrative
+    motif.
+  cautions: If the passage establishes an ancestral founder of heroes, reconsider
+    under culture_hero or cosmic_origin; otherwise preserve as textual descriptor
+    only.
+  suggested_aliases:
+  - father_of_heroes_epithet
+  - original_hero_epithet
+  - heroic_ancestor_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-kin-seek-lost-enchanted-children
+  motif_id: otherworld_kin_seek_lost_enchanted_children
+  label: Otherworld kin seek lost enchanted children
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: high
+  rationale: Otherworld relatives seeking enchanted or lost children fits enchanted
+    otherworld kinship and abduction/recovery patterns.
+  cautions: Could secondarily involve miraculous_child if the child’s destiny is central;
+    avoid reducing it to family only.
+  suggested_aliases:
+  - otherworld_kin_seek_children
+  - lost_enchanted_children
+  - otherworld_child_recovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-defenders-repel-attackers-with-poisoned-arrows
+  motif_id: outnumbered_defenders_repel_attackers_with_poisoned_arrows
+  label: Outnumbered defenders repel attackers with poisoned arrows
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a specific combat tactic rather than a clear sacred-combat
+    or divine-warrior function.
+  cautions: May belong under sacred_combat if ritually or cosmologically charged;
+    otherwise treat as episode-level battle detail.
+  suggested_aliases:
+  - outnumbered_defenders
+  - poisoned_arrows_repel_attackers
+  - defenders_repel_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overheard-marriage-wishes-of-sisters
+  motif_id: overheard_marriage_wishes_of_sisters
+  label: overheard marriage wishes of sisters
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: Marriage wishes among sisters fall closest to the love/marriage-choice
+    cluster already grouped under sacred_love.
+  cautions: This may be an ordinary folktale setup rather than a sacred motif; consider
+    exclusion if no mythic or transformative function is present.
+  suggested_aliases:
+  - sisters_marriage_wishes_overheard
+  - overheard_wishes_for_marriage
+  - marriage_wishes_of_sisters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-beauty-causing-bodily-wounding
+  motif_id: overwhelming_beauty_causing_bodily_wounding
+  label: Overwhelming beauty causing bodily wounding
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: narrower_than
+  confidence: high
+  rationale: Beauty producing physical injury directly matches the beauty-paired-with-pain
+    motif field.
+  cautions: If the beauty is explicitly divine or beloved-centered, sacred_love or
+    divine_beloved may be relevant secondary context.
+  suggested_aliases:
+  - beauty_causes_wounding
+  - wounding_by_beauty
+  - overwhelming_beauty_as_injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-beauty-causing-self-wounding-witnesses
+  motif_id: overwhelming_beauty_causing_self_wounding_witnesses
+  label: Overwhelming beauty causing self-wounding witnesses
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: narrower_than
+  confidence: high
+  rationale: Witnesses self-wounding in response to beauty is a specific form of beauty
+    inseparable from pain or injury.
+  cautions: May duplicate the broader bodily-wounding label; preserve witness/self-wounding
+    detail as evidence rather than new canonical motif.
+  suggested_aliases:
+  - self_wounding_witnesses_of_beauty
+  - beauty_causes_self_wounding
+  - witnesses_wounded_by_beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-family-lamps-in-a-shared-dwelling
+  motif_id: paired_family_lamps_in_a_shared_dwelling
+  label: paired family lamps in a shared dwelling
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may signal household kinship, duality, sacred fire, or a domestic
+    ritual object, but function is not specified.
+  cautions: Do not map to sacred_fire solely because lamps are present; source evidence
+    should show ritual, symbolic pairing, or family-order function.
+  suggested_aliases:
+  - paired_household_lamps
+  - family_lamps_shared_dwelling
+  - paired_lamps_in_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels were assigned to the love/family/body bucket but fit better in prophecy,
+  otherworld, combat, or meta-textual review areas.
+- Single-occurrence, episode-specific labels should be preserved as evidence details
+  unless source review confirms recurring motif function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous single-occurrence
+    and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0743
+  input_sha256: 60e32ba97f288f50e39e5736a4967e90ca5702b81c972942a97ba0eb1f2260b3
+

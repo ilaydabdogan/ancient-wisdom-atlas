@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0065
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feud-rekindled-by-ancestral-war-gear-at-a-feast
+  motif_id: feud_rekindled_by_ancestral_war_gear_at_a_feast
+  label: Feud rekindled by ancestral war-gear at a feast
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A feast scene that reactivates feud centers on broken social bonds and
+    hostile trust at a communal exchange setting.
+  cautions: Could instead belong under sacred_combat if the war-gear triggers battle,
+    or under sacred_treasures if the ancestral objects are the focus; source context
+    needed.
+  suggested_aliases:
+  - feud_rekindled_at_feast
+  - ancestral_war_gear_rekindles_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fidelity-tested-under-threat-of-death-or-violation
+  motif_id: fidelity_tested_under_threat_of_death_or_violation
+  label: Fidelity tested under threat of death or violation
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on fidelity under extreme threat, fitting love or marriage
+    loyalty tested by peril.
+  cautions: If the passage emphasizes coercive violence rather than fidelity, sacred_law
+    or divine_judgment may be more appropriate; review culturally specific context
+    carefully.
+  suggested_aliases:
+  - fidelity_under_threat
+  - chastity_or_loyalty_test_under_death_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fierce-face-causes-death-by-fright
+  motif_id: fierce_face_causes_death_by_fright
+  label: Fierce face causes death by fright
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: child
+  confidence: high
+  rationale: The group already contains fright_causing_sudden_death; this is a close
+    specific variant of sudden death by terror.
+  cautions: If the face is a supernatural manifestation or taboo sight, theophany
+    or divine_judgment may be secondary; preserve the visual-fright detail.
+  suggested_aliases:
+  - fright_causing_sudden_death
+  - death_by_frightening_face
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-grave-vigil-rewarded-by-dead-father-s-aid
+  motif_id: filial_grave_vigil_rewarded_by_dead_father_s_aid
+  label: Filial grave vigil rewarded by dead father's aid
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vigil at a grave that receives aid from a dead parent fits ritual care
+    and reciprocal relation between living and dead.
+  cautions: Could also map to divine_intervention if the dead father functions as
+    helper, or sacred_exchange if reciprocity is primary; verify that vigil is ritualized
+    rather than incidental.
+  suggested_aliases:
+  - grave_vigil_rewarded_by_dead_parent
+  - dead_parent_aids_filial_vigil_keeper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-grief-at-the-death-of-the-king-father
+  motif_id: filial_grief_at_the_death_of_the_king_father
+  label: Filial grief at the death of the king-father
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is a grief response to the death of a father-ruler, fitting
+    lament and mourning.
+  cautions: Royal status may also implicate royal_legitimacy or succession, but the
+    label's primary function is mourning.
+  suggested_aliases:
+  - mourning_the_dead_king_father
+  - filial_lament_for_king_father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-grief-causing-collapse-on-hearing-death-news
+  motif_id: filial_grief_causing_collapse_on_hearing_death_news
+  label: filial grief causing collapse on hearing death news
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: Physical collapse from death news is an intensified mourning response,
+    close to existing prolonged mourning and collapse/death variants.
+  cautions: If collapse is literal death, death_and_transformation may be a secondary
+    mapping; otherwise keep as grief evidence detail.
+  suggested_aliases:
+  - collapse_from_filial_grief
+  - death_news_causes_grief_collapse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-honor-expressed-through-burial-monument
+  motif_id: filial_honor_expressed_through_burial_monument
+  label: filial honor expressed through burial monument
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A burial monument honoring a dead parent fits memorialization and funerary
+    honor for the dead.
+  cautions: If the deceased is not heroic or public, ancestor_rites may be a better
+    parent; the filial specificity should remain as evidence detail.
+  suggested_aliases:
+  - burial_monument_as_filial_honor
+  - filial_memorialization_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.final-baptism-ordered-burial-and-heavenly-salvation
+  motif_id: final_baptism_ordered_burial_and_heavenly_salvation
+  label: Final baptism, ordered burial, and heavenly salvation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Final rites and salvation frame the soul's postmortem destination and
+    proper passage after death.
+  cautions: This is Christian-specific and composite; baptism may fit sacred_waters
+    or sacred_law, while ordered burial may fit heroic_funeral_rites. Avoid flattening
+    doctrinal detail.
+  suggested_aliases:
+  - final_rites_and_heavenly_salvation
+  - baptism_burial_and_afterlife_salvation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.final-lament-after-tragic-death
+  motif_id: final_lament_after_tragic_death
+  label: final lament after tragic death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: alias
+  confidence: high
+  rationale: This is a direct lament or mourning response after a death.
+  cautions: Likely an over-specific scene label unless it recurs as a formal narrative
+    closure pattern.
+  suggested_aliases:
+  - lament_after_tragic_death
+  - final_mourning_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.final-sight-of-treasure-before-death
+  motif_id: final_sight_of_treasure_before_death
+  label: final sight of treasure before death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: The label foregrounds treasure as a charged object encountered at the
+    threshold of death.
+  cautions: May be an episode-specific deathbed detail rather than a motif; if the
+    function is heroic death or lament, heroic_funeral_rites or lament_and_mourning
+    may fit better.
+  suggested_aliases:
+  - deathbed_sight_of_treasure
+  - treasure_seen_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence and several are composite scene labels; preserve
+  local evidence notes rather than promoting new canonical motif families.
+- 'Death-bucket placement should not override primary function: several labels are
+  better treated as mourning, ancestor reciprocity, sacred love, or object-centered
+  motifs rather than death-return patterns.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    rites and over-specific heroic episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0065
+  input_sha256: ac30995228dd4f184d8791742fa5e95a47952aaf175b0ef3c5142fd89c8d4de8
+

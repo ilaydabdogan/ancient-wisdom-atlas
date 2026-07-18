@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.latin-ovid-fasti-latin-gutenberg-l8913-l8936
+source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+passage_locator:
+  label: 'LIBER III. / NOTES: / LIBER IV. / NOTES:; lines 8913-8936'
+  start: '8913'
+  end: '8936'
+  translation: Fasti
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A note discusses a rite near the Catularia gate in which red dogs were
+    sacrificed in connection with the Canicula star and crop protection; the commentator
+    argues the sacrifice was to Robigus/Rubigo rather than to Canicula. Columella
+    is cited for placating Rubigo with the blood and entrails of a suckling puppy,
+    while Ovid is said to mention a sheep. Another note explains Robigo as red mildew
+    that damages growing grain, and a final note identifies Titan as a poetic name
+    for the Sun.
+  language: Latin with English commentary
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Festus is quoted as saying the Catularia gate at Rome was so called because
+    red dogs were sacrificed not far from it to placate the Canicula star, hostile
+    to crops, so that yellowing crops would reach maturity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentator states that there appears to be a mistake in attributing the
+    sacrifice to Canicula, and says the sacrifice was made to the god Robigus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary explains that the word for red dogs supports a connection with
+    Robigus/Rubigo, and says Canicula was nevertheless the cause of the dog being
+    sacrificed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Columella is cited as noticing the rite in which Rubigo is placated with the
+    blood and entrails of a suckling puppy so that green herbage is not scorched.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentator states that Ovid alone mentions a sheep in this context.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Robigo, or mildew, is described as a red glutinous powder that ate into or
+    consumed the stalks of growing corn and made them rough or scabby.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Titan is explained as a poetic Latin name for the Sun, either identified with
+    Hyperion the Titan or with his son.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Canicula star
+  description: A star described in the Festus quotation as hostile to crops and, in
+    the commentary, as the cause of the dog sacrifice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Robigus / Rubigo
+  description: Robigus is identified by the commentator as the god to whom the sacrifice
+    was made; Rubigo is also discussed as mildew and as what Columella says is placated.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: red dogs / suckling puppy
+  description: Dogs, specified as red in the Festus quotation and as a suckling puppy
+    in the Columella citation, are sacrificial animals in the rite.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: sheep
+  description: An animal that the commentator says Ovid alone mentions in this context.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Titan / Sun
+  description: Titan is explained as the name Latin poets used for the Sun.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Hyperion
+  description: Hyperion the Titan is mentioned as one possible basis for identifying
+    Titan with the Sun, either as the same being or as the Sun's father.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recipient of placatory sacrifice
+  assigned_to:
+  - fig:2
+  basis: The commentary says the sacrifice was made to Robigus, and Columella is cited
+    as saying Rubigo is placated with puppy blood and entrails.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: celestial cause associated with crop danger
+  assigned_to:
+  - fig:1
+  basis: Canicula is described as hostile to crops and as the cause of the dog being
+    sacrificed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: sacrificial animal
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Red dogs or a suckling puppy are described as sacrificed or used to placate
+    Rubigo; the commentary adds that Ovid mentions a sheep.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: crop blight or mildew
+  assigned_to:
+  - fig:2
+  basis: Robigo is explained as mildew, a red glutinous powder damaging corn stalks.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: poetic solar figure
+  assigned_to:
+  - fig:5
+  basis: The commentary says Latin poets named the Sun Titan.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: red dog sacrifice
+  literal_form: red dogs, or a suckling puppy, sacrificed or used in placation
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: blood and entrails
+  literal_form: blood and entrails of a suckling puppy
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Canicula star
+  literal_form: Caniculae sidus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: red mildew
+  literal_form: red glutinous powder consuming growing corn stalks
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ripening crops
+  literal_form: yellowing crops brought to maturity; green herbage threatened by scorching
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sacrifice near the Catularia gate
+  summary: Red dogs are said to have been sacrificed near the Catularia gate to placate
+    Canicula, described as hostile to crops, so that yellowing crops might mature.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Commentarial correction of the sacrifice's recipient
+  summary: The commentator argues that the sacrifice was made to Robigus rather than
+    Canicula, while still treating Canicula as the reason a dog was sacrificed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Columella's notice of placating Rubigo
+  summary: Columella is cited for a rite in which Rubigo is placated with the blood
+    and entrails of a suckling puppy to prevent damage to green herbage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Nature of Robigo mildew
+  summary: Robigo is explained as a red glutinous mildew that consumes growing corn
+    stalks and makes them rough or scabby.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Titan as name for the Sun
+  summary: The note explains that Latin poets called the Sun Titan, connecting the
+    name with Hyperion the Titan or his son.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: placatory sacrifice for crop protection
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly describes sacrificial or placatory use of dogs, a
+    puppy, and possibly a sheep to protect crops or vegetation from Canicula/Robigo/Rubigo.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The commentary disputes the exact recipient of the sacrifice, distinguishing
+    Canicula as cause from Robigus/Rubigo as recipient.
+- id: motif:2
+  label: ritual protection of ripening crops
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The rite is explicitly connected with helping yellowing crops reach maturity
+    and preventing damage to green herbage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is a note excerpt and does not provide the full calendrical
+    context.
+- id: motif:3
+  label: offering as placation of destructive blight
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Rubigo/Robigus is placated with sacrificial blood and entrails so that vegetation
+    is not harmed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The exchange logic is implied by placation and crop protection but not
+    elaborated beyond the cited rite.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Festus and Columella as parallel witnesses to a Roman
+    crop-protection rite involving the sacrifice or blood of a dog or puppy, while
+    noting disagreement over whether the recipient should be understood as Canicula
+    or Robigus/Rubigo.
+  claim_level: same_motif
+  target: Festus and Columella notices of the dog or puppy rite against crop damage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based only on the commentary's summaries and quotations,
+    not on the full cited passages.
+- id: claim:2
+  claim: The commentator distinguishes Ovid's version from the other notices by saying
+    that Ovid alone mentions a sheep.
+  claim_level: same_function
+  target: Ovid's mention of a sheep compared with dog or puppy sacrifice notices
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  limitations: The excerpt does not include Ovid's verse itself or explain the sheep's
+    role beyond the commentator's statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8913-8916
+  quote_or_summary: "“Catularia porta Romae dicta est ... ad placandum Caniculae sidus
+    frugibus inimicum rufae canes immolabantur, ut fruges flavescentes ad maturitatem
+    perducerentur.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8916-8923
+  quote_or_summary: The note says the attribution to Canicula seems mistaken because
+    Festus indicates the sacrifice was to Robigus; the red color term supports this,
+    while Canicula was the cause of sacrificing a dog.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8923-8926
+  quote_or_summary: 'Columella is cited: “Rubigo virides ne torreat herbas Sanguine
+    lactentis catuli placatur et extis.”'
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 8926-8927
+  quote_or_summary: "“Ovid alone mentions the sheep.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 8930-8934
+  quote_or_summary: Robigo, or mildew, is explained as a red glutinous powder that
+    consumed stalks of growing corn and made them rough or scabby.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8936
+  quote_or_summary: The note on “Titan” says Latin poets used the name for the Sun,
+    either as Hyperion the Titan or his son.
+  source_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a commentary excerpt with partial lines and ends mid-sentence;
+    ritual elements are clear, but some surrounding context is absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external taxonomy IDs beyond available motif family references were added.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-ovid-fasti-latin-gutenberg__l8913-l8936
+  passage_sha256=b4ae1841eec2c0b0e039f92dfc7e132dc00d3ea82c42f76e5d0f8b3fd45227cc
+

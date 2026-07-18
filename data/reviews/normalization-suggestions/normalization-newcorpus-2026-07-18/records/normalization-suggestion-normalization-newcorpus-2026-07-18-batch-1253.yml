@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1253
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.community-burns-an-enclosed-dangerous-creature
+  motif_id: community_burns_an_enclosed_dangerous_creature
+  label: community burns an enclosed dangerous creature
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests collective destruction of a threatening being, but
+    the creature, enclosure, and ritual or combat function are unclear.
+  cautions: Could be monster-slaying, communal execution, apotropaic burning, or an
+    episode-specific plot detail; source evidence is needed.
+  suggested_aliases:
+  - dangerous_creature_burned_in_enclosure
+  - communal_burning_of_enclosed_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companion-performs-lower-status-service-for-the-suitor
+  motif_id: companion_performs_lower_status_service_for_the_suitor
+  label: Companion performs lower-status service for the suitor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a single social-role detail in a courtship episode rather
+    than a recurring symbolic or narrative motif.
+  cautions: If the service is part of disguise, proxy wooing, or a formal bride-winning
+    test, review under sacred_love or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - lower_status_service_by_companion
+  - companion_serves_suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-danger-revealed-by-messenger
+  motif_id: concealed_danger_revealed_by_messenger
+  label: concealed danger revealed by messenger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A messenger warning of hidden danger can function as guidance or intervention
+    redirecting human action.
+  cautions: If the messenger is ordinary and no sacred agency is present, this may
+    be a plot device; if prophetic, prophecy_divination may fit better.
+  suggested_aliases:
+  - messenger_reveals_hidden_danger
+  - warning_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-of-communal-crime-from-arriving-strangers
+  motif_id: concealment_of_communal_crime_from_arriving_strangers
+  label: concealment of communal crime from arriving strangers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif involves arriving strangers encountering a morally charged
+    host community, aligning loosely with hospitality and stranger-test situations.
+  cautions: Could instead belong under divine_judgment if concealment leads to punishment,
+    or be an over-specific episode detail if no hospitality test is central.
+  suggested_aliases:
+  - communal_crime_hidden_from_strangers
+  - strangers_arrive_after_concealed_crime
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conversion-and-proselytizing-under-imperial-danger
+  motif_id: conversion_and_proselytizing_under_imperial_danger
+  label: conversion and proselytizing under imperial danger
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Conversion and preaching involve transmission of sacred knowledge, but
+    the imperial-danger context may be martyrdom, mission, or hagiographic plot.
+  cautions: Potentially culturally and theologically specific; avoid flattening into
+    generic wisdom without evidence of teaching, revelation, ordeal, or martyrdom
+    function.
+  suggested_aliases:
+  - conversion_under_persecution
+  - proselytizing_under_imperial_threat
+  - mission_under_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-beautiful-oasis-inhabited-by-genii
+  motif_id: dangerous_beautiful_oasis_inhabited_by_genii
+  label: Dangerous beautiful oasis inhabited by genii
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A beautiful but dangerous supernatural oasis fits an enchanted liminal
+    realm alongside ordinary geography.
+  cautions: If the genii function mainly as guardians or lures, threshold_guardian
+    may be a secondary mapping; preserve oasis and genii details as local evidence.
+  suggested_aliases:
+  - enchanted_oasis_inhabited_by_genii
+  - perilous_supernatural_oasis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-champion-sent-because-either-outcome-benefits-the-host
+  motif_id: dangerous_champion_sent_because_either_outcome_benefits_the_host
+  label: dangerous champion sent because either outcome benefits the host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a martial challenge strategy using a champion, which
+    fits the combat and duel complex.
+  cautions: The host's double-benefit calculation may be episode-specific political
+    strategy rather than a reusable motif.
+  suggested_aliases:
+  - champion_sent_as_no_loss_strategy
+  - dangerous_champion_as_strategic_proxy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-distant-barrier-landscape
+  motif_id: dangerous_distant_barrier_landscape
+  label: Dangerous distant barrier landscape
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A dangerous barrier landscape may serve as the threshold that must be
+    crossed before entry to another state or realm.
+  cautions: No guardian figure is named; could instead be journey ordeal, otherworld
+    boundary, or simple setting description.
+  suggested_aliases:
+  - perilous_barrier_landscape
+  - dangerous_boundary_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-dwelling-of-supernatural-weather-beings
+  motif_id: dangerous_dwelling_of_supernatural_weather_beings
+  label: dangerous dwelling of supernatural weather beings
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: A perilous dwelling of supernatural beings may be an otherworld site
+    or spirit domain encountered by humans.
+  cautions: Weather-being specificity may point to local cosmology, divine intervention,
+    or a nature-elements group not represented here; review cultural context carefully.
+  suggested_aliases:
+  - dwelling_of_weather_spirits
+  - dangerous_weather_being_abode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-excellence-of-an-allied-troop
+  motif_id: dangerous_excellence_of_an_allied_troop
+  label: dangerous excellence of an allied troop
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a contextual military evaluation rather than a stable
+    mythic motif.
+  cautions: If the troop's exceptional power creates sacred or heroic imbalance, it
+    could be reviewed under sacred_combat or divine_warrior.
+  suggested_aliases:
+  - overpowerful_allied_troop
+  - allied_troop_as_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific, and placed
+  only provisionally.
+- The review bucket appears mismatched for many items; most labels concern combat,
+  otherworld settings, hospitality, or intervention rather than inner life.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api.ai_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should check source passages before
+    adding raw index mappings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1253
+  input_sha256: a345b4e849798d699c4c1cd10098a6781d3bfd9f17f9276046348c36595745bc
+

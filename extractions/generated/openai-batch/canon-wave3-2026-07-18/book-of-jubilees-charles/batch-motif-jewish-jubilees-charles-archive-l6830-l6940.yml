@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l6830-l6940
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER III. 17-29 27 / THE BOOK OF JUBILEES / CHAPTER III. 30-35 29 / THE
+    BOOK OF JUBILEES; lines 6830-6940
+  start: '6830'
+  end: '6940'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: his blood cried from the ground to heaven
+  summary: The passage recounts the births of Cain, Abel, and Awan; Cain's killing
+    of Abel after God accepts Abel's sacrifice but not Cain's offering; Abel's blood
+    crying from the ground to heaven; and the Lord's reproof of Cain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cain is born in the third week of the second jubilee.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Abel is born in the fourth week, and Awan is born in the fifth week.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Cain kills Abel in the first year of the third jubilee.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated reason for the killing is that God accepts Abel's sacrifice and
+    does not accept Cain's offering.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The killing takes place in the field.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Abel's blood cries from the ground to heaven and complains because Cain has
+    slain him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Lord reproves Cain because Cain has slain Abel.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Cain
+  description: Cain is born in the third week of the second jubilee; his offering
+    is not accepted; he slays Abel and is reproved by the Lord.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Abel
+  description: Abel is born in the fourth week; his sacrifice is accepted by God;
+    he is slain by Cain, and his blood cries from the ground to heaven.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Awan
+  description: Awan is named as the daughter born in the fifth week.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: God / the Lord
+  description: God accepts Abel's sacrifice, does not accept Cain's offering, and
+    the Lord reproves Cain for Abel's death.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Unnamed female parent
+  description: The passage refers to an unnamed 'she' who gives birth to Cain, Abel,
+    and Awan.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: killer of Abel
+  assigned_to:
+  - fig:1
+  basis: Cain is said to have slain Abel.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: offerer whose offering is not accepted
+  assigned_to:
+  - fig:1
+  basis: God does not accept Cain's offering.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: one reproved by the Lord
+  assigned_to:
+  - fig:1
+  basis: The Lord reproves Cain because he has slain Abel.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: accepted sacrificer
+  assigned_to:
+  - fig:2
+  basis: God accepts Abel's sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: slain victim
+  assigned_to:
+  - fig:2
+  basis: Abel is slain by Cain, and his blood cries from the ground.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: daughter born in sequence
+  assigned_to:
+  - fig:3
+  basis: Awan is named as the daughter born in the fifth week.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: divine evaluator of offerings
+  assigned_to:
+  - fig:4
+  basis: God accepts Abel's sacrifice and does not accept Cain's offering.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: divine reprover
+  assigned_to:
+  - fig:4
+  basis: The Lord reproves Cain after Abel is slain.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: birth-giver
+  assigned_to:
+  - fig:5
+  basis: The passage says that 'she' gives birth to Cain, Abel, and Awan.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: blood that cries
+  literal_form: Abel's blood crying from the ground to heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: ground
+  literal_form: The ground from which Abel's blood cries
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heaven
+  literal_form: Heaven as the destination of the blood's cry
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: field
+  literal_form: The field where Cain slays Abel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sacrifice and offering
+  literal_form: Abel's sacrifice and Cain's offering
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Birth sequence of Cain, Abel, and Awan
+  summary: In dated jubilee weeks, the unnamed female parent gives birth to Cain,
+    Abel, and then Awan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Accepted sacrifice, rejected offering, and killing in the field
+  summary: God accepts Abel's sacrifice but not Cain's offering; Cain then slays Abel
+    in the field.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Blood cries and divine reproof
+  summary: Abel's blood cries from the ground to heaven, and the Lord reproves Cain
+    because he has slain Abel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Accepted and rejected offerings
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that God accepts Abel's sacrifice but does not accept
+    Cain's offering.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives no details about the material form of either offering.
+- id: motif:2
+  label: Sibling conflict ending in killing
+  taxonomy_refs:
+  - sibling_pair
+  basis: Cain and Abel are born in sequence to the same unnamed female parent, and
+    Cain slays Abel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The kinship is inferred from the shared birth sequence in this excerpt;
+    the passage does not explicitly use the word 'brother' in the provided lines.
+- id: motif:3
+  label: Blood crying for judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Abel's blood cries from the ground to heaven, and the Lord reproves Cain
+    for the killing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy label is broader than the literal image of blood crying from
+    the ground.
+comparison_claims:
+- id: claim:1
+  claim: The edition explicitly cross-references this passage with Genesis iv-v and
+    specific verses in Genesis iv, supporting a cautious identification with the Cain
+    and Abel fratricide narrative pattern also found in Genesis.
+  claim_level: same_motif
+  target: Genesis iv-v, especially Genesis iv.4-5, 8, 10
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is based on the supplied editorial cross-reference, not on an
+    independent historical claim.
+- id: claim:2
+  claim: The note compares the phrase about Abel's blood complaining or making suit
+    with Genesis iv.10 and Ethiopic Enoch xxii.5-6, suggesting a similar accusatory
+    function for blood or voice imagery.
+  claim_level: same_function
+  target: Genesis iv.10 and Ethiopic Enoch xxii.5-6
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage offers only a brief editorial citation and does
+    not establish historical contact or dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6830-6940; Jubilees IV.1
+  quote_or_summary: The passage says that 'she' gives birth to Cain in the third week
+    of the second jubilee, Abel in the fourth, and her daughter Awan in the fifth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 6830-6940; Jubilees IV.2
+  quote_or_summary: Cain slew Abel because God accepted the sacrifice of Abel and
+    did not accept the offering of Cain.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt/paraphrastic compression used.
+- id: ev:3
+  type: quote
+  locator: lines 6830-6940; Jubilees IV.3
+  quote_or_summary: 'he slew him in the field: and his blood cried from the ground
+    to heaven'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 6830-6940; Jubilees IV.4
+  quote_or_summary: the Lord reproved Cain because of Abel, because he had slain him
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: note
+  locator: lines 6830-6940; heading and note to Jubilees IV.2-3
+  quote_or_summary: The heading gives 'Cf. Gen. iv.-v.' and the note to IV.2-3 cites
+    Genesis iv.4, 5, 8, 10.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; editorial note summarized.
+- id: ev:6
+  type: note
+  locator: lines 6830-6940; note to Jubilees IV.3
+  quote_or_summary: The note glosses 'Complaining or making suit' and cites Genesis
+    iv.10 and Ethiopic Enoch xxii.5, 6.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; editorial note summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative is clear, but the excerpt includes OCR artifacts, running
+    headings, and scholarly notes. The extraction emphasizes Jubilees IV.1-4 and uses
+    notes only where they explicitly support comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No serpent, tree, cave, fire, milk, mountain, or water symbols are present in the supplied passage. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l6830-l6940
+  passage_sha256=d11e7729db1ac49687ca49c9b955a69ea5768b040fbb53e6584c98582008aba5
+

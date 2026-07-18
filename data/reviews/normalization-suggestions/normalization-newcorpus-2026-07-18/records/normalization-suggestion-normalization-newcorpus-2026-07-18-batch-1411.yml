@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1411
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.funeral-procession-that-accumulates-mourners
+  motif_id: funeral_procession_that_accumulates_mourners
+  label: Funeral procession that accumulates mourners
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: medium
+  rationale: A funeral procession with expanding mourners is a mortuary memorial practice
+    centered on public rites for the dead.
+  cautions: If the emphasis is grief expression rather than rite sequence, lament_and_mourning
+    may be a better secondary mapping; single occurrence is quite specific.
+  suggested_aliases:
+  - accumulating funeral procession
+  - funeral procession with gathered mourners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-dirge-naming-totemic-identities
+  motif_id: funerary_dirge_naming_totemic_identities
+  label: Funerary dirge naming totemic identities
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: low
+  rationale: A funerary dirge belongs broadly with mourning performance, but naming
+    totemic identities may encode culturally specific ritual and kinship knowledge.
+  cautions: Culturally sensitive; source evidence should determine whether this is
+    mourning, ancestor rite, sacred speech, or a local ethnographic detail. Preserve
+    totemic identity language carefully.
+  suggested_aliases:
+  - funerary dirge of totemic names
+  - mourning song naming totemic identities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-duty-deferred-for-vengeance
+  motif_id: funerary_duty_deferred_for_vengeance
+  label: funerary duty deferred for vengeance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on obligation to perform funeral rites, temporarily
+    subordinated to vengeance for the dead.
+  cautions: May also relate to sacred_combat or restless_dead_haunting_vengeance if
+    vengeance is the dominant pattern; avoid treating it as afterlife passage without
+    evidence.
+  suggested_aliases:
+  - deferred funeral duty for vengeance
+  - vengeance before funeral rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-monument-for-a-slain-youth
+  motif_id: funerary_monument_for_a_slain_youth
+  label: funerary monument for a slain youth
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: A monument for a slain figure is a memorialization act fitting the heroic
+    funeral and tomb-proclamation complex.
+  cautions: The youth detail may be passage-specific; if the monument functions as
+    a shrine or relic center, sacred_treasures may be relevant.
+  suggested_aliases:
+  - memorial monument for slain youth
+  - tomb monument for slain youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-mourning-with-ochre-coffin-chant-and-adornment
+  motif_id: funerary_mourning_with_ochre_coffin_chant_and_adornment
+  label: Funerary mourning with ochre coffin, chant, and adornment
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: low
+  rationale: Chant and mourning point to lament performance, but the ochre, coffin,
+    and adornment details indicate a culturally specific mortuary rite.
+  cautions: Culturally sensitive and over-specific; human review should decide whether
+    to index under lament_and_mourning, ancestor_rites, heroic_funeral_rites, or preserve
+    as evidence detail.
+  suggested_aliases:
+  - ochre coffin mourning chant
+  - funerary chant with ochre and adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-reciprocal-whipping-game
+  motif_id: funerary_reciprocal_whipping_game
+  label: Funerary reciprocal whipping game
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a game or ordeal performed in a funerary context,
+    broadly within mortuary rites.
+  cautions: Needs source context; reciprocal whipping may be ritual exchange, mourning
+    ordeal, social repair, or an ethnographic detail. Avoid broad mapping without
+    evidence of memorial function.
+  suggested_aliases:
+  - reciprocal whipping at funeral
+  - funerary whipping game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-textual-piety
+  motif_id: funerary_textual_piety
+  label: Funerary textual piety
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Egyptian funerary texts often provide pious instruction, protection,
+    and knowledge for postmortem passage.
+  cautions: If the label refers only to scribal devotion or textual presentation rather
+    than soul navigation, sacred_knowledge or _meta_textual may be better.
+  suggested_aliases:
+  - pious funerary text
+  - funerary text as piety
+  - mortuary textual devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-transition-of-castle-owner
+  motif_id: funerary_transition_of_castle_owner
+  label: Funerary transition of castle owner
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: uncertain
+  confidence: low
+  rationale: The funerary setting suggests mortuary transition or succession, but
+    the castle-owner detail may be contextual rather than mythic.
+  cautions: Could belong to royal_legitimacy if ownership/succession is the key function,
+    or be excluded as an episode-specific estate transition; source evidence required.
+  suggested_aliases:
+  - funerary succession of castle owner
+  - castle ownership transition at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.futile-impossible-tasks-as-comic-proof-of-folly
+  motif_id: futile_impossible_tasks_as_comic_proof_of_folly
+  label: Futile impossible tasks as comic proof of folly
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Comic impossible tasks exposing folly fit trickster or fable-like reversal
+    through absurdity and wit.
+  cautions: If no trickster or deception is present, this may be a comic narrative
+    device rather than a mythic motif; pride_and_downfall may fit if folly is punished.
+  suggested_aliases:
+  - impossible tasks prove folly
+  - comic futile labor
+  - absurd tasks expose foolishness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.futile-labor-under-supernatural-captivity
+  motif_id: futile_labor_under_supernatural_captivity
+  label: Futile labor under supernatural captivity
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural captivity with futile labor suggests an enchanted or otherworldly
+    constraint imposed on a captive.
+  cautions: Could map to initiation if the labor transforms the captive, or divine_judgment
+    if the labor is punishment; source context needed before creating an impossible-labor
+    group.
+  suggested_aliases:
+  - futile labor in supernatural captivity
+  - endless labor under enchantment
+  - impossible labor while captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence funerary or culturally specific ritual labels;
+  preserve granular evidence notes and avoid promoting new canonical groups without
+  recurrence.
+- Australian Aboriginal and Guiana Amerindian mortuary practices should receive human
+  review for cultural specificity and respectful terminology.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; mortuary ritual labels need source-level
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1411
+  input_sha256: 71a911013357637387ddbc3308203279802794179792cd06afae8f6b973d300b
+

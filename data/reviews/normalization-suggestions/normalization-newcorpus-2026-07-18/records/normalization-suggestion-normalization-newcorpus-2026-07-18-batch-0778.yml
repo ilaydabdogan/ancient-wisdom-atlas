@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0778
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unrecognized-father-son-combat-killing
+  motif_id: unrecognized_father_son_combat_killing
+  label: unrecognized father-son combat killing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The fatal kin-combat turns on failed recognition of identity, which fits
+    the recognition/hidden-identity complex more than general family motifs.
+  cautions: Also overlaps sacred_combat and tragic kin-slaying; source context is
+    needed to decide whether recognition failure or combat is primary.
+  suggested_aliases:
+  - unrecognized kin combat
+  - father-son recognition failure
+  - fatal unrecognized kin combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-father-sought-through-maternal-tokens
+  motif_id: unrecognized_father_sought_through_maternal_tokens
+  label: Unrecognized father sought through maternal tokens
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Maternal tokens used to identify or find a father clearly match tokens
+    as proofs of kinship and hidden identity.
+  cautions: If the passage emphasizes paternal quest or lineage legitimacy, royal_legitimacy
+    or hero_journey may be useful secondary contexts.
+  suggested_aliases:
+  - paternal recognition by maternal tokens
+  - kinship proof tokens
+  - father sought by recognition tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-son-kills-father
+  motif_id: unrecognized_son_kills_father
+  label: unrecognized son kills father
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The plot depends on failed kin recognition, aligning with hidden identity
+    and recognition motifs.
+  cautions: Could be primarily kin-slaying, fate, or combat rather than token/identity
+    proof; current taxonomy lacks a dedicated tragic kin-slaying group.
+  suggested_aliases:
+  - fatal unrecognized kinship
+  - unrecognized kin-slaying
+  - son kills father in failed recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuccessful-love-affair-as-illustrative-episode
+  motif_id: unsuccessful_love_affair_as_illustrative_episode
+  label: Unsuccessful love-affair as illustrative episode
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as illustrative episode' describes narrative or scholarly
+    function rather than a reusable mythic motif.
+  cautions: If the source passage itself centers doomed love, preserve that evidence
+    under sacred_love or lament_and_mourning instead of this generated label.
+  suggested_aliases:
+  - illustrative love episode
+  - failed love as exemplum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuited-bride-transferred-to-an-elder-hero
+  motif_id: unsuited_bride_transferred_to_an_elder_hero
+  label: Unsuited bride transferred to an elder hero
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns marriage transfer and bride assignment, which loosely
+    fits the existing marriage-choice material under sacred_love.
+  cautions: May be a highly contextual episode about social order, age status, bride
+    exchange, or narrative resolution rather than sacred love; avoid broad indexing
+    without passage evidence.
+  suggested_aliases:
+  - bride transferred to elder hero
+  - unsuitable bride reassigned
+  - marriage transfer to elder hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsurpassed-beauty-of-an-otherworld-woman
+  motif_id: unsurpassed_beauty_of_an_otherworld_woman
+  label: Unsurpassed beauty of an otherworld woman
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The decisive element is an otherworld woman whose beauty marks enchanted
+    nonordinary status.
+  cautions: If beauty motivates longing or union, sacred_love may be a secondary mapping;
+    do not reduce all beautiful women to otherworld motifs without evidence of realm
+    or supernatural status.
+  suggested_aliases:
+  - beautiful otherworld woman
+  - otherworldly female beauty
+  - enchanted woman of unsurpassed beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unusual-child-rejected-within-the-household
+  motif_id: unusual_child_rejected_within_the_household
+  label: Unusual child rejected within the household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unusual child rejected by the household fits the threatened or marked-child
+    complex when the child has extraordinary status.
+  cautions: If the rejection is ordinary family conflict without sacred destiny or
+    signs, it may be too contextual or belong with persecuted_child material.
+  suggested_aliases:
+  - rejected unusual child
+  - marked child rejected by household
+  - extraordinary child rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unveiling-of-the-beloved-as-dawn-illumination
+  motif_id: unveiling_of_the_beloved_as_dawn_illumination
+  label: unveiling of the beloved as dawn illumination
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Beloved imagery with unveiling and illumination fits sacred or mystical
+    love as transformative revelation.
+  cautions: Could also belong under divine_beloved, theophany, or sacred_fire if the
+    beloved is explicitly divine or light is the main sacred manifestation.
+  suggested_aliases:
+  - beloved unveiled as dawn
+  - dawn illumination of the beloved
+  - beloved as revealing light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwilling-bride-compelled-by-kin-and-wealth
+  motif_id: unwilling_bride_compelled_by_kin_and_wealth
+  label: Unwilling bride compelled by kin and wealth
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is adjacent to marriage-choice and bride-winning motifs already
+    grouped under sacred_love, but emphasizes coercive kin and wealth dynamics.
+  cautions: Culturally and ethically sensitive; may be better treated as social-order
+    or gendered coercion evidence, and current taxonomy lacks a dedicated forced-marriage
+    group.
+  suggested_aliases:
+  - compelled unwilling bride
+  - kin-coerced marriage
+  - bride compelled by wealth exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwilling-bride-in-enemy-household
+  motif_id: unwilling_bride_in_enemy_household
+  label: Unwilling bride in enemy household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns a coerced or displaced bride within hostile kin relations,
+    loosely adjacent to bride/marriage conflict under sacred_love.
+  cautions: May instead concern captivity, feud, violated alliance, or household politics;
+    do not index as sacred love without evidence of love, longing, marriage choice,
+    or union as the main motif.
+  suggested_aliases:
+  - bride in enemy household
+  - unwilling captive bride
+  - hostile-household bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, highly contextual family or marriage labels;
+  human review should decide whether they are durable motifs or passage-specific episode
+  summaries.
+- The father/son killing labels suggest a possible future tragic kin-recognition or
+  kin-slaying cluster, but current evidence in this batch is too sparse to propose
+  a new canonical group.
+- Forced or unwilling bride labels are ethically sensitive and may require a future
+  social-order/gendered-coercion grouping if they recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize source-context review for kin-slaying
+    and coerced-bride labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0778
+  input_sha256: ecd817e416b6bfabe9a3a0abe16ae251e1b56d44529378c81b9b17ac94b60685
+

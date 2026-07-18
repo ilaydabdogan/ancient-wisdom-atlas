@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0592
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-first-food-making-from-earth-and-fire
+  motif_id: failed_first_food_making_from_earth_and_fire
+  label: failed first food-making from earth and fire
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe failed creation, food origin, craft, or fire/earth
+    transformation, but the function is unclear from wording alone.
+  cautions: Single occurrence; do not map to cosmic_origin or sacred_fire without
+    evidence that the passage concerns creation, sacred fire, or etiological food
+    origins.
+  suggested_aliases:
+  - failed food origin
+  - failed creation of food from earth and fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_fire
+    - sacred_craft
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-imitation-of-a-magical-encounter-brings-punishment
+  motif_id: failed_imitation_of_a_magical_encounter_brings_punishment
+  label: Failed imitation of a magical encounter brings punishment
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed imitation followed by punishment matches the existing envy/imitation/downfall
+    cluster under pride_and_downfall.
+  cautions: If the passage emphasizes judicial punishment or magical taboo rather
+    than overreaching imitation, divine_judgment or sacred_law may be secondary fits.
+  suggested_aliases:
+  - failed magical imitation punished
+  - punished imitation of magical encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-plot-deepens-a-queen-s-hostile-resolve
+  motif_id: failed_plot_deepens_a_queen_s_hostile_resolve
+  label: failed plot deepens a queen's hostile resolve
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a plot-development note about one queen's motivation
+    rather than a reusable symbolic or narrative motif.
+  cautions: If this recurs as persecuting queen/stepmother or court intrigue, review
+    under jealous_stepmother_persecuted_child or royal_legitimacy instead of excluding.
+  suggested_aliases:
+  - failed plot intensifies hostility
+  - hostile queen resolve after failed plot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - royal_legitimacy
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-reception-before-a-ruler-s-throne
+  motif_id: failed_reception_before_a_ruler_s_throne
+  label: Failed reception before a ruler's throne
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A failed court reception could involve kingship, supplication, hospitality,
+    judgment, or a simple episode detail.
+  cautions: Single occurrence; verify whether the scene functions as a sacred/legal
+    test, royal legitimacy crisis, or only narrative staging.
+  suggested_aliases:
+  - failed audience before ruler
+  - rejected reception at throne
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - covenant
+    - hospitality_test_stranger_guest
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-lover-s-world-ranging-search-oath
+  motif_id: faithful_lover_s_world_ranging_search_oath
+  label: faithful lover's world-ranging search oath
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The lover's oath and world-ranging search fit love as quest, fidelity,
+    and longing.
+  cautions: If the oath itself is the operative motif, curse_blessing_speech may be
+    a useful secondary mapping; if the journey dominates, hero_journey may also apply.
+  suggested_aliases:
+  - lover's search oath
+  - faithful lover's quest
+  - world-ranging search for beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-youngest-sister-vindicated-over-mocking-elder-sisters
+  motif_id: faithful_youngest_sister_vindicated_over_mocking_elder_sisters
+  label: Faithful youngest sister vindicated over mocking elder sisters
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Vindication of the faithful over mockers fits moral reckoning and reversal,
+    though divine agency is not explicit.
+  cautions: Could instead be a sibling rivalry or fairy-tale family-role motif; review
+    source evidence before treating it as divine judgment.
+  suggested_aliases:
+  - faithful youngest sibling vindicated
+  - mocking elder sisters humbled
+  - youngest sister vindication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_twins
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-glory-into-social-and-bodily-ruin
+  motif_id: fall_from_glory_into_social_and_bodily_ruin
+  label: fall from glory into social and bodily ruin
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: medium
+  rationale: A fall from elevated status into ruin is a close variant of downfall
+    after overreach or moral reversal.
+  cautions: If the fall is caused by illness, curse, exile, or fate rather than pride,
+    secondary review under divine_judgment, curse_blessing_speech, or death_by_fate
+    may be needed.
+  suggested_aliases:
+  - fall from glory
+  - social and bodily ruin
+  - downfall into degradation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-of-a-fortified-city-by-outsiders
+  motif_id: fall_of_a_fortified_city_by_outsiders
+  label: fall of a fortified city by outsiders
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: City conquest may be historical episode, sacred combat, judgment, or
+    social-order collapse depending on context.
+  cautions: Avoid mapping conquest alone as motif unless the passage frames the fall
+    as sacred warfare, divine judgment, prophecy, or etiological foundation.
+  suggested_aliases:
+  - fortified city falls to outsiders
+  - city conquered by outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-of-the-city-announced-by-survivor
+  motif_id: fall_of_the_city_announced_by_survivor
+  label: fall of the city announced by survivor
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: In biblical contexts, a city's fall announced by a survivor often functions
+    as judgment and confirmation of prophetic warning.
+  cautions: If the passage is only a messenger report of disaster, it may be an episode
+    artifact; confirm judgment or prophecy framing.
+  suggested_aliases:
+  - survivor announces city fall
+  - city fall reported by survivor
+  - survivor messenger of destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-king-hiding-in-a-cave
+  motif_id: fallen_king_hiding_in_a_cave
+  label: fallen king hiding in a cave
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The fallen king motif concerns loss or crisis of kingship, with the cave
+    serving as concealment rather than necessarily an underworld descent.
+  cautions: If the cave episode is transformative or initiatory, descent/initiation
+    may be secondary; if it is merely a hiding place in a historical tale, exclude
+    as over-specific.
+  suggested_aliases:
+  - king in hiding after downfall
+  - fallen ruler hidden in cave
+  - cave refuge of fallen king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - pride_and_downfall
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence plot summaries; human review
+  should confirm whether they function as recurring motifs rather than episode artifacts.
+- The supplied review bucket is power/kingship/law, but multiple items may fit love,
+  pride/downfall, sacred combat, or textual exclusion better than kingship narrowly.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context especially needed for city-fall
+    and court-reception labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0592
+  input_sha256: b6628f5383e1b12cbfa593f156dff359db4625eed2ec17ae263af261d2c6d185
+

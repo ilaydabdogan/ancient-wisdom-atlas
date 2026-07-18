@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1104
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.loyalty-driven-vengeance-after-treacherous-slaying
+  motif_id: loyalty_driven_vengeance_after_treacherous_slaying
+  label: loyalty-driven vengeance after treacherous slaying
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance for a treacherous killing fits the heroic conflict and retaliation
+    complex already grouped under sacred combat.
+  cautions: Single occurrence; if the passage emphasizes violated oath or trust more
+    than combat, betrayal_violated_trust may be a better primary group.
+  suggested_aliases:
+  - avenging a treacherous slaying
+  - vengeance for slain companion
+  - loyalty vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lure-toward-a-dangerous-depth
+  motif_id: lure_toward_a_dangerous_depth
+  label: lure toward a dangerous depth
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lure drawing someone toward a perilous depth functions like a dangerous
+    threshold or fatal enchantment.
+  cautions: If the depth is explicitly underworld, sea descent, or initiatory passage,
+    descent or sacred_waters may be secondary mappings.
+  suggested_aliases:
+  - perilous lure toward depth
+  - dangerous depth lure
+  - fatal lure to depths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-created-vengeance-monster
+  motif_id: magic_created_vengeance_monster
+  label: Magic-created vengeance monster
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines artificial creation, magic, monster agency, and vengeance
+    without enough context to choose a stable parent.
+  cautions: Could fit sacred_craft if manufactured life is central, divine_judgment
+    if vengeance is moral reckoning, or sacred_combat if the monster functions mainly
+    as an enemy.
+  suggested_aliases:
+  - magically created avenger monster
+  - created vengeance monster
+  - magical monster of revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-illusion-or-spell-in-war-sequence
+  motif_id: magic_illusion_or_spell_in_war_sequence
+  label: magic illusion or spell in war sequence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The spell or illusion is framed as a tactic within warfare, fitting the
+    sacred combat and ritual warfare group.
+  cautions: If the emphasis is illusion as occult knowledge rather than battle function,
+    sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - magical war illusion
+  - spell in battle
+  - battlefield magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-induced-forgetfulness-blocks-testimony-or-warning
+  motif_id: magic_induced_forgetfulness_blocks_testimony_or_warning
+  label: Magic-induced forgetfulness blocks testimony or warning
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Magical memory loss affecting warning or testimony is a specific plot
+    mechanism not clearly covered by current combat or wisdom groups.
+  cautions: May belong with curse_blessing_speech if caused by a spell utterance,
+    sacred_knowledge if it blocks revelation, or storytelling_as_power if testimony
+    drives the plot.
+  suggested_aliases:
+  - enchanted forgetfulness blocks warning
+  - magical amnesia prevents testimony
+  - spell-induced forgetting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-mantle-won-from-a-defeated-dwarf
+  motif_id: magic_mantle_won_from_a_defeated_dwarf
+  label: Magic mantle won from a defeated dwarf
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: high
+  rationale: A magical mantle acquired through defeating a dwarf is a power object
+    won in conflict.
+  cautions: Dwarf provenance should be preserved as evidence detail; if the focus
+    is combat victory rather than the object, sacred_combat may be secondary.
+  suggested_aliases:
+  - magic mantle won in combat
+  - dwarf-won magic mantle
+  - magical cloak as trophy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-mount-and-obedient-weapon-aid-the-hero
+  motif_id: magic_mount_and_obedient_weapon_aid_the_hero
+  label: magic mount and obedient weapon aid the hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The obedient weapon is a power object aiding the hero, and the existing
+    group already includes magical animal mounts as related evidence.
+  cautions: Because the label combines mount and weapon, shapeshifter or divine_intervention
+    may be relevant if the mount is a supernatural helper rather than an object-like
+    aid.
+  suggested_aliases:
+  - magical mount and weapon aid
+  - obedient weapon aids hero
+  - hero aided by magic mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-object-warns-of-pursuit
+  motif_id: magic_object_warns_of_pursuit
+  label: magic object warns of pursuit
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A magical object that warns its bearer is a power object conferring protection
+    or guidance.
+  cautions: If the warning is divine communication rather than object agency, divine_intervention
+    or prophecy_divination may be secondary.
+  suggested_aliases:
+  - warning magic object
+  - pursuit-warning object
+  - protective object warns hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-object-won-from-a-dwarf
+  motif_id: magic_object_won_from_a_dwarf
+  label: magic object won from a dwarf
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: high
+  rationale: A magical object acquired from or after defeating a dwarf fits sacred
+    treasures and power objects.
+  cautions: If the dwarf is mainly a craft figure, sacred_craft may be secondary;
+    if the key action is victory, sacred_combat may also apply.
+  suggested_aliases:
+  - dwarf-won magic object
+  - magic object gained from dwarf
+  - supernatural trophy object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-combat-through-egg-tokens-controlling-day-and-night
+  motif_id: magical_combat_through_egg_tokens_controlling_day_and_night
+  label: magical combat through egg tokens controlling day and night
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes magical combat, egg tokens, and cosmic day-night control,
+    making the dominant motif unclear.
+  cautions: Could map to sacred_combat, sacred_treasures, cosmic_egg, or duality depending
+    on whether combat, tokens, creation symbolism, or day-night opposition is central.
+  suggested_aliases:
+  - egg tokens control day and night
+  - cosmic egg tokens in magical combat
+  - day-night control through magic tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence conflict labels; preserve episode-specific details
+  as evidence notes rather than promoting them to canonical motifs.
+- Magical objects acquired in combat are best handled under sacred_treasures unless
+  the passage foregrounds craft origin, divine agency, or combat structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; several composite magic-combat labels require
+    source evidence before final indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1104
+  input_sha256: 70cc0db0d06c90eca0759051dd730d61d4b320da95ccdef94e7ae45f4560246e
+

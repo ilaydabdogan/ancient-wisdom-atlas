@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-1378
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.exclusive-royal-dance-partner
+  motif_id: exclusive_royal_dance_partner
+  label: Exclusive royal dance partner
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve royal courtship, ritual dance, status privilege,
+    or an episode-specific social detail.
+  cautions: Single occurrence and insufficient context; do not map to sacred_love
+    or royal_legitimacy unless the dance establishes union, sovereignty, or identity.
+  suggested_aliases:
+  - royal_dance_partner
+  - exclusive_dance_partner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_love
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.execution-in-a-venomous-creature-enclosure
+  motif_id: execution_in_a_venomous_creature_enclosure
+  label: execution in a venomous creature enclosure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be ordeal, punishment, monster/serpent danger, or a specific execution
+    scene rather than a broad motif.
+  cautions: Venomous-creature detail may point to serpent danger, but existing serpent_guardian
+    requires threshold or knowledge-guardian function not shown here.
+  suggested_aliases:
+  - death_by_venomous_creatures
+  - venomous_creature_execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - serpent_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.execution-interrupted-by-uncanny-performance
+  motif_id: execution_interrupted_by_uncanny_performance
+  label: execution interrupted by uncanny performance
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: An uncanny performance delaying or interrupting execution fits sound
+    or performance as supernatural power affecting action.
+  cautions: If the performance is not musical or magically compelling, this may instead
+    be an episode-specific reprieve or heroic death detail.
+  suggested_aliases:
+  - performance_interrupts_execution
+  - uncanny_performance_reprieve
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exhaustion-of-challengers-by-superior-local-racers
+  motif_id: exhaustion_of_challengers_by_superior_local_racers
+  label: Exhaustion of challengers by superior local racers
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a contest or ordeal, but no existing group cleanly
+    covers ritual racing or athletic challenge.
+  cautions: Could be ritual competition, local superiority tale, initiation ordeal,
+    or passage-specific narrative detail; source context needed.
+  suggested_aliases:
+  - race_challenge_exhausts_opponents
+  - superior_local_racers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exilic-lament-and-suspended-music
+  motif_id: exilic_lament_and_suspended_music
+  label: Exilic lament and suspended music
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on grief in exile, with music withheld as an expression
+    of loss.
+  cautions: Secondary relation to enchanting_music or storytelling_as_power only if
+    music itself has supernatural or narrative agency.
+  suggested_aliases:
+  - exile_lament
+  - music_suspended_in_exile
+  - lament_with_silenced_music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exogamous-alliance-between-gentes
+  motif_id: exogamous_alliance_between_gentes
+  label: Exogamous alliance between gentes
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes kinship alliance or social structure rather than
+    a clear symbolic narrative motif.
+  cautions: Culturally sensitive kinship terminology and source context need review;
+    avoid forcing into sacred_marriage without evidence of sacred union, fertility,
+    or sovereignty function.
+  suggested_aliases:
+  - exogamous_alliance
+  - interclan_marriage_alliance
+  - kinship_alliance_between_gentes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_love
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorbitant-condition-overcome-by-magical-aid
+  motif_id: exorbitant_condition_overcome_by_magical_aid
+  label: Exorbitant condition overcome by magical aid
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Impossible Task and Supernatural Aid
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The pattern is a recurring folktale structure: an impossible or excessive
+    demand is fulfilled through magical assistance.'
+  cautions: Existing initiation and divine_intervention groups capture parts of the
+    function but not the task-condition structure; review recurrence before promoting.
+  suggested_aliases:
+  - impossible_task_overcome_by_magical_aid
+  - excessive_condition_fulfilled_by_magic
+  - supernatural_aid_fulfills_impossible_condition
+  suggested_new_group:
+    id: impossible_task_supernatural_aid
+    label: Impossible Task and Supernatural Aid
+    description: A hero, suitor, or vulnerable figure faces an excessive, impossible,
+      or punitive condition and succeeds through magical, animal, divine, or other
+      supernatural assistance.
+    parent_group_ids:
+    - initiation
+    - divine_intervention
+    related_group_ids:
+    - hero_journey
+    - sacred_love
+    - sacred_treasures
+    reason_existing_groups_insufficient: Current groups cover ordeal or divine help
+      broadly, but not the specific folktale function of impossible conditions fulfilled
+      by aid.
+- suggestion_id: normalization.suggestion.exorcistic-banishment-from-the-body
+  motif_id: exorcistic_banishment_from_the_body
+  label: Exorcistic banishment from the body
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The normalization already folds exorcism and spirit-expulsion variants
+    into the ritual expulsion complex under sacrifice.
+  cautions: If the passage emphasizes healing agency rather than expulsion rite, divine_intervention
+    or soul_loss_restoration may be relevant as secondary mappings.
+  suggested_aliases:
+  - exorcism_from_the_body
+  - spirit_banishment_from_body
+  - bodily_spirit_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expedition-divided-after-successful-seizure
+  motif_id: expedition_divided_after_successful_seizure
+  label: Expedition divided after successful seizure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a tactical episode after a raid or quest, but the
+    mythic function is unclear.
+  cautions: May fit sacred_combat if tied to cattle raid or martial seizure, hero_journey
+    if tied to quest return, or be too plot-specific for pattern queries.
+  suggested_aliases:
+  - divided_expedition_after_seizure
+  - raiding_party_divides_after_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expiation-for-a-prior-crime
+  motif_id: expiation_for_a_prior_crime
+  label: expiation for a prior crime
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Expiation for crime belongs to moral reckoning and repair after transgression.
+  cautions: If the expiation is a specific ritual offering, sacrifice or atonement_rite
+    may be a better primary placement.
+  suggested_aliases:
+  - crime_expiation
+  - atonement_for_prior_crime
+  - purification_after_crime
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; recommendations emphasize
+  provisional grouping rather than taxonomy promotion.
+- Do not infer transmission or borrowing from shared placement across Germanic, Norse,
+  Hopi, Navajo, biblical, Islamicate folklore, Finnish-Karelian, Celtic Irish, or
+  Greek materials.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended especially for culturally
+    specific kinship, ritual, and episode-level labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-1378
+  input_sha256: 3c28736c261c1cfb15b578c496d68373021062cf45247a38b57686e1eb44c197
+

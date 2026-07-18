@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0998
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.water-drawing-discovery-followed-by-sale
+  motif_id: water_drawing_discovery_followed_by_sale
+  label: Water-drawing discovery followed by sale
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label likely refers to a specific narrative episode involving discovery
+    at a well and sale, but its motif function is unclear from wording alone.
+  cautions: May be an episode-specific plot artifact rather than a reusable water
+    motif; could involve miraculous child, betrayal, slavery/sale, or providential
+    discovery depending on passage evidence.
+  suggested_aliases:
+  - discovery_at_well_followed_by_sale
+  - well_discovery_and_sale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-drawing-epiphany
+  motif_id: water_drawing_epiphany
+  label: Water-drawing epiphany
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An epiphany occurring during water-drawing is best treated as a manifestation
+    or revelation rather than as water symbolism alone.
+  cautions: If the passage emphasizes the water source as purifier or boundary, sacred_waters
+    may be a secondary mapping; verify that a true divine manifestation is present.
+  suggested_aliases:
+  - well_epiphany
+  - epiphany_at_water_drawing
+  - revelation_at_the_well
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-driven-reversal
+  motif_id: water_driven_reversal
+  label: Water-driven reversal
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: Water appears to be the agent or medium of a reversal, fitting the broad
+    sacred waters group if the reversal is transformative.
+  cautions: The phrase is vague; if reversal is moral punishment, map to divine_judgment,
+    and if it is ordinary plot mechanics, consider excluding as over-specific.
+  suggested_aliases:
+  - water_as_agent_of_reversal
+  - reversal_through_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-dwelling-monster-attacks-human-hall
+  motif_id: water_dwelling_monster_attacks_human_hall
+  label: water-dwelling monster attacks human hall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile water-dwelling monster attacking a human hall sets up monster
+    combat that protects or restores social order.
+  cautions: If the passage emphasizes liminal threshold invasion rather than heroic
+    combat, threshold_guardian or chaos may be better secondary mappings; the label
+    is episode-specific.
+  suggested_aliases:
+  - water_monster_attack
+  - aquatic_monster_attacks_hall
+  - monster_from_water_attacks_human_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-from-rock-apportioned-by-tribes
+  motif_id: water_from_rock_apportioned_by_tribes
+  label: Water from rock apportioned by tribes
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculous water from rock given to tribal groups is a supernatural provision
+    and guidance motif.
+  cautions: The apportionment by tribes may also support covenant or sacred social
+    order; avoid reducing it to generic water symbolism.
+  suggested_aliases:
+  - miraculous_water_from_rock
+  - water_from_rock_for_tribes
+  - tribal_apportionment_of_miraculous_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-from-rock-through-prophetic-action
+  motif_id: water_from_rock_through_prophetic_action
+  label: water from rock through prophetic action
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A prophet mediating water from rock is a clear supernatural provision
+    or divine guidance episode.
+  cautions: Could also be indexed with prophecy_divination if the prophetic role is
+    central, but the main narrative function is miraculous provision.
+  suggested_aliases:
+  - prophetic_water_from_rock
+  - miraculous_water_from_rock
+  - water_from_rock_by_prophet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-labor-substitution-and-cistern-construction
+  motif_id: water_labor_substitution_and_cistern_construction
+  label: Water labor, substitution, and cistern construction
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines labor organization, substitution, and water infrastructure,
+    with no clear existing symbolic or narrative function.
+  cautions: May be an ethnographic or passage-specific detail; review for sacred craft,
+    sacred exchange, social order, or water-provision meaning before indexing.
+  suggested_aliases:
+  - cistern_construction_for_water
+  - substitution_in_water_labor
+  - water_labor_and_cistern_building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-level-barrier-to-invading-war-canoes
+  motif_id: water_level_barrier_to_invading_war_canoes
+  label: Water-level barrier to invading war canoes
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water functions as a protective or impassable boundary against hostile
+    passage.
+  cautions: If caused by divine or spirit agency, divine_intervention may be a secondary
+    mapping; if the focus is warfare, sacred_combat may also apply.
+  suggested_aliases:
+  - water_barrier_against_invaders
+  - protective_water_barrier
+  - water_blocks_war_canoes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-libation-for-the-departed-shade
+  motif_id: water_libation_for_the_departed_shade
+  label: Water-libation for the departed shade
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A water libation for a departed shade is ritual care or offering for
+    the dead.
+  cautions: May also relate to sacred_exchange or afterlife_passage if the libation
+    aids postmortem transit; preserve the water-libation detail as ritual evidence.
+  suggested_aliases:
+  - libation_for_the_dead
+  - water_offering_to_departed_shade
+  - funerary_water_libation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-maintaining-being-spared-after-defeat
+  motif_id: water_maintaining_being_spared_after_defeat
+  label: water-maintaining being spared after defeat
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a defeated being is spared because of a water-maintaining
+    role, but the narrative function is unclear.
+  cautions: Could involve sacred exchange, culture hero/ecological function, mercy
+    after combat, or divine/social judgment. Review cultural context carefully before
+    normalizing.
+  suggested_aliases:
+  - defeated_water_keeper_spared
+  - water_keeper_spared_after_defeat
+  - useful_water_being_spared
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence water-context episodes. Do not map them to
+  flood_and_renewal unless old-world destruction and renewal are explicit.
+- Water as setting, substance, boundary, provision, and funerary offering should be
+  distinguished in review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed for vague or episode-specific
+    water labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0998
+  input_sha256: 6e55acf141c202eea0fd89106575c647321cec80422761e7e15ffc2b129b9256
+

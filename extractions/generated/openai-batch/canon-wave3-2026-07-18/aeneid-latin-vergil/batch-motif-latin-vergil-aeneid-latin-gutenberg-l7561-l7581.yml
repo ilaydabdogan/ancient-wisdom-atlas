@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.latin-vergil-aeneid-latin-gutenberg-l7561-l7581
+source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+passage_locator:
+  label: LIBER IX / PUBLI VERGILI MARONIS / AENEIDOS / LIBER X; lines 7561-7581
+  start: '7561'
+  end: '7581'
+  translation: Aeneidos
+  notes: Generated from OpenAI Batch run canon-wave3-2026-07-18; human review required.
+canonical_text:
+  quote: PANDITUR interea domus omnipotentis Olympi, / conciliumque vocat divom pater
+    atque hominum rex
+  summary: The house of Olympus opens. The father of gods and king of humans summons
+    the gods to a celestial council, looks down on the Dardan and Latin camps, rebukes
+    the present conflict, foretells a future time of war involving Carthage and Roman
+    citadels, and commands that an agreed treaty be composed for now.
+  language: Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The house of all-powerful Olympus is opened, and the father of gods and king
+    of humans calls a council to a starry seat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: From the high seat, the speaker looks at all lands, the camp of the Dardanids,
+    and the Latin peoples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The heaven-dwellers sit in double-opening halls before the speaker begins
+    his address.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker asks why the divine opinion has turned backward and why the addressees
+    contend with hostile minds.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says he had refused permission for Italy to meet the Teucrians
+    in war, and asks what discord or fear led either side to take up arms and provoke
+    iron.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker foretells that a just time of battle will come when fierce Carthage
+    will bring great destruction to Roman citadels and send the Alps opened.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker says that then hostile contest and seizure of things will be permitted,
+    but now the addressees should cease and joyfully compose an agreed treaty.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Father of gods and king of humans
+  description: A supreme divine speaker who summons the council, surveys the mortal
+    conflict, rebukes discord, and commands a treaty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Great heaven-dwellers
+  description: The divine addressees who sit in the opened halls and are addressed
+    as "Caelicolae magni."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dardanids / Teucrians
+  description: A mortal war party observed from Olympus; the speaker refers to Italy
+    meeting the Teucrians in war.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Italy / Latin peoples
+  description: A mortal side in the conflict, described through Italy and the Latin
+    peoples.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Fierce Carthage
+  description: A future force in the speaker's prophecy, said to bring great destruction
+    to Roman citadels and send the Alps opened.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine council convener and speaker
+  assigned_to:
+  - fig:1
+  basis: The figure calls the council, begins the speech, questions the conflict,
+    and commands the present course of action.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: divine council hearers
+  assigned_to:
+  - fig:2
+  basis: The heaven-dwellers sit in the halls and are directly addressed by the speaker.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: present mortal war parties under divine scrutiny
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The speaker observes the Dardanid camp and Latin peoples, then refers to
+    Italy and Teucrians in connection with forbidden war.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: future war-bringer in prophecy
+  assigned_to:
+  - fig:5
+  basis: Carthage is described as bringing future destruction to Roman citadels and
+    opening the Alps.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Olympus as celestial divine dwelling
+  literal_form: domus omnipotentis Olympi; siderea sedes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: double-opening halls
+  literal_form: tectis bipatentibus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: arms and iron
+  literal_form: arma; ferrum
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: agreed treaty
+  literal_form: placitum foedus
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: opened Alps
+  literal_form: Alpes immittet apertas
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Opening of the divine council
+  summary: Olympus opens, the divine ruler summons the gods to a starry seat, observes
+    the lands and opposing mortal peoples, and the heaven-dwellers sit in the halls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rebuke of forbidden mortal war
+  summary: The speaker addresses the gods, questions their hostile contention, and
+    states that he had forbidden Italy to enter war with the Teucrians.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Future war contrasted with present treaty
+  summary: The speaker foretells a future just time of battle involving Carthage,
+    Roman citadels, and the opened Alps, but commands present cessation and composition
+    of an agreed treaty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine council over mortal conflict
+  taxonomy_refs:
+  - divine_judgment
+  basis: A supreme divine figure summons the gods, surveys mortal war parties, questions
+    disobedient conflict, and directs the proper present action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage contains a rebuke and divine governance, but it does not narrate
+    a formal trial or punishment.
+- id: motif:2
+  label: Divinely prescribed treaty
+  taxonomy_refs:
+  - covenant
+  basis: The speaker commands the addressees to cease and compose an agreed foedus.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The treaty is commanded but not enacted within the extracted passage.
+- id: motif:3
+  label: Appointed future time of sanctioned war
+  taxonomy_refs: []
+  basis: The speech distinguishes the present forbidden conflict from a future just
+    time of battle involving Carthage and Rome.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No specific provided taxonomy family directly matches prophecy or sanctioned
+    future war.
+- id: motif:4
+  label: Divine mountain or celestial seat overlooking the world
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Olympus is presented as a high, starry divine seat from which all lands and
+    mortal camps are viewed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage gives a high Olympian divine setting, but it does not explicitly
+    describe an axis mundi or cosmic mountain structure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7567-7569
+  quote_or_summary: '"PANDITUR interea domus omnipotentis Olympi, / conciliumque vocat
+    divom pater atque hominum rex / sideream in sedem"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 7569-7570
+  quote_or_summary: '"terras unde arduus omnis / castraque Dardanidum adspectat populosque
+    Latinos"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 7571-7573
+  quote_or_summary: '"Considunt tectis bipatentibus, incipit ipse: / ''Caelicolae
+    magni... / versa retro tantumque animis certatis iniquis?''"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 7574-7576
+  quote_or_summary: '"Abnueram bello Italiam concurrere Teucris... / aut hos arma
+    sequi ferrumque lacessere suasit?"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 7577-7579
+  quote_or_summary: '"Adveniet iustum pugnae... / cum fera Karthago Romanis arcibus
+    olim / exitium magnum atque Alpes immittet apertas"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 7580-7581
+  quote_or_summary: '"tum certare odiis, tum res rapuisse licebit. / Nunc sinite et
+    placitum laeti componite foedus."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied Latin passage. Motif labels are
+    cautious where taxonomy terms only approximate the passage evidence. No external
+    comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line locators follow the supplied stable markdown range; the verse text begins after the included title and book heading lines.
+  batch_run_id=canon-wave3-2026-07-18
+  custom_id=motif_extract:latin-vergil-aeneid-latin-gutenberg__l7561-l7581
+  passage_sha256=bc76e7f5a9df44f7a6012549b4f63c0463dc1544832118468926a61af6a273f6
+

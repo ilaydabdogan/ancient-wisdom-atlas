@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0421
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-time-marked-by-light-dark-distinction
+  motif_id: ritual_time_marked_by_light_dark_distinction
+  label: Ritual time marked by light-dark distinction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns ritual ordering of time through a light/dark boundary,
+    fitting sacred time more than sacrifice itself.
+  cautions: Single occurrence; if the passage is merely legal timing rather than symbolic
+    ritual time, sacred_law may be a secondary fit.
+  suggested_aliases:
+  - light_dark_ritual_time
+  - ritual_day_night_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transfer-of-virtue-to-pollen-through-living-animals
+  motif_id: ritual_transfer_of_virtue_to_pollen_through_living_animals
+  label: Ritual transfer of virtue to pollen through living animals
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite transferring virtue through animals into pollen fits ritualized
+    sacred exchange or transfer of power/substance.
+  cautions: Culturally specific Navajo ceremonial context should be reviewed; may
+    also relate to sacred_substance if pollen is the main focus.
+  suggested_aliases:
+  - ritual_transfer_to_pollen
+  - virtue_transfer_through_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transformation-of-images-and-corn-into-living-human-beings
+  motif_id: ritual_transformation_of_images_and_corn_into_living_human_beings
+  label: Ritual transformation of images and corn into living human beings
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animation of images into living beings matches the existing sacred_craft
+    cluster for artificial or crafted life.
+  cautions: Corn may carry creation or sacred-substance meaning; if the passage centers
+    on human origins, cosmic_origin may be relevant.
+  suggested_aliases:
+  - ritual_animation_of_images
+  - corn_and_images_become_human
+  - artificial_life_from_ritual_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-treatment-with-rattle-shouting-tobacco-and-fire-smoke
+  motif_id: ritual_treatment_with_rattle_shouting_tobacco_and_fire_smoke
+  label: Ritual treatment with rattle, shouting, tobacco, and fire smoke
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label lists ritual instruments and actions but does not reveal whether
+    the function is healing, exorcism, purification, or offering.
+  cautions: Potentially an ethnographic passage artifact; review source context and
+    culturally specific terminology before mapping.
+  suggested_aliases:
+  - ritual_healing_with_rattle_tobacco_smoke
+  - smoke_and_sound_ritual_treatment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-use-of-tree-products-before-the-deity
+  motif_id: ritual_use_of_tree_products_before_the_deity
+  label: ritual use of tree products before the deity
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Use of plant or tree products before a deity appears to be an offering
+    or ritual presentation to sacred power.
+  cautions: Do not map to axis_mundi or sacred_tree_axis unless the tree itself functions
+    as a cosmic connector; may be too specific if only cultic material detail.
+  suggested_aliases:
+  - tree_products_as_ritual_offering
+  - ritual_presentation_of_tree_products
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-vessel-creates-springs
+  motif_id: ritual_vessel_creates_springs
+  label: Ritual vessel creates springs
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A ritual vessel with generative power over water belongs with sacred
+    containers that hold or release transformative power.
+  cautions: Could also relate to sacred_waters or cosmic_origin if the spring creation
+    is etiological or world-forming.
+  suggested_aliases:
+  - vessel_creates_springs
+  - water_giving_ritual_vessel
+  - spring_creating_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-washing-and-moral-purification
+  motif_id: ritual_washing_and_moral_purification
+  label: Ritual washing and moral purification
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual washing that effects moral purification is a clear sacred-water
+    purification pattern.
+  cautions: If framed mainly as legal purity or commandment, sacred_law may be a secondary
+    mapping.
+  suggested_aliases:
+  - purifying_washing
+  - ritual_ablution_for_moral_purification
+  - water_purification_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-washings-and-sacred-orientation
+  motif_id: ritual_washings_and_sacred_orientation
+  label: Ritual washings and sacred orientation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Washings combined with prescribed orientation fit embodied ritual law
+    and ordered practice.
+  cautions: Could be split between sacred_waters and axis_mundi/world_center depending
+    on whether water or direction toward a sacred center is primary.
+  suggested_aliases:
+  - ablution_and_sacred_orientation
+  - ritual_washing_with_directional_orientation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-water-mixture-from-multiple-sources-and-four-quarters
+  motif_id: ritual_water_mixture_from_multiple_sources_and_four_quarters
+  label: ritual water mixture from multiple sources and four quarters
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual mixture of waters from multiple directions fits sacred water
+    as a purifying or cosmologically ordered medium.
+  cautions: Four-quarters symbolism may also involve world_center or axis_mundi; review
+    Navajo ceremonial context before final mapping.
+  suggested_aliases:
+  - four_quarters_ritual_water
+  - mixed_sacred_waters
+  - ritual_water_from_multiple_sources
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-address-or-gesture-at-dangerous-or-notable-rock-places
+  motif_id: ritualized_address_or_gesture_at_dangerous_or_notable_rock_places
+  label: Ritualized address or gesture at dangerous or notable rock places
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual behavior at charged landscape places, but the
+    function could be appeasement, taboo, offering, or place-spirit protocol.
+  cautions: Culturally specific and place-based; avoid flattening into axis_mundi
+    or sacred_law without evidence of cosmological center, prohibition, or exchange.
+  suggested_aliases:
+  - ritual_address_at_rock_places
+  - gesture_at_dangerous_landscape_places
+  - ritual_protocol_at_notable_rocks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual or ethnographic descriptions; preserve
+  local function and avoid promoting material details as canonical motifs without
+  recurrence.
+- For Indigenous ceremonial labels, human review should confirm source context and
+  culturally appropriate wording before final normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Draft placement suggestions only; multiple items need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0421
+  input_sha256: 78811d9c68f8a4ecb7423cf64a5d9031067add828d478c24fdfa16ceb65e1807
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-newcorpus-2026-07-18.batch-0410
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-desecration-by-a-hostile-being
+  motif_id: ritual_desecration_by_a_hostile_being
+  label: ritual desecration by a hostile being
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Desecration of ritual order by a hostile being fits violation of sacred
+    order that may provoke judgment or repair.
+  cautions: If the passage centers on ritual pollution management rather than punishment
+    or reckoning, sacred_law may be a better placement.
+  suggested_aliases:
+  - ritual desecration
+  - hostile desecration of sacred rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-destruction-and-ingestion-of-the-illicit-image
+  motif_id: ritual_destruction_and_ingestion_of_the_illicit_image
+  label: Ritual destruction and ingestion of the illicit image
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The illicit image implies idolatrous transgression and its ritual destruction
+    functions as judgment and purification of sacred order.
+  cautions: Could also relate to idol, covenant, sacrifice, or sacred_law depending
+    on whether the focus is idolatry, covenant breach, or purification procedure.
+  suggested_aliases:
+  - destruction of illicit image
+  - ritual destruction of idol
+  - ingestion of destroyed idol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-diagnosis-of-clean-and-unclean-status
+  motif_id: ritual_diagnosis_of_clean_and_unclean_status
+  label: ritual diagnosis of clean and unclean status
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Determining clean or unclean status is a ritual purity and sacred-law
+    function.
+  cautions: If the diagnosis leads primarily to offering or atonement, sacrifice may
+    be a secondary mapping.
+  suggested_aliases:
+  - clean and unclean diagnosis
+  - ritual purity diagnosis
+  - diagnosis of ritual impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-diagnosis-of-misfortune-through-taboo-confession-and-atonement
+  motif_id: ritual_diagnosis_of_misfortune_through_taboo_confession_and_atonement
+  label: Ritual diagnosis of misfortune through taboo confession and atonement
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Taboo confession and atonement for misfortune fits sacred law, ritual
+    prohibition, and restoration of order.
+  cautions: Culturally sensitive; review source context. If the atonement offering
+    is central, sacrifice or sacred_exchange may be secondary.
+  suggested_aliases:
+  - taboo confession and atonement
+  - ritual diagnosis of taboo breach
+  - misfortune diagnosed through taboo confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-disarmament-as-sign-of-truce
+  motif_id: ritual_disarmament_as_sign_of_truce
+  label: ritual disarmament as sign of truce
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Disarmament as a formal sign of truce functions as a binding peace gesture
+    or covenantal social repair.
+  cautions: May be a contextual diplomatic detail rather than a recurring motif; if
+    warfare context dominates, sacred_combat may be relevant.
+  suggested_aliases:
+  - ritual disarmament for truce
+  - disarmament as peace sign
+  - truce sign by laying down weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-disease-object-extraction
+  motif_id: ritual_disease_object_extraction
+  label: ritual disease-object extraction
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Extracting a disease-object is a ritual healing and apotropaic protection
+    pattern, which existing decisions fold under sacred_law.
+  cautions: Culturally sensitive healing practice; avoid reducing it to generic exorcism
+    without source evidence. Could relate to divine_intervention if spirit agency
+    is central.
+  suggested_aliases:
+  - disease object extraction
+  - ritual extraction of illness object
+  - healing extraction rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-divestment-or-clothing-as-sign-of-moral-state
+  motif_id: ritual_divestment_or_clothing_as_sign_of_moral_state
+  label: ritual divestment or clothing as sign of moral state
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Regulated clothing or divestment as moral sign fits sacred law and embodied
+    purity/status rules.
+  cautions: If clothing marks initiation, penitence, or mystical renunciation, initiation
+    or mystical_quest may be secondary.
+  suggested_aliases:
+  - ritual clothing as moral sign
+  - ritual divestment
+  - clothing marks moral status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-drink-replacing-wine
+  motif_id: ritual_drink_replacing_wine
+  label: Ritual drink replacing wine
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: high
+  rationale: A substituted ritual drink belongs with sacred foods, drinks, and ritual
+    substances.
+  cautions: If the point is sacrificial offering rather than consumed substance, sacrifice
+    or sacred_exchange may also apply.
+  suggested_aliases:
+  - substitute ritual drink
+  - ritual beverage replacing wine
+  - sacred drink substitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-eating-rule-linked-to-hunting-success
+  motif_id: ritual_eating_rule_linked_to_hunting_success
+  label: ritual eating rule linked to hunting success
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A food rule tied to success and taboo observance fits sacred law and
+    ritual prohibition.
+  cautions: Culturally sensitive subsistence context; if the rule centers on reciprocity
+    with animal spirits, sacred_exchange may be secondary.
+  suggested_aliases:
+  - hunting success eating rule
+  - ritual food taboo for hunting
+  - eating rule governing hunt success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-embodiment-of-gods-through-masks
+  motif_id: ritual_embodiment_of_gods_through_masks
+  label: ritual embodiment of gods through masks
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Masks ritually making gods present fits divine manifestation through
+    enacted embodiment.
+  cautions: Culturally sensitive ritual material; review whether the source describes
+    embodiment, representation, impersonation, healing rite, or ceremonial role before
+    final indexing.
+  suggested_aliases:
+  - masked divine embodiment
+  - gods embodied through masks
+  - ritual mask theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence ritual or purity labels; preserve
+  local detail as evidence notes rather than promoting new taxonomy families.
+- For Inuit and Navajo ritual labels, human review should check terminology, cultural
+  specificity, and whether source evidence supports broad motif indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission or origin claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-18'
+batch:
+  run_id: normalization-newcorpus-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-newcorpus-2026-07-18-batch-0410
+  input_sha256: 22092a9f6ab331ebf2da296813956bf8f2eba629f720e4a8449c7f71e8345cf1
+
