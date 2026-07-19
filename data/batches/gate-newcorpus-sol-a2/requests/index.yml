@@ -1,0 +1,63 @@
+---
+batch_request_index_version: '1'
+run_id: gate-newcorpus-sol-a2
+source_run: new-corpus-2026-07-18
+created_at: '2026-07-19T04:27:02Z'
+updated_at: '2026-07-19T05:49:28Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-sol
+honeypot_count: 71
+shards:
+- shard_id: shard-0001
+  path: data/batches/gate-newcorpus-sol-a2/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 19626388
+  sha256: 4612c65ca5bd3d9301d338332b97f3e06a264d8bbe45eab66a9f6d2535c738ca
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-newcorpus-sol-a2/results/shard-0001.output.jsonl
+  output_sha256: '011648f2f0deb02dc644c42f2ca589df11e26251edaa745bfb85f0cf9757f435'
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-19T04:50:01Z'
+- shard_id: shard-0002
+  path: data/batches/gate-newcorpus-sol-a2/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 19570014
+  sha256: 4bcff9b7d2d45fd6dabb25efb7ad24b09d2ac0edb933c47e925d2c22a94f915c
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-newcorpus-sol-a2/results/shard-0002.output.jsonl
+  output_sha256: 15eb908baf984e9cc034f9cf6f2a6fa25910891e472e8c39e6860d73efba768b
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-19T05:12:36Z'
+- shard_id: shard-0003
+  path: data/batches/gate-newcorpus-sol-a2/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 19350691
+  sha256: 807683f9d0b4527db72735b3808a5caadc91ae3e2857b5e85e287e312cbd48d2
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-newcorpus-sol-a2/results/shard-0003.output.jsonl
+  output_sha256: b0b0076018c264aa7747658713cb0867806bf2ee42184d4ec0f48cb5457bb6dc
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-19T05:33:43Z'
+- shard_id: shard-0004
+  path: data/batches/gate-newcorpus-sol-a2/requests/shard-0004.jsonl
+  request_count: 650
+  bytes: 12987444
+  sha256: f3a250109feeb4ae1405e0533aaa2c67864cf16e6a1a955d2e163b1bfc82e6f6
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: completed
+  output_path: data/batches/gate-newcorpus-sol-a2/results/shard-0004.output.jsonl
+  output_sha256: c474ae1dbea6326cefcf4b8ff98393af0e1149604c0aed53adebc4a61d1cff45
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-19T05:49:28Z'
+
