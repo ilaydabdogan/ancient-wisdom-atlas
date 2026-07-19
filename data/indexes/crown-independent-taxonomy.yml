@@ -1,0 +1,95 @@
+crown_experiment_version: '1'
+preregistration: docs/prereg-crown-independent-taxonomy.md
+method: blind KMeans taxonomies (iso & con separately) -> per-pile co-occurrence webs
+  -> optimal centroid alignment -> Spearman of aligned edge weights vs 500-permutation
+  null; topology backup
+primary_k: 64
+verdict: STRONG
+interpretation: STRONG = aligned structure beats chance AND webs share topology; the
+  isolated peoples' independently-built web matches Eurasia's without ever being mapped
+  into it.
+results:
+- k: 40
+  alignment_cosine: 0.8137
+  iso_edges: 311
+  con_edges: 301
+  reproduction: 0.5305
+  iso_edges_tested: 311
+  jointly_present_weight_rho: 0.1591
+  null_mean: 0.3853
+  null_sd: 0.0195
+  null_max: 0.4534
+  permutations_beaten: 500/500
+  p_value: 0.002
+  topology_iso:
+    nodes: 40
+    edges: 311
+    giant_frac: 1.0
+    mean_degree: 15.55
+    clustering: 0.561
+    modularity: 0.204
+  topology_con:
+    nodes: 40
+    edges: 301
+    giant_frac: 1.0
+    mean_degree: 15.05
+    clustering: 0.583
+    modularity: 0.265
+  degree_ks_stat: 0.2
+  degree_ks_p: 0.4046
+- k: 64
+  alignment_cosine: 0.8058
+  iso_edges: 763
+  con_edges: 740
+  reproduction: 0.5439
+  iso_edges_tested: 763
+  jointly_present_weight_rho: 0.1212
+  null_mean: 0.3668
+  null_sd: 0.014
+  null_max: 0.4063
+  permutations_beaten: 500/500
+  p_value: 0.002
+  topology_iso:
+    nodes: 64
+    edges: 763
+    giant_frac: 1.0
+    mean_degree: 23.844
+    clustering: 0.539
+    modularity: 0.211
+  topology_con:
+    nodes: 64
+    edges: 740
+    giant_frac: 1.0
+    mean_degree: 23.125
+    clustering: 0.588
+    modularity: 0.296
+  degree_ks_stat: 0.125
+  degree_ks_p: 0.7036
+- k: 90
+  alignment_cosine: 0.8159
+  iso_edges: 1475
+  con_edges: 1382
+  reproduction: 0.5112
+  iso_edges_tested: 1475
+  jointly_present_weight_rho: 0.157
+  null_mean: 0.346
+  null_sd: 0.0097
+  null_max: 0.3831
+  permutations_beaten: 500/500
+  p_value: 0.002
+  topology_iso:
+    nodes: 90
+    edges: 1475
+    giant_frac: 1.0
+    mean_degree: 32.778
+    clustering: 0.511
+    modularity: 0.193
+  topology_con:
+    nodes: 89
+    edges: 1382
+    giant_frac: 1.0
+    mean_degree: 31.056
+    clustering: 0.566
+    modularity: 0.295
+  degree_ks_stat: 0.173
+  degree_ks_p: 0.116
