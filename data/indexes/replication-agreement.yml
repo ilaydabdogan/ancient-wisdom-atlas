@@ -1,6 +1,6 @@
 ---
 replication_agreement_version: '1'
-generated_at: '2026-07-18T18:29:46Z'
+generated_at: '2026-07-19T16:43:48Z'
 runs:
   motif-extraction-2026-07-17-azure-wave1:
     parsed: 3217
@@ -14,9 +14,6 @@ runs:
   replication-gpt51-2026-07-17:
     parsed: 1287
     parse_failed: 2097
-  replication-gpt56luna-2026-07-18:
-    parsed: 3382
-    parse_failed: 1
 pairwise:
 - run_a: motif-extraction-2026-07-17-azure-wave1
   run_b: replication-gpt54-2026-07-17
@@ -87,29 +84,6 @@ pairwise:
     hindu: 0.4835
     persian: 0.4633
     celtic-welsh: 0.383
-- run_a: motif-extraction-2026-07-17-azure-wave1
-  run_b: replication-gpt56luna-2026-07-18
-  shared_passages: 3214
-  mean_raw_jaccard: 0.549
-  mean_canonical_jaccard: 0.5679
-  exact_canonical_match_rate: 0.2607
-  per_tradition_canonical_jaccard:
-    mesoamerican: 0.7754
-    confucian: 0.7022
-    biblical: 0.6706
-    egyptian: 0.648
-    daoist: 0.6156
-    islamic: 0.5854
-    celtic-irish: 0.567
-    celtic-welsh: 0.5597
-    hindu: 0.5547
-    islamicate-folklore: 0.549
-    norse: 0.5473
-    buddhist: 0.5438
-    greek: 0.5336
-    finnish-karelian: 0.5303
-    mesopotamian: 0.5102
-    persian: 0.4751
 - run_a: replication-gpt54-2026-07-17
   run_b: replication-gpt56terra-2026-07-17
   shared_passages: 3090
@@ -156,29 +130,6 @@ pairwise:
     islamicate-folklore: 0.383
     daoist: 0.325
     celtic-welsh: 0.2727
-- run_a: replication-gpt54-2026-07-17
-  run_b: replication-gpt56luna-2026-07-18
-  shared_passages: 3089
-  mean_raw_jaccard: 0.5903
-  mean_canonical_jaccard: 0.607
-  exact_canonical_match_rate: 0.3309
-  per_tradition_canonical_jaccard:
-    mesoamerican: 0.7324
-    confucian: 0.73
-    daoist: 0.7167
-    norse: 0.6927
-    islamic: 0.6737
-    biblical: 0.665
-    mesopotamian: 0.6535
-    egyptian: 0.6524
-    buddhist: 0.6007
-    celtic-irish: 0.5873
-    greek: 0.5766
-    finnish-karelian: 0.5727
-    islamicate-folklore: 0.555
-    hindu: 0.5516
-    celtic-welsh: 0.5196
-    persian: 0.4978
 - run_a: replication-gpt56terra-2026-07-17
   run_b: replication-gpt51-2026-07-17
   shared_passages: 1278
@@ -202,50 +153,4 @@ pairwise:
     greek: 0.3181
     persian: 0.2854
     celtic-welsh: 0.2248
-- run_a: replication-gpt56terra-2026-07-17
-  run_b: replication-gpt56luna-2026-07-18
-  shared_passages: 3367
-  mean_raw_jaccard: 0.5957
-  mean_canonical_jaccard: 0.615
-  exact_canonical_match_rate: 0.3855
-  per_tradition_canonical_jaccard:
-    mesoamerican: 0.7572
-    confucian: 0.7487
-    egyptian: 0.716
-    islamic: 0.7125
-    daoist: 0.7121
-    buddhist: 0.7111
-    biblical: 0.6408
-    norse: 0.6185
-    celtic-irish: 0.5823
-    hindu: 0.575
-    celtic-welsh: 0.5726
-    greek: 0.5641
-    finnish-karelian: 0.5604
-    persian: 0.5428
-    islamicate-folklore: 0.5424
-    mesopotamian: 0.4925
-- run_a: replication-gpt51-2026-07-17
-  run_b: replication-gpt56luna-2026-07-18
-  shared_passages: 1287
-  mean_raw_jaccard: 0.389
-  mean_canonical_jaccard: 0.4015
-  exact_canonical_match_rate: 0.1546
-  per_tradition_canonical_jaccard:
-    mesoamerican: 0.6944
-    mesopotamian: 0.6464
-    confucian: 0.5586
-    norse: 0.4699
-    biblical: 0.4641
-    buddhist: 0.4568
-    celtic-irish: 0.4314
-    egyptian: 0.419
-    islamicate-folklore: 0.4014
-    hindu: 0.3776
-    finnish-karelian: 0.3763
-    islamic: 0.3674
-    daoist: 0.3667
-    greek: 0.3515
-    persian: 0.3329
-    celtic-welsh: 0.2616
 
