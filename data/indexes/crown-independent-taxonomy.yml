@@ -1,3 +1,4 @@
+---
 crown_experiment_version: '1'
 preregistration: docs/prereg-crown-independent-taxonomy.md
 method: blind KMeans taxonomies (iso & con separately) -> per-pile co-occurrence webs
@@ -37,7 +38,7 @@ results:
     modularity: 0.265
   degree_ks_stat: 0.2
   degree_ks_p: 0.4046
-  matched_bonds: null
+  matched_bonds:
 - k: 64
   alignment_cosine: 0.8058
   iso_edges: 763
@@ -71,10 +72,10 @@ results:
     - return of captive woman to chosen husband
     - dangerous supernatural spouse and bride ordeal
     - marriage obtained through supernatural display and threat
-    - "rescue of a mistreated bride followed by pursuit from the spouse\u2019s kin"
+    - rescue of a mistreated bride followed by pursuit from the spouse’s kin
     - marriage refusal and chosen supernatural-or-named bridegroom opening
     iso_cluster_b:
-    - "marriage to animal-associated woman or chief\u2019s daughter"
+    - marriage to animal-associated woman or chief’s daughter
     - kinship and marriage provide access to game
     - marriage right tied to bravery before an animal chief
     - marriage cattle as basis of continuing household affiliation
@@ -652,7 +653,7 @@ results:
     - sacred tree and watery approach to divine meeting place
     - sacred settlement at a holy house
     - sacred sanctuary requiring pilgrimage
-    - "sacred object\u2019s dwelling governed by divine will"
+    - sacred object’s dwelling governed by divine will
     iso_weight: 0.993
     con_weight: 0.689
     iso_traditions:
@@ -1542,7 +1543,7 @@ results:
     - zulu
     - zuni
   - iso_cluster_a:
-    - "marriage to animal-associated woman or chief\u2019s daughter"
+    - marriage to animal-associated woman or chief’s daughter
     - kinship and marriage provide access to game
     - marriage right tied to bravery before an animal chief
     - marriage cattle as basis of continuing household affiliation
@@ -1775,4 +1776,9 @@ results:
     modularity: 0.295
   degree_ks_stat: 0.173
   degree_ks_p: 0.116
-  matched_bonds: null
+  matched_bonds:
+corpus:
+  iso_records: 5762
+  iso_labels: 29582
+  con_records: 19902
+  con_labels: 99929
