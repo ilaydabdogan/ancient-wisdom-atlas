@@ -141,7 +141,7 @@ const uniqueMotifTotal = traditions.reduce(
       </div>
       <p class="tradition-jump" style="margin-top: 1.6rem;">
         {traditions.map((t, i) => (
-          <span>{i > 0 && <span class="dot" aria-hidden="true" style="color: var(--gold); margin: 0 0.35rem;">·</span>}<a href={`#${t.id}`}>{humanize(t.id)}</a></span>
+          <>{i > 0 && <span class="dot" aria-hidden="true" style="color: var(--gold); margin: 0 0.35rem;">·</span>}<a href={`#${t.id}`}>{humanize(t.id)}</a>{' '}</>
         ))}
       </p>
     </section>
