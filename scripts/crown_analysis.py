@@ -203,6 +203,8 @@ out = dict(crown_experiment_version="1",
            interpretation="STRONG = aligned structure beats chance AND webs share "
                           "topology; the isolated peoples' independently-built web "
                           "matches Eurasia's without ever being mapped into it.",
+           corpus=dict(iso_records=len(records["iso"]), iso_labels=len(labels_in["iso"]),
+                       con_records=len(records["con"]), con_labels=len(labels_in["con"])),
            results=results)
 import yaml
 with open(os.path.join(ROOT, "data/indexes/crown-independent-taxonomy.yml"), "w") as f:

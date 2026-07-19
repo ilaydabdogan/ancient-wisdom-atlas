@@ -63,6 +63,35 @@ const maxX = xOf(nMax);
 const meanX = xOf(nMean);
 const permTotal = primary.permutations_beaten.split('/')[1];
 
+// —— the concrete bonds: pattern-pairings both blind webs formed ————————
+// Read straight from the k=64 result object. Each bond is a diptych: the
+// isolated world's two clusters that bond, and the old world's aligned pair.
+const humanizeSlug = (s) =>
+  String(s)
+    .split('-')
+    .map((w) => (w ? w[0].toUpperCase() + w.slice(1) : w))
+    .join(' ');
+const CHIP_LIMIT = 8;
+const rawBonds = primary.matched_bonds ?? [];
+const bondTotal = rawBonds.length;
+const bonds = rawBonds.slice(0, 12).map((b) => {
+  const trads = [...new Set(b.iso_traditions ?? [])].map(humanizeSlug);
+  const lo = Math.min(b.iso_weight, b.con_weight);
+  const hi = Math.max(b.iso_weight, b.con_weight);
+  return {
+    isoA: (b.iso_cluster_a ?? []).slice(0, 3),
+    isoB: (b.iso_cluster_b ?? []).slice(0, 3),
+    conA: (b.con_cluster_a ?? []).slice(0, 3),
+    conB: (b.con_cluster_b ?? []).slice(0, 3),
+    tradCount: trads.length,
+    tradsShown: trads.slice(0, CHIP_LIMIT),
+    moreCount: Math.max(0, trads.length - CHIP_LIMIT),
+    // Honest, data-derived (not fabricated): a bond whose two sides carry very
+    // lopsided weight is a looser weave than one where both sides pull evenly.
+    looser: hi > 0 && lo / hi < 0.4,
+  };
+});
+
 const crumbs = [
   { label: 'Findings', href: '/findings/' },
   { label: 'The Crown' },
@@ -157,6 +186,62 @@ const crumbs = [
     .crown-limits ol { margin: 1rem 0 0; padding-left: 1.3rem; }
     .crown-limits li { margin-bottom: 0.9rem; color: var(--ink-soft); font-size: 0.96rem; line-height: 1.6; }
     .crown-limits li strong { color: var(--ink); font-weight: 400; }
+
+    /* —— the bonds both worlds formed · concrete diptychs —— */
+    .bonds-list { margin: 1.9rem 0 0; display: flex; flex-direction: column; gap: 1.5rem; }
+    .bond {
+      border: 1px solid var(--gold-faint); border-radius: 3px;
+      background: color-mix(in srgb, var(--gold) 4%, var(--vellum));
+      padding: 1rem 1.1rem 1.05rem;
+    }
+    .bond-clasp {
+      display: flex; align-items: center; justify-content: center; gap: 0.6rem;
+      font-size: 0.63rem; letter-spacing: 0.16em; text-transform: uppercase;
+      color: var(--gold); margin: 0 0 0.95rem; text-shadow: var(--glow);
+    }
+    .bond-clasp::before, .bond-clasp::after {
+      content: ""; height: 0; flex: 1 1 auto; max-width: 4.5rem;
+      border-top: 1px solid var(--gold-faint);
+    }
+    .bond-clasp .star { font-size: 0.72rem; line-height: 1; }
+    .bond-diptych { display: grid; grid-template-columns: 1fr 1fr; }
+    .bond-panel { padding: 0 1.15rem; min-width: 0; }
+    .bond-panel.iso { padding-left: 0; }
+    .bond-panel.con { padding-right: 0; border-left: 1px solid var(--gold-faint); }
+    .bond-world {
+      font-size: 0.62rem; letter-spacing: 0.13em; text-transform: uppercase;
+      margin: 0 0 0.6rem;
+    }
+    .bond-panel.iso .bond-world { color: var(--gold); }
+    .bond-panel.con .bond-world { color: var(--rubric); }
+    .bond-cluster { list-style: none; margin: 0; padding: 0; }
+    .bond-cluster li {
+      font-size: 0.83rem; line-height: 1.4; color: var(--ink-soft);
+      font-style: italic; margin: 0 0 0.16rem;
+    }
+    .bond-cluster li:first-child { color: var(--ink); }
+    .bond-join {
+      display: flex; align-items: center; gap: 0.5rem;
+      color: var(--gold); margin: 0.5rem 0; font-size: 0.72rem;
+    }
+    .bond-join::before, .bond-join::after {
+      content: ""; height: 0; flex: 1 1 auto; border-top: 1px solid var(--gold-faint);
+    }
+    .bond-foot { margin: 0.95rem 0 0; padding-top: 0.75rem; border-top: 1px solid var(--line); }
+    .bond-foot-label {
+      font-size: 0.7rem; color: var(--ink-faint); letter-spacing: 0.02em; margin: 0 0 0.45rem;
+    }
+    .bond-loose { color: var(--rubric); font-style: italic; }
+    .bonds-note { margin-top: 1.3rem; }
+
+    @media (max-width: 40rem) {
+      .bond-diptych { grid-template-columns: 1fr; }
+      .bond-panel { padding: 0; }
+      .bond-panel.con {
+        border-left: 0; border-top: 1px solid var(--gold-faint);
+        margin-top: 1.1rem; padding-top: 1.1rem;
+      }
+    }
 
     @media (max-width: 34rem) {
       .cx-cols { grid-template-columns: 1fr; }
@@ -418,6 +503,78 @@ const crumbs = [
           the <a href="#limits"> honest limits</a> below.
         </figcaption>
       </figure>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- ✦ the bonds both worlds formed ------------------------------- -->
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">The bonds themselves · {primaryK} families each</p>
+        <h2>The bonds both worlds formed</h2>
+        <p class="dropcap">
+          The number says the two webs agree. This is what the agreement is made
+          <em>of</em>. Each pairing below was raised twice over — once inside the
+          isolated world's blind web, once inside the old world's — and aligned only
+          afterward, by meaning. Neither builder ever saw the other's shelves. The
+          likeness is in what each, alone, chose to <em>join</em>.
+        </p>
+        <p class="footnote">
+          The alignment is honest, not exact. Some pairings sit flush; others are a
+          looser weave — and that looseness is the same {fmtPct(1 - primary.reproduction)}
+          of each web that finds no partner at all. The loosest here are marked, not hidden.
+        </p>
+      </div>
+
+      <div class="bonds-list">
+        {bonds.map((b) => (
+          <figure class="bond">
+            <figcaption class="bond-clasp">
+              <span class="star" aria-hidden="true">✦</span>
+              both worlds formed this
+              <span class="star" aria-hidden="true">✦</span>
+            </figcaption>
+            <div class="bond-diptych">
+              <div class="bond-panel iso">
+                <p class="bond-world">The isolated world</p>
+                <ul class="bond-cluster">
+                  {b.isoA.map((l) => (<li>{l}</li>))}
+                </ul>
+                <p class="bond-join" aria-hidden="true"><span class="star">✦</span></p>
+                <ul class="bond-cluster">
+                  {b.isoB.map((l) => (<li>{l}</li>))}
+                </ul>
+              </div>
+              <div class="bond-panel con">
+                <p class="bond-world">The old world</p>
+                <ul class="bond-cluster">
+                  {b.conA.map((l) => (<li>{l}</li>))}
+                </ul>
+                <p class="bond-join" aria-hidden="true"><span class="star">✦</span></p>
+                <ul class="bond-cluster">
+                  {b.conB.map((l) => (<li>{l}</li>))}
+                </ul>
+              </div>
+            </div>
+            <div class="bond-foot">
+              <p class="bond-foot-label">
+                Woven across {b.tradCount} isolated traditions
+                {b.looser && (<span class="bond-loose"> · a looser weave</span>)}
+              </p>
+              <ul class="chips">
+                {b.tradsShown.map((t) => (<li class="chip">{t}</li>))}
+                {b.moreCount > 0 && (<li class="chip more">+{b.moreCount} more</li>)}
+              </ul>
+            </div>
+          </figure>
+        ))}
+      </div>
+
+      <p class="footnote bonds-note">
+        Twelve of {bondTotal} bonds, kept in the weight order the index ranks them;
+        the full set lives in <a href="/lab/">the Lab</a>. Every phrase is a family's
+        own name for itself, clustered blind — not a category we laid over it.
+      </p>
     </section>
 
     <hr class="asterism" />
