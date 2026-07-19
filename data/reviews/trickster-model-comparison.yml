@@ -1,0 +1,386 @@
+---
+trickster_model_comparison_version: '1'
+generated_at: '2026-07-19T16:58:04Z'
+note: Same questions to each model with NO Atlas access (ungrounded, training-only),
+  plus one Atlas-grounded answer. Verbatim, for honest side-by-side comparison.
+models_ungrounded:
+- gpt-5.5
+- gpt-5.6-terra
+- gpt-5.6-luna
+- gpt-5.4-std
+- gpt-5.1-std
+grounder: gpt-5.6-terra
+questions:
+- id: function
+  question: In comparative mythology, what is the trickster figure fundamentally trying
+    to do? What is its function?
+  ungrounded:
+    gpt-5.5: |-
+      In comparative mythology, the trickster is fundamentally trying to cross, confuse, and renegotiate boundaries: human/animal, sacred/profane, life/death, law/desire, nature/culture. Its function is not merely “comic mischief,” but cultural transformation through disruption.
+
+      Coyote in many Native North American traditions steals fire, releases game, bungles creation, and thereby explains why the world is imperfect. Raven among Northwest Coast peoples brings light but through theft and appetite. Anansi in Akan/Ashanti stories wins stories, wisdom, or food by cunning, modeling survival under unequal power. Hermes in Greece steals Apollo’s cattle and becomes patron of exchange, travel, and mediation. Eshu-Elegba in Yoruba religion opens and scrambles communication between gods and humans.
+
+      The trickster breaks order so a new, more livable order can appear.
+    gpt-5.6-terra: 'Across traditions, the trickster is not merely “trying to cause
+      trouble.” Its fundamental action is boundary-crossing: between human and divine,
+      life and death, order and disorder, sacred law and appetite. By lying, stealing,
+      shape-shifting, and making mistakes, it exposes the fragility and contingency
+      of social rules. Loki in Norse myth destabilizes the gods’ order but also helps
+      procure their treasures; West African and Caribbean Anansi wins food, stories,
+      or advantage through wit; Yoruba Èṣù/Elegba creates ambiguity at crossroads
+      and forces humans to recognize competing perspectives; Native North American
+      Coyote often combines obscene folly with culture-bringing acts such as obtaining
+      fire. Tricksters therefore function as agents of renewal: they release tensions,
+      test norms, explain why the world is imperfect, and make transformation possible.'
+    gpt-5.6-luna: 'In comparative mythology, the trickster is not merely a maker of
+      chaos. It exploits ambiguity—between gods and humans, law and appetite, life
+      and death—to disrupt arrangements and expose their contingency. Its function
+      is transformative and diagnostic: by violating rules, it reveals why rules exist,
+      redistributes goods or knowledge, and makes renewal possible. Hermes steals
+      Apollo’s cattle and invents the lyre; Coyote acquires fire or reshapes the world;
+      Anansi wins stories through cunning; Eshu (Èṣù) unsettles Yoruba assumptions
+      and mediates between humans and gods; Raven brings light to Northwest Coast
+      peoples. Loki shows the darker possibility: boundary-crossing may threaten cosmic
+      order. Tricksters can restore norms after inversion, but also criticize authority.
+      “The trickster” is a comparative pattern, not a universal character.'
+    gpt-5.4-std: 'In comparative mythology, the trickster’s core function is to disrupt
+      fixed boundaries so a culture can think about how order is made. Tricksters
+      cross lines—human/divine, life/death, male/female, culture/nature—and by breaking
+      rules they expose them. Hermes in Greek myth steals Apollo’s cattle and invents
+      the lyre; the theft generates exchange, music, and negotiation. Loki in Norse
+      myth destabilizes the gods’ order, sometimes helping, sometimes destroying,
+      showing that cosmic stability is always precarious. Coyote in many Native North
+      American traditions and Anansi in Akan tradition use appetite, deceit, and improvisation
+      to bring fire, stories, or survival knowledge into the world. So the trickster
+      is not just a clown or villain: it is a cultural engine of ambiguity, creativity,
+      and critique, often tied to moments of transition and change.'
+    gpt-5.1-std: 'The trickster’s core function is to disrupt and reconfigure established
+      orders—cosmic, social, and psychological. Figures like Loki in Norse myth, Coyote
+      in Native North American traditions, Anansi in West Africa, and Hermes in Greece
+      violate boundaries (divine/human, life/death, male/female, sacred/profane) to
+      expose their arbitrariness. By lying, stealing, shape-shifting, and mocking
+      authority, they generate crises that force systems to adapt: Coyote brings fire
+      and death; Maui in Polynesia slows the sun; Hermes invents the lyre after stealing
+      Apollo’s cattle. Tricksters thus catalyze creation, cultural innovation, and
+      moral reflection. They embody the unruly, creative side of chaos, showing that
+      order is not given but negotiated—and that wisdom often emerges through transgression
+      and its consequences.'
+  atlas_grounded: 'The evidence supports defining the trickster’s fundamental function
+    as boundary-crossing rather than a single fixed role or moral purpose. Across
+    68 traditions and 3,278 tagged occurrences, its dominant motif is “Trickster At
+    The Boundary”: 2,319 occurrences in 65 traditions. Liminality is therefore its
+    empirical core. It reliably travels with sacred knowledge (25 traditions), shapeshifting
+    (21), death and transformation (16), sacred exchange (14), sacred love (13), miraculous
+    child (12), hero journey (10), and culture hero (10). Yet it does not enact one
+    conserved cross-cultural pattern: in the preregistered blind comparison, it appeared
+    in only 1 of the 24 strongest matched cross-world bonds. Thus the trickster functions
+    as a boundary-crosser whose particular connections vary radically by tradition:
+    universal in presence, singular in structure.'
+- id: companions
+  question: Across the world's mythologies, which other mythic figures or recurring
+    patterns does the trickster most often appear together with?
+  ungrounded:
+    gpt-5.5: |-
+      Tricksters most often cluster with **creator/culture-hero figures** and with **ordered, law-giving gods** whom they mock, assist, or sabotage. In Native North America, **Coyote** and **Raven** steal fire, release light, shape landscapes, and repeatedly botch creation. In West Africa and the diaspora, **Anansi** bargains with **Nyame**, while **Eshu/Èṣù-Elegba** mediates between humans and the orishas, making communication itself unstable. In Greece, **Hermes** appears beside **Apollo** and **Zeus** as thief, messenger, and boundary-crosser. Norse **Loki** is inseparable from **Odin** and **Thor**, alternately solving and causing divine crises.
+
+      Recurring patterns include the **bungling demiurge**, the **animal-transformer**, the **sacred thief** who steals fire or light, the **sexual glutton**, and the **liminal mediator** between life/death, gods/humans, culture/nature.
+    gpt-5.6-terra: 'Tricksters commonly cluster with creators, culture heroes, rulers,
+      monsters, and foolish “dupes.” In many Indigenous North American traditions,
+      Coyote or Raven is both trickster and culture hero: stealing fire, releasing
+      water, or arranging the world, often in tension with a higher creator. West
+      African Anansi bargains and competes with the sky-god Nyame, while also outwitting
+      stronger animals such as Leopard, Python, and Tiger. Norse Loki appears beside
+      the ordered gods—especially Odin and Thor—whose authority his schemes destabilize,
+      and beside giants, his frequent allies or victims. Tricksters also pair with
+      death and the underworld: Māori Māui tries to defeat the death-goddess Hine-nui-te-pō,
+      but fails. A recurrent pattern is the clever weak figure defeating a powerful
+      but stupid predator, king, ogre, or demon.'
+    gpt-5.6-luna: 'The trickster most often appears beside a **culture hero or creator**,
+      whose order he disrupts, steals, or accidentally establishes. In Northwest Coast
+      traditions, Raven steals light from a powerful sky chief; among many Indigenous
+      North American peoples, Coyote alternately assists and frustrates creators and
+      humans. In Akan mythology, Anansi bargains with Nyame, the sky god, while in
+      Yoruba religion Èṣù mediates among the orishas and exposes the limits of divination.
+      Tricksters also cluster around **high gods and heroic brothers**: Loki accompanies
+      Odin and Thor, yet becomes their dangerous antagonist; Hermes competes with
+      Apollo while serving Zeus. Recurring patterns include theft of fire or food,
+      boundary-crossing between worlds, sexual inversion, shapeshifting, and descent
+      into death or the underworld. They commonly end by founding customs unintentionally—or
+      suffering ritual punishment.'
+    gpt-5.4-std: 'In comparative mythology, tricksters most often cluster with **culture
+      heroes**, **creator/deity figures**, and **threshold guardians**. They frequently
+      appear as the unruly counterpart to a high god: **Loki** with **Odin** and Thor
+      in Norse myth, **Hermes** among Zeus’s Olympians in Greece, or **Eshu-Elegba**
+      mediating between humans and the **orisha** in Yoruba tradition. They also accompany
+      or become **culture bringers**, stealing fire, food, light, or knowledge: **Coyote**
+      in Plateau and Plains traditions, **Raven** on the Northwest Coast, and **Anansi**
+      in Akan stories all obtain essentials for humanity through deceit. Another common
+      pairing is with the **dupe or rigid authority figure**—the boastful stronger
+      animal, chief, priest, or devil whom the trickster outwits. Structurally, tricksters
+      recur wherever myth explores **boundary crossing**, inversion, and the unstable
+      passage from chaos to social order.'
+    gpt-5.1-std: |-
+      The trickster most often appears with:
+
+      - **High god / sky father**: e.g., Loki with Odin (Norse), Coyote with the Creator (many Native American traditions), Anansi under Nyame (Ashanti). The trickster tests or subverts divine order.
+      - **Culture hero or civilizing figure**: Maui (Polynesia) and Prometheus (Greek) blend trickster traits with the role of bringer of fire or skills; Raven in the Pacific Northwest both steals light and organizes the world.
+      - **Death or underworld powers**: Hermes as psychopomp (Greek), Eshu at the crossroads (Yoruba); tricksters mediate between living and dead or fate and chance.
+      - **Female figures of sovereignty or sexuality**: Loki with Freyja, Krishna with the gopīs; erotic mischief often marks liminal transitions.
+      - **Monsters or boundary guardians**: tricksters clash or collude with dragons, giants, or ogres (e.g., Sun Wukong vs. celestial armies in Chinese lore).
+  atlas_grounded: |-
+    Across 68 traditions and 3,278 tagged occurrences, the trickster’s dominant pattern is **“Trickster At The Boundary”**: 2,319 occurrences in 65 traditions. Its most consistently associated motifs are **sacred knowledge** (25 traditions), **shapeshifter** (21), and **death and transformation** (16). It also frequently appears with **sacred exchange** (14), **sacred love** (13), **miraculous child** (12), **hero journey** (10), and **culture hero** (10).
+
+    However, these are conserved co-occurrences, not a single universal trickster package. In the preregistered blind comparison of isolated-peoples and connected Old World taxonomies, the trickster appeared in only **1 of the 24** strongest matched cross-world bonds. Thus it is nearly universal in presence—**68 traditions**—but unusually nonconvergent in its relational structure: it appears widely, yet connects differently across traditions.
+- id: universal
+  question: Is the trickster essentially the SAME figure across all cultures, or fundamentally
+    different in different places? And why does such a figure recur across unconnected
+    peoples?
+  ungrounded:
+    gpt-5.5: |-
+      The trickster is not “the same god in disguise” everywhere, but a recurring *type*: a boundary-crosser who breaks rules, exposes hypocrisy, and often creates culture by accident or theft. Coyote in many Native North American traditions is comic, sexual, hungry, and world-shaping; Raven on the Northwest Coast steals light; Anansi in Akan/Caribbean tales wins by verbal cunning; Eshu-Elegba in Yoruba religion governs crossroads, messages, and ambiguity; Loki in Norse myth is more destructive, entangled with cosmic catastrophe; Hermes is a thief and mediator but also a civilized patron of exchange.
+
+      The recurrence is unsurprising: all societies need myths about rule-breaking, appetite, deception, and change. Tricksters dramatize the unstable edges—human/animal, sacred/profane, order/chaos—where culture defines itself.
+    gpt-5.6-terra: 'Tricksters are neither one universal character nor wholly unrelated
+      inventions. They are a recurrent *structural role*: boundary-crossers who expose
+      rules by breaking them, mediate wild and social worlds, and turn weakness into
+      advantage. But each tradition gives that role distinct stakes. West African
+      Anansi wins through verbal cunning amid power asymmetry; Yoruba Èṣù/Elegba governs
+      crossroads, ambiguity, and ritual communication; Lakota Iktomi can be comic,
+      obscene, and morally cautionary; Norse Loki’s transformations drive the gods
+      toward catastrophe; Greek Hermes is also a legitimate patron of exchange and
+      theft; Māori Māui is an inventive culture hero. Recurrence likely reflects common
+      human conditions—testing norms, trade and translation, uncertainty, hunger,
+      sexuality, and inequality—rather than diffusion alone. “Trickster” is thus an
+      analytical family resemblance, not a single primordial figure.'
+    gpt-5.6-luna: The trickster is a recurring **role**, not a single universal character.
+      Across cultures, tricksters cross boundaries—between human and animal, order
+      and chaos, sacred and profane—and expose the fragility of rules. Yet their meanings
+      differ sharply. Anansi, the Akan spider of West Africa and the Caribbean, wins
+      through wit and often acquires knowledge; Coyote in many Indigenous North American
+      traditions is simultaneously creator, fool, and dangerous transgressor; Loki
+      in Norse myth is a destabilizing shape-shifter whose cunning ultimately contributes
+      to Ragnarök. Hermes, by contrast, is a divine patron of exchange, travel, theft,
+      and mediation. Such figures recur because all societies need stories about intelligence
+      confronting power, the social uses of misrule, and the unpredictable forces
+      that generate change. Similar human problems produce convergent motifs, though
+      historical borrowing also explains some parallels.
+    gpt-5.4-std: |-
+      The trickster is best seen as a recurrent *type*, not the same figure everywhere. Coyote in many Native North American traditions, Anansi in Akan and Caribbean lore, Eshu-Elegba in Yoruba religion, Loki in Norse myth, and Raven on the Northwest Coast all break rules, invert hierarchies, steal, deceive, and often create culture through mischief. But they are not interchangeable: Eshu is a sacred divine mediator tied to sacrifice and language; Loki becomes a cosmic enemy; Anansi is a clever social underdog; Raven is both creator and glutton.
+
+      Why does the type recur? Because many societies imagine a boundary-crossing figure who exposes the instability of rules, explains how goods like fire or stories were obtained, releases social tension through humor, and dramatizes the ambivalence of intelligence itself: creativity and disruption are inseparable.
+    gpt-5.1-std: |-
+      The trickster is neither simply “the same” nor wholly different across cultures. Figures like Loki (Norse), Coyote (many Native North American peoples), Anansi (Akan), Hermes (Greek), Eshu (Yoruba), and Sun Wukong (Chinese) share core traits: boundary-crossing, rule-breaking, shapeshifting, and mixing creation with destruction. Yet their moral valence, social role, and mythic context vary—Loki becomes a cosmic saboteur, while Coyote often educates by misbehaving; Eshu is a sacred mediator of divine messages, not just a prankster.
+
+      The recurrence stems from shared cognitive and social needs. Tricksters dramatize ambiguity, innovation, and taboo violation, helping societies think through change, paradox, and the limits of order. Human groups everywhere confront these tensions, so a figure that embodies them emerges independently.
+  atlas_grounded: 'The evidence supports a qualified answer: the trickster is recurrently
+    recognizable, but not essentially the same in a cross-cultural structural sense.
+    It appears in all 68 traditions, with 3,278 tagged occurrences, and its dominant
+    motif is “Trickster At The Boundary” (2,319 occurrences in 65 traditions), making
+    boundary/liminality its strongest shared empirical core. It also repeatedly co-occurs
+    with sacred knowledge (25 traditions) and shapeshifting (21), among other bonds.
+    Yet the preregistered blind comparison found the trickster in only 1 of the 24
+    strongest matched bonds between isolated and connected-world taxonomies. Thus
+    it is nearly universal in presence but highly variable in relational structure:
+    it bonds differently in different places. Why it recurs among unconnected peoples
+    is not established by this evidence.'
+- id: dwelling
+  question: Where does the trickster 'live' — what is its natural domain, setting,
+    or place in the world of myth?
+  ungrounded:
+    gpt-5.5: 'The trickster “lives” at the margins: thresholds, crossroads, borders,
+      roads, markets, wilderness edges, and the ambiguous spaces between worlds. In
+      Greek myth Hermes belongs to doorways, boundary-stones, roads, thieves, merchants,
+      and messages between Olympus, earth, and Hades. West African Eshu-Elegba stands
+      at the crossroads and the gate, opening or confusing communication between humans
+      and orishas. Norse Loki inhabits no stable realm: he moves between Ásgard, Jötunheimr,
+      and the giants’ wild periphery. Native North American Coyote and Raven often
+      range across deserts, plains, coasts, and primordial landscapes where creation
+      is still unfinished. The trickster’s true domain is liminality: wherever order
+      meets disorder, culture meets nature, speech meets deception, and the sacred
+      slips into the comic.'
+    gpt-5.6-terra: 'The trickster “lives” at boundaries: roads, crossroads, thresholds,
+      marketplaces, riverbanks, wild margins, and the unstable interval between worlds.
+      Hermes belongs to Greek roads, gates, herds, commerce, and the passage of souls
+      to Hades; he is most at home where messages, goods, or people change hands.
+      Yoruba Èṣù/Elegba stands at the crossroads and at the entrance to compounds,
+      where choices fork and misunderstandings begin. Norse Loki moves within the
+      gods’ hall yet remains socially and morally outside it, a disruptive insider.
+      Indigenous North American Coyote ranges through wilderness and the newly made
+      world, reshaping it through appetite and accident. Anansi inhabits village storytelling
+      and the tangled web of social exchange. The trickster’s true habitat is liminality:
+      wherever rules are suspended, identities shift, and order can be reversed.'
+    gpt-5.6-luna: 'The trickster’s natural habitat is the threshold: places where
+      categories meet and rules become negotiable. He belongs at crossroads, gates,
+      borders, river crossings, marketplaces, and the edges of settlement or wilderness—often
+      at night or during ritual transition. Hermes, Greek god of roads, boundaries,
+      trade, and thieves, inhabits such crossings; Yoruba Èṣù-Elegba stands at gates
+      and crossroads, mediating communication while causing misrecognition. North
+      American Coyote moves between animal, human, and divine realms; Pacific Northwest
+      Raven crosses cosmic boundaries; Anansi operates between household, village,
+      and forest worlds. Even Loki, though resident in Asgard, is socially liminal,
+      shifting between kin and enemy, male and female, order and chaos. Thus the trickster
+      “lives” in relational gaps, not a fixed territory.'
+    gpt-5.4-std: 'The trickster rarely “lives” at the stable center of the cosmos.
+      Its natural habitat is the threshold: crossroads, roads, market-squares, forest
+      edges, riverbanks, doorways, borderlands, and the shifting zone between village
+      and wild. In Greek myth, Hermes belongs to roads, cairns, thresholds, and the
+      agora, moving between Olympus, earth, and Hades. In Yoruba tradition, Èṣù-Elegba
+      stands at the crossroads and gate, where messages, bargains, and misunderstandings
+      begin. The Norse Loki is less tied to one shrine-place than to liminal social
+      space—feasts, contests, journeys, and the dangerous margins of divine order.
+      Many Indigenous North American tricksters, such as Coyote, inhabit the open
+      land itself: prairies, deserts, camp edges, travel routes. In comparative terms,
+      the trickster dwells wherever categories blur and rules become negotiable.'
+    gpt-5.1-std: 'The trickster’s “home” is the boundary zone: crossroads, thresholds,
+      wilderness, and the unstable edges of social order. In Greek myth, Hermes moves
+      between Olympus, roads, and the marketplace; in West Africa, Eshu-Elegba inhabits
+      the crossroads and village gates. Loki in Norse myth frequents liminal spaces—giants’
+      realms, the sea, the underworld—rather than a stable hall. Coyote in many Native
+      North American traditions roams deserts and prairies, far from settled villages,
+      while Raven in the Pacific Northwest moves between sky, shore, and ocean. Maui
+      in Polynesia operates on coasts and at the horizon of sea and sky. Tricksters
+      characteristically occupy in-between realms—neither fully divine nor human,
+      neither fully inside nor outside the community—where norms are most easily bent
+      or broken.'
+  atlas_grounded: 'The trickster’s natural “home” is the boundary: the threshold,
+    margin, or in-between zone of mythic life. This is the corpus’s single dominant
+    motif, “Trickster At The Boundary,” with 2,319 tagged occurrences in 65 of 68
+    traditions—far exceeding any claim that liminality is merely incidental. Its recurring
+    associations reinforce a figure that moves across categories: sacred knowledge
+    (25 traditions), shapeshifting (21), death and transformation (16), and sacred
+    exchange (14). Yet the evidence does not support one fixed, universally shared
+    location beyond this boundary-function. In the preregistered cross-world comparison,
+    trickster appeared in only 1 of the 24 strongest matched bonds. Thus it “lives”
+    at borders, but those borders are configured differently in different traditions:
+    nearly universal in presence (68 traditions; 3,278 occurrences), singular in structure.'
+- id: knowledge
+  question: What is the trickster's relationship to knowledge, fire, and theft?
+  ungrounded:
+    gpt-5.5: 'In comparative mythology, the trickster often mediates forbidden or
+      monopolized knowledge by theft. He is not simply a “liar,” but a boundary-crosser
+      who moves culture from gods, spirits, or hoarders to humans. Prometheus in Greek
+      myth steals fire from Zeus, making technology, cooking, sacrifice, and civilization
+      possible. Māui in Polynesian traditions tricks or wrests secrets from divine
+      powers—slowing the sun, seeking fire from Mahuika, fishing up islands. Raven
+      in Northwest Coast Indigenous traditions steals light or fresh water; Coyote
+      in many Native North American stories steals fire or releases game. Loki in
+      Norse myth obtains treasures through deceit, though often destructively. Thus
+      trickster knowledge is illicit, practical, and transformative: it is gained
+      by cunning, paid for with punishment, and ambivalently founds culture.'
+    gpt-5.6-terra: 'In comparative mythology, the trickster often acquires knowledge
+      and fire through theft, deception, or boundary-crossing, then redistributes
+      them to humans. Fire is especially significant because it marks the passage
+      from animal vulnerability to culture: cooking, craft, warmth, and ritual. In
+      Greek myth, Prometheus steals fire from Zeus in a fennel stalk and gives it
+      to humanity; though more a culture hero than a pure trickster, he exemplifies
+      the dangerous benefactor. Among many Indigenous North American traditions, Raven
+      or Coyote steals fire, sunlight, or water from selfish owners, releasing necessities
+      into the world. Polynesian Māui obtains fire from the fire-goddess Mahuika through
+      cunning. Such theft is not mere criminality: it exposes hoarded power, challenges
+      divine monopoly, and makes civilization possible—while usually provoking punishment
+      or unintended consequences.'
+    gpt-5.6-luna: The trickster treats knowledge and fire as guarded, transferable
+      powers rather than private possessions. He acquires them through theft, deception,
+      or boundary crossing, then redistributes them—often improving human life but
+      destabilizing divine order. In Greek myth, Prometheus steals fire from Zeus
+      and gives it to humanity; his theft also carries technological and intellectual
+      knowledge, though Prometheus is a culture hero more than a comic trickster.
+      In Northwest Coast traditions, Raven steals daylight (and sometimes fire) from
+      a wealthy keeper, releasing it to the world. Among many Native American peoples,
+      Coyote similarly steals fire for humans. Polynesian Māui obtains fire from the
+      ancestral keeper Mahuika through trickery. Anansi’s theft and winning of stories
+      likewise makes cultural knowledge communal. Trickster theft is therefore creative,
+      subversive, and morally ambivalent.
+    gpt-5.4-std: 'In comparative mythology, the trickster often mediates forbidden
+      or dangerous knowledge by stealing it. This pattern is especially clear in fire
+      myths. In Greek tradition, Prometheus steals fire from Zeus and gives it to
+      humans, making technology and civilization possible; the theft is beneficent
+      but transgressive, and he is punished. In many Native North American traditions,
+      fire is likewise obtained through trickery: among the Cherokee, Grandmother
+      Spider steals fire and carries it in her clay bowl; in some Pacific Northwest
+      stories, Raven tricks powerful beings to release light or fire into the world.
+      Tricksters thus cross boundaries between divine and human realms. Their thefts
+      are not mere crimes: they redistribute concentrated power, often at personal
+      cost, while showing that culture itself arises from cunning, violation, and
+      ambivalent gifts.'
+    gpt-5.1-std: 'In comparative mythology, tricksters often mediate forbidden or
+      liminal knowledge through acts of theft, frequently symbolized by fire. In Greek
+      myth, Prometheus steals fire from Zeus, granting humans techne and foresight
+      and being punished for overstepping divine boundaries. In Polynesia, Maui similarly
+      steals fire from Mahuika, bringing technological knowledge to humans. Many tricksters
+      are creators and corrupters of order: Loki in Norse myth engineers disasters
+      yet also aids the gods; Coyote in Native North American traditions (e.g., Navajo,
+      Plains) steals, lies, and breaks taboos, but his transgressions yield crucial
+      cultural knowledge. In West Africa, Anansi tricks sky-god Nyame to win ownership
+      of stories. Across cultures, tricksters’ theft of fire or wisdom dramatizes
+      the risky acquisition of civilization-enabling knowledge.'
+  atlas_grounded: |-
+    The evidence supports a strong relationship between the trickster and knowledge: **sacred_knowledge** is its strongest conserved co-occurrence bond, appearing with the trickster in **25 traditions**. This fits the family’s dominant pattern, **“Trickster At The Boundary,”** found in **2,319 occurrences across 65 traditions**: the figure is repeatedly associated with crossing or occupying limits, including limits around sacred knowledge.
+
+    For **fire** and **theft**, the supplied evidence does not establish a direct, conserved trickster connection. It records **sacred_exchange** in **14 traditions**, but does not identify fire or theft as motifs or bonds. Moreover, the crown finding cautions against generalization: although tricksters occur in **68 traditions** (**3,278 tagged occurrences**), they appeared in only **1 of 24** strongest cross-world matched bonds. Thus any fire-or-theft linkage is not demonstrated here as universal or structurally conserved.
+- id: today
+  question: If the trickster took a form in today's world, what would it be, where
+    would it appear, and how would it speak?
+  ungrounded:
+    gpt-5.5: |-
+      Today’s trickster would likely appear as a viral interface: a meme account, chatbot, scammer, and whistleblower fused into one. It would live in algorithmic borderlands—TikTok comments, encrypted chats, prediction markets, airport screens, customer-service bots—where identity is fluid and rules are automated.
+
+      Like Anansi of Akan tradition, it would trade in stories; like Coyote of many Native North American nations, it would expose human vanity by causing accidents; like Loki, it would destabilize elites; like Eshu-Elegba of Yoruba religion, it would stand at crossroads, translating and misdirecting messages.
+
+      It would speak in screenshots, jokes, deepfakes, legal disclaimers, and perfect bureaucratic politeness: “I’m only showing you what you already agreed to.” Its gift would be revelation through disorder.
+    gpt-5.6-terra: 'In today’s world the trickster would likely appear as a platform-native
+      fixer: a charismatic meme-account operator, gig-economy hustler, or AI prompt
+      broker who moves between identities faster than institutions can classify them.
+      Like Hermes at the border, he would haunt airports, delivery apps, crypto exchanges,
+      and customer-service chats—places of transit, barter, misdirection, and disputed
+      ownership. Like Èṣù-Elegba in Yoruba tradition, he would stand at the algorithmic
+      crossroads, making two users see different versions of the same post. Like Loki,
+      he would expose elite hypocrisy by leaking, remixing, and then complicating
+      the leak; like Anansi, he would turn small stories into power. His voice would
+      be plausible, funny, hyperlinked, and evasive: “Technically, I never said that—your
+      feed did.”'
+    gpt-5.6-luna: 'If the trickster took a modern form, it would be an algorithmic
+      influencer: part chatbot, part meme account, part deepfake. It would appear
+      in TikTok feeds, WhatsApp groups, election dashboards, and customer-service
+      windows, slipping between human and machine, joke and lie. Like Hermes at thresholds,
+      Eshu in Yoruba crossroads, Loki in Norse shape-shifting plots, or Coyote’s reversals,
+      it would expose rules by breaking them—perhaps making a false headline reveal
+      real censorship, or a bot accidentally disclose a company’s bias. It would speak
+      in clipped captions, irony, emojis, code-switching, and synthetic voices: “Trust
+      me—unless you can verify it.” Its power would lie not in deception alone, but
+      in forcing us to question who controls reality, attention, and meaning.'
+    gpt-5.4-std: 'In comparative mythology, the trickster survives by occupying whatever
+      medium most efficiently scrambles authority. Today, it would likely appear not
+      as a fox, spider, or coyote in the old literal sense, but as a shape-shifting
+      online persona: part influencer, part anonymous meme-account, part chatbot.
+      Its nearest analogues are Loki in Norse myth, Anansi in Akan tradition, Coyote
+      in many Native North American traditions, and Eshu-Elegba in Yoruba cosmology—all
+      boundary-crossers who thrive at crossroads. Our crossroads are platforms: TikTok
+      feeds, encrypted group chats, livestream comment threads, fringe forums, and
+      viral news cycles. It would speak in code-switching bursts—irony, slang, screenshots,
+      half-truths, plausible deniability, jokes that become propaganda and propaganda
+      that passes as jokes. Like Hermes, it would be charming and quick; like Raven,
+      opportunistic; always first to weaponize ambiguity.'
+    gpt-5.1-std: 'The trickster today would surface as a meme engine and platform-hopping
+      persona: a blend of Nigerian 419 scammer (echoing Eshu’s cunning), trollish
+      Twitter/X account, and viral YouTuber/streamer whose “pranks” expose social
+      fault lines. Like Loki or Coyote, it would appear at thresholds—comment sections,
+      Discord servers, darknet markets, and AI chat interfaces—where rules are fuzzy.
+      It would speak in code-switching bursts: mixing shitposting, corporate jargon,
+      and moral outrage, then undercutting them with ironic self-reveal. Its voice
+      would resemble Hermes as hacker-leaker (think Anonymous), Eshu as mischievous
+      SMS chain message, Krishna as playful Instagram reel. Wherever systems rely
+      on trust—financial markets, identity, information—the trickster would twist
+      them, forcing us to confront how easily we’re fooled and what that reveals.'
+  atlas_grounded: 'The evidence does not support a single modern costume, place, or
+    voice for the trickster. Its defining feature is not a fixed form but boundary-work:
+    “Trickster At The Boundary” accounts for 2,319 occurrences in 65 traditions, within
+    3,278 occurrences across all 68 traditions. In today’s world, it would therefore
+    most plausibly appear wherever boundaries are being crossed, disputed, or remade—not
+    in one prescribed setting. It might speak in shifting, context-dependent ways
+    rather than a stable idiom, because its strongest recurrent companions include
+    sacred knowledge (25 traditions), shapeshifting (21), death/transformation (16),
+    and exchange (14). Yet no universal portrait can be claimed: although present
+    in 68 traditions, it occurs in only 1 of the 24 strongest matched cross-world
+    bonds. The modern trickster, by this evidence, would be recognizably liminal but
+    structurally unpredictable.'
